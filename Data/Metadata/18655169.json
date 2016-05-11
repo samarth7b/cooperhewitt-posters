@@ -1,0 +1,167 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": 1989, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": "offset lithograph on heavy white paper", 
+        "tms:id": "202554", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/49888_cd548d948275390b_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "49888"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/49888_cd548d948275390b_b.jpg", 
+                    "width": 1024, 
+                    "height": 792, 
+                    "is_primary": "1", 
+                    "image_id": "49888"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/49888_cd548d948275390b_d.gif", 
+                    "width": 320, 
+                    "height": 248, 
+                    "is_primary": "1", 
+                    "image_id": "49888"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/49888_cd548d948275390b_z.jpg", 
+                    "width": 640, 
+                    "height": 495, 
+                    "is_primary": "1", 
+                    "image_id": "49888"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/49888_cd548d948275390b_n.jpg", 
+                    "width": 320, 
+                    "height": 248, 
+                    "is_primary": "1", 
+                    "image_id": "49888"
+                }
+            }, 
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/268896_5ad68b04e4a72266_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "0", 
+                    "image_id": "268896"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/268896_5ad68b04e4a72266_b.jpg", 
+                    "width": 1024, 
+                    "height": 801, 
+                    "is_primary": "0", 
+                    "image_id": "268896"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/268896_5ad68b04e4a72266_d.gif", 
+                    "width": 320, 
+                    "height": 250, 
+                    "is_primary": "0", 
+                    "image_id": "268896"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/268896_5ad68b04e4a72266_z.jpg", 
+                    "width": 640, 
+                    "height": 500, 
+                    "is_primary": "0", 
+                    "image_id": "268896"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/268896_5ad68b04e4a72266_n.jpg", 
+                    "width": 320, 
+                    "height": 250, 
+                    "is_primary": "0", 
+                    "image_id": "268896"
+                }
+            }
+        ], 
+        "id": "18655169", 
+        "has_no_known_copyright": null, 
+        "woe:country_name": "United States", 
+        "dimensions": "43.2 x 55.9 cm (17 x 22 in.)", 
+        "title": "Poster, The Master Series: Milton Glaser, 1989", 
+        "provenance": "Milton Glaser", 
+        "participants": [
+            {
+                "person_name": "School of Visual Arts Press, Ltd.", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236661/", 
+                "role_id": "35236661", 
+                "role_name": "Publisher", 
+                "person_date": "", 
+                "role_display_name": "Published by", 
+                "person_id": "51677589", 
+                "person_url": "https://collection.cooperhewitt.org/people/51677589/"
+            }, 
+            {
+                "person_name": "Karin Zonis", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35352245/", 
+                "role_id": "35352245", 
+                "role_name": "Cataloguer", 
+                "person_date": "", 
+                "role_display_name": "Catalogued by", 
+                "person_id": "51676457", 
+                "person_url": "https://collection.cooperhewitt.org/people/51676457/"
+            }, 
+            {
+                "person_name": "Milton Glaser", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "American, b. 1929", 
+                "role_display_name": "Designed by", 
+                "person_id": "18042107", 
+                "person_url": "https://collection.cooperhewitt.org/people/18042107/"
+            }, 
+            {
+                "person_name": "Milton Glaser", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35351535/", 
+                "role_id": "35351535", 
+                "role_name": "Donor", 
+                "person_date": "American, b. 1929", 
+                "role_display_name": "Donated by", 
+                "person_id": "18042107", 
+                "person_url": "https://collection.cooperhewitt.org/people/18042107/"
+            }
+        ], 
+        "decade": "1980", 
+        "label_text": null, 
+        "woe:country": "23424977", 
+        "dimensions_raw": {
+            "width": [
+                "55.90", 
+                "centimeters"
+            ], 
+            "height": [
+                "43.20", 
+                "centimeters"
+            ]
+        }, 
+        "department_id": "35347493", 
+        "title_raw": "The Master Series: Milton Glaser", 
+        "justification": null, 
+        "media_id": "35520281", 
+        "description": "Poster depicting open sketchbook on gray background. Sketchbook open to image of six green and red elongated tomatoes on white paper with inscription at the bottom in black: April 26 The San Mazano Tomato. Upper left, in orange text: The Master Series: Milton Glaser; in yellow, upper margin: Second in a series of exhibitions / honoring the great / visual communicators of our time; [next paragraph:] October 2 through October 21, 1989 / Reception: Monday, October 2, 6 to 8 pm / Museum hours: Monday through Thursday, 9am to 8pm / Friday, 9am to 4:30pm; [next paragraph:] Visual Arts Museum / 209 East 23 Street / New York, N.Y. 10010 / Guest Curator: Silas Rhodes.", 
+        "creditline": "Gift of Milton Glaser", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "1989", 
+        "url": "https://collection.cooperhewitt.org/objects/18655169/", 
+        "type": "poster", 
+        "accession_number": "1997-28-6", 
+        "year_end": 1989, 
+        "signed": null, 
+        "inscribed": "Imprinted in white, lower left: ©COPYRIGHT 1989 SCHOOL OF VISUAL ARTS PRESS, LTD.", 
+        "period_id": null, 
+        "year_acquired": "1997", 
+        "woe:country_id": "23424977"
+    }
+}

@@ -1,0 +1,129 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": 1990, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": "lithograph on paper", 
+        "tms:id": "197687", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/224014_c536832cff183a6d_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "0", 
+                    "image_id": "224014"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/224014_c536832cff183a6d_b.jpg", 
+                    "width": 664, 
+                    "height": 1024, 
+                    "is_primary": "0", 
+                    "image_id": "224014"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/224014_c536832cff183a6d_d.gif", 
+                    "width": 208, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "224014"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/224014_c536832cff183a6d_z.jpg", 
+                    "width": 415, 
+                    "height": 640, 
+                    "is_primary": "0", 
+                    "image_id": "224014"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/224014_c536832cff183a6d_n.jpg", 
+                    "width": 208, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "224014"
+                }
+            }
+        ], 
+        "id": "18645567", 
+        "has_no_known_copyright": null, 
+        "dimensions": "87 × 55.3 cm (34 1/4 × 21 3/4 in.)", 
+        "title": "Poster, MAMA!, 1990", 
+        "provenance": "Steven Heller and Karrie Jacobs; 1993: acquired by Museum", 
+        "participants": [
+            {
+                "person_name": "Karrie Jacobs", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35351535/", 
+                "role_id": "35351535", 
+                "role_name": "Donor", 
+                "person_date": "", 
+                "role_display_name": "Donated by", 
+                "person_id": "18056647", 
+                "person_url": "https://collection.cooperhewitt.org/people/18056647/"
+            }, 
+            {
+                "person_name": "Steven Heller", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35351535/", 
+                "role_id": "35351535", 
+                "role_name": "Donor", 
+                "person_date": "American, b. 1950", 
+                "role_display_name": "Donated by", 
+                "person_id": "18041397", 
+                "person_url": "https://collection.cooperhewitt.org/people/18041397/"
+            }, 
+            {
+                "person_name": "Megan L. Smith", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35352245/", 
+                "role_id": "35352245", 
+                "role_name": "Cataloguer", 
+                "person_date": "", 
+                "role_display_name": "Catalogued by", 
+                "person_id": "18047443", 
+                "person_url": "https://collection.cooperhewitt.org/people/18047443/"
+            }, 
+            {
+                "person_name": "LSA", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35352245/", 
+                "role_id": "35352245", 
+                "role_name": "Cataloguer", 
+                "person_date": "", 
+                "role_display_name": "Catalogued by", 
+                "person_id": "18048737", 
+                "person_url": "https://collection.cooperhewitt.org/people/18048737/"
+            }
+        ], 
+        "decade": "1990", 
+        "label_text": null, 
+        "woe:country": null, 
+        "dimensions_raw": {
+            "width": [
+                "55.30", 
+                "centimeters"
+            ], 
+            "height": [
+                "87.00", 
+                "centimeters"
+            ]
+        }, 
+        "department_id": "35347493", 
+        "title_raw": "MAMA!", 
+        "justification": null, 
+        "media_id": "35419317", 
+        "description": "Small girl with arms raised towards adult hands; in Russian(?)", 
+        "creditline": "Gift of Steven Heller and Karrie Jacobs", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "1990", 
+        "url": "https://collection.cooperhewitt.org/objects/18645567/", 
+        "type": "poster", 
+        "accession_number": "1993-53-10", 
+        "year_end": 1990, 
+        "signed": null, 
+        "inscribed": "Imprinted at lower left: 7 lines in Russian(?)", 
+        "period_id": null, 
+        "year_acquired": "1993", 
+        "woe:country_id": null
+    }
+}

@@ -1,0 +1,157 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": 1994, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": "color screenprint on paper", 
+        "tms:id": "200432", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/12193_fedd02b69e05b4f4_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "12193"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/12193_fedd02b69e05b4f4_b.jpg", 
+                    "width": 688, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "12193"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/12193_fedd02b69e05b4f4_d.gif", 
+                    "width": 215, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "12193"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/12193_fedd02b69e05b4f4_z.jpg", 
+                    "width": 430, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "12193"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/12193_fedd02b69e05b4f4_n.jpg", 
+                    "width": 215, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "12193"
+                }
+            }, 
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/223064_567a45cd8256619e_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "0", 
+                    "image_id": "223064"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/223064_567a45cd8256619e_b.jpg", 
+                    "width": 677, 
+                    "height": 1024, 
+                    "is_primary": "0", 
+                    "image_id": "223064"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/223064_567a45cd8256619e_d.gif", 
+                    "width": 212, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "223064"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/223064_567a45cd8256619e_z.jpg", 
+                    "width": 423, 
+                    "height": 640, 
+                    "is_primary": "0", 
+                    "image_id": "223064"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/223064_567a45cd8256619e_n.jpg", 
+                    "width": 212, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "223064"
+                }
+            }
+        ], 
+        "id": "18650993", 
+        "has_no_known_copyright": null, 
+        "woe:country_name": "United States", 
+        "dimensions": "66.2 x 43 cm (26 1/16 x 16 15/16 in.)", 
+        "title": "Poster, Pantera Sepultura Prong, 1994", 
+        "provenance": "Lee Bolton", 
+        "participants": [
+            {
+                "person_name": "Lee Bolton", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35351535/", 
+                "role_id": "35351535", 
+                "role_name": "Donor", 
+                "person_date": "1967", 
+                "role_display_name": "Donated by", 
+                "person_id": "18043601", 
+                "person_url": "https://collection.cooperhewitt.org/people/18043601/"
+            }, 
+            {
+                "person_name": "TM", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35352245/", 
+                "role_id": "35352245", 
+                "role_name": "Cataloguer", 
+                "person_date": "", 
+                "role_display_name": "Catalogued by", 
+                "person_id": "18048319", 
+                "person_url": "https://collection.cooperhewitt.org/people/18048319/"
+            }, 
+            {
+                "person_name": "Lee Bolton", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "1967", 
+                "role_display_name": "Designed by", 
+                "person_id": "18043601", 
+                "person_url": "https://collection.cooperhewitt.org/people/18043601/"
+            }
+        ], 
+        "decade": "1990", 
+        "label_text": null, 
+        "woe:country": "23424977", 
+        "dimensions_raw": {
+            "width": [
+                "43.00", 
+                "centimeters"
+            ], 
+            "height": [
+                "66.20", 
+                "centimeters"
+            ]
+        }, 
+        "department_id": "35347493", 
+        "title_raw": "Pantera Sepultura Prong", 
+        "justification": null, 
+        "media_id": "35520173", 
+        "description": "Poster for concert on July 31, 1994, at the Astroarena. Six color screenprint: on top of background of blue and orange vertical stripes, illustration of a red and purple racing car whose front end is rearing up, forming an image of an open, fanged jaw with forked tongue emerging. Headline is inset in black oval on top third of sheet: THE COWBOYS FROM HELL! / PANTERA / SEPULTURA / PRONG; lower section: ASTROARENA / ALL TICKETS AT TICKETMASTERS / CHARGE BY PHONE 713 629 3700  SUNDAY / JULY 31.", 
+        "creditline": "Gift of Lee Bolton", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "1994", 
+        "url": "https://collection.cooperhewitt.org/objects/18650993/", 
+        "type": "poster", 
+        "accession_number": "1995-21-1", 
+        "year_end": 1994, 
+        "signed": "Signed in black text, lower right: Bolton 94", 
+        "inscribed": null, 
+        "period_id": null, 
+        "year_acquired": "1995", 
+        "woe:country_id": "23424977"
+    }
+}

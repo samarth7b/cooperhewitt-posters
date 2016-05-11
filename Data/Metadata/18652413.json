@@ -1,0 +1,177 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": 1993, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": "screenprint on wove paper", 
+        "tms:id": "201150", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/81531_6df1aab4b6a1d49d_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "81531"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/81531_6df1aab4b6a1d49d_b.jpg", 
+                    "width": 727, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "81531"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/81531_6df1aab4b6a1d49d_d.gif", 
+                    "width": 227, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "81531"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/81531_6df1aab4b6a1d49d_z.jpg", 
+                    "width": 454, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "81531"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/81531_6df1aab4b6a1d49d_n.jpg", 
+                    "width": 227, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "81531"
+                }
+            }, 
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/268559_83a93fa2c53105ae_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "0", 
+                    "image_id": "268559"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/268559_83a93fa2c53105ae_b.jpg", 
+                    "width": 740, 
+                    "height": 1024, 
+                    "is_primary": "0", 
+                    "image_id": "268559"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/268559_83a93fa2c53105ae_d.gif", 
+                    "width": 231, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "268559"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/268559_83a93fa2c53105ae_z.jpg", 
+                    "width": 462, 
+                    "height": 640, 
+                    "is_primary": "0", 
+                    "image_id": "268559"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/268559_83a93fa2c53105ae_n.jpg", 
+                    "width": 231, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "268559"
+                }
+            }
+        ], 
+        "id": "18652413", 
+        "has_no_known_copyright": null, 
+        "woe:country_name": "France", 
+        "dimensions": "84.1 x 59.4 cm (33 1/8 x 23 3/8 in.)", 
+        "title": "Poster, Images pour la lutte contre le sida (Images for the fight against AIDS), 1993", 
+        "provenance": "1995: acquired by Museum", 
+        "participants": [
+            {
+                "person_name": "Artis Association", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236667/", 
+                "role_id": "35236667", 
+                "role_name": "Client", 
+                "person_date": "Paris, France", 
+                "role_display_name": "Client:", 
+                "person_id": "68777471", 
+                "person_url": "https://collection.cooperhewitt.org/people/68777471/"
+            }, 
+            {
+                "person_name": "Imagenes Contra El Sida", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35352249/", 
+                "role_id": "35352249", 
+                "role_name": "Vendor", 
+                "person_date": "", 
+                "role_display_name": "Purchased from", 
+                "person_id": "18041725", 
+                "person_url": "https://collection.cooperhewitt.org/people/18041725/"
+            }, 
+            {
+                "person_name": "Graficaza", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236673/", 
+                "role_id": "35236673", 
+                "role_name": "Printer", 
+                "person_date": "France, founded 1983", 
+                "role_display_name": "Printed by", 
+                "person_id": "51865265", 
+                "person_url": "https://collection.cooperhewitt.org/people/51865265/"
+            }, 
+            {
+                "person_name": "General Exhibitions Funds", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35352247/", 
+                "role_id": "35352247", 
+                "role_name": "Fund", 
+                "person_date": "", 
+                "role_display_name": "Fund:", 
+                "person_id": "18049091", 
+                "person_url": "https://collection.cooperhewitt.org/people/18049091/"
+            }, 
+            {
+                "person_name": "Tibor Kalman", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "Hungarian and American, 1949 - 1999", 
+                "role_display_name": "Designed by", 
+                "person_id": "18041523", 
+                "person_url": "https://collection.cooperhewitt.org/people/18041523/"
+            }
+        ], 
+        "decade": "1990", 
+        "label_text": null, 
+        "woe:country": "23424819", 
+        "dimensions_raw": {
+            "width": [
+                "59.40", 
+                "centimeters"
+            ], 
+            "height": [
+                "84.10", 
+                "centimeters"
+            ]
+        }, 
+        "department_id": "35347493", 
+        "title_raw": "Images pour la lutte contre le sida (Images for the fight against AIDS)", 
+        "justification": null, 
+        "media_id": "35399029", 
+        "description": "On orange ground, a condom shaped into an animal.", 
+        "creditline": "Museum purchase from General Exhibitions Funds", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "1993", 
+        "url": "https://collection.cooperhewitt.org/objects/18652413/", 
+        "type": "poster", 
+        "accession_number": "1995-86-6", 
+        "year_end": 1993, 
+        "signed": null, 
+        "inscribed": "Printed in white ink, right edge: images pour la lutte contre la sida (Images for the fight against AIDS) artis serigraphie graficaza - france", 
+        "period_id": null, 
+        "year_acquired": "1995", 
+        "woe:country_id": "23424819"
+    }
+}

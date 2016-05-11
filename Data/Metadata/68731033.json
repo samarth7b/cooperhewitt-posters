@@ -1,0 +1,147 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": 2010, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": "offset lithograph on paper", 
+        "tms:id": "277452", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/95686_d17c78fcc7e011e4_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "95686"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/95686_d17c78fcc7e011e4_b.jpg", 
+                    "width": 726, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "95686"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/95686_d17c78fcc7e011e4_d.gif", 
+                    "width": 227, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "95686"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/95686_d17c78fcc7e011e4_z.jpg", 
+                    "width": 454, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "95686"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/95686_d17c78fcc7e011e4_n.jpg", 
+                    "width": 227, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "95686"
+                }
+            }, 
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/94793_769d0e6297d46abc_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "0", 
+                    "image_id": "94793"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/94793_769d0e6297d46abc_b.jpg", 
+                    "width": 726, 
+                    "height": 1024, 
+                    "is_primary": "0", 
+                    "image_id": "94793"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/94793_769d0e6297d46abc_d.gif", 
+                    "width": 227, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "94793"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/94793_769d0e6297d46abc_z.jpg", 
+                    "width": 454, 
+                    "height": 640, 
+                    "is_primary": "0", 
+                    "image_id": "94793"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/94793_769d0e6297d46abc_n.jpg", 
+                    "width": 227, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "94793"
+                }
+            }
+        ], 
+        "id": "68731033", 
+        "has_no_known_copyright": null, 
+        "woe:country_name": "Switzerland", 
+        "dimensions": "H x W: 128.1 × 89.5 cm (50 7/16 × 35 1/4 in.)", 
+        "title": "Poster, Weltformat 13, 2013", 
+        "provenance": "Felix Pfäffli; August 2014: acquired new by museum", 
+        "participants": [
+            {
+                "person_name": "Weltformat Poster Festival", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236667/", 
+                "role_id": "35236667", 
+                "role_name": "Client", 
+                "person_date": "Lucerne, Switzerland", 
+                "role_display_name": "Client:", 
+                "person_id": "68775395", 
+                "person_url": "https://collection.cooperhewitt.org/people/68775395/"
+            }, 
+            {
+                "person_name": "Felix Pfäffli", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "Swiss, born 1986", 
+                "role_display_name": "Designed by", 
+                "person_id": "68735119", 
+                "person_url": "https://collection.cooperhewitt.org/people/68735119/"
+            }
+        ], 
+        "decade": "2010", 
+        "label_text": "When Pfäffli was asked to design a poster for Lucerne’s 2013 Weltformat Poster Festival, he grappled with the “strange duplication” involved in creating a poster to promote a poster show. He decided to represent multiple posters layered on top of one another as if pasted onto a wall. Rather than distress the posters by hand, he constructed the effect digitally. The metallic silver ink in the background mimics the steel walls where posters often hang outdoors in Switzerland.", 
+        "woe:country": "23424957", 
+        "dimensions_raw": {
+            "width": [
+                "128.00", 
+                "centimeters"
+            ], 
+            "height": [
+                "89.50", 
+                "centimeters"
+            ]
+        }, 
+        "department_id": "35347493", 
+        "title_raw": "Weltformat 13", 
+        "justification": "When Felix Pfäffli was asked to design a poster for Lucerne’s 2013 Weltformat Poster Festival, he says he grappled with the \"strange duplication\" of creating a poster to promote a poster show. Weltformat resolves this dilemma by contextualizing posters as objects in a specific place and time. The composition pictures multiple posters, layered on top of one another as if pasted onto a wall. Each is itself a \"strange duplication\": a simplified version of an older Pfäffli poster. The view of the posters is fragmented, as every design is visible only through the holes and tears of other layers Pfäffli recreates the appearance of weathered posters in the street. This counterintuitive approach is deliberate. He perceives \"a fight between my posters and all the other ones,\" and explains, \"[e]verybody tries to make a clean, beautiful poster. So I designed one that is already destroyed.\" Though Pfäffli simulates destruction, the surface of his poster is pristine. Rather than distress the poster by hand, he reproduces the effect digitally, in a medium liberated from the \"surprises and accidents\" of manual design. When displayed in public, Weltformat functions like a trompe l’oeil. Metallic silver ink is used in sections of the background to mimic the steel walls where posters often hang in Switzerland. Pfäffli recalls receiving emails from passersby who were tricked by the illusion. He enjoys confounding his viewers, and generating the \"déjà vu effect\" of counterfeit reality.", 
+        "media_id": "35399021", 
+        "description": "Weltformat festival poster. Sections resembling torn paper overlap with one another. Each section is printed in one of the following patterns: black with grey dots, blue rectangular stripes, and pink with maroon circle. In the bottom left corner, on a pink section, scrawled text reads: \"Welt / format / plakat / festival / 12.-20.10.13 / Luzern!\"", 
+        "creditline": "Gift of Felix Pfäffli", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "2013", 
+        "url": "https://collection.cooperhewitt.org/objects/68731033/", 
+        "type": "poster", 
+        "accession_number": "2014-30-2", 
+        "year_end": 2017, 
+        "signed": null, 
+        "inscribed": null, 
+        "period_id": null, 
+        "year_acquired": "2014", 
+        "woe:country_id": "23424957"
+    }
+}

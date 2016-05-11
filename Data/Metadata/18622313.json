@@ -1,0 +1,91 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": null, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": null, 
+        "tms:id": "185992", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/200449_1c56bde3c2afd096_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "200449"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/200449_1c56bde3c2afd096_b.jpg", 
+                    "width": 693, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "200449"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/200449_1c56bde3c2afd096_d.gif", 
+                    "width": 217, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "200449"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/200449_1c56bde3c2afd096_z.jpg", 
+                    "width": 433, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "200449"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/200449_1c56bde3c2afd096_n.jpg", 
+                    "width": 217, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "200449"
+                }
+            }
+        ], 
+        "id": "18622313", 
+        "has_no_known_copyright": null, 
+        "woe:country_name": "France", 
+        "dimensions": null, 
+        "title": "Poster (France)", 
+        "provenance": null, 
+        "participants": [
+            {
+                "person_name": "Anne Rosat", 
+                "role_url": "https://collection.cooperhewitt.org/roles/68299055/", 
+                "role_id": "68299055", 
+                "role_name": "Subject", 
+                "person_date": "1940", 
+                "role_display_name": "Subject:", 
+                "person_id": "18041909", 
+                "person_url": "https://collection.cooperhewitt.org/people/18041909/"
+            }
+        ], 
+        "decade": null, 
+        "label_text": null, 
+        "woe:country": "23424819", 
+        "dimensions_raw": null, 
+        "department_id": "35347493", 
+        "title_raw": null, 
+        "justification": null, 
+        "media_id": "35371135", 
+        "description": null, 
+        "creditline": null, 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": null, 
+        "url": "https://collection.cooperhewitt.org/objects/18622313/", 
+        "type": "poster", 
+        "accession_number": "1987-25-2", 
+        "year_end": null, 
+        "signed": null, 
+        "inscribed": null, 
+        "period_id": null, 
+        "year_acquired": "1987", 
+        "woe:country_id": "23424819"
+    }
+}

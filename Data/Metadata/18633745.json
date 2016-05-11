@@ -1,0 +1,147 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": 1980, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": "offset lithograph on paper", 
+        "tms:id": "191719", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/63861_5173eeb66115a089_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "63861"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/63861_5173eeb66115a089_b.jpg", 
+                    "width": 1024, 
+                    "height": 478, 
+                    "is_primary": "1", 
+                    "image_id": "63861"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/63861_5173eeb66115a089_d.gif", 
+                    "width": 320, 
+                    "height": 149, 
+                    "is_primary": "1", 
+                    "image_id": "63861"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/63861_5173eeb66115a089_z.jpg", 
+                    "width": 640, 
+                    "height": 299, 
+                    "is_primary": "1", 
+                    "image_id": "63861"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/63861_5173eeb66115a089_n.jpg", 
+                    "width": 320, 
+                    "height": 149, 
+                    "is_primary": "1", 
+                    "image_id": "63861"
+                }
+            }, 
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/203529_35057d21e2049c6a_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "0", 
+                    "image_id": "203529"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/203529_35057d21e2049c6a_b.jpg", 
+                    "width": 1024, 
+                    "height": 483, 
+                    "is_primary": "0", 
+                    "image_id": "203529"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/203529_35057d21e2049c6a_d.gif", 
+                    "width": 320, 
+                    "height": 151, 
+                    "is_primary": "0", 
+                    "image_id": "203529"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/203529_35057d21e2049c6a_z.jpg", 
+                    "width": 640, 
+                    "height": 302, 
+                    "is_primary": "0", 
+                    "image_id": "203529"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/203529_35057d21e2049c6a_n.jpg", 
+                    "width": 320, 
+                    "height": 151, 
+                    "is_primary": "0", 
+                    "image_id": "203529"
+                }
+            }
+        ], 
+        "id": "18633745", 
+        "has_no_known_copyright": null, 
+        "woe:country_name": "United States", 
+        "dimensions": "30.6 x 66.4 cm (12 1/16 x 26 1/8 in.)", 
+        "title": "Poster, Computer and Industrial Design (IDSA NY), 20th century", 
+        "provenance": "1990: acquired by Museum", 
+        "participants": [
+            {
+                "person_name": "Karin Zonis", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35352245/", 
+                "role_id": "35352245", 
+                "role_name": "Cataloguer", 
+                "person_date": "", 
+                "role_display_name": "Catalogued by", 
+                "person_id": "51676457", 
+                "person_url": "https://collection.cooperhewitt.org/people/51676457/"
+            }, 
+            {
+                "person_name": "Stephen Wolf", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "", 
+                "role_display_name": "Designed by", 
+                "person_id": "18051023", 
+                "person_url": "https://collection.cooperhewitt.org/people/18051023/"
+            }
+        ], 
+        "decade": "1980", 
+        "label_text": null, 
+        "woe:country": "23424977", 
+        "dimensions_raw": {
+            "width": [
+                "66.40", 
+                "centimeters"
+            ], 
+            "height": [
+                "30.60", 
+                "centimeters"
+            ]
+        }, 
+        "department_id": "35347493", 
+        "title_raw": "Computer and Industrial Design (IDSA NY)", 
+        "justification": null, 
+        "media_id": "35399021", 
+        "description": "Overall poster in light purple. On left, column of white horizontal striations, in gradation, getting whiter on left edge. In black across poster: C A [an eye on white circle with lines radiating from it] D. On right, text in a column, alternating some words in white others in black: COMPUTER / AIDED / INDUSTRIAL / DESIGN / COME ON DOWN TO A HI-RES EVE- / NING OF THREE-D VISUALIZATION / FOR INDUSTRIAL DESIGN, PRESEN- / TATIONS WILL FEATURE SYSTEMS / MANUFACTURERS AND DESIGNER/USERS DEMONSTRATING HOW / COMPUTERS CAN SUPPORT YOUR WORK. JOIN VINCENT BILOTTA OF / MISSION GRAPHICS/APPLE COMPUTER / WITH FASHION DESIGNER LUCY HARLEY, LLOYD PHILPO’T, IDSA FROM / INTERGRAPH WITH FRITZ ZABRANSKI / OF PHILIPS (NETHERLANDS), AND / RAY MILLER OF ALIAS WITH AMELIA / KENNEDY, IDSA OF LOUIS NELSON / ASSOCIATES. TUESDAY MARCH 27. / RECEPTION 6:00PM, PROGRAM 7:00. / COLGATE-PALMOLIVE, 300 PARK / AVENUE, 7TH FLOOR. RSVP TO / ADRIAN LEE, 310.2750. / [LOGO OF IDSA NY].", 
+        "creditline": null, 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "20th century", 
+        "url": "https://collection.cooperhewitt.org/objects/18633745/", 
+        "type": "poster", 
+        "accession_number": "1990-119-4", 
+        "year_end": 2000, 
+        "signed": null, 
+        "inscribed": "Printed in white, along upper right edge: Poster by Stephen Wolf Design Sponsored by Alias America, Inc./Apple Computer-Mission Graphics/Intergraph Corp. / Design narrative coordinators: Jay Crawford, IDSA/Adrian Lee, IDSA", 
+        "period_id": null, 
+        "year_acquired": "1990", 
+        "woe:country_id": "23424977"
+    }
+}

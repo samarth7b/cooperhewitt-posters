@@ -1,0 +1,195 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": "The War Production Board, who distributed this poster, aimed to increase the production of goods used during WWII. This poster emphasized the sentiment that they felt promoted comradery between home and forces abroad. The text \"you knock 'em out\" refers to the production of tanks, planes, and other military equipment back home. While, \"We'll knock 'em down\" illustrates the part the pilot played in the war. The dynamic of the poster highlights the joint effort necessary in eliminating the enemy and winning the war.", 
+        "year_start": 1942, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": "lithograph", 
+        "tms:id": "99689", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/97099_b6b6ca34818c54e9_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "97099"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/97099_b6b6ca34818c54e9_b.jpg", 
+                    "width": 735, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "97099"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/97099_b6b6ca34818c54e9_d.gif", 
+                    "width": 230, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "97099"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/97099_b6b6ca34818c54e9_z.jpg", 
+                    "width": 459, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "97099"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/97099_b6b6ca34818c54e9_n.jpg", 
+                    "width": 230, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "97099"
+                }
+            }, 
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/252487_925ce52308e20645_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "0", 
+                    "image_id": "252487"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/252487_925ce52308e20645_b.jpg", 
+                    "width": 734, 
+                    "height": 1024, 
+                    "is_primary": "0", 
+                    "image_id": "252487"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/252487_925ce52308e20645_d.gif", 
+                    "width": 229, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "252487"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/252487_925ce52308e20645_z.jpg", 
+                    "width": 458, 
+                    "height": 640, 
+                    "is_primary": "0", 
+                    "image_id": "252487"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/252487_925ce52308e20645_n.jpg", 
+                    "width": 229, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "252487"
+                }
+            }, 
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/95465_893f244b8ae454b0_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "0", 
+                    "image_id": "95465"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/95465_893f244b8ae454b0_b.jpg", 
+                    "width": 734, 
+                    "height": 1024, 
+                    "is_primary": "0", 
+                    "image_id": "95465"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/95465_893f244b8ae454b0_d.gif", 
+                    "width": 229, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "95465"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/95465_893f244b8ae454b0_z.jpg", 
+                    "width": 459, 
+                    "height": 640, 
+                    "is_primary": "0", 
+                    "image_id": "95465"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/95465_893f244b8ae454b0_n.jpg", 
+                    "width": 229, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "95465"
+                }
+            }
+        ], 
+        "id": "18612745", 
+        "has_no_known_copyright": null, 
+        "woe:country_name": "United States", 
+        "dimensions": "102 × 72.4 cm (40 3/16 × 28 1/2 in.)", 
+        "title": "Poster, You Knock 'Em Out..., 1942", 
+        "provenance": null, 
+        "participants": [
+            {
+                "person_name": "War Production Board", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236667/", 
+                "role_id": "35236667", 
+                "role_name": "Client", 
+                "person_date": "Washington D.C., USA", 
+                "role_display_name": "Client:", 
+                "person_id": "68777697", 
+                "person_url": "https://collection.cooperhewitt.org/people/68777697/"
+            }, 
+            {
+                "person_name": "U.S. Government Printing Office", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236661/", 
+                "role_id": "35236661", 
+                "role_name": "Publisher", 
+                "person_date": "Washington D.C., USA", 
+                "role_display_name": "Published by", 
+                "person_id": "68775307", 
+                "person_url": "https://collection.cooperhewitt.org/people/68775307/"
+            }, 
+            {
+                "person_name": "John Falter", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236763/", 
+                "role_id": "35236763", 
+                "role_name": "Graphic Designer", 
+                "person_date": "American, 1910 - 1982", 
+                "role_display_name": "Graphic design by", 
+                "person_id": "68775305", 
+                "person_url": "https://collection.cooperhewitt.org/people/68775305/"
+            }, 
+            {
+                "person_name": "Miss Louise Clémencon", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35351535/", 
+                "role_id": "35351535", 
+                "role_name": "Donor", 
+                "person_date": "", 
+                "role_display_name": "Donated by", 
+                "person_id": "18536605", 
+                "person_url": "https://collection.cooperhewitt.org/people/18536605/"
+            }
+        ], 
+        "decade": "1940", 
+        "label_text": null, 
+        "woe:country": "23424977", 
+        "dimensions_raw": null, 
+        "department_id": "35347493", 
+        "title_raw": "You Knock 'Em Out...", 
+        "justification": null, 
+        "media_id": "35402727", 
+        "description": "A pilot sits in his plane with the hood open looking like he's about to fly out. He is giving a thumbs-up pointing to the notches he's made on his plane. To the left of the hatch marks is a girl posed in a white bathing-suit. At the top of the poster it reads \"You knock 'em out- We'll knock 'em down\". The bottom reads \"MORE PRODUCTION\"", 
+        "creditline": "Gift of Louise Clémencon", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "1942", 
+        "url": "https://collection.cooperhewitt.org/objects/18612745/", 
+        "type": "poster", 
+        "accession_number": "1949-108-12", 
+        "year_end": 1942, 
+        "signed": null, 
+        "inscribed": "War Production Board -A7", 
+        "period_id": "35417341", 
+        "year_acquired": "1949", 
+        "woe:country_id": "23424977"
+    }
+}

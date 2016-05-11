@@ -1,0 +1,157 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": 1980, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": "offset lithograph on paper", 
+        "tms:id": "193537", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/82309_71d58f2e2324d6cd_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "82309"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/82309_71d58f2e2324d6cd_b.jpg", 
+                    "width": 683, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "82309"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/82309_71d58f2e2324d6cd_d.gif", 
+                    "width": 213, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "82309"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/82309_71d58f2e2324d6cd_z.jpg", 
+                    "width": 427, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "82309"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/82309_71d58f2e2324d6cd_n.jpg", 
+                    "width": 213, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "82309"
+                }
+            }, 
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/266939_31bcf40b132ba3df_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "0", 
+                    "image_id": "266939"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/266939_31bcf40b132ba3df_b.jpg", 
+                    "width": 703, 
+                    "height": 1024, 
+                    "is_primary": "0", 
+                    "image_id": "266939"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/266939_31bcf40b132ba3df_d.gif", 
+                    "width": 220, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "266939"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/266939_31bcf40b132ba3df_z.jpg", 
+                    "width": 439, 
+                    "height": 640, 
+                    "is_primary": "0", 
+                    "image_id": "266939"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/266939_31bcf40b132ba3df_n.jpg", 
+                    "width": 220, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "266939"
+                }
+            }
+        ], 
+        "id": "18637371", 
+        "has_no_known_copyright": null, 
+        "woe:country_name": "United States", 
+        "dimensions": "99 x 66.1 cm (39 x 26 in.)", 
+        "title": "Poster, Inside Track, 1980s", 
+        "provenance": "1991: acquired by Museum", 
+        "participants": [
+            {
+                "person_name": "William Wondriska", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35351535/", 
+                "role_id": "35351535", 
+                "role_name": "Donor", 
+                "person_date": "American, b. 1931", 
+                "role_display_name": "Donated by", 
+                "person_id": "34624575", 
+                "person_url": "https://collection.cooperhewitt.org/people/34624575/"
+            }, 
+            {
+                "person_name": "CGC", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35352245/", 
+                "role_id": "35352245", 
+                "role_name": "Cataloguer", 
+                "person_date": "", 
+                "role_display_name": "Catalogued by", 
+                "person_id": "18048417", 
+                "person_url": "https://collection.cooperhewitt.org/people/18048417/"
+            }, 
+            {
+                "person_name": "William Wondriska", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "American, b. 1931", 
+                "role_display_name": "Designed by", 
+                "person_id": "34624575", 
+                "person_url": "https://collection.cooperhewitt.org/people/34624575/"
+            }
+        ], 
+        "decade": "1980", 
+        "label_text": null, 
+        "woe:country": "23424977", 
+        "dimensions_raw": {
+            "width": [
+                "66.10", 
+                "centimeters"
+            ], 
+            "height": [
+                "99.00", 
+                "centimeters"
+            ]
+        }, 
+        "department_id": "35347493", 
+        "title_raw": "Inside Track", 
+        "justification": null, 
+        "media_id": "35399021", 
+        "description": "Image of jets \"skywriting\"; \"Imprinted in black ink across lower section of poster : INSIDE TRACK that's an Air Force F-16 naturally, in the tighter turn./ The General Dynamics figher is powered by Pratt and Whitney Aircraft F100 engine.\"", 
+        "creditline": "Gift of William Wondriska", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "1980s", 
+        "url": "https://collection.cooperhewitt.org/objects/18637371/", 
+        "type": "poster", 
+        "accession_number": "1991-69-85", 
+        "year_end": 1989, 
+        "signed": null, 
+        "inscribed": "Imprinted in black ink across lower section of poster:INSIDE TRACK that's an Air Force F-16, naturally, in the tighter turn./ The General Dynamics fighter is powered by a Pratt & Whitney Aircraft F100 engine.", 
+        "period_id": null, 
+        "year_acquired": "1991", 
+        "woe:country_id": "23424977"
+    }
+}

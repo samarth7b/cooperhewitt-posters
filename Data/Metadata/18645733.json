@@ -1,0 +1,140 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": 1989, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": "lithograph on paper", 
+        "tms:id": "197770", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/223968_25d3cfb95f37f58f_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "0", 
+                    "image_id": "223968"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/223968_25d3cfb95f37f58f_b.jpg", 
+                    "width": 674, 
+                    "height": 1024, 
+                    "is_primary": "0", 
+                    "image_id": "223968"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/223968_25d3cfb95f37f58f_d.gif", 
+                    "width": 211, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "223968"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/223968_25d3cfb95f37f58f_z.jpg", 
+                    "width": 421, 
+                    "height": 640, 
+                    "is_primary": "0", 
+                    "image_id": "223968"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/223968_25d3cfb95f37f58f_n.jpg", 
+                    "width": 211, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "223968"
+                }
+            }
+        ], 
+        "id": "18645733", 
+        "has_no_known_copyright": null, 
+        "woe:country_name": "United States", 
+        "dimensions": "86.5 × 56 cm (34 1/16 × 22 1/16 in.)", 
+        "title": "Poster, Arms Across America, 1989", 
+        "provenance": "Steven Heller and Karrie Jacobs; 1993: acquired by Museum", 
+        "participants": [
+            {
+                "person_name": "Karrie Jacobs", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35351535/", 
+                "role_id": "35351535", 
+                "role_name": "Donor", 
+                "person_date": "", 
+                "role_display_name": "Donated by", 
+                "person_id": "18056647", 
+                "person_url": "https://collection.cooperhewitt.org/people/18056647/"
+            }, 
+            {
+                "person_name": "Steven Heller", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35351535/", 
+                "role_id": "35351535", 
+                "role_name": "Donor", 
+                "person_date": "American, b. 1950", 
+                "role_display_name": "Donated by", 
+                "person_id": "18041397", 
+                "person_url": "https://collection.cooperhewitt.org/people/18041397/"
+            }, 
+            {
+                "person_name": "Megan L. Smith", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35352245/", 
+                "role_id": "35352245", 
+                "role_name": "Cataloguer", 
+                "person_date": "", 
+                "role_display_name": "Catalogued by", 
+                "person_id": "18047443", 
+                "person_url": "https://collection.cooperhewitt.org/people/18047443/"
+            }, 
+            {
+                "person_name": "LSA", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35352245/", 
+                "role_id": "35352245", 
+                "role_name": "Cataloguer", 
+                "person_date": "", 
+                "role_display_name": "Catalogued by", 
+                "person_id": "18048737", 
+                "person_url": "https://collection.cooperhewitt.org/people/18048737/"
+            }, 
+            {
+                "person_name": "Rick Bickhart", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "", 
+                "role_display_name": "Designed by", 
+                "person_id": "18043201", 
+                "person_url": "https://collection.cooperhewitt.org/people/18043201/"
+            }
+        ], 
+        "decade": "1980", 
+        "label_text": null, 
+        "woe:country": "23424977", 
+        "dimensions_raw": {
+            "width": [
+                "56.00", 
+                "centimeters"
+            ], 
+            "height": [
+                "86.50", 
+                "centimeters"
+            ]
+        }, 
+        "department_id": "35347493", 
+        "title_raw": "Arms Across America", 
+        "justification": null, 
+        "media_id": "35419317", 
+        "description": "Recto: Map of U.S.A. with identifiers for Army, Navy etc. locations; verso: key list of military facilities Produced for the War Resisters League", 
+        "creditline": "Gift of Steven Heller and Karrie Jacobs", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "1989", 
+        "url": "https://collection.cooperhewitt.org/objects/18645733/", 
+        "type": "poster", 
+        "accession_number": "1993-53-57", 
+        "year_end": 1989, 
+        "signed": null, 
+        "inscribed": "Extensive text on recto and verso concerning location of arms and facilities in U.S.A.", 
+        "period_id": null, 
+        "year_acquired": "1993", 
+        "woe:country_id": "23424977"
+    }
+}

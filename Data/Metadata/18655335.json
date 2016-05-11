@@ -1,0 +1,100 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": 1991, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": null, 
+        "tms:id": "202644", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/269029_4de3ef918da27bc4_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "269029"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/269029_4de3ef918da27bc4_b.jpg", 
+                    "width": 764, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "269029"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/269029_4de3ef918da27bc4_d.gif", 
+                    "width": 239, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "269029"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/269029_4de3ef918da27bc4_z.jpg", 
+                    "width": 477, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "269029"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/269029_4de3ef918da27bc4_n.jpg", 
+                    "width": 239, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "269029"
+                }
+            }
+        ], 
+        "id": "18655335", 
+        "has_no_known_copyright": null, 
+        "dimensions": null, 
+        "title": "Poster, Festival/Casals/de Puerto Rico [Music Festival Poster], 1991", 
+        "provenance": null, 
+        "participants": [
+            {
+                "person_name": "Rafael Rivera Rosa", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35351535/", 
+                "role_id": "35351535", 
+                "role_name": "Donor", 
+                "person_date": "American, b. 1942", 
+                "role_display_name": "Donated by", 
+                "person_id": "18051789", 
+                "person_url": "https://collection.cooperhewitt.org/people/18051789/"
+            }, 
+            {
+                "person_name": "Rafael Rivera Rosa", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35351535/", 
+                "role_id": "35351535", 
+                "role_name": "Donor", 
+                "person_date": "", 
+                "role_display_name": "Donated by", 
+                "person_id": "18050307", 
+                "person_url": "https://collection.cooperhewitt.org/people/18050307/"
+            }
+        ], 
+        "decade": "1990", 
+        "label_text": null, 
+        "woe:country": null, 
+        "dimensions_raw": null, 
+        "department_id": "35347493", 
+        "title_raw": "Festival/Casals/de Puerto Rico [Music Festival Poster]", 
+        "justification": null, 
+        "media_id": "35371135", 
+        "description": "Head of a man (Casals) within oval frame, located at juncture between arches (above a  column) - fragment of an arcade.  Image printed in terra cotta (2 tones), green, brown.", 
+        "creditline": "Gift of Rafael Rivera Rosa", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "1991", 
+        "url": "https://collection.cooperhewitt.org/objects/18655335/", 
+        "type": "poster", 
+        "accession_number": "1997-47-6", 
+        "year_end": 1991, 
+        "signed": null, 
+        "inscribed": null, 
+        "period_id": null, 
+        "year_acquired": "1997", 
+        "woe:country_id": null
+    }
+}

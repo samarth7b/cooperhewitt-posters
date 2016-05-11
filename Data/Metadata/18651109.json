@@ -1,0 +1,147 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": 1980, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": "lithograph on paper", 
+        "tms:id": "200493", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/81524_318572853b14beb0_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "81524"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/81524_318572853b14beb0_b.jpg", 
+                    "width": 750, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "81524"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/81524_318572853b14beb0_d.gif", 
+                    "width": 234, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "81524"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/81524_318572853b14beb0_z.jpg", 
+                    "width": 469, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "81524"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/81524_318572853b14beb0_n.jpg", 
+                    "width": 234, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "81524"
+                }
+            }, 
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/268531_5876092218202a07_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "0", 
+                    "image_id": "268531"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/268531_5876092218202a07_b.jpg", 
+                    "width": 761, 
+                    "height": 1024, 
+                    "is_primary": "0", 
+                    "image_id": "268531"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/268531_5876092218202a07_d.gif", 
+                    "width": 238, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "268531"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/268531_5876092218202a07_z.jpg", 
+                    "width": 475, 
+                    "height": 640, 
+                    "is_primary": "0", 
+                    "image_id": "268531"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/268531_5876092218202a07_n.jpg", 
+                    "width": 238, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "268531"
+                }
+            }
+        ], 
+        "id": "18651109", 
+        "has_no_known_copyright": null, 
+        "woe:country_name": "United States", 
+        "dimensions": "55.8 x 40.8 cm (21 15/16 x 16 1/16 in.)", 
+        "title": "Poster, How Much Do Your Children Know About AIDS?, ca. 1990", 
+        "provenance": "1995: acquired by Museum", 
+        "participants": [
+            {
+                "person_name": "Ellen Lupton", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35352249/", 
+                "role_id": "35352249", 
+                "role_name": "Vendor", 
+                "person_date": "American, b. 1963", 
+                "role_display_name": "Purchased from", 
+                "person_id": "18041185", 
+                "person_url": "https://collection.cooperhewitt.org/people/18041185/"
+            }, 
+            {
+                "person_name": "Iris Center", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35351535/", 
+                "role_id": "35351535", 
+                "role_name": "Donor", 
+                "person_date": "", 
+                "role_display_name": "Donated by", 
+                "person_id": "18041643", 
+                "person_url": "https://collection.cooperhewitt.org/people/18041643/"
+            }
+        ], 
+        "decade": "1980", 
+        "label_text": null, 
+        "woe:country": "23424977", 
+        "dimensions_raw": {
+            "width": [
+                "40.80", 
+                "centimeters"
+            ], 
+            "height": [
+                "55.80", 
+                "centimeters"
+            ]
+        }, 
+        "department_id": "35347493", 
+        "title_raw": "How Much Do Your Children Know About AIDS?", 
+        "justification": null, 
+        "media_id": "35419317", 
+        "description": "Photograph of group of children with white text: How much do your children / know about AIDS?", 
+        "creditline": "Gift of the Iris Center", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "ca. 1990", 
+        "url": "https://collection.cooperhewitt.org/objects/18651109/", 
+        "type": "poster", 
+        "accession_number": "1995-33-4", 
+        "year_end": 1995, 
+        "signed": null, 
+        "inscribed": null, 
+        "period_id": null, 
+        "year_acquired": "1995", 
+        "woe:country_id": "23424977"
+    }
+}

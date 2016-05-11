@@ -1,0 +1,91 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": 1977, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": null, 
+        "tms:id": "163370", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/254964_7ad7bb06bb99c2f3_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "254964"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/254964_7ad7bb06bb99c2f3_b.jpg", 
+                    "width": 744, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "254964"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/254964_7ad7bb06bb99c2f3_d.gif", 
+                    "width": 233, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "254964"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/254964_7ad7bb06bb99c2f3_z.jpg", 
+                    "width": 465, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "254964"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/254964_7ad7bb06bb99c2f3_n.jpg", 
+                    "width": 233, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "254964"
+                }
+            }
+        ], 
+        "id": "18504933", 
+        "has_no_known_copyright": null, 
+        "woe:country_name": "Germany", 
+        "dimensions": null, 
+        "title": "Poster, Hamberger Kunsthalle Gezeichhete Architektur, 1977", 
+        "provenance": null, 
+        "participants": [
+            {
+                "person_name": "Karel Novosad", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "", 
+                "role_display_name": "Designed by", 
+                "person_id": "68739521", 
+                "person_url": "https://collection.cooperhewitt.org/people/68739521/"
+            }
+        ], 
+        "decade": "1970", 
+        "label_text": null, 
+        "woe:country": "23424829", 
+        "dimensions_raw": null, 
+        "department_id": "35347493", 
+        "title_raw": "Hamberger Kunsthalle Gezeichhete Architektur", 
+        "justification": null, 
+        "media_id": "35371135", 
+        "description": null, 
+        "creditline": "Gift of Unknown Donor", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "1977", 
+        "url": "https://collection.cooperhewitt.org/objects/18504933/", 
+        "type": "poster", 
+        "accession_number": "1980-32-1112", 
+        "year_end": 1977, 
+        "signed": null, 
+        "inscribed": null, 
+        "period_id": null, 
+        "year_acquired": "1980", 
+        "woe:country_id": "23424829"
+    }
+}

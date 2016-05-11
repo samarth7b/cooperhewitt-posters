@@ -1,0 +1,101 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": null, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": null, 
+        "tms:id": "183186", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/268398_f9cdb7acbdb084f0_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "268398"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/268398_f9cdb7acbdb084f0_b.jpg", 
+                    "width": 836, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "268398"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/268398_f9cdb7acbdb084f0_d.gif", 
+                    "width": 261, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "268398"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/268398_f9cdb7acbdb084f0_z.jpg", 
+                    "width": 523, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "268398"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/268398_f9cdb7acbdb084f0_n.jpg", 
+                    "width": 261, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "268398"
+                }
+            }
+        ], 
+        "id": "18805771", 
+        "has_no_known_copyright": null, 
+        "woe:country_name": "United States", 
+        "dimensions": null, 
+        "title": "Poster, \"Chrome Cube\"", 
+        "provenance": null, 
+        "participants": [
+            {
+                "person_name": "Bo Ljundberg", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35351535/", 
+                "role_id": "35351535", 
+                "role_name": "Donor", 
+                "person_date": "", 
+                "role_display_name": "Donated by", 
+                "person_id": "18051463", 
+                "person_url": "https://collection.cooperhewitt.org/people/18051463/"
+            }, 
+            {
+                "person_name": "Holger Bachstrom", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35351535/", 
+                "role_id": "35351535", 
+                "role_name": "Donor", 
+                "person_date": "", 
+                "role_display_name": "Donated by", 
+                "person_id": "18051461", 
+                "person_url": "https://collection.cooperhewitt.org/people/18051461/"
+            }
+        ], 
+        "decade": null, 
+        "label_text": null, 
+        "woe:country": "23424977", 
+        "dimensions_raw": null, 
+        "department_id": "35347493", 
+        "title_raw": "\"Chrome Cube\"", 
+        "justification": null, 
+        "media_id": "35371135", 
+        "description": null, 
+        "creditline": null, 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": null, 
+        "url": "https://collection.cooperhewitt.org/objects/18805771/", 
+        "type": "poster", 
+        "accession_number": "1985-9-1", 
+        "year_end": null, 
+        "signed": null, 
+        "inscribed": null, 
+        "period_id": null, 
+        "year_acquired": "1985", 
+        "woe:country_id": "23424977"
+    }
+}

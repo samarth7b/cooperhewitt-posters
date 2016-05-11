@@ -1,0 +1,91 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": 1981, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": null, 
+        "tms:id": "177493", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/256563_9263ef0e9ed9ecc9_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "256563"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/256563_9263ef0e9ed9ecc9_b.jpg", 
+                    "width": 689, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "256563"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/256563_9263ef0e9ed9ecc9_d.gif", 
+                    "width": 215, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "256563"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/256563_9263ef0e9ed9ecc9_z.jpg", 
+                    "width": 431, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "256563"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/256563_9263ef0e9ed9ecc9_n.jpg", 
+                    "width": 215, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "256563"
+                }
+            }
+        ], 
+        "id": "18617919", 
+        "has_no_known_copyright": null, 
+        "woe:country_name": "United States", 
+        "dimensions": null, 
+        "title": "Poster, The 1981 Harbor Concerts, 1981", 
+        "provenance": "1981: acquired by Museum", 
+        "participants": [
+            {
+                "person_name": "Holly Flagg", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "", 
+                "role_display_name": "Designed by", 
+                "person_id": "18535569", 
+                "person_url": "https://collection.cooperhewitt.org/people/18535569/"
+            }
+        ], 
+        "decade": "1980", 
+        "label_text": null, 
+        "woe:country": "23424977", 
+        "dimensions_raw": null, 
+        "department_id": "35347493", 
+        "title_raw": "The 1981 Harbor Concerts", 
+        "justification": null, 
+        "media_id": "35371135", 
+        "description": null, 
+        "creditline": "Gift of Various Donors", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "1981", 
+        "url": "https://collection.cooperhewitt.org/objects/18617919/", 
+        "type": "poster", 
+        "accession_number": "1981-29-397", 
+        "year_end": 1981, 
+        "signed": null, 
+        "inscribed": null, 
+        "period_id": null, 
+        "year_acquired": "1981", 
+        "woe:country_id": "23424977"
+    }
+}

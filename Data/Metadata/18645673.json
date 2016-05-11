@@ -1,0 +1,140 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": 1970, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": "screenprint on paper", 
+        "tms:id": "197740", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/223655_2e870f90da6cfb87_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "223655"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/223655_2e870f90da6cfb87_b.jpg", 
+                    "width": 787, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "223655"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/223655_2e870f90da6cfb87_d.gif", 
+                    "width": 246, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "223655"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/223655_2e870f90da6cfb87_z.jpg", 
+                    "width": 492, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "223655"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/223655_2e870f90da6cfb87_n.jpg", 
+                    "width": 246, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "223655"
+                }
+            }
+        ], 
+        "id": "18645673", 
+        "has_no_known_copyright": null, 
+        "woe:country_name": "United States", 
+        "dimensions": "58.1 x 44.5 cm (22 7/8 x 17 1/2 in.)", 
+        "title": "Poster, Remember Vietnam, ca. 1980", 
+        "provenance": "Steven Heller and Karrie Jacobs; 1993: acquired by Museum", 
+        "participants": [
+            {
+                "person_name": "Steven Heller", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35351535/", 
+                "role_id": "35351535", 
+                "role_name": "Donor", 
+                "person_date": "American, b. 1950", 
+                "role_display_name": "Donated by", 
+                "person_id": "18041397", 
+                "person_url": "https://collection.cooperhewitt.org/people/18041397/"
+            }, 
+            {
+                "person_name": "Karrie Jacobs", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35351535/", 
+                "role_id": "35351535", 
+                "role_name": "Donor", 
+                "person_date": "", 
+                "role_display_name": "Donated by", 
+                "person_id": "18056647", 
+                "person_url": "https://collection.cooperhewitt.org/people/18056647/"
+            }, 
+            {
+                "person_name": "Megan L. Smith", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35352245/", 
+                "role_id": "35352245", 
+                "role_name": "Cataloguer", 
+                "person_date": "", 
+                "role_display_name": "Catalogued by", 
+                "person_id": "18047443", 
+                "person_url": "https://collection.cooperhewitt.org/people/18047443/"
+            }, 
+            {
+                "person_name": "LSA", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35352245/", 
+                "role_id": "35352245", 
+                "role_name": "Cataloguer", 
+                "person_date": "", 
+                "role_display_name": "Catalogued by", 
+                "person_id": "18048737", 
+                "person_url": "https://collection.cooperhewitt.org/people/18048737/"
+            }, 
+            {
+                "person_name": "Fireworks Graphics", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236659/", 
+                "role_id": "35236659", 
+                "role_name": "Distributor", 
+                "person_date": "San Francisco, California, USA", 
+                "role_display_name": "Distributed by", 
+                "person_id": "18043143", 
+                "person_url": "https://collection.cooperhewitt.org/people/18043143/"
+            }
+        ], 
+        "decade": "1970", 
+        "label_text": null, 
+        "woe:country": "23424977", 
+        "dimensions_raw": {
+            "width": [
+                "44.50", 
+                "centimeters"
+            ], 
+            "height": [
+                "58.10", 
+                "centimeters"
+            ]
+        }, 
+        "department_id": "35347493", 
+        "title_raw": "Remember Vietnam", 
+        "justification": null, 
+        "media_id": "35431679", 
+        "description": "Four airplanes flying in the sky, and in blue text: REMEMBER VIETNAM/ U.S. planes are dropping napalm and white phosphorus bombs over Salvadorean villages daily/ STOP THE AIR WAR/ SUPPORT THE FLMN/ FDR/ EL SALVADOR WILL WIN!", 
+        "creditline": "Gift of Steven Heller and Karrie Jacobs", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "ca. 1980", 
+        "url": "https://collection.cooperhewitt.org/objects/18645673/", 
+        "type": "poster", 
+        "accession_number": "1993-53-3", 
+        "year_end": 1990, 
+        "signed": null, 
+        "inscribed": "Imprinted in blue ink, lower right: FIREWORKS", 
+        "period_id": null, 
+        "year_acquired": "1993", 
+        "woe:country_id": "23424977"
+    }
+}

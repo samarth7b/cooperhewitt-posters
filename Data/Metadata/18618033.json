@@ -1,0 +1,137 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": null, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": "screenprint on paper", 
+        "tms:id": "177550", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/90318_c90795d83e6d9621_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "90318"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/90318_c90795d83e6d9621_b.jpg", 
+                    "width": 731, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "90318"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/90318_c90795d83e6d9621_d.gif", 
+                    "width": 228, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "90318"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/90318_c90795d83e6d9621_z.jpg", 
+                    "width": 457, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "90318"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/90318_c90795d83e6d9621_n.jpg", 
+                    "width": 228, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "90318"
+                }
+            }, 
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/206356_f7694003a6c899f6_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "0", 
+                    "image_id": "206356"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/206356_f7694003a6c899f6_b.jpg", 
+                    "width": 744, 
+                    "height": 1024, 
+                    "is_primary": "0", 
+                    "image_id": "206356"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/206356_f7694003a6c899f6_d.gif", 
+                    "width": 233, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "206356"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/206356_f7694003a6c899f6_z.jpg", 
+                    "width": 465, 
+                    "height": 640, 
+                    "is_primary": "0", 
+                    "image_id": "206356"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/206356_f7694003a6c899f6_n.jpg", 
+                    "width": 233, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "206356"
+                }
+            }
+        ], 
+        "id": "18618033", 
+        "has_no_known_copyright": null, 
+        "woe:country_name": "United States", 
+        "dimensions": "53.2 x 38.2 cm (20 15/16 x 15 1/16 in.)", 
+        "title": "Poster, Give Blood", 
+        "provenance": "1981: acquired by Museum", 
+        "participants": [
+            {
+                "person_name": "Ken White", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "American, 1935-1985", 
+                "role_display_name": "Designed by", 
+                "person_id": "18042357", 
+                "person_url": "https://collection.cooperhewitt.org/people/18042357/"
+            }
+        ], 
+        "decade": null, 
+        "label_text": null, 
+        "woe:country": "23424977", 
+        "dimensions_raw": {
+            "width": [
+                "38.20", 
+                "centimeters"
+            ], 
+            "height": [
+                "53.20", 
+                "centimeters"
+            ]
+        }, 
+        "department_id": "35347493", 
+        "title_raw": "Give Blood", 
+        "justification": null, 
+        "media_id": "35431679", 
+        "description": "On white ground, a red heart below and a red droplet above text in black: Give Blood.", 
+        "creditline": "Gift of Various Donors", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": null, 
+        "url": "https://collection.cooperhewitt.org/objects/18618033/", 
+        "type": "poster", 
+        "accession_number": "1981-29-448", 
+        "year_end": null, 
+        "signed": null, 
+        "inscribed": null, 
+        "period_id": null, 
+        "year_acquired": "1981", 
+        "woe:country_id": "23424977"
+    }
+}

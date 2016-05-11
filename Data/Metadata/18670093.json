@@ -1,0 +1,147 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": 1950, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": "printed paper", 
+        "tms:id": "210463", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/64112_4aca57b1263148f1_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "64112"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/64112_4aca57b1263148f1_b.jpg", 
+                    "width": 1024, 
+                    "height": 842, 
+                    "is_primary": "1", 
+                    "image_id": "64112"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/64112_4aca57b1263148f1_d.gif", 
+                    "width": 320, 
+                    "height": 263, 
+                    "is_primary": "1", 
+                    "image_id": "64112"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/64112_4aca57b1263148f1_z.jpg", 
+                    "width": 640, 
+                    "height": 526, 
+                    "is_primary": "1", 
+                    "image_id": "64112"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/64112_4aca57b1263148f1_n.jpg", 
+                    "width": 320, 
+                    "height": 263, 
+                    "is_primary": "1", 
+                    "image_id": "64112"
+                }
+            }, 
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/203456_70889524540d6241_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "0", 
+                    "image_id": "203456"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/203456_70889524540d6241_b.jpg", 
+                    "width": 1024, 
+                    "height": 847, 
+                    "is_primary": "0", 
+                    "image_id": "203456"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/203456_70889524540d6241_d.gif", 
+                    "width": 320, 
+                    "height": 265, 
+                    "is_primary": "0", 
+                    "image_id": "203456"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/203456_70889524540d6241_z.jpg", 
+                    "width": 640, 
+                    "height": 529, 
+                    "is_primary": "0", 
+                    "image_id": "203456"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/203456_70889524540d6241_n.jpg", 
+                    "width": 320, 
+                    "height": 265, 
+                    "is_primary": "0", 
+                    "image_id": "203456"
+                }
+            }
+        ], 
+        "id": "18670093", 
+        "has_no_known_copyright": null, 
+        "woe:country_name": "United States", 
+        "dimensions": "35.7 x 43.4 cm (14 1/16 x 17 1/16 in.)", 
+        "title": "Poster, Semi-sports ...., ca. 1960", 
+        "provenance": "1994: acquired by Museum", 
+        "participants": [
+            {
+                "person_name": "Anonymous", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35351535/", 
+                "role_id": "35351535", 
+                "role_name": "Donor", 
+                "person_date": "", 
+                "role_display_name": "Donated by", 
+                "person_id": "68739079", 
+                "person_url": "https://collection.cooperhewitt.org/people/68739079/"
+            }, 
+            {
+                "person_name": "Paul Rand", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "American, 1914–1996", 
+                "role_display_name": "Designed by", 
+                "person_id": "18042341", 
+                "person_url": "https://collection.cooperhewitt.org/people/18042341/"
+            }
+        ], 
+        "decade": "1950", 
+        "label_text": null, 
+        "woe:country": "23424977", 
+        "dimensions_raw": {
+            "width": [
+                "43.40", 
+                "centimeters"
+            ], 
+            "height": [
+                "35.70", 
+                "centimeters"
+            ]
+        }, 
+        "department_id": "35347493", 
+        "title_raw": "Semi-sports ....", 
+        "justification": null, 
+        "media_id": "35389903", 
+        "description": "On black ground, cardinal directions: large “N”, smaller “W,” “E,” and “S”. Two areas that look like puddles or open windows; above, an image of buildings and below, trees in a landscape. Upper right: semi-sports…", 
+        "creditline": "Gift of Anonymous Donor", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "ca. 1960", 
+        "url": "https://collection.cooperhewitt.org/objects/18670093/", 
+        "type": "poster", 
+        "accession_number": "1994-109-22", 
+        "year_end": 1970, 
+        "signed": null, 
+        "inscribed": null, 
+        "period_id": null, 
+        "year_acquired": "1994", 
+        "woe:country_id": "23424977"
+    }
+}

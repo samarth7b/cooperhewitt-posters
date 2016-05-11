@@ -1,0 +1,80 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": null, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": null, 
+        "tms:id": "177609", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/269164_2012a586aa673ffe_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "269164"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/269164_2012a586aa673ffe_b.jpg", 
+                    "width": 691, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "269164"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/269164_2012a586aa673ffe_d.gif", 
+                    "width": 216, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "269164"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/269164_2012a586aa673ffe_z.jpg", 
+                    "width": 432, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "269164"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/269164_2012a586aa673ffe_n.jpg", 
+                    "width": 216, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "269164"
+                }
+            }
+        ], 
+        "id": "18618151", 
+        "has_no_known_copyright": null, 
+        "woe:country_name": "United States", 
+        "dimensions": null, 
+        "title": "Poster (USA)", 
+        "provenance": null, 
+        "participants": [], 
+        "decade": null, 
+        "label_text": null, 
+        "woe:country": "23424977", 
+        "dimensions_raw": null, 
+        "department_id": "35347493", 
+        "title_raw": null, 
+        "justification": null, 
+        "media_id": "35371135", 
+        "description": null, 
+        "creditline": "Gift of Various Donors", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": null, 
+        "url": "https://collection.cooperhewitt.org/objects/18618151/", 
+        "type": "poster", 
+        "accession_number": "1981-29-500", 
+        "year_end": null, 
+        "signed": null, 
+        "inscribed": null, 
+        "period_id": null, 
+        "year_acquired": "1981", 
+        "woe:country_id": "23424977"
+    }
+}

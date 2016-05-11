@@ -1,0 +1,175 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": 1935, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": null, 
+        "tms:id": "163446", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/97020_38458c2a72f6adda_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "97020"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/97020_38458c2a72f6adda_b.jpg", 
+                    "width": 700, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "97020"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/97020_38458c2a72f6adda_d.gif", 
+                    "width": 219, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "97020"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/97020_38458c2a72f6adda_z.jpg", 
+                    "width": 437, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "97020"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/97020_38458c2a72f6adda_n.jpg", 
+                    "width": 219, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "97020"
+                }
+            }, 
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/252598_5d273cb78fed3e05_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "0", 
+                    "image_id": "252598"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/252598_5d273cb78fed3e05_b.jpg", 
+                    "width": 702, 
+                    "height": 1024, 
+                    "is_primary": "0", 
+                    "image_id": "252598"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/252598_5d273cb78fed3e05_d.gif", 
+                    "width": 219, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "252598"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/252598_5d273cb78fed3e05_z.jpg", 
+                    "width": 438, 
+                    "height": 640, 
+                    "is_primary": "0", 
+                    "image_id": "252598"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/252598_5d273cb78fed3e05_n.jpg", 
+                    "width": 219, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "252598"
+                }
+            }, 
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/95553_65baacd6aeb80258_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "0", 
+                    "image_id": "95553"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/95553_65baacd6aeb80258_b.jpg", 
+                    "width": 700, 
+                    "height": 1024, 
+                    "is_primary": "0", 
+                    "image_id": "95553"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/95553_65baacd6aeb80258_d.gif", 
+                    "width": 219, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "95553"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/95553_65baacd6aeb80258_z.jpg", 
+                    "width": 437, 
+                    "height": 640, 
+                    "is_primary": "0", 
+                    "image_id": "95553"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/95553_65baacd6aeb80258_n.jpg", 
+                    "width": 219, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "95553"
+                }
+            }
+        ], 
+        "id": "18505085", 
+        "has_no_known_copyright": null, 
+        "woe:country_name": "United States", 
+        "dimensions": null, 
+        "title": "Poster, Enlist in the Navy", 
+        "provenance": "1980: acquired by Museum", 
+        "participants": [
+            {
+                "person_name": "Latham Lithography & Painting Co.", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236673/", 
+                "role_id": "35236673", 
+                "role_name": "Printer", 
+                "person_date": "", 
+                "role_display_name": "Printed by", 
+                "person_id": "18042953", 
+                "person_url": "https://collection.cooperhewitt.org/people/18042953/"
+            }, 
+            {
+                "person_name": "H. Reuterdahl", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "", 
+                "role_display_name": "Designed by", 
+                "person_id": "18042951", 
+                "person_url": "https://collection.cooperhewitt.org/people/18042951/"
+            }
+        ], 
+        "decade": "1930", 
+        "label_text": null, 
+        "woe:country": "23424977", 
+        "dimensions_raw": null, 
+        "department_id": "35347493", 
+        "title_raw": "Enlist in the Navy", 
+        "justification": null, 
+        "media_id": "35371135", 
+        "description": null, 
+        "creditline": "Gift of Unknown Donor", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": null, 
+        "url": "https://collection.cooperhewitt.org/objects/18505085/", 
+        "type": "poster", 
+        "accession_number": "1980-32-1192", 
+        "year_end": 1945, 
+        "signed": null, 
+        "inscribed": null, 
+        "period_id": "35417341", 
+        "year_acquired": "1980", 
+        "woe:country_id": "23424977"
+    }
+}

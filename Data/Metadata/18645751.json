@@ -1,0 +1,140 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": 1970, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": "lithograph on paper", 
+        "tms:id": "197779", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/223840_c66f217183056a66_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "223840"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/223840_c66f217183056a66_b.jpg", 
+                    "width": 770, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "223840"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/223840_c66f217183056a66_d.gif", 
+                    "width": 241, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "223840"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/223840_c66f217183056a66_z.jpg", 
+                    "width": 481, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "223840"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/223840_c66f217183056a66_n.jpg", 
+                    "width": 241, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "223840"
+                }
+            }
+        ], 
+        "id": "18645751", 
+        "has_no_known_copyright": null, 
+        "woe:country_name": "United States", 
+        "dimensions": "61 x 45.8 cm (24 in. x 18 1/16 in.)", 
+        "title": "Poster, \"Disappeared\" in Guinea, ca. 1980", 
+        "provenance": "Steven Heller and Karrie Jacobs; 1993: acquired by Museum", 
+        "participants": [
+            {
+                "person_name": "Karrie Jacobs", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35351535/", 
+                "role_id": "35351535", 
+                "role_name": "Donor", 
+                "person_date": "", 
+                "role_display_name": "Donated by", 
+                "person_id": "18056647", 
+                "person_url": "https://collection.cooperhewitt.org/people/18056647/"
+            }, 
+            {
+                "person_name": "Steven Heller", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35351535/", 
+                "role_id": "35351535", 
+                "role_name": "Donor", 
+                "person_date": "American, b. 1950", 
+                "role_display_name": "Donated by", 
+                "person_id": "18041397", 
+                "person_url": "https://collection.cooperhewitt.org/people/18041397/"
+            }, 
+            {
+                "person_name": "Megan L. Smith", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35352245/", 
+                "role_id": "35352245", 
+                "role_name": "Cataloguer", 
+                "person_date": "", 
+                "role_display_name": "Catalogued by", 
+                "person_id": "18047443", 
+                "person_url": "https://collection.cooperhewitt.org/people/18047443/"
+            }, 
+            {
+                "person_name": "LSA", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35352245/", 
+                "role_id": "35352245", 
+                "role_name": "Cataloguer", 
+                "person_date": "", 
+                "role_display_name": "Catalogued by", 
+                "person_id": "18048737", 
+                "person_url": "https://collection.cooperhewitt.org/people/18048737/"
+            }, 
+            {
+                "person_name": "Clare Francis", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "", 
+                "role_display_name": "Designed by", 
+                "person_id": "18043199", 
+                "person_url": "https://collection.cooperhewitt.org/people/18043199/"
+            }
+        ], 
+        "decade": "1970", 
+        "label_text": null, 
+        "woe:country": "23424977", 
+        "dimensions_raw": {
+            "width": [
+                "45.80", 
+                "centimeters"
+            ], 
+            "height": [
+                "61.00", 
+                "centimeters"
+            ]
+        }, 
+        "department_id": "35347493", 
+        "title_raw": "\"Disappeared\" in Guinea", 
+        "justification": null, 
+        "media_id": "35419317", 
+        "description": "Photographs of political prisoners with map of Guinea For Amnesty International, all photographs are surrounded by Africa. Extensive text on political prisoners in Guinea.", 
+        "creditline": "Gift of Steven Heller and Karrie Jacobs", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "ca. 1980", 
+        "url": "https://collection.cooperhewitt.org/objects/18645751/", 
+        "type": "poster", 
+        "accession_number": "1993-53-61", 
+        "year_end": 1990, 
+        "signed": null, 
+        "inscribed": "Imprinted in black ink on lower left: \"DESIGN: CLARE FRANCIS\"", 
+        "period_id": null, 
+        "year_acquired": "1993", 
+        "woe:country_id": "23424977"
+    }
+}

@@ -1,0 +1,80 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": null, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": null, 
+        "tms:id": "185259", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/252511_ed90cae5b812494c_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "252511"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/252511_ed90cae5b812494c_b.jpg", 
+                    "width": 651, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "252511"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/252511_ed90cae5b812494c_d.gif", 
+                    "width": 203, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "252511"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/252511_ed90cae5b812494c_z.jpg", 
+                    "width": 407, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "252511"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/252511_ed90cae5b812494c_n.jpg", 
+                    "width": 203, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "252511"
+                }
+            }
+        ], 
+        "id": "18620891", 
+        "has_no_known_copyright": null, 
+        "woe:country_name": "United States", 
+        "dimensions": null, 
+        "title": "Poster, Travel Poster: London/Windsor Castle", 
+        "provenance": null, 
+        "participants": [], 
+        "decade": null, 
+        "label_text": null, 
+        "woe:country": "23424977", 
+        "dimensions_raw": null, 
+        "department_id": "35347493", 
+        "title_raw": "Travel Poster: London/Windsor Castle", 
+        "justification": null, 
+        "media_id": "35371135", 
+        "description": "London Underground", 
+        "creditline": null, 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": null, 
+        "url": "https://collection.cooperhewitt.org/objects/18620891/", 
+        "type": "poster", 
+        "accession_number": "1986-5-1", 
+        "year_end": null, 
+        "signed": null, 
+        "inscribed": null, 
+        "period_id": null, 
+        "year_acquired": "1986", 
+        "woe:country_id": "23424977"
+    }
+}

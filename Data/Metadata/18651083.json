@@ -1,0 +1,137 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": 1993, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": "lithograph on paper", 
+        "tms:id": "200480", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/81511_581bc7d7d613780a_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "81511"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/81511_581bc7d7d613780a_b.jpg", 
+                    "width": 792, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "81511"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/81511_581bc7d7d613780a_d.gif", 
+                    "width": 248, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "81511"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/81511_581bc7d7d613780a_z.jpg", 
+                    "width": 495, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "81511"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/81511_581bc7d7d613780a_n.jpg", 
+                    "width": 248, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "81511"
+                }
+            }, 
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/268411_76b693731fe88c9a_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "0", 
+                    "image_id": "268411"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/268411_76b693731fe88c9a_b.jpg", 
+                    "width": 809, 
+                    "height": 1024, 
+                    "is_primary": "0", 
+                    "image_id": "268411"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/268411_76b693731fe88c9a_d.gif", 
+                    "width": 253, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "268411"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/268411_76b693731fe88c9a_z.jpg", 
+                    "width": 505, 
+                    "height": 640, 
+                    "is_primary": "0", 
+                    "image_id": "268411"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/268411_76b693731fe88c9a_n.jpg", 
+                    "width": 253, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "268411"
+                }
+            }
+        ], 
+        "id": "18651083", 
+        "has_no_known_copyright": null, 
+        "woe:country_name": "United States", 
+        "dimensions": "55.9 x 43.2 cm (22 x 17 in.)", 
+        "title": "Poster, Put on your thinking cap, 1993", 
+        "provenance": "1995: acquired by Museum", 
+        "participants": [
+            {
+                "person_name": "AIDS Action Committee", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35351535/", 
+                "role_id": "35351535", 
+                "role_name": "Donor", 
+                "person_date": "", 
+                "role_display_name": "Donated by", 
+                "person_id": "18041635", 
+                "person_url": "https://collection.cooperhewitt.org/people/18041635/"
+            }
+        ], 
+        "decade": "1990", 
+        "label_text": null, 
+        "woe:country": "23424977", 
+        "dimensions_raw": {
+            "width": [
+                "43.20", 
+                "centimeters"
+            ], 
+            "height": [
+                "55.90", 
+                "centimeters"
+            ]
+        }, 
+        "department_id": "35347493", 
+        "title_raw": "Put on your thinking cap", 
+        "justification": null, 
+        "media_id": "35419317", 
+        "description": "On white ground, a single turquoise wrapped condom. Text in black: Put on your thinking cap. For more information about HIV and AIDS, call the AIDS Action Committee Hotline at 1-800-235-2331.", 
+        "creditline": "Gift of AIDS Action Committee", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "1993", 
+        "url": "https://collection.cooperhewitt.org/objects/18651083/", 
+        "type": "poster", 
+        "accession_number": "1995-30-6", 
+        "year_end": 1993, 
+        "signed": null, 
+        "inscribed": null, 
+        "period_id": null, 
+        "year_acquired": "1995", 
+        "woe:country_id": "23424977"
+    }
+}

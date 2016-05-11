@@ -1,0 +1,147 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": 1993, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": "offset lithograph on paper", 
+        "tms:id": "199862", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/64113_0243e1697c1b7ce0_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "64113"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/64113_0243e1697c1b7ce0_b.jpg", 
+                    "width": 975, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "64113"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/64113_0243e1697c1b7ce0_d.gif", 
+                    "width": 305, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "64113"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/64113_0243e1697c1b7ce0_z.jpg", 
+                    "width": 609, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "64113"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/64113_0243e1697c1b7ce0_n.jpg", 
+                    "width": 305, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "64113"
+                }
+            }, 
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/203291_bb957634a0aa40e5_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "0", 
+                    "image_id": "203291"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/203291_bb957634a0aa40e5_b.jpg", 
+                    "width": 976, 
+                    "height": 1024, 
+                    "is_primary": "0", 
+                    "image_id": "203291"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/203291_bb957634a0aa40e5_d.gif", 
+                    "width": 305, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "203291"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/203291_bb957634a0aa40e5_z.jpg", 
+                    "width": 610, 
+                    "height": 640, 
+                    "is_primary": "0", 
+                    "image_id": "203291"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/203291_bb957634a0aa40e5_n.jpg", 
+                    "width": 305, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "203291"
+                }
+            }
+        ], 
+        "id": "18649889", 
+        "has_no_known_copyright": null, 
+        "woe:country_name": "United States", 
+        "dimensions": "55.4 x 52.9 cm (21 13/16 x 20 13/16 in.)", 
+        "title": "Poster, Tuesdays by Design, 1993", 
+        "provenance": "1995: acquired by Museum", 
+        "participants": [
+            {
+                "person_name": "Mr. Gregory Oznowich", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35351535/", 
+                "role_id": "35351535", 
+                "role_name": "Donor", 
+                "person_date": "", 
+                "role_display_name": "Donated by", 
+                "person_id": "18041825", 
+                "person_url": "https://collection.cooperhewitt.org/people/18041825/"
+            }, 
+            {
+                "person_name": "Mr. Gregory Oznowich", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "", 
+                "role_display_name": "Designed by", 
+                "person_id": "18041825", 
+                "person_url": "https://collection.cooperhewitt.org/people/18041825/"
+            }
+        ], 
+        "decade": "1990", 
+        "label_text": null, 
+        "woe:country": "23424977", 
+        "dimensions_raw": {
+            "width": [
+                "52.90", 
+                "centimeters"
+            ], 
+            "height": [
+                "55.40", 
+                "centimeters"
+            ]
+        }, 
+        "department_id": "35347493", 
+        "title_raw": "Tuesdays by Design", 
+        "justification": null, 
+        "media_id": "35399021", 
+        "description": "On a ground of red and blue rectangles, numbers in red and green, with upper edge in yellow and lower in red. In between the rectangles there are black bands. Above: TUESDAYS BY DESIGN. Below: A I G A. Text features program schedule of events at AIGA.", 
+        "creditline": "Gift of Gregory Oznowich", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "1993", 
+        "url": "https://collection.cooperhewitt.org/objects/18649889/", 
+        "type": "poster", 
+        "accession_number": "1995-119-2", 
+        "year_end": 1993, 
+        "signed": null, 
+        "inscribed": null, 
+        "period_id": null, 
+        "year_acquired": "1995", 
+        "woe:country_id": "23424977"
+    }
+}

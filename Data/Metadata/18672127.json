@@ -1,0 +1,129 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": 1970, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": "offset photolithograph", 
+        "tms:id": "211505", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/254158_a648f02dfbfe5711_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "254158"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/254158_a648f02dfbfe5711_b.jpg", 
+                    "width": 743, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "254158"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/254158_a648f02dfbfe5711_d.gif", 
+                    "width": 232, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "254158"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/254158_a648f02dfbfe5711_z.jpg", 
+                    "width": 464, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "254158"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/254158_a648f02dfbfe5711_n.jpg", 
+                    "width": 232, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "254158"
+                }
+            }
+        ], 
+        "id": "18672127", 
+        "has_no_known_copyright": null, 
+        "dimensions": "81.6 x 58.4 cm (32 1/8 x 23 in. )", 
+        "title": "Poster, Publication Poster for Bernd und Hilla Becher, Anonyme Skulpturen, Eine Typologie Technischer Bauten [Anonymous Sculpture, A Typology for Industrial Buildings], 1970", 
+        "provenance": null, 
+        "participants": [
+            {
+                "person_name": "General Acquisitions Endowment", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35352247/", 
+                "role_id": "35352247", 
+                "role_name": "Fund", 
+                "person_date": "", 
+                "role_display_name": "Fund:", 
+                "person_id": "18048535", 
+                "person_url": "https://collection.cooperhewitt.org/people/18048535/"
+            }, 
+            {
+                "person_name": "Hilla Becher", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236565/", 
+                "role_id": "35236565", 
+                "role_name": "Artist", 
+                "person_date": "German, b. 1934", 
+                "role_display_name": "", 
+                "person_id": "18051589", 
+                "person_url": "https://collection.cooperhewitt.org/people/18051589/"
+            }, 
+            {
+                "person_name": "Bernd Becher", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236565/", 
+                "role_id": "35236565", 
+                "role_name": "Artist", 
+                "person_date": "German, 1931 – 2007", 
+                "role_display_name": "", 
+                "person_id": "18051587", 
+                "person_url": "https://collection.cooperhewitt.org/people/18051587/"
+            }, 
+            {
+                "person_name": "Lawrence Markey, Inc.", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35352249/", 
+                "role_id": "35352249", 
+                "role_name": "Vendor", 
+                "person_date": "", 
+                "role_display_name": "Purchased from", 
+                "person_id": "18051405", 
+                "person_url": "https://collection.cooperhewitt.org/people/18051405/"
+            }
+        ], 
+        "decade": "1970", 
+        "label_text": null, 
+        "woe:country": null, 
+        "dimensions_raw": {
+            "width": [
+                "58.40", 
+                "centimeters"
+            ], 
+            "height": [
+                "81.60", 
+                "centimeters"
+            ]
+        }, 
+        "department_id": "35347493", 
+        "title_raw": "Publication Poster for Bernd und Hilla Becher, Anonyme Skulpturen, Eine Typologie Technischer Bauten [Anonymous Sculpture, A Typology for Industrial Buildings]", 
+        "justification": null, 
+        "media_id": "35384531", 
+        "description": "Black and white photograph of two brick factory chimney towers.  In space at top between the towers,  black lettering in German: text announces publication of Bernd and Hilla Becher's book \"Anonymous Sculpture\" being published by Art-Press Verlag, Düsseldorf and sold by Walther Köniq Bookshop, Cologne.  A Coca Cola sign is on the base of the left tower.", 
+        "creditline": "Museum purchase from General Acquisitions Endowment and Smithsonian Institution Collections Acquisition Program Funds", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "1970", 
+        "url": "https://collection.cooperhewitt.org/objects/18672127/", 
+        "type": "poster", 
+        "accession_number": "1999-45-7", 
+        "year_end": 1970, 
+        "signed": null, 
+        "inscribed": "Imprinted in black, top center: \"In Kürze erscheint/ Bernd und Hilla Becher: ANONYME SKULTUREN/ Eine Typologie technischen Bauten/ 200 ganzseitige Abbildungen. Format 22 x 28 cm, Preis DM 48.-/ ART-PRESS-Verlag Düsseldorf/ Alleinauslieferung:/ Buchhandlung Walther König/ 5 Köln/ Breite Straße 93\"", 
+        "period_id": null, 
+        "year_acquired": "1999", 
+        "woe:country_id": null
+    }
+}

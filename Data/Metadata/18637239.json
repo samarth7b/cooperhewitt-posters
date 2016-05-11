@@ -1,0 +1,157 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": null, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": "screenprint, offset lithograph\nsupport: paper", 
+        "tms:id": "193471", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/93864_55f98b473a78c08f_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "93864"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/93864_55f98b473a78c08f_b.jpg", 
+                    "width": 723, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "93864"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/93864_55f98b473a78c08f_d.gif", 
+                    "width": 226, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "93864"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/93864_55f98b473a78c08f_z.jpg", 
+                    "width": 452, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "93864"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/93864_55f98b473a78c08f_n.jpg", 
+                    "width": 226, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "93864"
+                }
+            }, 
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/267194_ea42c4976ed55d8d_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "0", 
+                    "image_id": "267194"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/267194_ea42c4976ed55d8d_b.jpg", 
+                    "width": 709, 
+                    "height": 1024, 
+                    "is_primary": "0", 
+                    "image_id": "267194"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/267194_ea42c4976ed55d8d_d.gif", 
+                    "width": 222, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "267194"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/267194_ea42c4976ed55d8d_z.jpg", 
+                    "width": 443, 
+                    "height": 640, 
+                    "is_primary": "0", 
+                    "image_id": "267194"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/267194_ea42c4976ed55d8d_n.jpg", 
+                    "width": 222, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "267194"
+                }
+            }
+        ], 
+        "id": "18637239", 
+        "has_no_known_copyright": null, 
+        "woe:country_name": "United States", 
+        "dimensions": "88.6 x 62.3 cm (34 7/8 x 24 1/2 in.)", 
+        "title": "Poster, CITY CENTER-GILBERT & SUL", 
+        "provenance": null, 
+        "participants": [
+            {
+                "person_name": "Jim Dine", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35351535/", 
+                "role_id": "35351535", 
+                "role_name": "Donor", 
+                "person_date": "American, born 1935", 
+                "role_display_name": "Donated by", 
+                "person_id": "18042429", 
+                "person_url": "https://collection.cooperhewitt.org/people/18042429/"
+            }, 
+            {
+                "person_name": "CGC", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35352245/", 
+                "role_id": "35352245", 
+                "role_name": "Cataloguer", 
+                "person_date": "", 
+                "role_display_name": "Catalogued by", 
+                "person_id": "18048417", 
+                "person_url": "https://collection.cooperhewitt.org/people/18048417/"
+            }, 
+            {
+                "person_name": "Jim Dine", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "American, born 1935", 
+                "role_display_name": "Designed by", 
+                "person_id": "18042429", 
+                "person_url": "https://collection.cooperhewitt.org/people/18042429/"
+            }
+        ], 
+        "decade": null, 
+        "label_text": null, 
+        "woe:country": "23424977", 
+        "dimensions_raw": {
+            "width": [
+                "62.30", 
+                "centimeters"
+            ], 
+            "height": [
+                "88.60", 
+                "centimeters"
+            ]
+        }, 
+        "department_id": "35347493", 
+        "title_raw": "CITY CENTER-GILBERT & SUL", 
+        "justification": null, 
+        "media_id": "136271013", 
+        "description": null, 
+        "creditline": "Gift of Jim Dine", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": null, 
+        "url": "https://collection.cooperhewitt.org/objects/18637239/", 
+        "type": "poster", 
+        "accession_number": "1991-69-25", 
+        "year_end": null, 
+        "signed": null, 
+        "inscribed": "Signature imprinted in purple ink at LL: Jim Dine; imprinted in gold ink across top: CITY CENTER/ GILBERT & SULLIVAN", 
+        "period_id": null, 
+        "year_acquired": "1991", 
+        "woe:country_id": "23424977"
+    }
+}

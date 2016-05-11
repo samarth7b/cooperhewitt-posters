@@ -1,0 +1,130 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": 1997, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": "offset lithograph on wove paper", 
+        "tms:id": "255451", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/46782_146874e17ba2801a_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "46782"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/46782_146874e17ba2801a_b.jpg", 
+                    "width": 725, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "46782"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/46782_146874e17ba2801a_d.gif", 
+                    "width": 227, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "46782"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/46782_146874e17ba2801a_z.jpg", 
+                    "width": 453, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "46782"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/46782_146874e17ba2801a_n.jpg", 
+                    "width": 227, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "46782"
+                }
+            }
+        ], 
+        "id": "18758331", 
+        "has_no_known_copyright": null, 
+        "woe:country_name": "Switzerland", 
+        "dimensions": "128 x 90.5 cm (50 3/8 x 35 5/8 in.)", 
+        "title": "Poster, Pagliacci, 1997", 
+        "provenance": "Sara and Marc Benda (acquired new and directly from Opernhaus); 2010: acquired by Museum", 
+        "participants": [
+            {
+                "person_name": "Karl Domenic Geissbühler", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "Swiss, b. 1932", 
+                "role_display_name": "Designed by", 
+                "person_id": "18063591", 
+                "person_url": "https://collection.cooperhewitt.org/people/18063591/"
+            }, 
+            {
+                "person_name": "Marc Benda", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35351535/", 
+                "role_id": "35351535", 
+                "role_name": "Donor", 
+                "person_date": "", 
+                "role_display_name": "Donated by", 
+                "person_id": "18062523", 
+                "person_url": "https://collection.cooperhewitt.org/people/18062523/"
+            }, 
+            {
+                "person_name": "Sara Benda", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35351535/", 
+                "role_id": "35351535", 
+                "role_name": "Donor", 
+                "person_date": "", 
+                "role_display_name": "Donated by", 
+                "person_id": "18063205", 
+                "person_url": "https://collection.cooperhewitt.org/people/18063205/"
+            }, 
+            {
+                "person_name": "Opernhaus, Zürich", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236667/", 
+                "role_id": "35236667", 
+                "role_name": "Client", 
+                "person_date": "Zürich, Switzerland", 
+                "role_display_name": "Client:", 
+                "person_id": "68738781", 
+                "person_url": "https://collection.cooperhewitt.org/people/68738781/"
+            }
+        ], 
+        "decade": "1990", 
+        "label_text": null, 
+        "woe:country": "23424957", 
+        "dimensions_raw": {
+            "width": [
+                "90.50", 
+                "centimeters"
+            ], 
+            "height": [
+                "128.00", 
+                "centimeters"
+            ]
+        }, 
+        "department_id": "35347493", 
+        "title_raw": "Pagliacci", 
+        "justification": null, 
+        "media_id": "35431963", 
+        "description": "Poster shows a photomontage of gray squares, two of which have two black silhouettes of men wearing suits and hats. Lower section, a clown in red. Ground is divided in two; upper section in blue and white and lower section in yellow. Text in black and white, upper left: GIACOMO PUCCINI / LE VILLI / SCHWEIZERISCHE ERSTAUFFUHRUNG; left: BRUNO BARTOLETTI / CESARE LIEVI / MAURIZIO BALO / GIGI SACCOMANDI / ERNST RAFFELSBERGER / DANIELA SCHIAVONE / CHOR UND ORCHESTER DER OPER ZURICH / AB 4. MAI 97; lower left: RUGGERO LEONCAVALLO / PAGLIACCI / OPERNHAUS ZURICH.", 
+        "creditline": "Gift of Sara and Marc Benda", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "1997", 
+        "url": "https://collection.cooperhewitt.org/objects/18758331/", 
+        "type": "poster", 
+        "accession_number": "2010-21-62", 
+        "year_end": 1997, 
+        "signed": null, 
+        "inscribed": "Printed in white ink, lower right: GEISSBUHLER", 
+        "period_id": null, 
+        "year_acquired": "2010", 
+        "woe:country_id": "23424957"
+    }
+}

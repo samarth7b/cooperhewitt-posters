@@ -1,0 +1,119 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": 1976, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": "offset lithograph", 
+        "tms:id": "211519", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/269309_a34930df7dea1a0c_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "269309"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/269309_a34930df7dea1a0c_b.jpg", 
+                    "width": 1024, 
+                    "height": 590, 
+                    "is_primary": "1", 
+                    "image_id": "269309"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/269309_a34930df7dea1a0c_d.gif", 
+                    "width": 320, 
+                    "height": 184, 
+                    "is_primary": "1", 
+                    "image_id": "269309"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/269309_a34930df7dea1a0c_z.jpg", 
+                    "width": 640, 
+                    "height": 368, 
+                    "is_primary": "1", 
+                    "image_id": "269309"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/269309_a34930df7dea1a0c_n.jpg", 
+                    "width": 320, 
+                    "height": 184, 
+                    "is_primary": "1", 
+                    "image_id": "269309"
+                }
+            }
+        ], 
+        "id": "18672153", 
+        "has_no_known_copyright": null, 
+        "dimensions": "29.2 x 53.3 cm (11 1/2 x 21 in. )", 
+        "title": "Poster, Exhibition Poster: Sol Lewitt, All Combinations of Arcs and Lines, Murals for Visual Arts Museum, New York, 1976", 
+        "provenance": null, 
+        "participants": [
+            {
+                "person_name": "General Acquisitions Endowment", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35352247/", 
+                "role_id": "35352247", 
+                "role_name": "Fund", 
+                "person_date": "", 
+                "role_display_name": "Fund:", 
+                "person_id": "18048535", 
+                "person_url": "https://collection.cooperhewitt.org/people/18048535/"
+            }, 
+            {
+                "person_name": "Sol Lewitt", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236565/", 
+                "role_id": "35236565", 
+                "role_name": "Artist", 
+                "person_date": "American, 1928 – 2007", 
+                "role_display_name": "", 
+                "person_id": "18051545", 
+                "person_url": "https://collection.cooperhewitt.org/people/18051545/"
+            }, 
+            {
+                "person_name": "Lawrence Markey, Inc.", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35352249/", 
+                "role_id": "35352249", 
+                "role_name": "Vendor", 
+                "person_date": "", 
+                "role_display_name": "Purchased from", 
+                "person_id": "18051405", 
+                "person_url": "https://collection.cooperhewitt.org/people/18051405/"
+            }
+        ], 
+        "decade": "1970", 
+        "label_text": null, 
+        "woe:country": null, 
+        "dimensions_raw": {
+            "width": [
+                "53.30", 
+                "centimeters"
+            ], 
+            "height": [
+                "29.20", 
+                "centimeters"
+            ]
+        }, 
+        "department_id": "35347493", 
+        "title_raw": "Exhibition Poster: Sol Lewitt, All Combinations of Arcs and Lines, Murals for Visual Arts Museum, New York", 
+        "justification": null, 
+        "media_id": "35399027", 
+        "description": "Art exhibition poster.  On recto, at upper center, outline of rectangle, serving as floor plan, labeled \" VISUAL ARTS MUSEUM.\"  Each side of the plan is identified with  letters \"A\" through \"F\" and these correspond to elevations shown in a row below the plan. Each of the five wall elevations is divided into four sections (numbered 1-20); each elevation is labeled, from left to right: \"ARCS FROM CORNERS\" (1-4); ARCS FROM SIDES\" (5-8); \"STRAIGHT LINES\" (9-12); \"NON STRAIGHT LINES\" (13-16); and BROKEN LINES\" (17-20).  As a third row (white on black) is a gridded \"map\" where each square successively combines two lines; the whole shows all  possibilities of such combinations.  On the fourth row is a gridded band showing corresponding fractions (pairing two numerals from 1 to 20.)  At the bottom are two lines of text.", 
+        "creditline": "Museum purchase from General Acquisitions Endowment and Smithsonian Institution Collections Acquisition Program Funds", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "1976", 
+        "url": "https://collection.cooperhewitt.org/objects/18672153/", 
+        "type": "poster", 
+        "accession_number": "1999-45-17", 
+        "year_end": 1976, 
+        "signed": null, 
+        "inscribed": "Imprinted in black, bottom: \"SOL LEWITT ALL COMBINATIONS OF ARCS FROM FOUR CORNERS, ARCS FROM FOUR SIDES, STRAIGHT LINES, NON-STRAIGHT LINES AND BROKEN LINES, WHITE LINES ON A BLACK WALL./ VISUAL ARTS MUSEUM 209 EAST 23RD ST. NEW YORK CITY 10010 (212)-679-7350 FROM MARCH 1 TO MARCH 19, 1976 OPEN MONDAY - THURSDAY FROM 2 - 9 P.M. FRIDAY FROM 11:30 - 4:30.\"", 
+        "period_id": null, 
+        "year_acquired": "1999", 
+        "woe:country_id": null
+    }
+}

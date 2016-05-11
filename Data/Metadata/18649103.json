@@ -1,0 +1,207 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": 1971, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": "silkscreen on wove paper", 
+        "tms:id": "199461", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/89857_c68d2e60ceb4063c_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "89857"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/89857_c68d2e60ceb4063c_b.jpg", 
+                    "width": 680, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "89857"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/89857_c68d2e60ceb4063c_d.gif", 
+                    "width": 213, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "89857"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/89857_c68d2e60ceb4063c_z.jpg", 
+                    "width": 425, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "89857"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/89857_c68d2e60ceb4063c_n.jpg", 
+                    "width": 213, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "89857"
+                }
+            }, 
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/141660_0e3d8b9ae02d7df7_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "0", 
+                    "image_id": "141660"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/141660_0e3d8b9ae02d7df7_b.jpg", 
+                    "width": 686, 
+                    "height": 1024, 
+                    "is_primary": "0", 
+                    "image_id": "141660"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/141660_0e3d8b9ae02d7df7_d.gif", 
+                    "width": 214, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "141660"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/141660_0e3d8b9ae02d7df7_z.jpg", 
+                    "width": 428, 
+                    "height": 640, 
+                    "is_primary": "0", 
+                    "image_id": "141660"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/141660_0e3d8b9ae02d7df7_n.jpg", 
+                    "width": 214, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "141660"
+                }
+            }
+        ], 
+        "id": "18649103", 
+        "has_no_known_copyright": null, 
+        "woe:country_name": "Cuba", 
+        "dimensions": "76.2 x 50.8 cm (30 x 20 in.)", 
+        "title": "Poster, No Hay Regreso Para Johnny (There is No Return for Johnny), 1971", 
+        "provenance": "1994: acquired by Museum (from Reinhold Brown Gallery New York, NY)", 
+        "participants": [
+            {
+                "person_name": "Paul René Azcuy Cárdenas, Cuban", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "b. 1939", 
+                "role_display_name": "Designed by", 
+                "person_id": "18043381", 
+                "person_url": "https://collection.cooperhewitt.org/people/18043381/"
+            }, 
+            {
+                "person_name": "Dr. Gail Davidson", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35352245/", 
+                "role_id": "35352245", 
+                "role_name": "Cataloguer", 
+                "person_date": "", 
+                "role_display_name": "Catalogued by", 
+                "person_id": "18048255", 
+                "person_url": "https://collection.cooperhewitt.org/people/18048255/"
+            }, 
+            {
+                "person_name": "Reinhold Brown Gallery", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35352249/", 
+                "role_id": "35352249", 
+                "role_name": "Vendor", 
+                "person_date": "", 
+                "role_display_name": "Purchased from", 
+                "person_id": "18041557", 
+                "person_url": "https://collection.cooperhewitt.org/people/18041557/"
+            }, 
+            {
+                "person_name": "Smithsonian Institution CAP Funds--do not use", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35352247/", 
+                "role_id": "35352247", 
+                "role_name": "Fund", 
+                "person_date": "", 
+                "role_display_name": "Fund:", 
+                "person_id": "18048931", 
+                "person_url": "https://collection.cooperhewitt.org/people/18048931/"
+            }, 
+            {
+                "person_name": "ss", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35352245/", 
+                "role_id": "35352245", 
+                "role_name": "Cataloguer", 
+                "person_date": "", 
+                "role_display_name": "Catalogued by", 
+                "person_id": "18047797", 
+                "person_url": "https://collection.cooperhewitt.org/people/18047797/"
+            }, 
+            {
+                "person_name": "SR", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35352245/", 
+                "role_id": "35352245", 
+                "role_name": "Cataloguer", 
+                "person_date": "", 
+                "role_display_name": "Catalogued by", 
+                "person_id": "18047543", 
+                "person_url": "https://collection.cooperhewitt.org/people/18047543/"
+            }, 
+            {
+                "person_name": "The Cuban Institute of Cinematographic Art and Industry (ICAIC)", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236661/", 
+                "role_id": "35236661", 
+                "role_name": "Publisher", 
+                "person_date": "Cuba", 
+                "role_display_name": "Published by", 
+                "person_id": "18043359", 
+                "person_url": "https://collection.cooperhewitt.org/people/18043359/"
+            }, 
+            {
+                "person_name": "The Cuban Institute of Cinematographic Art and Industry (ICAIC)", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236667/", 
+                "role_id": "35236667", 
+                "role_name": "Client", 
+                "person_date": "Cuba", 
+                "role_display_name": "Client:", 
+                "person_id": "18043359", 
+                "person_url": "https://collection.cooperhewitt.org/people/18043359/"
+            }
+        ], 
+        "decade": "1970", 
+        "label_text": null, 
+        "woe:country": "23424793", 
+        "dimensions_raw": {
+            "width": [
+                "50.80", 
+                "centimeters"
+            ], 
+            "height": [
+                "76.20", 
+                "centimeters"
+            ]
+        }, 
+        "department_id": "35347493", 
+        "title_raw": "No Hay Regreso Para Johnny (There is No Return for Johnny)", 
+        "justification": null, 
+        "media_id": "35434615", 
+        "description": "On black ground an abstracted human skull cut out of an American flag. Five gold stars forming a chain fall from lower left corner of skull. Title in white runs across the top, in white: NO HAY REGRESO PARA JOHNNY / FILM POLACO / DIRECCION: KAVEH PUR RAHNAMA / CON: JACEK RECKNITZ / NGUYEN VAN QUYNH / VUONG VAN CAT.", 
+        "creditline": "Museum purchase from Smithsonian Institution Collections Acquisition Program Fund and through gift of Anonymous Donors", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "1971", 
+        "url": "https://collection.cooperhewitt.org/objects/18649103/", 
+        "type": "poster", 
+        "accession_number": "1994-65-4", 
+        "year_end": 1971, 
+        "signed": "Signed and dated along lower right edge of image running vertically: Bachs 71", 
+        "inscribed": null, 
+        "period_id": null, 
+        "year_acquired": "1994", 
+        "woe:country_id": "23424793"
+    }
+}

@@ -1,0 +1,156 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": 1984, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": "offset lithograph on white paper", 
+        "tms:id": "223225", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/90807_33c8773c6405a664_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "90807"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/90807_33c8773c6405a664_b.jpg", 
+                    "width": 684, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "90807"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/90807_33c8773c6405a664_d.gif", 
+                    "width": 214, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "90807"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/90807_33c8773c6405a664_z.jpg", 
+                    "width": 428, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "90807"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/90807_33c8773c6405a664_n.jpg", 
+                    "width": 214, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "90807"
+                }
+            }, 
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/256772_374385a51407bc5f_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "0", 
+                    "image_id": "256772"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/256772_374385a51407bc5f_b.jpg", 
+                    "width": 691, 
+                    "height": 1024, 
+                    "is_primary": "0", 
+                    "image_id": "256772"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/256772_374385a51407bc5f_d.gif", 
+                    "width": 216, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "256772"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/256772_374385a51407bc5f_z.jpg", 
+                    "width": 432, 
+                    "height": 640, 
+                    "is_primary": "0", 
+                    "image_id": "256772"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/256772_374385a51407bc5f_n.jpg", 
+                    "width": 216, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "256772"
+                }
+            }
+        ], 
+        "id": "18695317", 
+        "has_no_known_copyright": null, 
+        "dimensions": "91.4 x 61.0 cm (36 x 24 in. )", 
+        "title": "Poster, UCLA, ca. 1994", 
+        "provenance": null, 
+        "participants": [
+            {
+                "person_name": "UCLA", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236667/", 
+                "role_id": "35236667", 
+                "role_name": "Client", 
+                "person_date": "", 
+                "role_display_name": "Client:", 
+                "person_id": "18054935", 
+                "person_url": "https://collection.cooperhewitt.org/people/18054935/"
+            }, 
+            {
+                "person_name": "Marion S. Rand", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35351535/", 
+                "role_id": "35351535", 
+                "role_name": "Donor", 
+                "person_date": "", 
+                "role_display_name": "Donated by", 
+                "person_id": "18538789", 
+                "person_url": "https://collection.cooperhewitt.org/people/18538789/"
+            }, 
+            {
+                "person_name": "Paul Rand", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236763/", 
+                "role_id": "35236763", 
+                "role_name": "Graphic Designer", 
+                "person_date": "American, 1914–1996", 
+                "role_display_name": "Graphic design by", 
+                "person_id": "18042341", 
+                "person_url": "https://collection.cooperhewitt.org/people/18042341/"
+            }
+        ], 
+        "decade": "1980", 
+        "label_text": null, 
+        "woe:country": null, 
+        "dimensions_raw": {
+            "width": [
+                "61.00", 
+                "centimeters"
+            ], 
+            "height": [
+                "91.40", 
+                "centimeters"
+            ]
+        }, 
+        "department_id": "35347493", 
+        "title_raw": "UCLA", 
+        "justification": null, 
+        "media_id": "35424093", 
+        "description": "On black ground, across upper center in white: UC; and across center: LA; across lower center: 75. Scattered as if exploding from center (LA) small, in varying colors, green, blue, fuscia, red, and orange: \"75s\"", 
+        "creditline": "Gift of Marion S. Rand", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "ca. 1994", 
+        "url": "https://collection.cooperhewitt.org/objects/18695317/", 
+        "type": "poster", 
+        "accession_number": "2002-11-6", 
+        "year_end": 2002, 
+        "signed": "Signature imprinted in dark gray ink, lower right: Paul Rand", 
+        "inscribed": "Imprinted in white, upper to lower center: UC/ LA/ 75; imprinted in green, fuscia, red, and orange scattered from the center: 75", 
+        "period_id": null, 
+        "year_acquired": "2002", 
+        "woe:country_id": null
+    }
+}

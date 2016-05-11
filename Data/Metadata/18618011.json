@@ -1,0 +1,147 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": null, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": "screenprint on paper", 
+        "tms:id": "177539", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/90306_b07a834b5f9616d1_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "90306"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/90306_b07a834b5f9616d1_b.jpg", 
+                    "width": 731, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "90306"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/90306_b07a834b5f9616d1_d.gif", 
+                    "width": 228, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "90306"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/90306_b07a834b5f9616d1_z.jpg", 
+                    "width": 457, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "90306"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/90306_b07a834b5f9616d1_n.jpg", 
+                    "width": 228, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "90306"
+                }
+            }, 
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/206789_d28eeb0224bae6d8_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "0", 
+                    "image_id": "206789"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/206789_d28eeb0224bae6d8_b.jpg", 
+                    "width": 744, 
+                    "height": 1024, 
+                    "is_primary": "0", 
+                    "image_id": "206789"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/206789_d28eeb0224bae6d8_d.gif", 
+                    "width": 233, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "206789"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/206789_d28eeb0224bae6d8_z.jpg", 
+                    "width": 465, 
+                    "height": 640, 
+                    "is_primary": "0", 
+                    "image_id": "206789"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/206789_d28eeb0224bae6d8_n.jpg", 
+                    "width": 233, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "206789"
+                }
+            }
+        ], 
+        "id": "18618011", 
+        "has_no_known_copyright": null, 
+        "woe:country_name": "United States", 
+        "dimensions": "53.4 x 38.2 cm (21 in. x 15 1/16 in.)", 
+        "title": "Poster, IBM / How to stuff a wild duck", 
+        "provenance": "1981: acquired by Museum", 
+        "participants": [
+            {
+                "person_name": "IBM", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236667/", 
+                "role_id": "35236667", 
+                "role_name": "Client", 
+                "person_date": "USA", 
+                "role_display_name": "Client:", 
+                "person_id": "18041871", 
+                "person_url": "https://collection.cooperhewitt.org/people/18041871/"
+            }, 
+            {
+                "person_name": "Ken White", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "American, 1935-1985", 
+                "role_display_name": "Designed by", 
+                "person_id": "18042357", 
+                "person_url": "https://collection.cooperhewitt.org/people/18042357/"
+            }
+        ], 
+        "decade": null, 
+        "label_text": null, 
+        "woe:country": "23424977", 
+        "dimensions_raw": {
+            "width": [
+                "38.20", 
+                "centimeters"
+            ], 
+            "height": [
+                "53.40", 
+                "centimeters"
+            ]
+        }, 
+        "department_id": "35347493", 
+        "title_raw": "IBM / How to stuff a wild duck", 
+        "justification": null, 
+        "media_id": "35431679", 
+        "description": "On black ground, a duck shape composed of yellow text which gets denser at the duck’s lower body. Text in yellow: IBM; in white: How to / Stuff a / Wild / Duck; blocks of yellow text.", 
+        "creditline": "Gift of Various Donors", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": null, 
+        "url": "https://collection.cooperhewitt.org/objects/18618011/", 
+        "type": "poster", 
+        "accession_number": "1981-29-438", 
+        "year_end": null, 
+        "signed": null, 
+        "inscribed": null, 
+        "period_id": null, 
+        "year_acquired": "1981", 
+        "woe:country_id": "23424977"
+    }
+}

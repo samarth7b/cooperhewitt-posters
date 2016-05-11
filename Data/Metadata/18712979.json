@@ -1,0 +1,171 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": "Johan Thorn Prikker’s poster for a Dutch art exhibition at Germany's Kaiser Wilhelm Museum embodies the playfulness and provocation of Dutch Art Nouveau. Additionally, it is imbued with specific nationalist references. Thorn Prikker, a painter and designer in many media, was inspired by batik textiles from Java, a small Indonesian island formerly part of the Dutch Empire. Batiks are made with a wax-resist dyeing technique that produces multicolored fabrics with varying line widths and kaleidoscope-like stylized elements. Tulips, a motif closely linked to Holland, are seen in rigid, tense black lines, while the country’s House of Orange-Nassau is referenced through orange accents. The type's clean, straight lines counter the tense rigidity of the abstract forms and harmonize with the lines that frame each section and the entire design. Art Nouveau designers often used a unique display lettering to create a “total work of art” where all elements coalesce. This lithograph on white wove paper was one of three versions of the poster produced for public display, a popular way to promote messages at this time.", 
+        "year_start": 1903, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": "lithograph on white wove paper", 
+        "tms:id": "232372", 
+        "images": [
+            {
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/179849_7b59e1020b12cb62_b.jpg", 
+                    "width": 1024, 
+                    "height": 727, 
+                    "is_primary": "1", 
+                    "image_id": "179849"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/179849_7b59e1020b12cb62_d.gif", 
+                    "width": 320, 
+                    "height": 227, 
+                    "is_primary": "1", 
+                    "image_id": "179849"
+                }, 
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/179849_7b59e1020b12cb62_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "179849"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/179849_7b59e1020b12cb62_n.jpg", 
+                    "width": 320, 
+                    "height": 227, 
+                    "is_primary": "1", 
+                    "image_id": "179849"
+                }, 
+                "x": {
+                    "url": "https://images.collection.cooperhewitt.org/179849_f458fa4458ae47e6_x.jpg", 
+                    "width": 4096, 
+                    "height": 2908, 
+                    "is_primary": "1", 
+                    "image_id": "179849"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/179849_7b59e1020b12cb62_z.jpg", 
+                    "width": 640, 
+                    "height": 454, 
+                    "is_primary": "1", 
+                    "image_id": "179849"
+                }
+            }, 
+            {
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/28238_a87199ba0f402a4f_b.jpg", 
+                    "width": 1024, 
+                    "height": 731, 
+                    "is_primary": "0", 
+                    "image_id": "28238"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/28238_a87199ba0f402a4f_d.gif", 
+                    "width": 320, 
+                    "height": 228, 
+                    "is_primary": "0", 
+                    "image_id": "28238"
+                }, 
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/28238_a87199ba0f402a4f_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "0", 
+                    "image_id": "28238"
+                }, 
+                "o": {
+                    "url": "https://images.collection.cooperhewitt.org/28238_61065373db8b6b2e_o.jpg", 
+                    "width": 3000, 
+                    "height": 2141, 
+                    "is_primary": "0", 
+                    "image_id": "28238"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/28238_a87199ba0f402a4f_n.jpg", 
+                    "width": 320, 
+                    "height": 228, 
+                    "is_primary": "0", 
+                    "image_id": "28238"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/28238_a87199ba0f402a4f_z.jpg", 
+                    "width": 640, 
+                    "height": 457, 
+                    "is_primary": "0", 
+                    "image_id": "28238"
+                }
+            }
+        ], 
+        "id": "18712979", 
+        "has_no_known_copyright": "1", 
+        "woe:country_name": "Netherlands", 
+        "dimensions": "85.4 x 121.8 cm (33 5/8 x 47 15/16 in.)", 
+        "title": "Poster, Holländische Kunstausstellung (Dutch Art Exhibition in Krefeld), 1903", 
+        "provenance": "Kunstmuseen Krefeld; 2008: acquired by Museum (from Thomas Hill)", 
+        "participants": [
+            {
+                "person_name": "S. Langhout & Co.", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236617/", 
+                "role_id": "35236617", 
+                "role_name": "Lithographer", 
+                "person_date": "", 
+                "role_display_name": "Lithographer:", 
+                "person_id": "18065187", 
+                "person_url": "https://collection.cooperhewitt.org/people/18065187/"
+            }, 
+            {
+                "person_name": "Thomas Hill", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35352249/", 
+                "role_id": "35352249", 
+                "role_name": "Vendor", 
+                "person_date": "", 
+                "role_display_name": "Purchased from", 
+                "person_id": "18061343", 
+                "person_url": "https://collection.cooperhewitt.org/people/18061343/"
+            }, 
+            {
+                "person_name": "Jan (Johan) Thorn-Prikker", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "Dutch, 1868 - 1932", 
+                "role_display_name": "Designed by", 
+                "person_id": "18061341", 
+                "person_url": "https://collection.cooperhewitt.org/people/18061341/"
+            }
+        ], 
+        "decade": "1900", 
+        "label_text": null, 
+        "woe:country": "23424909", 
+        "dimensions_raw": {
+            "width": [
+                "121.76", 
+                "centimeters"
+            ], 
+            "height": [
+                "85.41", 
+                "centimeters"
+            ]
+        }, 
+        "department_id": "35347493", 
+        "title_raw": "Holländische Kunstausstellung (Dutch Art Exhibition in Krefeld)", 
+        "justification": "Jan (Johan) Thorn Prikker is considered, along with Jan Toorop and T. C. A. Colenbrander, among the most important proponents of the Dutch art nouveau. While maintaining a career as a symbolist painter, he also produced textile designs, posters, illustration, mosaics, mural paintings, and furniture. A deep religious belief led him to create designs for stained glass that dominated his late career. His masterpiece in this field is a cycle of windows in the Romanesque church of St. George in Cologne, finished in 1930. This powerful poster, Holländische Kunstausstellung, was commissioned by Friedrich Deneken, then director of the Kunstmuseen Krefeld, for an exhibition of Dutch art at the Krefeld’s Kaiser Wilhelm Museum. \nThorn Prikker studied at the Academy of Visual Arts in The Hague from 1883 to 1887. After leaving the school, he joined a group of avant garde artists including Richard Roland Holst and Toorop who, under the influence of the French symbolist poets Paul Verlaine and Joséphin Péladan, produced radically new paintings combining flat, distorted forms, curvilinear movement, somber subject matter, and complex symbolism. \nProbably during a trip to Brussels after school, Thorn Prikker met Henry van de Velde and they became collaborators on interior design projects. From 1900 to 1902, he worked with Van de Velde on the Leuring house in The Hague, where he painted mural decorations including a frieze in the art nouveau style. Thorn Prikker also designed furniture influenced by Van de Velde’s examples. In 1903, Thorn Prikker moved to Germany where he taught at the Kunstgewerbeschules in Krefeld (1904–10), Essen (1913–18), and Munich (1920–23); the State Art Academy in Dusseldorf (1923–26); and the Cologne Technological School (1926–32). \nThe Netherlands, which had governed Java, became a center for the import of batik textiles. Textile workshops were established in Haarlem and The Hague based on Javanese wax techniques, but adapted to contemporary European taste. The unique resist dye technique achieved multicolored patterns of positive and negative spaces, stylized flowers and kaleidoscoped motifs. Thorn Prikker produced batik-inspired textile designs and wallpapers, and batik textiles are very much in evidence in the poster proposed for acquisition. Above and below the central text field, Thorn Prikker creates an abstract curvilinear pattern of fractured tulips in black and white, set against a bright gold ground. Two circular orange elements, which could refer to ladybugs or other insects, anchor the composition at the center. The areas of dense black patterning are echoed in the horizontal and vertical lines framing each of the fields and the entire poster. The result is a strong, compelling piece of graphic work that would strengthen our collection of early graphic design from the art nouveau period. \nAt the time of proposed acquisition, the museum’s collection of Dutch early modernist objects includes, Colenbrander-designed ceramics for Rozenburg, a poster by Holst; graphic design by Bart van der Leck for Metz & Co., and blotters by Piet Zwart. The museum’s library also holds issues of the Dutch avant garde journal, Wendingen. This compelling example of Thorn Prikker’s graphic work would augment and strengthen our holdings of Dutch modernist design.", 
+        "media_id": "35374607", 
+        "description": "Above and below the central text field, the designer creates an abstract curvilinear pattern of fractured tulips in black and white, set against a bright gold ground. Two circular orange elements, which could refer to lady bugs or other insects, anchor the composition at the center.  The areas of dense black patterning are echoed in the horizontal and vertical lines framing each of the fields and the entire poster.", 
+        "creditline": "Museum purchase from the Members' Acquisitions Fund of Cooper-Hewitt, National Design Museum", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "1903", 
+        "url": "https://collection.cooperhewitt.org/objects/18712979/", 
+        "type": "poster", 
+        "accession_number": "2008-4-1", 
+        "year_end": 1903, 
+        "signed": null, 
+        "inscribed": null, 
+        "period_id": null, 
+        "year_acquired": "2008", 
+        "woe:country_id": "23424909"
+    }
+}

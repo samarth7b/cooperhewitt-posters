@@ -1,0 +1,177 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": 1990, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": "offset lithograph on white paper", 
+        "tms:id": "223235", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/49898_0f1aaab87f09fcdb_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "49898"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/49898_0f1aaab87f09fcdb_b.jpg", 
+                    "width": 734, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "49898"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/49898_0f1aaab87f09fcdb_d.gif", 
+                    "width": 229, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "49898"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/49898_0f1aaab87f09fcdb_z.jpg", 
+                    "width": 459, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "49898"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/49898_0f1aaab87f09fcdb_n.jpg", 
+                    "width": 229, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "49898"
+                }
+            }, 
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/256997_09c3319c6231ccc3_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "0", 
+                    "image_id": "256997"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/256997_09c3319c6231ccc3_b.jpg", 
+                    "width": 745, 
+                    "height": 1024, 
+                    "is_primary": "0", 
+                    "image_id": "256997"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/256997_09c3319c6231ccc3_d.gif", 
+                    "width": 233, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "256997"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/256997_09c3319c6231ccc3_z.jpg", 
+                    "width": 465, 
+                    "height": 640, 
+                    "is_primary": "0", 
+                    "image_id": "256997"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/256997_09c3319c6231ccc3_n.jpg", 
+                    "width": 233, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "256997"
+                }
+            }
+        ], 
+        "id": "18695337", 
+        "has_no_known_copyright": null, 
+        "woe:country_name": "United States", 
+        "dimensions": "88.3 x 62.9 cm (34 3/4 x 24 3/4 in. )", 
+        "title": "Poster, A New Era Begins... IBM, 1990", 
+        "provenance": "Marion S. Rand", 
+        "participants": [
+            {
+                "person_name": "Karin Zonis", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35352245/", 
+                "role_id": "35352245", 
+                "role_name": "Cataloguer", 
+                "person_date": "", 
+                "role_display_name": "Catalogued by", 
+                "person_id": "51676457", 
+                "person_url": "https://collection.cooperhewitt.org/people/51676457/"
+            }, 
+            {
+                "person_name": "IBM", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236667/", 
+                "role_id": "35236667", 
+                "role_name": "Client", 
+                "person_date": "USA", 
+                "role_display_name": "Client:", 
+                "person_id": "18041871", 
+                "person_url": "https://collection.cooperhewitt.org/people/18041871/"
+            }, 
+            {
+                "person_name": "Dr. Gail Davidson", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35352245/", 
+                "role_id": "35352245", 
+                "role_name": "Cataloguer", 
+                "person_date": "", 
+                "role_display_name": "Catalogued by", 
+                "person_id": "18048255", 
+                "person_url": "https://collection.cooperhewitt.org/people/18048255/"
+            }, 
+            {
+                "person_name": "Marion S. Rand", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35351535/", 
+                "role_id": "35351535", 
+                "role_name": "Donor", 
+                "person_date": "", 
+                "role_display_name": "Donated by", 
+                "person_id": "18538789", 
+                "person_url": "https://collection.cooperhewitt.org/people/18538789/"
+            }, 
+            {
+                "person_name": "Paul Rand", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "American, 1914–1996", 
+                "role_display_name": "Designed by", 
+                "person_id": "18042341", 
+                "person_url": "https://collection.cooperhewitt.org/people/18042341/"
+            }
+        ], 
+        "decade": "1990", 
+        "label_text": null, 
+        "woe:country": "23424977", 
+        "dimensions_raw": {
+            "width": [
+                "62.90", 
+                "centimeters"
+            ], 
+            "height": [
+                "88.30", 
+                "centimeters"
+            ]
+        }, 
+        "department_id": "35347493", 
+        "title_raw": "A New Era Begins... IBM", 
+        "justification": null, 
+        "media_id": "35424093", 
+        "description": "On black ground, in upper three-quarters of sheet, an abstract daisy-like image composed of seven petals colored in blue, orange, green, yellow, tan, brown, and red.  Imprinted in each petal, in white: S/390; yellow petal also contains on the outer curve: TM; along the lower edge in white:  A new era begins... / September 1990; in lower right corner, the IBM logo in horizontal tan stripes: IBM.", 
+        "creditline": "Gift of Marion S. Rand", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "1990", 
+        "url": "https://collection.cooperhewitt.org/objects/18695337/", 
+        "type": "poster", 
+        "accession_number": "2002-11-17", 
+        "year_end": 1990, 
+        "signed": null, 
+        "inscribed": null, 
+        "period_id": null, 
+        "year_acquired": "2002", 
+        "woe:country_id": "23424977"
+    }
+}

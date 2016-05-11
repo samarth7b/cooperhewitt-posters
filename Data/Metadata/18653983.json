@@ -1,0 +1,157 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": 1994, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": "offset lithograph on paper", 
+        "tms:id": "201952", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/12783_fe5c770f6ddabd64_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "12783"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/12783_fe5c770f6ddabd64_b.jpg", 
+                    "width": 1024, 
+                    "height": 433, 
+                    "is_primary": "1", 
+                    "image_id": "12783"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/12783_fe5c770f6ddabd64_d.gif", 
+                    "width": 320, 
+                    "height": 135, 
+                    "is_primary": "1", 
+                    "image_id": "12783"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/12783_fe5c770f6ddabd64_z.jpg", 
+                    "width": 640, 
+                    "height": 271, 
+                    "is_primary": "1", 
+                    "image_id": "12783"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/12783_fe5c770f6ddabd64_n.jpg", 
+                    "width": 320, 
+                    "height": 135, 
+                    "is_primary": "1", 
+                    "image_id": "12783"
+                }
+            }, 
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/256704_39e4ceeb8ec21f9e_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "0", 
+                    "image_id": "256704"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/256704_39e4ceeb8ec21f9e_b.jpg", 
+                    "width": 1024, 
+                    "height": 435, 
+                    "is_primary": "0", 
+                    "image_id": "256704"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/256704_39e4ceeb8ec21f9e_d.gif", 
+                    "width": 320, 
+                    "height": 136, 
+                    "is_primary": "0", 
+                    "image_id": "256704"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/256704_39e4ceeb8ec21f9e_z.jpg", 
+                    "width": 640, 
+                    "height": 272, 
+                    "is_primary": "0", 
+                    "image_id": "256704"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/256704_39e4ceeb8ec21f9e_n.jpg", 
+                    "width": 320, 
+                    "height": 136, 
+                    "is_primary": "0", 
+                    "image_id": "256704"
+                }
+            }
+        ], 
+        "id": "18653983", 
+        "has_no_known_copyright": null, 
+        "woe:country_name": "United States", 
+        "dimensions": "31.7 x 77.3 cm (12 1/2 x 30 7/16 in.)", 
+        "title": "Poster, Pizzicato Five, Matador Records, 1994", 
+        "provenance": "Matador Records", 
+        "participants": [
+            {
+                "person_name": "Mark Ohe", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35351535/", 
+                "role_id": "35351535", 
+                "role_name": "Donor", 
+                "person_date": "1958", 
+                "role_display_name": "Donated by", 
+                "person_id": "18043599", 
+                "person_url": "https://collection.cooperhewitt.org/people/18043599/"
+            }, 
+            {
+                "person_name": "TM", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35352245/", 
+                "role_id": "35352245", 
+                "role_name": "Cataloguer", 
+                "person_date": "", 
+                "role_display_name": "Catalogued by", 
+                "person_id": "18048319", 
+                "person_url": "https://collection.cooperhewitt.org/people/18048319/"
+            }, 
+            {
+                "person_name": "Mark Ohe", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "1958", 
+                "role_display_name": "Designed by", 
+                "person_id": "18043599", 
+                "person_url": "https://collection.cooperhewitt.org/people/18043599/"
+            }
+        ], 
+        "decade": "1990", 
+        "label_text": null, 
+        "woe:country": "23424977", 
+        "dimensions_raw": {
+            "width": [
+                "77.30", 
+                "centimeters"
+            ], 
+            "height": [
+                "31.70", 
+                "centimeters"
+            ]
+        }, 
+        "department_id": "35347493", 
+        "title_raw": "Pizzicato Five, Matador Records", 
+        "justification": null, 
+        "media_id": "35399021", 
+        "description": "Poster announcing Japanese musical group, Pizzicato 5. Text layered over enlarged photographic images of the band members' faces. Matador Records logo in lower left corner, followed by text along bottom margin, \"introducing japan's coolest combo to u.s. and the whole world\". Band members' names in small type -- \"TAKANAMI, K-taro\" in lower left; \"NOMIYA, maki\" in upper center; \"KONISH, yasahara\" in lower right.", 
+        "creditline": "Gift of Mark Ohe", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "1994", 
+        "url": "https://collection.cooperhewitt.org/objects/18653983/", 
+        "type": "poster", 
+        "accession_number": "1996-60-9", 
+        "year_end": 1994, 
+        "signed": null, 
+        "inscribed": null, 
+        "period_id": null, 
+        "year_acquired": "1996", 
+        "woe:country_id": "23424977"
+    }
+}

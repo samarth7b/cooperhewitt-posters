@@ -1,0 +1,119 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": 1979, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": "offset lithograph on translucent tracing paper", 
+        "tms:id": "211529", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/266825_2216b2a2d9e80563_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "266825"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/266825_2216b2a2d9e80563_b.jpg", 
+                    "width": 752, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "266825"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/266825_2216b2a2d9e80563_d.gif", 
+                    "width": 235, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "266825"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/266825_2216b2a2d9e80563_z.jpg", 
+                    "width": 470, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "266825"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/266825_2216b2a2d9e80563_n.jpg", 
+                    "width": 235, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "266825"
+                }
+            }
+        ], 
+        "id": "18672173", 
+        "has_no_known_copyright": null, 
+        "dimensions": "71.1 x 51.4 cm (28 x 20 1/4 in. )", 
+        "title": "Poster, Exhibition Poster: Keith Sonnier, Porte-Voix, Galerie Eric Fabre, Paris, 1979", 
+        "provenance": null, 
+        "participants": [
+            {
+                "person_name": "General Acquisitions Endowment", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35352247/", 
+                "role_id": "35352247", 
+                "role_name": "Fund", 
+                "person_date": "", 
+                "role_display_name": "Fund:", 
+                "person_id": "18048535", 
+                "person_url": "https://collection.cooperhewitt.org/people/18048535/"
+            }, 
+            {
+                "person_name": "Keith Sonnier", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236565/", 
+                "role_id": "35236565", 
+                "role_name": "Artist", 
+                "person_date": "American, b. 1941", 
+                "role_display_name": "", 
+                "person_id": "18051563", 
+                "person_url": "https://collection.cooperhewitt.org/people/18051563/"
+            }, 
+            {
+                "person_name": "Lawrence Markey, Inc.", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35352249/", 
+                "role_id": "35352249", 
+                "role_name": "Vendor", 
+                "person_date": "", 
+                "role_display_name": "Purchased from", 
+                "person_id": "18051405", 
+                "person_url": "https://collection.cooperhewitt.org/people/18051405/"
+            }
+        ], 
+        "decade": "1970", 
+        "label_text": null, 
+        "woe:country": null, 
+        "dimensions_raw": {
+            "width": [
+                "51.40", 
+                "centimeters"
+            ], 
+            "height": [
+                "71.10", 
+                "centimeters"
+            ]
+        }, 
+        "department_id": "35347493", 
+        "title_raw": "Exhibition Poster: Keith Sonnier, Porte-Voix, Galerie Eric Fabre, Paris", 
+        "justification": null, 
+        "media_id": "35384543", 
+        "description": "Art exhibition poster with French text (in electronic typeface), a black circle and a red square, and black border.  At top, between \"Porte-Voix\" and \"Keith Sonnier\" is a black circle; near bottom, a red square, from which arcs the name \"Eric Fabre.\" The composition somewhat recalls a constructivist non-objective painting.", 
+        "creditline": "Museum purchase from General Acquisitions Endowment and Smithsonian Institution Collections Acquisition Program Funds", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "1979", 
+        "url": "https://collection.cooperhewitt.org/objects/18672173/", 
+        "type": "poster", 
+        "accession_number": "1999-45-26", 
+        "year_end": 1979, 
+        "signed": null, 
+        "inscribed": "Imprinted in black, top: \"PORTE-VOIX\"/ \"KEITH SONNIER\".  At bottom,imprinted in black, starting from red square in curve: \"ERIC FABRE\".  Imprinted in black, diagonnally from lower left to center: \"34 RUE DE SEINE\".  Imprinted in black, bottom: \" PARIS/ 18.10.79.\"", 
+        "period_id": null, 
+        "year_acquired": "1999", 
+        "woe:country_id": null
+    }
+}

@@ -1,0 +1,137 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": 1979, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": "offset lithograph on paper", 
+        "tms:id": "177396", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/80008_7936f254df992a08_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "80008"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/80008_7936f254df992a08_b.jpg", 
+                    "width": 635, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "80008"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/80008_7936f254df992a08_d.gif", 
+                    "width": 198, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "80008"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/80008_7936f254df992a08_z.jpg", 
+                    "width": 397, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "80008"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/80008_7936f254df992a08_n.jpg", 
+                    "width": 198, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "80008"
+                }
+            }, 
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/268888_c6bf1c3198fc603e_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "0", 
+                    "image_id": "268888"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/268888_c6bf1c3198fc603e_b.jpg", 
+                    "width": 646, 
+                    "height": 1024, 
+                    "is_primary": "0", 
+                    "image_id": "268888"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/268888_c6bf1c3198fc603e_d.gif", 
+                    "width": 202, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "268888"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/268888_c6bf1c3198fc603e_z.jpg", 
+                    "width": 404, 
+                    "height": 640, 
+                    "is_primary": "0", 
+                    "image_id": "268888"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/268888_c6bf1c3198fc603e_n.jpg", 
+                    "width": 202, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "268888"
+                }
+            }
+        ], 
+        "id": "18617727", 
+        "has_no_known_copyright": null, 
+        "woe:country_name": "United States", 
+        "dimensions": "H x W: 92.8 x 57.3 cm (36 9/16 x 22 9/16 in.)", 
+        "title": "Poster, Grand Rapids Art Museum, 1979", 
+        "provenance": "1981: acquired by Museum", 
+        "participants": [
+            {
+                "person_name": "Stephen Frykholm", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "American, b. 1942", 
+                "role_display_name": "Designed by", 
+                "person_id": "18042365", 
+                "person_url": "https://collection.cooperhewitt.org/people/18042365/"
+            }
+        ], 
+        "decade": "1970", 
+        "label_text": null, 
+        "woe:country": "23424977", 
+        "dimensions_raw": {
+            "width": [
+                "57.30", 
+                "centimeters"
+            ], 
+            "height": [
+                "92.80", 
+                "centimeters"
+            ]
+        }, 
+        "department_id": "35347493", 
+        "title_raw": "Grand Rapids Art Museum", 
+        "justification": null, 
+        "media_id": "35399021", 
+        "description": "Poster depicts a vertical rectangle containing a line drawing of the upper story of a building’s façade, focusing on the decorative elements: an eagle (under which some pigeons are perched), shutters, a lunette over the door; background is blue. Above, in white: GRAND RAPIDS ART MUSEUM.", 
+        "creditline": "Gift of Various Donors", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "1979", 
+        "url": "https://collection.cooperhewitt.org/objects/18617727/", 
+        "type": "poster", 
+        "accession_number": "1981-29-31", 
+        "year_end": 1979, 
+        "signed": null, 
+        "inscribed": "Printed in black ink, lower margin: © 1979 Grand Rapids Art Museum. Design by Stephen Frykholm.", 
+        "period_id": null, 
+        "year_acquired": "1981", 
+        "woe:country_id": "23424977"
+    }
+}

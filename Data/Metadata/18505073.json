@@ -1,0 +1,80 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": null, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": null, 
+        "tms:id": "163440", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/180535_51b25921c333b1c4_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "180535"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/180535_51b25921c333b1c4_b.jpg", 
+                    "width": 717, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "180535"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/180535_51b25921c333b1c4_d.gif", 
+                    "width": 224, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "180535"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/180535_51b25921c333b1c4_z.jpg", 
+                    "width": 448, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "180535"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/180535_51b25921c333b1c4_n.jpg", 
+                    "width": 224, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "180535"
+                }
+            }
+        ], 
+        "id": "18505073", 
+        "has_no_known_copyright": null, 
+        "woe:country_name": "United States", 
+        "dimensions": null, 
+        "title": "Poster, America Calls, U.S. Navy", 
+        "provenance": "1980: acquired by Museum", 
+        "participants": [], 
+        "decade": null, 
+        "label_text": null, 
+        "woe:country": "23424977", 
+        "dimensions_raw": null, 
+        "department_id": "35347493", 
+        "title_raw": "America Calls, U.S. Navy", 
+        "justification": null, 
+        "media_id": "35371135", 
+        "description": null, 
+        "creditline": "Gift of Unknown Donor", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": null, 
+        "url": "https://collection.cooperhewitt.org/objects/18505073/", 
+        "type": "poster", 
+        "accession_number": "1980-32-1187", 
+        "year_end": null, 
+        "signed": null, 
+        "inscribed": null, 
+        "period_id": null, 
+        "year_acquired": "1980", 
+        "woe:country_id": "23424977"
+    }
+}

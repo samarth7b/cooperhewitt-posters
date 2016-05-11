@@ -1,0 +1,138 @@
+<!doctype html>
+
+<style>
+* { box-sizing: border-box; }
+
+/* force scrollbar */
+html { overflow-y: scroll; }
+
+body { font-family: sans-serif; }
+
+/* ---- grid ---- */
+
+.grid {
+  background: #DDD;
+}
+
+/* clear fix */
+.grid:after {
+  content: '';
+  display: block;
+  clear: both;
+}
+
+/* ---- .grid-item ---- */
+
+.grid-sizer,
+.grid-item {
+  width: 20%;
+}
+
+.grid-item--width2 {
+	width: 20%;
+}
+
+.grid-item {
+  float: left;
+}
+
+.grid-item img {
+  display: block;
+  width: 100%;
+}
+</style>
+
+<script src="/Scripts/jquery-2.2.3.min.js"></script>
+<script src="/Scripts/masonry.pkgd.min.js"></script>
+<script src="https://npmcdn.com/imagesloaded@4.1/imagesloaded.pkgd.min.js"></script>
+
+<script>
+/*$('.grid').masonry({
+  // options
+  itemSelector: '.grid-item',
+  columnWidth: 200
+});*/
+
+// external js: masonry.pkgd.js, imagesloaded.pkgd.js
+
+// init Masonry after all images have loaded
+var $grid = $('.grid').imagesLoaded( function() {
+  $grid.masonry({
+    itemSelector: '.grid-item',
+    percentPosition: true,
+    columnWidth: '.grid-sizer'
+  }); 
+});
+</script>
+
+<head>
+<?php
+echo "My first PHP script!";
+?>
+</head>
+
+<body>
+	<h3>Masonry Test</h3>
+	
+	<div class="grid" data-masonry='{ "itemSelector": ".grid-item", "columnWidth": 200 }'>
+	  <div class="grid-sizer"></div>
+	    <div class="grid-item">
+	      <img src="/Data/Images/1.jpg" />
+	    </div>
+	    <div class="grid-item">
+	      <img src="/Data/Images/2.jpg" />
+	    </div>
+	    <div class="grid-item">
+	      <img src="/Data/Images/3.jpg" />
+	    </div>
+	    <div class="grid-item">
+	      <img src="/Data/Images/4.jpg" />
+	    </div>
+	    <div class="grid-item">
+	      <img src="/Data/Images/5.jpg" />
+	    </div>
+	    <div class="grid-item">
+	      <img src="/Data/Images/6.jpg" />
+	    </div>
+	    <div class="grid-item">
+	      <img src="/Data/Images/7.jpg" />
+	    </div>
+	    <div class="grid-item">
+	      <img src="/Data/Images/8.jpg" />
+	    </div>
+	    <div class="grid-item">
+	      <img src="/Data/Images/9.jpg" />
+	    </div>
+	    <div class="grid-item">
+	      <img src="/Data/Images/10.jpg" />
+	    </div>
+		
+		<!--div class="grid-item">
+		  <img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/82/orange-tree.jpg" />
+		</div>
+		<div class="grid-item">
+		  <img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/82/submerged.jpg" />
+		</div>
+		<div class="grid-item grid-item--width2">
+		  <img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/82/look-out.jpg" />
+		</div>
+		<div class="grid-item">
+		  <img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/82/one-world-trade.jpg" />
+		</div>
+		<div class="grid-item">
+		  <img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/82/drizzle.jpg" />
+		</div>
+		<div class="grid-item">
+		  <img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/82/cat-nose.jpg" />
+		</div>
+		<div class="grid-item">
+		  <img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/82/contrail.jpg" />
+		</div>
+		<div class="grid-item">
+		  <img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/82/golden-hour.jpg" />
+		</div>
+		<div class="grid-item">
+		  <img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/82/flight-formation.jpg" />
+		</div-->
+	</div>
+</body>

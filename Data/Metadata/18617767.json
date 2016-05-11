@@ -1,0 +1,100 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": null, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": null, 
+        "tms:id": "177416", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/201446_5e4d6374ba3fe639_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "201446"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/201446_5e4d6374ba3fe639_b.jpg", 
+                    "width": 701, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "201446"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/201446_5e4d6374ba3fe639_d.gif", 
+                    "width": 219, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "201446"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/201446_5e4d6374ba3fe639_z.jpg", 
+                    "width": 438, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "201446"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/201446_5e4d6374ba3fe639_n.jpg", 
+                    "width": 219, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "201446"
+                }
+            }
+        ], 
+        "id": "18617767", 
+        "has_no_known_copyright": null, 
+        "woe:country_name": "United States", 
+        "dimensions": "Overall: 52.5 x 35.2 cm (20 11/16 x 13 7/8 in.)", 
+        "title": "Poster, Advocate Crolyn Cromium Dioxine High Performance Tape Cassettes", 
+        "provenance": "1981: acquired by Museum", 
+        "participants": [
+            {
+                "person_name": "Robert P. Gersin", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "American, 1929 - 1989", 
+                "role_display_name": "Designed by", 
+                "person_id": "18057029", 
+                "person_url": "https://collection.cooperhewitt.org/people/18057029/"
+            }
+        ], 
+        "decade": null, 
+        "label_text": null, 
+        "woe:country": "23424977", 
+        "dimensions_raw": {
+            "width": [
+                "35.20", 
+                "centimeters"
+            ], 
+            "height": [
+                "52.50", 
+                "centimeters"
+            ]
+        }, 
+        "department_id": "35347493", 
+        "title_raw": "Advocate Crolyn Cromium Dioxine High Performance Tape Cassettes", 
+        "justification": null, 
+        "media_id": "35371135", 
+        "description": null, 
+        "creditline": "Gift of Various Donors", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": null, 
+        "url": "https://collection.cooperhewitt.org/objects/18617767/", 
+        "type": "poster", 
+        "accession_number": "1981-29-328", 
+        "year_end": null, 
+        "signed": null, 
+        "inscribed": null, 
+        "period_id": null, 
+        "year_acquired": "1981", 
+        "woe:country_id": "23424977"
+    }
+}

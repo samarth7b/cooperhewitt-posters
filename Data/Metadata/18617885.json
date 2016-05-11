@@ -1,0 +1,100 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": null, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": "lithograph on paper", 
+        "tms:id": "177476", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/269781_ce2af492a226c71d_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "269781"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/269781_ce2af492a226c71d_b.jpg", 
+                    "width": 707, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "269781"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/269781_ce2af492a226c71d_d.gif", 
+                    "width": 221, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "269781"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/269781_ce2af492a226c71d_z.jpg", 
+                    "width": 442, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "269781"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/269781_ce2af492a226c71d_n.jpg", 
+                    "width": 221, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "269781"
+                }
+            }
+        ], 
+        "id": "18617885", 
+        "has_no_known_copyright": null, 
+        "woe:country_name": "United States", 
+        "dimensions": "125.7 x 86.5 cm (49 1/2 x 34 1/16 in.)", 
+        "title": "Poster, Artists Interpret the Butterfly, 20th century", 
+        "provenance": "1981: acquired by Museum", 
+        "participants": [
+            {
+                "person_name": "Joseph Erceg", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "America", 
+                "role_display_name": "Designed by", 
+                "person_id": "18056995", 
+                "person_url": "https://collection.cooperhewitt.org/people/18056995/"
+            }
+        ], 
+        "decade": null, 
+        "label_text": null, 
+        "woe:country": "23424977", 
+        "dimensions_raw": {
+            "width": [
+                "86.50", 
+                "centimeters"
+            ], 
+            "height": [
+                "125.70", 
+                "centimeters"
+            ]
+        }, 
+        "department_id": "35347493", 
+        "title_raw": "Artists Interpret the Butterfly", 
+        "justification": null, 
+        "media_id": "35419317", 
+        "description": null, 
+        "creditline": "Gift of Various Donors", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "20th century", 
+        "url": "https://collection.cooperhewitt.org/objects/18617885/", 
+        "type": "poster", 
+        "accession_number": "1981-29-381", 
+        "year_end": null, 
+        "signed": null, 
+        "inscribed": null, 
+        "period_id": null, 
+        "year_acquired": "1981", 
+        "woe:country_id": "23424977"
+    }
+}

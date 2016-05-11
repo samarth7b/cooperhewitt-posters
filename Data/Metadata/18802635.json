@@ -1,0 +1,80 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": null, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": null, 
+        "tms:id": "181503", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/200779_5b74da767240d279_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "200779"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/200779_5b74da767240d279_b.jpg", 
+                    "width": 605, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "200779"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/200779_5b74da767240d279_d.gif", 
+                    "width": 189, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "200779"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/200779_5b74da767240d279_z.jpg", 
+                    "width": 378, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "200779"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/200779_5b74da767240d279_n.jpg", 
+                    "width": 189, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "200779"
+                }
+            }
+        ], 
+        "id": "18802635", 
+        "has_no_known_copyright": null, 
+        "woe:country_name": "Spain", 
+        "dimensions": null, 
+        "title": "Poster (Spain)", 
+        "provenance": null, 
+        "participants": [], 
+        "decade": null, 
+        "label_text": null, 
+        "woe:country": "23424950", 
+        "dimensions_raw": null, 
+        "department_id": "35347493", 
+        "title_raw": null, 
+        "justification": null, 
+        "media_id": "35371135", 
+        "description": null, 
+        "creditline": null, 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": null, 
+        "url": "https://collection.cooperhewitt.org/objects/18802635/", 
+        "type": "poster", 
+        "accession_number": "1984-51-1", 
+        "year_end": null, 
+        "signed": null, 
+        "inscribed": null, 
+        "period_id": null, 
+        "year_acquired": "1984", 
+        "woe:country_id": "23424950"
+    }
+}

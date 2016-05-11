@@ -1,0 +1,147 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": 2006, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": "digital print on wove paper", 
+        "tms:id": "241579", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/30499_ea71baab7e254acf_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "30499"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/30499_ea71baab7e254acf_b.jpg", 
+                    "width": 719, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "30499"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/30499_ea71baab7e254acf_d.gif", 
+                    "width": 225, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "30499"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/30499_ea71baab7e254acf_z.jpg", 
+                    "width": 449, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "30499"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/30499_ea71baab7e254acf_n.jpg", 
+                    "width": 225, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "30499"
+                }
+            }, 
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/182467_c26a2c2c0f8b066e_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "0", 
+                    "image_id": "182467"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/182467_c26a2c2c0f8b066e_b.jpg", 
+                    "width": 743, 
+                    "height": 1024, 
+                    "is_primary": "0", 
+                    "image_id": "182467"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/182467_c26a2c2c0f8b066e_d.gif", 
+                    "width": 232, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "182467"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/182467_c26a2c2c0f8b066e_z.jpg", 
+                    "width": 464, 
+                    "height": 640, 
+                    "is_primary": "0", 
+                    "image_id": "182467"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/182467_c26a2c2c0f8b066e_n.jpg", 
+                    "width": 232, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "182467"
+                }
+            }
+        ], 
+        "id": "18730971", 
+        "has_no_known_copyright": null, 
+        "woe:country_name": "Netherlands", 
+        "dimensions": "Sheet: 59.9 x 41.9 cm (23 9/16 x 16 1/2 in.)", 
+        "title": "Poster, Call for Entry for \"Entry Paradise\" Installation, Biggest Visual Power Show, 2006", 
+        "provenance": "Mieke Gerritzen; 2009: acquired by Museum", 
+        "participants": [
+            {
+                "person_name": "Mieke Gerritzen", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35351535/", 
+                "role_id": "35351535", 
+                "role_name": "Donor", 
+                "person_date": "Dutch, b. 1962", 
+                "role_display_name": "Donated by", 
+                "person_id": "18062341", 
+                "person_url": "https://collection.cooperhewitt.org/people/18062341/"
+            }, 
+            {
+                "person_name": "Mieke Gerritzen", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "Dutch, b. 1962", 
+                "role_display_name": "Designed by", 
+                "person_id": "18062341", 
+                "person_url": "https://collection.cooperhewitt.org/people/18062341/"
+            }
+        ], 
+        "decade": "2000", 
+        "label_text": null, 
+        "woe:country": "23424909", 
+        "dimensions_raw": {
+            "width": [
+                "41.90", 
+                "centimeters"
+            ], 
+            "height": [
+                "59.90", 
+                "centimeters"
+            ]
+        }, 
+        "department_id": "35347493", 
+        "title_raw": "Call for Entry for \"Entry Paradise\" Installation, Biggest Visual Power Show", 
+        "justification": null, 
+        "media_id": "35433217", 
+        "description": "Poster in black and cream with all over text; upper margin: ENTRY-2006: ALL MEDIA, NEUMANN-LUZ, SANDBERG INSTITUTE PRESENT: / THE BIGGEST VISUAL POWER SHOW 2006.", 
+        "creditline": "Gift of Mieke Gerritzen", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "2006", 
+        "url": "https://collection.cooperhewitt.org/objects/18730971/", 
+        "type": "poster", 
+        "accession_number": "2009-39-6", 
+        "year_end": 2006, 
+        "signed": null, 
+        "inscribed": null, 
+        "period_id": "35435527", 
+        "year_acquired": "2009", 
+        "woe:country_id": "23424909"
+    }
+}

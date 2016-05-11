@@ -1,0 +1,91 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": null, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": null, 
+        "tms:id": "177305", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/200588_309e3987cac7b64d_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "200588"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/200588_309e3987cac7b64d_b.jpg", 
+                    "width": 814, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "200588"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/200588_309e3987cac7b64d_d.gif", 
+                    "width": 254, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "200588"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/200588_309e3987cac7b64d_z.jpg", 
+                    "width": 508, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "200588"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/200588_309e3987cac7b64d_n.jpg", 
+                    "width": 254, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "200588"
+                }
+            }
+        ], 
+        "id": "18617545", 
+        "has_no_known_copyright": null, 
+        "woe:country_name": "United States", 
+        "dimensions": null, 
+        "title": "Poster, Cranbrook", 
+        "provenance": "1981: acquired by Museum", 
+        "participants": [
+            {
+                "person_name": "Patricia E. Cornell", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "", 
+                "role_display_name": "Designed by", 
+                "person_id": "68263945", 
+                "person_url": "https://collection.cooperhewitt.org/people/68263945/"
+            }
+        ], 
+        "decade": null, 
+        "label_text": null, 
+        "woe:country": "23424977", 
+        "dimensions_raw": null, 
+        "department_id": "35347493", 
+        "title_raw": "Cranbrook", 
+        "justification": null, 
+        "media_id": "35371135", 
+        "description": null, 
+        "creditline": "Gift of Various Donors", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": null, 
+        "url": "https://collection.cooperhewitt.org/objects/18617545/", 
+        "type": "poster", 
+        "accession_number": "1981-29-23", 
+        "year_end": null, 
+        "signed": null, 
+        "inscribed": null, 
+        "period_id": null, 
+        "year_acquired": "1981", 
+        "woe:country_id": "23424977"
+    }
+}

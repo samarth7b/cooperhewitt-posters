@@ -1,0 +1,157 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": 1990, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": "offset lithograph on white wove paper", 
+        "tms:id": "223220", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/50027_998b86ec71a6dc27_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "50027"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/50027_998b86ec71a6dc27_b.jpg", 
+                    "width": 551, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "50027"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/50027_998b86ec71a6dc27_d.gif", 
+                    "width": 172, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "50027"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/50027_998b86ec71a6dc27_z.jpg", 
+                    "width": 344, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "50027"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/50027_998b86ec71a6dc27_n.jpg", 
+                    "width": 172, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "50027"
+                }
+            }, 
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/257308_1d7202d0d97fb252_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "0", 
+                    "image_id": "257308"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/257308_1d7202d0d97fb252_b.jpg", 
+                    "width": 576, 
+                    "height": 1024, 
+                    "is_primary": "0", 
+                    "image_id": "257308"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/257308_1d7202d0d97fb252_d.gif", 
+                    "width": 180, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "257308"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/257308_1d7202d0d97fb252_z.jpg", 
+                    "width": 360, 
+                    "height": 640, 
+                    "is_primary": "0", 
+                    "image_id": "257308"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/257308_1d7202d0d97fb252_n.jpg", 
+                    "width": 180, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "257308"
+                }
+            }
+        ], 
+        "id": "18695307", 
+        "has_no_known_copyright": null, 
+        "woe:country_name": "United States", 
+        "dimensions": "91.4 x 49.5 cm (36 x 19 1/2 in. )", 
+        "title": "Poster, Benjamin Franklin, Celebrating 200 Years, 1990", 
+        "provenance": "Marion S. Rand", 
+        "participants": [
+            {
+                "person_name": "Karin Zonis", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35352245/", 
+                "role_id": "35352245", 
+                "role_name": "Cataloguer", 
+                "person_date": "", 
+                "role_display_name": "Catalogued by", 
+                "person_id": "51676457", 
+                "person_url": "https://collection.cooperhewitt.org/people/51676457/"
+            }, 
+            {
+                "person_name": "Marion S. Rand", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35351535/", 
+                "role_id": "35351535", 
+                "role_name": "Donor", 
+                "person_date": "", 
+                "role_display_name": "Donated by", 
+                "person_id": "18538789", 
+                "person_url": "https://collection.cooperhewitt.org/people/18538789/"
+            }, 
+            {
+                "person_name": "Paul Rand", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "American, 1914–1996", 
+                "role_display_name": "Designed by", 
+                "person_id": "18042341", 
+                "person_url": "https://collection.cooperhewitt.org/people/18042341/"
+            }
+        ], 
+        "decade": "1990", 
+        "label_text": null, 
+        "woe:country": "23424977", 
+        "dimensions_raw": {
+            "width": [
+                "49.50", 
+                "centimeters"
+            ], 
+            "height": [
+                "91.40", 
+                "centimeters"
+            ]
+        }, 
+        "department_id": "35347493", 
+        "title_raw": "Benjamin Franklin, Celebrating 200 Years", 
+        "justification": null, 
+        "media_id": "35431673", 
+        "description": "Long vertical rectangular poster with gray background; '90 printed in white across upper center.  Inside \"0\" Benjamin Franklin's silhouette in gray.  Across lower center Franklin's signature in black: B. Franklin.  At lower left, imprinted in black and white: lower left quadrant: 1790-1990 / Celebrating 200 years / of his Genius.", 
+        "creditline": "Gift of Marion S. Rand", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "1990", 
+        "url": "https://collection.cooperhewitt.org/objects/18695307/", 
+        "type": "poster", 
+        "accession_number": "2002-11-10", 
+        "year_end": 1990, 
+        "signed": "Signature imprinted in dark gray ink, lower right corner: Paul Rand", 
+        "inscribed": "Imprinted in black, lower left margin: Typesetting: PDR, New York Printing: Mossberg & Co., South Bend, IN", 
+        "period_id": null, 
+        "year_acquired": "2002", 
+        "woe:country_id": "23424977"
+    }
+}

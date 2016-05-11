@@ -1,0 +1,90 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": null, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": null, 
+        "tms:id": "202695", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/198682_e260e123b9239958_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "198682"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/198682_e260e123b9239958_b.jpg", 
+                    "width": 665, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "198682"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/198682_e260e123b9239958_d.gif", 
+                    "width": 208, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "198682"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/198682_e260e123b9239958_z.jpg", 
+                    "width": 415, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "198682"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/198682_e260e123b9239958_n.jpg", 
+                    "width": 208, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "198682"
+                }
+            }
+        ], 
+        "id": "18655437", 
+        "has_no_known_copyright": null, 
+        "dimensions": null, 
+        "title": "Poster, New Writing at the Detroit Institute of Art", 
+        "provenance": null, 
+        "participants": [
+            {
+                "person_name": "Katherine McCoy", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35351535/", 
+                "role_id": "35351535", 
+                "role_name": "Donor", 
+                "person_date": "American, b. 1945", 
+                "role_display_name": "Donated by", 
+                "person_id": "18042311", 
+                "person_url": "https://collection.cooperhewitt.org/people/18042311/"
+            }
+        ], 
+        "decade": null, 
+        "label_text": null, 
+        "woe:country": null, 
+        "dimensions_raw": null, 
+        "department_id": "35347493", 
+        "title_raw": "New Writing at the Detroit Institute of Art", 
+        "justification": null, 
+        "media_id": "35371135", 
+        "description": null, 
+        "creditline": "Gift of Katherine McCoy", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": null, 
+        "url": "https://collection.cooperhewitt.org/objects/18655437/", 
+        "type": "poster", 
+        "accession_number": "1997-57-11", 
+        "year_end": null, 
+        "signed": null, 
+        "inscribed": null, 
+        "period_id": null, 
+        "year_acquired": "1997", 
+        "woe:country_id": null
+    }
+}

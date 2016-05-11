@@ -1,0 +1,109 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": 1975, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": "offset lithograph on white wove paper", 
+        "tms:id": "212153", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/269876_773fb9fd45a8a18f_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "269876"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/269876_773fb9fd45a8a18f_b.jpg", 
+                    "width": 693, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "269876"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/269876_773fb9fd45a8a18f_d.gif", 
+                    "width": 217, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "269876"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/269876_773fb9fd45a8a18f_z.jpg", 
+                    "width": 433, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "269876"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/269876_773fb9fd45a8a18f_n.jpg", 
+                    "width": 217, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "269876"
+                }
+            }
+        ], 
+        "id": "18673421", 
+        "has_no_known_copyright": null, 
+        "dimensions": "114.1 x 76.2 cm (44 15/16 x 30 in. )", 
+        "title": "Poster, The Sensational Houdini Water Torture Escape, 1975", 
+        "provenance": null, 
+        "participants": [
+            {
+                "person_name": "Seymour Chwast", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "American, b. 1931", 
+                "role_display_name": "Designed by", 
+                "person_id": "18042087", 
+                "person_url": "https://collection.cooperhewitt.org/people/18042087/"
+            }, 
+            {
+                "person_name": "Ken Friedman", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35351535/", 
+                "role_id": "35351535", 
+                "role_name": "Donor", 
+                "person_date": "", 
+                "role_display_name": "Donated by", 
+                "person_id": "18049807", 
+                "person_url": "https://collection.cooperhewitt.org/people/18049807/"
+            }
+        ], 
+        "decade": "1970", 
+        "label_text": null, 
+        "woe:country": null, 
+        "dimensions_raw": {
+            "width": [
+                "76.20", 
+                "centimeters"
+            ], 
+            "height": [
+                "114.10", 
+                "centimeters"
+            ]
+        }, 
+        "department_id": "35347493", 
+        "title_raw": "The Sensational Houdini Water Torture Escape", 
+        "justification": null, 
+        "media_id": "35431673", 
+        "description": "Executed in Chwast's characteristic style, influenced by children's drawings and comic books, the brightly colored poster advertises the televised  magic show of Doug Hennings.  Across the upper section in yellow, red and black, the words \"The Sensational Houdini Water Torture ESCAPE\" appear in a curvelinear banner on a green field.  In the center Doug Hennings is shown upside down in a clear tank of water wearing a yellow and red swimsuit and handcuffs. He is attended on either side by two women wearing turquoise tutus, white top hats and heels and holding walking sticks. At right a portrait of Hennings in a tondo with a pink banner below reading in yellow letters : By Doug Henning / starring in \"THE MAGIC SHOW\" ONE of BROADWAY'S BRIGHTEST RECENT HITS. On the left a green banner with red and lavender letters  proclaims ATTEMPTED FOR THE FIRST TIME / \"LIVE\" / ON TELEVISION!!! / DURING THE MOBIL [logo shown] / SHOWCASE / PRESENTATION OF / \"THE WORLD OF / MAGIC\" / DECEMBER 26 / ON NBC AT 8PM EST. / SPECIAL GUEST STARS / ORSEN WELLS / BILL COSBY / JULIE NEWMAR", 
+        "creditline": "Gift of Ken Friedman", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "1975", 
+        "url": "https://collection.cooperhewitt.org/objects/18673421/", 
+        "type": "poster", 
+        "accession_number": "1997-19-202", 
+        "year_end": 1975, 
+        "signed": null, 
+        "inscribed": "Printed across lower edge in black: Remember: this will be a \"live\" broadcast of a breathtaking feat never attempted before under these circumstances.", 
+        "period_id": null, 
+        "year_acquired": "1997", 
+        "woe:country_id": null
+    }
+}

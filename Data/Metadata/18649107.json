@@ -1,0 +1,207 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": "Raúl Martínez’s abstractionism in both painting and graphic design was significant to the development of Cuban art history during the mid-twentieth century. By 1961, Martínez painted numerous portraits for political propaganda, mostly portraying Cuban leaders as heroic subjects. Together the iconography and stylistic elements in this poster are visual expressions of the enthusiasm stirred in the Cuban Revolution of 1959. Fidel, leader of the revolution, is depicted in a three-quarter portrait, diagonally looking upward, implying the sense of power and adoration he aspired to instill in Cubans. The ‘26’ and star beside Fidel most likely reference the movimiento 26 de julio, the 26th of July movement in 1959.  Fidel and Che Guevara planned the 26th of July movement to overthrow the regime of Fulgencio Batista. For many Cubans, this movement was believed to be the start to a new and more prosperous Cuba. This poster classifies Martinez as a distinguished graphic designer for his dedication to retelling Cuban political history through colorful folk art illustrations that appeal to a universal audience.", 
+        "year_start": 1968, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": "silkscreen on wove paper", 
+        "tms:id": "199463", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/89859_be1ef14e2e459ec9_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "89859"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/89859_be1ef14e2e459ec9_b.jpg", 
+                    "width": 960, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "89859"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/89859_be1ef14e2e459ec9_d.gif", 
+                    "width": 300, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "89859"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/89859_be1ef14e2e459ec9_z.jpg", 
+                    "width": 600, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "89859"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/89859_be1ef14e2e459ec9_n.jpg", 
+                    "width": 300, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "89859"
+                }
+            }, 
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/140699_c34181eda9c86e9a_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "0", 
+                    "image_id": "140699"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/140699_c34181eda9c86e9a_b.jpg", 
+                    "width": 957, 
+                    "height": 1024, 
+                    "is_primary": "0", 
+                    "image_id": "140699"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/140699_c34181eda9c86e9a_d.gif", 
+                    "width": 299, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "140699"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/140699_c34181eda9c86e9a_z.jpg", 
+                    "width": 598, 
+                    "height": 640, 
+                    "is_primary": "0", 
+                    "image_id": "140699"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/140699_c34181eda9c86e9a_n.jpg", 
+                    "width": 299, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "140699"
+                }
+            }
+        ], 
+        "id": "18649107", 
+        "has_no_known_copyright": null, 
+        "woe:country_name": "Cuba", 
+        "dimensions": "53.3 x 50.8 cm (21 x 20 in.)", 
+        "title": "Poster, Fidel, 1968", 
+        "provenance": "1994: acquired by Museum (from Reinhold Brown Gallery New York, NY)", 
+        "participants": [
+            {
+                "person_name": "Dr. Gail Davidson", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35352245/", 
+                "role_id": "35352245", 
+                "role_name": "Cataloguer", 
+                "person_date": "", 
+                "role_display_name": "Catalogued by", 
+                "person_id": "18048255", 
+                "person_url": "https://collection.cooperhewitt.org/people/18048255/"
+            }, 
+            {
+                "person_name": "Reinhold Brown Gallery", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35352249/", 
+                "role_id": "35352249", 
+                "role_name": "Vendor", 
+                "person_date": "", 
+                "role_display_name": "Purchased from", 
+                "person_id": "18041557", 
+                "person_url": "https://collection.cooperhewitt.org/people/18041557/"
+            }, 
+            {
+                "person_name": "Smithsonian Institution CAP Funds--do not use", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35352247/", 
+                "role_id": "35352247", 
+                "role_name": "Fund", 
+                "person_date": "", 
+                "role_display_name": "Fund:", 
+                "person_id": "18048931", 
+                "person_url": "https://collection.cooperhewitt.org/people/18048931/"
+            }, 
+            {
+                "person_name": "ss", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35352245/", 
+                "role_id": "35352245", 
+                "role_name": "Cataloguer", 
+                "person_date": "", 
+                "role_display_name": "Catalogued by", 
+                "person_id": "18047797", 
+                "person_url": "https://collection.cooperhewitt.org/people/18047797/"
+            }, 
+            {
+                "person_name": "SR", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35352245/", 
+                "role_id": "35352245", 
+                "role_name": "Cataloguer", 
+                "person_date": "", 
+                "role_display_name": "Catalogued by", 
+                "person_id": "18047543", 
+                "person_url": "https://collection.cooperhewitt.org/people/18047543/"
+            }, 
+            {
+                "person_name": "The Cuban Institute of Cinematographic Art and Industry (ICAIC)", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236667/", 
+                "role_id": "35236667", 
+                "role_name": "Client", 
+                "person_date": "Cuba", 
+                "role_display_name": "Client:", 
+                "person_id": "18043359", 
+                "person_url": "https://collection.cooperhewitt.org/people/18043359/"
+            }, 
+            {
+                "person_name": "Raul Martinez, Cuban", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236565/", 
+                "role_id": "35236565", 
+                "role_name": "Artist", 
+                "person_date": "b. 1927", 
+                "role_display_name": "", 
+                "person_id": "18043365", 
+                "person_url": "https://collection.cooperhewitt.org/people/18043365/"
+            }, 
+            {
+                "person_name": "Martinez", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "", 
+                "role_display_name": "Designed by", 
+                "person_id": "18048933", 
+                "person_url": "https://collection.cooperhewitt.org/people/18048933/"
+            }
+        ], 
+        "decade": "1960", 
+        "label_text": null, 
+        "woe:country": "23424793", 
+        "dimensions_raw": {
+            "width": [
+                "50.80", 
+                "centimeters"
+            ], 
+            "height": [
+                "53.30", 
+                "centimeters"
+            ]
+        }, 
+        "department_id": "35347493", 
+        "title_raw": "Fidel", 
+        "justification": null, 
+        "media_id": "35434615", 
+        "description": "Bust of Fidel Castro facing right, with number 26 and star at left in asymmetrical field; Fidel and star in elliptical field below. In psychedelic colors of pink, orange, green, yellow and blue.", 
+        "creditline": "Museum purchase from Smithsonian Institution Collections Acquisition Program Fund and through gift of Anonymous Donors", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "1968", 
+        "url": "https://collection.cooperhewitt.org/objects/18649107/", 
+        "type": "poster", 
+        "accession_number": "1994-65-6", 
+        "year_end": 1968, 
+        "signed": "Signed and dated lower left on image: R,Martinez 68", 
+        "inscribed": null, 
+        "period_id": null, 
+        "year_acquired": "1994", 
+        "woe:country_id": "23424793"
+    }
+}

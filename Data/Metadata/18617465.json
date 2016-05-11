@@ -1,0 +1,91 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": null, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": null, 
+        "tms:id": "177265", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/266704_604f88401c7d112e_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "266704"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/266704_604f88401c7d112e_b.jpg", 
+                    "width": 1024, 
+                    "height": 507, 
+                    "is_primary": "1", 
+                    "image_id": "266704"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/266704_604f88401c7d112e_d.gif", 
+                    "width": 320, 
+                    "height": 158, 
+                    "is_primary": "1", 
+                    "image_id": "266704"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/266704_604f88401c7d112e_z.jpg", 
+                    "width": 640, 
+                    "height": 317, 
+                    "is_primary": "1", 
+                    "image_id": "266704"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/266704_604f88401c7d112e_n.jpg", 
+                    "width": 320, 
+                    "height": 158, 
+                    "is_primary": "1", 
+                    "image_id": "266704"
+                }
+            }
+        ], 
+        "id": "18617465", 
+        "has_no_known_copyright": null, 
+        "woe:country_name": "United States", 
+        "dimensions": null, 
+        "title": "Poster, Pssssssst. You Belong in the Zoo", 
+        "provenance": "1981: acquired by Museum", 
+        "participants": [
+            {
+                "person_name": "Raul Trejo", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "", 
+                "role_display_name": "Designed by", 
+                "person_id": "18535751", 
+                "person_url": "https://collection.cooperhewitt.org/people/18535751/"
+            }
+        ], 
+        "decade": null, 
+        "label_text": null, 
+        "woe:country": "23424977", 
+        "dimensions_raw": null, 
+        "department_id": "35347493", 
+        "title_raw": "Pssssssst. You Belong in the Zoo", 
+        "justification": null, 
+        "media_id": "35371135", 
+        "description": null, 
+        "creditline": "Gift of Various Donors", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": null, 
+        "url": "https://collection.cooperhewitt.org/objects/18617465/", 
+        "type": "poster", 
+        "accession_number": "1981-29-194", 
+        "year_end": null, 
+        "signed": null, 
+        "inscribed": null, 
+        "period_id": null, 
+        "year_acquired": "1981", 
+        "woe:country_id": "23424977"
+    }
+}

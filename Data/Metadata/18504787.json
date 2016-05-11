@@ -1,0 +1,99 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": 1975, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": "lithograph on paper", 
+        "tms:id": "163297", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/255404_557fc89577a88a28_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "255404"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/255404_557fc89577a88a28_b.jpg", 
+                    "width": 1024, 
+                    "height": 670, 
+                    "is_primary": "1", 
+                    "image_id": "255404"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/255404_557fc89577a88a28_d.gif", 
+                    "width": 320, 
+                    "height": 209, 
+                    "is_primary": "1", 
+                    "image_id": "255404"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/255404_557fc89577a88a28_z.jpg", 
+                    "width": 640, 
+                    "height": 419, 
+                    "is_primary": "1", 
+                    "image_id": "255404"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/255404_557fc89577a88a28_n.jpg", 
+                    "width": 320, 
+                    "height": 209, 
+                    "is_primary": "1", 
+                    "image_id": "255404"
+                }
+            }
+        ], 
+        "id": "18504787", 
+        "has_no_known_copyright": null, 
+        "dimensions": "56.5 x 87.5 cm (22 1/4 x 34 7/16 in.)", 
+        "title": "Poster, Simon Lissim Curtain Design, 1975", 
+        "provenance": null, 
+        "participants": [
+            {
+                "person_name": "Simon Lissim", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "American, b. Kiev, Russia, 1900–1981", 
+                "role_display_name": "Designed by", 
+                "person_id": "18043845", 
+                "person_url": "https://collection.cooperhewitt.org/people/18043845/"
+            }
+        ], 
+        "decade": "1970", 
+        "label_text": null, 
+        "woe:country": null, 
+        "dimensions_raw": {
+            "width": [
+                "87.47", 
+                "centimeters"
+            ], 
+            "height": [
+                "56.52", 
+                "centimeters"
+            ]
+        }, 
+        "department_id": "35347493", 
+        "title_raw": "Simon Lissim Curtain Design", 
+        "justification": null, 
+        "media_id": "35419317", 
+        "description": null, 
+        "creditline": "Gift of Unknown Donor", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "1975", 
+        "url": "https://collection.cooperhewitt.org/objects/18504787/", 
+        "type": "poster", 
+        "accession_number": "1980-32-1032", 
+        "year_end": 1975, 
+        "signed": "in pencil", 
+        "inscribed": null, 
+        "period_id": null, 
+        "year_acquired": "1980", 
+        "woe:country_id": null
+    }
+}

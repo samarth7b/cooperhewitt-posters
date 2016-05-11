@@ -1,0 +1,147 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": 1995, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": "offset lithograph on paper", 
+        "tms:id": "212378", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/63943_06421a7742882daa_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "63943"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/63943_06421a7742882daa_b.jpg", 
+                    "width": 791, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "63943"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/63943_06421a7742882daa_d.gif", 
+                    "width": 247, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "63943"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/63943_06421a7742882daa_z.jpg", 
+                    "width": 494, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "63943"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/63943_06421a7742882daa_n.jpg", 
+                    "width": 247, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "63943"
+                }
+            }, 
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/203684_3c38e98a098a3743_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "0", 
+                    "image_id": "203684"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/203684_3c38e98a098a3743_b.jpg", 
+                    "width": 796, 
+                    "height": 1024, 
+                    "is_primary": "0", 
+                    "image_id": "203684"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/203684_3c38e98a098a3743_d.gif", 
+                    "width": 249, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "203684"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/203684_3c38e98a098a3743_z.jpg", 
+                    "width": 497, 
+                    "height": 640, 
+                    "is_primary": "0", 
+                    "image_id": "203684"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/203684_3c38e98a098a3743_n.jpg", 
+                    "width": 249, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "203684"
+                }
+            }
+        ], 
+        "id": "18673871", 
+        "has_no_known_copyright": null, 
+        "woe:country_name": "United States", 
+        "dimensions": "56 x 43.3 cm (22 1/16 x 17 1/16 in.)", 
+        "title": "Poster, Radical Modernism: Works by Dan Friedman, 1995", 
+        "provenance": "Dan Friedman; Ken Friedman; 1997: acquired by Museum", 
+        "participants": [
+            {
+                "person_name": "Ken Friedman", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35351535/", 
+                "role_id": "35351535", 
+                "role_name": "Donor", 
+                "person_date": "", 
+                "role_display_name": "Donated by", 
+                "person_id": "18049807", 
+                "person_url": "https://collection.cooperhewitt.org/people/18049807/"
+            }, 
+            {
+                "person_name": "Dan Friedman", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "American, 1945–1995", 
+                "role_display_name": "Designed by", 
+                "person_id": "18041325", 
+                "person_url": "https://collection.cooperhewitt.org/people/18041325/"
+            }
+        ], 
+        "decade": "1990", 
+        "label_text": null, 
+        "woe:country": "23424977", 
+        "dimensions_raw": {
+            "width": [
+                "43.30", 
+                "centimeters"
+            ], 
+            "height": [
+                "56.00", 
+                "centimeters"
+            ]
+        }, 
+        "department_id": "35347493", 
+        "title_raw": "Radical Modernism: Works by Dan Friedman", 
+        "justification": null, 
+        "media_id": "35399021", 
+        "description": "Black and white photograph of top of Dan Friedman’s bald head ona black ground. This is on a black ground with text in white that reads: Radical Modernism: / Works by Dan Friedman / An exhibition of photographs and objects / documenting Friedman’s twenty-five year career / as a designer, artist, and educator. In thought bubble above, in black: Modernism / has been limited / within obvious and simplistic / types of order/ and has rarely reached its potential / for complex, coherent / vitality. This is on a background of fuchsia depicting various items, such as a ruler, a star, wooden panel, and a film reel.  On left, column of text in white and black on fuchsia background: Radical Modernism: / Works by Dan Friedman / Exhibition: / Bakalar Gallery / Massachusetts College of Art / 621 Huntington Avenue / Boston, MA 02115 / Opening Reception: / Tuesday, January 17th, 5-7 pm / An informal gallery talk by the / artist will take place from 4-5 pm / immediately preceding the opening. / Exhibit runs Tuesday, January 17 / until Saturday, February 25, 1995. / Open Monday-Friday 10 to 6, / Saturday 11 to 5. / The Gallery is free and open to / the public. It is located at the corner of Longwood and Huntington / Avenue, Longwood/Hospital T stop, / Green line E Train. / Event parking is available diago- / nally across the street in the / MassArt parking lot. The lot closes / at 11pm. / This exhibition has been organized / and circulated by the Goldie Paley / Gallery at Moore College of Art and / Design, Philadelphia, and is sup- / ported by grants from the National / Endowment for the Arts and the / Pennsylvania Council on the Arts. / Call 617-232-1555 x550 for / information on related events. / Slide Lecture: Sponsored by AIGA/Boston / Monday, February 13, 1995 / at 6:30 p.m. in Tower Auditorium, / Massachusetts College of Art. / Tickets: AIGA membership $5.00, / Non-members $10.00, Students / with ID, $3.00, AIGA student / members free, MassArt students / with ID free. Tower Auditorium and / the Bakalar Gallery are wheel-chair / accessible.", 
+        "creditline": "Gift of Ken Friedman", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "1995", 
+        "url": "https://collection.cooperhewitt.org/objects/18673871/", 
+        "type": "poster", 
+        "accession_number": "1997-19-425", 
+        "year_end": 1995, 
+        "signed": null, 
+        "inscribed": "Inscribed, lower right, in black on fuchsia ground: Photo: Joseph Coscia, Jr / Printing: Mercantile Printing, Worcester, MA / Paper: Strathmore Renewal White text / Design: Chris Pullman, WGBH Design / Dan made me use the Day-Glo ink.; The purpose of the American Institute of Graphic Arts is to advance excellence in graphic design as a discipline, / profession and cultural force. The AIGA provides leadership in the exchange of ideas and information, the encouragement of critical analysis and research, and advancement of education and ethical practice. / Fro more information about AIGA/Boston, upcoming events or becoming a member, please call our Hotline: 617 446 9082. / Press 1 for events, press 2 for membership.", 
+        "period_id": null, 
+        "year_acquired": "1997", 
+        "woe:country_id": "23424977"
+    }
+}

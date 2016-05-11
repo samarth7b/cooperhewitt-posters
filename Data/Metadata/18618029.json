@@ -1,0 +1,137 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": null, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": "screenprint on paper", 
+        "tms:id": "177548", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/90316_ab75a0d3c581df99_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "90316"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/90316_ab75a0d3c581df99_b.jpg", 
+                    "width": 730, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "90316"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/90316_ab75a0d3c581df99_d.gif", 
+                    "width": 228, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "90316"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/90316_ab75a0d3c581df99_z.jpg", 
+                    "width": 456, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "90316"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/90316_ab75a0d3c581df99_n.jpg", 
+                    "width": 228, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "90316"
+                }
+            }, 
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/206550_8a1c96ee91c5cfe9_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "0", 
+                    "image_id": "206550"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/206550_8a1c96ee91c5cfe9_b.jpg", 
+                    "width": 744, 
+                    "height": 1024, 
+                    "is_primary": "0", 
+                    "image_id": "206550"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/206550_8a1c96ee91c5cfe9_d.gif", 
+                    "width": 233, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "206550"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/206550_8a1c96ee91c5cfe9_z.jpg", 
+                    "width": 465, 
+                    "height": 640, 
+                    "is_primary": "0", 
+                    "image_id": "206550"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/206550_8a1c96ee91c5cfe9_n.jpg", 
+                    "width": 233, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "206550"
+                }
+            }
+        ], 
+        "id": "18618029", 
+        "has_no_known_copyright": null, 
+        "woe:country_name": "United States", 
+        "dimensions": "53.4 x 38.2 cm (21 in. x 15 1/16 in.)", 
+        "title": "Poster, The man who goes alone can start today", 
+        "provenance": "1981: acquired by Museum", 
+        "participants": [
+            {
+                "person_name": "Ken White", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "American, 1935-1985", 
+                "role_display_name": "Designed by", 
+                "person_id": "18042357", 
+                "person_url": "https://collection.cooperhewitt.org/people/18042357/"
+            }
+        ], 
+        "decade": null, 
+        "label_text": null, 
+        "woe:country": "23424977", 
+        "dimensions_raw": {
+            "width": [
+                "38.20", 
+                "centimeters"
+            ], 
+            "height": [
+                "53.40", 
+                "centimeters"
+            ]
+        }, 
+        "department_id": "35347493", 
+        "title_raw": "The man who goes alone can start today", 
+        "justification": null, 
+        "media_id": "35431679", 
+        "description": "On gray ground, image of a man from above, with large cast shadow. Down the poster in white text: The / man / who / goes / alone / can / start / today. / Henry David Thoreau.", 
+        "creditline": "Gift of Various Donors", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": null, 
+        "url": "https://collection.cooperhewitt.org/objects/18618029/", 
+        "type": "poster", 
+        "accession_number": "1981-29-446", 
+        "year_end": null, 
+        "signed": null, 
+        "inscribed": null, 
+        "period_id": null, 
+        "year_acquired": "1981", 
+        "woe:country_id": "23424977"
+    }
+}

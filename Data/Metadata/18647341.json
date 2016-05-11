@@ -1,0 +1,111 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": 1980, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": "offset lithography", 
+        "tms:id": "198575", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/267711_1ff5be181f019bdc_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "267711"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/267711_1ff5be181f019bdc_b.jpg", 
+                    "width": 1024, 
+                    "height": 693, 
+                    "is_primary": "1", 
+                    "image_id": "267711"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/267711_1ff5be181f019bdc_d.gif", 
+                    "width": 320, 
+                    "height": 217, 
+                    "is_primary": "1", 
+                    "image_id": "267711"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/267711_1ff5be181f019bdc_z.jpg", 
+                    "width": 640, 
+                    "height": 433, 
+                    "is_primary": "1", 
+                    "image_id": "267711"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/267711_1ff5be181f019bdc_n.jpg", 
+                    "width": 320, 
+                    "height": 217, 
+                    "is_primary": "1", 
+                    "image_id": "267711"
+                }
+            }
+        ], 
+        "id": "18647341", 
+        "has_no_known_copyright": null, 
+        "woe:country_name": "United States", 
+        "dimensions": null, 
+        "title": "Poster (USA), ca. 1990", 
+        "provenance": null, 
+        "participants": [
+            {
+                "person_name": "Irene Spielman", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35351535/", 
+                "role_id": "35351535", 
+                "role_name": "Donor", 
+                "person_date": "", 
+                "role_display_name": "Donated by", 
+                "person_id": "68765133", 
+                "person_url": "https://collection.cooperhewitt.org/people/68765133/"
+            }, 
+            {
+                "person_name": "Ms. Phyllis Harrison", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35351535/", 
+                "role_id": "35351535", 
+                "role_name": "Donor", 
+                "person_date": "", 
+                "role_display_name": "Donated by", 
+                "person_id": "18041601", 
+                "person_url": "https://collection.cooperhewitt.org/people/18041601/"
+            }, 
+            {
+                "person_name": "Geoffrey Beene", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236667/", 
+                "role_id": "35236667", 
+                "role_name": "Client", 
+                "person_date": "", 
+                "role_display_name": "Client:", 
+                "person_id": "18051837", 
+                "person_url": "https://collection.cooperhewitt.org/people/18051837/"
+            }
+        ], 
+        "decade": "1980", 
+        "label_text": null, 
+        "woe:country": "23424977", 
+        "dimensions_raw": null, 
+        "department_id": "35347493", 
+        "title_raw": null, 
+        "justification": null, 
+        "media_id": "35421913", 
+        "description": null, 
+        "creditline": "Gift of Phyllis Harrison and Irene Spielman", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "ca. 1990", 
+        "url": "https://collection.cooperhewitt.org/objects/18647341/", 
+        "type": "poster", 
+        "accession_number": "1994-110-1", 
+        "year_end": 1994, 
+        "signed": null, 
+        "inscribed": null, 
+        "period_id": null, 
+        "year_acquired": "1994", 
+        "woe:country_id": "23424977"
+    }
+}

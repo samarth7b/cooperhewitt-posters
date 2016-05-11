@@ -1,0 +1,137 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": null, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": "lithograph on paper", 
+        "tms:id": "177658", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/82682_5c93d2fbb0c43db4_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "82682"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/82682_5c93d2fbb0c43db4_b.jpg", 
+                    "width": 563, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "82682"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/82682_5c93d2fbb0c43db4_d.gif", 
+                    "width": 176, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "82682"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/82682_5c93d2fbb0c43db4_z.jpg", 
+                    "width": 352, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "82682"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/82682_5c93d2fbb0c43db4_n.jpg", 
+                    "width": 176, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "82682"
+                }
+            }, 
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/205325_2375f5d2d2ed627f_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "0", 
+                    "image_id": "205325"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/205325_2375f5d2d2ed627f_b.jpg", 
+                    "width": 581, 
+                    "height": 1024, 
+                    "is_primary": "0", 
+                    "image_id": "205325"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/205325_2375f5d2d2ed627f_d.gif", 
+                    "width": 182, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "205325"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/205325_2375f5d2d2ed627f_z.jpg", 
+                    "width": 363, 
+                    "height": 640, 
+                    "is_primary": "0", 
+                    "image_id": "205325"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/205325_2375f5d2d2ed627f_n.jpg", 
+                    "width": 182, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "205325"
+                }
+            }
+        ], 
+        "id": "18618249", 
+        "has_no_known_copyright": null, 
+        "woe:country_name": "United States", 
+        "dimensions": "64.5 x 35.6 cm (25 3/8 in. x 14 in.)", 
+        "title": "Poster, Fun Run", 
+        "provenance": "1981: acquired by Museum", 
+        "participants": [
+            {
+                "person_name": "Brigham Young University", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236667/", 
+                "role_id": "35236667", 
+                "role_name": "Client", 
+                "person_date": "", 
+                "role_display_name": "Client:", 
+                "person_id": "18042421", 
+                "person_url": "https://collection.cooperhewitt.org/people/18042421/"
+            }
+        ], 
+        "decade": null, 
+        "label_text": null, 
+        "woe:country": "23424977", 
+        "dimensions_raw": {
+            "width": [
+                "35.60", 
+                "centimeters"
+            ], 
+            "height": [
+                "64.50", 
+                "centimeters"
+            ]
+        }, 
+        "department_id": "35347493", 
+        "title_raw": "Fun Run", 
+        "justification": null, 
+        "media_id": "35419317", 
+        "description": "Poster features a cartoon of a foot with each toe in a sneaker. Text in black for a 3-mile course.", 
+        "creditline": "Gift of Various Donors", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": null, 
+        "url": "https://collection.cooperhewitt.org/objects/18618249/", 
+        "type": "poster", 
+        "accession_number": "1981-29-82", 
+        "year_end": null, 
+        "signed": null, 
+        "inscribed": null, 
+        "period_id": null, 
+        "year_acquired": "1981", 
+        "woe:country_id": "23424977"
+    }
+}

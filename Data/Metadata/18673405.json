@@ -1,0 +1,110 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": 1955, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": "offset lithograph on white wove paper", 
+        "tms:id": "212145", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/269762_8e9a81d09079b2cd_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "269762"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/269762_8e9a81d09079b2cd_b.jpg", 
+                    "width": 736, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "269762"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/269762_8e9a81d09079b2cd_d.gif", 
+                    "width": 230, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "269762"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/269762_8e9a81d09079b2cd_z.jpg", 
+                    "width": 460, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "269762"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/269762_8e9a81d09079b2cd_n.jpg", 
+                    "width": 230, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "269762"
+                }
+            }
+        ], 
+        "id": "18673405", 
+        "has_no_known_copyright": null, 
+        "woe:country_name": "Switzerland", 
+        "dimensions": "127.6 x 90.2 cm (50 1/4 x 35 1/2 in. )", 
+        "title": "Poster, die polizei hilft sie sucht helfer, ca. 1965", 
+        "provenance": "Bequest of Dan Friedman", 
+        "participants": [
+            {
+                "person_name": "Manfried Maier", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "German", 
+                "role_display_name": "Designed by", 
+                "person_id": "18053305", 
+                "person_url": "https://collection.cooperhewitt.org/people/18053305/"
+            }, 
+            {
+                "person_name": "Ken Friedman", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35351535/", 
+                "role_id": "35351535", 
+                "role_name": "Donor", 
+                "person_date": "", 
+                "role_display_name": "Donated by", 
+                "person_id": "18049807", 
+                "person_url": "https://collection.cooperhewitt.org/people/18049807/"
+            }
+        ], 
+        "decade": "1950", 
+        "label_text": null, 
+        "woe:country": "23424957", 
+        "dimensions_raw": {
+            "width": [
+                "90.20", 
+                "centimeters"
+            ], 
+            "height": [
+                "127.60", 
+                "centimeters"
+            ]
+        }, 
+        "department_id": "35347493", 
+        "title_raw": "die polizei hilft sie sucht helfer", 
+        "justification": null, 
+        "media_id": "35431673", 
+        "description": "Graphic design incorporating a grainy black and white photographic image of a blurred helmet placed against a series of striated gray bands, and a matte black lower portion with a series of horizontal jagged stripes that appear to be receding toward a horizon line. Across lower section in white letters: die polizei hilft   sie sucht helfer.", 
+        "creditline": "Gift of Ken Friedman", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "ca. 1965", 
+        "url": "https://collection.cooperhewitt.org/objects/18673405/", 
+        "type": "poster", 
+        "accession_number": "1997-19-194", 
+        "year_end": 1975, 
+        "signed": null, 
+        "inscribed": "Lower left printed in gray: anmeldungen / polizeidepartement / baselstadt [left justification]; printed lower right: Entwurf und Photo: Manfried Maier, Graphikklasse AGS Basel    Druck: Wassermann AG", 
+        "period_id": null, 
+        "year_acquired": "1997", 
+        "woe:country_id": "23424957"
+    }
+}

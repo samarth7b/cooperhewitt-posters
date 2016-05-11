@@ -1,0 +1,166 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": 1984, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": "screenprint with lacquer finish on wove paper", 
+        "tms:id": "255476", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/44526_9fb441bdf5d95f61_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "44526"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/44526_9fb441bdf5d95f61_b.jpg", 
+                    "width": 652, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "44526"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/44526_9fb441bdf5d95f61_d.gif", 
+                    "width": 204, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "44526"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/44526_9fb441bdf5d95f61_z.jpg", 
+                    "width": 407, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "44526"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/44526_9fb441bdf5d95f61_n.jpg", 
+                    "width": 204, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "44526"
+                }
+            }, 
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/268867_23076510bd2485a0_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "0", 
+                    "image_id": "268867"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/268867_23076510bd2485a0_b.jpg", 
+                    "width": 659, 
+                    "height": 1024, 
+                    "is_primary": "0", 
+                    "image_id": "268867"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/268867_23076510bd2485a0_d.gif", 
+                    "width": 206, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "268867"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/268867_23076510bd2485a0_z.jpg", 
+                    "width": 412, 
+                    "height": 640, 
+                    "is_primary": "0", 
+                    "image_id": "268867"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/268867_23076510bd2485a0_n.jpg", 
+                    "width": 206, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "268867"
+                }
+            }
+        ], 
+        "id": "18758381", 
+        "has_no_known_copyright": null, 
+        "dimensions": "100.2 x 63.5 cm (39 7/16 x 25 in.)", 
+        "title": "Poster, Herman Miller Summer Picnic, July 28, 1984, 1984", 
+        "provenance": "Acquired new and directly from designers, museums, and cultural institutions by Marc Benda.  Remained with Benda until 2010, when gifted to CHNDM.", 
+        "participants": [
+            {
+                "person_name": "Sara Benda", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35351535/", 
+                "role_id": "35351535", 
+                "role_name": "Donor", 
+                "person_date": "", 
+                "role_display_name": "Donated by", 
+                "person_id": "18063205", 
+                "person_url": "https://collection.cooperhewitt.org/people/18063205/"
+            }, 
+            {
+                "person_name": "Herman Miller Furniture Company", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236667/", 
+                "role_id": "35236667", 
+                "role_name": "Client", 
+                "person_date": "Zeeland, Michigan, USA", 
+                "role_display_name": "Client:", 
+                "person_id": "18049013", 
+                "person_url": "https://collection.cooperhewitt.org/people/18049013/"
+            }, 
+            {
+                "person_name": "Stephen Frykholm", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "American, b. 1942", 
+                "role_display_name": "Designed by", 
+                "person_id": "18042365", 
+                "person_url": "https://collection.cooperhewitt.org/people/18042365/"
+            }, 
+            {
+                "person_name": "Marc Benda", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35351535/", 
+                "role_id": "35351535", 
+                "role_name": "Donor", 
+                "person_date": "", 
+                "role_display_name": "Donated by", 
+                "person_id": "18062523", 
+                "person_url": "https://collection.cooperhewitt.org/people/18062523/"
+            }
+        ], 
+        "decade": "1980", 
+        "label_text": null, 
+        "woe:country": null, 
+        "dimensions_raw": {
+            "width": [
+                "63.50", 
+                "centimeters"
+            ], 
+            "height": [
+                "100.20", 
+                "centimeters"
+            ]
+        }, 
+        "department_id": "35347493", 
+        "title_raw": "Herman Miller Summer Picnic, July 28, 1984", 
+        "justification": null, 
+        "media_id": "68250023", 
+        "description": "The composition is like a close-up cropping of a photograph. A salad of green lettuce, red potatoes, red-and-white radishes, yellow-and-white eggs, sprinkled with chopped leeks and spices and covered in white dressing, is piled high in a dark-blue bowl. At the bottom, is an inscription in white: \"herman miller summer picnic  july 28, 1984\".", 
+        "creditline": "Gift of Sara and Marc Benda", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "1984", 
+        "url": "https://collection.cooperhewitt.org/objects/18758381/", 
+        "type": "poster", 
+        "accession_number": "2010-21-87", 
+        "year_end": 1984, 
+        "signed": null, 
+        "inscribed": null, 
+        "period_id": "35435927", 
+        "year_acquired": "2010", 
+        "woe:country_id": null
+    }
+}

@@ -1,0 +1,137 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": 1975, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": null, 
+        "tms:id": "177634", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/93572_d387e7779876cc49_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "93572"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/93572_d387e7779876cc49_b.jpg", 
+                    "width": 681, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "93572"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/93572_d387e7779876cc49_d.gif", 
+                    "width": 213, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "93572"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/93572_d387e7779876cc49_z.jpg", 
+                    "width": 425, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "93572"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/93572_d387e7779876cc49_n.jpg", 
+                    "width": 213, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "93572"
+                }
+            }, 
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/266904_0e8fec2f2a7a6128_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "0", 
+                    "image_id": "266904"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/266904_0e8fec2f2a7a6128_b.jpg", 
+                    "width": 691, 
+                    "height": 1024, 
+                    "is_primary": "0", 
+                    "image_id": "266904"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/266904_0e8fec2f2a7a6128_d.gif", 
+                    "width": 216, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "266904"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/266904_0e8fec2f2a7a6128_z.jpg", 
+                    "width": 432, 
+                    "height": 640, 
+                    "is_primary": "0", 
+                    "image_id": "266904"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/266904_0e8fec2f2a7a6128_n.jpg", 
+                    "width": 216, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "266904"
+                }
+            }
+        ], 
+        "id": "18618201", 
+        "has_no_known_copyright": null, 
+        "woe:country_name": "United States", 
+        "dimensions": null, 
+        "title": "Poster, Spaces for the Species, 1975", 
+        "provenance": "1981: acquired by Museum", 
+        "participants": [
+            {
+                "person_name": "Peter Bradford", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "", 
+                "role_display_name": "Designed by", 
+                "person_id": "18042351", 
+                "person_url": "https://collection.cooperhewitt.org/people/18042351/"
+            }
+        ], 
+        "decade": "1970", 
+        "label_text": null, 
+        "woe:country": "23424977", 
+        "dimensions_raw": {
+            "width": [
+                "59.50", 
+                "centimeters"
+            ], 
+            "height": [
+                "90.00", 
+                "centimeters"
+            ]
+        }, 
+        "department_id": "35347493", 
+        "title_raw": "Spaces for the Species", 
+        "justification": null, 
+        "media_id": "35371135", 
+        "description": null, 
+        "creditline": "Gift of Various Donors", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "1975", 
+        "url": "https://collection.cooperhewitt.org/objects/18618201/", 
+        "type": "poster", 
+        "accession_number": "1981-29-60", 
+        "year_end": 1975, 
+        "signed": null, 
+        "inscribed": null, 
+        "period_id": null, 
+        "year_acquired": "1981", 
+        "woe:country_id": "23424977"
+    }
+}

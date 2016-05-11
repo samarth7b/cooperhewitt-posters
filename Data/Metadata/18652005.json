@@ -1,0 +1,147 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": null, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": "screenprint on white paper", 
+        "tms:id": "200945", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/84990_71e2d24079043829_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "84990"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/84990_71e2d24079043829_b.jpg", 
+                    "width": 759, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "84990"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/84990_71e2d24079043829_d.gif", 
+                    "width": 237, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "84990"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/84990_71e2d24079043829_z.jpg", 
+                    "width": 474, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "84990"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/84990_71e2d24079043829_n.jpg", 
+                    "width": 237, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "84990"
+                }
+            }, 
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/268706_97ee6650f5ce5157_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "0", 
+                    "image_id": "268706"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/268706_97ee6650f5ce5157_b.jpg", 
+                    "width": 782, 
+                    "height": 1024, 
+                    "is_primary": "0", 
+                    "image_id": "268706"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/268706_97ee6650f5ce5157_d.gif", 
+                    "width": 244, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "268706"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/268706_97ee6650f5ce5157_z.jpg", 
+                    "width": 488, 
+                    "height": 640, 
+                    "is_primary": "0", 
+                    "image_id": "268706"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/268706_97ee6650f5ce5157_n.jpg", 
+                    "width": 244, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "268706"
+                }
+            }
+        ], 
+        "id": "18652005", 
+        "has_no_known_copyright": null, 
+        "woe:country_name": "United States", 
+        "dimensions": "61.3 x 45.5 cm (24 1/8 x 17 15/16 in.)", 
+        "title": "Poster, Ready for War", 
+        "provenance": "1995: acquired by Museum", 
+        "participants": [
+            {
+                "person_name": "Art Chantry", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35351535/", 
+                "role_id": "35351535", 
+                "role_name": "Donor", 
+                "person_date": "American, b. 1954", 
+                "role_display_name": "Donated by", 
+                "person_id": "18041683", 
+                "person_url": "https://collection.cooperhewitt.org/people/18041683/"
+            }, 
+            {
+                "person_name": "Art Chantry", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "American, b. 1954", 
+                "role_display_name": "Designed by", 
+                "person_id": "18041683", 
+                "person_url": "https://collection.cooperhewitt.org/people/18041683/"
+            }
+        ], 
+        "decade": null, 
+        "label_text": null, 
+        "woe:country": "23424977", 
+        "dimensions_raw": {
+            "width": [
+                "45.50", 
+                "centimeters"
+            ], 
+            "height": [
+                "61.30", 
+                "centimeters"
+            ]
+        }, 
+        "department_id": "35347493", 
+        "title_raw": "Ready for War", 
+        "justification": null, 
+        "media_id": "51684187", 
+        "description": "Poster advertising \"Ready for War\", opening at Alonzo Cretini's Salon Politique.  Man's face, facing forward, mouth agape.  Negative space printed in black, white border, white text, and highlights of man's face remaining.  Red text advertising venue and dates along bottom.", 
+        "creditline": "Gift of Art Chantry", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": null, 
+        "url": "https://collection.cooperhewitt.org/objects/18652005/", 
+        "type": "poster", 
+        "accession_number": "1995-69-88", 
+        "year_end": null, 
+        "signed": null, 
+        "inscribed": null, 
+        "period_id": null, 
+        "year_acquired": "1995", 
+        "woe:country_id": "23424977"
+    }
+}

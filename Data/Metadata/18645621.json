@@ -1,0 +1,140 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": 1985, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": "lithograph on paper", 
+        "tms:id": "197714", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/223906_f87281b58dccee7f_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "0", 
+                    "image_id": "223906"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/223906_f87281b58dccee7f_b.jpg", 
+                    "width": 695, 
+                    "height": 1024, 
+                    "is_primary": "0", 
+                    "image_id": "223906"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/223906_f87281b58dccee7f_d.gif", 
+                    "width": 217, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "223906"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/223906_f87281b58dccee7f_z.jpg", 
+                    "width": 434, 
+                    "height": 640, 
+                    "is_primary": "0", 
+                    "image_id": "223906"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/223906_f87281b58dccee7f_n.jpg", 
+                    "width": 217, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "223906"
+                }
+            }
+        ], 
+        "id": "18645621", 
+        "has_no_known_copyright": null, 
+        "woe:country_name": "United States", 
+        "dimensions": "91.5 × 61 cm (36 × 24 in.)", 
+        "title": "Poster, Let Them Eat Cake, 1985", 
+        "provenance": "Steven Heller and Karrie Jacobs; 1993: acquired by Museum", 
+        "participants": [
+            {
+                "person_name": "Steven Heller", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35351535/", 
+                "role_id": "35351535", 
+                "role_name": "Donor", 
+                "person_date": "American, b. 1950", 
+                "role_display_name": "Donated by", 
+                "person_id": "18041397", 
+                "person_url": "https://collection.cooperhewitt.org/people/18041397/"
+            }, 
+            {
+                "person_name": "Karrie Jacobs", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35351535/", 
+                "role_id": "35351535", 
+                "role_name": "Donor", 
+                "person_date": "", 
+                "role_display_name": "Donated by", 
+                "person_id": "18056647", 
+                "person_url": "https://collection.cooperhewitt.org/people/18056647/"
+            }, 
+            {
+                "person_name": "LSA", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35352245/", 
+                "role_id": "35352245", 
+                "role_name": "Cataloguer", 
+                "person_date": "", 
+                "role_display_name": "Catalogued by", 
+                "person_id": "18048737", 
+                "person_url": "https://collection.cooperhewitt.org/people/18048737/"
+            }, 
+            {
+                "person_name": "Louise Kollenbaum", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "", 
+                "role_display_name": "Designed by", 
+                "person_id": "18043273", 
+                "person_url": "https://collection.cooperhewitt.org/people/18043273/"
+            }, 
+            {
+                "person_name": "Sue Coe", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "", 
+                "role_display_name": "Designed by", 
+                "person_id": "18043271", 
+                "person_url": "https://collection.cooperhewitt.org/people/18043271/"
+            }
+        ], 
+        "decade": "1980", 
+        "label_text": null, 
+        "woe:country": "23424977", 
+        "dimensions_raw": {
+            "width": [
+                "61.00", 
+                "centimeters"
+            ], 
+            "height": [
+                "91.50", 
+                "centimeters"
+            ]
+        }, 
+        "department_id": "35347493", 
+        "title_raw": "Let Them Eat Cake", 
+        "justification": null, 
+        "media_id": "35419317", 
+        "description": "Dark print of homeless people; published in Mother Jones magazine, for PAD/D exhibition", 
+        "creditline": "Gift of Steven Heller and Karrie Jacobs", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "1985", 
+        "url": "https://collection.cooperhewitt.org/objects/18645621/", 
+        "type": "poster", 
+        "accession_number": "1993-53-124", 
+        "year_end": 1985, 
+        "signed": null, 
+        "inscribed": "Imprinted in black ink at bottom: \"Artist Sue Coe . Art Director Louise Kollenbaum . Produced for Mother Jones Magazine\"", 
+        "period_id": null, 
+        "year_acquired": "1993", 
+        "woe:country_id": "23424977"
+    }
+}

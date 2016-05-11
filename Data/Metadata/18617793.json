@@ -1,0 +1,130 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": 1978, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": null, 
+        "tms:id": "177429", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/200651_5c529cdc509a5095_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "200651"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/200651_5c529cdc509a5095_b.jpg", 
+                    "width": 740, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "200651"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/200651_5c529cdc509a5095_d.gif", 
+                    "width": 231, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "200651"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/200651_5c529cdc509a5095_z.jpg", 
+                    "width": 462, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "200651"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/200651_5c529cdc509a5095_n.jpg", 
+                    "width": 231, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "200651"
+                }
+            }
+        ], 
+        "id": "18617793", 
+        "has_no_known_copyright": null, 
+        "woe:country_name": "United States", 
+        "dimensions": "Overall: 55.8 x 39.3 cm (21 15/16 x 15 1/2 in.)", 
+        "title": "Poster, The Big Apple Opens in Orange County, 1978", 
+        "provenance": "1981: acquired by Museum", 
+        "participants": [
+            {
+                "person_name": "Graphis Press", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236617/", 
+                "role_id": "35236617", 
+                "role_name": "Lithographer", 
+                "person_date": "", 
+                "role_display_name": "Lithographer:", 
+                "person_id": "18057113", 
+                "person_url": "https://collection.cooperhewitt.org/people/18057113/"
+            }, 
+            {
+                "person_name": "Peter Kuhlman", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236725/", 
+                "role_id": "35236725", 
+                "role_name": "Editor", 
+                "person_date": "", 
+                "role_display_name": "Edited by", 
+                "person_id": "18057117", 
+                "person_url": "https://collection.cooperhewitt.org/people/18057117/"
+            }, 
+            {
+                "person_name": "John Lawder", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236631/", 
+                "role_id": "35236631", 
+                "role_name": "Photographer", 
+                "person_date": "", 
+                "role_display_name": "Photographed by", 
+                "person_id": "18057115", 
+                "person_url": "https://collection.cooperhewitt.org/people/18057115/"
+            }, 
+            {
+                "person_name": "Jann Church Advertising & Graphic Design, Inc.", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "Newport Beach, California, USA", 
+                "role_display_name": "Designed by", 
+                "person_id": "18056983", 
+                "person_url": "https://collection.cooperhewitt.org/people/18056983/"
+            }
+        ], 
+        "decade": "1970", 
+        "label_text": null, 
+        "woe:country": "23424977", 
+        "dimensions_raw": {
+            "width": [
+                "39.30", 
+                "centimeters"
+            ], 
+            "height": [
+                "55.80", 
+                "centimeters"
+            ]
+        }, 
+        "department_id": "35347493", 
+        "title_raw": "The Big Apple Opens in Orange County", 
+        "justification": null, 
+        "media_id": "35371135", 
+        "description": null, 
+        "creditline": "Gift of Various Donors", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "1978", 
+        "url": "https://collection.cooperhewitt.org/objects/18617793/", 
+        "type": "poster", 
+        "accession_number": "1981-29-34", 
+        "year_end": 1978, 
+        "signed": null, 
+        "inscribed": null, 
+        "period_id": null, 
+        "year_acquired": "1981", 
+        "woe:country_id": "23424977"
+    }
+}

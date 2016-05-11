@@ -1,0 +1,90 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": 1943, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": "offset lithograph on wove paper", 
+        "tms:id": "163461", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/252748_aa2a024246145de8_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "252748"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/252748_aa2a024246145de8_b.jpg", 
+                    "width": 661, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "252748"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/252748_aa2a024246145de8_d.gif", 
+                    "width": 207, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "252748"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/252748_aa2a024246145de8_z.jpg", 
+                    "width": 413, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "252748"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/252748_aa2a024246145de8_n.jpg", 
+                    "width": 207, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "252748"
+                }
+            }
+        ], 
+        "id": "18505115", 
+        "has_no_known_copyright": null, 
+        "dimensions": null, 
+        "title": "Poster, China First to Fight!, ca. 1943", 
+        "provenance": "Found in collection during 1980 inventory", 
+        "participants": [
+            {
+                "person_name": "Martha Sawyers", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "American, 1902 - 1988", 
+                "role_display_name": "Designed by", 
+                "person_id": "18064219", 
+                "person_url": "https://collection.cooperhewitt.org/people/18064219/"
+            }
+        ], 
+        "decade": "1940", 
+        "label_text": null, 
+        "woe:country": null, 
+        "dimensions_raw": null, 
+        "department_id": "35347493", 
+        "title_raw": "China First to Fight!", 
+        "justification": null, 
+        "media_id": "35431963", 
+        "description": null, 
+        "creditline": "Gift of Unknown Donor", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "ca. 1943", 
+        "url": "https://collection.cooperhewitt.org/objects/18505115/", 
+        "type": "poster", 
+        "accession_number": "1980-32-1206", 
+        "year_end": 1943, 
+        "signed": null, 
+        "inscribed": null, 
+        "period_id": null, 
+        "year_acquired": "1980", 
+        "woe:country_id": null
+    }
+}

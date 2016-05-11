@@ -1,0 +1,147 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": 1979, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": "lithograph on paper", 
+        "tms:id": "177392", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/90290_7c80a74ca46c8815_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "90290"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/90290_7c80a74ca46c8815_b.jpg", 
+                    "width": 683, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "90290"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/90290_7c80a74ca46c8815_d.gif", 
+                    "width": 213, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "90290"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/90290_7c80a74ca46c8815_z.jpg", 
+                    "width": 427, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "90290"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/90290_7c80a74ca46c8815_n.jpg", 
+                    "width": 213, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "90290"
+                }
+            }, 
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/206723_44eec64fb5cf52ce_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "0", 
+                    "image_id": "206723"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/206723_44eec64fb5cf52ce_b.jpg", 
+                    "width": 699, 
+                    "height": 1024, 
+                    "is_primary": "0", 
+                    "image_id": "206723"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/206723_44eec64fb5cf52ce_d.gif", 
+                    "width": 218, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "206723"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/206723_44eec64fb5cf52ce_z.jpg", 
+                    "width": 437, 
+                    "height": 640, 
+                    "is_primary": "0", 
+                    "image_id": "206723"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/206723_44eec64fb5cf52ce_n.jpg", 
+                    "width": 218, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "206723"
+                }
+            }
+        ], 
+        "id": "18617719", 
+        "has_no_known_copyright": null, 
+        "woe:country_name": "United States", 
+        "dimensions": "59.8 x 39.9 cm (23 9/16 x 15 11/16 in.)", 
+        "title": "Poster, Parfums Christian Dior, 1979", 
+        "provenance": "1981: acquired by Museum", 
+        "participants": [
+            {
+                "person_name": "Christian Dior", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236667/", 
+                "role_id": "35236667", 
+                "role_name": "Client", 
+                "person_date": "", 
+                "role_display_name": "Client:", 
+                "person_id": "18537473", 
+                "person_url": "https://collection.cooperhewitt.org/people/18537473/"
+            }, 
+            {
+                "person_name": "Serge Lutens", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236631/", 
+                "role_id": "35236631", 
+                "role_name": "Photographer", 
+                "person_date": "", 
+                "role_display_name": "Photographed by", 
+                "person_id": "18056967", 
+                "person_url": "https://collection.cooperhewitt.org/people/18056967/"
+            }
+        ], 
+        "decade": "1970", 
+        "label_text": null, 
+        "woe:country": "23424977", 
+        "dimensions_raw": {
+            "width": [
+                "39.90", 
+                "centimeters"
+            ], 
+            "height": [
+                "59.80", 
+                "centimeters"
+            ]
+        }, 
+        "department_id": "35347493", 
+        "title_raw": "Parfums Christian Dior", 
+        "justification": null, 
+        "media_id": "35419317", 
+        "description": "On a cobalt blue ground (in a painted room?) an image of a model dressed in fuchsia hat and shirt with a cone-like shirt. Upper right: 79; below in fuchsia: Parfums Christian Dior / Paris.", 
+        "creditline": "Gift of Various Donors", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "1979", 
+        "url": "https://collection.cooperhewitt.org/objects/18617719/", 
+        "type": "poster", 
+        "accession_number": "1981-29-306", 
+        "year_end": 1979, 
+        "signed": null, 
+        "inscribed": "Imprinted in fuchsia, lower margin: PHOTO SERGE LUTENS – Printed in France – Photogravure Arto – Sira Imprimeur", 
+        "period_id": null, 
+        "year_acquired": "1981", 
+        "woe:country_id": "23424977"
+    }
+}

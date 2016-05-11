@@ -1,0 +1,89 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": 1979, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": null, 
+        "tms:id": "177662", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/200902_ca40d083b9ca6fda_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "200902"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/200902_ca40d083b9ca6fda_b.jpg", 
+                    "width": 699, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "200902"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/200902_ca40d083b9ca6fda_d.gif", 
+                    "width": 218, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "200902"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/200902_ca40d083b9ca6fda_z.jpg", 
+                    "width": 437, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "200902"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/200902_ca40d083b9ca6fda_n.jpg", 
+                    "width": 218, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "200902"
+                }
+            }
+        ], 
+        "id": "18618257", 
+        "has_no_known_copyright": null, 
+        "woe:country_name": "United States", 
+        "dimensions": "Overall: 61 x 40.6 cm (24 x 16 in.)", 
+        "title": "Poster, Understanding Taxes ' 79, 1979", 
+        "provenance": "1981: acquired by Museum", 
+        "participants": [], 
+        "decade": "1970", 
+        "label_text": null, 
+        "woe:country": "23424977", 
+        "dimensions_raw": {
+            "width": [
+                "40.60", 
+                "centimeters"
+            ], 
+            "height": [
+                "61.00", 
+                "centimeters"
+            ]
+        }, 
+        "department_id": "35347493", 
+        "title_raw": "Understanding Taxes ' 79", 
+        "justification": null, 
+        "media_id": "35371135", 
+        "description": "For: Internal Revenue Services", 
+        "creditline": "Gift of Various Donors", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "1979", 
+        "url": "https://collection.cooperhewitt.org/objects/18618257/", 
+        "type": "poster", 
+        "accession_number": "1981-29-86", 
+        "year_end": 1979, 
+        "signed": null, 
+        "inscribed": null, 
+        "period_id": null, 
+        "year_acquired": "1981", 
+        "woe:country_id": "23424977"
+    }
+}

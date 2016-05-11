@@ -1,0 +1,130 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": 1998, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": "offset lithograph on wove paper", 
+        "tms:id": "255509", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/45569_ed87d7e0db3164f4_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "45569"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/45569_ed87d7e0db3164f4_b.jpg", 
+                    "width": 720, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "45569"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/45569_ed87d7e0db3164f4_d.gif", 
+                    "width": 225, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "45569"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/45569_ed87d7e0db3164f4_z.jpg", 
+                    "width": 450, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "45569"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/45569_ed87d7e0db3164f4_n.jpg", 
+                    "width": 225, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "45569"
+                }
+            }
+        ], 
+        "id": "18758447", 
+        "has_no_known_copyright": null, 
+        "woe:country_name": "Switzerland", 
+        "dimensions": "127.8 x 90.3 cm (50 5/16 x 35 9/16 in.)", 
+        "title": "Poster, Nambucco, 1998", 
+        "provenance": "Sara and Marc Benda (acquired new and directly from designer, Karl Domenic Geissbühler); 2010: acquired by Museum", 
+        "participants": [
+            {
+                "person_name": "Karl Domenic Geissbühler", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "Swiss, b. 1932", 
+                "role_display_name": "Designed by", 
+                "person_id": "18063591", 
+                "person_url": "https://collection.cooperhewitt.org/people/18063591/"
+            }, 
+            {
+                "person_name": "Marc Benda", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35351535/", 
+                "role_id": "35351535", 
+                "role_name": "Donor", 
+                "person_date": "", 
+                "role_display_name": "Donated by", 
+                "person_id": "18062523", 
+                "person_url": "https://collection.cooperhewitt.org/people/18062523/"
+            }, 
+            {
+                "person_name": "Sara Benda", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35351535/", 
+                "role_id": "35351535", 
+                "role_name": "Donor", 
+                "person_date": "", 
+                "role_display_name": "Donated by", 
+                "person_id": "18063205", 
+                "person_url": "https://collection.cooperhewitt.org/people/18063205/"
+            }, 
+            {
+                "person_name": "Opernhaus, Zürich", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236667/", 
+                "role_id": "35236667", 
+                "role_name": "Client", 
+                "person_date": "Zürich, Switzerland", 
+                "role_display_name": "Client:", 
+                "person_id": "68738781", 
+                "person_url": "https://collection.cooperhewitt.org/people/68738781/"
+            }
+        ], 
+        "decade": "1990", 
+        "label_text": null, 
+        "woe:country": "23424957", 
+        "dimensions_raw": {
+            "width": [
+                "90.30", 
+                "centimeters"
+            ], 
+            "height": [
+                "127.80", 
+                "centimeters"
+            ]
+        }, 
+        "department_id": "35347493", 
+        "title_raw": "Nambucco", 
+        "justification": null, 
+        "media_id": "35431963", 
+        "description": "Poster depicts a faceless figure positioned on a column of space—black sky and stars—on a background of red and white horizontal stripes. Upper right there is a red crescent moon; upper left, rectangle with black triangle. Text in black ink, above: OPERNHAUS ZURICH. Below: NABUCCO. Left, text in column: Giuseppe VERDI / Nello SANTI / Jonathan MILLER / Isabella BYWATER / Jurg HAMMERLI / Hans-Rudolf KUNZ / CHOR und ORCHESTER / der OPER ZURICH / ab 6. Juni ’98 / Unterstutzt von / der Julius Bar Gruppe / und den Basler Versicherungen.", 
+        "creditline": "Gift of Sara and Marc Benda", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "1998", 
+        "url": "https://collection.cooperhewitt.org/objects/18758447/", 
+        "type": "poster", 
+        "accession_number": "2010-21-119", 
+        "year_end": 1998, 
+        "signed": null, 
+        "inscribed": "Printed in black ink, lower right: geissbuhler", 
+        "period_id": null, 
+        "year_acquired": "2010", 
+        "woe:country_id": "23424957"
+    }
+}

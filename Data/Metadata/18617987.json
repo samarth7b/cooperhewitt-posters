@@ -1,0 +1,91 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": null, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": null, 
+        "tms:id": "177527", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/269236_a6529717072723c1_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "269236"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/269236_a6529717072723c1_b.jpg", 
+                    "width": 686, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "269236"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/269236_a6529717072723c1_d.gif", 
+                    "width": 214, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "269236"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/269236_a6529717072723c1_z.jpg", 
+                    "width": 429, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "269236"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/269236_a6529717072723c1_n.jpg", 
+                    "width": 214, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "269236"
+                }
+            }
+        ], 
+        "id": "18617987", 
+        "has_no_known_copyright": null, 
+        "woe:country_name": "United States", 
+        "dimensions": null, 
+        "title": "Poster (USA)", 
+        "provenance": null, 
+        "participants": [
+            {
+                "person_name": "Mr. Kenneth Kneitel", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "", 
+                "role_display_name": "Designed by", 
+                "person_id": "18041047", 
+                "person_url": "https://collection.cooperhewitt.org/people/18041047/"
+            }
+        ], 
+        "decade": null, 
+        "label_text": null, 
+        "woe:country": "23424977", 
+        "dimensions_raw": null, 
+        "department_id": "35347493", 
+        "title_raw": null, 
+        "justification": null, 
+        "media_id": "35371135", 
+        "description": null, 
+        "creditline": "Gift of Various Donors", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": null, 
+        "url": "https://collection.cooperhewitt.org/objects/18617987/", 
+        "type": "poster", 
+        "accession_number": "1981-29-427", 
+        "year_end": null, 
+        "signed": null, 
+        "inscribed": null, 
+        "period_id": null, 
+        "year_acquired": "1981", 
+        "woe:country_id": "23424977"
+    }
+}

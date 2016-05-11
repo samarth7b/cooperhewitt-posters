@@ -1,0 +1,100 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": null, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": null, 
+        "tms:id": "177389", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/201635_fc1c0929e19f6184_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "201635"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/201635_fc1c0929e19f6184_b.jpg", 
+                    "width": 705, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "201635"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/201635_fc1c0929e19f6184_d.gif", 
+                    "width": 220, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "201635"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/201635_fc1c0929e19f6184_z.jpg", 
+                    "width": 441, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "201635"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/201635_fc1c0929e19f6184_n.jpg", 
+                    "width": 220, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "201635"
+                }
+            }
+        ], 
+        "id": "18617713", 
+        "has_no_known_copyright": null, 
+        "woe:country_name": "United States", 
+        "dimensions": "Overall: 45.7 x 30.5 cm (18 x 12 in.)", 
+        "title": "Poster, All experience is an arch, to build upon.", 
+        "provenance": "1981: acquired by Museum", 
+        "participants": [
+            {
+                "person_name": "Jann Church Advertising & Graphic Design, Inc.", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "Newport Beach, California, USA", 
+                "role_display_name": "Designed by", 
+                "person_id": "18056983", 
+                "person_url": "https://collection.cooperhewitt.org/people/18056983/"
+            }
+        ], 
+        "decade": null, 
+        "label_text": null, 
+        "woe:country": "23424977", 
+        "dimensions_raw": {
+            "width": [
+                "30.50", 
+                "centimeters"
+            ], 
+            "height": [
+                "45.70", 
+                "centimeters"
+            ]
+        }, 
+        "department_id": "35347493", 
+        "title_raw": "All experience is an arch, to build upon.", 
+        "justification": null, 
+        "media_id": "35371135", 
+        "description": null, 
+        "creditline": "Gift of Various Donors", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": null, 
+        "url": "https://collection.cooperhewitt.org/objects/18617713/", 
+        "type": "poster", 
+        "accession_number": "1981-29-303", 
+        "year_end": null, 
+        "signed": null, 
+        "inscribed": null, 
+        "period_id": null, 
+        "year_acquired": "1981", 
+        "woe:country_id": "23424977"
+    }
+}

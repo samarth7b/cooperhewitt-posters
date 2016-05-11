@@ -1,0 +1,160 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": "The Sagmeister team deconstructed a pair of Levi’s 501 jeans, laid out the unruly thread, zipper, buttons, and rivets as an assemblage, and used the light-indigo thread to recreate words from the Levi’s label. The assemblage was then photographed in high resolution, producing the poster’s highly tactile effect.", 
+        "year_start": 2009, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": "offset lithograph on coated wove paper", 
+        "tms:id": "272788", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/46835_e6a0994c645e4300_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "46835"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/46835_e6a0994c645e4300_b.jpg", 
+                    "width": 724, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "46835"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/46835_e6a0994c645e4300_d.gif", 
+                    "width": 226, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "46835"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/46835_e6a0994c645e4300_z.jpg", 
+                    "width": 452, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "46835"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/46835_e6a0994c645e4300_n.jpg", 
+                    "width": 226, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "46835"
+                }
+            }
+        ], 
+        "id": "18794265", 
+        "has_no_known_copyright": null, 
+        "woe:country_name": "United States", 
+        "dimensions": "Sheet: 118.9 x 84.3 cm (46 13/16 x 33 3/16 in.)", 
+        "title": "Poster, Levi's, The Strongest Thread, 2009", 
+        "provenance": "Stefan Sagmeister, Sagmeister, Inc.; 2011: acquired by Museum", 
+        "participants": [
+            {
+                "person_name": "Levi Strauss", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236667/", 
+                "role_id": "35236667", 
+                "role_name": "Client", 
+                "person_date": "San Francisco, California, USA", 
+                "role_display_name": "Client:", 
+                "person_id": "18535845", 
+                "person_url": "https://collection.cooperhewitt.org/people/18535845/"
+            }, 
+            {
+                "person_name": "Tom Schierlitz Photography", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236631/", 
+                "role_id": "35236631", 
+                "role_name": "Photographer", 
+                "person_date": "American", 
+                "role_display_name": "Photographed by", 
+                "person_id": "18065115", 
+                "person_url": "https://collection.cooperhewitt.org/people/18065115/"
+            }, 
+            {
+                "person_name": "Sagmeister Inc.", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236797/", 
+                "role_id": "35236797", 
+                "role_name": "Firm", 
+                "person_date": "New York, New York, USA, founded 1993", 
+                "role_display_name": "Firm:", 
+                "person_id": "18054405", 
+                "person_url": "https://collection.cooperhewitt.org/people/18054405/"
+            }, 
+            {
+                "person_name": "Stefan Sagmeister", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236787/", 
+                "role_id": "35236787", 
+                "role_name": "Art Director", 
+                "person_date": "Austrian, b. 1962", 
+                "role_display_name": "Art Director:", 
+                "person_id": "18052911", 
+                "person_url": "https://collection.cooperhewitt.org/people/18052911/"
+            }, 
+            {
+                "person_name": "Stefan Sagmeister", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35351535/", 
+                "role_id": "35351535", 
+                "role_name": "Donor", 
+                "person_date": "Austrian, b. 1962", 
+                "role_display_name": "Donated by", 
+                "person_id": "18052911", 
+                "person_url": "https://collection.cooperhewitt.org/people/18052911/"
+            }, 
+            {
+                "person_name": "Richard The", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236801/", 
+                "role_id": "35236801", 
+                "role_name": "Design Team member", 
+                "person_date": "", 
+                "role_display_name": "Design Team Member:", 
+                "person_id": "68739179", 
+                "person_url": "https://collection.cooperhewitt.org/people/68739179/"
+            }, 
+            {
+                "person_name": "Joe Shouldice", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236801/", 
+                "role_id": "35236801", 
+                "role_name": "Design Team member", 
+                "person_date": "Canadian, n.d.", 
+                "role_display_name": "Design Team Member:", 
+                "person_id": "68739181", 
+                "person_url": "https://collection.cooperhewitt.org/people/68739181/"
+            }
+        ], 
+        "decade": "2000", 
+        "label_text": "The Sagmeister team deconstructed a pair of Levi’s 501 jeans, laid out the unruly thread, zipper, buttons, and rivets as an assemblage, and used the light-indigo thread to recreate words from the Levi’s label. The assemblage was then photographed in high resolution, producing the poster’s highly tactile effect.", 
+        "woe:country": "23424977", 
+        "dimensions_raw": {
+            "width": [
+                "84.30", 
+                "centimeters"
+            ], 
+            "height": [
+                "118.90", 
+                "centimeters"
+            ]
+        }, 
+        "department_id": "35347493", 
+        "title_raw": "Levi's, The Strongest Thread", 
+        "justification": "Graphic designer Stefan Sagmeister relishes the opportunity to get away from the computer screen and work in a more analog fashion. In 2009, Sagmeister and his design team deconstructed a pair of Levi’s 501® button-fly jeans and used all of the individual elements to create a window installation for American Rag’s Los Angeles store. The installation was reproduced in a limited run of 501 posters that were distributed in American Rag’s Los Angeles and San Francisco boutiques. \nThe composition’s shag carpet appearance grew from the difficulty of working with the unruly thread. The Sagmeister design team organized the thread, buttons, rivets, and labels in a collage using the white thread to spell out a label they found inside the pocket: “This is a Pair of Levis Sewed with the Strongest Thread.” Among the elements that make this poster so appealing is its tactility—it appeals to the viewer’s sense of touch. This appeal to the personal, to the senses, and to the emotions, is characteristic of Sagmeister’s work. \nSagmeister was born in Austria and studied graphic design at the University of Applied Arts in Vienna and at the Pratt Institute in New York. After short apprenticeships with Leo Burnett’s Hong Kong Design Group and at M & Co., he opened his own firm in New York in 1993, Sagmeister Inc., which has since produced graphics, branding, and packaging for a variety of clients including Levi Strauss & Co., the Guggenheim Museum, and Time Warner Inc. Sagmeister was appointed to the Frank Stanton Chair at the Cooper Union School of Art and teaches in the graduate department of the School of Visual Arts, both in New York City. He has received almost every significant international design award, including the 2005 National Design Award in the field of Communications Design and two Grammys—one that same year for his packaging for the Talking Heads box set, Once in a Lifetime, and a second in 2010 for his packaging for the David Byrne and Brian Eno collaboration, Everything That Happens Will Happen Today. \nSagmeister’s graphic production is original and challenges the limits of his profession. This poster, part of a larger group of objects by Sagmeister proposed for acquisition, will augment the museum’s representation of work by this celebrated graphic designer.", 
+        "media_id": "35389113", 
+        "description": "Poster advertisement for Levi's jeans. Recreation of jeans from its deconstructed thread.", 
+        "creditline": "Gift of Stefan Sagmeister", 
+        "on_display": "1", 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "2009", 
+        "url": "https://collection.cooperhewitt.org/objects/18794265/", 
+        "type": "poster", 
+        "accession_number": "2011-34-1", 
+        "year_end": 2009, 
+        "signed": null, 
+        "inscribed": null, 
+        "period_id": null, 
+        "year_acquired": "2011", 
+        "woe:country_id": "23424977"
+    }
+}

@@ -1,0 +1,157 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": null, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": "offset lithograph on white poster paper", 
+        "tms:id": "223227", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/50026_a8b8d9d7d13e1670_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "50026"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/50026_a8b8d9d7d13e1670_b.jpg", 
+                    "width": 680, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "50026"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/50026_a8b8d9d7d13e1670_d.gif", 
+                    "width": 213, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "50026"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/50026_a8b8d9d7d13e1670_z.jpg", 
+                    "width": 425, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "50026"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/50026_a8b8d9d7d13e1670_n.jpg", 
+                    "width": 213, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "50026"
+                }
+            }, 
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/257309_f76d4f28083151c1_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "0", 
+                    "image_id": "257309"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/257309_f76d4f28083151c1_b.jpg", 
+                    "width": 695, 
+                    "height": 1024, 
+                    "is_primary": "0", 
+                    "image_id": "257309"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/257309_f76d4f28083151c1_d.gif", 
+                    "width": 217, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "257309"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/257309_f76d4f28083151c1_z.jpg", 
+                    "width": 434, 
+                    "height": 640, 
+                    "is_primary": "0", 
+                    "image_id": "257309"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/257309_f76d4f28083151c1_n.jpg", 
+                    "width": 217, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "257309"
+                }
+            }
+        ], 
+        "id": "18695321", 
+        "has_no_known_copyright": null, 
+        "woe:country_name": "United States", 
+        "dimensions": "91.4 x 61.0 cm (36 x 24 in. )", 
+        "title": "Poster, EF, Learn a Language", 
+        "provenance": "Marion S. Rand", 
+        "participants": [
+            {
+                "person_name": "Karin Zonis", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35352245/", 
+                "role_id": "35352245", 
+                "role_name": "Cataloguer", 
+                "person_date": "", 
+                "role_display_name": "Catalogued by", 
+                "person_id": "51676457", 
+                "person_url": "https://collection.cooperhewitt.org/people/51676457/"
+            }, 
+            {
+                "person_name": "Marion S. Rand", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35351535/", 
+                "role_id": "35351535", 
+                "role_name": "Donor", 
+                "person_date": "", 
+                "role_display_name": "Donated by", 
+                "person_id": "18538789", 
+                "person_url": "https://collection.cooperhewitt.org/people/18538789/"
+            }, 
+            {
+                "person_name": "Paul Rand", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "American, 1914–1996", 
+                "role_display_name": "Designed by", 
+                "person_id": "18042341", 
+                "person_url": "https://collection.cooperhewitt.org/people/18042341/"
+            }
+        ], 
+        "decade": null, 
+        "label_text": null, 
+        "woe:country": "23424977", 
+        "dimensions_raw": {
+            "width": [
+                "61.00", 
+                "centimeters"
+            ], 
+            "height": [
+                "91.40", 
+                "centimeters"
+            ]
+        }, 
+        "department_id": "35347493", 
+        "title_raw": "EF, Learn a Language", 
+        "justification": null, 
+        "media_id": "35424347", 
+        "description": "On black ground, bands of connected flags (including the flags of America, Japan, Great Britain, Canada, Brazil, Switzerland, and Italy), resembling a profile of a man's face talking (mouth open).  Lower left quadrant, to left of mouth\" white block letters with blue spiral inside letters: EF.  Across lower edge, in white: Learn a Language!", 
+        "creditline": "Gift of Marion S. Rand", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": null, 
+        "url": "https://collection.cooperhewitt.org/objects/18695321/", 
+        "type": "poster", 
+        "accession_number": "2002-11-8", 
+        "year_end": null, 
+        "signed": "Signed [imprinted] in gray, upper left corner: Paul Rand", 
+        "inscribed": "Imprinted in white, with blue spiral inside letters, lower left quadrant: EF; imprinted in white ink, lower edge: Learn a Language!", 
+        "period_id": null, 
+        "year_acquired": "2002", 
+        "woe:country_id": "23424977"
+    }
+}

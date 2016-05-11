@@ -1,0 +1,120 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": 1972, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": "offset lithograph\nsupport: paper", 
+        "tms:id": "193474", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/268917_1b101797eb8da18f_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "268917"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/268917_1b101797eb8da18f_b.jpg", 
+                    "width": 741, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "268917"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/268917_1b101797eb8da18f_d.gif", 
+                    "width": 232, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "268917"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/268917_1b101797eb8da18f_z.jpg", 
+                    "width": 463, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "268917"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/268917_1b101797eb8da18f_n.jpg", 
+                    "width": 232, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "268917"
+                }
+            }
+        ], 
+        "id": "18637245", 
+        "has_no_known_copyright": null, 
+        "woe:country_name": "United States", 
+        "dimensions": "87.1 x 61.7 cm (34 5/16 x 24 5/16 in.)", 
+        "title": "Poster, A Picnic in Los Angeles, 1972", 
+        "provenance": null, 
+        "participants": [
+            {
+                "person_name": "Keith Godard", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35351535/", 
+                "role_id": "35351535", 
+                "role_name": "Donor", 
+                "person_date": "American, b. London 1942", 
+                "role_display_name": "Donated by", 
+                "person_id": "18053387", 
+                "person_url": "https://collection.cooperhewitt.org/people/18053387/"
+            }, 
+            {
+                "person_name": "Keith Godard", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "American, b. London 1942", 
+                "role_display_name": "Designed by", 
+                "person_id": "18053387", 
+                "person_url": "https://collection.cooperhewitt.org/people/18053387/"
+            }, 
+            {
+                "person_name": "CGC", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35352245/", 
+                "role_id": "35352245", 
+                "role_name": "Cataloguer", 
+                "person_date": "", 
+                "role_display_name": "Catalogued by", 
+                "person_id": "18048417", 
+                "person_url": "https://collection.cooperhewitt.org/people/18048417/"
+            }
+        ], 
+        "decade": "1970", 
+        "label_text": null, 
+        "woe:country": "23424977", 
+        "dimensions_raw": {
+            "width": [
+                "61.70", 
+                "centimeters"
+            ], 
+            "height": [
+                "87.10", 
+                "centimeters"
+            ]
+        }, 
+        "department_id": "35347493", 
+        "title_raw": "A Picnic in Los Angeles", 
+        "justification": null, 
+        "media_id": "136270993", 
+        "description": null, 
+        "creditline": "Gift of Keith Godard", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "1972", 
+        "url": "https://collection.cooperhewitt.org/objects/18637245/", 
+        "type": "poster", 
+        "accession_number": "1991-69-28", 
+        "year_end": 1972, 
+        "signed": null, 
+        "inscribed": "Signed and dated in pen and black ink at LR: Keith Godard 1980. Title ( in reverse) at top; at LR: A/Picnic/in Los Angeles; Southern California/ Chapter of the/American Institute of Architects,/...[13 line inscription]; Sunday, August 27, 1972/...[6 line inscription]; Come have fun/...[13 line inscription]. On verso: signed in pen and black ink at UL: Keith Godard; within artist's stamp: Designer/[signature]/ Works 33 Union Square West/ New York, NY 10003 212 924 6924", 
+        "period_id": null, 
+        "year_acquired": "1991", 
+        "woe:country_id": "23424977"
+    }
+}

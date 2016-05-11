@@ -1,0 +1,130 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": 1988, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": "screenprint on paper", 
+        "tms:id": "197702", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/202001_a9fe531bc8535702_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "0", 
+                    "image_id": "202001"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/202001_a9fe531bc8535702_b.jpg", 
+                    "width": 1024, 
+                    "height": 813, 
+                    "is_primary": "0", 
+                    "image_id": "202001"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/202001_a9fe531bc8535702_d.gif", 
+                    "width": 320, 
+                    "height": 254, 
+                    "is_primary": "0", 
+                    "image_id": "202001"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/202001_a9fe531bc8535702_z.jpg", 
+                    "width": 640, 
+                    "height": 508, 
+                    "is_primary": "0", 
+                    "image_id": "202001"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/202001_a9fe531bc8535702_n.jpg", 
+                    "width": 320, 
+                    "height": 254, 
+                    "is_primary": "0", 
+                    "image_id": "202001"
+                }
+            }
+        ], 
+        "id": "18645597", 
+        "has_no_known_copyright": null, 
+        "woe:country_name": "United States", 
+        "dimensions": "35.6 × 44.9 cm (14 in. × 17 11/16 in.)", 
+        "title": "Poster, Tompkins Sq. Police Riot, 1988", 
+        "provenance": "Steven Heller and Karrie Jacobs; 1993: acquired by Museum", 
+        "participants": [
+            {
+                "person_name": "Steven Heller", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35351535/", 
+                "role_id": "35351535", 
+                "role_name": "Donor", 
+                "person_date": "American, b. 1950", 
+                "role_display_name": "Donated by", 
+                "person_id": "18041397", 
+                "person_url": "https://collection.cooperhewitt.org/people/18041397/"
+            }, 
+            {
+                "person_name": "Karrie Jacobs", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35351535/", 
+                "role_id": "35351535", 
+                "role_name": "Donor", 
+                "person_date": "", 
+                "role_display_name": "Donated by", 
+                "person_id": "18056647", 
+                "person_url": "https://collection.cooperhewitt.org/people/18056647/"
+            }, 
+            {
+                "person_name": "LSA", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35352245/", 
+                "role_id": "35352245", 
+                "role_name": "Cataloguer", 
+                "person_date": "", 
+                "role_display_name": "Catalogued by", 
+                "person_id": "18048737", 
+                "person_url": "https://collection.cooperhewitt.org/people/18048737/"
+            }, 
+            {
+                "person_name": "Eric Drooker", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "", 
+                "role_display_name": "Designed by", 
+                "person_id": "18043241", 
+                "person_url": "https://collection.cooperhewitt.org/people/18043241/"
+            }
+        ], 
+        "decade": "1980", 
+        "label_text": null, 
+        "woe:country": "23424977", 
+        "dimensions_raw": {
+            "width": [
+                "44.90", 
+                "centimeters"
+            ], 
+            "height": [
+                "35.60", 
+                "centimeters"
+            ]
+        }, 
+        "department_id": "35347493", 
+        "title_raw": "Tompkins Sq. Police Riot", 
+        "justification": null, 
+        "media_id": "35431679", 
+        "description": "Related to artwork for 1993-53-92", 
+        "creditline": "Gift of Steven Heller and Karrie Jacobs", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "1988", 
+        "url": "https://collection.cooperhewitt.org/objects/18645597/", 
+        "type": "poster", 
+        "accession_number": "1993-53-113", 
+        "year_end": 1988, 
+        "signed": null, 
+        "inscribed": "Inscription in graphite at LL: \"1988 \"Tompkins Sq. Police Riot\" Eric Drooker\"", 
+        "period_id": null, 
+        "year_acquired": "1993", 
+        "woe:country_id": "23424977"
+    }
+}

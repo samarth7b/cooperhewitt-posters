@@ -1,0 +1,139 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": 2001, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": "screenprint and lithograph on white wove paper", 
+        "tms:id": "244585", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/34756_0947fa7d1bdcfa42_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "34756"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/34756_0947fa7d1bdcfa42_b.jpg", 
+                    "width": 725, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "34756"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/34756_0947fa7d1bdcfa42_d.gif", 
+                    "width": 226, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "34756"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/34756_0947fa7d1bdcfa42_z.jpg", 
+                    "width": 453, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "34756"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/34756_0947fa7d1bdcfa42_n.jpg", 
+                    "width": 226, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "34756"
+                }
+            }
+        ], 
+        "id": "18736835", 
+        "has_no_known_copyright": null, 
+        "dimensions": "128 x 90.4 cm (50 3/8 x 35 9/16 in.)", 
+        "title": "Poster, Paul Newman, 2001", 
+        "provenance": "Filmpodium, Zurich, 2001-2010", 
+        "participants": [
+            {
+                "person_name": "Albin Uldry Workshop", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236673/", 
+                "role_id": "35236673", 
+                "role_name": "Printer", 
+                "person_date": "Swiss", 
+                "role_display_name": "Printed by", 
+                "person_id": "18061679", 
+                "person_url": "https://collection.cooperhewitt.org/people/18061679/"
+            }, 
+            {
+                "person_name": "FotoArt Schrofer", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236617/", 
+                "role_id": "35236617", 
+                "role_name": "Lithographer", 
+                "person_date": "Switzerland, founded 1996", 
+                "role_display_name": "Lithographer:", 
+                "person_id": "18063147", 
+                "person_url": "https://collection.cooperhewitt.org/people/18063147/"
+            }, 
+            {
+                "person_name": "Ralph Schraivogel", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "Swiss, b. 1960", 
+                "role_display_name": "Designed by", 
+                "person_id": "18060553", 
+                "person_url": "https://collection.cooperhewitt.org/people/18060553/"
+            }, 
+            {
+                "person_name": "Filmpodium der Stadt Zürich", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236667/", 
+                "role_id": "35236667", 
+                "role_name": "Client", 
+                "person_date": "", 
+                "role_display_name": "Client:", 
+                "person_id": "18063099", 
+                "person_url": "https://collection.cooperhewitt.org/people/18063099/"
+            }, 
+            {
+                "person_name": "Anonymous", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35351535/", 
+                "role_id": "35351535", 
+                "role_name": "Donor", 
+                "person_date": "", 
+                "role_display_name": "Donated by", 
+                "person_id": "68739079", 
+                "person_url": "https://collection.cooperhewitt.org/people/68739079/"
+            }
+        ], 
+        "decade": "2000", 
+        "label_text": null, 
+        "woe:country": null, 
+        "dimensions_raw": {
+            "width": [
+                "90.40", 
+                "centimeters"
+            ], 
+            "height": [
+                "128.00", 
+                "centimeters"
+            ]
+        }, 
+        "department_id": "35347493", 
+        "title_raw": "Paul Newman", 
+        "justification": "Paul Newman, Filmpodium Zurich (2001) is by the celebrated contemporary Swiss poster designer, Ralph Schraivogel. This compelling poster has been compared to the inventive, puzzle-like, modernist posters of Paul Rand, especially Rand’s 1951 Dada poster (1981-29-206), which invites reading in both a vertical and horizontal orientation. The Newman poster is similar in that it requires the viewer to derive understanding from multiple directions. \nSchraivogel’s clever and sophisticated design approach is reflected in the way he plays on the double reading of the actor’s last name by laying out the typography so that the letters N and W form the first syllable of the actor’s last name, while the M and N form the second syllable. This typographic economy creates a tight and unified composition. Schraivogel allows Newman’s photographed facial features to bleed through the typography at key intersections, directing the viewer’s gaze to the actor’s mouth and eyes. Schraivogel completes the visual play by incorporating the word “Paul” to form the actor’s nose. Schraivogel also employs color to pull the viewer first to the yellow N and then to the M—the blue of the M plays on the actor’s immediately recognizable blue eyes.\nIn 2007, the museum acquired posters from Schraivogel that demonstrated the designer’s use of curving pattern, image, and type to create ambiguous spatial effects. This poster evolves from a different design aesthetic and tradition and shows another facet of Schraivogel’s design approach.", 
+        "media_id": "35433797", 
+        "description": "The name of actor Paul Newman is printed on the poster, though his face is only visible in the letters of his name.  The two halves of his last name, \"New\" and \"man\" pivot on the word Paul, so that the word \"Newman\" is written as somewhat like a palindrome and can be read when viewed from opposite sides of the poster.", 
+        "creditline": "Gift of Anonymous Donor", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "2001", 
+        "url": "https://collection.cooperhewitt.org/objects/18736835/", 
+        "type": "poster", 
+        "accession_number": "2010-8-1", 
+        "year_end": 2001, 
+        "signed": null, 
+        "inscribed": null, 
+        "period_id": null, 
+        "year_acquired": "2010", 
+        "woe:country_id": null
+    }
+}

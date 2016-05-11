@@ -1,0 +1,147 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": 1974, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": "offset lithograph on newsprint", 
+        "tms:id": "212205", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/82357_65d5a94051f4e894_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "82357"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/82357_65d5a94051f4e894_b.jpg", 
+                    "width": 717, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "82357"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/82357_65d5a94051f4e894_d.gif", 
+                    "width": 224, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "82357"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/82357_65d5a94051f4e894_z.jpg", 
+                    "width": 448, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "82357"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/82357_65d5a94051f4e894_n.jpg", 
+                    "width": 224, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "82357"
+                }
+            }, 
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/267160_f2afc4d4990a83dc_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "0", 
+                    "image_id": "267160"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/267160_f2afc4d4990a83dc_b.jpg", 
+                    "width": 734, 
+                    "height": 1024, 
+                    "is_primary": "0", 
+                    "image_id": "267160"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/267160_f2afc4d4990a83dc_d.gif", 
+                    "width": 229, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "267160"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/267160_f2afc4d4990a83dc_z.jpg", 
+                    "width": 458, 
+                    "height": 640, 
+                    "is_primary": "0", 
+                    "image_id": "267160"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/267160_f2afc4d4990a83dc_n.jpg", 
+                    "width": 229, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "267160"
+                }
+            }
+        ], 
+        "id": "18673525", 
+        "has_no_known_copyright": null, 
+        "woe:country_name": "Switzerland", 
+        "dimensions": "87.8 x 61.6 cm (34 9/16 x 24 1/4 in. )", 
+        "title": "Poster, NR.1-Typographic Process, Textstrukturen [Organized Text Structure (for a Business Card)], from the School of Design, Basel, 1974", 
+        "provenance": "Dan Friedman; Ken Friedman; 1997: acquired by Museum", 
+        "participants": [
+            {
+                "person_name": "Wolfgang Weingart", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "Swiss, b. 1941", 
+                "role_display_name": "Designed by", 
+                "person_id": "18043521", 
+                "person_url": "https://collection.cooperhewitt.org/people/18043521/"
+            }, 
+            {
+                "person_name": "Ken Friedman", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35351535/", 
+                "role_id": "35351535", 
+                "role_name": "Donor", 
+                "person_date": "", 
+                "role_display_name": "Donated by", 
+                "person_id": "18049807", 
+                "person_url": "https://collection.cooperhewitt.org/people/18049807/"
+            }
+        ], 
+        "decade": "1970", 
+        "label_text": null, 
+        "woe:country": "23424957", 
+        "dimensions_raw": {
+            "width": [
+                "61.60", 
+                "centimeters"
+            ], 
+            "height": [
+                "87.80", 
+                "centimeters"
+            ]
+        }, 
+        "department_id": "35347493", 
+        "title_raw": "NR.1-Typographic Process, Textstrukturen [Organized Text Structure (for a Business Card)], from the School of Design, Basel", 
+        "justification": null, 
+        "media_id": "35384545", 
+        "description": "Poster design consists of five separate formats for business cards, greatly enlarged. At upper left center in large black block letters: NR.1. The sheets presents five concepts, two at left, three at right with different fonts and lines which create formal compositions with a minimum of elements. At upper left corner a statement regarding the designers and project. At upper right a statement from the designer/project head describing the educational agenda of the class.\nThe mock business card contains the following reference to a design firm and address: Michel Roger Bollack, Francoise Astorg Bollack, Minoru Yoshida, Gary Norman Jacquemin, Estanislao Perez Pita; 510 La Guardia Place, New York, NY 10012; Telephone: 212 473-9652", 
+        "creditline": "Gift of Ken Friedman", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "1974", 
+        "url": "https://collection.cooperhewitt.org/objects/18673525/", 
+        "type": "poster", 
+        "accession_number": "1997-19-254", 
+        "year_end": 1974, 
+        "signed": null, 
+        "inscribed": "Imprinted in black upper left corner: Thematik: Textstrukturen/ Theme: Organizen Text Structure/ 1) Tami Komai: Textstrukturen am Beispiel einer Geschaftskarte / (250% Vergr) / Designer in 1974 Organized text structures for a business card (enlarged 250%)\nImprinted in black upper right: Kunstgewerbeschule Basel (Schule für Gestaltung): / ARBEITEN AUS DEM TYPOGRAPHIE-UNTERRICHT / School of Design Basel / TYPOGRAPHIC PROCESS / SFr/DM3/ US $1 / Auflage: 800.62 x 88cm / Druck: G. Gisler Basel / Printed in Switzerland / @W. Weingart / <contributions to typographic design> / CH4001 Basle 1 / Switzerland / P.O. Box 34\nAlso in black upper right: Leher/Instructor: W. Weingart / The <Typographic Process> poster series is a published documentation of re-/ sults from the Typographic Class for Graphic Designers and Typographers at / the Kunstgewerbenschule Basle (School fro Design). Various series appear at ran- / dom intervals, each consisting of at least five different posters. Orders are tak- / en by the publisher. The cost per series is 5 US Dollars plus packaging and / postal charges (via sea route).", 
+        "period_id": null, 
+        "year_acquired": "1997", 
+        "woe:country_id": "23424957"
+    }
+}

@@ -1,0 +1,176 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": "Movie poster artist Jouineau Bourduge depicted French film director Francois Truffant’s main character from L’Enfant Sauvage, a child who spent his early life in a forest with no human contact, in this poster for the film. The poster’s design incorporates torn edges and very little, simple text on a grass-green background to suggest the movie’s subject matter. Bourduge created many posters for French New Wave cinema, a significant, experimental movement from the late 1950s to the early 1960s.", 
+        "year_start": 1970, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": "offset lithograph on wove paper, mounted on linen", 
+        "tms:id": "255414", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/46896_2b7c2efa1fc94980_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "46896"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/46896_2b7c2efa1fc94980_b.jpg", 
+                    "width": 764, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "46896"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/46896_2b7c2efa1fc94980_d.gif", 
+                    "width": 239, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "46896"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/46896_2b7c2efa1fc94980_z.jpg", 
+                    "width": 478, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "46896"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/46896_2b7c2efa1fc94980_n.jpg", 
+                    "width": 239, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "46896"
+                }
+            }, 
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/253642_8dc04cde92776199_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "0", 
+                    "image_id": "253642"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/253642_8dc04cde92776199_b.jpg", 
+                    "width": 790, 
+                    "height": 1024, 
+                    "is_primary": "0", 
+                    "image_id": "253642"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/253642_8dc04cde92776199_d.gif", 
+                    "width": 247, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "253642"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/253642_8dc04cde92776199_z.jpg", 
+                    "width": 494, 
+                    "height": 640, 
+                    "is_primary": "0", 
+                    "image_id": "253642"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/253642_8dc04cde92776199_n.jpg", 
+                    "width": 247, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "253642"
+                }
+            }
+        ], 
+        "id": "18758259", 
+        "has_no_known_copyright": null, 
+        "dimensions": "79.7 × 60.3 cm (31 3/8 × 23 3/4 in.)\nMount: 85.6 × 66.2 cm (33 11/16 × 26 1/16 in.)", 
+        "title": "Poster, L'Enfant Sauvage [The Wild Child], 1970", 
+        "provenance": "Acquired from dealers, galleries and auction houses by Marc Benda.  Remained with Benda until 2010, when gifted to CHNDM.", 
+        "participants": [
+            {
+                "person_name": "Guy Jouineau", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "French", 
+                "role_display_name": "Designed by", 
+                "person_id": "18063583", 
+                "person_url": "https://collection.cooperhewitt.org/people/18063583/"
+            }, 
+            {
+                "person_name": "Guy Bourduge", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "French", 
+                "role_display_name": "Designed by", 
+                "person_id": "18063581", 
+                "person_url": "https://collection.cooperhewitt.org/people/18063581/"
+            }, 
+            {
+                "person_name": "Jouineau Bourduge", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236797/", 
+                "role_id": "35236797", 
+                "role_name": "Firm", 
+                "person_date": "France, 1941 - 1971", 
+                "role_display_name": "Firm:", 
+                "person_id": "18063505", 
+                "person_url": "https://collection.cooperhewitt.org/people/18063505/"
+            }, 
+            {
+                "person_name": "Marc Benda", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35351535/", 
+                "role_id": "35351535", 
+                "role_name": "Donor", 
+                "person_date": "", 
+                "role_display_name": "Donated by", 
+                "person_id": "18062523", 
+                "person_url": "https://collection.cooperhewitt.org/people/18062523/"
+            }, 
+            {
+                "person_name": "Sara Benda", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35351535/", 
+                "role_id": "35351535", 
+                "role_name": "Donor", 
+                "person_date": "", 
+                "role_display_name": "Donated by", 
+                "person_id": "18063205", 
+                "person_url": "https://collection.cooperhewitt.org/people/18063205/"
+            }
+        ], 
+        "decade": "1970", 
+        "label_text": null, 
+        "woe:country": null, 
+        "dimensions_raw": {
+            "width": [
+                "60.30", 
+                "centimeters"
+            ], 
+            "height": [
+                "79.70", 
+                "centimeters"
+            ]
+        }, 
+        "department_id": "35347493", 
+        "title_raw": "L'Enfant Sauvage [The Wild Child]", 
+        "justification": null, 
+        "media_id": "35434607", 
+        "description": "Against a grass-green background, a photograph of a girl with voluminous brown hair and a stubborn expression; \"torn\" in the lower right corner.\nInscriptions: at center right: \"un film de / FRANCOIS TRUFFAUT\", and at lower right, the title \"l'enfant / SAUVAGE\", followed by further credits in smaller type.", 
+        "creditline": "Gift of Sara and Marc Benda", 
+        "on_display": null, 
+        "markings": "printed: visa de censure N. 3633", 
+        "is_loan_object": 0, 
+        "date": "1970", 
+        "url": "https://collection.cooperhewitt.org/objects/18758259/", 
+        "type": "poster", 
+        "accession_number": "2010-21-28", 
+        "year_end": 1970, 
+        "signed": null, 
+        "inscribed": null, 
+        "period_id": "35435941", 
+        "year_acquired": "2010", 
+        "woe:country_id": null
+    }
+}

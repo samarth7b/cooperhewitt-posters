@@ -1,0 +1,140 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": 1990, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": "lithograph on paper", 
+        "tms:id": "197710", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/202353_ac8faa4b0e21aa6a_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "0", 
+                    "image_id": "202353"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/202353_ac8faa4b0e21aa6a_b.jpg", 
+                    "width": 769, 
+                    "height": 1024, 
+                    "is_primary": "0", 
+                    "image_id": "202353"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/202353_ac8faa4b0e21aa6a_d.gif", 
+                    "width": 240, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "202353"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/202353_ac8faa4b0e21aa6a_z.jpg", 
+                    "width": 481, 
+                    "height": 640, 
+                    "is_primary": "0", 
+                    "image_id": "202353"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/202353_ac8faa4b0e21aa6a_n.jpg", 
+                    "width": 240, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "202353"
+                }
+            }
+        ], 
+        "id": "18645613", 
+        "has_no_known_copyright": null, 
+        "woe:country_name": "United States", 
+        "dimensions": "62.8 × 45.8 cm (24 3/4 × 18 1/16 in.)", 
+        "title": "Poster, If Society Can Provide Housing...?, 1990", 
+        "provenance": "Steven Heller and Karrie Jacobs; 1993: acquired by Museum", 
+        "participants": [
+            {
+                "person_name": "Steven Heller", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35351535/", 
+                "role_id": "35351535", 
+                "role_name": "Donor", 
+                "person_date": "American, b. 1950", 
+                "role_display_name": "Donated by", 
+                "person_id": "18041397", 
+                "person_url": "https://collection.cooperhewitt.org/people/18041397/"
+            }, 
+            {
+                "person_name": "Karrie Jacobs", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35351535/", 
+                "role_id": "35351535", 
+                "role_name": "Donor", 
+                "person_date": "", 
+                "role_display_name": "Donated by", 
+                "person_id": "18056647", 
+                "person_url": "https://collection.cooperhewitt.org/people/18056647/"
+            }, 
+            {
+                "person_name": "LSA", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35352245/", 
+                "role_id": "35352245", 
+                "role_name": "Cataloguer", 
+                "person_date": "", 
+                "role_display_name": "Catalogued by", 
+                "person_id": "18048737", 
+                "person_url": "https://collection.cooperhewitt.org/people/18048737/"
+            }, 
+            {
+                "person_name": "Jamie Barrett", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "", 
+                "role_display_name": "Designed by", 
+                "person_id": "18043173", 
+                "person_url": "https://collection.cooperhewitt.org/people/18043173/"
+            }, 
+            {
+                "person_name": "Peter Cohen", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "", 
+                "role_display_name": "Designed by", 
+                "person_id": "18043171", 
+                "person_url": "https://collection.cooperhewitt.org/people/18043171/"
+            }
+        ], 
+        "decade": "1990", 
+        "label_text": null, 
+        "woe:country": "23424977", 
+        "dimensions_raw": {
+            "width": [
+                "45.80", 
+                "centimeters"
+            ], 
+            "height": [
+                "62.80", 
+                "centimeters"
+            ]
+        }, 
+        "department_id": "35347493", 
+        "title_raw": "If Society Can Provide Housing...?", 
+        "justification": null, 
+        "media_id": "35419317", 
+        "description": "Photograph of Charles Manson For the Coalition for the Homeless, New York One of four images for a wall campaign", 
+        "creditline": "Gift of Steven Heller and Karrie Jacobs", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "1990", 
+        "url": "https://collection.cooperhewitt.org/objects/18645613/", 
+        "type": "poster", 
+        "accession_number": "1993-53-120", 
+        "year_end": 1990, 
+        "signed": null, 
+        "inscribed": "Other text: \"In the United States, we take better care of convicted killers than we do homeless people. / Help us correct this injustice. Call the Coalition for the Homeless at 460-8110.\"", 
+        "period_id": null, 
+        "year_acquired": "1993", 
+        "woe:country_id": "23424977"
+    }
+}

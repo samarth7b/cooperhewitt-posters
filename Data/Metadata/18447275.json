@@ -1,0 +1,171 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": 1916, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": "offset lithograph on paper, lined", 
+        "tms:id": "134153", 
+        "images": [
+            {
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/65770_35562452ab649e03_b.jpg", 
+                    "width": 723, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "65770"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/65770_35562452ab649e03_d.gif", 
+                    "width": 226, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "65770"
+                }, 
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/65770_35562452ab649e03_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "65770"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/65770_35562452ab649e03_n.jpg", 
+                    "width": 226, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "65770"
+                }, 
+                "x": {
+                    "url": "https://images.collection.cooperhewitt.org/65770_605c4c0ca45190ca_x.jpg", 
+                    "width": 2891, 
+                    "height": 4096, 
+                    "is_primary": "1", 
+                    "image_id": "65770"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/65770_35562452ab649e03_z.jpg", 
+                    "width": 452, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "65770"
+                }
+            }, 
+            {
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/221352_df841c5facafc190_b.jpg", 
+                    "width": 692, 
+                    "height": 1024, 
+                    "is_primary": "0", 
+                    "image_id": "221352"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/221352_df841c5facafc190_d.gif", 
+                    "width": 216, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "221352"
+                }, 
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/221352_df841c5facafc190_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "0", 
+                    "image_id": "221352"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/221352_df841c5facafc190_n.jpg", 
+                    "width": 216, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "221352"
+                }, 
+                "x": {
+                    "url": "https://images.collection.cooperhewitt.org/221352_cc1bfab110a4f4e3_x.jpg", 
+                    "width": 2765, 
+                    "height": 4096, 
+                    "is_primary": "0", 
+                    "image_id": "221352"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/221352_df841c5facafc190_z.jpg", 
+                    "width": 432, 
+                    "height": 640, 
+                    "is_primary": "0", 
+                    "image_id": "221352"
+                }
+            }
+        ], 
+        "id": "18447275", 
+        "has_no_known_copyright": "1", 
+        "woe:country_name": "United Kingdom", 
+        "dimensions": "76.3 x 51 cm (30 1/16 x 20 1/16 in.)", 
+        "title": "Poster, Godstone, 1916", 
+        "provenance": "Mrs. Edward McKnight Kauffer; 1963: acquired by Museum", 
+        "participants": [
+            {
+                "person_name": "Johnson, Riddle & Company Ltd.", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236673/", 
+                "role_id": "35236673", 
+                "role_name": "Printer", 
+                "person_date": "British, 1910 - 1974", 
+                "role_display_name": "Printed by", 
+                "person_id": "69121625", 
+                "person_url": "https://collection.cooperhewitt.org/people/69121625/"
+            }, 
+            {
+                "person_name": "Mrs. Edward McKnight Kauffer", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35351535/", 
+                "role_id": "35351535", 
+                "role_name": "Donor", 
+                "person_date": "", 
+                "role_display_name": "Donated by", 
+                "person_id": "18061849", 
+                "person_url": "https://collection.cooperhewitt.org/people/18061849/"
+            }, 
+            {
+                "person_name": "Edward McKnight Kauffer", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "American, active England, 1890–1954", 
+                "role_display_name": "Designed by", 
+                "person_id": "18041923", 
+                "person_url": "https://collection.cooperhewitt.org/people/18041923/"
+            }
+        ], 
+        "decade": "1910", 
+        "label_text": null, 
+        "woe:country": "23424975", 
+        "dimensions_raw": {
+            "width": [
+                "51.00", 
+                "centimeters"
+            ], 
+            "height": [
+                "76.30", 
+                "centimeters"
+            ]
+        }, 
+        "department_id": "35347493", 
+        "title_raw": "Godstone", 
+        "justification": null, 
+        "media_id": "51685923", 
+        "description": "View of quarry with mountain in background, wagons, workers. Silhouetted building in foreground.", 
+        "creditline": "Gift of Mrs. E. McKnight Kauffer", 
+        "on_display": null, 
+        "markings": "Monogram in red ink: EK / 1915", 
+        "is_loan_object": 0, 
+        "date": "1916", 
+        "url": "https://collection.cooperhewitt.org/objects/18447275/", 
+        "type": "poster", 
+        "accession_number": "1963-39-14", 
+        "year_end": 1916, 
+        "signed": null, 
+        "inscribed": "Printed in black ink, lower margin: ELECTRIC RAILWAYS HOUSE, BROADWAY, WESTMINSTER, S.W. 630 – 1500 – 1 -16; JOHNSON. RIDDLE & CO., LTD., LONDON, S.E.", 
+        "period_id": null, 
+        "year_acquired": "1963", 
+        "woe:country_id": "23424975"
+    }
+}

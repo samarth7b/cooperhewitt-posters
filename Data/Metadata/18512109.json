@@ -1,0 +1,107 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": null, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": "lithograph on wove paper, lined", 
+        "tms:id": "167010", 
+        "images": [
+            {
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/87881_34579f5f99134a33_b.jpg", 
+                    "width": 727, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "87881"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/87881_34579f5f99134a33_d.gif", 
+                    "width": 227, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "87881"
+                }, 
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/87881_34579f5f99134a33_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "87881"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/87881_34579f5f99134a33_n.jpg", 
+                    "width": 227, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "87881"
+                }, 
+                "x": {
+                    "url": "https://images.collection.cooperhewitt.org/87881_afd25f37748e0137_x.jpg", 
+                    "width": 2907, 
+                    "height": 4096, 
+                    "is_primary": "1", 
+                    "image_id": "87881"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/87881_34579f5f99134a33_z.jpg", 
+                    "width": 454, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "87881"
+                }
+            }
+        ], 
+        "id": "18512109", 
+        "has_no_known_copyright": "1", 
+        "woe:country_name": "France", 
+        "dimensions": "124.5 x 87.6 cm (49 in. x 34 1/2 in.)", 
+        "title": "Poster, La Closerie Des Genets, 1896", 
+        "provenance": "1980: acquired by Museum", 
+        "participants": [
+            {
+                "person_name": "Jules Chéret", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "French, 1836 - 1932", 
+                "role_display_name": "Designed by", 
+                "person_id": "18051221", 
+                "person_url": "https://collection.cooperhewitt.org/people/18051221/"
+            }
+        ], 
+        "decade": null, 
+        "label_text": null, 
+        "woe:country": "23424819", 
+        "dimensions_raw": {
+            "width": [
+                "87.63", 
+                "centimeters"
+            ], 
+            "height": [
+                "124.46", 
+                "centimeters"
+            ]
+        }, 
+        "department_id": "35347493", 
+        "title_raw": "La Closerie Des Genets", 
+        "justification": null, 
+        "media_id": "35431991", 
+        "description": "Poster featuring young woman with child, Bastille in the background. Text in black and red across top.", 
+        "creditline": "Gift of Unknown Donor", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "1896", 
+        "url": "https://collection.cooperhewitt.org/objects/18512109/", 
+        "type": "poster", 
+        "accession_number": "1980-32-979", 
+        "year_end": null, 
+        "signed": "Signed in black ink, in print, right side: CHERET", 
+        "inscribed": "Imprinted in black ink, left margin: -0 – 76 . Imp. CHAIX, (Succle Chéret ) 18, rue Brunel, PARIS.", 
+        "period_id": null, 
+        "year_acquired": "1980", 
+        "woe:country_id": "23424819"
+    }
+}

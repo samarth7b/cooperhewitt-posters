@@ -1,0 +1,90 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": 1993, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": null, 
+        "tms:id": "198686", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/268624_e4f57604b100b62d_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "268624"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/268624_e4f57604b100b62d_b.jpg", 
+                    "width": 710, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "268624"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/268624_e4f57604b100b62d_d.gif", 
+                    "width": 222, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "268624"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/268624_e4f57604b100b62d_z.jpg", 
+                    "width": 443, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "268624"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/268624_e4f57604b100b62d_n.jpg", 
+                    "width": 222, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "268624"
+                }
+            }
+        ], 
+        "id": "18647561", 
+        "has_no_known_copyright": null, 
+        "dimensions": null, 
+        "title": "Poster, The Power of Maps, 1993", 
+        "provenance": null, 
+        "participants": [
+            {
+                "person_name": "Unknown donor: unsolicited gift", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35351535/", 
+                "role_id": "35351535", 
+                "role_name": "Donor", 
+                "person_date": "", 
+                "role_display_name": "Donated by", 
+                "person_id": "18050283", 
+                "person_url": "https://collection.cooperhewitt.org/people/18050283/"
+            }
+        ], 
+        "decade": "1990", 
+        "label_text": null, 
+        "woe:country": null, 
+        "dimensions_raw": null, 
+        "department_id": "35347493", 
+        "title_raw": "The Power of Maps", 
+        "justification": null, 
+        "media_id": "35371135", 
+        "description": null, 
+        "creditline": "Gift of Unknown Donor", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "1993", 
+        "url": "https://collection.cooperhewitt.org/objects/18647561/", 
+        "type": "poster", 
+        "accession_number": "1994-114-39", 
+        "year_end": 1993, 
+        "signed": null, 
+        "inscribed": null, 
+        "period_id": null, 
+        "year_acquired": "1994", 
+        "woe:country_id": null
+    }
+}

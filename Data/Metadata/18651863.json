@@ -1,0 +1,167 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": 1970, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": "offset color lithograph on paper", 
+        "tms:id": "200874", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/12162_c803c22a72e63020_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "12162"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/12162_c803c22a72e63020_b.jpg", 
+                    "width": 601, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "12162"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/12162_c803c22a72e63020_d.gif", 
+                    "width": 188, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "12162"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/12162_c803c22a72e63020_z.jpg", 
+                    "width": 376, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "12162"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/12162_c803c22a72e63020_n.jpg", 
+                    "width": 188, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "12162"
+                }
+            }, 
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/268735_3f72a81c525bf78c_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "0", 
+                    "image_id": "268735"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/268735_3f72a81c525bf78c_b.jpg", 
+                    "width": 611, 
+                    "height": 1024, 
+                    "is_primary": "0", 
+                    "image_id": "268735"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/268735_3f72a81c525bf78c_d.gif", 
+                    "width": 191, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "268735"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/268735_3f72a81c525bf78c_z.jpg", 
+                    "width": 382, 
+                    "height": 640, 
+                    "is_primary": "0", 
+                    "image_id": "268735"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/268735_3f72a81c525bf78c_n.jpg", 
+                    "width": 191, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "268735"
+                }
+            }
+        ], 
+        "id": "18651863", 
+        "has_no_known_copyright": null, 
+        "woe:country_name": "United States", 
+        "dimensions": "75.1 x 43.5 cm (29 9/16 x 17 1/8 in.)", 
+        "title": "Poster, The Colored Museum, The Empty Space Theatre, 20th century", 
+        "provenance": "Art Chantry", 
+        "participants": [
+            {
+                "person_name": "Art Chantry", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35351535/", 
+                "role_id": "35351535", 
+                "role_name": "Donor", 
+                "person_date": "American, b. 1954", 
+                "role_display_name": "Donated by", 
+                "person_id": "18041683", 
+                "person_url": "https://collection.cooperhewitt.org/people/18041683/"
+            }, 
+            {
+                "person_name": "Lynda Barry", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236573/", 
+                "role_id": "35236573", 
+                "role_name": "Cartoonist", 
+                "person_date": "b. 1956", 
+                "role_display_name": "Cartoonist:", 
+                "person_id": "51677497", 
+                "person_url": "https://collection.cooperhewitt.org/people/51677497/"
+            }, 
+            {
+                "person_name": "Art Chantry", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35351535/", 
+                "role_id": "35351535", 
+                "role_name": "Donor", 
+                "person_date": "American, b. 1954", 
+                "role_display_name": "Donated by", 
+                "person_id": "18041683", 
+                "person_url": "https://collection.cooperhewitt.org/people/18041683/"
+            }, 
+            {
+                "person_name": "Art Chantry", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "American, b. 1954", 
+                "role_display_name": "Designed by", 
+                "person_id": "18041683", 
+                "person_url": "https://collection.cooperhewitt.org/people/18041683/"
+            }
+        ], 
+        "decade": "1970", 
+        "label_text": null, 
+        "woe:country": "23424977", 
+        "dimensions_raw": {
+            "width": [
+                "43.50", 
+                "centimeters"
+            ], 
+            "height": [
+                "75.10", 
+                "centimeters"
+            ]
+        }, 
+        "department_id": "35347493", 
+        "title_raw": "The Colored Museum, The Empty Space Theatre", 
+        "justification": null, 
+        "media_id": "35519927", 
+        "description": "Poster design with black text on a background of figures illustrated in pink, yellow and green. Black text: The Empty Space Theatre presents the West coast premiere of / THE COLORED / MUSEUM; white text in black box, below: By George C. Wolfe / Opens March 23, 1988 / Tickets: 467-6000 / The Empty Space Theatre / 95 So. Jackson St. at / 1st Avenue in Pioneer Square.", 
+        "creditline": "Gift of Art Chantry", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "20th century", 
+        "url": "https://collection.cooperhewitt.org/objects/18651863/", 
+        "type": "poster", 
+        "accession_number": "1995-69-39", 
+        "year_end": 1995, 
+        "signed": null, 
+        "inscribed": "Imprinted in black, lower margin: ILLUSTRATIONS BY LYNDA J. BARRY / DESIGN BY ART CHANTRY / PRINTED BY DISPLAY PRODUCTS LTD. TYPESETTING ECLIPSE TYPOGRAPHY PAPER FROM UNSOURCE", 
+        "period_id": null, 
+        "year_acquired": "1995", 
+        "woe:country_id": "23424977"
+    }
+}

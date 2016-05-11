@@ -1,0 +1,128 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": 2013, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": "offset lithograph on paper", 
+        "tms:id": "277565", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/95684_8f90593f0d92406e_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "95684"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/95684_8f90593f0d92406e_b.jpg", 
+                    "width": 721, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "95684"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/95684_8f90593f0d92406e_d.gif", 
+                    "width": 225, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "95684"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/95684_8f90593f0d92406e_z.jpg", 
+                    "width": 450, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "95684"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/95684_8f90593f0d92406e_n.jpg", 
+                    "width": 225, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "95684"
+                }
+            }, 
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/94794_0f099dd7aba0a0f0_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "0", 
+                    "image_id": "94794"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/94794_0f099dd7aba0a0f0_b.jpg", 
+                    "width": 720, 
+                    "height": 1024, 
+                    "is_primary": "0", 
+                    "image_id": "94794"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/94794_0f099dd7aba0a0f0_d.gif", 
+                    "width": 225, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "94794"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/94794_0f099dd7aba0a0f0_z.jpg", 
+                    "width": 450, 
+                    "height": 640, 
+                    "is_primary": "0", 
+                    "image_id": "94794"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/94794_0f099dd7aba0a0f0_n.jpg", 
+                    "width": 225, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "94794"
+                }
+            }
+        ], 
+        "id": "68743567", 
+        "has_no_known_copyright": null, 
+        "woe:country_name": "Switzerland", 
+        "dimensions": "H x W: 128 × 89.5 cm (50 3/8 × 35 1/4 in.)", 
+        "title": "Poster, Werkschau 2013, 2013", 
+        "provenance": "Felix Pfäffli; August 2014: acquired new by museum", 
+        "participants": [
+            {
+                "person_name": "Felix Pfäffli", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "Swiss, born 1986", 
+                "role_display_name": "Designed by", 
+                "person_id": "68735119", 
+                "person_url": "https://collection.cooperhewitt.org/people/68735119/"
+            }
+        ], 
+        "decade": "2010", 
+        "label_text": null, 
+        "woe:country": "23424957", 
+        "dimensions_raw": null, 
+        "department_id": "35347493", 
+        "title_raw": "Werkschau 2013", 
+        "justification": "This poster promotes an annual showcase of student work at the Lucerne University of Design and Art, called the Werkschau, and was designed by Felix and Mathis Pfäffli, brothers who are both graphic designers based in Switzerland. To represent the multimedia exhibition, they designed a symbol of artistic transformation. Felix Pfäffli describes the poster’s enormous squiggle as the first stroke of the artist, which begins in the lower left as spray paint, before morphing into paper, then plastic, and then changing back to its original form in the top right. For designers in the digital age, media is endlessly malleable—a simple click can transform textures and materials. The squiggle is itself subject to digital transformation. Using design software, the Pfäfflis simulated shadows and highlights, giving it the appearance of dimensionality. Printed in bright red, their squiggle is volumetric and a bit voluptuous. As Pfäffli explains, \"A brushstroke isn’t just a stroke anymore. It can be whatever you want.\"", 
+        "media_id": "35399021", 
+        "description": "Poster for the Werkschau of the Lucerne University of Design and Art. Poster features a large red squiggle that begins in the lower left as spray paint, before morphing into paper, then plastic, and then changing back to its original form in the top right.  The squiggle overlaps the form of a blue pole featuring in white text information about the exhibition.", 
+        "creditline": "Gift of Felix Pfäffli", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "2013", 
+        "url": "https://collection.cooperhewitt.org/objects/68743567/", 
+        "type": "poster", 
+        "accession_number": "2014-30-4", 
+        "year_end": 2013, 
+        "signed": null, 
+        "inscribed": null, 
+        "period_id": null, 
+        "year_acquired": "2014", 
+        "woe:country_id": "23424957"
+    }
+}

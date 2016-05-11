@@ -1,0 +1,100 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": 1982, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": null, 
+        "tms:id": "191590", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/203733_52cfacb2b9aefa1f_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "203733"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/203733_52cfacb2b9aefa1f_b.jpg", 
+                    "width": 1024, 
+                    "height": 712, 
+                    "is_primary": "1", 
+                    "image_id": "203733"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/203733_52cfacb2b9aefa1f_d.gif", 
+                    "width": 320, 
+                    "height": 223, 
+                    "is_primary": "1", 
+                    "image_id": "203733"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/203733_52cfacb2b9aefa1f_z.jpg", 
+                    "width": 640, 
+                    "height": 445, 
+                    "is_primary": "1", 
+                    "image_id": "203733"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/203733_52cfacb2b9aefa1f_n.jpg", 
+                    "width": 320, 
+                    "height": 223, 
+                    "is_primary": "1", 
+                    "image_id": "203733"
+                }
+            }
+        ], 
+        "id": "18633493", 
+        "has_no_known_copyright": null, 
+        "woe:country_name": "Netherlands", 
+        "dimensions": "42.5 x 61.6 cm (16 3/4 x 24 1/4 in.)", 
+        "title": "Poster, Dansproductie Feuilleton, 1982", 
+        "provenance": null, 
+        "participants": [
+            {
+                "person_name": "Hard Werken Design", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "", 
+                "role_display_name": "Designed by", 
+                "person_id": "18042029", 
+                "person_url": "https://collection.cooperhewitt.org/people/18042029/"
+            }
+        ], 
+        "decade": "1980", 
+        "label_text": null, 
+        "woe:country": "23424909", 
+        "dimensions_raw": {
+            "width": [
+                "61.60", 
+                "centimeters"
+            ], 
+            "height": [
+                "42.50", 
+                "centimeters"
+            ]
+        }, 
+        "department_id": "35347493", 
+        "title_raw": "Dansproductie Feuilleton", 
+        "justification": null, 
+        "media_id": "35371135", 
+        "description": null, 
+        "creditline": null, 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "1982", 
+        "url": "https://collection.cooperhewitt.org/objects/18633493/", 
+        "type": "poster", 
+        "accession_number": "1989-85-3", 
+        "year_end": 1982, 
+        "signed": null, 
+        "inscribed": null, 
+        "period_id": null, 
+        "year_acquired": "1989", 
+        "woe:country_id": "23424909"
+    }
+}

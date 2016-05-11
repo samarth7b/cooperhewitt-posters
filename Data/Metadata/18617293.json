@@ -1,0 +1,137 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": null, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": "lithograph on paper", 
+        "tms:id": "177179", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/82690_156fe89573dffd6e_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "82690"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/82690_156fe89573dffd6e_b.jpg", 
+                    "width": 754, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "82690"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/82690_156fe89573dffd6e_d.gif", 
+                    "width": 236, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "82690"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/82690_156fe89573dffd6e_z.jpg", 
+                    "width": 471, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "82690"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/82690_156fe89573dffd6e_n.jpg", 
+                    "width": 236, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "82690"
+                }
+            }, 
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/205605_b9ae912d1ede1a49_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "0", 
+                    "image_id": "205605"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/205605_b9ae912d1ede1a49_b.jpg", 
+                    "width": 760, 
+                    "height": 1024, 
+                    "is_primary": "0", 
+                    "image_id": "205605"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/205605_b9ae912d1ede1a49_d.gif", 
+                    "width": 238, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "205605"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/205605_b9ae912d1ede1a49_z.jpg", 
+                    "width": 475, 
+                    "height": 640, 
+                    "is_primary": "0", 
+                    "image_id": "205605"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/205605_b9ae912d1ede1a49_n.jpg", 
+                    "width": 238, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "205605"
+                }
+            }
+        ], 
+        "id": "18617293", 
+        "has_no_known_copyright": null, 
+        "woe:country_name": "United States", 
+        "dimensions": "Overall: 70.7 x 52.5 cm (27 13/16 x 20 11/16 in.)", 
+        "title": "Poster, Bone Up", 
+        "provenance": "1981: acquired by Museum", 
+        "participants": [
+            {
+                "person_name": "Brigham Young University", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236667/", 
+                "role_id": "35236667", 
+                "role_name": "Client", 
+                "person_date": "", 
+                "role_display_name": "Client:", 
+                "person_id": "18042421", 
+                "person_url": "https://collection.cooperhewitt.org/people/18042421/"
+            }
+        ], 
+        "decade": null, 
+        "label_text": null, 
+        "woe:country": "23424977", 
+        "dimensions_raw": {
+            "width": [
+                "52.50", 
+                "centimeters"
+            ], 
+            "height": [
+                "70.70", 
+                "centimeters"
+            ]
+        }, 
+        "department_id": "35347493", 
+        "title_raw": "Bone Up", 
+        "justification": null, 
+        "media_id": "35419317", 
+        "description": "Rows of bones with black text: Bone Up.", 
+        "creditline": "Gift of Various Donors", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": null, 
+        "url": "https://collection.cooperhewitt.org/objects/18617293/", 
+        "type": "poster", 
+        "accession_number": "1981-29-117", 
+        "year_end": null, 
+        "signed": null, 
+        "inscribed": null, 
+        "period_id": null, 
+        "year_acquired": "1981", 
+        "woe:country_id": "23424977"
+    }
+}

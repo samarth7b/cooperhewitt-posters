@@ -1,0 +1,193 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": 1996, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": "screenprint on orange wove heavy weight paper", 
+        "tms:id": "209146", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/94784_960c86f9bfbd4c2d_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "94784"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/94784_960c86f9bfbd4c2d_b.jpg", 
+                    "width": 690, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "94784"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/94784_960c86f9bfbd4c2d_d.gif", 
+                    "width": 216, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "94784"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/94784_960c86f9bfbd4c2d_z.jpg", 
+                    "width": 431, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "94784"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/94784_960c86f9bfbd4c2d_n.jpg", 
+                    "width": 216, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "94784"
+                }
+            }, 
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/95697_199a3761949d4117_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "0", 
+                    "image_id": "95697"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/95697_199a3761949d4117_b.jpg", 
+                    "width": 690, 
+                    "height": 1024, 
+                    "is_primary": "0", 
+                    "image_id": "95697"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/95697_199a3761949d4117_d.gif", 
+                    "width": 216, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "95697"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/95697_199a3761949d4117_z.jpg", 
+                    "width": 431, 
+                    "height": 640, 
+                    "is_primary": "0", 
+                    "image_id": "95697"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/95697_199a3761949d4117_n.jpg", 
+                    "width": 216, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "95697"
+                }
+            }, 
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/13166_89a7854edb9032e0_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "0", 
+                    "image_id": "13166"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/13166_89a7854edb9032e0_b.jpg", 
+                    "width": 687, 
+                    "height": 1024, 
+                    "is_primary": "0", 
+                    "image_id": "13166"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/13166_89a7854edb9032e0_d.gif", 
+                    "width": 215, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "13166"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/13166_89a7854edb9032e0_z.jpg", 
+                    "width": 429, 
+                    "height": 640, 
+                    "is_primary": "0", 
+                    "image_id": "13166"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/13166_89a7854edb9032e0_n.jpg", 
+                    "width": 215, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "13166"
+                }
+            }
+        ], 
+        "id": "18667517", 
+        "has_no_known_copyright": null, 
+        "dimensions": "H x W x D: 77.9 × 51.9 cm (30 11/16 × 20 7/16 in.)", 
+        "title": "Poster, Poetry Readings, 1996", 
+        "provenance": null, 
+        "participants": [
+            {
+                "person_name": "Biblio's", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236667/", 
+                "role_id": "35236667", 
+                "role_name": "Client", 
+                "person_date": "", 
+                "role_display_name": "Client:", 
+                "person_id": "68774503", 
+                "person_url": "https://collection.cooperhewitt.org/people/68774503/"
+            }, 
+            {
+                "person_name": "Design Machine", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35351535/", 
+                "role_id": "35351535", 
+                "role_name": "Donor", 
+                "person_date": "", 
+                "role_display_name": "Donated by", 
+                "person_id": "18049817", 
+                "person_url": "https://collection.cooperhewitt.org/people/18049817/"
+            }, 
+            {
+                "person_name": "Alexander Gelman", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "Russian, active USA, b. 1967", 
+                "role_display_name": "Designed by", 
+                "person_id": "18049815", 
+                "person_url": "https://collection.cooperhewitt.org/people/18049815/"
+            }
+        ], 
+        "decade": "1990", 
+        "label_text": "Gelman, a Russian-born designer, worked in the United States during the 1990s and early 2000s. His simple icons strive not so much to capture the essence of a subject, but rather to offer an off-kilter view of it. Here, a table lamp represents a poetry reading. The visual illustration is, one might say, beside the point.", 
+        "woe:country": null, 
+        "dimensions_raw": {
+            "width": [
+                "52.10", 
+                "centimeters"
+            ], 
+            "height": [
+                "77.80", 
+                "centimeters"
+            ]
+        }, 
+        "department_id": "35347493", 
+        "title_raw": "Poetry Readings", 
+        "justification": null, 
+        "media_id": "35383655", 
+        "description": "Simple table lamp with white shade and black base on orange ground is placed in center of poster. Imprinted in white in lower right quarter of poster, the announcement: \"poetry readings/ every thursday at biblio's/ starting at 8:30/ 317 church st new york.\"", 
+        "creditline": "Gift of Design Machine", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "1996", 
+        "url": "https://collection.cooperhewitt.org/objects/18667517/", 
+        "type": "poster", 
+        "accession_number": "1998-32-15", 
+        "year_end": 1996, 
+        "signed": null, 
+        "inscribed": "See description", 
+        "period_id": null, 
+        "year_acquired": "1998", 
+        "woe:country_id": null
+    }
+}

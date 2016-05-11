@@ -1,0 +1,167 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": 1991, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": "offset lithograph on white paper", 
+        "tms:id": "223264", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/40190_f6582965cc2bbda0_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "40190"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/40190_f6582965cc2bbda0_b.jpg", 
+                    "width": 578, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "40190"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/40190_f6582965cc2bbda0_d.gif", 
+                    "width": 181, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "40190"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/40190_f6582965cc2bbda0_z.jpg", 
+                    "width": 361, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "40190"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/40190_f6582965cc2bbda0_n.jpg", 
+                    "width": 181, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "40190"
+                }
+            }, 
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/197053_c1f07582d1499399_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "0", 
+                    "image_id": "197053"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/197053_c1f07582d1499399_b.jpg", 
+                    "width": 605, 
+                    "height": 1024, 
+                    "is_primary": "0", 
+                    "image_id": "197053"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/197053_c1f07582d1499399_d.gif", 
+                    "width": 189, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "197053"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/197053_c1f07582d1499399_z.jpg", 
+                    "width": 378, 
+                    "height": 640, 
+                    "is_primary": "0", 
+                    "image_id": "197053"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/197053_c1f07582d1499399_n.jpg", 
+                    "width": 189, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "197053"
+                }
+            }
+        ], 
+        "id": "18695395", 
+        "has_no_known_copyright": null, 
+        "woe:country_name": "United States", 
+        "dimensions": "(closed): 27.9 x 15.4 cm (11 in. x 6 1/16 in.)\n(open): 27.9 x 76.5 cm (11 in. x 30 1/8 in.)", 
+        "title": "Poster, Yale University School of Art Graduate Program: 1991-1992, 1991", 
+        "provenance": "Marion S. Rand", 
+        "participants": [
+            {
+                "person_name": "Karin Zonis", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35352245/", 
+                "role_id": "35352245", 
+                "role_name": "Cataloguer", 
+                "person_date": "", 
+                "role_display_name": "Catalogued by", 
+                "person_id": "51676457", 
+                "person_url": "https://collection.cooperhewitt.org/people/51676457/"
+            }, 
+            {
+                "person_name": "Yale University", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236667/", 
+                "role_id": "35236667", 
+                "role_name": "Client", 
+                "person_date": "", 
+                "role_display_name": "Client:", 
+                "person_id": "18054949", 
+                "person_url": "https://collection.cooperhewitt.org/people/18054949/"
+            }, 
+            {
+                "person_name": "Marion S. Rand", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35351535/", 
+                "role_id": "35351535", 
+                "role_name": "Donor", 
+                "person_date": "", 
+                "role_display_name": "Donated by", 
+                "person_id": "18538789", 
+                "person_url": "https://collection.cooperhewitt.org/people/18538789/"
+            }, 
+            {
+                "person_name": "Paul Rand", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236763/", 
+                "role_id": "35236763", 
+                "role_name": "Graphic Designer", 
+                "person_date": "American, 1914–1996", 
+                "role_display_name": "Graphic design by", 
+                "person_id": "18042341", 
+                "person_url": "https://collection.cooperhewitt.org/people/18042341/"
+            }
+        ], 
+        "decade": "1990", 
+        "label_text": null, 
+        "woe:country": "23424977", 
+        "dimensions_raw": {
+            "width": [
+                "15.40", 
+                "centimeters"
+            ], 
+            "height": [
+                "27.90", 
+                "centimeters"
+            ]
+        }, 
+        "department_id": "35347493", 
+        "title_raw": "Yale University School of Art Graduate Program: 1991-1992", 
+        "justification": null, 
+        "media_id": "35424093", 
+        "description": "Five page brochure on white paper that opens like book. Center of cover page, bull's eye symbol in red, white, and dark gray. Black and white bull dog, lower right. Imprinted in dark gray ink, cover page, upper left: Yale University / School of Art Graduate Program: / 1991-1992. First page: text blocks with different headings describe mission of program, M.D.A. programs of study, who can qualify, applications, tuition, and financial aid. Second page: text blocks describe more on financial aid, additional resources, inquiries, the specific departments: graphic design, painting and printmaking. Third page: text blocks describe more on painting and print making, photography, sculpture, and visiting artists / lecturers.  Fourth page: name of program, upper center; same bull's eye design as cover, with a black and white bulldog in center of bull's eye, center.  Verso: all pages blank.", 
+        "creditline": "Gift of Marion S. Rand", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "1991", 
+        "url": "https://collection.cooperhewitt.org/objects/18695395/", 
+        "type": "poster", 
+        "accession_number": "2002-11-38", 
+        "year_end": 1991, 
+        "signed": "Imprinted in dark gray ink, third page, lower left corner: Design: Paul Rand", 
+        "inscribed": "Imprinted, fourth page, upper left corner: Yale University/ School of Art Graduate Program:/ 1991-1992. / Alan Hacklin Martin Parr Sylvia Woodard/ Typesetting: PDR, New York City;", 
+        "period_id": null, 
+        "year_acquired": "2002", 
+        "woe:country_id": "23424977"
+    }
+}

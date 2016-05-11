@@ -1,0 +1,100 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": null, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": null, 
+        "tms:id": "159940", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/199155_4d2dffb55537dde6_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "199155"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/199155_4d2dffb55537dde6_b.jpg", 
+                    "width": 773, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "199155"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/199155_4d2dffb55537dde6_d.gif", 
+                    "width": 242, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "199155"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/199155_4d2dffb55537dde6_z.jpg", 
+                    "width": 483, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "199155"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/199155_4d2dffb55537dde6_n.jpg", 
+                    "width": 242, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "199155"
+                }
+            }
+        ], 
+        "id": "18498087", 
+        "has_no_known_copyright": null, 
+        "dimensions": null, 
+        "title": "Poster, The General/Buster Keaton 1926 [Pacific Film Archive Poster]", 
+        "provenance": null, 
+        "participants": [
+            {
+                "person_name": "David Lance Goines", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35351535/", 
+                "role_id": "35351535", 
+                "role_name": "Donor", 
+                "person_date": "American, b. 1945", 
+                "role_display_name": "Donated by", 
+                "person_id": "18043255", 
+                "person_url": "https://collection.cooperhewitt.org/people/18043255/"
+            }, 
+            {
+                "person_name": "David Lance Goines", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236685/", 
+                "role_id": "35236685", 
+                "role_name": "Maker", 
+                "person_date": "American, b. 1945", 
+                "role_display_name": "Made by", 
+                "person_id": "18043255", 
+                "person_url": "https://collection.cooperhewitt.org/people/18043255/"
+            }
+        ], 
+        "decade": null, 
+        "label_text": null, 
+        "woe:country": null, 
+        "dimensions_raw": null, 
+        "department_id": "35347493", 
+        "title_raw": "The General/Buster Keaton 1926 [Pacific Film Archive Poster]", 
+        "justification": null, 
+        "media_id": "35371135", 
+        "description": "The Pacific Film Archive is in Berkeley, California", 
+        "creditline": null, 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": null, 
+        "url": "https://collection.cooperhewitt.org/objects/18498087/", 
+        "type": "poster", 
+        "accession_number": "1979-40-6", 
+        "year_end": null, 
+        "signed": null, 
+        "inscribed": null, 
+        "period_id": null, 
+        "year_acquired": "1979", 
+        "woe:country_id": null
+    }
+}

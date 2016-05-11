@@ -1,0 +1,130 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": 1990, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": "screenprint on white paper", 
+        "tms:id": "200946", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/84991_5923b5452056e70c_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "84991"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/84991_5923b5452056e70c_b.jpg", 
+                    "width": 660, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "84991"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/84991_5923b5452056e70c_d.gif", 
+                    "width": 206, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "84991"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/84991_5923b5452056e70c_z.jpg", 
+                    "width": 413, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "84991"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/84991_5923b5452056e70c_n.jpg", 
+                    "width": 206, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "84991"
+                }
+            }
+        ], 
+        "id": "18652007", 
+        "has_no_known_copyright": null, 
+        "woe:country_name": "United States", 
+        "dimensions": "H x W: 77.9 × 50.3 cm (30 11/16 × 19 13/16 in.)", 
+        "title": "Poster, Low Technology, 1990", 
+        "provenance": "1995: acquired by Museum", 
+        "participants": [
+            {
+                "person_name": "Center on Contemporary Art", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236667/", 
+                "role_id": "35236667", 
+                "role_name": "Client", 
+                "person_date": "", 
+                "role_display_name": "Client:", 
+                "person_id": "68775693", 
+                "person_url": "https://collection.cooperhewitt.org/people/68775693/"
+            }, 
+            {
+                "person_name": "Art Chantry", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35351535/", 
+                "role_id": "35351535", 
+                "role_name": "Donor", 
+                "person_date": "American, b. 1954", 
+                "role_display_name": "Donated by", 
+                "person_id": "18041683", 
+                "person_url": "https://collection.cooperhewitt.org/people/18041683/"
+            }, 
+            {
+                "person_name": "Art Garcia", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236673/", 
+                "role_id": "35236673", 
+                "role_name": "Printer", 
+                "person_date": "", 
+                "role_display_name": "Printed by", 
+                "person_id": "68263689", 
+                "person_url": "https://collection.cooperhewitt.org/people/68263689/"
+            }, 
+            {
+                "person_name": "Art Chantry", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "American, b. 1954", 
+                "role_display_name": "Designed by", 
+                "person_id": "18041683", 
+                "person_url": "https://collection.cooperhewitt.org/people/18041683/"
+            }
+        ], 
+        "decade": "1990", 
+        "label_text": null, 
+        "woe:country": "23424977", 
+        "dimensions_raw": {
+            "width": [
+                "50.10", 
+                "centimeters"
+            ], 
+            "height": [
+                "77.60", 
+                "centimeters"
+            ]
+        }, 
+        "department_id": "35347493", 
+        "title_raw": "Low Technology", 
+        "justification": null, 
+        "media_id": "51684187", 
+        "description": "Poster advertising \"Low Technology:  Artists Made Machines\", curated by Larry Reid at the Center on Contemporary Art.  Features a tire, printed in black against orange background.  A face in a gas mask emerges from the treads at the center of the tire.  Two men with pickaxes, in miniature, assault the tire as another tries to scale its side.", 
+        "creditline": "Gift of Art Chantry", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "1990", 
+        "url": "https://collection.cooperhewitt.org/objects/18652007/", 
+        "type": "poster", 
+        "accession_number": "1995-69-89", 
+        "year_end": 1990, 
+        "signed": null, 
+        "inscribed": "Imprinted in white ink, lower right: POSTER BY ART CHANTRY / PRINTED BY ART GARCIA", 
+        "period_id": null, 
+        "year_acquired": "1995", 
+        "woe:country_id": "23424977"
+    }
+}

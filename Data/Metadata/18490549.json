@@ -1,0 +1,101 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": null, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": null, 
+        "tms:id": "156152", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/266702_e1da66f35ec76221_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "266702"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/266702_e1da66f35ec76221_b.jpg", 
+                    "width": 687, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "266702"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/266702_e1da66f35ec76221_d.gif", 
+                    "width": 215, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "266702"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/266702_e1da66f35ec76221_z.jpg", 
+                    "width": 429, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "266702"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/266702_e1da66f35ec76221_n.jpg", 
+                    "width": 215, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "266702"
+                }
+            }
+        ], 
+        "id": "18490549", 
+        "has_no_known_copyright": null, 
+        "woe:country_name": "United States", 
+        "dimensions": null, 
+        "title": "Poster (USA)", 
+        "provenance": null, 
+        "participants": [
+            {
+                "person_name": "Finch College Museum of Art", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35352249/", 
+                "role_id": "35352249", 
+                "role_name": "Vendor", 
+                "person_date": "", 
+                "role_display_name": "Purchased from", 
+                "person_id": "18047449", 
+                "person_url": "https://collection.cooperhewitt.org/people/18047449/"
+            }, 
+            {
+                "person_name": "Kenneth Snelson", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "", 
+                "role_display_name": "Designed by", 
+                "person_id": "18050065", 
+                "person_url": "https://collection.cooperhewitt.org/people/18050065/"
+            }
+        ], 
+        "decade": null, 
+        "label_text": null, 
+        "woe:country": "23424977", 
+        "dimensions_raw": null, 
+        "department_id": "35347493", 
+        "title_raw": null, 
+        "justification": null, 
+        "media_id": "35371135", 
+        "description": null, 
+        "creditline": null, 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": null, 
+        "url": "https://collection.cooperhewitt.org/objects/18490549/", 
+        "type": "poster", 
+        "accession_number": "1976-25-1", 
+        "year_end": null, 
+        "signed": null, 
+        "inscribed": null, 
+        "period_id": null, 
+        "year_acquired": "1976", 
+        "woe:country_id": "23424977"
+    }
+}

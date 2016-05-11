@@ -1,0 +1,147 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": 1943, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": "lithograph on white wove paper", 
+        "tms:id": "133995", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/65799_eac3b84b4cab0d3f_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "65799"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/65799_eac3b84b4cab0d3f_b.jpg", 
+                    "width": 763, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "65799"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/65799_eac3b84b4cab0d3f_d.gif", 
+                    "width": 238, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "65799"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/65799_eac3b84b4cab0d3f_z.jpg", 
+                    "width": 477, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "65799"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/65799_eac3b84b4cab0d3f_n.jpg", 
+                    "width": 238, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "65799"
+                }
+            }, 
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/221486_686e0051be505d54_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "0", 
+                    "image_id": "221486"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/221486_686e0051be505d54_b.jpg", 
+                    "width": 775, 
+                    "height": 1024, 
+                    "is_primary": "0", 
+                    "image_id": "221486"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/221486_686e0051be505d54_d.gif", 
+                    "width": 242, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "221486"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/221486_686e0051be505d54_z.jpg", 
+                    "width": 484, 
+                    "height": 640, 
+                    "is_primary": "0", 
+                    "image_id": "221486"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/221486_686e0051be505d54_n.jpg", 
+                    "width": 242, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "221486"
+                }
+            }
+        ], 
+        "id": "18446959", 
+        "has_no_known_copyright": null, 
+        "woe:country_name": "United States", 
+        "dimensions": "61 x 45.5 cm (24 in. x 17 15/16 in.)", 
+        "title": "Poster, Help a Greek Child to Survive, 1943", 
+        "provenance": "Mrs. Edward McKnight Kauffer; 1963: acquired by Museum", 
+        "participants": [
+            {
+                "person_name": "Mrs. Edward McKnight Kauffer", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35351535/", 
+                "role_id": "35351535", 
+                "role_name": "Donor", 
+                "person_date": "", 
+                "role_display_name": "Donated by", 
+                "person_id": "18061849", 
+                "person_url": "https://collection.cooperhewitt.org/people/18061849/"
+            }, 
+            {
+                "person_name": "Edward McKnight Kauffer", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "American, active England, 1890–1954", 
+                "role_display_name": "Designed by", 
+                "person_id": "18041923", 
+                "person_url": "https://collection.cooperhewitt.org/people/18041923/"
+            }
+        ], 
+        "decade": "1940", 
+        "label_text": null, 
+        "woe:country": "23424977", 
+        "dimensions_raw": {
+            "width": [
+                "45.50", 
+                "centimeters"
+            ], 
+            "height": [
+                "61.00", 
+                "centimeters"
+            ]
+        }, 
+        "department_id": "35347493", 
+        "title_raw": "Help a Greek Child to Survive", 
+        "justification": null, 
+        "media_id": "35374607", 
+        "description": "Poster depicts a young girl with black hair and a brown shawl, in profile. Text in white and brown: HELP A GREEK CHILD / TO SURVIVE / CONTRIBUTE TO FRIENDS OF GREECE INC., 52 EAST 57TH STREET, NEW YORK CITY.", 
+        "creditline": "Gift of Mrs. E. McKnight Kauffer", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "1943", 
+        "url": "https://collection.cooperhewitt.org/objects/18446959/", 
+        "type": "poster", 
+        "accession_number": "1963-39-111-a", 
+        "year_end": 1943, 
+        "signed": null, 
+        "inscribed": "Signed in brown ink, lower right: E. McKnight Kauffer", 
+        "period_id": null, 
+        "year_acquired": "1963", 
+        "woe:country_id": "23424977"
+    }
+}

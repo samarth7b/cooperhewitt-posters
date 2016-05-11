@@ -1,0 +1,80 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": 1975, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": null, 
+        "tms:id": "177512", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/252311_3e78b30bdddfd173_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "252311"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/252311_3e78b30bdddfd173_b.jpg", 
+                    "width": 687, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "252311"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/252311_3e78b30bdddfd173_d.gif", 
+                    "width": 215, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "252311"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/252311_3e78b30bdddfd173_z.jpg", 
+                    "width": 429, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "252311"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/252311_3e78b30bdddfd173_n.jpg", 
+                    "width": 215, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "252311"
+                }
+            }
+        ], 
+        "id": "18617957", 
+        "has_no_known_copyright": null, 
+        "woe:country_name": "United States", 
+        "dimensions": null, 
+        "title": "Poster, Motion Picture Poster: Tommy, 1975", 
+        "provenance": "1981: acquired by Museum", 
+        "participants": [], 
+        "decade": "1970", 
+        "label_text": null, 
+        "woe:country": "23424977", 
+        "dimensions_raw": null, 
+        "department_id": "35347493", 
+        "title_raw": "Motion Picture Poster: Tommy", 
+        "justification": null, 
+        "media_id": "35371135", 
+        "description": "Frankfurt?", 
+        "creditline": "Gift of Various Donors", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "1975", 
+        "url": "https://collection.cooperhewitt.org/objects/18617957/", 
+        "type": "poster", 
+        "accession_number": "1981-29-413", 
+        "year_end": 1975, 
+        "signed": null, 
+        "inscribed": null, 
+        "period_id": null, 
+        "year_acquired": "1981", 
+        "woe:country_id": "23424977"
+    }
+}

@@ -1,0 +1,120 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": null, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": null, 
+        "tms:id": "177379", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/201194_a8498f481aec2074_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "201194"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/201194_a8498f481aec2074_b.jpg", 
+                    "width": 1024, 
+                    "height": 1014, 
+                    "is_primary": "1", 
+                    "image_id": "201194"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/201194_a8498f481aec2074_d.gif", 
+                    "width": 320, 
+                    "height": 317, 
+                    "is_primary": "1", 
+                    "image_id": "201194"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/201194_a8498f481aec2074_z.jpg", 
+                    "width": 640, 
+                    "height": 634, 
+                    "is_primary": "1", 
+                    "image_id": "201194"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/201194_a8498f481aec2074_n.jpg", 
+                    "width": 320, 
+                    "height": 317, 
+                    "is_primary": "1", 
+                    "image_id": "201194"
+                }
+            }
+        ], 
+        "id": "18617693", 
+        "has_no_known_copyright": null, 
+        "woe:country_name": "United States", 
+        "dimensions": "Overall: 53.3 x 53.3 cm (21 x 21 in.)", 
+        "title": "Poster, We dare you. Joseph & Judith Essex", 
+        "provenance": "1981: acquired by Museum", 
+        "participants": [
+            {
+                "person_name": "Burson-Marsteller Design Group", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236681/", 
+                "role_id": "35236681", 
+                "role_name": "Company", 
+                "person_date": "", 
+                "role_display_name": "Company:", 
+                "person_id": "18042371", 
+                "person_url": "https://collection.cooperhewitt.org/people/18042371/"
+            }, 
+            {
+                "person_name": "Joseph Michael Essex", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "American, b. 1947", 
+                "role_display_name": "Designed by", 
+                "person_id": "18042093", 
+                "person_url": "https://collection.cooperhewitt.org/people/18042093/"
+            }, 
+            {
+                "person_name": "Joseph Michael Essex", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236787/", 
+                "role_id": "35236787", 
+                "role_name": "Art Director", 
+                "person_date": "American, b. 1947", 
+                "role_display_name": "Art Director:", 
+                "person_id": "18042093", 
+                "person_url": "https://collection.cooperhewitt.org/people/18042093/"
+            }
+        ], 
+        "decade": null, 
+        "label_text": null, 
+        "woe:country": "23424977", 
+        "dimensions_raw": {
+            "width": [
+                "53.30", 
+                "centimeters"
+            ], 
+            "height": [
+                "53.30", 
+                "centimeters"
+            ]
+        }, 
+        "department_id": "35347493", 
+        "title_raw": "We dare you. Joseph & Judith Essex", 
+        "justification": null, 
+        "media_id": "35371135", 
+        "description": null, 
+        "creditline": "Gift of Various Donors", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": null, 
+        "url": "https://collection.cooperhewitt.org/objects/18617693/", 
+        "type": "poster", 
+        "accession_number": "1981-29-295", 
+        "year_end": null, 
+        "signed": null, 
+        "inscribed": null, 
+        "period_id": null, 
+        "year_acquired": "1981", 
+        "woe:country_id": "23424977"
+    }
+}

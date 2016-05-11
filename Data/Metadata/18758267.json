@@ -1,0 +1,177 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": 1990, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": "offset lithograph on wove paper", 
+        "tms:id": "255418", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/65814_e872f8ef726b1284_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "65814"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/65814_e872f8ef726b1284_b.jpg", 
+                    "width": 727, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "65814"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/65814_e872f8ef726b1284_d.gif", 
+                    "width": 227, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "65814"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/65814_e872f8ef726b1284_z.jpg", 
+                    "width": 454, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "65814"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/65814_e872f8ef726b1284_n.jpg", 
+                    "width": 227, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "65814"
+                }
+            }, 
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/35163_68d0c4b4fe601cff_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "0", 
+                    "image_id": "35163"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/35163_68d0c4b4fe601cff_b.jpg", 
+                    "width": 733, 
+                    "height": 1024, 
+                    "is_primary": "0", 
+                    "image_id": "35163"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/35163_68d0c4b4fe601cff_d.gif", 
+                    "width": 229, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "35163"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/35163_68d0c4b4fe601cff_z.jpg", 
+                    "width": 458, 
+                    "height": 640, 
+                    "is_primary": "0", 
+                    "image_id": "35163"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/35163_68d0c4b4fe601cff_n.jpg", 
+                    "width": 229, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "35163"
+                }
+            }
+        ], 
+        "id": "18758267", 
+        "has_no_known_copyright": null, 
+        "woe:country_name": "Switzerland", 
+        "dimensions": "128 x 90.9 cm (50 3/8 x 35 13/16 in.)", 
+        "title": "Poster, Wissenschaftliches Zeichnen, ca. 1990", 
+        "provenance": "Marc Benda (acquired new and directly from designers, museums, and cultural institutions); 2010: acquired by Museum", 
+        "participants": [
+            {
+                "person_name": "Museum für Gestaltung, Zürich", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236667/", 
+                "role_id": "35236667", 
+                "role_name": "Client", 
+                "person_date": "Zürich, Switzerland", 
+                "role_display_name": "Client:", 
+                "person_id": "18063557", 
+                "person_url": "https://collection.cooperhewitt.org/people/18063557/"
+            }, 
+            {
+                "person_name": "Daniel Volkart", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "Swiss, b. 1959", 
+                "role_display_name": "Designed by", 
+                "person_id": "18063521", 
+                "person_url": "https://collection.cooperhewitt.org/people/18063521/"
+            }, 
+            {
+                "person_name": "Polly Bertram", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "Swiss, b. 1949", 
+                "role_display_name": "Designed by", 
+                "person_id": "18063519", 
+                "person_url": "https://collection.cooperhewitt.org/people/18063519/"
+            }, 
+            {
+                "person_name": "Marc Benda", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35351535/", 
+                "role_id": "35351535", 
+                "role_name": "Donor", 
+                "person_date": "", 
+                "role_display_name": "Donated by", 
+                "person_id": "18062523", 
+                "person_url": "https://collection.cooperhewitt.org/people/18062523/"
+            }, 
+            {
+                "person_name": "Sara Benda", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35351535/", 
+                "role_id": "35351535", 
+                "role_name": "Donor", 
+                "person_date": "", 
+                "role_display_name": "Donated by", 
+                "person_id": "18063205", 
+                "person_url": "https://collection.cooperhewitt.org/people/18063205/"
+            }
+        ], 
+        "decade": "1990", 
+        "label_text": null, 
+        "woe:country": "23424957", 
+        "dimensions_raw": {
+            "width": [
+                "90.90", 
+                "centimeters"
+            ], 
+            "height": [
+                "128.00", 
+                "centimeters"
+            ]
+        }, 
+        "department_id": "35347493", 
+        "title_raw": "Wissenschaftliches Zeichnen", 
+        "justification": null, 
+        "media_id": "35431963", 
+        "description": "On orange ground, two identical photographs of zebras, one appearing rotated 90 degrees. In the center , text in black: \"Austellungsstrasse 60, 8031, Zurich / D-FR 10-18 hr; M 10-21 uhr; Sa, So- 10-17 uhr Mo geschlossen SO169, Eidg Bettag Geichschlossen\" followed by \"MUSEUM / FUR / GESTALTUNG / ZURICH, then the dates 29.8-14.10.90\",  and slightly to the right, \"WISSSENSCHAFTLICHENS. / ZEICHNEN.", 
+        "creditline": "Gift of Sara and Marc Benda", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "ca. 1990", 
+        "url": "https://collection.cooperhewitt.org/objects/18758267/", 
+        "type": "poster", 
+        "accession_number": "2010-21-32", 
+        "year_end": 1990, 
+        "signed": null, 
+        "inscribed": null, 
+        "period_id": null, 
+        "year_acquired": "2010", 
+        "woe:country_id": "23424957"
+    }
+}

@@ -1,0 +1,147 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": null, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": "lithograph on paper", 
+        "tms:id": "177444", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/90296_f51f0d537c597bcb_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "90296"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/90296_f51f0d537c597bcb_b.jpg", 
+                    "width": 664, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "90296"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/90296_f51f0d537c597bcb_d.gif", 
+                    "width": 208, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "90296"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/90296_f51f0d537c597bcb_z.jpg", 
+                    "width": 415, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "90296"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/90296_f51f0d537c597bcb_n.jpg", 
+                    "width": 208, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "90296"
+                }
+            }, 
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/206628_34728d922ea4f8c2_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "0", 
+                    "image_id": "206628"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/206628_34728d922ea4f8c2_b.jpg", 
+                    "width": 677, 
+                    "height": 1024, 
+                    "is_primary": "0", 
+                    "image_id": "206628"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/206628_34728d922ea4f8c2_d.gif", 
+                    "width": 212, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "206628"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/206628_34728d922ea4f8c2_z.jpg", 
+                    "width": 423, 
+                    "height": 640, 
+                    "is_primary": "0", 
+                    "image_id": "206628"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/206628_34728d922ea4f8c2_n.jpg", 
+                    "width": 212, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "206628"
+                }
+            }
+        ], 
+        "id": "18617821", 
+        "has_no_known_copyright": null, 
+        "woe:country_name": "United States", 
+        "dimensions": "58 x 37 cm (22 13/16 x 14 9/16 in.)", 
+        "title": "Poster, Effortless! / Lloyd Center", 
+        "provenance": "1981: acquired by Museum", 
+        "participants": [
+            {
+                "person_name": "Larsen", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236601/", 
+                "role_id": "35236601", 
+                "role_name": "Illustrator", 
+                "person_date": "", 
+                "role_display_name": "Illustrated by", 
+                "person_id": "18056997", 
+                "person_url": "https://collection.cooperhewitt.org/people/18056997/"
+            }, 
+            {
+                "person_name": "Joseph Erceg", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "America", 
+                "role_display_name": "Designed by", 
+                "person_id": "18056995", 
+                "person_url": "https://collection.cooperhewitt.org/people/18056995/"
+            }
+        ], 
+        "decade": null, 
+        "label_text": null, 
+        "woe:country": "23424977", 
+        "dimensions_raw": {
+            "width": [
+                "37.00", 
+                "centimeters"
+            ], 
+            "height": [
+                "58.00", 
+                "centimeters"
+            ]
+        }, 
+        "department_id": "35347493", 
+        "title_raw": "Effortless! / Lloyd Center", 
+        "justification": null, 
+        "media_id": "35419317", 
+        "description": "On white ground, drawing of a Santa Claus skating holding colorful gifts with ribbons. Above in black: EFFORTLESS, and block text below. Lloyd logo in lower right.", 
+        "creditline": "Gift of Various Donors", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": null, 
+        "url": "https://collection.cooperhewitt.org/objects/18617821/", 
+        "type": "poster", 
+        "accession_number": "1981-29-352", 
+        "year_end": null, 
+        "signed": null, 
+        "inscribed": null, 
+        "period_id": null, 
+        "year_acquired": "1981", 
+        "woe:country_id": "23424977"
+    }
+}

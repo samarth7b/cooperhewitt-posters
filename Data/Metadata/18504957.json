@@ -1,0 +1,79 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": 1972, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": null, 
+        "tms:id": "163382", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/269875_19cbb0d9848664a6_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "269875"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/269875_19cbb0d9848664a6_b.jpg", 
+                    "width": 724, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "269875"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/269875_19cbb0d9848664a6_d.gif", 
+                    "width": 226, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "269875"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/269875_19cbb0d9848664a6_z.jpg", 
+                    "width": 452, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "269875"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/269875_19cbb0d9848664a6_n.jpg", 
+                    "width": 226, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "269875"
+                }
+            }
+        ], 
+        "id": "18504957", 
+        "has_no_known_copyright": null, 
+        "dimensions": null, 
+        "title": "Poster, Richard Anusz Kiewicz, Lisi Ari. New York State Awards., 1972", 
+        "provenance": null, 
+        "participants": [], 
+        "decade": "1970", 
+        "label_text": null, 
+        "woe:country": null, 
+        "dimensions_raw": null, 
+        "department_id": "35347493", 
+        "title_raw": "Richard Anusz Kiewicz, Lisi Ari. New York State Awards.", 
+        "justification": null, 
+        "media_id": "35371135", 
+        "description": null, 
+        "creditline": "Gift of Unknown Donor", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "1972", 
+        "url": "https://collection.cooperhewitt.org/objects/18504957/", 
+        "type": "poster", 
+        "accession_number": "1980-32-1126", 
+        "year_end": 1972, 
+        "signed": null, 
+        "inscribed": null, 
+        "period_id": null, 
+        "year_acquired": "1980", 
+        "woe:country_id": null
+    }
+}

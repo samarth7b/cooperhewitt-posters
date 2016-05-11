@@ -1,0 +1,137 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": null, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": "lithograph on paper", 
+        "tms:id": "177597", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/90458_ea2bb279f5eb7b08_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "90458"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/90458_ea2bb279f5eb7b08_b.jpg", 
+                    "width": 791, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "90458"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/90458_ea2bb279f5eb7b08_d.gif", 
+                    "width": 247, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "90458"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/90458_ea2bb279f5eb7b08_z.jpg", 
+                    "width": 494, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "90458"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/90458_ea2bb279f5eb7b08_n.jpg", 
+                    "width": 247, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "90458"
+                }
+            }, 
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/206447_284137a56f3f3c68_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "0", 
+                    "image_id": "206447"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/206447_284137a56f3f3c68_b.jpg", 
+                    "width": 796, 
+                    "height": 1024, 
+                    "is_primary": "0", 
+                    "image_id": "206447"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/206447_284137a56f3f3c68_d.gif", 
+                    "width": 249, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "206447"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/206447_284137a56f3f3c68_z.jpg", 
+                    "width": 497, 
+                    "height": 640, 
+                    "is_primary": "0", 
+                    "image_id": "206447"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/206447_284137a56f3f3c68_n.jpg", 
+                    "width": 249, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "206447"
+                }
+            }
+        ], 
+        "id": "18618127", 
+        "has_no_known_copyright": null, 
+        "woe:country_name": "United States", 
+        "dimensions": "60.9 x 46.9 cm (24 x 18 7/16 in.)", 
+        "title": "Poster, Hewlett-Packard Calculators / For Small Business", 
+        "provenance": "1981: acquired by Museum", 
+        "participants": [
+            {
+                "person_name": "David Stone", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "", 
+                "role_display_name": "Designed by", 
+                "person_id": "18057023", 
+                "person_url": "https://collection.cooperhewitt.org/people/18057023/"
+            }
+        ], 
+        "decade": null, 
+        "label_text": null, 
+        "woe:country": "23424977", 
+        "dimensions_raw": {
+            "width": [
+                "46.90", 
+                "centimeters"
+            ], 
+            "height": [
+                "60.90", 
+                "centimeters"
+            ]
+        }, 
+        "department_id": "35347493", 
+        "title_raw": "Hewlett-Packard Calculators / For Small Business", 
+        "justification": null, 
+        "media_id": "35419317", 
+        "description": "Poster on white ground featuring an image of what look like several neon signs but blurred to the point that they are unidentifiable. A white grid in lower left. In black text in margin: HEWLETT PACKARD CALCULATORS / FOR SMALL BUSINESS; photographs of two calculators at lower right; HP logo lower left.", 
+        "creditline": "Gift of Various Donors", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": null, 
+        "url": "https://collection.cooperhewitt.org/objects/18618127/", 
+        "type": "poster", 
+        "accession_number": "1981-29-490", 
+        "year_end": null, 
+        "signed": null, 
+        "inscribed": null, 
+        "period_id": null, 
+        "year_acquired": "1981", 
+        "woe:country_id": "23424977"
+    }
+}

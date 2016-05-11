@@ -1,0 +1,110 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": 1980, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": null, 
+        "tms:id": "177441", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/200537_61da7591aae8d55a_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "200537"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/200537_61da7591aae8d55a_b.jpg", 
+                    "width": 839, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "200537"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/200537_61da7591aae8d55a_d.gif", 
+                    "width": 262, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "200537"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/200537_61da7591aae8d55a_z.jpg", 
+                    "width": 524, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "200537"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/200537_61da7591aae8d55a_n.jpg", 
+                    "width": 262, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "200537"
+                }
+            }
+        ], 
+        "id": "18617815", 
+        "has_no_known_copyright": null, 
+        "woe:country_name": "United States", 
+        "dimensions": "Overall: 55 x 44.4 cm (21 5/8 x 17 1/2 in.)", 
+        "title": "Poster, Anti – WW3, 1980", 
+        "provenance": "1981: acquired by Museum", 
+        "participants": [
+            {
+                "person_name": "San Francisco Poster Brigade", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "San Francisco, California, USA, 1975–1982", 
+                "role_display_name": "Designed by", 
+                "person_id": "18042463", 
+                "person_url": "https://collection.cooperhewitt.org/people/18042463/"
+            }, 
+            {
+                "person_name": "San Francisco Poster Brigade", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "San Francisco, California, USA, 1975–1982", 
+                "role_display_name": "Designed by", 
+                "person_id": "18057131", 
+                "person_url": "https://collection.cooperhewitt.org/people/18042463/"
+            }
+        ], 
+        "decade": "1980", 
+        "label_text": null, 
+        "woe:country": "23424977", 
+        "dimensions_raw": {
+            "width": [
+                "44.40", 
+                "centimeters"
+            ], 
+            "height": [
+                "55.00", 
+                "centimeters"
+            ]
+        }, 
+        "department_id": "35347493", 
+        "title_raw": "Anti – WW3", 
+        "justification": null, 
+        "media_id": "35371135", 
+        "description": null, 
+        "creditline": "Gift of Various Donors", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "1980", 
+        "url": "https://collection.cooperhewitt.org/objects/18617815/", 
+        "type": "poster", 
+        "accession_number": "1981-29-35", 
+        "year_end": 1980, 
+        "signed": null, 
+        "inscribed": null, 
+        "period_id": null, 
+        "year_acquired": "1981", 
+        "woe:country_id": "23424977"
+    }
+}

@@ -1,0 +1,157 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": 1984, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": "lithograph on paper", 
+        "tms:id": "202122", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/82336_33dc4f377f098de8_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "82336"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/82336_33dc4f377f098de8_b.jpg", 
+                    "width": 667, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "82336"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/82336_33dc4f377f098de8_d.gif", 
+                    "width": 208, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "82336"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/82336_33dc4f377f098de8_z.jpg", 
+                    "width": 417, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "82336"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/82336_33dc4f377f098de8_n.jpg", 
+                    "width": 208, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "82336"
+                }
+            }, 
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/267320_cd6487c9505fd251_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "0", 
+                    "image_id": "267320"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/267320_cd6487c9505fd251_b.jpg", 
+                    "width": 677, 
+                    "height": 1024, 
+                    "is_primary": "0", 
+                    "image_id": "267320"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/267320_cd6487c9505fd251_d.gif", 
+                    "width": 212, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "267320"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/267320_cd6487c9505fd251_z.jpg", 
+                    "width": 423, 
+                    "height": 640, 
+                    "is_primary": "0", 
+                    "image_id": "267320"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/267320_cd6487c9505fd251_n.jpg", 
+                    "width": 212, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "267320"
+                }
+            }
+        ], 
+        "id": "18654323", 
+        "has_no_known_copyright": null, 
+        "woe:country_name": "United States", 
+        "dimensions": "91.4 x 59.7 cm (36 in. x 23 1/2 in.)", 
+        "title": "Poster, Olivetti Peripherals, 1984", 
+        "provenance": "1996: acquired by Museum", 
+        "participants": [
+            {
+                "person_name": "Tom Wedell", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "American, b. 1949", 
+                "role_display_name": "Designed by", 
+                "person_id": "68264031", 
+                "person_url": "https://collection.cooperhewitt.org/people/68264031/"
+            }, 
+            {
+                "person_name": "Nancy Skolos", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35351535/", 
+                "role_id": "35351535", 
+                "role_name": "Donor", 
+                "person_date": "American, b. 1955", 
+                "role_display_name": "Donated by", 
+                "person_id": "18041679", 
+                "person_url": "https://collection.cooperhewitt.org/people/18041679/"
+            }, 
+            {
+                "person_name": "Nancy Skolos", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "American, b. 1955", 
+                "role_display_name": "Designed by", 
+                "person_id": "18041679", 
+                "person_url": "https://collection.cooperhewitt.org/people/18041679/"
+            }
+        ], 
+        "decade": "1980", 
+        "label_text": null, 
+        "woe:country": "23424977", 
+        "dimensions_raw": {
+            "width": [
+                "59.70", 
+                "centimeters"
+            ], 
+            "height": [
+                "91.40", 
+                "centimeters"
+            ]
+        }, 
+        "department_id": "35347493", 
+        "title_raw": "Olivetti Peripherals", 
+        "justification": null, 
+        "media_id": "35419317", 
+        "description": "Poster shows a gradient blue background flanked on one side by a yellow triangle with a line of small red spheres and green cylinder at edge, on the right a teal column with a base and abstracted capital; at the top textured black and teal area; on the blue background are a series of dotted ‘O’s overlapping in blue, green, red, and yellow. Below, dark blue margin with words in block letters: olivetti peripherals; in dotted lines ‘O’s appear at bottom right and left.", 
+        "creditline": "Gift of Nancy Skolos", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "1984", 
+        "url": "https://collection.cooperhewitt.org/objects/18654323/", 
+        "type": "poster", 
+        "accession_number": "1996-90-22", 
+        "year_end": 1984, 
+        "signed": null, 
+        "inscribed": null, 
+        "period_id": null, 
+        "year_acquired": "1996", 
+        "woe:country_id": "23424977"
+    }
+}

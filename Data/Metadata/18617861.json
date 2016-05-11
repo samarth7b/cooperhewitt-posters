@@ -1,0 +1,137 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": 1970, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": "lithograph on wove paper", 
+        "tms:id": "177464", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/82707_bd1cbb1410a90ca4_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "82707"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/82707_bd1cbb1410a90ca4_b.jpg", 
+                    "width": 678, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "82707"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/82707_bd1cbb1410a90ca4_d.gif", 
+                    "width": 212, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "82707"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/82707_bd1cbb1410a90ca4_z.jpg", 
+                    "width": 424, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "82707"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/82707_bd1cbb1410a90ca4_n.jpg", 
+                    "width": 212, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "82707"
+                }
+            }, 
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/205800_ca4cdae3f9a353fc_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "0", 
+                    "image_id": "205800"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/205800_ca4cdae3f9a353fc_b.jpg", 
+                    "width": 688, 
+                    "height": 1024, 
+                    "is_primary": "0", 
+                    "image_id": "205800"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/205800_ca4cdae3f9a353fc_d.gif", 
+                    "width": 215, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "205800"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/205800_ca4cdae3f9a353fc_z.jpg", 
+                    "width": 430, 
+                    "height": 640, 
+                    "is_primary": "0", 
+                    "image_id": "205800"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/205800_ca4cdae3f9a353fc_n.jpg", 
+                    "width": 215, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "205800"
+                }
+            }
+        ], 
+        "id": "18617861", 
+        "has_no_known_copyright": null, 
+        "woe:country_name": "United States", 
+        "dimensions": "Overall: 62.8 x 41.5 cm (24 3/4 x 16 5/16 in.)", 
+        "title": "Poster, Breathe in Love – Don't Smoke Cigarettes, 1970", 
+        "provenance": "1981: acquired by Museum", 
+        "participants": [
+            {
+                "person_name": "Peter Max", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "American, b. Germany, 1937", 
+                "role_display_name": "Designed by", 
+                "person_id": "18042345", 
+                "person_url": "https://collection.cooperhewitt.org/people/18042345/"
+            }
+        ], 
+        "decade": "1970", 
+        "label_text": null, 
+        "woe:country": "23424977", 
+        "dimensions_raw": {
+            "width": [
+                "41.50", 
+                "centimeters"
+            ], 
+            "height": [
+                "62.80", 
+                "centimeters"
+            ]
+        }, 
+        "department_id": "35347493", 
+        "title_raw": "Breathe in Love – Don't Smoke Cigarettes", 
+        "justification": null, 
+        "media_id": "35407799", 
+        "description": "Poster featuring three registers of images: flying man, two people flying through space with planets, and a landscape with figures, for the American Cancer Society.", 
+        "creditline": "Gift of Various Donors", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "1970", 
+        "url": "https://collection.cooperhewitt.org/objects/18617861/", 
+        "type": "poster", 
+        "accession_number": "1981-29-370", 
+        "year_end": 1970, 
+        "signed": "Imprinted in black ink, in white oval, lower right: peter max©", 
+        "inscribed": null, 
+        "period_id": null, 
+        "year_acquired": "1981", 
+        "woe:country_id": "23424977"
+    }
+}

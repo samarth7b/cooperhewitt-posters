@@ -1,0 +1,193 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": 1986, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": "offset lithograph on white wove paper", 
+        "tms:id": "212174", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/82351_680aaf5c7b2212f4_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "82351"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/82351_680aaf5c7b2212f4_b.jpg", 
+                    "width": 726, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "82351"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/82351_680aaf5c7b2212f4_d.gif", 
+                    "width": 227, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "82351"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/82351_680aaf5c7b2212f4_z.jpg", 
+                    "width": 453, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "82351"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/82351_680aaf5c7b2212f4_n.jpg", 
+                    "width": 227, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "82351"
+                }
+            }, 
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/266961_976993bcb4544868_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "0", 
+                    "image_id": "266961"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/266961_976993bcb4544868_b.jpg", 
+                    "width": 741, 
+                    "height": 1024, 
+                    "is_primary": "0", 
+                    "image_id": "266961"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/266961_976993bcb4544868_d.gif", 
+                    "width": 232, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "266961"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/266961_976993bcb4544868_z.jpg", 
+                    "width": 463, 
+                    "height": 640, 
+                    "is_primary": "0", 
+                    "image_id": "266961"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/266961_976993bcb4544868_n.jpg", 
+                    "width": 232, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "266961"
+                }
+            }, 
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/82352_9de0cb2c00dbb97e_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "0", 
+                    "image_id": "82352"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/82352_9de0cb2c00dbb97e_b.jpg", 
+                    "width": 727, 
+                    "height": 1024, 
+                    "is_primary": "0", 
+                    "image_id": "82352"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/82352_9de0cb2c00dbb97e_d.gif", 
+                    "width": 227, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "82352"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/82352_9de0cb2c00dbb97e_z.jpg", 
+                    "width": 454, 
+                    "height": 640, 
+                    "is_primary": "0", 
+                    "image_id": "82352"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/82352_9de0cb2c00dbb97e_n.jpg", 
+                    "width": 227, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "82352"
+                }
+            }
+        ], 
+        "id": "18673463", 
+        "has_no_known_copyright": null, 
+        "dimensions": "58.4 x 41.6 cm (23 x 16 3/8 in. )", 
+        "title": "Poster, AIGA Boston presents Miscellaneous Thoughts on Typography, 1986", 
+        "provenance": "Dan Friedman; Ken Friedman; 1997: acquired by Museum", 
+        "participants": [
+            {
+                "person_name": "Christopher Pullman", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "American, b. 1941", 
+                "role_display_name": "Designed by", 
+                "person_id": "18042333", 
+                "person_url": "https://collection.cooperhewitt.org/people/18042333/"
+            }, 
+            {
+                "person_name": "Wolfgang Weingart", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "Swiss, b. 1941", 
+                "role_display_name": "Designed by", 
+                "person_id": "18043521", 
+                "person_url": "https://collection.cooperhewitt.org/people/18043521/"
+            }, 
+            {
+                "person_name": "Ken Friedman", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35351535/", 
+                "role_id": "35351535", 
+                "role_name": "Donor", 
+                "person_date": "", 
+                "role_display_name": "Donated by", 
+                "person_id": "18049807", 
+                "person_url": "https://collection.cooperhewitt.org/people/18049807/"
+            }
+        ], 
+        "decade": "1980", 
+        "label_text": null, 
+        "woe:country": null, 
+        "dimensions_raw": {
+            "width": [
+                "41.60", 
+                "centimeters"
+            ], 
+            "height": [
+                "58.40", 
+                "centimeters"
+            ]
+        }, 
+        "department_id": "35347493", 
+        "title_raw": "AIGA Boston presents Miscellaneous Thoughts on Typography", 
+        "justification": null, 
+        "media_id": "35431673", 
+        "description": "The poster design is laid out as if it were an edited letter. The body of the text is highlighted in yellow (the title is in red). Black blocks with white lettering appear in the margins and arrows point to significant highlighted words in the text.", 
+        "creditline": "Gift of Ken Friedman", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "1986", 
+        "url": "https://collection.cooperhewitt.org/objects/18673463/", 
+        "type": "poster", 
+        "accession_number": "1997-19-223", 
+        "year_end": 1986, 
+        "signed": "Imprinted in black top right along right edge: With thanks for their contributions: Printing: Arlington Lithography; Type: M.J. Walsh; Design: Christopher Pullman and Mary Salvadore, WGBH Design", 
+        "inscribed": "Inscribed in black top left Wolfgang [arrow] Weingart / Postfach 2235 / CH 4001 Basel / Switzerland (this last underlained)\nBelow left in black: Basel,/ January 5, 1986 \nAt right in black To: AIGA / Boston / Box 9055 / Boston/MA 02114 / USA\nImprinted upper left: AIGA/ Boston presents/ Miscellaneous Thoughts on Typography, / an informal demonstration / lecture / by Wolfgang Weingart / Monday, April 7 at 7:30 pm - (followed by ticket information)\nThe text of the letter is as follows: Dear AIGA,/ What do you think about the lecture title at AIGA Miscel- / laneous Thoughts on Typography.  Because it will have / different aspects and thoughts, like: Why we made typography / in my typography classes at the end of the 60ies so and / not so like many others.  Why we see typography not like Ruder, / why we came automatically to the transparency of filmmaterials, and / how we work with this material.  What are my teaching / principles. How I make a poster (will show on an example with overheadprojector). What can be the future of typography. / What we are doing now on the Computer (Mac).  For what can be / this Computer needful.  Why we keep our lead-typeshop / for ever.  Why we have so many American students or from other / countries.  Is our teaching method the wright [sic] method for / the practice.  What is the difference of our school-philosophy / from other schools........ and so on... But we have annyway [sic] only a little bit more than 60 minutes and than [sic] gets mostly / annyway [sic] boring. Do you plan a discussion? / I send you a list what I need for the presentation and in- / formation about myself. If you need more information please let / me know. /  With many greetings, / always-[signature]\nVerso: in black, upper left quadrant, return address for AIGA and Non Profit Postage Permit", 
+        "period_id": null, 
+        "year_acquired": "1997", 
+        "woe:country_id": null
+    }
+}

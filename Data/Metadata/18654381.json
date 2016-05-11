@@ -1,0 +1,121 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": 1988, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": "lithograph on paper", 
+        "tms:id": "202151", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/266983_924f6811df719579_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "266983"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/266983_924f6811df719579_b.jpg", 
+                    "width": 685, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "266983"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/266983_924f6811df719579_d.gif", 
+                    "width": 214, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "266983"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/266983_924f6811df719579_z.jpg", 
+                    "width": 428, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "266983"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/266983_924f6811df719579_n.jpg", 
+                    "width": 214, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "266983"
+                }
+            }
+        ], 
+        "id": "18654381", 
+        "has_no_known_copyright": null, 
+        "woe:country_name": "United States", 
+        "dimensions": "H x W: 99.5 × 66 cm (39 3/16 in. × 26 in.)", 
+        "title": "Poster, Mo' Better Blues, 1988", 
+        "provenance": "Art Sims; 1995: acquired by the Museum", 
+        "participants": [
+            {
+                "person_name": "Rebekah Pollock", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35352245/", 
+                "role_id": "35352245", 
+                "role_name": "Cataloguer", 
+                "person_date": "American, born 1982", 
+                "role_display_name": "Catalogued by", 
+                "person_id": "51686969", 
+                "person_url": "https://collection.cooperhewitt.org/people/51686969/"
+            }, 
+            {
+                "person_name": "Universal Design Studio", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236667/", 
+                "role_id": "35236667", 
+                "role_name": "Client", 
+                "person_date": "UK", 
+                "role_display_name": "Client:", 
+                "person_id": "68263717", 
+                "person_url": "https://collection.cooperhewitt.org/people/68263717/"
+            }, 
+            {
+                "person_name": "Art Sims", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35351535/", 
+                "role_id": "35351535", 
+                "role_name": "Donor", 
+                "person_date": "American, b. 1954", 
+                "role_display_name": "Donated by", 
+                "person_id": "18049235", 
+                "person_url": "https://collection.cooperhewitt.org/people/18049235/"
+            }, 
+            {
+                "person_name": "Art Sims", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "American, b. 1954", 
+                "role_display_name": "Designed by", 
+                "person_id": "18049235", 
+                "person_url": "https://collection.cooperhewitt.org/people/18049235/"
+            }
+        ], 
+        "decade": "1980", 
+        "label_text": null, 
+        "woe:country": "23424977", 
+        "dimensions_raw": null, 
+        "department_id": "35347493", 
+        "title_raw": "Mo' Better Blues", 
+        "justification": "Art Sims, graduated from Michigan State University in 1975. He began his graphic design career in New York City as Associate Designer for CBS Records and subsequently relocated to Los Angeles where he was hired as Director of Art/Design for Capitol Records. At Capitol, he designed record covers, corporate logos and identities, and advertising campaigns for consumer and trade ads. In 1980, Sims created his own design firm, 11:24 Design. His clients include Stevie Wonder Productions, Quincy Jones Productions, Eddie Murphy Productions, and MCA Records. Sims also has worked in the areas of film, television, and video. \n \nThese posters have been reviewed by Marilyn Symmes, Ellen Lupton, and Gail Davidson. Konstanze Bachmann has also reviewed them for conservation problems. She notes small nicks and creases at corners, otherwise the condition is fine. We recommend retaining this material for the collection because it documents the films of a major African-American director and filmmaker an", 
+        "media_id": "35419317", 
+        "description": "Poster for the Spike Lee film Mo' Better Blues. A man wearing a hat, glasses and plaid jacket looks at the viewer while bending and offering his right hand. His left hand holds a rolled up edition of the New York Post. Behind him, a brick wall with a poster of three musicians and a trumpet, with the word TONIGHT.", 
+        "creditline": "Gift of Art Sims", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "1988", 
+        "url": "https://collection.cooperhewitt.org/objects/18654381/", 
+        "type": "poster", 
+        "accession_number": "1996-92-3", 
+        "year_end": 1988, 
+        "signed": "Signed and dated below: Mo’", 
+        "inscribed": "Inscribed in print: Denzel Washington / Spike Lee / A Spike Lee Joint", 
+        "period_id": null, 
+        "year_acquired": "1996", 
+        "woe:country_id": "23424977"
+    }
+}

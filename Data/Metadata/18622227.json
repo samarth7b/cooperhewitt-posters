@@ -1,0 +1,110 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": 1980, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": "lithograph on paper", 
+        "tms:id": "185949", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/269892_edc34fc5b4521541_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "0", 
+                    "image_id": "269892"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/269892_edc34fc5b4521541_b.jpg", 
+                    "width": 689, 
+                    "height": 1024, 
+                    "is_primary": "0", 
+                    "image_id": "269892"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/269892_edc34fc5b4521541_d.gif", 
+                    "width": 215, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "269892"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/269892_edc34fc5b4521541_z.jpg", 
+                    "width": 430, 
+                    "height": 640, 
+                    "is_primary": "0", 
+                    "image_id": "269892"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/269892_edc34fc5b4521541_n.jpg", 
+                    "width": 215, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "269892"
+                }
+            }
+        ], 
+        "id": "18622227", 
+        "has_no_known_copyright": null, 
+        "woe:country_name": "United States", 
+        "dimensions": "117 × 76.4 cm (46 1/16 × 30 1/16 in.)", 
+        "title": "Poster, Mobil, Crime and Punishment, 1980–81", 
+        "provenance": "1987: acquired by Museum", 
+        "participants": [
+            {
+                "person_name": "Chermayeff & Geismar Associates", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "New York, New York, USA", 
+                "role_display_name": "Designed by", 
+                "person_id": "18053275", 
+                "person_url": "https://collection.cooperhewitt.org/people/18053275/"
+            }, 
+            {
+                "person_name": "Ivan Chermayeff", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "English, b. 1932", 
+                "role_display_name": "Designed by", 
+                "person_id": "18042085", 
+                "person_url": "https://collection.cooperhewitt.org/people/18042085/"
+            }
+        ], 
+        "decade": "1980", 
+        "label_text": null, 
+        "woe:country": "23424977", 
+        "dimensions_raw": {
+            "width": [
+                "76.40", 
+                "centimeters"
+            ], 
+            "height": [
+                "117.00", 
+                "centimeters"
+            ]
+        }, 
+        "department_id": "35347493", 
+        "title_raw": "Mobil, Crime and Punishment", 
+        "justification": null, 
+        "media_id": "35419317", 
+        "description": null, 
+        "creditline": null, 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "1980–81", 
+        "url": "https://collection.cooperhewitt.org/objects/18622227/", 
+        "type": "poster", 
+        "accession_number": "1987-23-5", 
+        "year_end": 1981, 
+        "signed": null, 
+        "inscribed": null, 
+        "period_id": null, 
+        "year_acquired": "1987", 
+        "woe:country_id": "23424977"
+    }
+}

@@ -1,0 +1,147 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": null, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": "lithograph on paper", 
+        "tms:id": "200491", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/81522_bba62ca0f788da41_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "81522"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/81522_bba62ca0f788da41_b.jpg", 
+                    "width": 715, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "81522"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/81522_bba62ca0f788da41_d.gif", 
+                    "width": 223, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "81522"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/81522_bba62ca0f788da41_z.jpg", 
+                    "width": 447, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "81522"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/81522_bba62ca0f788da41_n.jpg", 
+                    "width": 223, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "81522"
+                }
+            }, 
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/268610_e00c9be9a6fb5b9f_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "0", 
+                    "image_id": "268610"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/268610_e00c9be9a6fb5b9f_b.jpg", 
+                    "width": 727, 
+                    "height": 1024, 
+                    "is_primary": "0", 
+                    "image_id": "268610"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/268610_e00c9be9a6fb5b9f_d.gif", 
+                    "width": 227, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "268610"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/268610_e00c9be9a6fb5b9f_z.jpg", 
+                    "width": 454, 
+                    "height": 640, 
+                    "is_primary": "0", 
+                    "image_id": "268610"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/268610_e00c9be9a6fb5b9f_n.jpg", 
+                    "width": 227, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "268610"
+                }
+            }
+        ], 
+        "id": "18651105", 
+        "has_no_known_copyright": null, 
+        "woe:country_name": "United States", 
+        "dimensions": "43.3 x 30.3 cm (17 1/16 x 11 15/16 in.)", 
+        "title": "Poster, Sister, Love Is Blind, So Is AIDS", 
+        "provenance": "1995: acquired by Museum", 
+        "participants": [
+            {
+                "person_name": "Ellen Lupton", 
+                "role_url": "https://collection.cooperhewitt.org/roles/51571159/", 
+                "role_id": "51571159", 
+                "role_name": "Agent", 
+                "person_date": "American, b. 1963", 
+                "role_display_name": "Agent:", 
+                "person_id": "18041185", 
+                "person_url": "https://collection.cooperhewitt.org/people/18041185/"
+            }, 
+            {
+                "person_name": "Iris Center", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35351535/", 
+                "role_id": "35351535", 
+                "role_name": "Donor", 
+                "person_date": "", 
+                "role_display_name": "Donated by", 
+                "person_id": "18041643", 
+                "person_url": "https://collection.cooperhewitt.org/people/18041643/"
+            }
+        ], 
+        "decade": null, 
+        "label_text": null, 
+        "woe:country": "23424977", 
+        "dimensions_raw": {
+            "width": [
+                "30.30", 
+                "centimeters"
+            ], 
+            "height": [
+                "43.30", 
+                "centimeters"
+            ]
+        }, 
+        "department_id": "35347493", 
+        "title_raw": "Sister, Love Is Blind, So Is AIDS", 
+        "justification": null, 
+        "media_id": "35419317", 
+        "description": "Poster depicts photograph of close-up of a woman, with white text: Sister, / Love is Bline. / AIDS is Too. / Protect Yourself. / Call: (415) 864-2364 / IRIS CENTER.", 
+        "creditline": "Gift of the Iris Center", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": null, 
+        "url": "https://collection.cooperhewitt.org/objects/18651105/", 
+        "type": "poster", 
+        "accession_number": "1995-33-2", 
+        "year_end": null, 
+        "signed": null, 
+        "inscribed": null, 
+        "period_id": null, 
+        "year_acquired": "1995", 
+        "woe:country_id": "23424977"
+    }
+}

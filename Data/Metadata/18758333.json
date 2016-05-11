@@ -1,0 +1,130 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": 1996, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": "screenprint on wove paper", 
+        "tms:id": "255452", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/46784_a8d901d26a1e3f16_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "46784"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/46784_a8d901d26a1e3f16_b.jpg", 
+                    "width": 726, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "46784"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/46784_a8d901d26a1e3f16_d.gif", 
+                    "width": 227, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "46784"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/46784_a8d901d26a1e3f16_z.jpg", 
+                    "width": 454, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "46784"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/46784_a8d901d26a1e3f16_n.jpg", 
+                    "width": 227, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "46784"
+                }
+            }
+        ], 
+        "id": "18758333", 
+        "has_no_known_copyright": null, 
+        "woe:country_name": "Switzerland", 
+        "dimensions": "128.3 × 91 cm (50 1/2 × 35 13/16 in.)", 
+        "title": "Poster, Samson et Delila, 1996", 
+        "provenance": "Sara and Marc Benda (acquired new and directly from designer, Karl Domenic Geissbühler); 2010: acquired by Museum", 
+        "participants": [
+            {
+                "person_name": "Karl Domenic Geissbühler", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "Swiss, b. 1932", 
+                "role_display_name": "Designed by", 
+                "person_id": "18063591", 
+                "person_url": "https://collection.cooperhewitt.org/people/18063591/"
+            }, 
+            {
+                "person_name": "Marc Benda", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35351535/", 
+                "role_id": "35351535", 
+                "role_name": "Donor", 
+                "person_date": "", 
+                "role_display_name": "Donated by", 
+                "person_id": "18062523", 
+                "person_url": "https://collection.cooperhewitt.org/people/18062523/"
+            }, 
+            {
+                "person_name": "Sara Benda", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35351535/", 
+                "role_id": "35351535", 
+                "role_name": "Donor", 
+                "person_date": "", 
+                "role_display_name": "Donated by", 
+                "person_id": "18063205", 
+                "person_url": "https://collection.cooperhewitt.org/people/18063205/"
+            }, 
+            {
+                "person_name": "Opernhaus, Zürich", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236667/", 
+                "role_id": "35236667", 
+                "role_name": "Client", 
+                "person_date": "Zürich, Switzerland", 
+                "role_display_name": "Client:", 
+                "person_id": "68738781", 
+                "person_url": "https://collection.cooperhewitt.org/people/68738781/"
+            }
+        ], 
+        "decade": "1990", 
+        "label_text": null, 
+        "woe:country": "23424957", 
+        "dimensions_raw": {
+            "width": [
+                "90.50", 
+                "centimeters"
+            ], 
+            "height": [
+                "128.00", 
+                "centimeters"
+            ]
+        }, 
+        "department_id": "35347493", 
+        "title_raw": "Samson et Delila", 
+        "justification": null, 
+        "media_id": "35399029", 
+        "description": "On a black ground, male and female figures (sculpture and painting) broken in to pieces; the male has a red eye. In white ink, above: SAMSON ET DALILA / AB 30. MARZ ’96 BAUDO ASAGAROFF DIB SKALICKY BIENERT / SAINT-SAENS; below: OPERNHAUS ZURICH.", 
+        "creditline": "Gift of Sara and Marc Benda", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "1996", 
+        "url": "https://collection.cooperhewitt.org/objects/18758333/", 
+        "type": "poster", 
+        "accession_number": "2010-21-63", 
+        "year_end": 1996, 
+        "signed": null, 
+        "inscribed": "Printed in white ink, lower left: GEISSBUHLER; lower right: Samson et Dalila / Wir machen mit. Schwizerische / Rankgesellschaft [logo]", 
+        "period_id": null, 
+        "year_acquired": "2010", 
+        "woe:country_id": "23424957"
+    }
+}

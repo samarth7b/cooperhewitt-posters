@@ -1,0 +1,136 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": "Apeloig’s working method moves seamlessly between hand drawings and computer-generated graphics. For the Vivo in Typo poster, advertising an exhibition of his own work, he began with pen and ink drawings to wrestle with different lettering layouts and turned to the computer to compose a system of punctuation marks that became the matrix from which the letters would emerge. The digital prints on view show how he built up, through multiple layers of marks with varied spacing and colored inks, a rich textural and vibrating surface. For Apeloig, typography is not only a tool, but the material itself.", 
+        "year_start": 2008, 
+        "videos": [
+            {
+                "description": "Graphic designer Philippe Apeloig describes the process and thinking behind his VIVO IN TYPO poster.", 
+                "title": "Philippe Apeloig on the VIVO IN TYPO poster", 
+                "srt": "https://videos.collection.cooperhewitt.org/DIGVID0088.srt", 
+                "formats": {
+                    "mp4": {
+                        "1080_subtitled": "https://videos.collection.cooperhewitt.org/DIGVID0088_1080_s.mp4", 
+                        "720_subtitled": "https://videos.collection.cooperhewitt.org/DIGVID0088_720_s.mp4", 
+                        "720": "https://videos.collection.cooperhewitt.org/DIGVID0088_720.mp4", 
+                        "1080": "https://videos.collection.cooperhewitt.org/DIGVID0088_1080.mp4"
+                    }
+                }, 
+                "youtube_url": "www.youtube.com/watch?v=8O6LCg5ncAI", 
+                "id": "68778259"
+            }
+        ], 
+        "type_id": "35238163", 
+        "medium": "screenprint on coated paper", 
+        "tms:id": "274852", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/88748_bb369deaf22fd392_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "88748"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/88748_bb369deaf22fd392_b.jpg", 
+                    "width": 695, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "88748"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/88748_bb369deaf22fd392_d.gif", 
+                    "width": 217, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "88748"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/88748_bb369deaf22fd392_z.jpg", 
+                    "width": 434, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "88748"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/88748_bb369deaf22fd392_n.jpg", 
+                    "width": 217, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "88748"
+                }
+            }
+        ], 
+        "id": "35460843", 
+        "has_no_known_copyright": null, 
+        "woe:country_name": "France", 
+        "dimensions": "175 x 118 cm (5 ft. 8 7/8 in. x 46 7/16 in.)", 
+        "title": "Poster, Vivo in Typo, Affiches et alphabets, 2008", 
+        "provenance": "Philippe Apeloig; 2013: acquired by Museum", 
+        "participants": [
+            {
+                "person_name": "Serica", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236673/", 
+                "role_id": "35236673", 
+                "role_name": "Printer", 
+                "person_date": "Nancy, France", 
+                "role_display_name": "Printed by", 
+                "person_id": "51676681", 
+                "person_url": "https://collection.cooperhewitt.org/people/51676681/"
+            }, 
+            {
+                "person_name": "Philippe Apeloig", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236661/", 
+                "role_id": "35236661", 
+                "role_name": "Publisher", 
+                "person_date": "French, b. 1962", 
+                "role_display_name": "Published by", 
+                "person_id": "35459765", 
+                "person_url": "https://collection.cooperhewitt.org/people/35459765/"
+            }, 
+            {
+                "person_name": "Philippe Apeloig", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "French, b. 1962", 
+                "role_display_name": "Designed by", 
+                "person_id": "35459765", 
+                "person_url": "https://collection.cooperhewitt.org/people/35459765/"
+            }
+        ], 
+        "decade": "2000", 
+        "label_text": "Apeloig’s working method moves seamlessly between hand drawings and computer-generated graphics. For the Vivo in Typo poster, advertising an exhibition of his own work, he began with pen and ink drawings to wrestle with different lettering layouts and turned to the computer to compose a system of punctuation marks that became the matrix from which the letters would emerge. The digital prints on view show how he built up, through multiple layers of marks with varied spacing and colored inks, a rich textural and vibrating surface. For Apeloig, typography is not only a tool, but the material itself.", 
+        "woe:country": "23424819", 
+        "dimensions_raw": {
+            "width": [
+                "118.00", 
+                "centimeters"
+            ], 
+            "length": [
+                "175.00", 
+                "centimeters"
+            ]
+        }, 
+        "department_id": "35347493", 
+        "title_raw": "Vivo in Typo, Affiches et alphabets", 
+        "justification": "The French designer Philippe Apeloig made this poster to promote a 2008 exhibition of his own poster designs held at the Espace Topographie de l’art in Paris. To create the typography, Apeloig produced pages of computer-generated punctuation—such as periods, hyphens, and backslashes—and manipulated them into individual text forms by varying the spacing. Using a palette of only red, white, and black, Apeloig layered these text forms in different scales so that the title of the exhibition, Vivo in Typo, emerges as if it were woven together.", 
+        "media_id": "51689177", 
+        "description": "Poster featuring the text \"VIVO IN TYPO\" composed of red, black and white computer-generated punctuation marks. Additional text with details of exhibition printed in white at the right hand side.", 
+        "creditline": "Gift of Philippe Apeloig", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "2008", 
+        "url": "https://collection.cooperhewitt.org/objects/35460843/", 
+        "type": "poster", 
+        "accession_number": "2013-16-2", 
+        "year_end": 2008, 
+        "signed": null, 
+        "inscribed": null, 
+        "period_id": null, 
+        "year_acquired": "2013", 
+        "woe:country_id": "23424819"
+    }
+}

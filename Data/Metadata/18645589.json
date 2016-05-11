@@ -1,0 +1,110 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": 1990, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": "lithograph on paper", 
+        "tms:id": "197698", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/224103_5ff4bec9953643e1_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "0", 
+                    "image_id": "224103"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/224103_5ff4bec9953643e1_b.jpg", 
+                    "width": 1024, 
+                    "height": 689, 
+                    "is_primary": "0", 
+                    "image_id": "224103"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/224103_5ff4bec9953643e1_d.gif", 
+                    "width": 320, 
+                    "height": 215, 
+                    "is_primary": "0", 
+                    "image_id": "224103"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/224103_5ff4bec9953643e1_z.jpg", 
+                    "width": 640, 
+                    "height": 430, 
+                    "is_primary": "0", 
+                    "image_id": "224103"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/224103_5ff4bec9953643e1_n.jpg", 
+                    "width": 320, 
+                    "height": 215, 
+                    "is_primary": "0", 
+                    "image_id": "224103"
+                }
+            }
+        ], 
+        "id": "18645589", 
+        "has_no_known_copyright": null, 
+        "woe:country_name": "Estonia", 
+        "dimensions": "58.8 × 88 cm (23 1/8 × 34 5/8 in.)", 
+        "title": "Poster, Toomaga on Kindel, 1990", 
+        "provenance": "Steven Heller and Karrie Jacobs; 1993: acquired by Museum", 
+        "participants": [
+            {
+                "person_name": "Karrie Jacobs", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35351535/", 
+                "role_id": "35351535", 
+                "role_name": "Donor", 
+                "person_date": "", 
+                "role_display_name": "Donated by", 
+                "person_id": "18056647", 
+                "person_url": "https://collection.cooperhewitt.org/people/18056647/"
+            }, 
+            {
+                "person_name": "Steven Heller", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35351535/", 
+                "role_id": "35351535", 
+                "role_name": "Donor", 
+                "person_date": "American, b. 1950", 
+                "role_display_name": "Donated by", 
+                "person_id": "18041397", 
+                "person_url": "https://collection.cooperhewitt.org/people/18041397/"
+            }
+        ], 
+        "decade": "1990", 
+        "label_text": null, 
+        "woe:country": "23424805", 
+        "dimensions_raw": {
+            "width": [
+                "88.00", 
+                "centimeters"
+            ], 
+            "height": [
+                "58.80", 
+                "centimeters"
+            ]
+        }, 
+        "department_id": "35347493", 
+        "title_raw": "Toomaga on Kindel", 
+        "justification": null, 
+        "media_id": "35419317", 
+        "description": "Print of man in coat of arms with cat in hat; in Russian(?)", 
+        "creditline": "Gift of Steven Heller and Karrie Jacobs", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "1990", 
+        "url": "https://collection.cooperhewitt.org/objects/18645589/", 
+        "type": "poster", 
+        "accession_number": "1993-53-11", 
+        "year_end": 1990, 
+        "signed": null, 
+        "inscribed": "Imprinted at lower left: 3 lines in Russian(?)", 
+        "period_id": null, 
+        "year_acquired": "1993", 
+        "woe:country_id": "23424805"
+    }
+}

@@ -1,0 +1,109 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": 1964, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": "offset lithography", 
+        "tms:id": "211499", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/252779_43d39a347ce05f42_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "252779"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/252779_43d39a347ce05f42_b.jpg", 
+                    "width": 688, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "252779"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/252779_43d39a347ce05f42_d.gif", 
+                    "width": 215, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "252779"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/252779_43d39a347ce05f42_z.jpg", 
+                    "width": 430, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "252779"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/252779_43d39a347ce05f42_n.jpg", 
+                    "width": 215, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "252779"
+                }
+            }
+        ], 
+        "id": "18672115", 
+        "has_no_known_copyright": null, 
+        "dimensions": "106.7 x 71.1 cm (42 x 28 in. )", 
+        "title": "Poster, Exhibition Poster: The Studs - Moses, Irwin, Price, Bengston, Ferus Gallery, Los Angeles, December 1964", 
+        "provenance": null, 
+        "participants": [
+            {
+                "person_name": "General Acquisitions Endowment", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35352247/", 
+                "role_id": "35352247", 
+                "role_name": "Fund", 
+                "person_date": "", 
+                "role_display_name": "Fund:", 
+                "person_id": "18048535", 
+                "person_url": "https://collection.cooperhewitt.org/people/18048535/"
+            }, 
+            {
+                "person_name": "Lawrence Markey, Inc.", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35352249/", 
+                "role_id": "35352249", 
+                "role_name": "Vendor", 
+                "person_date": "", 
+                "role_display_name": "Purchased from", 
+                "person_id": "18051405", 
+                "person_url": "https://collection.cooperhewitt.org/people/18051405/"
+            }
+        ], 
+        "decade": "1960", 
+        "label_text": null, 
+        "woe:country": null, 
+        "dimensions_raw": {
+            "width": [
+                "71.10", 
+                "centimeters"
+            ], 
+            "height": [
+                "106.70", 
+                "centimeters"
+            ]
+        }, 
+        "department_id": "35347493", 
+        "title_raw": "Exhibition Poster: The Studs - Moses, Irwin, Price, Bengston, Ferus Gallery, Los Angeles", 
+        "justification": null, 
+        "media_id": "35421913", 
+        "description": "Art exhibition poster comprised of text in different typefaces (printed in black on white paper).  The lettering of the main heading at center - \"The Studs\" - looks like curved logs.   At lower center, reproduction of woodcut image of man loading and unloading wood boards from wagon.  There is a border with black/white diagonal striped trim.", 
+        "creditline": "Museum purchase from General Acquisitions Endowment and Smithsonian Institution Collections Acquisition Program Funds", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "December 1964", 
+        "url": "https://collection.cooperhewitt.org/objects/18672115/", 
+        "type": "poster", 
+        "accession_number": "1999-45-1", 
+        "year_end": 1964, 
+        "signed": null, 
+        "inscribed": "Imprinted in black, centered from top to bottom: \"ferus/ gallery/ PRESENTS/ AS A PUBLIC SERVICE/ THE /STUDS/ MOSES/ IRWIN PRICE/ BENGSTON\"", 
+        "period_id": null, 
+        "year_acquired": "1999", 
+        "woe:country_id": null
+    }
+}

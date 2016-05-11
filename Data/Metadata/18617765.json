@@ -1,0 +1,110 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": 1978, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": null, 
+        "tms:id": "177415", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/201185_f895b05e4a2dd62b_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "201185"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/201185_f895b05e4a2dd62b_b.jpg", 
+                    "width": 807, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "201185"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/201185_f895b05e4a2dd62b_d.gif", 
+                    "width": 252, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "201185"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/201185_f895b05e4a2dd62b_z.jpg", 
+                    "width": 504, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "201185"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/201185_f895b05e4a2dd62b_n.jpg", 
+                    "width": 252, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "201185"
+                }
+            }
+        ], 
+        "id": "18617765", 
+        "has_no_known_copyright": null, 
+        "woe:country_name": "United States", 
+        "dimensions": "Overall: 65.6 x 50.6 cm (25 13/16 x 19 15/16 in.)", 
+        "title": "Poster, Ritmo Jondo, 1978", 
+        "provenance": "1981: acquired by Museum", 
+        "participants": [
+            {
+                "person_name": "W. Baker", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236631/", 
+                "role_id": "35236631", 
+                "role_name": "Photographer", 
+                "person_date": "", 
+                "role_display_name": "Photographed by", 
+                "person_id": "18057129", 
+                "person_url": "https://collection.cooperhewitt.org/people/18057129/"
+            }, 
+            {
+                "person_name": "Thomas Strong", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "", 
+                "role_display_name": "Designed by", 
+                "person_id": "18057127", 
+                "person_url": "https://collection.cooperhewitt.org/people/18057127/"
+            }
+        ], 
+        "decade": "1970", 
+        "label_text": null, 
+        "woe:country": "23424977", 
+        "dimensions_raw": {
+            "width": [
+                "50.60", 
+                "centimeters"
+            ], 
+            "height": [
+                "65.60", 
+                "centimeters"
+            ]
+        }, 
+        "department_id": "35347493", 
+        "title_raw": "Ritmo Jondo", 
+        "justification": null, 
+        "media_id": "35371135", 
+        "description": null, 
+        "creditline": "Gift of Various Donors", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "1978", 
+        "url": "https://collection.cooperhewitt.org/objects/18617765/", 
+        "type": "poster", 
+        "accession_number": "1981-29-327", 
+        "year_end": 1978, 
+        "signed": null, 
+        "inscribed": null, 
+        "period_id": null, 
+        "year_acquired": "1981", 
+        "woe:country_id": "23424977"
+    }
+}

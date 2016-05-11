@@ -1,0 +1,150 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": 1970, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": "lithograph on paper", 
+        "tms:id": "197739", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/223844_cc8138b35830220d_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "223844"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/223844_cc8138b35830220d_b.jpg", 
+                    "width": 1024, 
+                    "height": 716, 
+                    "is_primary": "1", 
+                    "image_id": "223844"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/223844_cc8138b35830220d_d.gif", 
+                    "width": 320, 
+                    "height": 224, 
+                    "is_primary": "1", 
+                    "image_id": "223844"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/223844_cc8138b35830220d_z.jpg", 
+                    "width": 640, 
+                    "height": 447, 
+                    "is_primary": "1", 
+                    "image_id": "223844"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/223844_cc8138b35830220d_n.jpg", 
+                    "width": 320, 
+                    "height": 224, 
+                    "is_primary": "1", 
+                    "image_id": "223844"
+                }
+            }
+        ], 
+        "id": "18645671", 
+        "has_no_known_copyright": null, 
+        "woe:country_name": "United States", 
+        "dimensions": "32 x 46.2 cm (12 5/8 x 18 3/16 in.)", 
+        "title": "Poster (USA), ca. 1980", 
+        "provenance": null, 
+        "participants": [
+            {
+                "person_name": "Karrie Jacobs", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35351535/", 
+                "role_id": "35351535", 
+                "role_name": "Donor", 
+                "person_date": "", 
+                "role_display_name": "Donated by", 
+                "person_id": "18056647", 
+                "person_url": "https://collection.cooperhewitt.org/people/18056647/"
+            }, 
+            {
+                "person_name": "Steven Heller", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35351535/", 
+                "role_id": "35351535", 
+                "role_name": "Donor", 
+                "person_date": "American, b. 1950", 
+                "role_display_name": "Donated by", 
+                "person_id": "18041397", 
+                "person_url": "https://collection.cooperhewitt.org/people/18041397/"
+            }, 
+            {
+                "person_name": "Megan L. Smith", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35352245/", 
+                "role_id": "35352245", 
+                "role_name": "Cataloguer", 
+                "person_date": "", 
+                "role_display_name": "Catalogued by", 
+                "person_id": "18047443", 
+                "person_url": "https://collection.cooperhewitt.org/people/18047443/"
+            }, 
+            {
+                "person_name": "LSA", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35352245/", 
+                "role_id": "35352245", 
+                "role_name": "Cataloguer", 
+                "person_date": "", 
+                "role_display_name": "Catalogued by", 
+                "person_id": "18048737", 
+                "person_url": "https://collection.cooperhewitt.org/people/18048737/"
+            }, 
+            {
+                "person_name": "Diego Rivera", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236565/", 
+                "role_id": "35236565", 
+                "role_name": "Artist", 
+                "person_date": "", 
+                "role_display_name": "", 
+                "person_id": "18043157", 
+                "person_url": "https://collection.cooperhewitt.org/people/18043157/"
+            }, 
+            {
+                "person_name": "Lincoln Cushing", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "", 
+                "role_display_name": "Designed by", 
+                "person_id": "18043145", 
+                "person_url": "https://collection.cooperhewitt.org/people/18043145/"
+            }
+        ], 
+        "decade": "1970", 
+        "label_text": null, 
+        "woe:country": "23424977", 
+        "dimensions_raw": {
+            "width": [
+                "46.20", 
+                "centimeters"
+            ], 
+            "height": [
+                "32.00", 
+                "centimeters"
+            ]
+        }, 
+        "department_id": "35347493", 
+        "title_raw": null, 
+        "justification": null, 
+        "media_id": "35419317", 
+        "description": "Image of \"La Conquista\" by Diego Rivera with text; beast stabbing warrior in armour; folded newsletter of the Alliance for Cultural Democracy with text one side, image other. In black ink, upper margin: ACTIVE / RESISTANCE / Demands; upper right: ACTIVE SOLIDARITY  / Support the Struggle / for the Rights / of Indigenous / Peoples.", 
+        "creditline": "Gift of Steven Heller and Karrie Jacobs", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "ca. 1980", 
+        "url": "https://collection.cooperhewitt.org/objects/18645671/", 
+        "type": "poster", 
+        "accession_number": "1993-53-29", 
+        "year_end": 1990, 
+        "signed": null, 
+        "inscribed": "Imprinted in black ink, lower right: Diego Rivera, La Conquista, Cuernavoca, Mexico", 
+        "period_id": null, 
+        "year_acquired": "1993", 
+        "woe:country_id": "23424977"
+    }
+}

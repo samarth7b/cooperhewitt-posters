@@ -1,0 +1,194 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": 1974, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": "offset lithograph on white wove paper", 
+        "tms:id": "212197", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/101285_e8675167ab462726_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "101285"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/101285_e8675167ab462726_b.jpg", 
+                    "width": 683, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "101285"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/101285_e8675167ab462726_d.gif", 
+                    "width": 213, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "101285"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/101285_e8675167ab462726_z.jpg", 
+                    "width": 427, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "101285"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/101285_e8675167ab462726_n.jpg", 
+                    "width": 213, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "101285"
+                }
+            }, 
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/269841_b3c41ff4c25c91a3_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "0", 
+                    "image_id": "269841"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/269841_b3c41ff4c25c91a3_b.jpg", 
+                    "width": 710, 
+                    "height": 1024, 
+                    "is_primary": "0", 
+                    "image_id": "269841"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/269841_b3c41ff4c25c91a3_d.gif", 
+                    "width": 222, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "269841"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/269841_b3c41ff4c25c91a3_z.jpg", 
+                    "width": 444, 
+                    "height": 640, 
+                    "is_primary": "0", 
+                    "image_id": "269841"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/269841_b3c41ff4c25c91a3_n.jpg", 
+                    "width": 222, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "269841"
+                }
+            }, 
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/95207_500d632e8f7b13c7_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "0", 
+                    "image_id": "95207"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/95207_500d632e8f7b13c7_b.jpg", 
+                    "width": 679, 
+                    "height": 1024, 
+                    "is_primary": "0", 
+                    "image_id": "95207"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/95207_500d632e8f7b13c7_d.gif", 
+                    "width": 212, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "95207"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/95207_500d632e8f7b13c7_z.jpg", 
+                    "width": 424, 
+                    "height": 640, 
+                    "is_primary": "0", 
+                    "image_id": "95207"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/95207_500d632e8f7b13c7_n.jpg", 
+                    "width": 212, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "95207"
+                }
+            }
+        ], 
+        "id": "18673509", 
+        "has_no_known_copyright": null, 
+        "woe:country_name": "United States", 
+        "dimensions": "107.1 x 68.6 cm (42 1/6 x 27 in. )", 
+        "title": "Poster, Visit the American Museum of Immigration at the Statue of Liberty. Statue of Liberty National Monument, New York, New York, 1974", 
+        "provenance": "Dan Friedman; Ken Friedman; 1997: acquired by Museum", 
+        "participants": [
+            {
+                "person_name": "Chermayeff & Geismar Associates", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "New York, New York, USA", 
+                "role_display_name": "Designed by", 
+                "person_id": "18053275", 
+                "person_url": "https://collection.cooperhewitt.org/people/18053275/"
+            }, 
+            {
+                "person_name": "Ivan Chermayeff", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "English, b. 1932", 
+                "role_display_name": "Designed by", 
+                "person_id": "18042085", 
+                "person_url": "https://collection.cooperhewitt.org/people/18042085/"
+            }, 
+            {
+                "person_name": "Ken Friedman", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35351535/", 
+                "role_id": "35351535", 
+                "role_name": "Donor", 
+                "person_date": "", 
+                "role_display_name": "Donated by", 
+                "person_id": "18049807", 
+                "person_url": "https://collection.cooperhewitt.org/people/18049807/"
+            }
+        ], 
+        "decade": "1970", 
+        "label_text": null, 
+        "woe:country": "23424977", 
+        "dimensions_raw": {
+            "width": [
+                "68.60", 
+                "centimeters"
+            ], 
+            "height": [
+                "107.10", 
+                "centimeters"
+            ]
+        }, 
+        "department_id": "35347493", 
+        "title_raw": "Visit the American Museum of Immigration at the Statue of Liberty. Statue of Liberty National Monument, New York, New York", 
+        "justification": null, 
+        "media_id": "35431673", 
+        "description": "An assortment of Statuettes of the Statue of Liberty in various colors representing the diverse ethnic groups that have emigrated to the United States.  Placed against a blue background, the torches are pointing up toward white letters above each statue. The text reads: Visit the / American / Museum of / Immigration / at the / Statue / of Liberty /. Around the edge of the poster is a white border.", 
+        "creditline": "Gift of Ken Friedman", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "1974", 
+        "url": "https://collection.cooperhewitt.org/objects/18673509/", 
+        "type": "poster", 
+        "accession_number": "1997-19-246", 
+        "year_end": 1974, 
+        "signed": "Imprinted lower right: Ivan Chermayeff", 
+        "inscribed": "Printed in black across lower edge: Statue of Liberty National Mounment, New York, New York  U.S. Department of the Interior, National Park Service. Printed in smaller black letters, lower right: FOR SALE BY THE SUPERINTENDENT OF DOCUMENTS, U.S. GOVERNMENT PRINTING OFFICE,/WASHINGTON , D.C. 20402 - Price $1.50 - STOCK NUMBER 2405-00539 * G>P>O>: 1974 05-535-172", 
+        "period_id": null, 
+        "year_acquired": "1997", 
+        "woe:country_id": "23424977"
+    }
+}

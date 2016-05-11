@@ -1,0 +1,110 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": 1970, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": "offset lithography on white paper", 
+        "tms:id": "200412", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/257575_974060413a49a6aa_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "257575"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/257575_974060413a49a6aa_b.jpg", 
+                    "width": 731, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "257575"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/257575_974060413a49a6aa_d.gif", 
+                    "width": 228, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "257575"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/257575_974060413a49a6aa_z.jpg", 
+                    "width": 457, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "257575"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/257575_974060413a49a6aa_n.jpg", 
+                    "width": 228, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "257575"
+                }
+            }
+        ], 
+        "id": "18650953", 
+        "has_no_known_copyright": null, 
+        "woe:country_name": "United States", 
+        "dimensions": "83.8 x 59.1 cm (33 x 23 1/4 in. )", 
+        "title": "Poster, Bumba-Meu-Bol, Satirisches Maskenspiel aus Nordost-Brasilien, Haus der Kulturen der Welt, Berlin, ca. 1980", 
+        "provenance": null, 
+        "participants": [
+            {
+                "person_name": "Giles Dunn  for Neville Brody Studio", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35351535/", 
+                "role_id": "35351535", 
+                "role_name": "Donor", 
+                "person_date": "", 
+                "role_display_name": "Donated by", 
+                "person_id": "18041841", 
+                "person_url": "https://collection.cooperhewitt.org/people/18041841/"
+            }, 
+            {
+                "person_name": "Giles Dunn  for Neville Brody Studio", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "", 
+                "role_display_name": "Designed by", 
+                "person_id": "18041841", 
+                "person_url": "https://collection.cooperhewitt.org/people/18041841/"
+            }
+        ], 
+        "decade": "1970", 
+        "label_text": null, 
+        "woe:country": "23424977", 
+        "dimensions_raw": {
+            "width": [
+                "59.10", 
+                "centimeters"
+            ], 
+            "height": [
+                "83.80", 
+                "centimeters"
+            ]
+        }, 
+        "department_id": "35347493", 
+        "title_raw": "Bumba-Meu-Bol, Satirisches Maskenspiel aus Nordost-Brasilien, Haus der Kulturen der Welt, Berlin", 
+        "justification": null, 
+        "media_id": "35423425", 
+        "description": "Blown-up blurred image of red, orange, teal, blue swirls in circle dominate poster.  Swirls probably close-up of ritual dancing hat.  Small photography of dancer wearing crown hat with multiple color stripes hanging down.  Twirling his head as part of dance, will produce the dominate image of poster. Second photo below is of Hispanic male holding vanacular instricument like large drums.  Text on bottom half.", 
+        "creditline": "Gift of Giles Dunn", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "ca. 1980", 
+        "url": "https://collection.cooperhewitt.org/objects/18650953/", 
+        "type": "poster", 
+        "accession_number": "1995-172-2", 
+        "year_end": 1990, 
+        "signed": "Imprinted in orange and white, along center right edge in vertical format: \"Plakatgestaltung: giles Dunn für Neville Brody Studio\".", 
+        "inscribed": "Imprinted in black, bottom half: \"Haus der Kulturen der Welt (ehemals \"Kongreßhalle\") John-Foster-Dulles-Allee 10 1000 berlin 21 Telefon 3978 70 Verkehrvererbindungen: Bus Linien 100 und 248, S-Bahn Lenrter Stadtbahnhof, Unter den Linden\".  Imprinted in black in orange square box, lower right: \"HAUS DER/ KULTUREN/ DER WELT\"", 
+        "period_id": null, 
+        "year_acquired": "1995", 
+        "woe:country_id": "23424977"
+    }
+}

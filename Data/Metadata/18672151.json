@@ -1,0 +1,119 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": 1974, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": "offset lithograph", 
+        "tms:id": "211518", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/269125_0c24e448ac24b9b3_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "269125"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/269125_0c24e448ac24b9b3_b.jpg", 
+                    "width": 1024, 
+                    "height": 527, 
+                    "is_primary": "1", 
+                    "image_id": "269125"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/269125_0c24e448ac24b9b3_d.gif", 
+                    "width": 320, 
+                    "height": 165, 
+                    "is_primary": "1", 
+                    "image_id": "269125"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/269125_0c24e448ac24b9b3_z.jpg", 
+                    "width": 640, 
+                    "height": 329, 
+                    "is_primary": "1", 
+                    "image_id": "269125"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/269125_0c24e448ac24b9b3_n.jpg", 
+                    "width": 320, 
+                    "height": 165, 
+                    "is_primary": "1", 
+                    "image_id": "269125"
+                }
+            }
+        ], 
+        "id": "18672151", 
+        "has_no_known_copyright": null, 
+        "dimensions": "38.3 x 76.2 cm (15 1/16 x 30 in. )", 
+        "title": "Poster, Exhibition Poster:  Sol Lewitt, Wall Drawings & Structures, John Weber Gallery, New York, 1974", 
+        "provenance": null, 
+        "participants": [
+            {
+                "person_name": "General Acquisitions Endowment", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35352247/", 
+                "role_id": "35352247", 
+                "role_name": "Fund", 
+                "person_date": "", 
+                "role_display_name": "Fund:", 
+                "person_id": "18048535", 
+                "person_url": "https://collection.cooperhewitt.org/people/18048535/"
+            }, 
+            {
+                "person_name": "Sol Lewitt", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236565/", 
+                "role_id": "35236565", 
+                "role_name": "Artist", 
+                "person_date": "American, 1928 – 2007", 
+                "role_display_name": "", 
+                "person_id": "18051545", 
+                "person_url": "https://collection.cooperhewitt.org/people/18051545/"
+            }, 
+            {
+                "person_name": "Lawrence Markey, Inc.", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35352249/", 
+                "role_id": "35352249", 
+                "role_name": "Vendor", 
+                "person_date": "", 
+                "role_display_name": "Purchased from", 
+                "person_id": "18051405", 
+                "person_url": "https://collection.cooperhewitt.org/people/18051405/"
+            }
+        ], 
+        "decade": "1970", 
+        "label_text": null, 
+        "woe:country": null, 
+        "dimensions_raw": {
+            "width": [
+                "76.20", 
+                "centimeters"
+            ], 
+            "height": [
+                "38.30", 
+                "centimeters"
+            ]
+        }, 
+        "department_id": "35347493", 
+        "title_raw": "Exhibition Poster:  Sol Lewitt, Wall Drawings & Structures, John Weber Gallery, New York", 
+        "justification": null, 
+        "media_id": "35399027", 
+        "description": "Art exhibition poster featuring a grid with thirteen rows.  Within each grid unit is a geometric shape showing variations/permutations of drawing parts of an open cube; each variant is numbered by a fraction at the lower right.  At the right, centered, is black text stating artist name, exhibition title, gallery name and address.  On verso, there are six rectangular columns, each containing a diagram of a geometric shape and text for how to locate that shape on a wall.  From left to right, the shapes are: \"The Location of a Circle,\"... a Triangle, .... a Square, ...a Rectangle,  ...a Trapezoid, and a Parallelogram.\nVerso: Across both havles of paper are six equally sized rectangles bearing diagram and text on how to locate on wall, respectively, a circle, a triangle, a square, a rectangle, a trapezoid, and a parallelogram.", 
+        "creditline": "Museum purchase from General Acquisitions Endowment and Smithsonian Institution Collections Acquisition Program Funds", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "1974", 
+        "url": "https://collection.cooperhewitt.org/objects/18672151/", 
+        "type": "poster", 
+        "accession_number": "1999-45-16", 
+        "year_end": 1974, 
+        "signed": null, 
+        "inscribed": "On recto at left top,  imprinted in black: \"VARIATIONS OF INCOMPLETE OPEN CUBES\";\ncentered at right: \"SOL LEWITT/ WALL DRAWINGS & STRUCTURES:/ THE LOCATION OF SIX GEOMETRIC FIGURES/ VARIATIONS OF INCOMPLETE OPEN CUBES/ THE JOHN WEBER GALLERY/ 420 W. BROADWAY NEW YORK/ OCTOBER 26 - NOVEMBER 20, 1974\".", 
+        "period_id": null, 
+        "year_acquired": "1999", 
+        "woe:country_id": null
+    }
+}

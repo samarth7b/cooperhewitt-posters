@@ -1,0 +1,147 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": 1986, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": "screenprint on paper", 
+        "tms:id": "192233", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/90345_4b7d8d43ff103d37_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "90345"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/90345_4b7d8d43ff103d37_b.jpg", 
+                    "width": 729, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "90345"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/90345_4b7d8d43ff103d37_d.gif", 
+                    "width": 228, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "90345"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/90345_4b7d8d43ff103d37_z.jpg", 
+                    "width": 456, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "90345"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/90345_4b7d8d43ff103d37_n.jpg", 
+                    "width": 228, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "90345"
+                }
+            }, 
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/206863_70344eda7b8cdf51_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "0", 
+                    "image_id": "206863"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/206863_70344eda7b8cdf51_b.jpg", 
+                    "width": 740, 
+                    "height": 1024, 
+                    "is_primary": "0", 
+                    "image_id": "206863"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/206863_70344eda7b8cdf51_d.gif", 
+                    "width": 231, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "206863"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/206863_70344eda7b8cdf51_z.jpg", 
+                    "width": 462, 
+                    "height": 640, 
+                    "is_primary": "0", 
+                    "image_id": "206863"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/206863_70344eda7b8cdf51_n.jpg", 
+                    "width": 231, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "206863"
+                }
+            }
+        ], 
+        "id": "18634773", 
+        "has_no_known_copyright": null, 
+        "woe:country_name": "United States", 
+        "dimensions": "60.8 x 43 cm (23 15/16 x 16 15/16 in.)", 
+        "title": "Poster, Testing, 1986", 
+        "provenance": null, 
+        "participants": [
+            {
+                "person_name": "Cooper Hewitt, Smithsonian Design Museum: Picture Library", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35352257/", 
+                "role_id": "35352257", 
+                "role_name": "Transferor", 
+                "person_date": "", 
+                "role_display_name": "Transferred from", 
+                "person_id": "18057545", 
+                "person_url": "https://collection.cooperhewitt.org/people/18057545/"
+            }, 
+            {
+                "person_name": "David Lance Goines", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "American, b. 1945", 
+                "role_display_name": "Designed by", 
+                "person_id": "18043255", 
+                "person_url": "https://collection.cooperhewitt.org/people/18043255/"
+            }
+        ], 
+        "decade": "1980", 
+        "label_text": null, 
+        "woe:country": "23424977", 
+        "dimensions_raw": {
+            "width": [
+                "43.00", 
+                "centimeters"
+            ], 
+            "height": [
+                "60.80", 
+                "centimeters"
+            ]
+        }, 
+        "department_id": "35347493", 
+        "title_raw": "Testing", 
+        "justification": null, 
+        "media_id": "35431679", 
+        "description": "Orange letters on blue background advertise the Consumers Union Consumer Reports.  A right hand focuses a magnifying glass over the center of the composition.", 
+        "creditline": "Gift of Unknown Donor", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "1986", 
+        "url": "https://collection.cooperhewitt.org/objects/18634773/", 
+        "type": "poster", 
+        "accession_number": "1990-45-2", 
+        "year_end": 1986, 
+        "signed": null, 
+        "inscribed": null, 
+        "period_id": null, 
+        "year_acquired": "1990", 
+        "woe:country_id": "23424977"
+    }
+}

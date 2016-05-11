@@ -1,0 +1,147 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": 1984, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": "offset lithograph on paper", 
+        "tms:id": "198684", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/81932_2432e9ee6c51ca82_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "81932"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/81932_2432e9ee6c51ca82_b.jpg", 
+                    "width": 725, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "81932"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/81932_2432e9ee6c51ca82_d.gif", 
+                    "width": 227, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "81932"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/81932_2432e9ee6c51ca82_z.jpg", 
+                    "width": 453, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "81932"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/81932_2432e9ee6c51ca82_n.jpg", 
+                    "width": 227, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "81932"
+                }
+            }, 
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/254982_ee9cf7698dc4c84d_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "0", 
+                    "image_id": "254982"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/254982_ee9cf7698dc4c84d_b.jpg", 
+                    "width": 709, 
+                    "height": 1024, 
+                    "is_primary": "0", 
+                    "image_id": "254982"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/254982_ee9cf7698dc4c84d_d.gif", 
+                    "width": 222, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "254982"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/254982_ee9cf7698dc4c84d_z.jpg", 
+                    "width": 443, 
+                    "height": 640, 
+                    "is_primary": "0", 
+                    "image_id": "254982"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/254982_ee9cf7698dc4c84d_n.jpg", 
+                    "width": 222, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "254982"
+                }
+            }
+        ], 
+        "id": "18647557", 
+        "has_no_known_copyright": null, 
+        "woe:country_name": "Germany", 
+        "dimensions": "83.8 x 59.7 cm (33 x 23 1/2 in. )", 
+        "title": "Poster, Bayerns Staatliche Museen: Kunst Öffnet die Augen, 1984", 
+        "provenance": "1994: acquired by Museum", 
+        "participants": [
+            {
+                "person_name": "Unknown donor: unsolicited gift", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35351535/", 
+                "role_id": "35351535", 
+                "role_name": "Donor", 
+                "person_date": "", 
+                "role_display_name": "Donated by", 
+                "person_id": "18050283", 
+                "person_url": "https://collection.cooperhewitt.org/people/18050283/"
+            }, 
+            {
+                "person_name": "Mendell & Oberer", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "Germany, 1961–2000", 
+                "role_display_name": "Designed by", 
+                "person_id": "18048713", 
+                "person_url": "https://collection.cooperhewitt.org/people/18048713/"
+            }
+        ], 
+        "decade": "1980", 
+        "label_text": null, 
+        "woe:country": "23424829", 
+        "dimensions_raw": {
+            "width": [
+                "59.70", 
+                "centimeters"
+            ], 
+            "height": [
+                "83.80", 
+                "centimeters"
+            ]
+        }, 
+        "department_id": "35347493", 
+        "title_raw": "Bayerns Staatliche Museen: Kunst Öffnet die Augen", 
+        "justification": null, 
+        "media_id": "35399021", 
+        "description": "Exhibition poster for Bayerns Staatliche Museen for exhibition entitled Kunst Öffnet die Augen [Art opening the eyes].  Divided into 2 column, 5 rows, each with crop of eye from various art work.  All eyes in first column are left eyes and all eyes in second column are right eyes.  Starts with left eye from 19th century realism painting, right eye from 20th century sculpture, left eye from primitive marble sculpture, right eye from 20th century fauve painting, left eye from charcoal drawing, right eye from academic painting, left eye from 20th century painting, right eye from photogrpahy, left eye from Pop art, and right eye from early Renaissance painting. Imprinted in black, bottom divided into 2 columns of text: \"Kunst/ Öffnet die Augen/ Staatliche Museen und Sammlungen in Bayern\" (first column) and \"Besuchen Sie/ Bayerns Staatliche/ Museen\"  (second column).", 
+        "creditline": "Gift of Unknown Donor", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "1984", 
+        "url": "https://collection.cooperhewitt.org/objects/18647557/", 
+        "type": "poster", 
+        "accession_number": "1994-114-37", 
+        "year_end": 1984, 
+        "signed": "Imprinted vertically in black, top right corner: ertwurf: Mendell & Oberer", 
+        "inscribed": null, 
+        "period_id": null, 
+        "year_acquired": "1994", 
+        "woe:country_id": "23424829"
+    }
+}

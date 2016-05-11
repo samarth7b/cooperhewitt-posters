@@ -1,0 +1,147 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": 1976, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": "lithograph on paper", 
+        "tms:id": "177661", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/82684_44e7cae0526cd59c_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "82684"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/82684_44e7cae0526cd59c_b.jpg", 
+                    "width": 600, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "82684"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/82684_44e7cae0526cd59c_d.gif", 
+                    "width": 188, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "82684"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/82684_44e7cae0526cd59c_z.jpg", 
+                    "width": 375, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "82684"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/82684_44e7cae0526cd59c_n.jpg", 
+                    "width": 188, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "82684"
+                }
+            }, 
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/204706_e3bebac7c443961e_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "0", 
+                    "image_id": "204706"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/204706_e3bebac7c443961e_b.jpg", 
+                    "width": 613, 
+                    "height": 1024, 
+                    "is_primary": "0", 
+                    "image_id": "204706"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/204706_e3bebac7c443961e_d.gif", 
+                    "width": 192, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "204706"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/204706_e3bebac7c443961e_z.jpg", 
+                    "width": 383, 
+                    "height": 640, 
+                    "is_primary": "0", 
+                    "image_id": "204706"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/204706_e3bebac7c443961e_n.jpg", 
+                    "width": 192, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "204706"
+                }
+            }
+        ], 
+        "id": "18618255", 
+        "has_no_known_copyright": null, 
+        "woe:country_name": "United States", 
+        "dimensions": "58.5 x 34.2 cm (23 1/16 x 13 7/16 in.)", 
+        "title": "Poster, Question: What's wrong with this picture?, 1976", 
+        "provenance": "1981: acquired by Museum", 
+        "participants": [
+            {
+                "person_name": "American Cancer Society", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236667/", 
+                "role_id": "35236667", 
+                "role_name": "Client", 
+                "person_date": "New York, New York, USA", 
+                "role_display_name": "Client:", 
+                "person_id": "18042363", 
+                "person_url": "https://collection.cooperhewitt.org/people/18042363/"
+            }, 
+            {
+                "person_name": "Seymour Chwast", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "American, b. 1931", 
+                "role_display_name": "Designed by", 
+                "person_id": "18042087", 
+                "person_url": "https://collection.cooperhewitt.org/people/18042087/"
+            }
+        ], 
+        "decade": "1970", 
+        "label_text": null, 
+        "woe:country": "23424977", 
+        "dimensions_raw": {
+            "width": [
+                "34.20", 
+                "centimeters"
+            ], 
+            "height": [
+                "58.50", 
+                "centimeters"
+            ]
+        }, 
+        "department_id": "35347493", 
+        "title_raw": "Question: What's wrong with this picture?", 
+        "justification": null, 
+        "media_id": "35419317", 
+        "description": "Poster featuring a man’s face with several mouths, one of which has a cigarette.", 
+        "creditline": "Gift of Various Donors", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "1976", 
+        "url": "https://collection.cooperhewitt.org/objects/18618255/", 
+        "type": "poster", 
+        "accession_number": "1981-29-85", 
+        "year_end": 1976, 
+        "signed": "Signed in print, in black ink, lower right: S. CHWAST", 
+        "inscribed": "Imprinted in brown ink, lower left: 76-25M-8/76-No. 2105-LE; lower right: © 1976, AMERICAN CANCER SOCIETY, INC", 
+        "period_id": null, 
+        "year_acquired": "1981", 
+        "woe:country_id": "23424977"
+    }
+}

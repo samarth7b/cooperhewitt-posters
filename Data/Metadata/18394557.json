@@ -1,0 +1,79 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": null, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": null, 
+        "tms:id": "107435", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/252765_f96f90775f7db0f0_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "252765"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/252765_f96f90775f7db0f0_b.jpg", 
+                    "width": 1024, 
+                    "height": 758, 
+                    "is_primary": "1", 
+                    "image_id": "252765"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/252765_f96f90775f7db0f0_d.gif", 
+                    "width": 320, 
+                    "height": 237, 
+                    "is_primary": "1", 
+                    "image_id": "252765"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/252765_f96f90775f7db0f0_z.jpg", 
+                    "width": 640, 
+                    "height": 473, 
+                    "is_primary": "1", 
+                    "image_id": "252765"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/252765_f96f90775f7db0f0_n.jpg", 
+                    "width": 320, 
+                    "height": 237, 
+                    "is_primary": "1", 
+                    "image_id": "252765"
+                }
+            }
+        ], 
+        "id": "18394557", 
+        "has_no_known_copyright": null, 
+        "dimensions": null, 
+        "title": "Poster", 
+        "provenance": null, 
+        "participants": [], 
+        "decade": null, 
+        "label_text": null, 
+        "woe:country": null, 
+        "dimensions_raw": null, 
+        "department_id": "35347493", 
+        "title_raw": null, 
+        "justification": null, 
+        "media_id": "35371135", 
+        "description": null, 
+        "creditline": null, 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": null, 
+        "url": "https://collection.cooperhewitt.org/objects/18394557/", 
+        "type": "poster", 
+        "accession_number": "1953-128-18-2", 
+        "year_end": null, 
+        "signed": null, 
+        "inscribed": null, 
+        "period_id": null, 
+        "year_acquired": "1953", 
+        "woe:country_id": null
+    }
+}

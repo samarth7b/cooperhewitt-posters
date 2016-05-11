@@ -1,0 +1,120 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": "Gramlich’s poster series Generation Vielfalt was designed for the progressive political party Generation Heidelberg. The posters were displayed over time to show a transformation. Here, the second poster in the series shows the image partially torn away to reveal a new message underneath.", 
+        "year_start": 2014, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": "digital print", 
+        "tms:id": "282924", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/265670_971bdf98570d8b7e_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "265670"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/265670_971bdf98570d8b7e_b.jpg", 
+                    "width": 723, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "265670"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/265670_971bdf98570d8b7e_d.gif", 
+                    "width": 226, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "265670"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/265670_971bdf98570d8b7e_z.jpg", 
+                    "width": 452, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "265670"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/265670_971bdf98570d8b7e_n.jpg", 
+                    "width": 226, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "265670"
+                }
+            }
+        ], 
+        "id": "69155169", 
+        "has_no_known_copyright": null, 
+        "dimensions": "H x W: 99.1 × 68.6 cm (39 × 27 in.)", 
+        "title": "Poster, Generation Vielfalt, 2014", 
+        "provenance": null, 
+        "participants": [
+            {
+                "person_name": "Götz Gramlich", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35351535/", 
+                "role_id": "35351535", 
+                "role_name": "Donor", 
+                "person_date": "German, b. 1974", 
+                "role_display_name": "Donated by", 
+                "person_id": "69112777", 
+                "person_url": "https://collection.cooperhewitt.org/people/69112777/"
+            }, 
+            {
+                "person_name": "Generation Heidelberg", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236675/", 
+                "role_id": "35236675", 
+                "role_name": "For", 
+                "person_date": "Heidelberg, Germany", 
+                "role_display_name": "Made for", 
+                "person_id": "85027105", 
+                "person_url": "https://collection.cooperhewitt.org/people/85027105/"
+            }, 
+            {
+                "person_name": "Götz Gramlich", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "German, b. 1974", 
+                "role_display_name": "Designed by", 
+                "person_id": "69112777", 
+                "person_url": "https://collection.cooperhewitt.org/people/69112777/"
+            }, 
+            {
+                "person_name": "gggrafik design", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "Heidelberg, Germany, founded 2005", 
+                "role_display_name": "Designed by", 
+                "person_id": "85027101", 
+                "person_url": "https://collection.cooperhewitt.org/people/85027101/"
+            }
+        ], 
+        "decade": "2010", 
+        "label_text": null, 
+        "woe:country": null, 
+        "dimensions_raw": null, 
+        "department_id": "404529577", 
+        "title_raw": "Generation Vielfalt", 
+        "justification": null, 
+        "media_id": "35424525", 
+        "description": null, 
+        "creditline": "Courtesy of the designer", 
+        "on_display": "1", 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "2014", 
+        "url": "https://collection.cooperhewitt.org/objects/69155169/", 
+        "type": "poster", 
+        "accession_number": "s-e-1782", 
+        "year_end": 2014, 
+        "signed": null, 
+        "inscribed": null, 
+        "period_id": null, 
+        "year_acquired": null, 
+        "woe:country_id": null
+    }
+}

@@ -1,0 +1,91 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": null, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": null, 
+        "tms:id": "177289", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/252495_b8e8d8d7a0c02a9f_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "252495"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/252495_b8e8d8d7a0c02a9f_b.jpg", 
+                    "width": 691, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "252495"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/252495_b8e8d8d7a0c02a9f_d.gif", 
+                    "width": 216, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "252495"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/252495_b8e8d8d7a0c02a9f_z.jpg", 
+                    "width": 432, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "252495"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/252495_b8e8d8d7a0c02a9f_n.jpg", 
+                    "width": 216, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "252495"
+                }
+            }
+        ], 
+        "id": "18617513", 
+        "has_no_known_copyright": null, 
+        "woe:country_name": "United States", 
+        "dimensions": null, 
+        "title": "Poster, Poland", 
+        "provenance": "1981: acquired by Museum", 
+        "participants": [
+            {
+                "person_name": "Liz Shepard", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "", 
+                "role_display_name": "Designed by", 
+                "person_id": "68263973", 
+                "person_url": "https://collection.cooperhewitt.org/people/68263973/"
+            }
+        ], 
+        "decade": null, 
+        "label_text": null, 
+        "woe:country": "23424977", 
+        "dimensions_raw": null, 
+        "department_id": "35347493", 
+        "title_raw": "Poland", 
+        "justification": null, 
+        "media_id": "35371135", 
+        "description": null, 
+        "creditline": "Gift of Various Donors", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": null, 
+        "url": "https://collection.cooperhewitt.org/objects/18617513/", 
+        "type": "poster", 
+        "accession_number": "1981-29-215", 
+        "year_end": null, 
+        "signed": null, 
+        "inscribed": null, 
+        "period_id": null, 
+        "year_acquired": "1981", 
+        "woe:country_id": "23424977"
+    }
+}

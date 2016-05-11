@@ -1,0 +1,147 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": 1970, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": "lithograph on paper", 
+        "tms:id": "146521", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/49857_4820dea8db1c2253_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "49857"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/49857_4820dea8db1c2253_b.jpg", 
+                    "width": 725, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "49857"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/49857_4820dea8db1c2253_d.gif", 
+                    "width": 227, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "49857"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/49857_4820dea8db1c2253_z.jpg", 
+                    "width": 453, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "49857"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/49857_4820dea8db1c2253_n.jpg", 
+                    "width": 227, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "49857"
+                }
+            }, 
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/268733_a8b292e41c59ddbd_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "0", 
+                    "image_id": "268733"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/268733_a8b292e41c59ddbd_b.jpg", 
+                    "width": 677, 
+                    "height": 1024, 
+                    "is_primary": "0", 
+                    "image_id": "268733"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/268733_a8b292e41c59ddbd_d.gif", 
+                    "width": 212, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "268733"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/268733_a8b292e41c59ddbd_z.jpg", 
+                    "width": 423, 
+                    "height": 640, 
+                    "is_primary": "0", 
+                    "image_id": "268733"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/268733_a8b292e41c59ddbd_n.jpg", 
+                    "width": 212, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "268733"
+                }
+            }
+        ], 
+        "id": "18471721", 
+        "has_no_known_copyright": null, 
+        "woe:country_name": "United States", 
+        "dimensions": "H x W: 93.8 x 60.9 cm (36 15/16 in. x 24 in.)", 
+        "title": "Poster, Give Earth a Chance, 1970", 
+        "provenance": "Uri Danyluk", 
+        "participants": [
+            {
+                "person_name": "Uri Danyluk", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35351535/", 
+                "role_id": "35351535", 
+                "role_name": "Donor", 
+                "person_date": "", 
+                "role_display_name": "Donated by", 
+                "person_id": "18537023", 
+                "person_url": "https://collection.cooperhewitt.org/people/18537023/"
+            }, 
+            {
+                "person_name": "Milton Glaser", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "American, b. 1929", 
+                "role_display_name": "Designed by", 
+                "person_id": "18042107", 
+                "person_url": "https://collection.cooperhewitt.org/people/18042107/"
+            }
+        ], 
+        "decade": "1970", 
+        "label_text": null, 
+        "woe:country": "23424977", 
+        "dimensions_raw": {
+            "width": [
+                "60.90", 
+                "centimeters"
+            ], 
+            "height": [
+                "93.80", 
+                "centimeters"
+            ]
+        }, 
+        "department_id": "35347493", 
+        "title_raw": "Give Earth a Chance", 
+        "justification": null, 
+        "media_id": "35419317", 
+        "description": "Depiction of Earth floating in a room with green striped carpet and blue walls decorated with stars and a partial moon. Text upper margin: GIVE EARTH A CHANCE; lower margin: Environmental Action Coalition.", 
+        "creditline": "Gift of Uri Danyluk", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "1970", 
+        "url": "https://collection.cooperhewitt.org/objects/18471721/", 
+        "type": "poster", 
+        "accession_number": "1970-18-1", 
+        "year_end": 1970, 
+        "signed": null, 
+        "inscribed": null, 
+        "period_id": null, 
+        "year_acquired": "1970", 
+        "woe:country_id": "23424977"
+    }
+}

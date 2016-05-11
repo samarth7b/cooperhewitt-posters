@@ -1,0 +1,90 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": null, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": null, 
+        "tms:id": "201371", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/268613_83b640db942e9216_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "268613"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/268613_83b640db942e9216_b.jpg", 
+                    "width": 696, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "268613"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/268613_83b640db942e9216_d.gif", 
+                    "width": 218, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "268613"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/268613_83b640db942e9216_z.jpg", 
+                    "width": 435, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "268613"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/268613_83b640db942e9216_n.jpg", 
+                    "width": 218, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "268613"
+                }
+            }
+        ], 
+        "id": "18652837", 
+        "has_no_known_copyright": null, 
+        "dimensions": null, 
+        "title": "Poster, Silent Auction to Benefit the Little Red School House", 
+        "provenance": null, 
+        "participants": [
+            {
+                "person_name": "Tom Slaughter", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35351535/", 
+                "role_id": "35351535", 
+                "role_name": "Donor", 
+                "person_date": "", 
+                "role_display_name": "Donated by", 
+                "person_id": "18051345", 
+                "person_url": "https://collection.cooperhewitt.org/people/18051345/"
+            }
+        ], 
+        "decade": null, 
+        "label_text": null, 
+        "woe:country": null, 
+        "dimensions_raw": null, 
+        "department_id": "35347493", 
+        "title_raw": "Silent Auction to Benefit the Little Red School House", 
+        "justification": null, 
+        "media_id": "35371135", 
+        "description": null, 
+        "creditline": "Gift of Tom Slaughter", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": null, 
+        "url": "https://collection.cooperhewitt.org/objects/18652837/", 
+        "type": "poster", 
+        "accession_number": "1996-125-1", 
+        "year_end": null, 
+        "signed": null, 
+        "inscribed": null, 
+        "period_id": null, 
+        "year_acquired": "1996", 
+        "woe:country_id": null
+    }
+}

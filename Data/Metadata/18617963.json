@@ -1,0 +1,174 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": 1975, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": "offset lithograph on paper", 
+        "tms:id": "177515", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/101293_8521950bfc53b217_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "101293"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/101293_8521950bfc53b217_b.jpg", 
+                    "width": 1024, 
+                    "height": 627, 
+                    "is_primary": "1", 
+                    "image_id": "101293"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/101293_8521950bfc53b217_d.gif", 
+                    "width": 320, 
+                    "height": 196, 
+                    "is_primary": "1", 
+                    "image_id": "101293"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/101293_8521950bfc53b217_z.jpg", 
+                    "width": 640, 
+                    "height": 392, 
+                    "is_primary": "1", 
+                    "image_id": "101293"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/101293_8521950bfc53b217_n.jpg", 
+                    "width": 320, 
+                    "height": 196, 
+                    "is_primary": "1", 
+                    "image_id": "101293"
+                }
+            }, 
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/267561_744675eed5c046b1_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "0", 
+                    "image_id": "267561"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/267561_744675eed5c046b1_b.jpg", 
+                    "width": 1024, 
+                    "height": 639, 
+                    "is_primary": "0", 
+                    "image_id": "267561"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/267561_744675eed5c046b1_d.gif", 
+                    "width": 320, 
+                    "height": 200, 
+                    "is_primary": "0", 
+                    "image_id": "267561"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/267561_744675eed5c046b1_z.jpg", 
+                    "width": 640, 
+                    "height": 399, 
+                    "is_primary": "0", 
+                    "image_id": "267561"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/267561_744675eed5c046b1_n.jpg", 
+                    "width": 320, 
+                    "height": 200, 
+                    "is_primary": "0", 
+                    "image_id": "267561"
+                }
+            }, 
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/65018_7fafb07ba518440e_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "0", 
+                    "image_id": "65018"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/65018_7fafb07ba518440e_b.jpg", 
+                    "width": 1024, 
+                    "height": 628, 
+                    "is_primary": "0", 
+                    "image_id": "65018"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/65018_7fafb07ba518440e_d.gif", 
+                    "width": 320, 
+                    "height": 196, 
+                    "is_primary": "0", 
+                    "image_id": "65018"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/65018_7fafb07ba518440e_z.jpg", 
+                    "width": 640, 
+                    "height": 392, 
+                    "is_primary": "0", 
+                    "image_id": "65018"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/65018_7fafb07ba518440e_n.jpg", 
+                    "width": 320, 
+                    "height": 196, 
+                    "is_primary": "0", 
+                    "image_id": "65018"
+                }
+            }
+        ], 
+        "id": "18617963", 
+        "has_no_known_copyright": null, 
+        "woe:country_name": "United States", 
+        "dimensions": "56 x 91.7 cm (22 1/16 x 36 1/8 in.)", 
+        "title": "Poster (USA), ca. 1980", 
+        "provenance": "1981: acquired by Museum", 
+        "participants": [
+            {
+                "person_name": "Nike, Inc.", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236667/", 
+                "role_id": "35236667", 
+                "role_name": "Client", 
+                "person_date": "USA", 
+                "role_display_name": "Client:", 
+                "person_id": "18052787", 
+                "person_url": "https://collection.cooperhewitt.org/people/18052787/"
+            }
+        ], 
+        "decade": "1970", 
+        "label_text": null, 
+        "woe:country": "23424977", 
+        "dimensions_raw": {
+            "width": [
+                "91.70", 
+                "centimeters"
+            ], 
+            "height": [
+                "56.00", 
+                "centimeters"
+            ]
+        }, 
+        "department_id": "35347493", 
+        "title_raw": null, 
+        "justification": null, 
+        "media_id": "35399021", 
+        "description": "Poster featuring a color photograph of young male athletes (runners? Or soccer players) standing, walking, and two are on the ground, in a torrent of rain. Lower right, in black: NIKE [with swoosh].", 
+        "creditline": "Gift of Various Donors", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "ca. 1980", 
+        "url": "https://collection.cooperhewitt.org/objects/18617963/", 
+        "type": "poster", 
+        "accession_number": "1981-29-416", 
+        "year_end": 1985, 
+        "signed": null, 
+        "inscribed": "Printed in black ink, lower left: LITHO IN U. S. A.", 
+        "period_id": null, 
+        "year_acquired": "1981", 
+        "woe:country_id": "23424977"
+    }
+}

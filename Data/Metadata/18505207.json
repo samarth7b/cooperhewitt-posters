@@ -1,0 +1,100 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": 1972, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": "lithograph on paper", 
+        "tms:id": "163507", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/267775_42ba0ea8bbb63871_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "0", 
+                    "image_id": "267775"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/267775_42ba0ea8bbb63871_b.jpg", 
+                    "width": 906, 
+                    "height": 1024, 
+                    "is_primary": "0", 
+                    "image_id": "267775"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/267775_42ba0ea8bbb63871_d.gif", 
+                    "width": 283, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "267775"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/267775_42ba0ea8bbb63871_z.jpg", 
+                    "width": 566, 
+                    "height": 640, 
+                    "is_primary": "0", 
+                    "image_id": "267775"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/267775_42ba0ea8bbb63871_n.jpg", 
+                    "width": 283, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "267775"
+                }
+            }
+        ], 
+        "id": "18505207", 
+        "has_no_known_copyright": null, 
+        "woe:country_name": "United Kingdom", 
+        "dimensions": "68.5 x 60 cm (26 15/16 x 23 5/8 in.)", 
+        "title": "Poster, Zandra Rhodes 77, Bloomingdale's Ad, 1977", 
+        "provenance": "1980: acquired by Museum", 
+        "participants": [
+            {
+                "person_name": "Zandra Rhodes", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "British, b. 1940", 
+                "role_display_name": "Designed by", 
+                "person_id": "18042039", 
+                "person_url": "https://collection.cooperhewitt.org/people/18042039/"
+            }
+        ], 
+        "decade": "1970", 
+        "label_text": null, 
+        "woe:country": "23424975", 
+        "dimensions_raw": {
+            "width": [
+                "60.00", 
+                "centimeters"
+            ], 
+            "height": [
+                "68.50", 
+                "centimeters"
+            ]
+        }, 
+        "department_id": "35347493", 
+        "title_raw": "Zandra Rhodes 77, Bloomingdale's Ad", 
+        "justification": null, 
+        "media_id": "35419317", 
+        "description": "Poster depicts a nude woman with tattooed drawings on her body of … hair is coiffed with ponytail sticking straight up to the sky; she has one elbow resting on a her knee (legs are open, but cropped). She stands against a curtain in light and dark green with leaves. Across poster is script writing in mustard yellow: Zandra Rhodes 77 / Bloomingdales / Zandras lilies are everywhere […].", 
+        "creditline": "Gift of Unknown Donor", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "1977", 
+        "url": "https://collection.cooperhewitt.org/objects/18505207/", 
+        "type": "poster", 
+        "accession_number": "1980-32-1252", 
+        "year_end": 1982, 
+        "signed": "Signed in print, in yellow ink, lower right: Zandra Rhodes […] England; signed in graphite, lower left: Zandra Rhodes 18/150", 
+        "inscribed": null, 
+        "period_id": null, 
+        "year_acquired": "1980", 
+        "woe:country_id": "23424975"
+    }
+}

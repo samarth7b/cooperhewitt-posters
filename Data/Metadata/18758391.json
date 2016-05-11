@@ -1,0 +1,156 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": 1968, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": "offset lithograph on wove paper, mounted on linen", 
+        "tms:id": "255481", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/38555_b0d6bce8cbf3d479_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "38555"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/38555_b0d6bce8cbf3d479_b.jpg", 
+                    "width": 740, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "38555"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/38555_b0d6bce8cbf3d479_d.gif", 
+                    "width": 231, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "38555"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/38555_b0d6bce8cbf3d479_z.jpg", 
+                    "width": 463, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "38555"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/38555_b0d6bce8cbf3d479_n.jpg", 
+                    "width": 231, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "38555"
+                }
+            }, 
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/253480_34f34b7273f757a6_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "0", 
+                    "image_id": "253480"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/253480_34f34b7273f757a6_b.jpg", 
+                    "width": 741, 
+                    "height": 1024, 
+                    "is_primary": "0", 
+                    "image_id": "253480"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/253480_34f34b7273f757a6_d.gif", 
+                    "width": 232, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "253480"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/253480_34f34b7273f757a6_z.jpg", 
+                    "width": 463, 
+                    "height": 640, 
+                    "is_primary": "0", 
+                    "image_id": "253480"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/253480_34f34b7273f757a6_n.jpg", 
+                    "width": 232, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "253480"
+                }
+            }
+        ], 
+        "id": "18758391", 
+        "has_no_known_copyright": null, 
+        "dimensions": "81.5 x 58.3 cm (32 1/16 x 22 15/16 in.)\nMount: 84.1 x 60.9 cm (33 1/8 x 24 in.)", 
+        "title": "Poster, Zvetšenina [Blow Up], 1968", 
+        "provenance": "Acquired from dealers, galleries and auction houses by Marc Benda.  Remained with Benda until 2010, when gifted to CHNDM.", 
+        "participants": [
+            {
+                "person_name": "Milan Grygar", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "Czechoslovakian, 1926 - 2006", 
+                "role_display_name": "Designed by", 
+                "person_id": "18063529", 
+                "person_url": "https://collection.cooperhewitt.org/people/18063529/"
+            }, 
+            {
+                "person_name": "Marc Benda", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35351535/", 
+                "role_id": "35351535", 
+                "role_name": "Donor", 
+                "person_date": "", 
+                "role_display_name": "Donated by", 
+                "person_id": "18062523", 
+                "person_url": "https://collection.cooperhewitt.org/people/18062523/"
+            }, 
+            {
+                "person_name": "Sara Benda", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35351535/", 
+                "role_id": "35351535", 
+                "role_name": "Donor", 
+                "person_date": "", 
+                "role_display_name": "Donated by", 
+                "person_id": "18063205", 
+                "person_url": "https://collection.cooperhewitt.org/people/18063205/"
+            }
+        ], 
+        "decade": "1960", 
+        "label_text": null, 
+        "woe:country": null, 
+        "dimensions_raw": {
+            "width": [
+                "60.90", 
+                "centimeters"
+            ], 
+            "height": [
+                "84.10", 
+                "centimeters"
+            ]
+        }, 
+        "department_id": "35347493", 
+        "title_raw": "Zvetšenina [Blow Up]", 
+        "justification": null, 
+        "media_id": "35434607", 
+        "description": "The white background is divided by a grid into seven sections. Going clockwise, the sections are: (1)title: following upper margin \"Anglicky film vyznamenany  Velkou cenou na MFF v Cannes\", and \"zvetsenina\" at lower margin of section; (2)title and pictorial exegesis: at right, vertically- \"BLOW UP\", along top margin: \"Rezie: Michelangelo Antonioni\", and the images of a plan of a sports arena, the number one, as appearing on a referee's scorecard, the pointing finger and hand of a man in a suit and cufflinks as it would appear in cartoons, and a diagram or man-made abstraction; (3, 4, 5, 6)same image of a photograph, layered one over another, as in stop-motion animation, of a young man pulling a shirt out of a young woman's arms as she holds it against her chest; and (7)a photograph of a nude, photographed from a low frontal angle.", 
+        "creditline": "Gift of Sara and Marc Benda", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "1968", 
+        "url": "https://collection.cooperhewitt.org/objects/18758391/", 
+        "type": "poster", 
+        "accession_number": "2010-21-92", 
+        "year_end": 1968, 
+        "signed": null, 
+        "inscribed": null, 
+        "period_id": "35435939", 
+        "year_acquired": "2010", 
+        "woe:country_id": null
+    }
+}

@@ -1,0 +1,91 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": 1985, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": null, 
+        "tms:id": "191588", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/269834_5dbc23f1fb640b63_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "269834"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/269834_5dbc23f1fb640b63_b.jpg", 
+                    "width": 728, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "269834"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/269834_5dbc23f1fb640b63_d.gif", 
+                    "width": 228, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "269834"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/269834_5dbc23f1fb640b63_z.jpg", 
+                    "width": 455, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "269834"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/269834_5dbc23f1fb640b63_n.jpg", 
+                    "width": 228, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "269834"
+                }
+            }
+        ], 
+        "id": "18633489", 
+        "has_no_known_copyright": null, 
+        "woe:country_name": "Netherlands", 
+        "dimensions": null, 
+        "title": "Poster, Mooi Megnenomem, 1985", 
+        "provenance": null, 
+        "participants": [
+            {
+                "person_name": "Hard Werken Design", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "", 
+                "role_display_name": "Designed by", 
+                "person_id": "18042029", 
+                "person_url": "https://collection.cooperhewitt.org/people/18042029/"
+            }
+        ], 
+        "decade": "1980", 
+        "label_text": null, 
+        "woe:country": "23424909", 
+        "dimensions_raw": null, 
+        "department_id": "35347493", 
+        "title_raw": "Mooi Megnenomem", 
+        "justification": null, 
+        "media_id": "35371135", 
+        "description": null, 
+        "creditline": null, 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "1985", 
+        "url": "https://collection.cooperhewitt.org/objects/18633489/", 
+        "type": "poster", 
+        "accession_number": "1989-85-1", 
+        "year_end": 1985, 
+        "signed": null, 
+        "inscribed": null, 
+        "period_id": null, 
+        "year_acquired": "1989", 
+        "woe:country_id": "23424909"
+    }
+}

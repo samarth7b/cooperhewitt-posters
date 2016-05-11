@@ -1,0 +1,130 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": 1987, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": "offset lithograph on wove paper", 
+        "tms:id": "255427", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/46771_8c0e476c65cd447d_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "46771"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/46771_8c0e476c65cd447d_b.jpg", 
+                    "width": 724, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "46771"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/46771_8c0e476c65cd447d_d.gif", 
+                    "width": 226, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "46771"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/46771_8c0e476c65cd447d_z.jpg", 
+                    "width": 452, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "46771"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/46771_8c0e476c65cd447d_n.jpg", 
+                    "width": 226, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "46771"
+                }
+            }
+        ], 
+        "id": "18758283", 
+        "has_no_known_copyright": null, 
+        "woe:country_name": "Switzerland", 
+        "dimensions": "128 x 90.8 cm (50 3/8 x 35 3/4 in.)", 
+        "title": "Poster, Herz, ca. 1987", 
+        "provenance": "Marc and Sara Benda (acquired new and directly from designer, Hans-Rudolf Lutz); 2010: acquired by Museum", 
+        "participants": [
+            {
+                "person_name": "Museum für Gestaltung, Zürich", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236667/", 
+                "role_id": "35236667", 
+                "role_name": "Client", 
+                "person_date": "Zürich, Switzerland", 
+                "role_display_name": "Client:", 
+                "person_id": "18063557", 
+                "person_url": "https://collection.cooperhewitt.org/people/18063557/"
+            }, 
+            {
+                "person_name": "Hans-Rudolf Lutz", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "Swiss, 1939 - 1998", 
+                "role_display_name": "Designed by", 
+                "person_id": "18063517", 
+                "person_url": "https://collection.cooperhewitt.org/people/18063517/"
+            }, 
+            {
+                "person_name": "Marc Benda", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35351535/", 
+                "role_id": "35351535", 
+                "role_name": "Donor", 
+                "person_date": "", 
+                "role_display_name": "Donated by", 
+                "person_id": "18062523", 
+                "person_url": "https://collection.cooperhewitt.org/people/18062523/"
+            }, 
+            {
+                "person_name": "Sara Benda", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35351535/", 
+                "role_id": "35351535", 
+                "role_name": "Donor", 
+                "person_date": "", 
+                "role_display_name": "Donated by", 
+                "person_id": "18063205", 
+                "person_url": "https://collection.cooperhewitt.org/people/18063205/"
+            }
+        ], 
+        "decade": "1980", 
+        "label_text": null, 
+        "woe:country": "23424957", 
+        "dimensions_raw": {
+            "width": [
+                "90.80", 
+                "centimeters"
+            ], 
+            "height": [
+                "128.00", 
+                "centimeters"
+            ]
+        }, 
+        "department_id": "35347493", 
+        "title_raw": "Herz", 
+        "justification": null, 
+        "media_id": "35431963", 
+        "description": "Red text sideways and in a diagonal vertical direction: HERZ; center left, in black ink: Herzblut. Populare Gestaltung aus der Schweiz / Eine Ausstellung vom 2. September bis 8. November 87 / Museum fur Gestaltung Zurich. Museum information in upper right.", 
+        "creditline": "Gift of Sara and Marc Benda", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "ca. 1987", 
+        "url": "https://collection.cooperhewitt.org/objects/18758283/", 
+        "type": "poster", 
+        "accession_number": "2010-21-39", 
+        "year_end": 1987, 
+        "signed": null, 
+        "inscribed": null, 
+        "period_id": null, 
+        "year_acquired": "2010", 
+        "woe:country_id": "23424957"
+    }
+}

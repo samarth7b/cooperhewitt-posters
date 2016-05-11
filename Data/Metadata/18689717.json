@@ -1,0 +1,167 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": 1999, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": "offset lithograph on paper", 
+        "tms:id": "220378", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/35370_01e2764b273cbb13_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "35370"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/35370_01e2764b273cbb13_b.jpg", 
+                    "width": 723, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "35370"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/35370_01e2764b273cbb13_d.gif", 
+                    "width": 226, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "35370"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/35370_01e2764b273cbb13_z.jpg", 
+                    "width": 452, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "35370"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/35370_01e2764b273cbb13_n.jpg", 
+                    "width": 226, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "35370"
+                }
+            }, 
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/267436_48d604827f2c6884_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "0", 
+                    "image_id": "267436"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/267436_48d604827f2c6884_b.jpg", 
+                    "width": 729, 
+                    "height": 1024, 
+                    "is_primary": "0", 
+                    "image_id": "267436"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/267436_48d604827f2c6884_d.gif", 
+                    "width": 228, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "267436"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/267436_48d604827f2c6884_z.jpg", 
+                    "width": 456, 
+                    "height": 640, 
+                    "is_primary": "0", 
+                    "image_id": "267436"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/267436_48d604827f2c6884_n.jpg", 
+                    "width": 228, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "267436"
+                }
+            }
+        ], 
+        "id": "18689717", 
+        "has_no_known_copyright": null, 
+        "woe:country_name": "United States", 
+        "dimensions": "99.1 x 69.9 cm (39 x 27 1/2 in. )", 
+        "title": "Poster, Stefan Sagmeister, AIGA Program, Detroit, 1999", 
+        "provenance": "Sagmeister, Inc.; 2000: acquired by Museum", 
+        "participants": [
+            {
+                "person_name": "Tom Schierlitz", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236631/", 
+                "role_id": "35236631", 
+                "role_name": "Photographer", 
+                "person_date": "", 
+                "role_display_name": "Photographed by", 
+                "person_id": "18054443", 
+                "person_url": "https://collection.cooperhewitt.org/people/18054443/"
+            }, 
+            {
+                "person_name": "Martin Woodtli", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "", 
+                "role_display_name": "Designed by", 
+                "person_id": "18054441", 
+                "person_url": "https://collection.cooperhewitt.org/people/18054441/"
+            }, 
+            {
+                "person_name": "Sagmeister Inc.", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35351535/", 
+                "role_id": "35351535", 
+                "role_name": "Donor", 
+                "person_date": "New York, New York, USA, founded 1993", 
+                "role_display_name": "Donated by", 
+                "person_id": "18054405", 
+                "person_url": "https://collection.cooperhewitt.org/people/18054405/"
+            }, 
+            {
+                "person_name": "Stefan Sagmeister", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236787/", 
+                "role_id": "35236787", 
+                "role_name": "Art Director", 
+                "person_date": "Austrian, b. 1962", 
+                "role_display_name": "Art Director:", 
+                "person_id": "18052911", 
+                "person_url": "https://collection.cooperhewitt.org/people/18052911/"
+            }
+        ], 
+        "decade": "1990", 
+        "label_text": null, 
+        "woe:country": "23424977", 
+        "dimensions_raw": {
+            "width": [
+                "69.90", 
+                "centimeters"
+            ], 
+            "height": [
+                "99.10", 
+                "centimeters"
+            ]
+        }, 
+        "department_id": "35347493", 
+        "title_raw": "Stefan Sagmeister, AIGA Program, Detroit", 
+        "justification": "Stefan Sagmeister is one of the most exciting graphic designers working today. This design is part of a group of objects proposed for acquisition that represents some of his best work from the mid-1990s to the present (2000).\nSagmeister was born in Austria and studied design in Austria and New York. He worked for Leo Burnett in Hong Kong and for M& Co. in New York before establishing his own New York-based firm in 1993. Since the mid-1990s, Sagmeister has been in demand as a CD cover designer due to his innovative aesthetic sensibility. His design work for the music industry has been recognized with both Grammy awards and design awards and is highly regarded by his clients (including Mick Jagger, Aerosmith, Lou Reed, Pat Metheny, and David Byrne) and the public. He has designed books with Lou Reed and David Byrne and, currently, is working on a book about his own work called Made You Look (to be published by Booth-Clibborn in March 2001).\nEven though much of today's graphic design is made via computer, Sagmeister deliberately emphasizes the physicality of the body—often through handwriting and mark making—to reinforce the humanity of the design process and the human scale of interpersonal communication. Design is created by and for people, not machines. This is most literally manifested in his AIGA Detroit poster design, for which Sagmeister carved the program information onto his body. Sagmeister’s designs also invite participation, such as encouraging AIGA designers to personalize a 1997 New Orleans conference poster. His business card designs are also engineered for interaction—whether pulling out a card from its op art sleeve or using a pin hole to mimic a photographer's selective eye. His CD designs often involve an invented game or symbolic system for the consumer to play and solve as they listen to the music, as represented in his work for David Byrne and Pat Metheny.\nThe museum wishes to selectively acquire important design items to exemplify work by today's leading designers, particularly those who were represented in the museum's National Design Triennial in 2000. To demonstrate the variety of ways Sagmeister introduces a physical, personal, and interactive sensibility into his graphic design, this selection of his recent work is recommended for acquisition: two posters, a promotional brochure, three CD covers/packaging, two business cards, and a pop-up promotional postcard. Many of the pieces were exhibited in the Triennial.", 
+        "media_id": "35399021", 
+        "description": "Poster is both announcement of an AIGA program and a self portrait of the designer.  Color photographic reproduction of designer shown from mouth to lower waist and holding package of \"Duane Reade\" brand band-aids in right hand against red drapery.  Text is inscribed on body with X-acto knife. Bandage below his right nipple region.", 
+        "creditline": "Gift of Sagmeister, Inc.", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "1999", 
+        "url": "https://collection.cooperhewitt.org/objects/18689717/", 
+        "type": "poster", 
+        "accession_number": "2000-61-4", 
+        "year_end": 1999, 
+        "signed": null, 
+        "inscribed": "Inscribed on chest, STEFAN/SAGMIESter/ AIGA DETROIT/ & CRANBROOK/ ACADEMY/ OF/ ART/ Style=FART/ THURSDAY, FEB 25, 1999/ de SALLE Auditorium/ AT CRANBROOK/ 6:30 pm.  Inscribed on his right side of waist, DONATIONS: PRINTING BY GRAPHIC/ ENTREPRISES/ PAPER BY NATIONWIDE/ PAPERS/ ENGRAVING BY ADGRAVES/ PHOTO BY  TOM/ SCHIERLITZ. Inscribed on his left side of waist, SPONSORS:/ BLACK WHITE & COLORS/ ARMSTRONG/WHITE/ NATIONWIDE/ PAPERS. Vertically inscribed on right arm, AIGA MEMBERS FREE, NON-MEMBERS $5./ $5.--.", 
+        "period_id": null, 
+        "year_acquired": "2000", 
+        "woe:country_id": "23424977"
+    }
+}

@@ -1,0 +1,120 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": "While sketching ideas for a poster to announce the annual Beaux Arts Ball at the Architectural League of New York in 1999, graphic designer Michael Bierut realized that the words in that year’s theme, “Light Years,” had five letters each. He thought to overlay them. Nicole Trice, then an intern at Pentagram —an international design firm where Bierut has been a partner since 1990 —  mixed Bierut’s simple concept with digital effects. Using Photoshop to create a solution implying light, shadow, and transparency, her collaboration with Bierut produced an image rich with implied temporality. Overlapping the two words in a white font —Interstate designed by Tobias Frere-Jones  —created a luminescent effect that seems to flit across the black background the way film titles energetically come to life from old movie projectors. The poster even played a supporting role in Steven Soderbergh’s film Side Effects (2012), which was partially shot in the New York offices of Pentagram.", 
+        "year_start": 1999, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": "offset lithograph on white wove paper", 
+        "tms:id": "230991", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/26375_42a7631a4cb7bac7_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "26375"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/26375_42a7631a4cb7bac7_b.jpg", 
+                    "width": 1024, 
+                    "height": 638, 
+                    "is_primary": "1", 
+                    "image_id": "26375"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/26375_42a7631a4cb7bac7_d.gif", 
+                    "width": 320, 
+                    "height": 199, 
+                    "is_primary": "1", 
+                    "image_id": "26375"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/26375_42a7631a4cb7bac7_z.jpg", 
+                    "width": 640, 
+                    "height": 399, 
+                    "is_primary": "1", 
+                    "image_id": "26375"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/26375_42a7631a4cb7bac7_n.jpg", 
+                    "width": 320, 
+                    "height": 199, 
+                    "is_primary": "1", 
+                    "image_id": "26375"
+                }
+            }
+        ], 
+        "id": "18710261", 
+        "has_no_known_copyright": null, 
+        "woe:country_name": "United States", 
+        "dimensions": "59.7 x 97.8 cm (23 1/2 x 38 1/2 in.)", 
+        "title": "Poster, LIGHT/YEARS, 1999", 
+        "provenance": "Michael Bierut; 2007: acquired by Museum", 
+        "participants": [
+            {
+                "person_name": "Michael Bierut", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35351535/", 
+                "role_id": "35351535", 
+                "role_name": "Donor", 
+                "person_date": "American, b. 1957", 
+                "role_display_name": "Donated by", 
+                "person_id": "18049223", 
+                "person_url": "https://collection.cooperhewitt.org/people/18049223/"
+            }, 
+            {
+                "person_name": "Michael Bierut", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "American, b. 1957", 
+                "role_display_name": "Designed by", 
+                "person_id": "18049223", 
+                "person_url": "https://collection.cooperhewitt.org/people/18049223/"
+            }, 
+            {
+                "person_name": "Architectural League of New York", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236667/", 
+                "role_id": "35236667", 
+                "role_name": "Client", 
+                "person_date": "New York, New York, USA", 
+                "role_display_name": "Client:", 
+                "person_id": "18048113", 
+                "person_url": "https://collection.cooperhewitt.org/people/18048113/"
+            }
+        ], 
+        "decade": "1990", 
+        "label_text": "While sketching concepts for the poster, Bierut saw that “light” and “years” are both five-letter words, so he decided to run the two words through each other. The layers of text have been digitally manipulated to resemble projected light.", 
+        "woe:country": "23424977", 
+        "dimensions_raw": {
+            "width": [
+                "97.79", 
+                "centimeters"
+            ], 
+            "height": [
+                "59.69", 
+                "centimeters"
+            ]
+        }, 
+        "department_id": "35347493", 
+        "title_raw": "LIGHT/YEARS", 
+        "justification": null, 
+        "media_id": "35431673", 
+        "description": "Black and white poster composed of white sans serif font spelling the words \"Light\" and \"Years\" which are superimposed to create a flickering image. Produced for the  Architectural League's Beaux Arts Ball, March 13, 1999.", 
+        "creditline": "Gift of Michael Bierut", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "1999", 
+        "url": "https://collection.cooperhewitt.org/objects/18710261/", 
+        "type": "poster", 
+        "accession_number": "2007-12-2", 
+        "year_end": 1999, 
+        "signed": null, 
+        "inscribed": null, 
+        "period_id": null, 
+        "year_acquired": "2007", 
+        "woe:country_id": "23424977"
+    }
+}

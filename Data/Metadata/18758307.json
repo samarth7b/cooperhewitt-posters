@@ -1,0 +1,140 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": "This series of posters displays headshots of Che Guevara, a celebrated Marxist figure, printed in red and yellow (colors of the Soviet Communist flag) with a black stenciled overlay. Cornel Windlin uses street art techniques and highlights their placement within the highbrow setting of a museum. The immediacy associated with street art and activism calls for low-tech methods of design. This juxtaposition raises questions on the nature of Marxism within a normally bourgeois setting.", 
+        "year_start": 1998, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": "screenprint, stencil and black spray paint on wove paper", 
+        "tms:id": "255439", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/36996_b490dd1f7b6a1a3d_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "36996"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/36996_b490dd1f7b6a1a3d_b.jpg", 
+                    "width": 726, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "36996"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/36996_b490dd1f7b6a1a3d_d.gif", 
+                    "width": 227, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "36996"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/36996_b490dd1f7b6a1a3d_z.jpg", 
+                    "width": 454, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "36996"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/36996_b490dd1f7b6a1a3d_n.jpg", 
+                    "width": 227, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "36996"
+                }
+            }
+        ], 
+        "id": "18758307", 
+        "has_no_known_copyright": null, 
+        "woe:country_name": "Switzerland", 
+        "dimensions": "128 × 89.7 cm (50 3/8 × 35 5/16 in.)", 
+        "title": "Poster, Die Linke ins Museum, Hoffnung und Widerstand [The Left in the Museum, Hope and Resistance], ca. 1998", 
+        "provenance": "Sara and Marc Benda (acquired new and directly from designer, Cornel Windlin); 2010: acquired by Museum", 
+        "participants": [
+            {
+                "person_name": "Laurent Benner", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "Swiss, b. 1975", 
+                "role_display_name": "Designed by", 
+                "person_id": "18063607", 
+                "person_url": "https://collection.cooperhewitt.org/people/18063607/"
+            }, 
+            {
+                "person_name": "Museum für Gestaltung, Zürich", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236667/", 
+                "role_id": "35236667", 
+                "role_name": "Client", 
+                "person_date": "Zürich, Switzerland", 
+                "role_display_name": "Client:", 
+                "person_id": "18063557", 
+                "person_url": "https://collection.cooperhewitt.org/people/18063557/"
+            }, 
+            {
+                "person_name": "Cornel Windlin", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "Swiss, b. 1964", 
+                "role_display_name": "Designed by", 
+                "person_id": "18063543", 
+                "person_url": "https://collection.cooperhewitt.org/people/18063543/"
+            }, 
+            {
+                "person_name": "Marc Benda", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35351535/", 
+                "role_id": "35351535", 
+                "role_name": "Donor", 
+                "person_date": "", 
+                "role_display_name": "Donated by", 
+                "person_id": "18062523", 
+                "person_url": "https://collection.cooperhewitt.org/people/18062523/"
+            }, 
+            {
+                "person_name": "Sara Benda", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35351535/", 
+                "role_id": "35351535", 
+                "role_name": "Donor", 
+                "person_date": "", 
+                "role_display_name": "Donated by", 
+                "person_id": "18063205", 
+                "person_url": "https://collection.cooperhewitt.org/people/18063205/"
+            }
+        ], 
+        "decade": "1990", 
+        "label_text": "These posters for an exhibition about the history of political posters feature a screenprinted image of Ernesto “Che” Guevara, the Argentine revolutionary whose face became synonymous with leftist oppositional movements in the twentieth century. Variations of the poster were produced by directly spray-painting different messages and marks over Guevara’s portrait.", 
+        "woe:country": "23424957", 
+        "dimensions_raw": {
+            "width": [
+                "89.69", 
+                "centimeters"
+            ], 
+            "height": [
+                "127.79", 
+                "centimeters"
+            ]
+        }, 
+        "department_id": "35347493", 
+        "title_raw": "Die Linke ins Museum, Hoffnung und Widerstand [The Left in the Museum, Hope and Resistance]", 
+        "justification": null, 
+        "media_id": "35434613", 
+        "description": "On yellow ground, photo in red of Che Guevara, with black spray painted star over eye of Che and text: DIE / LINKE INS / MUSEUM.", 
+        "creditline": "Gift of Sara and Marc Benda", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "ca. 1998", 
+        "url": "https://collection.cooperhewitt.org/objects/18758307/", 
+        "type": "poster", 
+        "accession_number": "2010-21-50", 
+        "year_end": 1998, 
+        "signed": null, 
+        "inscribed": null, 
+        "period_id": null, 
+        "year_acquired": "2010", 
+        "woe:country_id": "23424957"
+    }
+}

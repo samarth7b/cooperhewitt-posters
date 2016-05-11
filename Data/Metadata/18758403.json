@@ -1,0 +1,203 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": 2001, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": "offset lithograph on wove paper", 
+        "tms:id": "255487", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/80960_bc5370c370dade5d_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "80960"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/80960_bc5370c370dade5d_b.jpg", 
+                    "width": 685, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "80960"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/80960_bc5370c370dade5d_d.gif", 
+                    "width": 214, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "80960"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/80960_bc5370c370dade5d_z.jpg", 
+                    "width": 428, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "80960"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/80960_bc5370c370dade5d_n.jpg", 
+                    "width": 214, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "80960"
+                }
+            }, 
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/253347_54f07920d5cd2dc9_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "0", 
+                    "image_id": "253347"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/253347_54f07920d5cd2dc9_b.jpg", 
+                    "width": 695, 
+                    "height": 1024, 
+                    "is_primary": "0", 
+                    "image_id": "253347"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/253347_54f07920d5cd2dc9_d.gif", 
+                    "width": 217, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "253347"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/253347_54f07920d5cd2dc9_z.jpg", 
+                    "width": 434, 
+                    "height": 640, 
+                    "is_primary": "0", 
+                    "image_id": "253347"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/253347_54f07920d5cd2dc9_n.jpg", 
+                    "width": 217, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "253347"
+                }
+            }, 
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/35203_0f2605711eae029c_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "0", 
+                    "image_id": "35203"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/35203_0f2605711eae029c_b.jpg", 
+                    "width": 701, 
+                    "height": 1024, 
+                    "is_primary": "0", 
+                    "image_id": "35203"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/35203_0f2605711eae029c_d.gif", 
+                    "width": 219, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "35203"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/35203_0f2605711eae029c_z.jpg", 
+                    "width": 438, 
+                    "height": 640, 
+                    "is_primary": "0", 
+                    "image_id": "35203"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/35203_0f2605711eae029c_n.jpg", 
+                    "width": 219, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "35203"
+                }
+            }
+        ], 
+        "id": "18758403", 
+        "has_no_known_copyright": null, 
+        "dimensions": "101.6 x 68.6 cm (40 x 27 in.)", 
+        "title": "Poster, The Man Who Wasn't There, 2001", 
+        "provenance": "Acquired from dealers, galleries and auction houses by Marc Benda.  Remained with Benda until 2010, when gifted to CHNDM.", 
+        "participants": [
+            {
+                "person_name": "Ethan Jesse Coen", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236787/", 
+                "role_id": "35236787", 
+                "role_name": "Art Director", 
+                "person_date": "American, b. 1957", 
+                "role_display_name": "Art Director:", 
+                "person_id": "18063641", 
+                "person_url": "https://collection.cooperhewitt.org/people/18063641/"
+            }, 
+            {
+                "person_name": "Joel David Coen", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236787/", 
+                "role_id": "35236787", 
+                "role_name": "Art Director", 
+                "person_date": "American, b. 1954", 
+                "role_display_name": "Art Director:", 
+                "person_id": "18063637", 
+                "person_url": "https://collection.cooperhewitt.org/people/18063637/"
+            }, 
+            {
+                "person_name": "Marc Benda", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35351535/", 
+                "role_id": "35351535", 
+                "role_name": "Donor", 
+                "person_date": "", 
+                "role_display_name": "Donated by", 
+                "person_id": "18062523", 
+                "person_url": "https://collection.cooperhewitt.org/people/18062523/"
+            }, 
+            {
+                "person_name": "Sara Benda", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35351535/", 
+                "role_id": "35351535", 
+                "role_name": "Donor", 
+                "person_date": "", 
+                "role_display_name": "Donated by", 
+                "person_id": "18063205", 
+                "person_url": "https://collection.cooperhewitt.org/people/18063205/"
+            }
+        ], 
+        "decade": "2000", 
+        "label_text": null, 
+        "woe:country": null, 
+        "dimensions_raw": {
+            "width": [
+                "68.58", 
+                "centimeters"
+            ], 
+            "height": [
+                "101.60", 
+                "centimeters"
+            ]
+        }, 
+        "department_id": "35347493", 
+        "title_raw": "The Man Who Wasn't There", 
+        "justification": null, 
+        "media_id": "35431963", 
+        "description": "On metallic grey background, with spotlights along vertical axis, on an incline, appear inscriptions, with the main word (\"Man\") filled in with black-and-white photographs of a woman, a man, and another man in a fedora hat, all looking secretive. The title, \"The Man Who Wasn't There,\" is in three-dimensional letters, the face in shades of black, and outlined in red, and the sides in yellow. The other inscriptions, in order of appearance, top-to-bottom, are: \"A film by / JOEL COEN and ETHAN COEN\", \"Billy Bob / THORNTON / Frances / McDORMAND / James / GANDOLFINI\", and credits in small type towards the bottom.", 
+        "creditline": "Gift of Sara and Marc Benda", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "2001", 
+        "url": "https://collection.cooperhewitt.org/objects/18758403/", 
+        "type": "poster", 
+        "accession_number": "2010-21-98", 
+        "year_end": 2001, 
+        "signed": null, 
+        "inscribed": null, 
+        "period_id": "35435877", 
+        "year_acquired": "2010", 
+        "woe:country_id": null
+    }
+}

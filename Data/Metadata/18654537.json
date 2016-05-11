@@ -1,0 +1,137 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": 1921, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": "lithograph on cream wove paper", 
+        "tms:id": "202234", 
+        "images": [
+            {
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/44276_495eb0cc5bd02b7f_b.jpg", 
+                    "width": 526, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "44276"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/44276_495eb0cc5bd02b7f_d.gif", 
+                    "width": 164, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "44276"
+                }, 
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/44276_495eb0cc5bd02b7f_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "44276"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/44276_495eb0cc5bd02b7f_n.jpg", 
+                    "width": 164, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "44276"
+                }, 
+                "x": {
+                    "url": "https://images.collection.cooperhewitt.org/44276_0de5c88764ca65c8_x.jpg", 
+                    "width": 2104, 
+                    "height": 4096, 
+                    "is_primary": "1", 
+                    "image_id": "44276"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/44276_495eb0cc5bd02b7f_z.jpg", 
+                    "width": 329, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "44276"
+                }
+            }
+        ], 
+        "id": "18654537", 
+        "has_no_known_copyright": "1", 
+        "woe:country_name": "Austria", 
+        "dimensions": "96.1 x 50. 2 cm (37 13/16 x 19 3/4 in.)", 
+        "title": "Poster, Wiener Werkstätte Mode Stoffe Kunstgewerbe Messaustellungen, Messepalast und die Kartnerstrasse 32 v. 41 [Public Exhibition of Fashion Fabrics Decorative Arts from the Vienna Workshops Exhibition Hall in the Karnterstrasse 32 v.41], 1921", 
+        "provenance": "1997: acquired by Museum (from Historical Design, Inc., New York)", 
+        "participants": [
+            {
+                "person_name": "Historical Design Inc.", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35352249/", 
+                "role_id": "35352249", 
+                "role_name": "Vendor", 
+                "person_date": "", 
+                "role_display_name": "Purchased from", 
+                "person_id": "18041381", 
+                "person_url": "https://collection.cooperhewitt.org/people/18041381/"
+            }, 
+            {
+                "person_name": "General Acquisitions Endowment", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35352247/", 
+                "role_id": "35352247", 
+                "role_name": "Fund", 
+                "person_date": "", 
+                "role_display_name": "Fund:", 
+                "person_id": "18048535", 
+                "person_url": "https://collection.cooperhewitt.org/people/18048535/"
+            }, 
+            {
+                "person_name": "Wiener Werkstätte", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236675/", 
+                "role_id": "35236675", 
+                "role_name": "For", 
+                "person_date": "Vienna, Austria, 1903 - 1932", 
+                "role_display_name": "Made for", 
+                "person_id": "18048101", 
+                "person_url": "https://collection.cooperhewitt.org/people/18048101/"
+            }, 
+            {
+                "person_name": "Dagobert Peche", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "Austrian, 1887–1923, active Vienna, 1911–1923", 
+                "role_display_name": "Designed by", 
+                "person_id": "18044265", 
+                "person_url": "https://collection.cooperhewitt.org/people/18044265/"
+            }
+        ], 
+        "decade": "1920", 
+        "label_text": null, 
+        "woe:country": "23424750", 
+        "dimensions_raw": {
+            "width": [
+                "71.10", 
+                "centimeters"
+            ], 
+            "height": [
+                "106.70", 
+                "centimeters"
+            ]
+        }, 
+        "department_id": "35347493", 
+        "title_raw": "Wiener Werkstätte Mode Stoffe Kunstgewerbe Messaustellungen, Messepalast und die Kartnerstrasse 32 v. 41 [Public Exhibition of Fashion Fabrics Decorative Arts from the Vienna Workshops Exhibition Hall in the Karnterstrasse 32 v.41]", 
+        "justification": null, 
+        "media_id": "35421311", 
+        "description": "On upper two-thirds of sheet: head of a woman whose hair is drawn as a grape vine with spear-shaped leaves.  She wears ribbon under chin, vine around cylindrical neck, and  veil removed to her left.  The poster advertizes an Wiener Werkstatte exhibition.  The text occupies the lower third of sheet, see inscriptions.", 
+        "creditline": "Museum purchase from General Acquisitions Endowment Fund", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "1921", 
+        "url": "https://collection.cooperhewitt.org/objects/18654537/", 
+        "type": "poster", 
+        "accession_number": "1997-102-1", 
+        "year_end": 1921, 
+        "signed": "Signed on plate, center right: D. PECHE", 
+        "inscribed": "Imprinted on stone, bottom third of sheet:  \nWIENER WERKSTATTE/C*M*B*H/MODE/STOFF/KUNSTGEWERBE; directly below in orange rectangle:  MESSEAUSSTELLUNGEN;/MESSEPALAST/UND/KARTNERSTRASSE 32 v. 41.", 
+        "period_id": null, 
+        "year_acquired": "1997", 
+        "woe:country_id": "23424750"
+    }
+}

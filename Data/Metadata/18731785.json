@@ -1,0 +1,157 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": "Eddy Desplanques, better known as WK or WK Interact, began his career as a street artist in his native small village in the South of France before moving to New York in the early 1990s, inspired by the city’s fast-paced motion and grittiness. In New York, he continued to practice illegal street art, cautiously selecting images and locations where he felt passersby could interact with his work, hence his pseudonym choice. He tagged his images “WK” with a stencil-painted fingerprint (his own). While continuing to treat buildings as his canvas, WK soon moved into the formal New York gallery scene as well as began commercial ventures for clients including Nike, Adidas, and Commes des Garçons, simultaneously existing between the worlds of art galleries, commercial products, and illegal street art. His work, typically black and white, incorporates elements of movement, both visual and actual. The artist twists a drawing or photograph while photocopying it to create what he has called a “streamlined moment-in-time appearance.” Not surprising of work that is made through duplication, this untitled image has different variations, though this example is arguably the most elegant. Similar versions can be found in the “Ecstasy Room” of a Copenhagen Hotel.", 
+        "year_start": 2003, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": "photo-offset lithograph on white paper", 
+        "tms:id": "241990", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/35456_dac8f02ffedc7496_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "35456"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/35456_dac8f02ffedc7496_b.jpg", 
+                    "width": 1024, 
+                    "height": 618, 
+                    "is_primary": "1", 
+                    "image_id": "35456"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/35456_dac8f02ffedc7496_d.gif", 
+                    "width": 320, 
+                    "height": 193, 
+                    "is_primary": "1", 
+                    "image_id": "35456"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/35456_dac8f02ffedc7496_z.jpg", 
+                    "width": 640, 
+                    "height": 386, 
+                    "is_primary": "1", 
+                    "image_id": "35456"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/35456_dac8f02ffedc7496_n.jpg", 
+                    "width": 320, 
+                    "height": 193, 
+                    "is_primary": "1", 
+                    "image_id": "35456"
+                }
+            }, 
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/253544_3edca532bd3ea1d6_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "0", 
+                    "image_id": "253544"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/253544_3edca532bd3ea1d6_b.jpg", 
+                    "width": 1024, 
+                    "height": 624, 
+                    "is_primary": "0", 
+                    "image_id": "253544"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/253544_3edca532bd3ea1d6_d.gif", 
+                    "width": 320, 
+                    "height": 195, 
+                    "is_primary": "0", 
+                    "image_id": "253544"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/253544_3edca532bd3ea1d6_z.jpg", 
+                    "width": 640, 
+                    "height": 390, 
+                    "is_primary": "0", 
+                    "image_id": "253544"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/253544_3edca532bd3ea1d6_n.jpg", 
+                    "width": 320, 
+                    "height": 195, 
+                    "is_primary": "0", 
+                    "image_id": "253544"
+                }
+            }
+        ], 
+        "id": "18731785", 
+        "has_no_known_copyright": null, 
+        "woe:country_name": "France", 
+        "dimensions": "60.6 x 101.5 cm (23 7/8 x 39 15/16 in.)", 
+        "title": "Poster, Untitled Black and White Woman's Face and Hair, 2003", 
+        "provenance": "Sara and Marc Benda; 2009: acquired by Museum", 
+        "participants": [
+            {
+                "person_name": "Sara Benda", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35351535/", 
+                "role_id": "35351535", 
+                "role_name": "Donor", 
+                "person_date": "", 
+                "role_display_name": "Donated by", 
+                "person_id": "18063205", 
+                "person_url": "https://collection.cooperhewitt.org/people/18063205/"
+            }, 
+            {
+                "person_name": "WK Interact", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "French, active United States", 
+                "role_display_name": "Designed by", 
+                "person_id": "18062865", 
+                "person_url": "https://collection.cooperhewitt.org/people/18062865/"
+            }, 
+            {
+                "person_name": "Marc Benda", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35351535/", 
+                "role_id": "35351535", 
+                "role_name": "Donor", 
+                "person_date": "", 
+                "role_display_name": "Donated by", 
+                "person_id": "18062523", 
+                "person_url": "https://collection.cooperhewitt.org/people/18062523/"
+            }
+        ], 
+        "decade": "2000", 
+        "label_text": null, 
+        "woe:country": "23424819", 
+        "dimensions_raw": {
+            "width": [
+                "101.50", 
+                "centimeters"
+            ], 
+            "height": [
+                "60.60", 
+                "centimeters"
+            ]
+        }, 
+        "department_id": "35347493", 
+        "title_raw": "Untitled Black and White Woman's Face and Hair", 
+        "justification": null, 
+        "media_id": "35433381", 
+        "description": "Black and white image of a woman from the shoulders up, looking to the left, with her black hair displayed around her head. White background.", 
+        "creditline": "Gift of Sara and Marc Benda", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "2003", 
+        "url": "https://collection.cooperhewitt.org/objects/18731785/", 
+        "type": "poster", 
+        "accession_number": "2009-20-13", 
+        "year_end": 2003, 
+        "signed": null, 
+        "inscribed": null, 
+        "period_id": null, 
+        "year_acquired": "2009", 
+        "woe:country_id": "23424819"
+    }
+}

@@ -1,0 +1,183 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": null, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": "screenprint on white paper", 
+        "tms:id": "200937", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/84954_ebbf1b402b902987_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "84954"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/84954_ebbf1b402b902987_b.jpg", 
+                    "width": 528, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "84954"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/84954_ebbf1b402b902987_d.gif", 
+                    "width": 165, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "84954"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/84954_ebbf1b402b902987_z.jpg", 
+                    "width": 330, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "84954"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/84954_ebbf1b402b902987_n.jpg", 
+                    "width": 165, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "84954"
+                }
+            }, 
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/268790_7d01ccfa2d4fa992_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "0", 
+                    "image_id": "268790"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/268790_7d01ccfa2d4fa992_b.jpg", 
+                    "width": 1024, 
+                    "height": 668, 
+                    "is_primary": "0", 
+                    "image_id": "268790"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/268790_7d01ccfa2d4fa992_d.gif", 
+                    "width": 320, 
+                    "height": 209, 
+                    "is_primary": "0", 
+                    "image_id": "268790"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/268790_7d01ccfa2d4fa992_z.jpg", 
+                    "width": 640, 
+                    "height": 417, 
+                    "is_primary": "0", 
+                    "image_id": "268790"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/268790_7d01ccfa2d4fa992_n.jpg", 
+                    "width": 320, 
+                    "height": 209, 
+                    "is_primary": "0", 
+                    "image_id": "268790"
+                }
+            }, 
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/84953_7c7dcd1a9faffcc8_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "0", 
+                    "image_id": "84953"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/84953_7c7dcd1a9faffcc8_b.jpg", 
+                    "width": 1024, 
+                    "height": 652, 
+                    "is_primary": "0", 
+                    "image_id": "84953"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/84953_7c7dcd1a9faffcc8_d.gif", 
+                    "width": 320, 
+                    "height": 204, 
+                    "is_primary": "0", 
+                    "image_id": "84953"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/84953_7c7dcd1a9faffcc8_z.jpg", 
+                    "width": 640, 
+                    "height": 407, 
+                    "is_primary": "0", 
+                    "image_id": "84953"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/84953_7c7dcd1a9faffcc8_n.jpg", 
+                    "width": 320, 
+                    "height": 204, 
+                    "is_primary": "0", 
+                    "image_id": "84953"
+                }
+            }
+        ], 
+        "id": "18651989", 
+        "has_no_known_copyright": null, 
+        "dimensions": "56.6 x 29.3 cm (22 5/16 x 11 9/16 in.)", 
+        "title": "Poster, Give Peace a Dance", 
+        "provenance": null, 
+        "participants": [
+            {
+                "person_name": "Art Chantry", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35351535/", 
+                "role_id": "35351535", 
+                "role_name": "Donor", 
+                "person_date": "American, b. 1954", 
+                "role_display_name": "Donated by", 
+                "person_id": "18041683", 
+                "person_url": "https://collection.cooperhewitt.org/people/18041683/"
+            }, 
+            {
+                "person_name": "Art Chantry", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "American, b. 1954", 
+                "role_display_name": "Designed by", 
+                "person_id": "18041683", 
+                "person_url": "https://collection.cooperhewitt.org/people/18041683/"
+            }
+        ], 
+        "decade": null, 
+        "label_text": null, 
+        "woe:country": null, 
+        "dimensions_raw": {
+            "width": [
+                "29.30", 
+                "centimeters"
+            ], 
+            "height": [
+                "56.60", 
+                "centimeters"
+            ]
+        }, 
+        "department_id": "35347493", 
+        "title_raw": "Give Peace a Dance", 
+        "justification": null, 
+        "media_id": "51684187", 
+        "description": "Poster advertising \"Give Peace a Dance\" 24-hour dance marathon at the Seattle Center House.  Bottom quarter of poster contains title and venue details.  \"GIVE\" and \"A\" printed in black, \"PEACE\" in green, \"DANCE\" in red.  Remainder is a continuation of 1995-69-81-a.  Three footprints (and one partial) printed in black (dance steps) with peace signs on the soles of the shoes are numbered clockwise from top right, (3), (1), and (2).  A green dotted lines crosses the partial print (top left), footprint (3) has two dotted lines, one each green and red, crossing at the heel.  Footprint (2) has an arcing dotted line through the middle connecting to the middle of footprint (1).  Footprint (1) has a dotted line crossing its heel.", 
+        "creditline": "Gift of Art Chantry", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": null, 
+        "url": "https://collection.cooperhewitt.org/objects/18651989/", 
+        "type": "poster", 
+        "accession_number": "1995-69-81-b", 
+        "year_end": null, 
+        "signed": null, 
+        "inscribed": null, 
+        "period_id": null, 
+        "year_acquired": "1995", 
+        "woe:country_id": null
+    }
+}

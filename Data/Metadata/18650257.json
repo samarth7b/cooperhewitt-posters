@@ -1,0 +1,157 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": 1985, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": "lithograph on paper", 
+        "tms:id": "200056", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/81532_a2818948243b8651_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "81532"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/81532_a2818948243b8651_b.jpg", 
+                    "width": 611, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "81532"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/81532_a2818948243b8651_d.gif", 
+                    "width": 191, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "81532"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/81532_a2818948243b8651_z.jpg", 
+                    "width": 382, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "81532"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/81532_a2818948243b8651_n.jpg", 
+                    "width": 191, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "81532"
+                }
+            }, 
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/268536_5fe9df809bb4c38f_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "0", 
+                    "image_id": "268536"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/268536_5fe9df809bb4c38f_b.jpg", 
+                    "width": 628, 
+                    "height": 1024, 
+                    "is_primary": "0", 
+                    "image_id": "268536"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/268536_5fe9df809bb4c38f_d.gif", 
+                    "width": 196, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "268536"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/268536_5fe9df809bb4c38f_z.jpg", 
+                    "width": 393, 
+                    "height": 640, 
+                    "is_primary": "0", 
+                    "image_id": "268536"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/268536_5fe9df809bb4c38f_n.jpg", 
+                    "width": 196, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "268536"
+                }
+            }
+        ], 
+        "id": "18650257", 
+        "has_no_known_copyright": null, 
+        "woe:country_name": "United States", 
+        "dimensions": "94 x 55.9 cm (37 x 22 in.)", 
+        "title": "Poster, Be There for the Cure, ca. 1995", 
+        "provenance": "1995: acquired by Museum", 
+        "participants": [
+            {
+                "person_name": "San Francisco AIDS Foundation", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35351535/", 
+                "role_id": "35351535", 
+                "role_name": "Donor", 
+                "person_date": "", 
+                "role_display_name": "Donated by", 
+                "person_id": "18041797", 
+                "person_url": "https://collection.cooperhewitt.org/people/18041797/"
+            }, 
+            {
+                "person_name": "Annie Leibovitz", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236631/", 
+                "role_id": "35236631", 
+                "role_name": "Photographer", 
+                "person_date": "American, b. 1949", 
+                "role_display_name": "Photographed by", 
+                "person_id": "51865267", 
+                "person_url": "https://collection.cooperhewitt.org/people/51865267/"
+            }, 
+            {
+                "person_name": "San Francisco AIDS Foundation", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236671/", 
+                "role_id": "35236671", 
+                "role_name": "Producer", 
+                "person_date": "", 
+                "role_display_name": "Produced by", 
+                "person_id": "18041797", 
+                "person_url": "https://collection.cooperhewitt.org/people/18041797/"
+            }
+        ], 
+        "decade": "1980", 
+        "label_text": null, 
+        "woe:country": "23424977", 
+        "dimensions_raw": {
+            "width": [
+                "55.90", 
+                "centimeters"
+            ], 
+            "height": [
+                "94.00", 
+                "centimeters"
+            ]
+        }, 
+        "department_id": "35347493", 
+        "title_raw": "Be There for the Cure", 
+        "justification": null, 
+        "media_id": "35419317", 
+        "description": "Twelve black and white photographs of different people. Below in black: Be Here for The Cure. Get Early Treatment for HIV.", 
+        "creditline": "Gift of the San Francisco AIDS Foundation", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "ca. 1995", 
+        "url": "https://collection.cooperhewitt.org/objects/18650257/", 
+        "type": "poster", 
+        "accession_number": "1995-155-1", 
+        "year_end": 1995, 
+        "signed": null, 
+        "inscribed": "Printed in black ink, lower margin: People Living with HIV: Photographed by Annie Leibovitz. Design by Earl Office. Funded by foundation, corporate, and individual donations. Distributed by Impact AIDS, 415-861-3397. San Francisco AIDS Foundation 1993.", 
+        "period_id": null, 
+        "year_acquired": "1995", 
+        "woe:country_id": "23424977"
+    }
+}

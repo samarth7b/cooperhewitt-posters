@@ -1,0 +1,91 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": 1981, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": null, 
+        "tms:id": "177492", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/200791_eb09b70ae08b16bb_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "200791"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/200791_eb09b70ae08b16bb_b.jpg", 
+                    "width": 571, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "200791"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/200791_eb09b70ae08b16bb_d.gif", 
+                    "width": 178, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "200791"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/200791_eb09b70ae08b16bb_z.jpg", 
+                    "width": 357, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "200791"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/200791_eb09b70ae08b16bb_n.jpg", 
+                    "width": 178, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "200791"
+                }
+            }
+        ], 
+        "id": "18617917", 
+        "has_no_known_copyright": null, 
+        "woe:country_name": "United States", 
+        "dimensions": null, 
+        "title": "Poster, Kelmscott Gallery, Chicago, 1981", 
+        "provenance": "1981: acquired by Museum", 
+        "participants": [
+            {
+                "person_name": "Frank Lloyd Wright", 
+                "role_url": "https://collection.cooperhewitt.org/roles/68299055/", 
+                "role_id": "68299055", 
+                "role_name": "Subject", 
+                "person_date": "American, 1867–1959", 
+                "role_display_name": "Subject:", 
+                "person_id": "18042049", 
+                "person_url": "https://collection.cooperhewitt.org/people/18042049/"
+            }
+        ], 
+        "decade": "1980", 
+        "label_text": null, 
+        "woe:country": "23424977", 
+        "dimensions_raw": null, 
+        "department_id": "35347493", 
+        "title_raw": "Kelmscott Gallery, Chicago", 
+        "justification": null, 
+        "media_id": "35371135", 
+        "description": null, 
+        "creditline": "Gift of Various Donors", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "1981", 
+        "url": "https://collection.cooperhewitt.org/objects/18617917/", 
+        "type": "poster", 
+        "accession_number": "1981-29-396", 
+        "year_end": 1981, 
+        "signed": null, 
+        "inscribed": null, 
+        "period_id": null, 
+        "year_acquired": "1981", 
+        "woe:country_id": "23424977"
+    }
+}

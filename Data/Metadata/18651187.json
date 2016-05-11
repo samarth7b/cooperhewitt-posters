@@ -1,0 +1,101 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": 1968, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": null, 
+        "tms:id": "200533", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/254902_0f945fb863d740ee_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "254902"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/254902_0f945fb863d740ee_b.jpg", 
+                    "width": 678, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "254902"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/254902_0f945fb863d740ee_d.gif", 
+                    "width": 212, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "254902"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/254902_0f945fb863d740ee_z.jpg", 
+                    "width": 423, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "254902"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/254902_0f945fb863d740ee_n.jpg", 
+                    "width": 212, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "254902"
+                }
+            }
+        ], 
+        "id": "18651187", 
+        "has_no_known_copyright": null, 
+        "woe:country_name": "United States", 
+        "dimensions": null, 
+        "title": "Poster, The Resistable Rise of Ar, 1968", 
+        "provenance": null, 
+        "participants": [
+            {
+                "person_name": "Mr. Joshua Mack", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35351535/", 
+                "role_id": "35351535", 
+                "role_name": "Donor", 
+                "person_date": "", 
+                "role_display_name": "Donated by", 
+                "person_id": "18041623", 
+                "person_url": "https://collection.cooperhewitt.org/people/18041623/"
+            }, 
+            {
+                "person_name": "Richard Linder", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "", 
+                "role_display_name": "Designed by", 
+                "person_id": "18535663", 
+                "person_url": "https://collection.cooperhewitt.org/people/18535663/"
+            }
+        ], 
+        "decade": "1960", 
+        "label_text": null, 
+        "woe:country": "23424977", 
+        "dimensions_raw": null, 
+        "department_id": "35347493", 
+        "title_raw": "The Resistable Rise of Ar", 
+        "justification": null, 
+        "media_id": "35371135", 
+        "description": null, 
+        "creditline": "Gift of Joshua Mack", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "1968", 
+        "url": "https://collection.cooperhewitt.org/objects/18651187/", 
+        "type": "poster", 
+        "accession_number": "1995-38-6", 
+        "year_end": 1968, 
+        "signed": null, 
+        "inscribed": null, 
+        "period_id": null, 
+        "year_acquired": "1995", 
+        "woe:country_id": "23424977"
+    }
+}

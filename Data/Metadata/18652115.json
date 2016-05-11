@@ -1,0 +1,101 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": 1970, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": "color lithograph", 
+        "tms:id": "201000", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/269774_58d8cc4aabcdd586_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "269774"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/269774_58d8cc4aabcdd586_b.jpg", 
+                    "width": 683, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "269774"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/269774_58d8cc4aabcdd586_d.gif", 
+                    "width": 213, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "269774"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/269774_58d8cc4aabcdd586_z.jpg", 
+                    "width": 427, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "269774"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/269774_58d8cc4aabcdd586_n.jpg", 
+                    "width": 213, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "269774"
+                }
+            }
+        ], 
+        "id": "18652115", 
+        "has_no_known_copyright": null, 
+        "woe:country_name": "United States", 
+        "dimensions": null, 
+        "title": "Poster, AIDS Should Die: Life has, ca. 1980–95", 
+        "provenance": null, 
+        "participants": [
+            {
+                "person_name": "Rick Valicenti", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35351535/", 
+                "role_id": "35351535", 
+                "role_name": "Donor", 
+                "person_date": "b. 1951", 
+                "role_display_name": "Donated by", 
+                "person_id": "18041675", 
+                "person_url": "https://collection.cooperhewitt.org/people/18041675/"
+            }, 
+            {
+                "person_name": "Rick Valicenti", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "b. 1951", 
+                "role_display_name": "Designed by", 
+                "person_id": "18041675", 
+                "person_url": "https://collection.cooperhewitt.org/people/18041675/"
+            }
+        ], 
+        "decade": "1970", 
+        "label_text": null, 
+        "woe:country": "23424977", 
+        "dimensions_raw": null, 
+        "department_id": "35347493", 
+        "title_raw": "AIDS Should Die: Life has", 
+        "justification": null, 
+        "media_id": "35389619", 
+        "description": null, 
+        "creditline": "Gift of Rick Valicenti", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "ca. 1980–95", 
+        "url": "https://collection.cooperhewitt.org/objects/18652115/", 
+        "type": "poster", 
+        "accession_number": "1995-73-5", 
+        "year_end": 1995, 
+        "signed": null, 
+        "inscribed": null, 
+        "period_id": null, 
+        "year_acquired": "1995", 
+        "woe:country_id": "23424977"
+    }
+}

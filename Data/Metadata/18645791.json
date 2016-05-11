@@ -1,0 +1,140 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": 1970, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": "lithograph on paper", 
+        "tms:id": "197799", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/202655_79a5f3f89e834ddb_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "202655"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/202655_79a5f3f89e834ddb_b.jpg", 
+                    "width": 692, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "202655"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/202655_79a5f3f89e834ddb_d.gif", 
+                    "width": 216, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "202655"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/202655_79a5f3f89e834ddb_z.jpg", 
+                    "width": 433, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "202655"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/202655_79a5f3f89e834ddb_n.jpg", 
+                    "width": 216, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "202655"
+                }
+            }
+        ], 
+        "id": "18645791", 
+        "has_no_known_copyright": null, 
+        "woe:country_name": "United States", 
+        "dimensions": "63.3 x 42 cm (24 15/16 x 16 9/16 in.)", 
+        "title": "Poster, Stomp Bombing El Salvador, ca. 1980", 
+        "provenance": "Steven Heller and Karrie Jacobs; 1993: acquired by Museum", 
+        "participants": [
+            {
+                "person_name": "Karrie Jacobs", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35351535/", 
+                "role_id": "35351535", 
+                "role_name": "Donor", 
+                "person_date": "", 
+                "role_display_name": "Donated by", 
+                "person_id": "18056647", 
+                "person_url": "https://collection.cooperhewitt.org/people/18056647/"
+            }, 
+            {
+                "person_name": "Steven Heller", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35351535/", 
+                "role_id": "35351535", 
+                "role_name": "Donor", 
+                "person_date": "American, b. 1950", 
+                "role_display_name": "Donated by", 
+                "person_id": "18041397", 
+                "person_url": "https://collection.cooperhewitt.org/people/18041397/"
+            }, 
+            {
+                "person_name": "LSA", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35352245/", 
+                "role_id": "35352245", 
+                "role_name": "Cataloguer", 
+                "person_date": "", 
+                "role_display_name": "Catalogued by", 
+                "person_id": "18048737", 
+                "person_url": "https://collection.cooperhewitt.org/people/18048737/"
+            }, 
+            {
+                "person_name": "Charles Cohan", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "", 
+                "role_display_name": "Designed by", 
+                "person_id": "18043223", 
+                "person_url": "https://collection.cooperhewitt.org/people/18043223/"
+            }, 
+            {
+                "person_name": "Laura King", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "", 
+                "role_display_name": "Designed by", 
+                "person_id": "18043221", 
+                "person_url": "https://collection.cooperhewitt.org/people/18043221/"
+            }
+        ], 
+        "decade": "1970", 
+        "label_text": null, 
+        "woe:country": "23424977", 
+        "dimensions_raw": {
+            "width": [
+                "42.00", 
+                "centimeters"
+            ], 
+            "height": [
+                "63.30", 
+                "centimeters"
+            ]
+        }, 
+        "department_id": "35347493", 
+        "title_raw": "Stomp Bombing El Salvador", 
+        "justification": null, 
+        "media_id": "35419317", 
+        "description": "Black and white photograph of man's face For Committee in Solidarity with the People of El Salvador. Text in white: STOP/ BOMBING/ EL SALVADOR", 
+        "creditline": "Gift of Steven Heller and Karrie Jacobs", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "ca. 1980", 
+        "url": "https://collection.cooperhewitt.org/objects/18645791/", 
+        "type": "poster", 
+        "accession_number": "1993-53-75", 
+        "year_end": 1990, 
+        "signed": null, 
+        "inscribed": "Imprinted in white ink on bottom: JOIN THE NATIONAL CAMPAIGN TO STOP THE U.S. SPONSORED BOMBING OF EL SALVADOR. / For information, contact Committee in Solidarity with the People of El Salvador (CISPES), (415) 861-0425 / based on design by Laura King and Charles Cohan", 
+        "period_id": null, 
+        "year_acquired": "1993", 
+        "woe:country_id": "23424977"
+    }
+}

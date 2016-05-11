@@ -1,0 +1,90 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": 1977, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": null, 
+        "tms:id": "167002", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/200955_84f8bf83e81c4374_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "200955"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/200955_84f8bf83e81c4374_b.jpg", 
+                    "width": 796, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "200955"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/200955_84f8bf83e81c4374_d.gif", 
+                    "width": 249, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "200955"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/200955_84f8bf83e81c4374_z.jpg", 
+                    "width": 497, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "200955"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/200955_84f8bf83e81c4374_n.jpg", 
+                    "width": 249, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "200955"
+                }
+            }
+        ], 
+        "id": "18512093", 
+        "has_no_known_copyright": null, 
+        "dimensions": null, 
+        "title": "Poster, Christmas at Carnegie, 1977", 
+        "provenance": null, 
+        "participants": [
+            {
+                "person_name": "Saul Steinberg", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "American, b. Romania, 1914–1999", 
+                "role_display_name": "Designed by", 
+                "person_id": "18042821", 
+                "person_url": "https://collection.cooperhewitt.org/people/18042821/"
+            }
+        ], 
+        "decade": "1970", 
+        "label_text": null, 
+        "woe:country": null, 
+        "dimensions_raw": null, 
+        "department_id": "35347493", 
+        "title_raw": "Christmas at Carnegie", 
+        "justification": null, 
+        "media_id": "35371135", 
+        "description": null, 
+        "creditline": "Gift of Unknown Donor", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "1977", 
+        "url": "https://collection.cooperhewitt.org/objects/18512093/", 
+        "type": "poster", 
+        "accession_number": "1980-32-971", 
+        "year_end": 1977, 
+        "signed": null, 
+        "inscribed": null, 
+        "period_id": null, 
+        "year_acquired": "1980", 
+        "woe:country_id": null
+    }
+}

@@ -1,0 +1,176 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": 1960, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": "offset lithograph on wove paper", 
+        "tms:id": "255464", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/36999_6abd55cf5a22a823_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "36999"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/36999_6abd55cf5a22a823_b.jpg", 
+                    "width": 726, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "36999"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/36999_6abd55cf5a22a823_d.gif", 
+                    "width": 227, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "36999"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/36999_6abd55cf5a22a823_z.jpg", 
+                    "width": 454, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "36999"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/36999_6abd55cf5a22a823_n.jpg", 
+                    "width": 227, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "36999"
+                }
+            }, 
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/253818_711c431ac914b19a_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "0", 
+                    "image_id": "253818"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/253818_711c431ac914b19a_b.jpg", 
+                    "width": 723, 
+                    "height": 1024, 
+                    "is_primary": "0", 
+                    "image_id": "253818"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/253818_711c431ac914b19a_d.gif", 
+                    "width": 226, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "253818"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/253818_711c431ac914b19a_z.jpg", 
+                    "width": 452, 
+                    "height": 640, 
+                    "is_primary": "0", 
+                    "image_id": "253818"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/253818_711c431ac914b19a_n.jpg", 
+                    "width": 226, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "253818"
+                }
+            }
+        ], 
+        "id": "18758357", 
+        "has_no_known_copyright": null, 
+        "dimensions": "83.6 x 58.9 cm (32 15/16 x 23 3/16 in.)", 
+        "title": "Poster, Die Grosse Illusion, 1960", 
+        "provenance": "Acquired from dealers, galleries and auction houses by Marc Benda.  Remained with Benda until 2010, when gifted to CHNDM.", 
+        "participants": [
+            {
+                "person_name": "Neue Filmkunst", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236667/", 
+                "role_id": "35236667", 
+                "role_name": "Client", 
+                "person_date": "German, founded 1953", 
+                "role_display_name": "Client:", 
+                "person_id": "18063573", 
+                "person_url": "https://collection.cooperhewitt.org/people/18063573/"
+            }, 
+            {
+                "person_name": "Paul R. Wilk, Ffm", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236673/", 
+                "role_id": "35236673", 
+                "role_name": "Printer", 
+                "person_date": "German, active ca. 1960", 
+                "role_display_name": "Printed by", 
+                "person_id": "18063511", 
+                "person_url": "https://collection.cooperhewitt.org/people/18063511/"
+            }, 
+            {
+                "person_name": "Jan Lenica", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "Polish, 1928 - 2001", 
+                "role_display_name": "Designed by", 
+                "person_id": "18062853", 
+                "person_url": "https://collection.cooperhewitt.org/people/18062853/"
+            }, 
+            {
+                "person_name": "Marc Benda", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35351535/", 
+                "role_id": "35351535", 
+                "role_name": "Donor", 
+                "person_date": "", 
+                "role_display_name": "Donated by", 
+                "person_id": "18062523", 
+                "person_url": "https://collection.cooperhewitt.org/people/18062523/"
+            }, 
+            {
+                "person_name": "Sara Benda", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35351535/", 
+                "role_id": "35351535", 
+                "role_name": "Donor", 
+                "person_date": "", 
+                "role_display_name": "Donated by", 
+                "person_id": "18063205", 
+                "person_url": "https://collection.cooperhewitt.org/people/18063205/"
+            }
+        ], 
+        "decade": "1960", 
+        "label_text": null, 
+        "woe:country": null, 
+        "dimensions_raw": {
+            "width": [
+                "58.90", 
+                "centimeters"
+            ], 
+            "height": [
+                "83.60", 
+                "centimeters"
+            ]
+        }, 
+        "department_id": "35347493", 
+        "title_raw": "Die Grosse Illusion", 
+        "justification": null, 
+        "media_id": "35431963", 
+        "description": "On white background, a painted sketch of a man's German military Imperial uniform, with the actual soldier supposedly inside a grey shadow. A print of two clasped hands covers the area where the mouth would be. Inscription is divided in two columns, at left and at right of the central uniform-figure. At left, starting at top: \"mit: Jean Gabin  Erich von Stroheim  Pierre Fresnay  Dita Parlo / Verleih: Neue Filmkunst Walter Kirchner / Pradikat Besonders Wertvoll\". At right, starting at top: \"Die Grosse Illusion / Jean Renoir Buch and Dialoge: Charles Spaak, Jean Renoir Kamera: Christian Matras Musik: Joseph Kosma Produktion: R.A.C. Film Paris\".", 
+        "creditline": "Gift of Sara and Marc Benda", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "1960", 
+        "url": "https://collection.cooperhewitt.org/objects/18758357/", 
+        "type": "poster", 
+        "accession_number": "2010-21-75", 
+        "year_end": 1960, 
+        "signed": null, 
+        "inscribed": null, 
+        "period_id": null, 
+        "year_acquired": "2010", 
+        "woe:country_id": null
+    }
+}

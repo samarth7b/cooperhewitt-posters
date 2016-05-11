@@ -1,0 +1,100 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": 1979, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": null, 
+        "tms:id": "177372", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/201481_9219fcecd3924d31_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "201481"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/201481_9219fcecd3924d31_b.jpg", 
+                    "width": 718, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "201481"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/201481_9219fcecd3924d31_d.gif", 
+                    "width": 224, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "201481"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/201481_9219fcecd3924d31_z.jpg", 
+                    "width": 449, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "201481"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/201481_9219fcecd3924d31_n.jpg", 
+                    "width": 224, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "201481"
+                }
+            }
+        ], 
+        "id": "18617679", 
+        "has_no_known_copyright": null, 
+        "woe:country_name": "United States", 
+        "dimensions": "56 x 38 cm (22 1/16 x 14 15/16 in.)", 
+        "title": "Poster, Three Centuries of Connecticut Folk Art, 1979", 
+        "provenance": "1981: acquired by Museum", 
+        "participants": [
+            {
+                "person_name": "William Wondriska", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "American, b. 1931", 
+                "role_display_name": "Designed by", 
+                "person_id": "34624575", 
+                "person_url": "https://collection.cooperhewitt.org/people/34624575/"
+            }
+        ], 
+        "decade": "1970", 
+        "label_text": null, 
+        "woe:country": "23424977", 
+        "dimensions_raw": {
+            "width": [
+                "38.00", 
+                "centimeters"
+            ], 
+            "height": [
+                "56.00", 
+                "centimeters"
+            ]
+        }, 
+        "department_id": "35347493", 
+        "title_raw": "Three Centuries of Connecticut Folk Art", 
+        "justification": null, 
+        "media_id": "35371135", 
+        "description": null, 
+        "creditline": "Gift of Various Donors", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "1979", 
+        "url": "https://collection.cooperhewitt.org/objects/18617679/", 
+        "type": "poster", 
+        "accession_number": "1981-29-289", 
+        "year_end": 1979, 
+        "signed": null, 
+        "inscribed": null, 
+        "period_id": null, 
+        "year_acquired": "1981", 
+        "woe:country_id": "23424977"
+    }
+}

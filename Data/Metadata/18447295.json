@@ -1,0 +1,110 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": 1948, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": "lithograph on paper", 
+        "tms:id": "134163", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/65129_779547b356510c5a_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "65129"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/65129_779547b356510c5a_b.jpg", 
+                    "width": 774, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "65129"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/65129_779547b356510c5a_d.gif", 
+                    "width": 242, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "65129"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/65129_779547b356510c5a_z.jpg", 
+                    "width": 483, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "65129"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/65129_779547b356510c5a_n.jpg", 
+                    "width": 242, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "65129"
+                }
+            }
+        ], 
+        "id": "18447295", 
+        "has_no_known_copyright": null, 
+        "woe:country_name": "United States", 
+        "dimensions": "101.8 x 76.7 cm (40 1/16 x 30 3/16 in.)", 
+        "title": "Poster, American Airlines Holland, 1948", 
+        "provenance": "Mrs. Edward McKnight Kauffer; 1963: acquired by Museum", 
+        "participants": [
+            {
+                "person_name": "Mrs. Edward McKnight Kauffer", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35351535/", 
+                "role_id": "35351535", 
+                "role_name": "Donor", 
+                "person_date": "", 
+                "role_display_name": "Donated by", 
+                "person_id": "18061849", 
+                "person_url": "https://collection.cooperhewitt.org/people/18061849/"
+            }, 
+            {
+                "person_name": "Edward McKnight Kauffer", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "American, active England, 1890–1954", 
+                "role_display_name": "Designed by", 
+                "person_id": "18041923", 
+                "person_url": "https://collection.cooperhewitt.org/people/18041923/"
+            }
+        ], 
+        "decade": "1940", 
+        "label_text": null, 
+        "woe:country": "23424977", 
+        "dimensions_raw": {
+            "width": [
+                "76.70", 
+                "centimeters"
+            ], 
+            "height": [
+                "101.80", 
+                "centimeters"
+            ]
+        }, 
+        "department_id": "35347493", 
+        "title_raw": "American Airlines Holland", 
+        "justification": null, 
+        "media_id": "35419317", 
+        "description": "On a green background, three large tulips, two yellow and one red, planted in the black ground. A windmill can be seen in the background. Above, in yellow: AMERICAN AIRLINES; below, in white: HOLLAND [AA logo].", 
+        "creditline": "Gift of Mrs. E. McKnight Kauffer", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "1948", 
+        "url": "https://collection.cooperhewitt.org/objects/18447295/", 
+        "type": "poster", 
+        "accession_number": "1963-39-149", 
+        "year_end": 1948, 
+        "signed": "Signed in green ink, lower right: E. McKnight Kauffer ‘48", 
+        "inscribed": null, 
+        "period_id": null, 
+        "year_acquired": "1963", 
+        "woe:country_id": "23424977"
+    }
+}

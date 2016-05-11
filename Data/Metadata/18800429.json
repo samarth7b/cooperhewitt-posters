@@ -1,0 +1,90 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": null, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": null, 
+        "tms:id": "180377", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/268598_812b61e6050eb929_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "268598"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/268598_812b61e6050eb929_b.jpg", 
+                    "width": 1024, 
+                    "height": 724, 
+                    "is_primary": "1", 
+                    "image_id": "268598"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/268598_812b61e6050eb929_d.gif", 
+                    "width": 320, 
+                    "height": 226, 
+                    "is_primary": "1", 
+                    "image_id": "268598"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/268598_812b61e6050eb929_z.jpg", 
+                    "width": 640, 
+                    "height": 452, 
+                    "is_primary": "1", 
+                    "image_id": "268598"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/268598_812b61e6050eb929_n.jpg", 
+                    "width": 320, 
+                    "height": 226, 
+                    "is_primary": "1", 
+                    "image_id": "268598"
+                }
+            }
+        ], 
+        "id": "18800429", 
+        "has_no_known_copyright": null, 
+        "dimensions": null, 
+        "title": "Poster", 
+        "provenance": null, 
+        "participants": [
+            {
+                "person_name": "Boris Bucan", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "", 
+                "role_display_name": "Designed by", 
+                "person_id": "18535511", 
+                "person_url": "https://collection.cooperhewitt.org/people/18535511/"
+            }
+        ], 
+        "decade": null, 
+        "label_text": null, 
+        "woe:country": null, 
+        "dimensions_raw": null, 
+        "department_id": "35347493", 
+        "title_raw": null, 
+        "justification": null, 
+        "media_id": "35371135", 
+        "description": null, 
+        "creditline": null, 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": null, 
+        "url": "https://collection.cooperhewitt.org/objects/18800429/", 
+        "type": "poster", 
+        "accession_number": "1983-24-1-a", 
+        "year_end": null, 
+        "signed": null, 
+        "inscribed": null, 
+        "period_id": null, 
+        "year_acquired": "1983", 
+        "woe:country_id": null
+    }
+}

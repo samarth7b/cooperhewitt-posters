@@ -1,0 +1,91 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": 1976, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": null, 
+        "tms:id": "163275", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/269361_5821036f7f50cefc_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "269361"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/269361_5821036f7f50cefc_b.jpg", 
+                    "width": 1024, 
+                    "height": 691, 
+                    "is_primary": "1", 
+                    "image_id": "269361"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/269361_5821036f7f50cefc_d.gif", 
+                    "width": 320, 
+                    "height": 216, 
+                    "is_primary": "1", 
+                    "image_id": "269361"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/269361_5821036f7f50cefc_z.jpg", 
+                    "width": 640, 
+                    "height": 432, 
+                    "is_primary": "1", 
+                    "image_id": "269361"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/269361_5821036f7f50cefc_n.jpg", 
+                    "width": 320, 
+                    "height": 216, 
+                    "is_primary": "1", 
+                    "image_id": "269361"
+                }
+            }
+        ], 
+        "id": "18504743", 
+        "has_no_known_copyright": null, 
+        "woe:country_name": "United States", 
+        "dimensions": null, 
+        "title": "Poster, The American Federation of Arts, 1976", 
+        "provenance": null, 
+        "participants": [
+            {
+                "person_name": "Winslow Homer", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236677/", 
+                "role_id": "35236677", 
+                "role_name": "After", 
+                "person_date": "American, 1836–1910", 
+                "role_display_name": "After", 
+                "person_id": "18041949", 
+                "person_url": "https://collection.cooperhewitt.org/people/18041949/"
+            }
+        ], 
+        "decade": "1970", 
+        "label_text": null, 
+        "woe:country": "23424977", 
+        "dimensions_raw": null, 
+        "department_id": "35347493", 
+        "title_raw": "The American Federation of Arts", 
+        "justification": null, 
+        "media_id": "35371135", 
+        "description": "American Mater Drawings and Watercolors. Image by Winslow Homer.", 
+        "creditline": "Gift of Unknown Donor", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "1976", 
+        "url": "https://collection.cooperhewitt.org/objects/18504743/", 
+        "type": "poster", 
+        "accession_number": "1980-32-1012", 
+        "year_end": 1976, 
+        "signed": null, 
+        "inscribed": null, 
+        "period_id": null, 
+        "year_acquired": "1980", 
+        "woe:country_id": "23424977"
+    }
+}

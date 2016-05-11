@@ -1,0 +1,150 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": "In the Russian language, the words “red” and “beautiful” share an etymological root. This photomontage propaganda poster promoting a political rally highlights the importance of red to Soviet identity. It features women at work in the textile industry wearing the red headscarves associated with socialist pioneers.", 
+        "year_start": 1930, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": "lithograph on paper", 
+        "tms:id": "194627", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/90757_4bb7b2de3c759b38_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "90757"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/90757_4bb7b2de3c759b38_b.jpg", 
+                    "width": 684, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "90757"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/90757_4bb7b2de3c759b38_d.gif", 
+                    "width": 214, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "90757"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/90757_4bb7b2de3c759b38_z.jpg", 
+                    "width": 428, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "90757"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/90757_4bb7b2de3c759b38_n.jpg", 
+                    "width": 214, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "90757"
+                }
+            }
+        ], 
+        "id": "18639527", 
+        "has_no_known_copyright": null, 
+        "woe:country_name": "Russia", 
+        "dimensions": "108.3 x 71.6 cm (42 5/8 x 28 3/16 in.)\nMat: 123.8 x 86.5 cm (48 3/4 x 34 1/16 in.)", 
+        "title": "Poster, International Women Workers Day, 1930", 
+        "provenance": "Barbara Leibowits (consigned to Rachel Adler Gallery NYC); 1992: acquired by Museum", 
+        "participants": [
+            {
+                "person_name": "Karin Zonis", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35352245/", 
+                "role_id": "35352245", 
+                "role_name": "Cataloguer", 
+                "person_date": "", 
+                "role_display_name": "Catalogued by", 
+                "person_id": "51676457", 
+                "person_url": "https://collection.cooperhewitt.org/people/51676457/"
+            }, 
+            {
+                "person_name": "Mr. George A. Hearn", 
+                "role_url": "https://collection.cooperhewitt.org/roles/51571025/", 
+                "role_id": "51571025", 
+                "role_name": "Funder", 
+                "person_date": "American, 1835–1913", 
+                "role_display_name": "Purchased with funds from:", 
+                "person_id": "18050353", 
+                "person_url": "https://collection.cooperhewitt.org/people/18050353/"
+            }, 
+            {
+                "person_name": "Barbara Leibowits", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35352249/", 
+                "role_id": "35352249", 
+                "role_name": "Vendor", 
+                "person_date": "", 
+                "role_display_name": "Purchased from", 
+                "person_id": "18041227", 
+                "person_url": "https://collection.cooperhewitt.org/people/18041227/"
+            }, 
+            {
+                "person_name": "Valentina N. Kulagina", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "Russian, 1902–1987", 
+                "role_display_name": "Designed by", 
+                "person_id": "18048559", 
+                "person_url": "https://collection.cooperhewitt.org/people/18048559/"
+            }, 
+            {
+                "person_name": "Main Administration for Literary and Publishing Affairs", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236659/", 
+                "role_id": "35236659", 
+                "role_name": "Distributor", 
+                "person_date": "born 1922", 
+                "role_display_name": "Distributed by", 
+                "person_id": "68774487", 
+                "person_url": "https://collection.cooperhewitt.org/people/68774487/"
+            }, 
+            {
+                "person_name": "Gosudarstvennoye Izdatelstvo (State Publishing House)", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236673/", 
+                "role_id": "35236673", 
+                "role_name": "Printer", 
+                "person_date": "", 
+                "role_display_name": "Printed by", 
+                "person_id": "68774485", 
+                "person_url": "https://collection.cooperhewitt.org/people/68774485/"
+            }
+        ], 
+        "decade": "1930", 
+        "label_text": "In the Russian language, the words “red” and “beautiful” share an etymological root. This photomontage propaganda poster promoting a political rally highlights the importance of red to Soviet identity. It features women at work in the textile industry wearing the red headscarves associated with socialist pioneers.", 
+        "woe:country": "23424936", 
+        "dimensions_raw": {
+            "width": [
+                "86.52", 
+                "centimeters"
+            ], 
+            "height": [
+                "123.83", 
+                "centimeters"
+            ]
+        }, 
+        "department_id": "35347493", 
+        "title_raw": "International Women Workers Day", 
+        "justification": null, 
+        "media_id": "35419317", 
+        "description": "Central image shows a factory scene with a prominent profile view of a factory woman, with arm outstretched  towards rows of thread.  At lower right corner, a photographic image shows rows of factory workers marching, holding red banners, and this image is placed in the poster to look as if the figures are coming off an assembly line.  At left and right edges are red borders, imprinted vertically with Russian words in white: Mhdunarodnyi [left];  den rabotnits [right].", 
+        "creditline": "Museum purchase through gift of George A. Hearn", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "1930", 
+        "url": "https://collection.cooperhewitt.org/objects/18639527/", 
+        "type": "poster", 
+        "accession_number": "1992-164-1", 
+        "year_end": 1930, 
+        "signed": null, 
+        "inscribed": "Inscribed on verso: 0 [with a diagonal slash through it]", 
+        "period_id": null, 
+        "year_acquired": "1992", 
+        "woe:country_id": "23424936"
+    }
+}

@@ -1,0 +1,137 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": 1979, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": "lithograph on paper", 
+        "tms:id": "177374", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/90083_c5825fd0b13edf83_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "90083"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/90083_c5825fd0b13edf83_b.jpg", 
+                    "width": 700, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "90083"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/90083_c5825fd0b13edf83_d.gif", 
+                    "width": 219, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "90083"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/90083_c5825fd0b13edf83_z.jpg", 
+                    "width": 437, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "90083"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/90083_c5825fd0b13edf83_n.jpg", 
+                    "width": 219, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "90083"
+                }
+            }, 
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/201483_5ff79f1890f5758c_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "0", 
+                    "image_id": "201483"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/201483_5ff79f1890f5758c_b.jpg", 
+                    "width": 711, 
+                    "height": 1024, 
+                    "is_primary": "0", 
+                    "image_id": "201483"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/201483_5ff79f1890f5758c_d.gif", 
+                    "width": 222, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "201483"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/201483_5ff79f1890f5758c_z.jpg", 
+                    "width": 444, 
+                    "height": 640, 
+                    "is_primary": "0", 
+                    "image_id": "201483"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/201483_5ff79f1890f5758c_n.jpg", 
+                    "width": 222, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "201483"
+                }
+            }
+        ], 
+        "id": "18617683", 
+        "has_no_known_copyright": null, 
+        "woe:country_name": "United States", 
+        "dimensions": "55.7 x 38 cm (21 15/16 x 14 15/16 in.)", 
+        "title": "Poster, 1979 Connecticut Special Olympics, 1979", 
+        "provenance": "1981: acquired by Museum", 
+        "participants": [
+            {
+                "person_name": "William Wondriska", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "American, b. 1931", 
+                "role_display_name": "Designed by", 
+                "person_id": "34624575", 
+                "person_url": "https://collection.cooperhewitt.org/people/34624575/"
+            }
+        ], 
+        "decade": "1970", 
+        "label_text": null, 
+        "woe:country": "23424977", 
+        "dimensions_raw": {
+            "width": [
+                "38.00", 
+                "centimeters"
+            ], 
+            "height": [
+                "55.70", 
+                "centimeters"
+            ]
+        }, 
+        "department_id": "35347493", 
+        "title_raw": "1979 Connecticut Special Olympics", 
+        "justification": null, 
+        "media_id": "35419317", 
+        "description": "Little boy with blue shirt, on which a yellow \"third place\" ribbon is pinned. In white text reads: 1979 / Connecticut / Special / Olympics / Central Connecticut / State College / New Britain / June 8, 9 & 10 / Hosts: / Greater Hartford / Jacees.In white text reads: 1979 / Connecticut / Special / Olympics / Central Connecticut / State College / New Britain / June 8, 9 & 10 / Hosts: / Greater Hartford / Jacees. United Technologies logo.", 
+        "creditline": "Gift of Various Donors", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "1979", 
+        "url": "https://collection.cooperhewitt.org/objects/18617683/", 
+        "type": "poster", 
+        "accession_number": "1981-29-290", 
+        "year_end": 1979, 
+        "signed": null, 
+        "inscribed": null, 
+        "period_id": null, 
+        "year_acquired": "1981", 
+        "woe:country_id": "23424977"
+    }
+}

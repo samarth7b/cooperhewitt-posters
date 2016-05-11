@@ -1,0 +1,109 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": 1997, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": "offset lithograph on white wove paper", 
+        "tms:id": "209746", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/257989_09ab3efd56230fde_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "257989"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/257989_09ab3efd56230fde_b.jpg", 
+                    "width": 685, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "257989"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/257989_09ab3efd56230fde_d.gif", 
+                    "width": 214, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "257989"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/257989_09ab3efd56230fde_z.jpg", 
+                    "width": 428, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "257989"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/257989_09ab3efd56230fde_n.jpg", 
+                    "width": 214, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "257989"
+                }
+            }
+        ], 
+        "id": "18668669", 
+        "has_no_known_copyright": null, 
+        "dimensions": "96.5 x 63.8 cm (38 x 25 1/8 in. )", 
+        "title": "Poster, The Temptation of St. Wolfgang / She a Capulet..., 1997", 
+        "provenance": null, 
+        "participants": [
+            {
+                "person_name": "Elliott Peter Earls", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "American, b. 1966", 
+                "role_display_name": "Designed by", 
+                "person_id": "18049533", 
+                "person_url": "https://collection.cooperhewitt.org/people/18049533/"
+            }, 
+            {
+                "person_name": "Elliott Peter Earls", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35351535/", 
+                "role_id": "35351535", 
+                "role_name": "Donor", 
+                "person_date": "American, b. 1966", 
+                "role_display_name": "Donated by", 
+                "person_id": "18049533", 
+                "person_url": "https://collection.cooperhewitt.org/people/18049533/"
+            }
+        ], 
+        "decade": "1990", 
+        "label_text": null, 
+        "woe:country": null, 
+        "dimensions_raw": {
+            "width": [
+                "63.80", 
+                "centimeters"
+            ], 
+            "height": [
+                "96.50", 
+                "centimeters"
+            ]
+        }, 
+        "department_id": "35347493", 
+        "title_raw": "The Temptation of St. Wolfgang / She a Capulet...", 
+        "justification": null, 
+        "media_id": "35431673", 
+        "description": "Academic study of a female torso surrounded by letters in the designer's characteristic 3-dimensional font spelling out the title. Other elements include line drawing of woman's back and a leering face wearing a jester's cap. Design in black and yellow.", 
+        "creditline": "Gift of Elliott Peter Earls", 
+        "on_display": null, 
+        "markings": "Additional text at left center:\"fin d'un monstre\"; at bottom center:\"1923-24\"; and along edge at left center: apres ernst/apres grünewald/ Benzo (Mercedes trademark)\"\nCopyright at left center;\"1997 elliott peter earls\"", 
+        "is_loan_object": 0, 
+        "date": "1997", 
+        "url": "https://collection.cooperhewitt.org/objects/18668669/", 
+        "type": "poster", 
+        "accession_number": "1999-35-1", 
+        "year_end": 1997, 
+        "signed": null, 
+        "inscribed": null, 
+        "period_id": null, 
+        "year_acquired": "1999", 
+        "woe:country_id": null
+    }
+}

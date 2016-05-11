@@ -1,0 +1,167 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": 1990, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": "screenprint on wove paper", 
+        "tms:id": "201148", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/81529_4bf1defbc28412d5_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "81529"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/81529_4bf1defbc28412d5_b.jpg", 
+                    "width": 724, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "81529"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/81529_4bf1defbc28412d5_d.gif", 
+                    "width": 226, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "81529"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/81529_4bf1defbc28412d5_z.jpg", 
+                    "width": 452, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "81529"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/81529_4bf1defbc28412d5_n.jpg", 
+                    "width": 226, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "81529"
+                }
+            }, 
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/268437_1d76b59de43fcdbd_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "0", 
+                    "image_id": "268437"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/268437_1d76b59de43fcdbd_b.jpg", 
+                    "width": 736, 
+                    "height": 1024, 
+                    "is_primary": "0", 
+                    "image_id": "268437"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/268437_1d76b59de43fcdbd_d.gif", 
+                    "width": 230, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "268437"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/268437_1d76b59de43fcdbd_z.jpg", 
+                    "width": 460, 
+                    "height": 640, 
+                    "is_primary": "0", 
+                    "image_id": "268437"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/268437_1d76b59de43fcdbd_n.jpg", 
+                    "width": 230, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "268437"
+                }
+            }
+        ], 
+        "id": "18652409", 
+        "has_no_known_copyright": null, 
+        "woe:country_name": "France", 
+        "dimensions": "84 x 59.4 cm (33 1/16 x 23 3/8 in.)", 
+        "title": "Poster, El Apocalipsis, ca. 1995", 
+        "provenance": "1995: acquired by Museum", 
+        "participants": [
+            {
+                "person_name": "Imagenes Contra El Sida", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35352249/", 
+                "role_id": "35352249", 
+                "role_name": "Vendor", 
+                "person_date": "", 
+                "role_display_name": "Purchased from", 
+                "person_id": "18041725", 
+                "person_url": "https://collection.cooperhewitt.org/people/18041725/"
+            }, 
+            {
+                "person_name": "Graficaza", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236673/", 
+                "role_id": "35236673", 
+                "role_name": "Printer", 
+                "person_date": "France, founded 1983", 
+                "role_display_name": "Printed by", 
+                "person_id": "51865265", 
+                "person_url": "https://collection.cooperhewitt.org/people/51865265/"
+            }, 
+            {
+                "person_name": "General Exhibitions Funds", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35352247/", 
+                "role_id": "35352247", 
+                "role_name": "Fund", 
+                "person_date": "", 
+                "role_display_name": "Fund:", 
+                "person_id": "18049091", 
+                "person_url": "https://collection.cooperhewitt.org/people/18049091/"
+            }, 
+            {
+                "person_name": "Pedro Torrent", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "Spanish, born 1945", 
+                "role_display_name": "Designed by", 
+                "person_id": "18049089", 
+                "person_url": "https://collection.cooperhewitt.org/people/18049089/"
+            }
+        ], 
+        "decade": "1990", 
+        "label_text": null, 
+        "woe:country": "23424819", 
+        "dimensions_raw": {
+            "width": [
+                "59.40", 
+                "centimeters"
+            ], 
+            "height": [
+                "84.00", 
+                "centimeters"
+            ]
+        }, 
+        "department_id": "35347493", 
+        "title_raw": "El Apocalipsis", 
+        "justification": null, 
+        "media_id": "35399029", 
+        "description": "On a ground of deep purple and yellow an upside down winged figure holding a sword, cringing teeth, yellow halo, red wings, and blue robes. A red and white starburst at his feet (a shield). Text in red and brown (in Latin and below in Spanish): et flebunt / et plangent / se super illam / reges terrae, / qui cum illa / fornicati sunt, / et in deliciis / uixerunt, / cum uiderint / fumum incendii / los reyes de la tierra / que con ella / se han corrompido, que en ella / han fornicado, / y en las delicias / han vivido, / sobre ella / lloraran / viendo el humo / de su incendio. Lower left: El Apocalipsis / o la Revelacion de / San Juan apostol.", 
+        "creditline": "Museum purchase from General Exhibitions Funds", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "ca. 1995", 
+        "url": "https://collection.cooperhewitt.org/objects/18652409/", 
+        "type": "poster", 
+        "accession_number": "1995-86-4", 
+        "year_end": 1995, 
+        "signed": "Signed in white ink, upper left: PERET", 
+        "inscribed": "Printed in brown ink, right edge: imagenes contra el sida artis. paris-france imprimé en France par Graficaza", 
+        "period_id": null, 
+        "year_acquired": "1995", 
+        "woe:country_id": "23424819"
+    }
+}

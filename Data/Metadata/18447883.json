@@ -1,0 +1,147 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": 1923, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": "offset lithograph on paper, lined", 
+        "tms:id": "134457", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/65781_8f5a9320819686ba_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "65781"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/65781_8f5a9320819686ba_b.jpg", 
+                    "width": 723, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "65781"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/65781_8f5a9320819686ba_d.gif", 
+                    "width": 226, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "65781"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/65781_8f5a9320819686ba_z.jpg", 
+                    "width": 452, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "65781"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/65781_8f5a9320819686ba_n.jpg", 
+                    "width": 226, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "65781"
+                }
+            }, 
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/221567_f57d6cac194badaf_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "0", 
+                    "image_id": "221567"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/221567_f57d6cac194badaf_b.jpg", 
+                    "width": 683, 
+                    "height": 1024, 
+                    "is_primary": "0", 
+                    "image_id": "221567"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/221567_f57d6cac194badaf_d.gif", 
+                    "width": 213, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "221567"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/221567_f57d6cac194badaf_z.jpg", 
+                    "width": 427, 
+                    "height": 640, 
+                    "is_primary": "0", 
+                    "image_id": "221567"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/221567_f57d6cac194badaf_n.jpg", 
+                    "width": 213, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "221567"
+                }
+            }
+        ], 
+        "id": "18447883", 
+        "has_no_known_copyright": null, 
+        "woe:country_name": "United Kingdom", 
+        "dimensions": "76.5 x 51 cm (30 1/8 x 20 1/16 in.)", 
+        "title": "Poster, Read 'Cricketer' in the Manchester Guardian, 1923", 
+        "provenance": "Mrs. Edward McKnight Kauffer; 1963: acquired by Museum", 
+        "participants": [
+            {
+                "person_name": "Mrs. Edward McKnight Kauffer", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35351535/", 
+                "role_id": "35351535", 
+                "role_name": "Donor", 
+                "person_date": "", 
+                "role_display_name": "Donated by", 
+                "person_id": "18061849", 
+                "person_url": "https://collection.cooperhewitt.org/people/18061849/"
+            }, 
+            {
+                "person_name": "Edward McKnight Kauffer", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "American, active England, 1890–1954", 
+                "role_display_name": "Designed by", 
+                "person_id": "18041923", 
+                "person_url": "https://collection.cooperhewitt.org/people/18041923/"
+            }
+        ], 
+        "decade": "1920", 
+        "label_text": null, 
+        "woe:country": "23424975", 
+        "dimensions_raw": {
+            "width": [
+                "51.00", 
+                "centimeters"
+            ], 
+            "height": [
+                "76.50", 
+                "centimeters"
+            ]
+        }, 
+        "department_id": "35347493", 
+        "title_raw": "Read 'Cricketer' in the Manchester Guardian", 
+        "justification": null, 
+        "media_id": "51685923", 
+        "description": "White line drawing of a cricket player with green and white helmet on a black ground. Above, right: READ. Below: “CRICKETER” / IN THE / MANCHESTER / GUARDIAN.", 
+        "creditline": "Gift of Mrs. E. McKnight Kauffer", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "1923", 
+        "url": "https://collection.cooperhewitt.org/objects/18447883/", 
+        "type": "poster", 
+        "accession_number": "1963-39-37", 
+        "year_end": 1923, 
+        "signed": "Signed in white ink, lower right: E. McKnight / Kauffer", 
+        "inscribed": "Printed in black ink, lower right: Manchester Guardian and Evening News Ltd.", 
+        "period_id": null, 
+        "year_acquired": "1963", 
+        "woe:country_id": "23424975"
+    }
+}

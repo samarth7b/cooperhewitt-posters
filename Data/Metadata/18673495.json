@@ -1,0 +1,147 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": "Designed in 1969, this poster features the manipulation of imagery and text, long before digital programs such as Photoshop made the process indispensable to graphic designers. Friedman merges two black-and-white photographs of the German artist Otto Piene’s art installation and adds text in a way that is reminiscent of the International Style. Although looking to establish his own unique style, Friedman borrows from early Modernist approaches to design at the turn of the twentieth century.   Friedman studied in Basel during the 1960s and Swiss design is a marked influence.", 
+        "year_start": 1969, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": "offset lithograph on paper", 
+        "tms:id": "212190", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/63941_8fcfd58519d459b1_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "63941"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/63941_8fcfd58519d459b1_b.jpg", 
+                    "width": 730, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "63941"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/63941_8fcfd58519d459b1_d.gif", 
+                    "width": 228, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "63941"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/63941_8fcfd58519d459b1_z.jpg", 
+                    "width": 456, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "63941"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/63941_8fcfd58519d459b1_n.jpg", 
+                    "width": 228, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "63941"
+                }
+            }, 
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/203019_a19896c024934220_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "0", 
+                    "image_id": "203019"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/203019_a19896c024934220_b.jpg", 
+                    "width": 741, 
+                    "height": 1024, 
+                    "is_primary": "0", 
+                    "image_id": "203019"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/203019_a19896c024934220_d.gif", 
+                    "width": 232, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "203019"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/203019_a19896c024934220_z.jpg", 
+                    "width": 463, 
+                    "height": 640, 
+                    "is_primary": "0", 
+                    "image_id": "203019"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/203019_a19896c024934220_n.jpg", 
+                    "width": 232, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "203019"
+                }
+            }
+        ], 
+        "id": "18673495", 
+        "has_no_known_copyright": null, 
+        "woe:country_name": "United States", 
+        "dimensions": "62.6 x 44.8 cm (24 5/8 x 17 5/8 in.)", 
+        "title": "Poster, Otto Piene,  A Field of Hot Air Sculpture over Fire in the Snow, 1969", 
+        "provenance": "Dan Friedman; Ken Friedman; 1997: acquired by Museum", 
+        "participants": [
+            {
+                "person_name": "Ken Friedman", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35351535/", 
+                "role_id": "35351535", 
+                "role_name": "Donor", 
+                "person_date": "", 
+                "role_display_name": "Donated by", 
+                "person_id": "18049807", 
+                "person_url": "https://collection.cooperhewitt.org/people/18049807/"
+            }, 
+            {
+                "person_name": "Dan Friedman", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "American, 1945–1995", 
+                "role_display_name": "Designed by", 
+                "person_id": "18041325", 
+                "person_url": "https://collection.cooperhewitt.org/people/18041325/"
+            }
+        ], 
+        "decade": "1960", 
+        "label_text": null, 
+        "woe:country": "23424977", 
+        "dimensions_raw": {
+            "width": [
+                "44.80", 
+                "centimeters"
+            ], 
+            "height": [
+                "62.60", 
+                "centimeters"
+            ]
+        }, 
+        "department_id": "35347493", 
+        "title_raw": "Otto Piene,  A Field of Hot Air Sculpture over Fire in the Snow", 
+        "justification": null, 
+        "media_id": "35399021", 
+        "description": "Black and white photograph of people holding up their arms to cloth sculptures above. Below, in white text: Otto Piene; A Field of Hot Air Sculpture / over Fire in the Snow / An Outdoor Sculptural Environment / with 25 polyethylene giant / balloons of different shapes and / sizes, 25 propane gas tanks with / open flames from adjustable jets, / and 35 attendants.; MIT Briggs Field behind / Kresge Auditorium, Cambridge / Thursday, January 23, 1969, 3-7 pm / In case of bad weather: January 24, 3-7 pm / Sponsored by German Center, Boston, and / Center for Advanced Visual Studies of the / Massachusetts Institute of Technology", 
+        "creditline": "Gift of Ken Friedman", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "1969", 
+        "url": "https://collection.cooperhewitt.org/objects/18673495/", 
+        "type": "poster", 
+        "accession_number": "1997-19-239", 
+        "year_end": 1969, 
+        "signed": null, 
+        "inscribed": "Inscribed in white ink, lower left: Photograph by Pe Wolf", 
+        "period_id": null, 
+        "year_acquired": "1997", 
+        "woe:country_id": "23424977"
+    }
+}

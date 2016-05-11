@@ -1,0 +1,204 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": 1939, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": "lithograph on newsprint", 
+        "tms:id": "221002", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/85448_fa5236ad142ab57f_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "85448"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/85448_fa5236ad142ab57f_b.jpg", 
+                    "width": 1024, 
+                    "height": 737, 
+                    "is_primary": "1", 
+                    "image_id": "85448"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/85448_fa5236ad142ab57f_d.gif", 
+                    "width": 320, 
+                    "height": 230, 
+                    "is_primary": "1", 
+                    "image_id": "85448"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/85448_fa5236ad142ab57f_z.jpg", 
+                    "width": 640, 
+                    "height": 460, 
+                    "is_primary": "1", 
+                    "image_id": "85448"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/85448_fa5236ad142ab57f_n.jpg", 
+                    "width": 320, 
+                    "height": 230, 
+                    "is_primary": "1", 
+                    "image_id": "85448"
+                }
+            }, 
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/202928_f9b87dc3f029b546_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "0", 
+                    "image_id": "202928"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/202928_f9b87dc3f029b546_b.jpg", 
+                    "width": 1024, 
+                    "height": 744, 
+                    "is_primary": "0", 
+                    "image_id": "202928"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/202928_f9b87dc3f029b546_d.gif", 
+                    "width": 320, 
+                    "height": 233, 
+                    "is_primary": "0", 
+                    "image_id": "202928"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/202928_f9b87dc3f029b546_z.jpg", 
+                    "width": 640, 
+                    "height": 465, 
+                    "is_primary": "0", 
+                    "image_id": "202928"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/202928_f9b87dc3f029b546_n.jpg", 
+                    "width": 320, 
+                    "height": 233, 
+                    "is_primary": "0", 
+                    "image_id": "202928"
+                }
+            }, 
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/14255_1e28d9bee3a2edbd_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "0", 
+                    "image_id": "14255"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/14255_1e28d9bee3a2edbd_b.jpg", 
+                    "width": 1024, 
+                    "height": 752, 
+                    "is_primary": "0", 
+                    "image_id": "14255"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/14255_1e28d9bee3a2edbd_d.gif", 
+                    "width": 320, 
+                    "height": 235, 
+                    "is_primary": "0", 
+                    "image_id": "14255"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/14255_1e28d9bee3a2edbd_z.jpg", 
+                    "width": 640, 
+                    "height": 470, 
+                    "is_primary": "0", 
+                    "image_id": "14255"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/14255_1e28d9bee3a2edbd_n.jpg", 
+                    "width": 320, 
+                    "height": 235, 
+                    "is_primary": "0", 
+                    "image_id": "14255"
+                }
+            }
+        ], 
+        "id": "18690957", 
+        "has_no_known_copyright": null, 
+        "woe:country_name": "Mexico", 
+        "dimensions": "45.1 x 59.7 cm (17 3/4 x 23 1/2 in. )", 
+        "title": "Poster, Exposicion Litografias (Exhibition of Lithographs), 1939", 
+        "provenance": "2000: acquired by Museum (from Roger Genser)", 
+        "participants": [
+            {
+                "person_name": "Galeria de Arte de la Universidad Nacional", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236667/", 
+                "role_id": "35236667", 
+                "role_name": "Client", 
+                "person_date": "Mexico", 
+                "role_display_name": "Client:", 
+                "person_id": "68775715", 
+                "person_url": "https://collection.cooperhewitt.org/people/68775715/"
+            }, 
+            {
+                "person_name": "General Acquisitions Endowment", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35352247/", 
+                "role_id": "35352247", 
+                "role_name": "Fund", 
+                "person_date": "", 
+                "role_display_name": "Fund:", 
+                "person_id": "18048535", 
+                "person_url": "https://collection.cooperhewitt.org/people/18048535/"
+            }, 
+            {
+                "person_name": "Francisco Dosamantes", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "Mexican, 1911-1986", 
+                "role_display_name": "Designed by", 
+                "person_id": "18535989", 
+                "person_url": "https://collection.cooperhewitt.org/people/18535989/"
+            }, 
+            {
+                "person_name": "Roger Genser (The Prints and the Pauper)", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35352249/", 
+                "role_id": "35352249", 
+                "role_name": "Vendor", 
+                "person_date": "", 
+                "role_display_name": "Purchased from", 
+                "person_id": "18041865", 
+                "person_url": "https://collection.cooperhewitt.org/people/18041865/"
+            }
+        ], 
+        "decade": "1930", 
+        "label_text": null, 
+        "woe:country": "23424900", 
+        "dimensions_raw": {
+            "width": [
+                "59.70", 
+                "centimeters"
+            ], 
+            "height": [
+                "45.10", 
+                "centimeters"
+            ]
+        }, 
+        "department_id": "35347493", 
+        "title_raw": "Exposicion Litografias (Exhibition of Lithographs)", 
+        "justification": "El Taller de Gráfica Popular (TGP), active in Mexico City from 1937 to 1977, was a printmaking workshop founded by Leopoldo Méndez after the dissolution of the plastic arts section of the Liga de Escritores y Artistas Revolucionarios (LEAR). The artists affiliated with the TGP, such as Alfredo Zalce, Francisco Mora, and Pablo O’Higgins, created strong political images in reaction to the oppressive government of General Lázaro Cardenas in the 1930s. In addition to posters, the artists’ collective created pamphlets and magazine illustrations against fascism and in support of trade unions and the Communist Party. Under the direction of Méndez, the workers’ struggle was depicted in woodcut and linocut that created a visual link between the important political prints of José Guadalupe Posada and social realism. The lithographic prints were produced at La Estampa Mexicana in Mexico City under the direction of Swiss architect Hannes Meyer from 1939 to 1949. The international reputation of the TGP grew with the establishment of workshops Italy, Brazil, and the United States (San Francisco, and New York City), as well as additional Mexican locations in Uruapan and Pátzcuaro.\nFrancisco Dosamantes specialized in a painting style rooted in social realism with a visual vocabulary influenced by the surrealists. He was affiliated with the ¡30-30! artists’ group in 1929 and studied lithography with Emilio Amero. This poster, featuring a powerful surrealist eye, announces the first exhibition of the TGP, which was held in May of 1939 at the art gallery of the National University of Mexico and featured 20 lithographs.\nThe acquisition of this poster will add to our collection of 20th-century political posters, which includes examples from the Spanish Civil War as well as American works from the first and second World Wars. This poster will be the first example in the museum’s collection of work by this important Mexican print collective. Early posters by the TGP are difficult to find as they were intended to be plastered on billboards and walls. This acquisition, which is one of the few TGP posters to reflect the surrealist influence from Europe, would significantly strengthen the museum’s holdings as an important work of modernist Latino graphic design.\nPrepared by Floramae McCarron Cates for Marilyn Symmes", 
+        "media_id": "35420685", 
+        "description": "Image is dominated by a large eye looking toward the right with the words EXPOSICION 20 inscribed in black in the eye ball. The word LITOGRAFIAS is inscribed on the lower lid. At upper left the words Taller de / Grafica / Popular are shown in black. Across the lower section of the poster in black: GALERIA DE ARTE DE LA UNIVERSIDAD NACIONAL. Below in red: DOLORES 11. - DEL 3 AL 13 DE MAYO.", 
+        "creditline": "Museum purchase from General Acquisitions Endowment Fund", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "1939", 
+        "url": "https://collection.cooperhewitt.org/objects/18690957/", 
+        "type": "poster", 
+        "accession_number": "2000-34-1", 
+        "year_end": 1939, 
+        "signed": "On stone right center (by tear duct): F.2.A.", 
+        "inscribed": null, 
+        "period_id": null, 
+        "year_acquired": "2000", 
+        "woe:country_id": "23424900"
+    }
+}

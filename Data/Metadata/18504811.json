@@ -1,0 +1,91 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": 1978, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": null, 
+        "tms:id": "163309", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/268367_97984a3cf4ed50dd_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "268367"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/268367_97984a3cf4ed50dd_b.jpg", 
+                    "width": 691, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "268367"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/268367_97984a3cf4ed50dd_d.gif", 
+                    "width": 216, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "268367"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/268367_97984a3cf4ed50dd_z.jpg", 
+                    "width": 432, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "268367"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/268367_97984a3cf4ed50dd_n.jpg", 
+                    "width": 216, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "268367"
+                }
+            }
+        ], 
+        "id": "18504811", 
+        "has_no_known_copyright": null, 
+        "woe:country_name": "United Kingdom", 
+        "dimensions": null, 
+        "title": "Poster, London 1900, 1978", 
+        "provenance": null, 
+        "participants": [
+            {
+                "person_name": "RIBA (Royal Institute of British Architects)", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236657/", 
+                "role_id": "35236657", 
+                "role_name": "Manufacturer", 
+                "person_date": "", 
+                "role_display_name": "Manufactured by", 
+                "person_id": "18047485", 
+                "person_url": "https://collection.cooperhewitt.org/people/18047485/"
+            }
+        ], 
+        "decade": "1970", 
+        "label_text": null, 
+        "woe:country": "23424975", 
+        "dimensions_raw": null, 
+        "department_id": "35347493", 
+        "title_raw": "London 1900", 
+        "justification": null, 
+        "media_id": "35371135", 
+        "description": "Image by E.A. Rickards", 
+        "creditline": "Gift of Unknown Donor", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "1978", 
+        "url": "https://collection.cooperhewitt.org/objects/18504811/", 
+        "type": "poster", 
+        "accession_number": "1980-32-1046", 
+        "year_end": 1978, 
+        "signed": null, 
+        "inscribed": null, 
+        "period_id": null, 
+        "year_acquired": "1980", 
+        "woe:country_id": "23424975"
+    }
+}

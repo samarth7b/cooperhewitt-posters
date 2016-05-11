@@ -1,0 +1,100 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": 1976, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": null, 
+        "tms:id": "177426", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/201059_1f270e662f39742d_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "201059"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/201059_1f270e662f39742d_b.jpg", 
+                    "width": 688, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "201059"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/201059_1f270e662f39742d_d.gif", 
+                    "width": 215, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "201059"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/201059_1f270e662f39742d_z.jpg", 
+                    "width": 430, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "201059"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/201059_1f270e662f39742d_n.jpg", 
+                    "width": 215, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "201059"
+                }
+            }
+        ], 
+        "id": "18617787", 
+        "has_no_known_copyright": null, 
+        "woe:country_name": "United States", 
+        "dimensions": "Overall: 43 x 28 cm (16 15/16 x 11 in.)", 
+        "title": "Poster, Aim & Squeeze, 1976", 
+        "provenance": null, 
+        "participants": [
+            {
+                "person_name": "Robert P. Gersin", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "American, 1929 - 1989", 
+                "role_display_name": "Designed by", 
+                "person_id": "18057029", 
+                "person_url": "https://collection.cooperhewitt.org/people/18057029/"
+            }
+        ], 
+        "decade": "1970", 
+        "label_text": null, 
+        "woe:country": "23424977", 
+        "dimensions_raw": {
+            "width": [
+                "28.00", 
+                "centimeters"
+            ], 
+            "height": [
+                "43.00", 
+                "centimeters"
+            ]
+        }, 
+        "department_id": "35347493", 
+        "title_raw": "Aim & Squeeze", 
+        "justification": null, 
+        "media_id": "35371135", 
+        "description": null, 
+        "creditline": "Gift of Various Donors", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "1976", 
+        "url": "https://collection.cooperhewitt.org/objects/18617787/", 
+        "type": "poster", 
+        "accession_number": "1981-29-337", 
+        "year_end": 1976, 
+        "signed": null, 
+        "inscribed": null, 
+        "period_id": null, 
+        "year_acquired": "1981", 
+        "woe:country_id": "23424977"
+    }
+}

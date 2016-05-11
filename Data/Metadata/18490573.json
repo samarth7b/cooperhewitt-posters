@@ -1,0 +1,80 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": null, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": null, 
+        "tms:id": "156164", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/268590_32adfcdb325d1284_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "268590"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/268590_32adfcdb325d1284_b.jpg", 
+                    "width": 904, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "268590"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/268590_32adfcdb325d1284_d.gif", 
+                    "width": 283, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "268590"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/268590_32adfcdb325d1284_z.jpg", 
+                    "width": 565, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "268590"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/268590_32adfcdb325d1284_n.jpg", 
+                    "width": 283, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "268590"
+                }
+            }
+        ], 
+        "id": "18490573", 
+        "has_no_known_copyright": null, 
+        "woe:country_name": "United States", 
+        "dimensions": null, 
+        "title": "Poster (USA)", 
+        "provenance": null, 
+        "participants": [], 
+        "decade": null, 
+        "label_text": null, 
+        "woe:country": "23424977", 
+        "dimensions_raw": null, 
+        "department_id": "35347493", 
+        "title_raw": null, 
+        "justification": null, 
+        "media_id": "35371135", 
+        "description": "Pace Gallery", 
+        "creditline": null, 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": null, 
+        "url": "https://collection.cooperhewitt.org/objects/18490573/", 
+        "type": "poster", 
+        "accession_number": "1976-25-8", 
+        "year_end": null, 
+        "signed": null, 
+        "inscribed": null, 
+        "period_id": null, 
+        "year_acquired": "1976", 
+        "woe:country_id": "23424977"
+    }
+}

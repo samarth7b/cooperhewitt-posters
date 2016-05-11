@@ -1,0 +1,128 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": null, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": null, 
+        "tms:id": "163439", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/99129_b60d23946a7c6260_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "99129"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/99129_b60d23946a7c6260_b.jpg", 
+                    "width": 762, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "99129"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/99129_b60d23946a7c6260_d.gif", 
+                    "width": 238, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "99129"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/99129_b60d23946a7c6260_z.jpg", 
+                    "width": 476, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "99129"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/99129_b60d23946a7c6260_n.jpg", 
+                    "width": 238, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "99129"
+                }
+            }, 
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/95551_7e144ddb3498a1f0_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "0", 
+                    "image_id": "95551"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/95551_7e144ddb3498a1f0_b.jpg", 
+                    "width": 762, 
+                    "height": 1024, 
+                    "is_primary": "0", 
+                    "image_id": "95551"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/95551_7e144ddb3498a1f0_d.gif", 
+                    "width": 238, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "95551"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/95551_7e144ddb3498a1f0_z.jpg", 
+                    "width": 476, 
+                    "height": 640, 
+                    "is_primary": "0", 
+                    "image_id": "95551"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/95551_7e144ddb3498a1f0_n.jpg", 
+                    "width": 238, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "95551"
+                }
+            }
+        ], 
+        "id": "18505071", 
+        "has_no_known_copyright": null, 
+        "woe:country_name": "United States", 
+        "dimensions": null, 
+        "title": "Poster, Hold Up Your End! Red Cross, ca. 1917?", 
+        "provenance": "1980: acquired by Museum", 
+        "participants": [
+            {
+                "person_name": "W. B. King", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "", 
+                "role_display_name": "Designed by", 
+                "person_id": "68263807", 
+                "person_url": "https://collection.cooperhewitt.org/people/68263807/"
+            }
+        ], 
+        "decade": null, 
+        "label_text": null, 
+        "woe:country": "23424977", 
+        "dimensions_raw": null, 
+        "department_id": "35347493", 
+        "title_raw": "Hold Up Your End! Red Cross", 
+        "justification": null, 
+        "media_id": "35371135", 
+        "description": null, 
+        "creditline": "Gift of Unknown Donor", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "ca. 1917?", 
+        "url": "https://collection.cooperhewitt.org/objects/18505071/", 
+        "type": "poster", 
+        "accession_number": "1980-32-1186", 
+        "year_end": null, 
+        "signed": null, 
+        "inscribed": null, 
+        "period_id": null, 
+        "year_acquired": "1980", 
+        "woe:country_id": "23424977"
+    }
+}

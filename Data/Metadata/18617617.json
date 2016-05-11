@@ -1,0 +1,137 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": null, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": "offset lithograph", 
+        "tms:id": "177341", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/50021_555d7e129f43dee7_sq.jpg", 
+                    "width": 300, 
+                    "height": 224, 
+                    "is_primary": "1", 
+                    "image_id": "50021"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/50021_555d7e129f43dee7_b.jpg", 
+                    "width": 1024, 
+                    "height": 224, 
+                    "is_primary": "1", 
+                    "image_id": "50021"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/50021_555d7e129f43dee7_d.gif", 
+                    "width": 320, 
+                    "height": 70, 
+                    "is_primary": "1", 
+                    "image_id": "50021"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/50021_555d7e129f43dee7_z.jpg", 
+                    "width": 640, 
+                    "height": 140, 
+                    "is_primary": "1", 
+                    "image_id": "50021"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/50021_555d7e129f43dee7_n.jpg", 
+                    "width": 320, 
+                    "height": 70, 
+                    "is_primary": "1", 
+                    "image_id": "50021"
+                }
+            }, 
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/255231_7482fc70bf64c201_sq.jpg", 
+                    "width": 300, 
+                    "height": 238, 
+                    "is_primary": "0", 
+                    "image_id": "255231"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/255231_7482fc70bf64c201_b.jpg", 
+                    "width": 1024, 
+                    "height": 238, 
+                    "is_primary": "0", 
+                    "image_id": "255231"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/255231_7482fc70bf64c201_d.gif", 
+                    "width": 320, 
+                    "height": 74, 
+                    "is_primary": "0", 
+                    "image_id": "255231"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/255231_7482fc70bf64c201_z.jpg", 
+                    "width": 640, 
+                    "height": 148, 
+                    "is_primary": "0", 
+                    "image_id": "255231"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/255231_7482fc70bf64c201_n.jpg", 
+                    "width": 320, 
+                    "height": 74, 
+                    "is_primary": "0", 
+                    "image_id": "255231"
+                }
+            }
+        ], 
+        "id": "18617617", 
+        "has_no_known_copyright": null, 
+        "woe:country_name": "United States", 
+        "dimensions": "H x W: 22 x 100.4 cm (8 11/16 x 39 1/2 in.)", 
+        "title": "Poster, Be Our Guest For a Test", 
+        "provenance": "1981: acquired by Museum", 
+        "participants": [
+            {
+                "person_name": "Jann Church", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "", 
+                "role_display_name": "Designed by", 
+                "person_id": "18049873", 
+                "person_url": "https://collection.cooperhewitt.org/people/18049873/"
+            }
+        ], 
+        "decade": null, 
+        "label_text": null, 
+        "woe:country": "23424977", 
+        "dimensions_raw": {
+            "width": [
+                "100.40", 
+                "centimeters"
+            ], 
+            "height": [
+                "22.00", 
+                "centimeters"
+            ]
+        }, 
+        "department_id": "35347493", 
+        "title_raw": "Be Our Guest For a Test", 
+        "justification": null, 
+        "media_id": "35399027", 
+        "description": "Poster depicting, in silhouette, a row of fuchsia-colored glass containers; the last one a martini glass with a green olive and white toothpick, on cobalt blue background. Text on the right, in white: Hosts: Institute for Biological Research and Development, Inc. / Medication to be tested: Ethyl Alcohol (C2H5OH), administered orally / with your choice of several complex organic congeners. / Laboratory: Test to be administered at the foot of the waterfall, in the / Crown Center Hotel; Kansas City, Missouri. / Date: Control Group will meet on March 21, 5:30-7:00. / Submit informed consent to Nurse Gray (regrets only). 714-752-6060 / Be Our Guest For a Test Motor vehicle operation following testing is contraindicated.", 
+        "creditline": "Gift of Various Donors", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": null, 
+        "url": "https://collection.cooperhewitt.org/objects/18617617/", 
+        "type": "poster", 
+        "accession_number": "1981-29-262", 
+        "year_end": null, 
+        "signed": null, 
+        "inscribed": "Inscribed in pink, written vertically, left: Design: Jann Church Advertising & Graphic Design, Inc., Newport Beach, CA.", 
+        "period_id": null, 
+        "year_acquired": "1981", 
+        "woe:country_id": "23424977"
+    }
+}

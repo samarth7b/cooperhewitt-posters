@@ -1,0 +1,109 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": 1960, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": "screenprint on white wove paper", 
+        "tms:id": "212222", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/268795_cbeb5262a86d2e81_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "268795"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/268795_cbeb5262a86d2e81_b.jpg", 
+                    "width": 768, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "268795"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/268795_cbeb5262a86d2e81_d.gif", 
+                    "width": 240, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "268795"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/268795_cbeb5262a86d2e81_z.jpg", 
+                    "width": 480, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "268795"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/268795_cbeb5262a86d2e81_n.jpg", 
+                    "width": 240, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "268795"
+                }
+            }
+        ], 
+        "id": "18673559", 
+        "has_no_known_copyright": null, 
+        "dimensions": "66.0 x 48.3 cm (26 x 19 in. )", 
+        "title": "Poster, Vivaldi, Fauré, DeFalla, Wagner Program - Yale Bach Society Chamber Orchestra, ca. 1970", 
+        "provenance": "From the collection of Dan Friedman", 
+        "participants": [
+            {
+                "person_name": "Ken Friedman", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35351535/", 
+                "role_id": "35351535", 
+                "role_name": "Donor", 
+                "person_date": "", 
+                "role_display_name": "Donated by", 
+                "person_id": "18049807", 
+                "person_url": "https://collection.cooperhewitt.org/people/18049807/"
+            }, 
+            {
+                "person_name": "Dan Friedman", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "American, 1945–1995", 
+                "role_display_name": "Designed by", 
+                "person_id": "18041325", 
+                "person_url": "https://collection.cooperhewitt.org/people/18041325/"
+            }
+        ], 
+        "decade": "1960", 
+        "label_text": null, 
+        "woe:country": null, 
+        "dimensions_raw": {
+            "width": [
+                "48.30", 
+                "centimeters"
+            ], 
+            "height": [
+                "66.00", 
+                "centimeters"
+            ]
+        }, 
+        "department_id": "35347493", 
+        "title_raw": "Vivaldi, Fauré, DeFalla, Wagner Program - Yale Bach Society Chamber Orchestra", 
+        "justification": null, 
+        "media_id": "35432313", 
+        "description": "Powder blue and green letters and underlines spaced across a white background. Text reads from upper center down the sheet: Vivaldi: / Concerto for Two Oboes / James Ryon / Roger Cole / soloists. At right: Fauré: / Incidental music for Péllas et Méllisande.  At center: De Falla: / Three Cornered Hat / Suite No. 1. At lower left: Wagner: / Siegfried Idyll.  The green underlinings thicken into rectangles at the bottom of the sheet.", 
+        "creditline": "Gift of Ken Friedman", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "ca. 1970", 
+        "url": "https://collection.cooperhewitt.org/objects/18673559/", 
+        "type": "poster", 
+        "accession_number": "1997-19-271", 
+        "year_end": 1980, 
+        "signed": null, 
+        "inscribed": "Imprinted in blue lower right corner: Friday May 4 / Sprague Hall 8:30 / Free. At upper center and right: Yale Bach Society Chamber Orchestra / William Harwood,  / conductor", 
+        "period_id": null, 
+        "year_acquired": "1997", 
+        "woe:country_id": null
+    }
+}

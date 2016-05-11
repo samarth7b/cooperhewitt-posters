@@ -1,0 +1,110 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": 1978, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": null, 
+        "tms:id": "163488", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/201280_f6c2ba7e44c0c433_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "201280"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/201280_f6c2ba7e44c0c433_b.jpg", 
+                    "width": 712, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "201280"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/201280_f6c2ba7e44c0c433_d.gif", 
+                    "width": 223, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "201280"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/201280_f6c2ba7e44c0c433_z.jpg", 
+                    "width": 445, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "201280"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/201280_f6c2ba7e44c0c433_n.jpg", 
+                    "width": 223, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "201280"
+                }
+            }
+        ], 
+        "id": "18505169", 
+        "has_no_known_copyright": null, 
+        "dimensions": null, 
+        "title": "Poster, The Eagle and the Raven, 1978", 
+        "provenance": "1980: acquired by Museum", 
+        "participants": [
+            {
+                "person_name": "Dial Press", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236673/", 
+                "role_id": "35236673", 
+                "role_name": "Printer", 
+                "person_date": "", 
+                "role_display_name": "Printed by", 
+                "person_id": "68263831", 
+                "person_url": "https://collection.cooperhewitt.org/people/68263831/"
+            }, 
+            {
+                "person_name": "Diane Dillon", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "", 
+                "role_display_name": "Designed by", 
+                "person_id": "68263829", 
+                "person_url": "https://collection.cooperhewitt.org/people/68263829/"
+            }, 
+            {
+                "person_name": "Leo Dillon", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "", 
+                "role_display_name": "Designed by", 
+                "person_id": "68263827", 
+                "person_url": "https://collection.cooperhewitt.org/people/68263827/"
+            }
+        ], 
+        "decade": "1970", 
+        "label_text": null, 
+        "woe:country": null, 
+        "dimensions_raw": null, 
+        "department_id": "35347493", 
+        "title_raw": "The Eagle and the Raven", 
+        "justification": null, 
+        "media_id": "35371135", 
+        "description": null, 
+        "creditline": "Gift of Unknown Donor", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "1978", 
+        "url": "https://collection.cooperhewitt.org/objects/18505169/", 
+        "type": "poster", 
+        "accession_number": "1980-32-1232", 
+        "year_end": 1978, 
+        "signed": null, 
+        "inscribed": null, 
+        "period_id": null, 
+        "year_acquired": "1980", 
+        "woe:country_id": null
+    }
+}

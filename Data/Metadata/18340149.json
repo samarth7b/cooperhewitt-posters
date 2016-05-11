@@ -1,0 +1,100 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": null, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": null, 
+        "tms:id": "53883", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/252731_1ce5c86700606c95_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "252731"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/252731_1ce5c86700606c95_b.jpg", 
+                    "width": 769, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "252731"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/252731_1ce5c86700606c95_d.gif", 
+                    "width": 240, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "252731"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/252731_1ce5c86700606c95_z.jpg", 
+                    "width": 481, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "252731"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/252731_1ce5c86700606c95_n.jpg", 
+                    "width": 240, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "252731"
+                }
+            }
+        ], 
+        "id": "18340149", 
+        "has_no_known_copyright": null, 
+        "dimensions": null, 
+        "title": "Poster", 
+        "provenance": null, 
+        "participants": [
+            {
+                "person_name": "Owen D. Young", 
+                "role_url": "https://collection.cooperhewitt.org/roles/51571159/", 
+                "role_id": "51571159", 
+                "role_name": "Agent", 
+                "person_date": "", 
+                "role_display_name": "Agent:", 
+                "person_id": "18059389", 
+                "person_url": "https://collection.cooperhewitt.org/people/18059389/"
+            }, 
+            {
+                "person_name": "General Electric Company", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35351535/", 
+                "role_id": "35351535", 
+                "role_name": "Donor", 
+                "person_date": "USA, founded 1892", 
+                "role_display_name": "Donated by", 
+                "person_id": "18048579", 
+                "person_url": "https://collection.cooperhewitt.org/people/18048579/"
+            }
+        ], 
+        "decade": null, 
+        "label_text": null, 
+        "woe:country": null, 
+        "dimensions_raw": null, 
+        "department_id": "35347493", 
+        "title_raw": null, 
+        "justification": null, 
+        "media_id": "35371135", 
+        "description": null, 
+        "creditline": "Gift of General Electric Company through Owen D. Young", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": null, 
+        "url": "https://collection.cooperhewitt.org/objects/18340149/", 
+        "type": "poster", 
+        "accession_number": "1935-24-31-a", 
+        "year_end": null, 
+        "signed": null, 
+        "inscribed": null, 
+        "period_id": null, 
+        "year_acquired": "1935", 
+        "woe:country_id": null
+    }
+}

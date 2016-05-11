@@ -1,0 +1,140 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": 1990, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": "lithograph on paper", 
+        "tms:id": "197803", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/202681_4f09e98739f51997_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "0", 
+                    "image_id": "202681"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/202681_4f09e98739f51997_b.jpg", 
+                    "width": 623, 
+                    "height": 1024, 
+                    "is_primary": "0", 
+                    "image_id": "202681"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/202681_4f09e98739f51997_d.gif", 
+                    "width": 195, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "202681"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/202681_4f09e98739f51997_z.jpg", 
+                    "width": 389, 
+                    "height": 640, 
+                    "is_primary": "0", 
+                    "image_id": "202681"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/202681_4f09e98739f51997_n.jpg", 
+                    "width": 195, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "202681"
+                }
+            }
+        ], 
+        "id": "18645799", 
+        "has_no_known_copyright": null, 
+        "woe:country_name": "United States", 
+        "dimensions": "63 × 37.3 cm (24 13/16 × 14 11/16 in.)", 
+        "title": "Poster, No Blood for Oil, 1990", 
+        "provenance": "Steven Heller and Karrie Jacobs; 1993: acquired by Museum", 
+        "participants": [
+            {
+                "person_name": "Karrie Jacobs", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35351535/", 
+                "role_id": "35351535", 
+                "role_name": "Donor", 
+                "person_date": "", 
+                "role_display_name": "Donated by", 
+                "person_id": "18056647", 
+                "person_url": "https://collection.cooperhewitt.org/people/18056647/"
+            }, 
+            {
+                "person_name": "Steven Heller", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35351535/", 
+                "role_id": "35351535", 
+                "role_name": "Donor", 
+                "person_date": "American, b. 1950", 
+                "role_display_name": "Donated by", 
+                "person_id": "18041397", 
+                "person_url": "https://collection.cooperhewitt.org/people/18041397/"
+            }, 
+            {
+                "person_name": "LSA", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35352245/", 
+                "role_id": "35352245", 
+                "role_name": "Cataloguer", 
+                "person_date": "", 
+                "role_display_name": "Catalogued by", 
+                "person_id": "18048737", 
+                "person_url": "https://collection.cooperhewitt.org/people/18048737/"
+            }, 
+            {
+                "person_name": "Steven Lyons", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236565/", 
+                "role_id": "35236565", 
+                "role_name": "Artist", 
+                "person_date": "", 
+                "role_display_name": "", 
+                "person_id": "18043227", 
+                "person_url": "https://collection.cooperhewitt.org/people/18043227/"
+            }, 
+            {
+                "person_name": "Keith R. Potter", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "", 
+                "role_display_name": "Designed by", 
+                "person_id": "18043225", 
+                "person_url": "https://collection.cooperhewitt.org/people/18043225/"
+            }
+        ], 
+        "decade": "1990", 
+        "label_text": null, 
+        "woe:country": "23424977", 
+        "dimensions_raw": {
+            "width": [
+                "37.30", 
+                "centimeters"
+            ], 
+            "height": [
+                "63.00", 
+                "centimeters"
+            ]
+        }, 
+        "department_id": "35347493", 
+        "title_raw": "No Blood for Oil", 
+        "justification": null, 
+        "media_id": "35419317", 
+        "description": "Print of gas tank/man with weapons For Emergency Campaign to Stop the War in the Middle East", 
+        "creditline": "Gift of Steven Heller and Karrie Jacobs", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "1990", 
+        "url": "https://collection.cooperhewitt.org/objects/18645799/", 
+        "type": "poster", 
+        "accession_number": "1993-53-79", 
+        "year_end": 1990, 
+        "signed": null, 
+        "inscribed": "Imprinted at bottom: \"For additional copies or more information contact: Global Exchange, 2141 Mission Street, Suite 202, San Francisco, CA 94110 (415) 255-7296 c 1990 Keith R. Potter Design / Steven Lyons Illustration Printing by InkWorks\"", 
+        "period_id": null, 
+        "year_acquired": "1993", 
+        "woe:country_id": "23424977"
+    }
+}

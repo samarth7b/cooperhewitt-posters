@@ -1,0 +1,121 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": 1990, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": null, 
+        "tms:id": "192476", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/256895_b411b9e6ad32c2be_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "256895"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/256895_b411b9e6ad32c2be_b.jpg", 
+                    "width": 723, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "256895"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/256895_b411b9e6ad32c2be_d.gif", 
+                    "width": 226, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "256895"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/256895_b411b9e6ad32c2be_z.jpg", 
+                    "width": 452, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "256895"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/256895_b411b9e6ad32c2be_n.jpg", 
+                    "width": 226, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "256895"
+                }
+            }
+        ], 
+        "id": "18635257", 
+        "has_no_known_copyright": null, 
+        "woe:country_name": "Germany", 
+        "dimensions": null, 
+        "title": "Poster, Poster for Exhibition of, 1990", 
+        "provenance": null, 
+        "participants": [
+            {
+                "person_name": "Internationales Design Zentrum", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35351535/", 
+                "role_id": "35351535", 
+                "role_name": "Donor", 
+                "person_date": "", 
+                "role_display_name": "Donated by", 
+                "person_id": "18059869", 
+                "person_url": "https://collection.cooperhewitt.org/people/18059869/"
+            }, 
+            {
+                "person_name": "Raymond Loewy", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236565/", 
+                "role_id": "35236565", 
+                "role_name": "Artist", 
+                "person_date": "American, b. France, 1893–1986", 
+                "role_display_name": "", 
+                "person_id": "18042217", 
+                "person_url": "https://collection.cooperhewitt.org/people/18042217/"
+            }, 
+            {
+                "person_name": "Bernard Stein", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "", 
+                "role_display_name": "Designed by", 
+                "person_id": "18042213", 
+                "person_url": "https://collection.cooperhewitt.org/people/18042213/"
+            }, 
+            {
+                "person_name": "Nicolaus Ott", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "b. 1949", 
+                "role_display_name": "Designed by", 
+                "person_id": "18042211", 
+                "person_url": "https://collection.cooperhewitt.org/people/18042211/"
+            }
+        ], 
+        "decade": "1990", 
+        "label_text": null, 
+        "woe:country": "23424829", 
+        "dimensions_raw": null, 
+        "department_id": "35347493", 
+        "title_raw": "Poster for Exhibition of", 
+        "justification": null, 
+        "media_id": "35371135", 
+        "description": null, 
+        "creditline": "Gift of Internationales Design Zentrum, Berlin", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "1990", 
+        "url": "https://collection.cooperhewitt.org/objects/18635257/", 
+        "type": "poster", 
+        "accession_number": "1990-87-1", 
+        "year_end": 1990, 
+        "signed": null, 
+        "inscribed": "Inscribed: Raymond Loewy 1893-1936, Pionier des Amerikanischen Industrie, Design, Akademie der Kunste, 17 Marz bis 22 April 1990", 
+        "period_id": null, 
+        "year_acquired": "1990", 
+        "woe:country_id": "23424829"
+    }
+}

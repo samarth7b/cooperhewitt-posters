@@ -1,0 +1,251 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": 1980, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": "screenprint on paper", 
+        "tms:id": "197699", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/101228_0098d00e9eec58fc_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "101228"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/101228_0098d00e9eec58fc_b.jpg", 
+                    "width": 1024, 
+                    "height": 692, 
+                    "is_primary": "1", 
+                    "image_id": "101228"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/101228_0098d00e9eec58fc_d.gif", 
+                    "width": 320, 
+                    "height": 216, 
+                    "is_primary": "1", 
+                    "image_id": "101228"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/101228_0098d00e9eec58fc_z.jpg", 
+                    "width": 640, 
+                    "height": 433, 
+                    "is_primary": "1", 
+                    "image_id": "101228"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/101228_0098d00e9eec58fc_n.jpg", 
+                    "width": 320, 
+                    "height": 216, 
+                    "is_primary": "1", 
+                    "image_id": "101228"
+                }
+            }, 
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/201815_5699ada47f830ac0_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "0", 
+                    "image_id": "201815"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/201815_5699ada47f830ac0_b.jpg", 
+                    "width": 1024, 
+                    "height": 696, 
+                    "is_primary": "0", 
+                    "image_id": "201815"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/201815_5699ada47f830ac0_d.gif", 
+                    "width": 320, 
+                    "height": 218, 
+                    "is_primary": "0", 
+                    "image_id": "201815"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/201815_5699ada47f830ac0_z.jpg", 
+                    "width": 640, 
+                    "height": 435, 
+                    "is_primary": "0", 
+                    "image_id": "201815"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/201815_5699ada47f830ac0_n.jpg", 
+                    "width": 320, 
+                    "height": 218, 
+                    "is_primary": "0", 
+                    "image_id": "201815"
+                }
+            }, 
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/95212_50d8e604bcc8e43b_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "0", 
+                    "image_id": "95212"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/95212_50d8e604bcc8e43b_b.jpg", 
+                    "width": 1024, 
+                    "height": 694, 
+                    "is_primary": "0", 
+                    "image_id": "95212"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/95212_50d8e604bcc8e43b_d.gif", 
+                    "width": 320, 
+                    "height": 217, 
+                    "is_primary": "0", 
+                    "image_id": "95212"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/95212_50d8e604bcc8e43b_z.jpg", 
+                    "width": 640, 
+                    "height": 434, 
+                    "is_primary": "0", 
+                    "image_id": "95212"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/95212_50d8e604bcc8e43b_n.jpg", 
+                    "width": 320, 
+                    "height": 217, 
+                    "is_primary": "0", 
+                    "image_id": "95212"
+                }
+            }, 
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/91816_9cbbb125ed4fbe89_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "0", 
+                    "image_id": "91816"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/91816_9cbbb125ed4fbe89_b.jpg", 
+                    "width": 1024, 
+                    "height": 683, 
+                    "is_primary": "0", 
+                    "image_id": "91816"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/91816_9cbbb125ed4fbe89_d.gif", 
+                    "width": 320, 
+                    "height": 213, 
+                    "is_primary": "0", 
+                    "image_id": "91816"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/91816_9cbbb125ed4fbe89_z.jpg", 
+                    "width": 640, 
+                    "height": 427, 
+                    "is_primary": "0", 
+                    "image_id": "91816"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/91816_9cbbb125ed4fbe89_n.jpg", 
+                    "width": 320, 
+                    "height": 213, 
+                    "is_primary": "0", 
+                    "image_id": "91816"
+                }
+            }
+        ], 
+        "id": "18645591", 
+        "has_no_known_copyright": null, 
+        "woe:country_name": "United States", 
+        "dimensions": "38.7 × 57.9 cm (15 1/4 × 22 13/16 in.)", 
+        "title": "Poster, Kurdestan..., 1980", 
+        "provenance": "Steven Heller and Karrie Jacobs; 1993: acquired by Museum", 
+        "participants": [
+            {
+                "person_name": "Rachael Romero", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "Australian, active USA, b. 1953", 
+                "role_display_name": "Designed by", 
+                "person_id": "69099631", 
+                "person_url": "https://collection.cooperhewitt.org/people/69099631/"
+            }, 
+            {
+                "person_name": "Steven Heller", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35351535/", 
+                "role_id": "35351535", 
+                "role_name": "Donor", 
+                "person_date": "American, b. 1950", 
+                "role_display_name": "Donated by", 
+                "person_id": "18041397", 
+                "person_url": "https://collection.cooperhewitt.org/people/18041397/"
+            }, 
+            {
+                "person_name": "Karrie Jacobs", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35351535/", 
+                "role_id": "35351535", 
+                "role_name": "Donor", 
+                "person_date": "", 
+                "role_display_name": "Donated by", 
+                "person_id": "18056647", 
+                "person_url": "https://collection.cooperhewitt.org/people/18056647/"
+            }, 
+            {
+                "person_name": "LSA", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35352245/", 
+                "role_id": "35352245", 
+                "role_name": "Cataloguer", 
+                "person_date": "", 
+                "role_display_name": "Catalogued by", 
+                "person_id": "18048737", 
+                "person_url": "https://collection.cooperhewitt.org/people/18048737/"
+            }, 
+            {
+                "person_name": "San Francisco Poster Brigade", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "San Francisco, California, USA, 1975–1982", 
+                "role_display_name": "Designed by", 
+                "person_id": "18042463", 
+                "person_url": "https://collection.cooperhewitt.org/people/18042463/"
+            }
+        ], 
+        "decade": "1980", 
+        "label_text": null, 
+        "woe:country": "23424977", 
+        "dimensions_raw": {
+            "width": [
+                "57.90", 
+                "centimeters"
+            ], 
+            "height": [
+                "38.70", 
+                "centimeters"
+            ]
+        }, 
+        "department_id": "35347493", 
+        "title_raw": "Kurdestan...", 
+        "justification": null, 
+        "media_id": "35431679", 
+        "description": "Print of Kurdish peasants with quote For Anti-WW3 Internationalist Art; a response to Iraqi persecution of the Kurds", 
+        "creditline": "Gift of Steven Heller and Karrie Jacobs", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "1980", 
+        "url": "https://collection.cooperhewitt.org/objects/18645591/", 
+        "type": "poster", 
+        "accession_number": "1993-53-110", 
+        "year_end": 1980, 
+        "signed": null, 
+        "inscribed": "Other text: \"\"Don't think we are just concerned about the problems of this one village, no. / We are concerned about the struggle of people in every country of the world against imperialism.\" / -a Kurdish peasant\" Inscription in blue ink at LL: \"S.F. Poster Brigade 1980.\" Inscription in black ink at LC: \"ANTI-WW# Internationalist Art PO Box 31428 San Francisco Ca. 94131 USA.\"", 
+        "period_id": null, 
+        "year_acquired": "1993", 
+        "woe:country_id": "23424977"
+    }
+}

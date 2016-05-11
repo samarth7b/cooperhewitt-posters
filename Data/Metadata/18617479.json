@@ -1,0 +1,137 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": 1978, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": "lithograph on paper", 
+        "tms:id": "177272", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/88916_3e8b6897b894d62b_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "88916"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/88916_3e8b6897b894d62b_b.jpg", 
+                    "width": 723, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "88916"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/88916_3e8b6897b894d62b_d.gif", 
+                    "width": 226, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "88916"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/88916_3e8b6897b894d62b_z.jpg", 
+                    "width": 452, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "88916"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/88916_3e8b6897b894d62b_n.jpg", 
+                    "width": 226, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "88916"
+                }
+            }, 
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/269773_b1649bb7cb6a2cea_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "0", 
+                    "image_id": "269773"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/269773_b1649bb7cb6a2cea_b.jpg", 
+                    "width": 743, 
+                    "height": 1024, 
+                    "is_primary": "0", 
+                    "image_id": "269773"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/269773_b1649bb7cb6a2cea_d.gif", 
+                    "width": 232, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "269773"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/269773_b1649bb7cb6a2cea_z.jpg", 
+                    "width": 464, 
+                    "height": 640, 
+                    "is_primary": "0", 
+                    "image_id": "269773"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/269773_b1649bb7cb6a2cea_n.jpg", 
+                    "width": 232, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "269773"
+                }
+            }
+        ], 
+        "id": "18617479", 
+        "has_no_known_copyright": null, 
+        "woe:country_name": "United States", 
+        "dimensions": "147.2 x 104 cm (57 15/16 x 40 15/16 in.)", 
+        "title": "Poster, Dancin', 1978", 
+        "provenance": "1981: acquired by Museum", 
+        "participants": [
+            {
+                "person_name": "Bob Gill", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "American, b. 1931", 
+                "role_display_name": "Designed by", 
+                "person_id": "68248399", 
+                "person_url": "https://collection.cooperhewitt.org/people/68248399/"
+            }
+        ], 
+        "decade": "1970", 
+        "label_text": null, 
+        "woe:country": "23424977", 
+        "dimensions_raw": {
+            "width": [
+                "104.00", 
+                "centimeters"
+            ], 
+            "height": [
+                "147.20", 
+                "centimeters"
+            ]
+        }, 
+        "department_id": "35347493", 
+        "title_raw": "Dancin'", 
+        "justification": null, 
+        "media_id": "35419317", 
+        "description": "Poster featuring an image of a man and woman dancing; the woman’s legs are depicted in different ways: ballet leg, dancer, cabaret; only torso of a man visible. Title across upper section in black and red: Jules Fisher, The Shubert Organization & Columbia Pictures present / Dancin’ / a new musical entertainment / directed & choreographed by Bob Fosse.", 
+        "creditline": "Gift of Various Donors", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "1978", 
+        "url": "https://collection.cooperhewitt.org/objects/18617479/", 
+        "type": "poster", 
+        "accession_number": "1981-29-20", 
+        "year_end": 1978, 
+        "signed": "Signed [imprinted] in black ink, middle left: gill", 
+        "inscribed": null, 
+        "period_id": null, 
+        "year_acquired": "1981", 
+        "woe:country_id": "23424977"
+    }
+}

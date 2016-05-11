@@ -1,0 +1,120 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": 1970, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": "lithograph on white paper", 
+        "tms:id": "197806", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/223701_c4af961094089b0a_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "0", 
+                    "image_id": "223701"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/223701_c4af961094089b0a_b.jpg", 
+                    "width": 741, 
+                    "height": 1024, 
+                    "is_primary": "0", 
+                    "image_id": "223701"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/223701_c4af961094089b0a_d.gif", 
+                    "width": 232, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "223701"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/223701_c4af961094089b0a_z.jpg", 
+                    "width": 463, 
+                    "height": 640, 
+                    "is_primary": "0", 
+                    "image_id": "223701"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/223701_c4af961094089b0a_n.jpg", 
+                    "width": 232, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "223701"
+                }
+            }
+        ], 
+        "id": "18645805", 
+        "has_no_known_copyright": null, 
+        "woe:country_name": "United States", 
+        "dimensions": "62.7 × 45.3 cm (24 11/16 × 17 13/16 in.)", 
+        "title": "Poster, Finish Your Food..., ca. 1980", 
+        "provenance": "Steven Heller and Karrie Jacobs; 1993: acquired by Museum", 
+        "participants": [
+            {
+                "person_name": "Steven Heller", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35351535/", 
+                "role_id": "35351535", 
+                "role_name": "Donor", 
+                "person_date": "American, b. 1950", 
+                "role_display_name": "Donated by", 
+                "person_id": "18041397", 
+                "person_url": "https://collection.cooperhewitt.org/people/18041397/"
+            }, 
+            {
+                "person_name": "Karrie Jacobs", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35351535/", 
+                "role_id": "35351535", 
+                "role_name": "Donor", 
+                "person_date": "", 
+                "role_display_name": "Donated by", 
+                "person_id": "18056647", 
+                "person_url": "https://collection.cooperhewitt.org/people/18056647/"
+            }, 
+            {
+                "person_name": "LSA", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35352245/", 
+                "role_id": "35352245", 
+                "role_name": "Cataloguer", 
+                "person_date": "", 
+                "role_display_name": "Catalogued by", 
+                "person_id": "18048737", 
+                "person_url": "https://collection.cooperhewitt.org/people/18048737/"
+            }
+        ], 
+        "decade": "1970", 
+        "label_text": null, 
+        "woe:country": "23424977", 
+        "dimensions_raw": {
+            "width": [
+                "45.30", 
+                "centimeters"
+            ], 
+            "height": [
+                "62.70", 
+                "centimeters"
+            ]
+        }, 
+        "department_id": "35347493", 
+        "title_raw": "Finish Your Food...", 
+        "justification": null, 
+        "media_id": "35421135", 
+        "description": "Black and white photograph of mother feeding malnourished child For Coalition for the Homeless", 
+        "creditline": "Gift of Steven Heller and Karrie Jacobs", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "ca. 1980", 
+        "url": "https://collection.cooperhewitt.org/objects/18645805/", 
+        "type": "poster", 
+        "accession_number": "1993-53-81", 
+        "year_end": 1990, 
+        "signed": null, 
+        "inscribed": "Other text: \"Of you'd like to help the hungry and homeless of this world, why not start in New York City? To find out how, call the Coalition For The Homeless at 460-8110.\"", 
+        "period_id": null, 
+        "year_acquired": "1993", 
+        "woe:country_id": "23424977"
+    }
+}

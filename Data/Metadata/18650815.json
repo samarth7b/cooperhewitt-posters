@@ -1,0 +1,147 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": 1987, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": "offset lithography", 
+        "tms:id": "200343", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/81534_ef28f6f93bdfaf87_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "81534"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/81534_ef28f6f93bdfaf87_b.jpg", 
+                    "width": 707, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "81534"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/81534_ef28f6f93bdfaf87_d.gif", 
+                    "width": 221, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "81534"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/81534_ef28f6f93bdfaf87_z.jpg", 
+                    "width": 442, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "81534"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/81534_ef28f6f93bdfaf87_n.jpg", 
+                    "width": 221, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "81534"
+                }
+            }, 
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/268700_d504f302521af58a_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "0", 
+                    "image_id": "268700"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/268700_d504f302521af58a_b.jpg", 
+                    "width": 717, 
+                    "height": 1024, 
+                    "is_primary": "0", 
+                    "image_id": "268700"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/268700_d504f302521af58a_d.gif", 
+                    "width": 224, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "268700"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/268700_d504f302521af58a_z.jpg", 
+                    "width": 448, 
+                    "height": 640, 
+                    "is_primary": "0", 
+                    "image_id": "268700"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/268700_d504f302521af58a_n.jpg", 
+                    "width": 224, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "268700"
+                }
+            }
+        ], 
+        "id": "18650815", 
+        "has_no_known_copyright": null, 
+        "woe:country_name": "United States", 
+        "dimensions": "98.4 x 67.9 cm (38 3/4 x 26 3/4 in. )", 
+        "title": "Poster, Pacific Wave, 1987", 
+        "provenance": "1995: acquired by Museum", 
+        "participants": [
+            {
+                "person_name": "April Greiman", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35351535/", 
+                "role_id": "35351535", 
+                "role_name": "Donor", 
+                "person_date": "American, b. 1948", 
+                "role_display_name": "Donated by", 
+                "person_id": "18041839", 
+                "person_url": "https://collection.cooperhewitt.org/people/18041839/"
+            }, 
+            {
+                "person_name": "April Greiman", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "American, b. 1948", 
+                "role_display_name": "Designed by", 
+                "person_id": "18041839", 
+                "person_url": "https://collection.cooperhewitt.org/people/18041839/"
+            }
+        ], 
+        "decade": "1980", 
+        "label_text": null, 
+        "woe:country": "23424977", 
+        "dimensions_raw": {
+            "width": [
+                "67.90", 
+                "centimeters"
+            ], 
+            "height": [
+                "98.40", 
+                "centimeters"
+            ]
+        }, 
+        "department_id": "35347493", 
+        "title_raw": "Pacific Wave", 
+        "justification": null, 
+        "media_id": "35421913", 
+        "description": "Promotional poster for \"Pacific Wave\" at Museo Fortung in Venice.  Layering of irregular, flowing shapes with holes like surface of Swiss cheese in hot pink at top half and black at bottom half.  At top \"Pacific Wave/...\" (in white) in ascending diagonal on pink background and same text repeated below in descending diagonal on black background.  Border in shape of right triangle along top edge in color gradation from yellow at top to orange and then red. One and half inch border with same color gradation along right edge except near bottom with same color gradation.  Two border form shape of \"7\".  Large rectangle at center to right edge layered on top with image of galaxy with shape of Milky Way (in white) and universe (in marron, yellow, blue).  Another small box superimposed with black with irregular shaped holes like Swiss cheese.  Vertical pink box along right side of box with image of galaxy.", 
+        "creditline": "Gift of April Greiman", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "1987", 
+        "url": "https://collection.cooperhewitt.org/objects/18650815/", 
+        "type": "poster", 
+        "accession_number": "1995-167-1", 
+        "year_end": 1987, 
+        "signed": "Imprinted vertically in white, in black box along left edge: Design/ April Greiman", 
+        "inscribed": "Imprinted vertically in black: Museo Fortung September 1987/ Venice.", 
+        "period_id": null, 
+        "year_acquired": "1995", 
+        "woe:country_id": "23424977"
+    }
+}

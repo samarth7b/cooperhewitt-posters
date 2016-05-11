@@ -1,0 +1,100 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": null, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": "offset lithograph on paper", 
+        "tms:id": "180783", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/203817_e307aeb280ad9e96_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "203817"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/203817_e307aeb280ad9e96_b.jpg", 
+                    "width": 814, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "203817"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/203817_e307aeb280ad9e96_d.gif", 
+                    "width": 254, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "203817"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/203817_e307aeb280ad9e96_z.jpg", 
+                    "width": 508, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "203817"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/203817_e307aeb280ad9e96_n.jpg", 
+                    "width": 254, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "203817"
+                }
+            }
+        ], 
+        "id": "18801233", 
+        "has_no_known_copyright": null, 
+        "woe:country_name": "United States", 
+        "dimensions": "72.3 x 57 cm (28 7/16 x 22 7/16 in.)", 
+        "title": "Poster, U.S. Department of Love and Affection", 
+        "provenance": null, 
+        "participants": [
+            {
+                "person_name": "Dayton's Department Store", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35351535/", 
+                "role_id": "35351535", 
+                "role_name": "Donor", 
+                "person_date": "", 
+                "role_display_name": "Donated by", 
+                "person_id": "18537101", 
+                "person_url": "https://collection.cooperhewitt.org/people/18537101/"
+            }
+        ], 
+        "decade": null, 
+        "label_text": null, 
+        "woe:country": "23424977", 
+        "dimensions_raw": {
+            "width": [
+                "57.00", 
+                "centimeters"
+            ], 
+            "height": [
+                "72.30", 
+                "centimeters"
+            ]
+        }, 
+        "department_id": "35347493", 
+        "title_raw": "U.S. Department of Love and Affection", 
+        "justification": null, 
+        "media_id": "35399021", 
+        "description": null, 
+        "creditline": "Gift of Dayton's Department Store", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": null, 
+        "url": "https://collection.cooperhewitt.org/objects/18801233/", 
+        "type": "poster", 
+        "accession_number": "1984-11-3", 
+        "year_end": null, 
+        "signed": null, 
+        "inscribed": null, 
+        "period_id": null, 
+        "year_acquired": "1984", 
+        "woe:country_id": "23424977"
+    }
+}

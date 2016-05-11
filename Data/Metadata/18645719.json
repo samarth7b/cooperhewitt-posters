@@ -1,0 +1,160 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": 1990, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": "lithograph on paper", 
+        "tms:id": "197763", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/202322_e19dfaf715894287_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "0", 
+                    "image_id": "202322"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/202322_e19dfaf715894287_b.jpg", 
+                    "width": 750, 
+                    "height": 1024, 
+                    "is_primary": "0", 
+                    "image_id": "202322"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/202322_e19dfaf715894287_d.gif", 
+                    "width": 234, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "202322"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/202322_e19dfaf715894287_z.jpg", 
+                    "width": 468, 
+                    "height": 640, 
+                    "is_primary": "0", 
+                    "image_id": "202322"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/202322_e19dfaf715894287_n.jpg", 
+                    "width": 234, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "202322"
+                }
+            }
+        ], 
+        "id": "18645719", 
+        "has_no_known_copyright": null, 
+        "woe:country_name": "United States", 
+        "dimensions": "63 × 45.2 cm (24 13/16 × 17 13/16 in.)", 
+        "title": "Poster, How Can You Worship...?, 1990", 
+        "provenance": "Steven Heller and Karrie Jacobs; 1993: acquired by Museum", 
+        "participants": [
+            {
+                "person_name": "Coalition for the Homeless", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236675/", 
+                "role_id": "35236675", 
+                "role_name": "For", 
+                "person_date": "", 
+                "role_display_name": "Made for", 
+                "person_id": "18041655", 
+                "person_url": "https://collection.cooperhewitt.org/people/18041655/"
+            }, 
+            {
+                "person_name": "Karrie Jacobs", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35351535/", 
+                "role_id": "35351535", 
+                "role_name": "Donor", 
+                "person_date": "", 
+                "role_display_name": "Donated by", 
+                "person_id": "18056647", 
+                "person_url": "https://collection.cooperhewitt.org/people/18056647/"
+            }, 
+            {
+                "person_name": "Steven Heller", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35351535/", 
+                "role_id": "35351535", 
+                "role_name": "Donor", 
+                "person_date": "American, b. 1950", 
+                "role_display_name": "Donated by", 
+                "person_id": "18041397", 
+                "person_url": "https://collection.cooperhewitt.org/people/18041397/"
+            }, 
+            {
+                "person_name": "Megan L. Smith", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35352245/", 
+                "role_id": "35352245", 
+                "role_name": "Cataloguer", 
+                "person_date": "", 
+                "role_display_name": "Catalogued by", 
+                "person_id": "18047443", 
+                "person_url": "https://collection.cooperhewitt.org/people/18047443/"
+            }, 
+            {
+                "person_name": "LSA", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35352245/", 
+                "role_id": "35352245", 
+                "role_name": "Cataloguer", 
+                "person_date": "", 
+                "role_display_name": "Catalogued by", 
+                "person_id": "18048737", 
+                "person_url": "https://collection.cooperhewitt.org/people/18048737/"
+            }, 
+            {
+                "person_name": "Jamie Barrett", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "", 
+                "role_display_name": "Designed by", 
+                "person_id": "18043173", 
+                "person_url": "https://collection.cooperhewitt.org/people/18043173/"
+            }, 
+            {
+                "person_name": "Peter Cohen", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "", 
+                "role_display_name": "Designed by", 
+                "person_id": "18043171", 
+                "person_url": "https://collection.cooperhewitt.org/people/18043171/"
+            }
+        ], 
+        "decade": "1990", 
+        "label_text": null, 
+        "woe:country": "23424977", 
+        "dimensions_raw": {
+            "width": [
+                "45.20", 
+                "centimeters"
+            ], 
+            "height": [
+                "63.00", 
+                "centimeters"
+            ]
+        }, 
+        "department_id": "35347493", 
+        "title_raw": "How Can You Worship...?", 
+        "justification": null, 
+        "media_id": "35419317", 
+        "description": "Etching of Christ One of four images from a wall-poster campaign by The Coalition for the Homeless; see 1993-53-81,-120", 
+        "creditline": "Gift of Steven Heller and Karrie Jacobs", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "1990", 
+        "url": "https://collection.cooperhewitt.org/objects/18645719/", 
+        "type": "poster", 
+        "accession_number": "1993-53-50", 
+        "year_end": 1990, 
+        "signed": null, 
+        "inscribed": null, 
+        "period_id": null, 
+        "year_acquired": "1993", 
+        "woe:country_id": "23424977"
+    }
+}

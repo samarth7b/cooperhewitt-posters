@@ -1,0 +1,147 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": 1942, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": "offset lithograph on paper, lined", 
+        "tms:id": "134008", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/64311_40b15f26fcf0fb1c_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "64311"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/64311_40b15f26fcf0fb1c_b.jpg", 
+                    "width": 728, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "64311"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/64311_40b15f26fcf0fb1c_d.gif", 
+                    "width": 228, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "64311"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/64311_40b15f26fcf0fb1c_z.jpg", 
+                    "width": 455, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "64311"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/64311_40b15f26fcf0fb1c_n.jpg", 
+                    "width": 228, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "64311"
+                }
+            }, 
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/254554_e66fb28a14611e66_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "0", 
+                    "image_id": "254554"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/254554_e66fb28a14611e66_b.jpg", 
+                    "width": 746, 
+                    "height": 1024, 
+                    "is_primary": "0", 
+                    "image_id": "254554"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/254554_e66fb28a14611e66_d.gif", 
+                    "width": 233, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "254554"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/254554_e66fb28a14611e66_z.jpg", 
+                    "width": 466, 
+                    "height": 640, 
+                    "is_primary": "0", 
+                    "image_id": "254554"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/254554_e66fb28a14611e66_n.jpg", 
+                    "width": 233, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "254554"
+                }
+            }
+        ], 
+        "id": "18446985", 
+        "has_no_known_copyright": null, 
+        "woe:country_name": "United States", 
+        "dimensions": "50.7 x 36.6 cm (19 15/16 x 14 7/16 in.)", 
+        "title": "Poster, Luchamos por la Libertad de Todos, 1942", 
+        "provenance": "Mrs. E. McKnight Kauffer; 1963: acquired by Museum", 
+        "participants": [
+            {
+                "person_name": "Edward McKnight Kauffer", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "American, active England, 1890–1954", 
+                "role_display_name": "Designed by", 
+                "person_id": "18041923", 
+                "person_url": "https://collection.cooperhewitt.org/people/18041923/"
+            }, 
+            {
+                "person_name": "Mrs. Edward McKnight Kauffer", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35351535/", 
+                "role_id": "35351535", 
+                "role_name": "Donor", 
+                "person_date": "", 
+                "role_display_name": "Donated by", 
+                "person_id": "18061849", 
+                "person_url": "https://collection.cooperhewitt.org/people/18061849/"
+            }
+        ], 
+        "decade": "1940", 
+        "label_text": null, 
+        "woe:country": "23424977", 
+        "dimensions_raw": {
+            "width": [
+                "36.60", 
+                "centimeters"
+            ], 
+            "height": [
+                "50.70", 
+                "centimeters"
+            ]
+        }, 
+        "department_id": "35347493", 
+        "title_raw": "Luchamos por la Libertad de Todos", 
+        "justification": null, 
+        "media_id": "51685923", 
+        "description": "Profile of male head in blue wearing a blue/black helmet with white stars, behind which are red and white stripes, like American flag. In lower margin, in red and blue text: LUCHAMOS / POR LA LIBERTAD DE TODOS.", 
+        "creditline": "Gift of Mrs. E. McKnight Kauffer", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "1942", 
+        "url": "https://collection.cooperhewitt.org/objects/18446985/", 
+        "type": "poster", 
+        "accession_number": "1963-39-112-b", 
+        "year_end": 1942, 
+        "signed": "Signed in blue ink, on lowest red stripe: E. McKnight Kauffer", 
+        "inscribed": "Printed in blue ink, lower right: Publicado por El Coordinador de Asuntos Interamericanos, Washington, E. U. A.", 
+        "period_id": null, 
+        "year_acquired": "1963", 
+        "woe:country_id": "23424977"
+    }
+}

@@ -1,0 +1,91 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": 1970, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": null, 
+        "tms:id": "190947", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/201221_582d6250454ef80c_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "201221"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/201221_582d6250454ef80c_b.jpg", 
+                    "width": 750, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "201221"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/201221_582d6250454ef80c_d.gif", 
+                    "width": 234, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "201221"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/201221_582d6250454ef80c_z.jpg", 
+                    "width": 468, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "201221"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/201221_582d6250454ef80c_n.jpg", 
+                    "width": 234, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "201221"
+                }
+            }
+        ], 
+        "id": "18632209", 
+        "has_no_known_copyright": null, 
+        "woe:country_name": "United States", 
+        "dimensions": null, 
+        "title": "Poster, Doctoral Study in Art History, 1970–79", 
+        "provenance": null, 
+        "participants": [
+            {
+                "person_name": "Ray Ring", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "American", 
+                "role_display_name": "Designed by", 
+                "person_id": "68263851", 
+                "person_url": "https://collection.cooperhewitt.org/people/68263851/"
+            }
+        ], 
+        "decade": "1970", 
+        "label_text": null, 
+        "woe:country": "23424977", 
+        "dimensions_raw": null, 
+        "department_id": "35347493", 
+        "title_raw": "Doctoral Study in Art History", 
+        "justification": null, 
+        "media_id": "35371135", 
+        "description": "CUNY Graduate Center", 
+        "creditline": null, 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "1970–79", 
+        "url": "https://collection.cooperhewitt.org/objects/18632209/", 
+        "type": "poster", 
+        "accession_number": "1989-107-7", 
+        "year_end": 1979, 
+        "signed": null, 
+        "inscribed": null, 
+        "period_id": null, 
+        "year_acquired": "1989", 
+        "woe:country_id": "23424977"
+    }
+}

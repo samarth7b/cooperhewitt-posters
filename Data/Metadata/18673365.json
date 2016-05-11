@@ -1,0 +1,110 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": null, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": "lithograph on off-white paper", 
+        "tms:id": "212125", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/140209_5bff6d5eeabac20c_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "0", 
+                    "image_id": "140209"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/140209_5bff6d5eeabac20c_b.jpg", 
+                    "width": 763, 
+                    "height": 1024, 
+                    "is_primary": "0", 
+                    "image_id": "140209"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/140209_5bff6d5eeabac20c_d.gif", 
+                    "width": 238, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "140209"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/140209_5bff6d5eeabac20c_z.jpg", 
+                    "width": 477, 
+                    "height": 640, 
+                    "is_primary": "0", 
+                    "image_id": "140209"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/140209_5bff6d5eeabac20c_n.jpg", 
+                    "width": 238, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "140209"
+                }
+            }
+        ], 
+        "id": "18673365", 
+        "has_no_known_copyright": null, 
+        "woe:country_name": "United States", 
+        "dimensions": "65.1 × 48.5 cm (25 5/8 × 19 1/8 in.)", 
+        "title": "Poster, Gefunden 1963 auf der Straβe zwischen Bethlehem und Beit Jala", 
+        "provenance": "Dan Friedman; Ken Friedman; 1997: acquired by Museum", 
+        "participants": [
+            {
+                "person_name": "Ken Friedman", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35351535/", 
+                "role_id": "35351535", 
+                "role_name": "Donor", 
+                "person_date": "", 
+                "role_display_name": "Donated by", 
+                "person_id": "18049807", 
+                "person_url": "https://collection.cooperhewitt.org/people/18049807/"
+            }, 
+            {
+                "person_name": "Dan Friedman", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "American, 1945–1995", 
+                "role_display_name": "Designed by", 
+                "person_id": "18041325", 
+                "person_url": "https://collection.cooperhewitt.org/people/18041325/"
+            }
+        ], 
+        "decade": null, 
+        "label_text": null, 
+        "woe:country": "23424977", 
+        "dimensions_raw": {
+            "width": [
+                "48.50", 
+                "centimeters"
+            ], 
+            "height": [
+                "65.10", 
+                "centimeters"
+            ]
+        }, 
+        "department_id": "35347493", 
+        "title_raw": "Gefunden 1963 auf der Straβe zwischen Bethlehem und Beit Jala", 
+        "justification": null, 
+        "media_id": "35424743", 
+        "description": null, 
+        "creditline": "Gift of Ken Friedman", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": null, 
+        "url": "https://collection.cooperhewitt.org/objects/18673365/", 
+        "type": "poster", 
+        "accession_number": "1997-19-173", 
+        "year_end": null, 
+        "signed": null, 
+        "inscribed": null, 
+        "period_id": null, 
+        "year_acquired": "1997", 
+        "woe:country_id": "23424977"
+    }
+}

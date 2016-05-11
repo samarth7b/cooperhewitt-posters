@@ -1,0 +1,79 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": null, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": null, 
+        "tms:id": "163289", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/201158_9679b47ec5862514_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "201158"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/201158_9679b47ec5862514_b.jpg", 
+                    "width": 813, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "201158"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/201158_9679b47ec5862514_d.gif", 
+                    "width": 254, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "201158"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/201158_9679b47ec5862514_z.jpg", 
+                    "width": 508, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "201158"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/201158_9679b47ec5862514_n.jpg", 
+                    "width": 254, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "201158"
+                }
+            }
+        ], 
+        "id": "18504771", 
+        "has_no_known_copyright": null, 
+        "dimensions": null, 
+        "title": "Poster, E.B. Crocker Art Gallery", 
+        "provenance": null, 
+        "participants": [], 
+        "decade": null, 
+        "label_text": null, 
+        "woe:country": null, 
+        "dimensions_raw": null, 
+        "department_id": "35347493", 
+        "title_raw": "E.B. Crocker Art Gallery", 
+        "justification": null, 
+        "media_id": "35371135", 
+        "description": "Image by Gerard Terborch", 
+        "creditline": "Gift of Unknown Donor", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": null, 
+        "url": "https://collection.cooperhewitt.org/objects/18504771/", 
+        "type": "poster", 
+        "accession_number": "1980-32-1025", 
+        "year_end": null, 
+        "signed": null, 
+        "inscribed": null, 
+        "period_id": null, 
+        "year_acquired": "1980", 
+        "woe:country_id": null
+    }
+}

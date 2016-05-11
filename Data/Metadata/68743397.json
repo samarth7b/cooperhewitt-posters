@@ -1,0 +1,138 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": 2012, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": "screenprint on paper", 
+        "tms:id": "277513", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/95693_d33f9471b4a95319_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "95693"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/95693_d33f9471b4a95319_b.jpg", 
+                    "width": 729, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "95693"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/95693_d33f9471b4a95319_d.gif", 
+                    "width": 228, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "95693"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/95693_d33f9471b4a95319_z.jpg", 
+                    "width": 455, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "95693"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/95693_d33f9471b4a95319_n.jpg", 
+                    "width": 228, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "95693"
+                }
+            }, 
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/94791_1857f4276daedc35_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "0", 
+                    "image_id": "94791"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/94791_1857f4276daedc35_b.jpg", 
+                    "width": 728, 
+                    "height": 1024, 
+                    "is_primary": "0", 
+                    "image_id": "94791"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/94791_1857f4276daedc35_d.gif", 
+                    "width": 228, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "94791"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/94791_1857f4276daedc35_z.jpg", 
+                    "width": 455, 
+                    "height": 640, 
+                    "is_primary": "0", 
+                    "image_id": "94791"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/94791_1857f4276daedc35_n.jpg", 
+                    "width": 228, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "94791"
+                }
+            }
+        ], 
+        "id": "68743397", 
+        "has_no_known_copyright": null, 
+        "woe:country_name": "Germany", 
+        "dimensions": "118.9 × 84.1 cm (46 13/16 × 33 1/8 in.)", 
+        "title": "Poster, Jazz & Design- Niklaus Troxler, 2012", 
+        "provenance": "Jianping He new to Cooper Hewitt, August 2014", 
+        "participants": [
+            {
+                "person_name": "Jianping He", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35351535/", 
+                "role_id": "35351535", 
+                "role_name": "Donor", 
+                "person_date": "Chinese, born 1973", 
+                "role_display_name": "Donated by", 
+                "person_id": "68735173", 
+                "person_url": "https://collection.cooperhewitt.org/people/68735173/"
+            }, 
+            {
+                "person_name": "Jianping He", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "Chinese, born 1973", 
+                "role_display_name": "Designed by", 
+                "person_id": "68735173", 
+                "person_url": "https://collection.cooperhewitt.org/people/68735173/"
+            }
+        ], 
+        "decade": "2010", 
+        "label_text": null, 
+        "woe:country": "23424829", 
+        "dimensions_raw": null, 
+        "department_id": "35347493", 
+        "title_raw": "Jazz & Design- Niklaus Troxler", 
+        "justification": "To promote an exhibition of the work of famed graphic designer Niklaus Troxler curated by Jianping He and held in Shenzhen, China, He drew his design inspiration directly from Troxler’s past work. Troxler has become best known for his posters advertising the Jazz Festival Willisau that he founded in 1975. He echo’s Troxler’s aesthetic of repetitive, rhythmic patterns by cutting circles from a photograph of Troxler’s face and layering them in space against a white background punctuated by scattered black circles.", 
+        "media_id": "35431679", 
+        "description": "An asymmetric collage of Niklaus Troxler's portrait in front of a background of black blots in various sizes. Details of the exhibition are printed in diagonals at the lower left corner of the poster.", 
+        "creditline": "Gift of Jianping He", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "2012", 
+        "url": "https://collection.cooperhewitt.org/objects/68743397/", 
+        "type": "poster", 
+        "accession_number": "2014-23-7", 
+        "year_end": 2012, 
+        "signed": null, 
+        "inscribed": null, 
+        "period_id": null, 
+        "year_acquired": "2014", 
+        "woe:country_id": "23424829"
+    }
+}

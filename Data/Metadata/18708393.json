@@ -1,0 +1,147 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": "Award-winning Swiss poster designer Ralph Schraivogel is known for his ability to manipulate space on the two-dimensional surface. He aims to find new ways of conveying depth beyond simple perspectival techniques, resulting in surrealistic, fantastic designs that enliven the flat page. In this poster for an exhibition of his own work, held in the Czech Republic’s Design Centrum, the snake-like forms not only twist and curve up and down, but also in, out, and around, creating an impossibly multi-dimensional view. He has said that he enjoys playing with typography and searching for the limit when it is completely untraditional yet still readable, which he has rendered here nearly to an extreme. The typography curves around the amorphous tubes as if it exists on their three-dimensional surface. Black-and-white imagery sits in the blank spaces between the tubes and on the surface of the central vertical form, creating a varied texture to the type. Although Schraivogel’s wide variety of work falls outside easy stylistic categorization, this poster typifies the way he blends all elements—illustration, typography, design—into a cohesive whole.", 
+        "year_start": 2002, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": "screenprint on white wove paper", 
+        "tms:id": "230051", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/25645_358d0b95661fba99_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "25645"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/25645_358d0b95661fba99_b.jpg", 
+                    "width": 725, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "25645"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/25645_358d0b95661fba99_d.gif", 
+                    "width": 227, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "25645"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/25645_358d0b95661fba99_z.jpg", 
+                    "width": 453, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "25645"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/25645_358d0b95661fba99_n.jpg", 
+                    "width": 227, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "25645"
+                }
+            }, 
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/267303_1c95ec0d76e59c92_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "0", 
+                    "image_id": "267303"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/267303_1c95ec0d76e59c92_b.jpg", 
+                    "width": 725, 
+                    "height": 1024, 
+                    "is_primary": "0", 
+                    "image_id": "267303"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/267303_1c95ec0d76e59c92_d.gif", 
+                    "width": 227, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "267303"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/267303_1c95ec0d76e59c92_z.jpg", 
+                    "width": 453, 
+                    "height": 640, 
+                    "is_primary": "0", 
+                    "image_id": "267303"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/267303_1c95ec0d76e59c92_n.jpg", 
+                    "width": 227, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "267303"
+                }
+            }
+        ], 
+        "id": "18708393", 
+        "has_no_known_copyright": null, 
+        "woe:country_name": "Switzerland", 
+        "dimensions": "84.6 x 60 cm (33 5/16 x 23 5/8 in.)", 
+        "title": "Poster, Design Centrum České Republiky, 2002", 
+        "provenance": "Ralph Schraivogel, Zurich, Switzerland; 2007: acquired by Museum", 
+        "participants": [
+            {
+                "person_name": "Ralph Schraivogel", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35351535/", 
+                "role_id": "35351535", 
+                "role_name": "Donor", 
+                "person_date": "Swiss, b. 1960", 
+                "role_display_name": "Donated by", 
+                "person_id": "18060553", 
+                "person_url": "https://collection.cooperhewitt.org/people/18060553/"
+            }, 
+            {
+                "person_name": "Ralph Schraivogel", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236565/", 
+                "role_id": "35236565", 
+                "role_name": "Artist", 
+                "person_date": "Swiss, b. 1960", 
+                "role_display_name": "", 
+                "person_id": "18060553", 
+                "person_url": "https://collection.cooperhewitt.org/people/18060553/"
+            }
+        ], 
+        "decade": "2000", 
+        "label_text": null, 
+        "woe:country": "23424957", 
+        "dimensions_raw": {
+            "width": [
+                "60.01", 
+                "centimeters"
+            ], 
+            "height": [
+                "84.61", 
+                "centimeters"
+            ]
+        }, 
+        "department_id": "35347493", 
+        "title_raw": "Design Centrum České Republiky", 
+        "justification": "This silkscreen poster by Ralph Schraivogel, Ralph Schraivogel Plakaty, Design Centrum Ceske Republiky (2002), will be included in the museum’s 2008 exhibition Rococo: The Continuing Curve 1730–2008. Schraivogel is internationally acknowledged as one of the most important and influential contemporary poster designers, and certainly the most significant contemporary Swiss designer. \nThe graphic designer Keith Godard said of Schraivogel, “The phonetic translation of his name (screaming bird) is a fitting analogy: his posters are always ‘in your face,’ never using quiet or orderly typography so often equated with the Swiss.” This statement sums up where and how Schraivogel has positioned himself in relation to the expected rational model of Swiss graphic design, which typically incorporates combinations of typography and photography—or typography alone—on a tightly controlled mathematical grid. \nTrained in Zurich at the Schule für Gestaltung (1977–82), Schraivogel acknowledges no particular Swiss models or influences from his field. In fact, he prides himself on working outside of any particular movement.[1] Schraivogel has said, “As a designer, I’m not allowed to bore people. I need to make a surprising picture, like fire-works.” Schraivogel rejects the expected look and approach to poster design, in which the designer starts to sketch ideas towards a graphic solution. Instead he relies on chance, on “unforeseeable stray tracks and detours to expand his means of expression.” He will sometimes focus on randomly encountered patterns or graphic structures of his own invention, using them to get into the mood for a new idea or to arrive at a unique solution for each commission. \nRegarding his approach to the use of space, Schraivogel has said that growing up he admired the painter, El Greco, and the printmaker, M. C. Escher, for their ways of representing space. El Greco depicted figures in undefined, cavernous, light-filled spaces that were not contained by the frame. Similarly, Schraivogel’s compositions seem not to be contained by the frame. His other model, Escher, created totally confounding, warped and illogical spatial puzzles that have no resolution. Schraivogel perpetually plays with pattern, image, and type to create ambiguous illusions of space without using perspective, “so that you can’t imagine how the paper remains flat.\"\nRalph Schraivogel Plakaty, Design Centrum Ceske Republiky, seems closer to an Escher model of space, which works in a more controlled way with the idea of circulating, text-covered tubes moving in and out of pictorial space. \nSuch visual inventiveness has characterized Schraivogel’s career. Because he avoids being pigeonholed or limited by a single solution, the experimentation of this poster will not likely be repeated. Swiss posters have been an area of curatorial collection focus since the early 1990s. Since that time, the museum has acquired posters by Armin Hofmann, Wolfgang Weingart, Josef Müller-Brockmann, Max Bill, and Herbert Matter. This representative selection of important Swiss graphic design, which spans the 1930s to 1970s, has established a solid foundation from which to appreciate Schraivogel’s work.\n\n[1] Dan Nadel, “The flat earth: designer. Poster-maker. Woody Allen heckler. In Zurich, Ralph Schraivogel adds life and depth to surfaces where they can't physically exist,” Print (May 2004): 45.", 
+        "media_id": "35432313", 
+        "description": "Intertwined snake-like tubes in blue, yellow, and black with text: Schraivogel / Plakaty / Design Centrum / Ceske republiky / Radricha, Brno.", 
+        "creditline": "Gift of Ralph Schraivogel", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "2002", 
+        "url": "https://collection.cooperhewitt.org/objects/18708393/", 
+        "type": "poster", 
+        "accession_number": "2007-15-2", 
+        "year_end": 2002, 
+        "signed": null, 
+        "inscribed": "Printed in yellow ink, above: Design: R. Schraivogel", 
+        "period_id": "35435527", 
+        "year_acquired": "2007", 
+        "woe:country_id": "23424957"
+    }
+}

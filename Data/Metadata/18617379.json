@@ -1,0 +1,100 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": null, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": "lithograph on paper", 
+        "tms:id": "177222", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/82314_0c5747d6772b758c_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "82314"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/82314_0c5747d6772b758c_b.jpg", 
+                    "width": 702, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "82314"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/82314_0c5747d6772b758c_d.gif", 
+                    "width": 219, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "82314"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/82314_0c5747d6772b758c_z.jpg", 
+                    "width": 438, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "82314"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/82314_0c5747d6772b758c_n.jpg", 
+                    "width": 219, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "82314"
+                }
+            }
+        ], 
+        "id": "18617379", 
+        "has_no_known_copyright": null, 
+        "woe:country_name": "United States", 
+        "dimensions": "96.4 x 66.3 cm (37 15/16 x 26 1/8 in.)", 
+        "title": "Poster, Alan Arkin in The Defection of Simas Kudirka", 
+        "provenance": "1981: acquired by Museum", 
+        "participants": [
+            {
+                "person_name": "William Wondriska", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "American, b. 1931", 
+                "role_display_name": "Designed by", 
+                "person_id": "34624575", 
+                "person_url": "https://collection.cooperhewitt.org/people/34624575/"
+            }
+        ], 
+        "decade": null, 
+        "label_text": null, 
+        "woe:country": "23424977", 
+        "dimensions_raw": {
+            "width": [
+                "66.30", 
+                "centimeters"
+            ], 
+            "height": [
+                "96.40", 
+                "centimeters"
+            ]
+        }, 
+        "department_id": "35347493", 
+        "title_raw": "Alan Arkin in The Defection of Simas Kudirka", 
+        "justification": null, 
+        "media_id": "35419317", 
+        "description": "White poster with text in black and orange silhouetted bird.", 
+        "creditline": "Gift of Various Donors", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": null, 
+        "url": "https://collection.cooperhewitt.org/objects/18617379/", 
+        "type": "poster", 
+        "accession_number": "1981-29-156", 
+        "year_end": null, 
+        "signed": null, 
+        "inscribed": "Imprinted in black ink, right margin: DESIGN: WILLIAM WONDRISKA", 
+        "period_id": null, 
+        "year_acquired": "1981", 
+        "woe:country_id": "23424977"
+    }
+}

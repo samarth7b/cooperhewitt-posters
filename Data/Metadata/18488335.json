@@ -1,0 +1,99 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": 1975, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": null, 
+        "tms:id": "155035", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/201593_52889c8532c0896e_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "201593"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/201593_52889c8532c0896e_b.jpg", 
+                    "width": 833, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "201593"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/201593_52889c8532c0896e_d.gif", 
+                    "width": 260, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "201593"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/201593_52889c8532c0896e_z.jpg", 
+                    "width": 521, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "201593"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/201593_52889c8532c0896e_n.jpg", 
+                    "width": 260, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "201593"
+                }
+            }
+        ], 
+        "id": "18488335", 
+        "has_no_known_copyright": null, 
+        "dimensions": "Overall: 50.9 x 40.8 cm (20 1/16 x 16 1/16 in.)", 
+        "title": "Poster, 1776 – United States of America – 1976, 1975", 
+        "provenance": null, 
+        "participants": [
+            {
+                "person_name": "Richard Anuszkewicz", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "", 
+                "role_display_name": "Designed by", 
+                "person_id": "18057035", 
+                "person_url": "https://collection.cooperhewitt.org/people/18057035/"
+            }
+        ], 
+        "decade": "1970", 
+        "label_text": null, 
+        "woe:country": null, 
+        "dimensions_raw": {
+            "width": [
+                "40.80", 
+                "centimeters"
+            ], 
+            "height": [
+                "50.90", 
+                "centimeters"
+            ]
+        }, 
+        "department_id": "35347493", 
+        "title_raw": "1776 – United States of America – 1976", 
+        "justification": null, 
+        "media_id": "35371135", 
+        "description": null, 
+        "creditline": null, 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "1975", 
+        "url": "https://collection.cooperhewitt.org/objects/18488335/", 
+        "type": "poster", 
+        "accession_number": "1975-47-3", 
+        "year_end": 1975, 
+        "signed": null, 
+        "inscribed": null, 
+        "period_id": null, 
+        "year_acquired": "1975", 
+        "woe:country_id": null
+    }
+}

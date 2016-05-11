@@ -1,0 +1,100 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": 1986, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": null, 
+        "tms:id": "202643", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/269184_bdd6cef544853d50_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "269184"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/269184_bdd6cef544853d50_b.jpg", 
+                    "width": 794, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "269184"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/269184_bdd6cef544853d50_d.gif", 
+                    "width": 248, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "269184"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/269184_bdd6cef544853d50_z.jpg", 
+                    "width": 496, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "269184"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/269184_bdd6cef544853d50_n.jpg", 
+                    "width": 248, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "269184"
+                }
+            }
+        ], 
+        "id": "18655333", 
+        "has_no_known_copyright": null, 
+        "dimensions": null, 
+        "title": "Poster, Hasta La Libertad.../Close Cover Before Striking, 1986", 
+        "provenance": null, 
+        "participants": [
+            {
+                "person_name": "Rafael Rivera Rosa", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35351535/", 
+                "role_id": "35351535", 
+                "role_name": "Donor", 
+                "person_date": "American, b. 1942", 
+                "role_display_name": "Donated by", 
+                "person_id": "18051789", 
+                "person_url": "https://collection.cooperhewitt.org/people/18051789/"
+            }, 
+            {
+                "person_name": "Rafael Rivera Rosa", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35351535/", 
+                "role_id": "35351535", 
+                "role_name": "Donor", 
+                "person_date": "", 
+                "role_display_name": "Donated by", 
+                "person_id": "18050307", 
+                "person_url": "https://collection.cooperhewitt.org/people/18050307/"
+            }
+        ], 
+        "decade": "1980", 
+        "label_text": null, 
+        "woe:country": null, 
+        "dimensions_raw": null, 
+        "department_id": "35347493", 
+        "title_raw": "Hasta La Libertad.../Close Cover Before Striking", 
+        "justification": null, 
+        "media_id": "35371135", 
+        "description": "Image of enlarged matchbook with three red matches (with tips of yellow, red, orange) against a blue background.", 
+        "creditline": "Gift of Rafael Rivera Rosa", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "1986", 
+        "url": "https://collection.cooperhewitt.org/objects/18655333/", 
+        "type": "poster", 
+        "accession_number": "1997-47-5", 
+        "year_end": 1986, 
+        "signed": null, 
+        "inscribed": null, 
+        "period_id": null, 
+        "year_acquired": "1997", 
+        "woe:country_id": null
+    }
+}

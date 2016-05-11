@@ -1,0 +1,100 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": 1980, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": null, 
+        "tms:id": "177337", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/254760_e6c0296b88b5d536_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "254760"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/254760_e6c0296b88b5d536_b.jpg", 
+                    "width": 1015, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "254760"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/254760_e6c0296b88b5d536_d.gif", 
+                    "width": 317, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "254760"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/254760_e6c0296b88b5d536_z.jpg", 
+                    "width": 634, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "254760"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/254760_e6c0296b88b5d536_n.jpg", 
+                    "width": 317, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "254760"
+                }
+            }
+        ], 
+        "id": "18617609", 
+        "has_no_known_copyright": null, 
+        "woe:country_name": "United States", 
+        "dimensions": "(63.5 x 63.5 cm) 25 x 25 in.", 
+        "title": "Poster, In God We Trust, 1980", 
+        "provenance": "1981: acquired by Museum", 
+        "participants": [
+            {
+                "person_name": "Jeff Barnes", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "American", 
+                "role_display_name": "Designed by", 
+                "person_id": "18535487", 
+                "person_url": "https://collection.cooperhewitt.org/people/18535487/"
+            }
+        ], 
+        "decade": "1980", 
+        "label_text": null, 
+        "woe:country": "23424977", 
+        "dimensions_raw": {
+            "length": [
+                "63.50", 
+                "centimeters"
+            ], 
+            "height": [
+                "63.50", 
+                "centimeters"
+            ]
+        }, 
+        "department_id": "35347493", 
+        "title_raw": "In God We Trust", 
+        "justification": null, 
+        "media_id": "35371135", 
+        "description": "Card: CCA's Credit Union Makes Sense", 
+        "creditline": "Gift of Various Donors", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "1980", 
+        "url": "https://collection.cooperhewitt.org/objects/18617609/", 
+        "type": "poster", 
+        "accession_number": "1981-29-259", 
+        "year_end": 1980, 
+        "signed": null, 
+        "inscribed": null, 
+        "period_id": null, 
+        "year_acquired": "1981", 
+        "woe:country_id": "23424977"
+    }
+}

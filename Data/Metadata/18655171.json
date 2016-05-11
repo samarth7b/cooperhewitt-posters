@@ -1,0 +1,167 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": 1989, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": "offset lithograph on heavy white paper", 
+        "tms:id": "202555", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/49889_5bfe9ba9825c1341_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "49889"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/49889_5bfe9ba9825c1341_b.jpg", 
+                    "width": 1024, 
+                    "height": 819, 
+                    "is_primary": "1", 
+                    "image_id": "49889"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/49889_5bfe9ba9825c1341_d.gif", 
+                    "width": 320, 
+                    "height": 256, 
+                    "is_primary": "1", 
+                    "image_id": "49889"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/49889_5bfe9ba9825c1341_z.jpg", 
+                    "width": 640, 
+                    "height": 512, 
+                    "is_primary": "1", 
+                    "image_id": "49889"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/49889_5bfe9ba9825c1341_n.jpg", 
+                    "width": 320, 
+                    "height": 256, 
+                    "is_primary": "1", 
+                    "image_id": "49889"
+                }
+            }, 
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/268820_cfdadfc66d4a81d3_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "0", 
+                    "image_id": "268820"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/268820_cfdadfc66d4a81d3_b.jpg", 
+                    "width": 1024, 
+                    "height": 820, 
+                    "is_primary": "0", 
+                    "image_id": "268820"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/268820_cfdadfc66d4a81d3_d.gif", 
+                    "width": 320, 
+                    "height": 256, 
+                    "is_primary": "0", 
+                    "image_id": "268820"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/268820_cfdadfc66d4a81d3_z.jpg", 
+                    "width": 640, 
+                    "height": 512, 
+                    "is_primary": "0", 
+                    "image_id": "268820"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/268820_cfdadfc66d4a81d3_n.jpg", 
+                    "width": 320, 
+                    "height": 256, 
+                    "is_primary": "0", 
+                    "image_id": "268820"
+                }
+            }
+        ], 
+        "id": "18655171", 
+        "has_no_known_copyright": null, 
+        "woe:country_name": "United States", 
+        "dimensions": "50.8 x 70.5 cm (20 in. x 27 3/4 in.)", 
+        "title": "Poster, The Society of Newspaper Design, 1979-1989, 1989", 
+        "provenance": "Milton Glaser", 
+        "participants": [
+            {
+                "person_name": "Karin Zonis", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35352245/", 
+                "role_id": "35352245", 
+                "role_name": "Cataloguer", 
+                "person_date": "", 
+                "role_display_name": "Catalogued by", 
+                "person_id": "51676457", 
+                "person_url": "https://collection.cooperhewitt.org/people/51676457/"
+            }, 
+            {
+                "person_name": "Milton Glaser", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "American, b. 1929", 
+                "role_display_name": "Designed by", 
+                "person_id": "18042107", 
+                "person_url": "https://collection.cooperhewitt.org/people/18042107/"
+            }, 
+            {
+                "person_name": "Mathew Klein", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236631/", 
+                "role_id": "35236631", 
+                "role_name": "Photographer", 
+                "person_date": "", 
+                "role_display_name": "Photographed by", 
+                "person_id": "18049869", 
+                "person_url": "https://collection.cooperhewitt.org/people/18049869/"
+            }, 
+            {
+                "person_name": "Milton Glaser", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35351535/", 
+                "role_id": "35351535", 
+                "role_name": "Donor", 
+                "person_date": "American, b. 1929", 
+                "role_display_name": "Donated by", 
+                "person_id": "18042107", 
+                "person_url": "https://collection.cooperhewitt.org/people/18042107/"
+            }
+        ], 
+        "decade": "1980", 
+        "label_text": null, 
+        "woe:country": "23424977", 
+        "dimensions_raw": {
+            "width": [
+                "70.50", 
+                "centimeters"
+            ], 
+            "height": [
+                "50.80", 
+                "centimeters"
+            ]
+        }, 
+        "department_id": "35347493", 
+        "title_raw": "The Society of Newspaper Design, 1979-1989", 
+        "justification": null, 
+        "media_id": "35520281", 
+        "description": "Poster depicting an open newspaper leaf, with the left side imitating a design layout process and the right with all components in final version. Left side has scattered components and text in black: The Society of Newspaper Design 1979-1989; triangles in red, orange, green and blue and a black disc with a hole; upper left corner folded. Right side all of the same components but organized linearly.", 
+        "creditline": "Gift of Milton Glaser", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "1989", 
+        "url": "https://collection.cooperhewitt.org/objects/18655171/", 
+        "type": "poster", 
+        "accession_number": "1997-28-7", 
+        "year_end": 1989, 
+        "signed": "Signed [imprinted] in white on black oval: MILTON GLASER", 
+        "inscribed": "Imprinted in black, lower right: PHOTOGRAPHY BY MATTHEW KLEIN", 
+        "period_id": null, 
+        "year_acquired": "1997", 
+        "woe:country_id": "23424977"
+    }
+}

@@ -1,0 +1,140 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": 1991, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": "lithograph on white paper", 
+        "tms:id": "197754", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/202130_00cc08d1408a321f_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "0", 
+                    "image_id": "202130"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/202130_00cc08d1408a321f_b.jpg", 
+                    "width": 784, 
+                    "height": 1024, 
+                    "is_primary": "0", 
+                    "image_id": "202130"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/202130_00cc08d1408a321f_d.gif", 
+                    "width": 245, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "202130"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/202130_00cc08d1408a321f_z.jpg", 
+                    "width": 490, 
+                    "height": 640, 
+                    "is_primary": "0", 
+                    "image_id": "202130"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/202130_00cc08d1408a321f_n.jpg", 
+                    "width": 245, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "202130"
+                }
+            }
+        ], 
+        "id": "18645701", 
+        "has_no_known_copyright": null, 
+        "woe:country_name": "United States", 
+        "dimensions": "55.3 × 34.9 cm (21 3/4 × 13 3/4 in.)", 
+        "title": "Poster, The day they devolve..., 1991", 
+        "provenance": "Steven Heller and Karrie Jacobs; 1993: acquired by Museum", 
+        "participants": [
+            {
+                "person_name": "Karrie Jacobs", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35351535/", 
+                "role_id": "35351535", 
+                "role_name": "Donor", 
+                "person_date": "", 
+                "role_display_name": "Donated by", 
+                "person_id": "18056647", 
+                "person_url": "https://collection.cooperhewitt.org/people/18056647/"
+            }, 
+            {
+                "person_name": "Steven Heller", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35351535/", 
+                "role_id": "35351535", 
+                "role_name": "Donor", 
+                "person_date": "American, b. 1950", 
+                "role_display_name": "Donated by", 
+                "person_id": "18041397", 
+                "person_url": "https://collection.cooperhewitt.org/people/18041397/"
+            }, 
+            {
+                "person_name": "Megan L. Smith", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35352245/", 
+                "role_id": "35352245", 
+                "role_name": "Cataloguer", 
+                "person_date": "", 
+                "role_display_name": "Catalogued by", 
+                "person_id": "18047443", 
+                "person_url": "https://collection.cooperhewitt.org/people/18047443/"
+            }, 
+            {
+                "person_name": "LSA", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35352245/", 
+                "role_id": "35352245", 
+                "role_name": "Cataloguer", 
+                "person_date": "", 
+                "role_display_name": "Catalogued by", 
+                "person_id": "18048737", 
+                "person_url": "https://collection.cooperhewitt.org/people/18048737/"
+            }, 
+            {
+                "person_name": "Peter Julian", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "", 
+                "role_display_name": "Designed by", 
+                "person_id": "18043161", 
+                "person_url": "https://collection.cooperhewitt.org/people/18043161/"
+            }
+        ], 
+        "decade": "1990", 
+        "label_text": null, 
+        "woe:country": "23424977", 
+        "dimensions_raw": {
+            "width": [
+                "34.90", 
+                "centimeters"
+            ], 
+            "height": [
+                "55.30", 
+                "centimeters"
+            ]
+        }, 
+        "department_id": "35347493", 
+        "title_raw": "The day they devolve...", 
+        "justification": null, 
+        "media_id": "35421135", 
+        "description": "Drawing of man chopping meat; black, grey and white.", 
+        "creditline": "Gift of Steven Heller and Karrie Jacobs", 
+        "on_display": null, 
+        "markings": "Stamps: In red ink on LR: \"Peter Julian 1991 c\"", 
+        "is_loan_object": 0, 
+        "date": "1991", 
+        "url": "https://collection.cooperhewitt.org/objects/18645701/", 
+        "type": "poster", 
+        "accession_number": "1993-53-42", 
+        "year_end": 1991, 
+        "signed": null, 
+        "inscribed": "Imprinted in black ink: \"The day they devolve/cattle into beefy worms through genetic engineer/ing to reduce costs and/simplify the life of/the busy/consumer", 
+        "period_id": null, 
+        "year_acquired": "1993", 
+        "woe:country_id": "23424977"
+    }
+}

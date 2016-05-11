@@ -1,0 +1,119 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": 1968, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": "offset lithograph", 
+        "tms:id": "211502", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/254471_f60c1e897789571f_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "254471"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/254471_f60c1e897789571f_b.jpg", 
+                    "width": 1012, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "254471"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/254471_f60c1e897789571f_d.gif", 
+                    "width": 316, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "254471"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/254471_f60c1e897789571f_z.jpg", 
+                    "width": 633, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "254471"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/254471_f60c1e897789571f_n.jpg", 
+                    "width": 316, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "254471"
+                }
+            }
+        ], 
+        "id": "18672121", 
+        "has_no_known_copyright": null, 
+        "dimensions": "45.4 x 45.1 cm (17 7/8 x 17 3/4 in. )", 
+        "title": "Poster, Exhibition Poster:  Carl Andre,  Dwan Gallery, New York, 1968", 
+        "provenance": null, 
+        "participants": [
+            {
+                "person_name": "General Acquisitions Endowment", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35352247/", 
+                "role_id": "35352247", 
+                "role_name": "Fund", 
+                "person_date": "", 
+                "role_display_name": "Fund:", 
+                "person_id": "18048535", 
+                "person_url": "https://collection.cooperhewitt.org/people/18048535/"
+            }, 
+            {
+                "person_name": "Carl Andre", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236565/", 
+                "role_id": "35236565", 
+                "role_name": "Artist", 
+                "person_date": "American, b. 1935", 
+                "role_display_name": "", 
+                "person_id": "18051583", 
+                "person_url": "https://collection.cooperhewitt.org/people/18051583/"
+            }, 
+            {
+                "person_name": "Lawrence Markey, Inc.", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35352249/", 
+                "role_id": "35352249", 
+                "role_name": "Vendor", 
+                "person_date": "", 
+                "role_display_name": "Purchased from", 
+                "person_id": "18051405", 
+                "person_url": "https://collection.cooperhewitt.org/people/18051405/"
+            }
+        ], 
+        "decade": "1960", 
+        "label_text": null, 
+        "woe:country": null, 
+        "dimensions_raw": {
+            "width": [
+                "45.10", 
+                "centimeters"
+            ], 
+            "height": [
+                "45.40", 
+                "centimeters"
+            ]
+        }, 
+        "department_id": "35347493", 
+        "title_raw": "Exhibition Poster:  Carl Andre,  Dwan Gallery, New York", 
+        "justification": null, 
+        "media_id": "35399027", 
+        "description": "Art exhibition poster with recto comprised of a grid with most of the squares filled with the Mendelean Periodic Table of Chemical Elements starting with number 1 (H=Hydrogent), ending with number 92 (U=Uranium).   Verso: return address imprinted at lower right, \"CARL ANDRE/ OPENING SAT./ DEC. THROUGH/ JAN. 3, 68 DWAN/ GALLERY N.Y.\"", 
+        "creditline": "Museum purchase from General Acquisitions Endowment and Smithsonian Institution Collections Acquisition Program Funds", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "1968", 
+        "url": "https://collection.cooperhewitt.org/objects/18672121/", 
+        "type": "poster", 
+        "accession_number": "1999-45-4", 
+        "year_end": 1968, 
+        "signed": null, 
+        "inscribed": null, 
+        "period_id": null, 
+        "year_acquired": "1999", 
+        "woe:country_id": null
+    }
+}

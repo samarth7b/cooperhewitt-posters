@@ -1,0 +1,99 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": 1993, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": "offset lithography", 
+        "tms:id": "198683", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/252639_1aabb619aa4294f3_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "252639"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/252639_1aabb619aa4294f3_b.jpg", 
+                    "width": 678, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "252639"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/252639_1aabb619aa4294f3_d.gif", 
+                    "width": 212, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "252639"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/252639_1aabb619aa4294f3_z.jpg", 
+                    "width": 424, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "252639"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/252639_1aabb619aa4294f3_n.jpg", 
+                    "width": 212, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "252639"
+                }
+            }
+        ], 
+        "id": "18647555", 
+        "has_no_known_copyright": null, 
+        "dimensions": "58.4 x 38.4 cm (23 x 15 1/8 in. )", 
+        "title": "Poster, American Craft Museum: The Ideal Homes  1900-1920, 1993", 
+        "provenance": null, 
+        "participants": [
+            {
+                "person_name": "Unknown donor: unsolicited gift", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35351535/", 
+                "role_id": "35351535", 
+                "role_name": "Donor", 
+                "person_date": "", 
+                "role_display_name": "Donated by", 
+                "person_id": "18050283", 
+                "person_url": "https://collection.cooperhewitt.org/people/18050283/"
+            }
+        ], 
+        "decade": "1990", 
+        "label_text": null, 
+        "woe:country": null, 
+        "dimensions_raw": {
+            "width": [
+                "38.40", 
+                "centimeters"
+            ], 
+            "height": [
+                "58.40", 
+                "centimeters"
+            ]
+        }, 
+        "department_id": "35347493", 
+        "title_raw": "American Craft Museum: The Ideal Homes  1900-1920", 
+        "justification": null, 
+        "media_id": "35421913", 
+        "description": "Exhibition poster at American Craft Museum entitled \"The Ideal Home 1900-1920.\"  \nRecto: Stylized images in flat, 2 dimensional style of furniture and decorative arts such as orange vase (top left), side view of red wooden chair (left side), grey lamp (center bottom), purple vase (lower right).  1 7/16\" inch border of medieval scroll-like designs in violet against black.  Imprinted in black, top right: \"THE IDEAL/ HOME 1900/1920/ AMERICAN CRAFT MUSEUM IN THE HISTORY OF TWENTIETH-CENTURY AMERICAN CRAFT: A CENTENARY PROJECT\".\nVerso: Imprinted in black, lower right quadrant: \" THE IDEAL HOME: 1900 TO 1920/ IS THE FIRST EXHIBITION IN THE HISTORY OF TWENTIETH_CENTURY AMERICAN CRAFT/...THE CENTANARY PROJECT IS MADE POSSIBLE BY A MAJOR GRANT FROM/ THE LILA WALLACE-READER'S DIGEST FUND./ ADDITIONAL GENEROUS SUPPORT HAS BEEN GIVEN BY THE NATIONAL ENDOWMENT/ FOR THE ARTS, A FORMAL AGENCY, AND THE NORMAN AND ROSITA WINSTON FOUNDA-/ TION, INC.", 
+        "creditline": "Gift of Unknown Donor", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "1993", 
+        "url": "https://collection.cooperhewitt.org/objects/18647555/", 
+        "type": "poster", 
+        "accession_number": "1994-114-36", 
+        "year_end": 1993, 
+        "signed": null, 
+        "inscribed": "Imprinted in black, lower right quadrant: \" THE IDEAL HOME: 1900 TO 1920/ IS THE FIRST EXHIBITION IN THE HISTORY OF TWENTIETH_CENTURY AMERICAN CRAFT/...THE CENTANARY PROJECT IS MADE POSSIBLE BY A MAJOR GRANT FROM/ THE LILA WALLACE-READER'S DIGEST FUND./ ADDITIONAL GENEROUS SUPPORT HAS BEEN GIVEN BY THE NATIONAL ENDOWMENT/ FOR THE ARTS, A FORMAL AGENCY, AND THE NORMAN AND ROSITA WINSTON FOUNDA-/ TION, INC. FUNDING  FOR THE IDEAL HOME: 1900 TO 1920 HAS BEEN GIVEN BY THE J.M/ KAPLAN FUND, MR. AND MRS. SAMUEL C. JOHNSON, HOUSE BEAUTIFUL MAGAZINE,/ PETER JOSEPH GALLERY, THE COWLES CHARITABLE TRUST, BENJAMIN STRAUSS, AND/ KAREN JOHNSON BOYD.  A PORTION OF THE AMERICAN CRAFT MUSEUM'S GENERAL/ OPERATING EXPENSES FOR THIS FISCAL YEAR HAS BEEN PROVIDED THROUGH AN/ IMPORTANT GRANT FROM THE INSTITUTION OF MUSEUM SERVICES, A FEDERAL AGENCY:/ THE AMERICAN CRAFT MUSUEM IS AN AFFILIATE OF THE AMERICAN CRAFT COUNCIL/ THE IDEAL HOME: 1900-1920.  OCTOBER 21, 1993 - FEBRUARY 27, 1994/.../AMERICAN CRAFT MUSEUM/ NEW YORK\".", 
+        "period_id": null, 
+        "year_acquired": "1994", 
+        "woe:country_id": null
+    }
+}

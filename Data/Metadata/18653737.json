@@ -1,0 +1,187 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": 1994, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": "offset color lithograph", 
+        "tms:id": "201829", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/13320_2666170d40652dac_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "13320"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/13320_2666170d40652dac_b.jpg", 
+                    "width": 781, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "13320"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/13320_2666170d40652dac_d.gif", 
+                    "width": 244, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "13320"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/13320_2666170d40652dac_z.jpg", 
+                    "width": 488, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "13320"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/13320_2666170d40652dac_n.jpg", 
+                    "width": 244, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "13320"
+                }
+            }, 
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/256059_ea862eab1e970fad_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "0", 
+                    "image_id": "256059"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/256059_ea862eab1e970fad_b.jpg", 
+                    "width": 796, 
+                    "height": 1024, 
+                    "is_primary": "0", 
+                    "image_id": "256059"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/256059_ea862eab1e970fad_d.gif", 
+                    "width": 249, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "256059"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/256059_ea862eab1e970fad_z.jpg", 
+                    "width": 498, 
+                    "height": 640, 
+                    "is_primary": "0", 
+                    "image_id": "256059"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/256059_ea862eab1e970fad_n.jpg", 
+                    "width": 249, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "256059"
+                }
+            }
+        ], 
+        "id": "18653737", 
+        "has_no_known_copyright": null, 
+        "woe:country_name": "United States", 
+        "dimensions": "66 x 50.8 cm (26 x 20 in.)", 
+        "title": "Poster, Man of the Moment, A Contemporary Theatre, 1994", 
+        "provenance": "Robynne Raye", 
+        "participants": [
+            {
+                "person_name": "Robynne Raye", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35351535/", 
+                "role_id": "35351535", 
+                "role_name": "Donor", 
+                "person_date": "1964", 
+                "role_display_name": "Donated by", 
+                "person_id": "18043573", 
+                "person_url": "https://collection.cooperhewitt.org/people/18043573/"
+            }, 
+            {
+                "person_name": "Elizabeth Horwitz Marcus", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35352245/", 
+                "role_id": "35352245", 
+                "role_name": "Cataloguer", 
+                "person_date": "", 
+                "role_display_name": "Catalogued by", 
+                "person_id": "18047453", 
+                "person_url": "https://collection.cooperhewitt.org/people/18047453/"
+            }, 
+            {
+                "person_name": "Modern Dog", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236681/", 
+                "role_id": "35236681", 
+                "role_name": "Company", 
+                "person_date": "", 
+                "role_display_name": "Company:", 
+                "person_id": "18041831", 
+                "person_url": "https://collection.cooperhewitt.org/people/18041831/"
+            }, 
+            {
+                "person_name": "AU", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35352245/", 
+                "role_id": "35352245", 
+                "role_name": "Cataloguer", 
+                "person_date": "", 
+                "role_display_name": "Catalogued by", 
+                "person_id": "18048335", 
+                "person_url": "https://collection.cooperhewitt.org/people/18048335/"
+            }, 
+            {
+                "person_name": "Michael Strassburger", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "1962", 
+                "role_display_name": "Designed by", 
+                "person_id": "18043587", 
+                "person_url": "https://collection.cooperhewitt.org/people/18043587/"
+            }, 
+            {
+                "person_name": "Robynne Raye", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "1964", 
+                "role_display_name": "Designed by", 
+                "person_id": "18043573", 
+                "person_url": "https://collection.cooperhewitt.org/people/18043573/"
+            }
+        ], 
+        "decade": "1990", 
+        "label_text": null, 
+        "woe:country": "23424977", 
+        "dimensions_raw": {
+            "width": [
+                "50.80", 
+                "centimeters"
+            ], 
+            "height": [
+                "66.00", 
+                "centimeters"
+            ]
+        }, 
+        "department_id": "35347493", 
+        "title_raw": "Man of the Moment, A Contemporary Theatre", 
+        "justification": null, 
+        "media_id": "35423951", 
+        "description": "Poster for theater production by Alan Ayckbourn, August 6-September 4. Text at top and bottom margins includes information regarding performance; and critical review, printed in a variety of colors (i.e., yellow, blue and white) and typefaces. Image at center of television screen on which is seen a man's face in the background and six hands with microphones in the foreground. Along right margin is color proof; interspersed around edges are guidemarks for layout.", 
+        "creditline": "Gift of Robynne Raye", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "1994", 
+        "url": "https://collection.cooperhewitt.org/objects/18653737/", 
+        "type": "poster", 
+        "accession_number": "1996-5-5", 
+        "year_end": 1994, 
+        "signed": null, 
+        "inscribed": "Imprinted, lower left margin, vertically: POSTER BY MODERN DOG. PRINTED ON RECYCLED PAPER, OH BOY.", 
+        "period_id": null, 
+        "year_acquired": "1996", 
+        "woe:country_id": "23424977"
+    }
+}

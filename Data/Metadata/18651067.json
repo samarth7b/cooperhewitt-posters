@@ -1,0 +1,137 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": null, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": "lithograph on paper", 
+        "tms:id": "200472", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/81503_111e4480d5c0d8ce_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "81503"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/81503_111e4480d5c0d8ce_b.jpg", 
+                    "width": 768, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "81503"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/81503_111e4480d5c0d8ce_d.gif", 
+                    "width": 240, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "81503"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/81503_111e4480d5c0d8ce_z.jpg", 
+                    "width": 480, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "81503"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/81503_111e4480d5c0d8ce_n.jpg", 
+                    "width": 240, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "81503"
+                }
+            }, 
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/268632_3c070d9f0499a7f7_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "0", 
+                    "image_id": "268632"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/268632_3c070d9f0499a7f7_b.jpg", 
+                    "width": 779, 
+                    "height": 1024, 
+                    "is_primary": "0", 
+                    "image_id": "268632"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/268632_3c070d9f0499a7f7_d.gif", 
+                    "width": 243, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "268632"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/268632_3c070d9f0499a7f7_z.jpg", 
+                    "width": 487, 
+                    "height": 640, 
+                    "is_primary": "0", 
+                    "image_id": "268632"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/268632_3c070d9f0499a7f7_n.jpg", 
+                    "width": 243, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "268632"
+                }
+            }
+        ], 
+        "id": "18651067", 
+        "has_no_known_copyright": null, 
+        "woe:country_name": "United States", 
+        "dimensions": "61 x 45.8 cm (24 in. x 18 1/16 in.)", 
+        "title": "Poster, You  Need a Roll-On With Maximum Protection", 
+        "provenance": "Minnesota AIDS Project; 1995: acquired by Museum", 
+        "participants": [
+            {
+                "person_name": "Minnesota AIDS Project", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35351535/", 
+                "role_id": "35351535", 
+                "role_name": "Donor", 
+                "person_date": "Minneapolis, Minnesota, USA, founded 1983", 
+                "role_display_name": "Donated by", 
+                "person_id": "18041633", 
+                "person_url": "https://collection.cooperhewitt.org/people/18041633/"
+            }
+        ], 
+        "decade": null, 
+        "label_text": null, 
+        "woe:country": "23424977", 
+        "dimensions_raw": {
+            "width": [
+                "45.80", 
+                "centimeters"
+            ], 
+            "height": [
+                "61.00", 
+                "centimeters"
+            ]
+        }, 
+        "department_id": "35347493", 
+        "title_raw": "You  Need a Roll-On With Maximum Protection", 
+        "justification": null, 
+        "media_id": "35419317", 
+        "description": "Photograph of a skin-colored condom with handwritten note: You need a / roll-on with / maximum / protection.", 
+        "creditline": "Gift of Minnesota AIDS Project", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": null, 
+        "url": "https://collection.cooperhewitt.org/objects/18651067/", 
+        "type": "poster", 
+        "accession_number": "1995-29-8", 
+        "year_end": null, 
+        "signed": null, 
+        "inscribed": null, 
+        "period_id": null, 
+        "year_acquired": "1995", 
+        "woe:country_id": "23424977"
+    }
+}

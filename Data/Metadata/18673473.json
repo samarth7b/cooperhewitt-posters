@@ -1,0 +1,109 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": 1972, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": "ofset lithograph on white wove paper", 
+        "tms:id": "212179", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/269705_1c49222680d41f30_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "269705"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/269705_1c49222680d41f30_b.jpg", 
+                    "width": 856, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "269705"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/269705_1c49222680d41f30_d.gif", 
+                    "width": 268, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "269705"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/269705_1c49222680d41f30_z.jpg", 
+                    "width": 535, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "269705"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/269705_1c49222680d41f30_n.jpg", 
+                    "width": 268, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "269705"
+                }
+            }
+        ], 
+        "id": "18673473", 
+        "has_no_known_copyright": null, 
+        "dimensions": "91.8 x 76.7 cm (36 1/8 x 30 3/16 in. )", 
+        "title": "Poster, A Documentation Work...Silvermine Guild of Artists, 1972", 
+        "provenance": null, 
+        "participants": [
+            {
+                "person_name": "Ken Friedman", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35351535/", 
+                "role_id": "35351535", 
+                "role_name": "Donor", 
+                "person_date": "", 
+                "role_display_name": "Donated by", 
+                "person_id": "18049807", 
+                "person_url": "https://collection.cooperhewitt.org/people/18049807/"
+            }, 
+            {
+                "person_name": "Dan Friedman", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "American, 1945–1995", 
+                "role_display_name": "Designed by", 
+                "person_id": "18041325", 
+                "person_url": "https://collection.cooperhewitt.org/people/18041325/"
+            }
+        ], 
+        "decade": "1970", 
+        "label_text": null, 
+        "woe:country": null, 
+        "dimensions_raw": {
+            "width": [
+                "76.70", 
+                "centimeters"
+            ], 
+            "height": [
+                "91.80", 
+                "centimeters"
+            ]
+        }, 
+        "department_id": "35347493", 
+        "title_raw": "A Documentation Work...Silvermine Guild of Artists", 
+        "justification": null, 
+        "media_id": "35428731", 
+        "description": "An exhibition poster featuring the names of painting studenta at the Silvermine Guild, printed in white text on a solid black background. The first names of the artists are in a thinner font white the last names are printed heavier. The names are irregularly clustered in the upper quadrant. At lower center in heavy white block letters: APRIL / 72. Gallery name at lower center.The artists names reading from top of sheet: SALLY / AUBREY  SUSAN COURAGE BLATT / SUE EVANS / BARBARA GRAY / KARIN KLINK / STELLA PETTERSON / MARILOU VOGLER / MARY K. WALKER / CARROL WEBB / MARGART WARE / B.FORD WOIT / IRMA GILGORE / ANN HEATH / LILLIAN LEWIN / JANE SAX", 
+        "creditline": "Gift of Ken Friedman", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "1972", 
+        "url": "https://collection.cooperhewitt.org/objects/18673473/", 
+        "type": "poster", 
+        "accession_number": "1997-19-228", 
+        "year_end": 1972, 
+        "signed": null, 
+        "inscribed": "Imprinted in white lower left: A Documentation of works / and works in progress by students / of the Painting Seminar of / The Silvermine Guild / School of the Arts / April 28 to May 19.\nLower center in white: The Guest Gallery / The Silvermine Guild of Artists / New Canaan Connecticut", 
+        "period_id": null, 
+        "year_acquired": "1997", 
+        "woe:country_id": null
+    }
+}

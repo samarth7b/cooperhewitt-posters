@@ -1,0 +1,119 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": 1977, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": "offset lithograph on white paper", 
+        "tms:id": "211521", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/269215_f0708825b5399873_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "269215"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/269215_f0708825b5399873_b.jpg", 
+                    "width": 739, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "269215"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/269215_f0708825b5399873_d.gif", 
+                    "width": 231, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "269215"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/269215_f0708825b5399873_z.jpg", 
+                    "width": 462, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "269215"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/269215_f0708825b5399873_n.jpg", 
+                    "width": 231, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "269215"
+                }
+            }
+        ], 
+        "id": "18672157", 
+        "has_no_known_copyright": null, 
+        "dimensions": "83.8 x 59.4 cm (33 x 23 3/8 in. )", 
+        "title": "Poster, Exhibition Poster: Robert Mangold, Kunsthalle, Basel, 1977", 
+        "provenance": null, 
+        "participants": [
+            {
+                "person_name": "General Acquisitions Endowment", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35352247/", 
+                "role_id": "35352247", 
+                "role_name": "Fund", 
+                "person_date": "", 
+                "role_display_name": "Fund:", 
+                "person_id": "18048535", 
+                "person_url": "https://collection.cooperhewitt.org/people/18048535/"
+            }, 
+            {
+                "person_name": "Robert Mangold", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236565/", 
+                "role_id": "35236565", 
+                "role_name": "Artist", 
+                "person_date": "American, b. 1937", 
+                "role_display_name": "", 
+                "person_id": "18051549", 
+                "person_url": "https://collection.cooperhewitt.org/people/18051549/"
+            }, 
+            {
+                "person_name": "Lawrence Markey, Inc.", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35352249/", 
+                "role_id": "35352249", 
+                "role_name": "Vendor", 
+                "person_date": "", 
+                "role_display_name": "Purchased from", 
+                "person_id": "18051405", 
+                "person_url": "https://collection.cooperhewitt.org/people/18051405/"
+            }
+        ], 
+        "decade": "1970", 
+        "label_text": null, 
+        "woe:country": null, 
+        "dimensions_raw": {
+            "width": [
+                "59.40", 
+                "centimeters"
+            ], 
+            "height": [
+                "83.80", 
+                "centimeters"
+            ]
+        }, 
+        "department_id": "35347493", 
+        "title_raw": "Exhibition Poster: Robert Mangold, Kunsthalle, Basel", 
+        "justification": null, 
+        "media_id": "35424093", 
+        "description": "Art exhibition poster on gray background with white border.  Text is placed in upper left corner; image is at bottom.   The image shows an outline drawing of a shaped canvas, comprised of a a black outline of a square(left) abutted to half of a semicircle (right).  Within the square is a red-line arc; within the segment of a circle is a right angle in gray.", 
+        "creditline": "Museum purchase from General Acquisitions Endowment and Smithsonian Institution Collections Acquisition Program Funds", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "1977", 
+        "url": "https://collection.cooperhewitt.org/objects/18672157/", 
+        "type": "poster", 
+        "accession_number": "1999-45-19", 
+        "year_end": 1977, 
+        "signed": null, 
+        "inscribed": "Imprinted at top left corner: \"KUNSTHALLE BASEL/ 12. März - 11. April täglich 10 - 12 und 14 - 18/ Mittwoch auch 20 -22, Sonntag 10 -12 und 14 -17/ ROBERT MANGOLD\"", 
+        "period_id": null, 
+        "year_acquired": "1999", 
+        "woe:country_id": null
+    }
+}

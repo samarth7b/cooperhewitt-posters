@@ -1,0 +1,110 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": 1974, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": "printed paper", 
+        "tms:id": "198559", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/267008_f63a75c630f631d8_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "267008"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/267008_f63a75c630f631d8_b.jpg", 
+                    "width": 732, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "267008"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/267008_f63a75c630f631d8_d.gif", 
+                    "width": 229, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "267008"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/267008_f63a75c630f631d8_z.jpg", 
+                    "width": 457, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "267008"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/267008_f63a75c630f631d8_n.jpg", 
+                    "width": 229, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "267008"
+                }
+            }
+        ], 
+        "id": "18647309", 
+        "has_no_known_copyright": null, 
+        "woe:country_name": "Switzerland", 
+        "dimensions": "87.6 x 61.6 cm (34 1/2 x 24 1/4 in.)", 
+        "title": "Poster, Nr. 1, 1974", 
+        "provenance": null, 
+        "participants": [
+            {
+                "person_name": "Anonymous", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35351535/", 
+                "role_id": "35351535", 
+                "role_name": "Donor", 
+                "person_date": "", 
+                "role_display_name": "Donated by", 
+                "person_id": "68739079", 
+                "person_url": "https://collection.cooperhewitt.org/people/68739079/"
+            }, 
+            {
+                "person_name": "Wolfgang Weingart", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "Swiss, b. 1941", 
+                "role_display_name": "Designed by", 
+                "person_id": "18043521", 
+                "person_url": "https://collection.cooperhewitt.org/people/18043521/"
+            }
+        ], 
+        "decade": "1970", 
+        "label_text": null, 
+        "woe:country": "23424957", 
+        "dimensions_raw": {
+            "width": [
+                "61.60", 
+                "centimeters"
+            ], 
+            "height": [
+                "87.60", 
+                "centimeters"
+            ]
+        }, 
+        "department_id": "35347493", 
+        "title_raw": "Nr. 1", 
+        "justification": null, 
+        "media_id": "35389903", 
+        "description": null, 
+        "creditline": "Gift of Anonymous Donor", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "1974", 
+        "url": "https://collection.cooperhewitt.org/objects/18647309/", 
+        "type": "poster", 
+        "accession_number": "1994-109-15", 
+        "year_end": 1974, 
+        "signed": null, 
+        "inscribed": null, 
+        "period_id": null, 
+        "year_acquired": "1994", 
+        "woe:country_id": "23424957"
+    }
+}

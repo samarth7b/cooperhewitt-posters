@@ -1,0 +1,147 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": 1982, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": "offset lithograph on brown wove paper", 
+        "tms:id": "191589", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/63859_1be78c88ae5b0ab3_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "63859"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/63859_1be78c88ae5b0ab3_b.jpg", 
+                    "width": 1024, 
+                    "height": 713, 
+                    "is_primary": "1", 
+                    "image_id": "63859"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/63859_1be78c88ae5b0ab3_d.gif", 
+                    "width": 320, 
+                    "height": 223, 
+                    "is_primary": "1", 
+                    "image_id": "63859"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/63859_1be78c88ae5b0ab3_z.jpg", 
+                    "width": 640, 
+                    "height": 446, 
+                    "is_primary": "1", 
+                    "image_id": "63859"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/63859_1be78c88ae5b0ab3_n.jpg", 
+                    "width": 320, 
+                    "height": 223, 
+                    "is_primary": "1", 
+                    "image_id": "63859"
+                }
+            }, 
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/203333_7ccda36498e6bab7_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "0", 
+                    "image_id": "203333"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/203333_7ccda36498e6bab7_b.jpg", 
+                    "width": 1024, 
+                    "height": 707, 
+                    "is_primary": "0", 
+                    "image_id": "203333"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/203333_7ccda36498e6bab7_d.gif", 
+                    "width": 320, 
+                    "height": 221, 
+                    "is_primary": "0", 
+                    "image_id": "203333"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/203333_7ccda36498e6bab7_z.jpg", 
+                    "width": 640, 
+                    "height": 442, 
+                    "is_primary": "0", 
+                    "image_id": "203333"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/203333_7ccda36498e6bab7_n.jpg", 
+                    "width": 320, 
+                    "height": 221, 
+                    "is_primary": "0", 
+                    "image_id": "203333"
+                }
+            }
+        ], 
+        "id": "18633491", 
+        "has_no_known_copyright": null, 
+        "woe:country_name": "Netherlands", 
+        "dimensions": "42.5 x 61.6 cm (16 3/4 x 24 1/4 in. )", 
+        "title": "Poster, Dansproductie Feuilleton I, 1982", 
+        "provenance": "1989: acquired by Museum", 
+        "participants": [
+            {
+                "person_name": "Karin Zonis", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35352245/", 
+                "role_id": "35352245", 
+                "role_name": "Cataloguer", 
+                "person_date": "", 
+                "role_display_name": "Catalogued by", 
+                "person_id": "51676457", 
+                "person_url": "https://collection.cooperhewitt.org/people/51676457/"
+            }, 
+            {
+                "person_name": "Hard Werken Design", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "", 
+                "role_display_name": "Designed by", 
+                "person_id": "18042029", 
+                "person_url": "https://collection.cooperhewitt.org/people/18042029/"
+            }
+        ], 
+        "decade": "1980", 
+        "label_text": null, 
+        "woe:country": "23424909", 
+        "dimensions_raw": {
+            "width": [
+                "61.60", 
+                "centimeters"
+            ], 
+            "height": [
+                "42.50", 
+                "centimeters"
+            ]
+        }, 
+        "department_id": "35347493", 
+        "title_raw": "Dansproductie Feuilleton I", 
+        "justification": null, 
+        "media_id": "35398227", 
+        "description": "Poster with tan-colored text on light tan surface, above: dansproduktie / [in tall letters taking up most of the poster’s surface]: feuiLLeTon [superimposed in gray by:] (1) / EEN PROGRAMMA VAN . BEPPIE BLANKERT . PAULIEN DANIELS . HARRY DE WIT / [in gray:] Theater ‘t Hoogt - Utrecht / 14, 15, 16 oktober 1982 20.30 uur 030 – 328388.", 
+        "creditline": null, 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "1982", 
+        "url": "https://collection.cooperhewitt.org/objects/18633491/", 
+        "type": "poster", 
+        "accession_number": "1989-85-2", 
+        "year_end": 1982, 
+        "signed": null, 
+        "inscribed": null, 
+        "period_id": null, 
+        "year_acquired": "1989", 
+        "woe:country_id": "23424909"
+    }
+}

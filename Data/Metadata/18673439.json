@@ -1,0 +1,120 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": 1975, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": "offset lithograph on white wove paper", 
+        "tms:id": "212162", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/254804_b2d5422cb998cc76_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "254804"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/254804_b2d5422cb998cc76_b.jpg", 
+                    "width": 715, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "254804"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/254804_b2d5422cb998cc76_d.gif", 
+                    "width": 223, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "254804"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/254804_b2d5422cb998cc76_z.jpg", 
+                    "width": 447, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "254804"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/254804_b2d5422cb998cc76_n.jpg", 
+                    "width": 223, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "254804"
+                }
+            }
+        ], 
+        "id": "18673439", 
+        "has_no_known_copyright": null, 
+        "woe:country_name": "United States", 
+        "dimensions": "88.7 x 61.0 cm (34 15/16 x 24 in. )", 
+        "title": "Poster, Images of an Era The American Poster 1945-1975, Exhibition Poster for The Grey Art Gallery, and Study Center, New York University, 1975", 
+        "provenance": "Dan Friedman; Ken Friedman; 1997: acquired by Museum", 
+        "participants": [
+            {
+                "person_name": "Chermayeff & Geismar Associates", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "New York, New York, USA", 
+                "role_display_name": "Designed by", 
+                "person_id": "18053275", 
+                "person_url": "https://collection.cooperhewitt.org/people/18053275/"
+            }, 
+            {
+                "person_name": "Ivan Chermayeff", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "English, b. 1932", 
+                "role_display_name": "Designed by", 
+                "person_id": "18042085", 
+                "person_url": "https://collection.cooperhewitt.org/people/18042085/"
+            }, 
+            {
+                "person_name": "Ken Friedman", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35351535/", 
+                "role_id": "35351535", 
+                "role_name": "Donor", 
+                "person_date": "", 
+                "role_display_name": "Donated by", 
+                "person_id": "18049807", 
+                "person_url": "https://collection.cooperhewitt.org/people/18049807/"
+            }
+        ], 
+        "decade": "1970", 
+        "label_text": null, 
+        "woe:country": "23424977", 
+        "dimensions_raw": {
+            "width": [
+                "61.00", 
+                "centimeters"
+            ], 
+            "height": [
+                "88.70", 
+                "centimeters"
+            ]
+        }, 
+        "department_id": "35347493", 
+        "title_raw": "Images of an Era The American Poster 1945-1975, Exhibition Poster for The Grey Art Gallery, and Study Center, New York University", 
+        "justification": null, 
+        "media_id": "35431673", 
+        "description": "Red and white squares that contain, and are also formed by, the letters that make up the exhibition title are shown against a blue background.   Below in black, the name and address of the Gallery, dates and sponsors.", 
+        "creditline": "Gift of Ken Friedman", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "1975", 
+        "url": "https://collection.cooperhewitt.org/objects/18673439/", 
+        "type": "poster", 
+        "accession_number": "1997-19-211", 
+        "year_end": 1975, 
+        "signed": "Imprinted in red center right : Ivan Chermayeff", 
+        "inscribed": "Imprinted in black below image: Grey Art Gallery & Study Center, New York University / Washington Square East / May 25 - July 8 / Organized by the National Collection of Fine Arts, / Smithsonian Institution / Made possible by a grant from Mobil", 
+        "period_id": null, 
+        "year_acquired": "1997", 
+        "woe:country_id": "23424977"
+    }
+}

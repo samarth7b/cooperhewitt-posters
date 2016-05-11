@@ -1,0 +1,157 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": 1927, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": "offset lithograph on paper, lined", 
+        "tms:id": "134526", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/65783_e6734653a4a0c7bc_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "65783"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/65783_e6734653a4a0c7bc_b.jpg", 
+                    "width": 768, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "65783"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/65783_e6734653a4a0c7bc_d.gif", 
+                    "width": 240, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "65783"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/65783_e6734653a4a0c7bc_z.jpg", 
+                    "width": 480, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "65783"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/65783_e6734653a4a0c7bc_n.jpg", 
+                    "width": 240, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "65783"
+                }
+            }, 
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/221475_783d353179f59390_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "0", 
+                    "image_id": "221475"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/221475_783d353179f59390_b.jpg", 
+                    "width": 758, 
+                    "height": 1024, 
+                    "is_primary": "0", 
+                    "image_id": "221475"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/221475_783d353179f59390_d.gif", 
+                    "width": 237, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "221475"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/221475_783d353179f59390_z.jpg", 
+                    "width": 474, 
+                    "height": 640, 
+                    "is_primary": "0", 
+                    "image_id": "221475"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/221475_783d353179f59390_n.jpg", 
+                    "width": 237, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "221475"
+                }
+            }
+        ], 
+        "id": "18448021", 
+        "has_no_known_copyright": null, 
+        "woe:country_name": "United Kingdom", 
+        "dimensions": "57.1 x 41.8 cm (22 1/2 x 16 7/16 in.)", 
+        "title": "Poster, Advertisement for Eastman and Son, Cleaners, 1927", 
+        "provenance": "Mrs. Edward McKnight Kauffer; 1963: acquired by Museum", 
+        "participants": [
+            {
+                "person_name": "Marion Dorn Kauffer", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35351535/", 
+                "role_id": "35351535", 
+                "role_name": "Donor", 
+                "person_date": "American, active in England, 1896–1964", 
+                "role_display_name": "Donated by", 
+                "person_id": "18046153", 
+                "person_url": "https://collection.cooperhewitt.org/people/18046153/"
+            }, 
+            {
+                "person_name": "Marion Dorn Kauffer", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35351535/", 
+                "role_id": "35351535", 
+                "role_name": "Donor", 
+                "person_date": "American, active in England, 1896–1964", 
+                "role_display_name": "Donated by", 
+                "person_id": "18049761", 
+                "person_url": "https://collection.cooperhewitt.org/people/18046153/"
+            }, 
+            {
+                "person_name": "Edward McKnight Kauffer", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "American, active England, 1890–1954", 
+                "role_display_name": "Designed by", 
+                "person_id": "18041923", 
+                "person_url": "https://collection.cooperhewitt.org/people/18041923/"
+            }
+        ], 
+        "decade": "1920", 
+        "label_text": null, 
+        "woe:country": "23424975", 
+        "dimensions_raw": {
+            "width": [
+                "41.80", 
+                "centimeters"
+            ], 
+            "height": [
+                "57.10", 
+                "centimeters"
+            ]
+        }, 
+        "department_id": "35347493", 
+        "title_raw": "Advertisement for Eastman and Son, Cleaners", 
+        "justification": null, 
+        "media_id": "51685923", 
+        "description": "A harlequin balancing rhomboids in one hand and holding a staff or bat in the other. Above in different colors: EASTMAN / AND / SON; below in blue ink: SINCE / 1802 BRANCHES / EVERYWHERE / THE LONDON DYERS / AND CLEANERS.", 
+        "creditline": "Gift of Mrs. E. McKnight Kauffer", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "1927", 
+        "url": "https://collection.cooperhewitt.org/objects/18448021/", 
+        "type": "poster", 
+        "accession_number": "1963-39-43", 
+        "year_end": 1927, 
+        "signed": "Signed in blue ink, center right: E. McKnight Kauffer / 1927", 
+        "inscribed": "Printed in black ink, lower margin: WASS, PRITCHARD & CO. LTD. 85, FENCHURCH ST LONDON, E. C. III.", 
+        "period_id": null, 
+        "year_acquired": "1963", 
+        "woe:country_id": "23424975"
+    }
+}

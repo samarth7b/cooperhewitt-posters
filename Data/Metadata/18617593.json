@@ -1,0 +1,147 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": 1973, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": "offset lithograph on paper", 
+        "tms:id": "177329", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/65001_22a90e80c9ad6a4c_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "65001"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/65001_22a90e80c9ad6a4c_b.jpg", 
+                    "width": 796, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "65001"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/65001_22a90e80c9ad6a4c_d.gif", 
+                    "width": 249, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "65001"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/65001_22a90e80c9ad6a4c_z.jpg", 
+                    "width": 497, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "65001"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/65001_22a90e80c9ad6a4c_n.jpg", 
+                    "width": 249, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "65001"
+                }
+            }, 
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/267830_d8d0906cc162f801_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "0", 
+                    "image_id": "267830"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/267830_d8d0906cc162f801_b.jpg", 
+                    "width": 793, 
+                    "height": 1024, 
+                    "is_primary": "0", 
+                    "image_id": "267830"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/267830_d8d0906cc162f801_d.gif", 
+                    "width": 248, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "267830"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/267830_d8d0906cc162f801_z.jpg", 
+                    "width": 495, 
+                    "height": 640, 
+                    "is_primary": "0", 
+                    "image_id": "267830"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/267830_d8d0906cc162f801_n.jpg", 
+                    "width": 248, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "267830"
+                }
+            }
+        ], 
+        "id": "18617593", 
+        "has_no_known_copyright": null, 
+        "woe:country_name": "United States", 
+        "dimensions": "H x W: 72.9 x 56.2 cm (28 11/16 x 22 1/8 in.)", 
+        "title": "Poster, \"Levi's Saddleman Boot Jeans\" for Levi Strauss, 1973", 
+        "provenance": "1981: acquired by Museum", 
+        "participants": [
+            {
+                "person_name": "B. L. Wolfe", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "", 
+                "role_display_name": "Designed by", 
+                "person_id": "51688177", 
+                "person_url": "https://collection.cooperhewitt.org/people/51688177/"
+            }, 
+            {
+                "person_name": "Levi Strauss", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236667/", 
+                "role_id": "35236667", 
+                "role_name": "Client", 
+                "person_date": "San Francisco, California, USA", 
+                "role_display_name": "Client:", 
+                "person_id": "18535845", 
+                "person_url": "https://collection.cooperhewitt.org/people/18535845/"
+            }
+        ], 
+        "decade": "1970", 
+        "label_text": null, 
+        "woe:country": "23424977", 
+        "dimensions_raw": {
+            "width": [
+                "56.20", 
+                "centimeters"
+            ], 
+            "height": [
+                "72.90", 
+                "centimeters"
+            ]
+        }, 
+        "department_id": "35347493", 
+        "title_raw": "\"Levi's Saddleman Boot Jeans\" for Levi Strauss", 
+        "justification": null, 
+        "media_id": "35399021", 
+        "description": "Three men wearing Levi’s garb, including pants or jeans, jackets and shirts. They wear cowboy boots and are tugging with all their might something unseen at the right, as two other men in the background look on. Across the top, in red: LEVI’S SADDLEMAN BOOT JEANS.", 
+        "creditline": "Gift of Various Donors", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "1973", 
+        "url": "https://collection.cooperhewitt.org/objects/18617593/", 
+        "type": "poster", 
+        "accession_number": "1981-29-251", 
+        "year_end": 1973, 
+        "signed": "Signed in white ink, lower left: B. L. WOLFE / -73-", 
+        "inscribed": "Printed in yellow ink, lower right: The TAB and the word “Levi’s” are registered trademarks of Levi Strauss & Co., San Francisco. P7A-5/174", 
+        "period_id": null, 
+        "year_acquired": "1981", 
+        "woe:country_id": "23424977"
+    }
+}

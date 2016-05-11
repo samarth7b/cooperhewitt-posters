@@ -1,0 +1,207 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": "After the Revolution of 1959, Cuba exceeded in producing culturally rich posters and films. In particular, the Instituto Cubano del Arte y la Industria Cinematrograficos (ICAIC) was established in result of the culture law developed by the revolutionary government. This new governing system believed that film media was to be the impetus for education and spreading nationalist ideas to the public. The plan to disseminate these ideas involved travel film exhibitions, of which Bolivia was one of the countries who hosted a week of Cuban film.", 
+        "year_start": 1985, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": "screenprint on wove paper", 
+        "tms:id": "199464", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/90758_b93cad9003d83b8b_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "90758"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/90758_b93cad9003d83b8b_b.jpg", 
+                    "width": 677, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "90758"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/90758_b93cad9003d83b8b_d.gif", 
+                    "width": 212, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "90758"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/90758_b93cad9003d83b8b_z.jpg", 
+                    "width": 423, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "90758"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/90758_b93cad9003d83b8b_n.jpg", 
+                    "width": 212, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "90758"
+                }
+            }, 
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/12524_aefa446987055350_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "0", 
+                    "image_id": "12524"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/12524_aefa446987055350_b.jpg", 
+                    "width": 700, 
+                    "height": 1024, 
+                    "is_primary": "0", 
+                    "image_id": "12524"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/12524_aefa446987055350_d.gif", 
+                    "width": 219, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "12524"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/12524_aefa446987055350_z.jpg", 
+                    "width": 437, 
+                    "height": 640, 
+                    "is_primary": "0", 
+                    "image_id": "12524"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/12524_aefa446987055350_n.jpg", 
+                    "width": 219, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "12524"
+                }
+            }
+        ], 
+        "id": "18649109", 
+        "has_no_known_copyright": null, 
+        "woe:country_name": "Cuba", 
+        "dimensions": "76 × 50.8 cm (29 15/16 in. × 20 in.)", 
+        "title": "Poster, Semana de Cine Cubano en Bolivia (Cuban Cinema Week in Bolivia), 1985", 
+        "provenance": "1994: acquired by Museum (from Reinhold Brown Gallery New York, NY)", 
+        "participants": [
+            {
+                "person_name": "Dr. Gail Davidson", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35352245/", 
+                "role_id": "35352245", 
+                "role_name": "Cataloguer", 
+                "person_date": "", 
+                "role_display_name": "Catalogued by", 
+                "person_id": "18048255", 
+                "person_url": "https://collection.cooperhewitt.org/people/18048255/"
+            }, 
+            {
+                "person_name": "Reinhold Brown Gallery", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35352249/", 
+                "role_id": "35352249", 
+                "role_name": "Vendor", 
+                "person_date": "", 
+                "role_display_name": "Purchased from", 
+                "person_id": "18041557", 
+                "person_url": "https://collection.cooperhewitt.org/people/18041557/"
+            }, 
+            {
+                "person_name": "Smithsonian Institution CAP Funds--do not use", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35352247/", 
+                "role_id": "35352247", 
+                "role_name": "Fund", 
+                "person_date": "", 
+                "role_display_name": "Fund:", 
+                "person_id": "18048931", 
+                "person_url": "https://collection.cooperhewitt.org/people/18048931/"
+            }, 
+            {
+                "person_name": "ss", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35352245/", 
+                "role_id": "35352245", 
+                "role_name": "Cataloguer", 
+                "person_date": "", 
+                "role_display_name": "Catalogued by", 
+                "person_id": "18047797", 
+                "person_url": "https://collection.cooperhewitt.org/people/18047797/"
+            }, 
+            {
+                "person_name": "SR", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35352245/", 
+                "role_id": "35352245", 
+                "role_name": "Cataloguer", 
+                "person_date": "", 
+                "role_display_name": "Catalogued by", 
+                "person_id": "18047543", 
+                "person_url": "https://collection.cooperhewitt.org/people/18047543/"
+            }, 
+            {
+                "person_name": "The Cuban Institute of Cinematographic Art and Industry (ICAIC)", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236667/", 
+                "role_id": "35236667", 
+                "role_name": "Client", 
+                "person_date": "Cuba", 
+                "role_display_name": "Client:", 
+                "person_id": "18043359", 
+                "person_url": "https://collection.cooperhewitt.org/people/18043359/"
+            }, 
+            {
+                "person_name": "Nestor, Cuban", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236565/", 
+                "role_id": "35236565", 
+                "role_name": "Artist", 
+                "person_date": "b. 1948", 
+                "role_display_name": "", 
+                "person_id": "18043367", 
+                "person_url": "https://collection.cooperhewitt.org/people/18043367/"
+            }, 
+            {
+                "person_name": "Nestor, Cuban", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "b. 1948", 
+                "role_display_name": "Designed by", 
+                "person_id": "18043367", 
+                "person_url": "https://collection.cooperhewitt.org/people/18043367/"
+            }
+        ], 
+        "decade": "1980", 
+        "label_text": null, 
+        "woe:country": "23424793", 
+        "dimensions_raw": {
+            "width": [
+                "50.17", 
+                "centimeters"
+            ], 
+            "height": [
+                "75.57", 
+                "centimeters"
+            ]
+        }, 
+        "department_id": "35347493", 
+        "title_raw": "Semana de Cine Cubano en Bolivia (Cuban Cinema Week in Bolivia)", 
+        "justification": null, 
+        "media_id": "35399029", 
+        "description": "Five men draped in Cuban flags are presented from lower left foreground and continue into the distance at the lower right. Each holds a flag created by a piece of red, white or blue film. Figures are set against a green ground. Title in black at upper left: SEMANA DE / CINE CUBANO / EN BOLIVIA. (Cuban Cinema Week in Bolivia)", 
+        "creditline": "Museum purchase from Smithsonian Institution Collections Acquisition Program Fund and through gift of Anonymous Donors", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "1985", 
+        "url": "https://collection.cooperhewitt.org/objects/18649109/", 
+        "type": "poster", 
+        "accession_number": "1994-65-7", 
+        "year_end": 1985, 
+        "signed": "Signed and dated on image running vertically, lower left: Nestor 85", 
+        "inscribed": null, 
+        "period_id": null, 
+        "year_acquired": "1994", 
+        "woe:country_id": "23424793"
+    }
+}

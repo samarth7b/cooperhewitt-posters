@@ -1,0 +1,156 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": 1959, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": "offset lithograph on wove paper, mounted on linen", 
+        "tms:id": "255491", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/38552_a80c761c11e82f95_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "38552"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/38552_a80c761c11e82f95_b.jpg", 
+                    "width": 1024, 
+                    "height": 704, 
+                    "is_primary": "1", 
+                    "image_id": "38552"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/38552_a80c761c11e82f95_d.gif", 
+                    "width": 320, 
+                    "height": 220, 
+                    "is_primary": "1", 
+                    "image_id": "38552"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/38552_a80c761c11e82f95_z.jpg", 
+                    "width": 640, 
+                    "height": 440, 
+                    "is_primary": "1", 
+                    "image_id": "38552"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/38552_a80c761c11e82f95_n.jpg", 
+                    "width": 320, 
+                    "height": 220, 
+                    "is_primary": "1", 
+                    "image_id": "38552"
+                }
+            }, 
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/253356_f46d3a369cb11f89_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "0", 
+                    "image_id": "253356"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/253356_f46d3a369cb11f89_b.jpg", 
+                    "width": 1024, 
+                    "height": 714, 
+                    "is_primary": "0", 
+                    "image_id": "253356"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/253356_f46d3a369cb11f89_d.gif", 
+                    "width": 320, 
+                    "height": 223, 
+                    "is_primary": "0", 
+                    "image_id": "253356"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/253356_f46d3a369cb11f89_z.jpg", 
+                    "width": 640, 
+                    "height": 446, 
+                    "is_primary": "0", 
+                    "image_id": "253356"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/253356_f46d3a369cb11f89_n.jpg", 
+                    "width": 320, 
+                    "height": 223, 
+                    "is_primary": "0", 
+                    "image_id": "253356"
+                }
+            }
+        ], 
+        "id": "18758411", 
+        "has_no_known_copyright": null, 
+        "dimensions": "58.3 x 86.1 cm (22 15/16 x 33 7/8 in.)\nMount: 62.2 x 86.6 cm (24 1/2 x 34 1/8 in.)", 
+        "title": "Poster, Tamango, 1959", 
+        "provenance": "Acquired from dealers, galleries and auction houses by Marc Benda.  Remained with Benda until 2010, when gifted to CHNDM.", 
+        "participants": [
+            {
+                "person_name": "Wiktor Górka", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "Polish, 1922 - 2004", 
+                "role_display_name": "Designed by", 
+                "person_id": "18063563", 
+                "person_url": "https://collection.cooperhewitt.org/people/18063563/"
+            }, 
+            {
+                "person_name": "Marc Benda", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35351535/", 
+                "role_id": "35351535", 
+                "role_name": "Donor", 
+                "person_date": "", 
+                "role_display_name": "Donated by", 
+                "person_id": "18062523", 
+                "person_url": "https://collection.cooperhewitt.org/people/18062523/"
+            }, 
+            {
+                "person_name": "Sara Benda", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35351535/", 
+                "role_id": "35351535", 
+                "role_name": "Donor", 
+                "person_date": "", 
+                "role_display_name": "Donated by", 
+                "person_id": "18063205", 
+                "person_url": "https://collection.cooperhewitt.org/people/18063205/"
+            }
+        ], 
+        "decade": "1950", 
+        "label_text": null, 
+        "woe:country": null, 
+        "dimensions_raw": {
+            "width": [
+                "86.60", 
+                "centimeters"
+            ], 
+            "height": [
+                "62.20", 
+                "centimeters"
+            ]
+        }, 
+        "department_id": "35347493", 
+        "title_raw": "Tamango", 
+        "justification": null, 
+        "media_id": "35434607", 
+        "description": "On crème background, four black figures reminiscent of African wooden figurines, outlined in concentric grey lines of varying shades, are rhythmically arranged in expressive poses. At upper left, the title \"TAMANGO\" in red letters over black rectangle, with the inscription \"Szerokoekranowy barwny film / produkcji / francuskiej\" directly below. At upper right is the inscription \"wg PROSPERA MERIMEE / rezyseria JOHN BERRY / Produkcja: Les Films Ddu Cyclop\". At bottom: \"w rolach / glownych / CURD JURGENS  JEAN SERVAIS  DOROTHY DANDRIDGE\".", 
+        "creditline": "Gift of Sara and Marc Benda", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "1959", 
+        "url": "https://collection.cooperhewitt.org/objects/18758411/", 
+        "type": "poster", 
+        "accession_number": "2010-21-102", 
+        "year_end": 1959, 
+        "signed": "in pen and black ink in right margin of poster: W. Gorka", 
+        "inscribed": null, 
+        "period_id": null, 
+        "year_acquired": "2010", 
+        "woe:country_id": null
+    }
+}

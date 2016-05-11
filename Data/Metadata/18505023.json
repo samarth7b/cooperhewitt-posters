@@ -1,0 +1,90 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": null, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": null, 
+        "tms:id": "163415", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/252682_8434afca8907877c_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "252682"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/252682_8434afca8907877c_b.jpg", 
+                    "width": 626, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "252682"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/252682_8434afca8907877c_d.gif", 
+                    "width": 196, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "252682"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/252682_8434afca8907877c_z.jpg", 
+                    "width": 391, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "252682"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/252682_8434afca8907877c_n.jpg", 
+                    "width": 196, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "252682"
+                }
+            }
+        ], 
+        "id": "18505023", 
+        "has_no_known_copyright": null, 
+        "dimensions": null, 
+        "title": "Poster, Travel Poster: Bermuda", 
+        "provenance": null, 
+        "participants": [
+            {
+                "person_name": "Adolph Treidler", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "", 
+                "role_display_name": "Designed by", 
+                "person_id": "68263787", 
+                "person_url": "https://collection.cooperhewitt.org/people/68263787/"
+            }
+        ], 
+        "decade": null, 
+        "label_text": null, 
+        "woe:country": null, 
+        "dimensions_raw": null, 
+        "department_id": "35347493", 
+        "title_raw": "Travel Poster: Bermuda", 
+        "justification": null, 
+        "media_id": "35371135", 
+        "description": null, 
+        "creditline": "Gift of Unknown Donor", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": null, 
+        "url": "https://collection.cooperhewitt.org/objects/18505023/", 
+        "type": "poster", 
+        "accession_number": "1980-32-1161", 
+        "year_end": null, 
+        "signed": null, 
+        "inscribed": null, 
+        "period_id": null, 
+        "year_acquired": "1980", 
+        "woe:country_id": null
+    }
+}

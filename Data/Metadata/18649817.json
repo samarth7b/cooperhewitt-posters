@@ -1,0 +1,110 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": 1968, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": "screenprint on paper", 
+        "tms:id": "199826", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/267657_02b7cc093a56eec4_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "267657"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/267657_02b7cc093a56eec4_b.jpg", 
+                    "width": 369, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "267657"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/267657_02b7cc093a56eec4_d.gif", 
+                    "width": 115, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "267657"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/267657_02b7cc093a56eec4_z.jpg", 
+                    "width": 230, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "267657"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/267657_02b7cc093a56eec4_n.jpg", 
+                    "width": 115, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "267657"
+                }
+            }
+        ], 
+        "id": "18649817", 
+        "has_no_known_copyright": null, 
+        "woe:country_name": "Japan", 
+        "dimensions": "76 x 25.8 cm (29 15/16 x 10 3/16 in. )", 
+        "title": "Poster, \"Dojidai Engeki\" [Concerned Theatre Japan], 1968–70", 
+        "provenance": "James Fraser (contact for Koga)", 
+        "participants": [
+            {
+                "person_name": "Kôga Hirano", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35351535/", 
+                "role_id": "35351535", 
+                "role_name": "Donor", 
+                "person_date": "Japanese, b. Seoul, South Korea, 1938", 
+                "role_display_name": "Donated by", 
+                "person_id": "18041843", 
+                "person_url": "https://collection.cooperhewitt.org/people/18041843/"
+            }, 
+            {
+                "person_name": "Kôga Hirano", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "Japanese, b. Seoul, South Korea, 1938", 
+                "role_display_name": "Designed by", 
+                "person_id": "18041843", 
+                "person_url": "https://collection.cooperhewitt.org/people/18041843/"
+            }
+        ], 
+        "decade": "1960", 
+        "label_text": null, 
+        "woe:country": "23424856", 
+        "dimensions_raw": {
+            "width": [
+                "25.80", 
+                "centimeters"
+            ], 
+            "height": [
+                "76.00", 
+                "centimeters"
+            ]
+        }, 
+        "department_id": "35347493", 
+        "title_raw": "\"Dojidai Engeki\" [Concerned Theatre Japan]", 
+        "justification": null, 
+        "media_id": "35431679", 
+        "description": "Yellow and white Japanese characters on black ground \"Concerned Theatre Japan\" printed vertically, left side.", 
+        "creditline": "Gift of Koga Hirano", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "1968–70", 
+        "url": "https://collection.cooperhewitt.org/objects/18649817/", 
+        "type": "poster", 
+        "accession_number": "1995-104-6", 
+        "year_end": 1970, 
+        "signed": null, 
+        "inscribed": null, 
+        "period_id": null, 
+        "year_acquired": "1995", 
+        "woe:country_id": "23424856"
+    }
+}

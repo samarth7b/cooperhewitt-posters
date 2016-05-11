@@ -1,0 +1,90 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": 1979, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": null, 
+        "tms:id": "163356", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/268369_e7234d242f5911bf_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "268369"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/268369_e7234d242f5911bf_b.jpg", 
+                    "width": 761, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "268369"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/268369_e7234d242f5911bf_d.gif", 
+                    "width": 238, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "268369"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/268369_e7234d242f5911bf_z.jpg", 
+                    "width": 475, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "268369"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/268369_e7234d242f5911bf_n.jpg", 
+                    "width": 238, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "268369"
+                }
+            }
+        ], 
+        "id": "18504905", 
+        "has_no_known_copyright": null, 
+        "dimensions": null, 
+        "title": "Poster, Don De Folon. Musée des arts décoratifs. Ils Donnent, 1979", 
+        "provenance": null, 
+        "participants": [
+            {
+                "person_name": "Musée des Arts Décoratifs", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236657/", 
+                "role_id": "35236657", 
+                "role_name": "Manufacturer", 
+                "person_date": "", 
+                "role_display_name": "Manufactured by", 
+                "person_id": "18058983", 
+                "person_url": "https://collection.cooperhewitt.org/people/18058983/"
+            }
+        ], 
+        "decade": "1970", 
+        "label_text": null, 
+        "woe:country": null, 
+        "dimensions_raw": null, 
+        "department_id": "35347493", 
+        "title_raw": "Don De Folon. Musée des arts décoratifs. Ils Donnent", 
+        "justification": null, 
+        "media_id": "35371135", 
+        "description": null, 
+        "creditline": "Gift of Unknown Donor", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "1979", 
+        "url": "https://collection.cooperhewitt.org/objects/18504905/", 
+        "type": "poster", 
+        "accession_number": "1980-32-1097", 
+        "year_end": 1979, 
+        "signed": null, 
+        "inscribed": null, 
+        "period_id": null, 
+        "year_acquired": "1980", 
+        "woe:country_id": null
+    }
+}

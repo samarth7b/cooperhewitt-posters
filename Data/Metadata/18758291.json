@@ -1,0 +1,187 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": 1983, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": "offset lithograph on wove paper", 
+        "tms:id": "255431", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/36995_cf2f3c5a042d353f_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "36995"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/36995_cf2f3c5a042d353f_b.jpg", 
+                    "width": 730, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "36995"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/36995_cf2f3c5a042d353f_d.gif", 
+                    "width": 228, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "36995"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/36995_cf2f3c5a042d353f_z.jpg", 
+                    "width": 456, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "36995"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/36995_cf2f3c5a042d353f_n.jpg", 
+                    "width": 228, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "36995"
+                }
+            }, 
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/179946_18007ea3a2aae933_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "0", 
+                    "image_id": "179946"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/179946_18007ea3a2aae933_b.jpg", 
+                    "width": 721, 
+                    "height": 1024, 
+                    "is_primary": "0", 
+                    "image_id": "179946"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/179946_18007ea3a2aae933_d.gif", 
+                    "width": 225, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "179946"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/179946_18007ea3a2aae933_z.jpg", 
+                    "width": 450, 
+                    "height": 640, 
+                    "is_primary": "0", 
+                    "image_id": "179946"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/179946_18007ea3a2aae933_n.jpg", 
+                    "width": 225, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "179946"
+                }
+            }
+        ], 
+        "id": "18758291", 
+        "has_no_known_copyright": null, 
+        "woe:country_name": "Switzerland", 
+        "dimensions": "128.1 x 89.1 cm (50 7/16 x 35 1/16 in.)", 
+        "title": "Poster, Design-Formgebung für Jedermann, 1983", 
+        "provenance": "Sara and Marc Benda (acquired new and directly from designer, Jörg Hamburger and Georg Staehelin); 2010: acquired by Museum", 
+        "participants": [
+            {
+                "person_name": "Museum für Gestaltung, Zürich", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236667/", 
+                "role_id": "35236667", 
+                "role_name": "Client", 
+                "person_date": "Zürich, Switzerland", 
+                "role_display_name": "Client:", 
+                "person_id": "18063557", 
+                "person_url": "https://collection.cooperhewitt.org/people/18063557/"
+            }, 
+            {
+                "person_name": "J.C. Müller AG", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236673/", 
+                "role_id": "35236673", 
+                "role_name": "Printer", 
+                "person_date": "Swiss, active 1900s - present", 
+                "role_display_name": "Printed by", 
+                "person_id": "18063535", 
+                "person_url": "https://collection.cooperhewitt.org/people/18063535/"
+            }, 
+            {
+                "person_name": "Georg Staehelin", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "Swiss, b. 1942", 
+                "role_display_name": "Designed by", 
+                "person_id": "18063533", 
+                "person_url": "https://collection.cooperhewitt.org/people/18063533/"
+            }, 
+            {
+                "person_name": "Jörg Hamburger", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "Swiss, born 1935", 
+                "role_display_name": "Designed by", 
+                "person_id": "68738759", 
+                "person_url": "https://collection.cooperhewitt.org/people/68738759/"
+            }, 
+            {
+                "person_name": "Marc Benda", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35351535/", 
+                "role_id": "35351535", 
+                "role_name": "Donor", 
+                "person_date": "", 
+                "role_display_name": "Donated by", 
+                "person_id": "18062523", 
+                "person_url": "https://collection.cooperhewitt.org/people/18062523/"
+            }, 
+            {
+                "person_name": "Sara Benda", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35351535/", 
+                "role_id": "35351535", 
+                "role_name": "Donor", 
+                "person_date": "", 
+                "role_display_name": "Donated by", 
+                "person_id": "18063205", 
+                "person_url": "https://collection.cooperhewitt.org/people/18063205/"
+            }
+        ], 
+        "decade": "1980", 
+        "label_text": null, 
+        "woe:country": "23424957", 
+        "dimensions_raw": {
+            "width": [
+                "89.06", 
+                "centimeters"
+            ], 
+            "height": [
+                "128.11", 
+                "centimeters"
+            ]
+        }, 
+        "department_id": "35347493", 
+        "title_raw": "Design-Formgebung für Jedermann", 
+        "justification": null, 
+        "media_id": "35431963", 
+        "description": "On red ground, a large black letter ‘D’ with text in white and red: Design-Formgebung fur jedermann. / Typen und Prototypen. / Ausstellung in Kunstgewerbemuseum / Zurich, Museum fur Gestaltung / 16. Juni-18. September 1983 [additional information included].", 
+        "creditline": "Gift of Sara and Marc Benda", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "1983", 
+        "url": "https://collection.cooperhewitt.org/objects/18758291/", 
+        "type": "poster", 
+        "accession_number": "2010-21-43", 
+        "year_end": 1983, 
+        "signed": null, 
+        "inscribed": "Printed in black ink, lower margin: Jörg Hamburger/Georg Staehelin. Druch: J. C. Muller AG, Zurich", 
+        "period_id": null, 
+        "year_acquired": "2010", 
+        "woe:country_id": "23424957"
+    }
+}

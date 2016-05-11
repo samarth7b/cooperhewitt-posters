@@ -1,0 +1,130 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": 1957, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": "lithograph on wove paper", 
+        "tms:id": "241970", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/34744_b5770c5e67c31ded_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "34744"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/34744_b5770c5e67c31ded_b.jpg", 
+                    "width": 725, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "34744"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/34744_b5770c5e67c31ded_d.gif", 
+                    "width": 227, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "34744"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/34744_b5770c5e67c31ded_z.jpg", 
+                    "width": 453, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "34744"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/34744_b5770c5e67c31ded_n.jpg", 
+                    "width": 227, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "34744"
+                }
+            }
+        ], 
+        "id": "18731745", 
+        "has_no_known_copyright": null, 
+        "woe:country_name": "Switzerland", 
+        "dimensions": "100.2 × 70.3 cm (39 7/16 × 27 11/16 in.)", 
+        "title": "Poster, Grammo-Grafik [Record Graphics], 1957", 
+        "provenance": "Sara and Marc Benda; 2009: acquired by Museum", 
+        "participants": [
+            {
+                "person_name": "Sara Benda", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35351535/", 
+                "role_id": "35351535", 
+                "role_name": "Donor", 
+                "person_date": "", 
+                "role_display_name": "Donated by", 
+                "person_id": "18063205", 
+                "person_url": "https://collection.cooperhewitt.org/people/18063205/"
+            }, 
+            {
+                "person_name": "Gottlieb Soland", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "Swiss, b. 1928", 
+                "role_display_name": "Designed by", 
+                "person_id": "18062619", 
+                "person_url": "https://collection.cooperhewitt.org/people/18062619/"
+            }, 
+            {
+                "person_name": "Marc Benda", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35351535/", 
+                "role_id": "35351535", 
+                "role_name": "Donor", 
+                "person_date": "", 
+                "role_display_name": "Donated by", 
+                "person_id": "18062523", 
+                "person_url": "https://collection.cooperhewitt.org/people/18062523/"
+            }, 
+            {
+                "person_name": "Kunstgewerbemuseum", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236667/", 
+                "role_id": "35236667", 
+                "role_name": "Client", 
+                "person_date": "Zürich, Switzerland", 
+                "role_display_name": "Client:", 
+                "person_id": "18063603", 
+                "person_url": "https://collection.cooperhewitt.org/people/18063603/"
+            }
+        ], 
+        "decade": "1950", 
+        "label_text": "Swiss designers in the 1950s and 1960s used gridded layouts, sans-serif typefaces, and stark images. Italian designer Bruno Munari may have had this famous poster in mind when he mentioned \"phonograph records\" in his essay \"Posters with a Central Image\" (1966).", 
+        "woe:country": "23424957", 
+        "dimensions_raw": {
+            "width": [
+                "69.90", 
+                "centimeters"
+            ], 
+            "height": [
+                "100.00", 
+                "centimeters"
+            ]
+        }, 
+        "department_id": "35347493", 
+        "title_raw": "Grammo-Grafik [Record Graphics]", 
+        "justification": null, 
+        "media_id": "35407799", 
+        "description": "Brown background with 33 RPM record in black and red. Horizontal, black text at top of poster.", 
+        "creditline": "Gift of Sara and Marc Benda", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "1957", 
+        "url": "https://collection.cooperhewitt.org/objects/18731745/", 
+        "type": "poster", 
+        "accession_number": "2009-12-19", 
+        "year_end": 1957, 
+        "signed": null, 
+        "inscribed": null, 
+        "period_id": null, 
+        "year_acquired": "2009", 
+        "woe:country_id": "23424957"
+    }
+}

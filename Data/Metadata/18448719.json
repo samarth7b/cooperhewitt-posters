@@ -1,0 +1,157 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": 1935, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": "lithograph on white wove paper, mounted on board", 
+        "tms:id": "134875", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/65793_884e8d339849c2c4_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "65793"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/65793_884e8d339849c2c4_b.jpg", 
+                    "width": 639, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "65793"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/65793_884e8d339849c2c4_d.gif", 
+                    "width": 200, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "65793"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/65793_884e8d339849c2c4_z.jpg", 
+                    "width": 399, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "65793"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/65793_884e8d339849c2c4_n.jpg", 
+                    "width": 200, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "65793"
+                }
+            }, 
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/268376_72cade31b61abba2_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "0", 
+                    "image_id": "268376"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/268376_72cade31b61abba2_b.jpg", 
+                    "width": 656, 
+                    "height": 1024, 
+                    "is_primary": "0", 
+                    "image_id": "268376"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/268376_72cade31b61abba2_d.gif", 
+                    "width": 205, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "268376"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/268376_72cade31b61abba2_z.jpg", 
+                    "width": 410, 
+                    "height": 640, 
+                    "is_primary": "0", 
+                    "image_id": "268376"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/268376_72cade31b61abba2_n.jpg", 
+                    "width": 205, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "268376"
+                }
+            }
+        ], 
+        "id": "18448719", 
+        "has_no_known_copyright": null, 
+        "woe:country_name": "United Kingdom", 
+        "dimensions": "101.4 x 63.2 cm (39 15/16 x 24 7/8 in.)", 
+        "title": "Poster, Treat Yourself to Better Play, 1935", 
+        "provenance": "Mrs. Edward McKnight Kauffer; 1963: acquired by Museum", 
+        "participants": [
+            {
+                "person_name": "Marion Dorn Kauffer", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35351535/", 
+                "role_id": "35351535", 
+                "role_name": "Donor", 
+                "person_date": "American, active in England, 1896–1964", 
+                "role_display_name": "Donated by", 
+                "person_id": "18046153", 
+                "person_url": "https://collection.cooperhewitt.org/people/18046153/"
+            }, 
+            {
+                "person_name": "Marion Dorn Kauffer", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35351535/", 
+                "role_id": "35351535", 
+                "role_name": "Donor", 
+                "person_date": "American, active in England, 1896–1964", 
+                "role_display_name": "Donated by", 
+                "person_id": "18049761", 
+                "person_url": "https://collection.cooperhewitt.org/people/18046153/"
+            }, 
+            {
+                "person_name": "Edward McKnight Kauffer", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "American, active England, 1890–1954", 
+                "role_display_name": "Designed by", 
+                "person_id": "18041923", 
+                "person_url": "https://collection.cooperhewitt.org/people/18041923/"
+            }
+        ], 
+        "decade": "1930", 
+        "label_text": null, 
+        "woe:country": "23424975", 
+        "dimensions_raw": {
+            "width": [
+                "63.20", 
+                "centimeters"
+            ], 
+            "height": [
+                "101.40", 
+                "centimeters"
+            ]
+        }, 
+        "department_id": "35347493", 
+        "title_raw": "Treat Yourself to Better Play", 
+        "justification": null, 
+        "media_id": "51865797", 
+        "description": "Poster in half blue and half black; the blue section has a head of a classical sculpture against a sky with text in white: TREAT / YOURSELF TO BETTER PLAY; a star at upper left. Below, a tan painter’s palette with a brush dipped in orange paint and an outline of an open book with text: MUSIC.", 
+        "creditline": "Gift of Mrs. E. McKnight Kauffer", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "1935", 
+        "url": "https://collection.cooperhewitt.org/objects/18448719/", 
+        "type": "poster", 
+        "accession_number": "1963-39-73", 
+        "year_end": 1935, 
+        "signed": "Signed in blue ink, lower right: E McKnight Kauffer ‘35", 
+        "inscribed": "Printed in brown ink, lower left: 35/3360/1500; center: Issued by London Passenger Transport board; lower right: VINCENT BROOKS, DAY & SON, LTD. LITH. LONDON. W.C.2", 
+        "period_id": null, 
+        "year_acquired": "1963", 
+        "woe:country_id": "23424975"
+    }
+}

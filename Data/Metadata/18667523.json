@@ -1,0 +1,109 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": 1992, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": "screenprint on blue wove paper", 
+        "tms:id": "209149", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/93584_3e6336cd5e59870b_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "93584"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/93584_3e6336cd5e59870b_b.jpg", 
+                    "width": 729, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "93584"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/93584_3e6336cd5e59870b_d.gif", 
+                    "width": 228, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "93584"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/93584_3e6336cd5e59870b_z.jpg", 
+                    "width": 456, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "93584"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/93584_3e6336cd5e59870b_n.jpg", 
+                    "width": 228, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "93584"
+                }
+            }
+        ], 
+        "id": "18667523", 
+        "has_no_known_copyright": null, 
+        "dimensions": "H x W: 100.2 × 70.2 cm (39 7/16 × 27 5/8 in.)", 
+        "title": "Poster, Walls of the City, 1992", 
+        "provenance": null, 
+        "participants": [
+            {
+                "person_name": "Design Machine", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35351535/", 
+                "role_id": "35351535", 
+                "role_name": "Donor", 
+                "person_date": "", 
+                "role_display_name": "Donated by", 
+                "person_id": "18049817", 
+                "person_url": "https://collection.cooperhewitt.org/people/18049817/"
+            }, 
+            {
+                "person_name": "Alexander Gelman", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "Russian, active USA, b. 1967", 
+                "role_display_name": "Designed by", 
+                "person_id": "18049815", 
+                "person_url": "https://collection.cooperhewitt.org/people/18049815/"
+            }
+        ], 
+        "decade": "1990", 
+        "label_text": "This composition references the incidental collages of torn posters that may be found layered on the street. We perceive two planes (two sheets of paper) because the lines of text that seem to be printed on each one align visually.", 
+        "woe:country": null, 
+        "dimensions_raw": {
+            "width": [
+                "69.90", 
+                "centimeters"
+            ], 
+            "height": [
+                "100.00", 
+                "centimeters"
+            ]
+        }, 
+        "department_id": "35347493", 
+        "title_raw": "Walls of the City", 
+        "justification": null, 
+        "media_id": "35383661", 
+        "description": "Poster is designed in the form of a torn concert announcement placed over another announcement. Russian letters in red and black, of different sizes, are placed on blue and white grounds. Imprinted in lower left quarter of poster, nine lines of Hebrew text in blue.", 
+        "creditline": "Gift of Design Machine", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "1992", 
+        "url": "https://collection.cooperhewitt.org/objects/18667523/", 
+        "type": "poster", 
+        "accession_number": "1998-32-18", 
+        "year_end": 1992, 
+        "signed": "Signed on screen in red at center right: A. Gelman 92.", 
+        "inscribed": null, 
+        "period_id": null, 
+        "year_acquired": "1998", 
+        "woe:country_id": null
+    }
+}

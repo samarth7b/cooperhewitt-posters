@@ -1,0 +1,157 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": 1988, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": "offset lithograph on white paper", 
+        "tms:id": "223392", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/38557_a092aa031d5062c6_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "38557"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/38557_a092aa031d5062c6_b.jpg", 
+                    "width": 720, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "38557"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/38557_a092aa031d5062c6_d.gif", 
+                    "width": 225, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "38557"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/38557_a092aa031d5062c6_z.jpg", 
+                    "width": 450, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "38557"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/38557_a092aa031d5062c6_n.jpg", 
+                    "width": 225, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "38557"
+                }
+            }, 
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/15251_45e5584ecd4f1fe4_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "0", 
+                    "image_id": "15251"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/15251_45e5584ecd4f1fe4_b.jpg", 
+                    "width": 747, 
+                    "height": 1024, 
+                    "is_primary": "0", 
+                    "image_id": "15251"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/15251_45e5584ecd4f1fe4_d.gif", 
+                    "width": 233, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "15251"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/15251_45e5584ecd4f1fe4_z.jpg", 
+                    "width": 467, 
+                    "height": 640, 
+                    "is_primary": "0", 
+                    "image_id": "15251"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/15251_45e5584ecd4f1fe4_n.jpg", 
+                    "width": 233, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "15251"
+                }
+            }
+        ], 
+        "id": "18695651", 
+        "has_no_known_copyright": null, 
+        "woe:country_name": "Switzerland", 
+        "dimensions": "128 x 90.5 cm (50 3/8 x 35 5/8 in. )", 
+        "title": "Poster, Poster for Museo Cantonale d'Arte, Lugano:  Schlemmer's Designs for Stravinsky's Les Noces, 1988", 
+        "provenance": "Elaine Lustig Cohen; 2002: acquired by Museum", 
+        "participants": [
+            {
+                "person_name": "Bruno Monguzzi", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236763/", 
+                "role_id": "35236763", 
+                "role_name": "Graphic Designer", 
+                "person_date": "Swiss, b. 1941", 
+                "role_display_name": "Graphic design by", 
+                "person_id": "18539311", 
+                "person_url": "https://collection.cooperhewitt.org/people/18539311/"
+            }, 
+            {
+                "person_name": "Elaine Lustig Cohen", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35351535/", 
+                "role_id": "35351535", 
+                "role_name": "Donor", 
+                "person_date": "American, b. 1927", 
+                "role_display_name": "Donated by", 
+                "person_id": "18048729", 
+                "person_url": "https://collection.cooperhewitt.org/people/18064303/"
+            }, 
+            {
+                "person_name": "Elaine Lustig Cohen", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35351535/", 
+                "role_id": "35351535", 
+                "role_name": "Donor", 
+                "person_date": "American, b. 1927", 
+                "role_display_name": "Donated by", 
+                "person_id": "18064303", 
+                "person_url": "https://collection.cooperhewitt.org/people/18064303/"
+            }
+        ], 
+        "decade": "1980", 
+        "label_text": null, 
+        "woe:country": "23424957", 
+        "dimensions_raw": {
+            "width": [
+                "90.50", 
+                "centimeters"
+            ], 
+            "height": [
+                "128.00", 
+                "centimeters"
+            ]
+        }, 
+        "department_id": "35347493", 
+        "title_raw": "Poster for Museo Cantonale d'Arte, Lugano:  Schlemmer's Designs for Stravinsky's Les Noces", 
+        "justification": "Bruno Monguzzi, a Swiss graphic and exhibition designer, received this important commission from the Museo Cantonale d’Arte. The museum, established in 1987 as the primary cultural institution for the Ticino region of Switzerland, tasked Monguzzi with creating a logo as the museum’s “public face,” and with providing a “public voice” for the museum through creating different posters for each exhibition and program. Monguzzi’s impressive posters for the Museo Cantonale d’Arte have been described as designs epitomizing a rationalist, visual poetry. After a decade of successful designer-museum collaboration, the Museo Cantonale d’Arte held an exhibition celebrating Monguzzi’s designs for the museum. Monguzzi’s work on visual communication materials for the Museo Cantonale d’Arte continued into the first years of the 21st century, and is regarded as among the chief achievements of his career.\nMonguzzi was born in Mendrisio, in the Ticino region of Switzerland, in 1941. He studied in Geneva and London, spent part of his early career in at the studio of Antonio Boggeri, in Milan. The inspiration of the experimental and visually-daring work of the avant garde designers Herbert Bayer, El Lissitsky, Jan Tschichold, Piet Zwart, Paul Schuitema, Ladislav Sutnar, Theo van Doesburg, and Kirill Zdanevich were vital to the development of Monguzzi’s own typographic applications and designs for a dynamic graphic language. In 1965, he moved to Montreal in order to design nine pavilions for Expo 1967. In his designs for the pavilions, Monguzzi applied ideas about three-dimensional structure and perception as a way to meet the challenges of both creating universal forms of communication and contextualized environments for an international audience. \nIn 1968, he returned to Milan, where he established his own design studio. In 1971, he received the Bodoni Prize for his contributions to Italian graphic design. That same year, he relocated to Lugano, Switzerland, when he joined the faculty of the Lugano School of Design to teach courses in the psychology of perception and typographic design. From 1986 to 1991, Monguzzi served as art consultant to the architecture and design magazine Abitare, published in Milan. Monguzzi’s work on the graphic identity and visual communications program for the Musée de Orsay in Paris (1986) led to his work for the Museo Cantonale d’Arte. \nThis is one of two posters for the Museo Cantonale d’Arte proposed for acquisition. Together, they would be the first examples of work by Monguzzi in the museum’s collection, and would join posters by important and influential Swiss graphic designers such as Armin Hofmann, Josef Müller-Brockmann, and Wolfgang Weingart. \n(March 26, 2002)", 
+        "media_id": "35424093", 
+        "description": "Exhibition poster image comprised of  five lines: Oskar/Schlemmer/Les Noces/Igor/Stravinsky; the words are made up of varying styles and scales of typographic letter forms in black, yellow, red, and blue (a color palette used by de Stijl or Bauhaus designers).  The names of the  featured artist and composer  flank the central and larger title of the piece, like a particularly vibrant section of a written musical score.  The \"O\" in each word is a solid circle (gold-yellow for \"Oskar\" at upper right: red in \"Noces\" at center;  blue in \"Igor\" at lower left), accenting the page in an attractive eye-catching way, like rhythmic beats in visual music, as well as serving as an allusion to the geometric shapes used in Schlemmer's costume  and set designs.", 
+        "creditline": "Gift of Elaine Lustig Cohen", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "1988", 
+        "url": "https://collection.cooperhewitt.org/objects/18695651/", 
+        "type": "poster", 
+        "accession_number": "2002-15-2", 
+        "year_end": 1988, 
+        "signed": null, 
+        "inscribed": null, 
+        "period_id": null, 
+        "year_acquired": "2002", 
+        "woe:country_id": "23424957"
+    }
+}

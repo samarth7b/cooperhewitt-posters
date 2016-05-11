@@ -1,0 +1,110 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": 1948, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": "lithograph on paper, lined, mounted on board", 
+        "tms:id": "134149", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/65117_0e25bdafad9fdb56_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "65117"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/65117_0e25bdafad9fdb56_b.jpg", 
+                    "width": 759, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "65117"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/65117_0e25bdafad9fdb56_d.gif", 
+                    "width": 237, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "65117"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/65117_0e25bdafad9fdb56_z.jpg", 
+                    "width": 474, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "65117"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/65117_0e25bdafad9fdb56_n.jpg", 
+                    "width": 237, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "65117"
+                }
+            }
+        ], 
+        "id": "18447267", 
+        "has_no_known_copyright": null, 
+        "woe:country_name": "United States", 
+        "dimensions": "102 x 76.8 cm (40 3/16 x 30 1/4 in.)", 
+        "title": "Poster, American Airlines, 1948", 
+        "provenance": "Mrs. Edward McKnight Kauffer; 1963: acquired by Museum", 
+        "participants": [
+            {
+                "person_name": "Mrs. Edward McKnight Kauffer", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35351535/", 
+                "role_id": "35351535", 
+                "role_name": "Donor", 
+                "person_date": "", 
+                "role_display_name": "Donated by", 
+                "person_id": "18061849", 
+                "person_url": "https://collection.cooperhewitt.org/people/18061849/"
+            }, 
+            {
+                "person_name": "Edward McKnight Kauffer", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "American, active England, 1890–1954", 
+                "role_display_name": "Designed by", 
+                "person_id": "18041923", 
+                "person_url": "https://collection.cooperhewitt.org/people/18041923/"
+            }
+        ], 
+        "decade": "1940", 
+        "label_text": null, 
+        "woe:country": "23424977", 
+        "dimensions_raw": {
+            "width": [
+                "76.80", 
+                "centimeters"
+            ], 
+            "height": [
+                "102.00", 
+                "centimeters"
+            ]
+        }, 
+        "department_id": "35347493", 
+        "title_raw": "American Airlines", 
+        "justification": null, 
+        "media_id": "51683993", 
+        "description": "Image of an abstract man wearing a suit, carrying a yellow coat, and walking with a suitcase that reads, in yellow: AMERICAN / AIRLINES, with logo; man has a world as a head, with an outline of a human head.", 
+        "creditline": "Gift of Mrs. E. McKnight Kauffer", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "1948", 
+        "url": "https://collection.cooperhewitt.org/objects/18447267/", 
+        "type": "poster", 
+        "accession_number": "1963-39-136", 
+        "year_end": 1948, 
+        "signed": "Signed in yellow ink, lower right: E. McKnight Kauffer ‘48", 
+        "inscribed": null, 
+        "period_id": null, 
+        "year_acquired": "1963", 
+        "woe:country_id": "23424977"
+    }
+}

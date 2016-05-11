@@ -1,0 +1,129 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": 1972, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": "offset lithograph on white wove paper", 
+        "tms:id": "212110", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/269844_3d5410976abf7db6_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "0", 
+                    "image_id": "269844"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/269844_3d5410976abf7db6_b.jpg", 
+                    "width": 745, 
+                    "height": 1024, 
+                    "is_primary": "0", 
+                    "image_id": "269844"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/269844_3d5410976abf7db6_d.gif", 
+                    "width": 233, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "269844"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/269844_3d5410976abf7db6_z.jpg", 
+                    "width": 466, 
+                    "height": 640, 
+                    "is_primary": "0", 
+                    "image_id": "269844"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/269844_3d5410976abf7db6_n.jpg", 
+                    "width": 233, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "269844"
+                }
+            }
+        ], 
+        "id": "18673335", 
+        "has_no_known_copyright": null, 
+        "dimensions": "118.6 x 84.0 cm (46 11/16 x 33 1/16 in. )", 
+        "title": "Poster, Munich Olympics Blatt 9: The Tall Ships, 1972", 
+        "provenance": "From the collection of Dan Friedman", 
+        "participants": [
+            {
+                "person_name": "Otl Aicher", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "German, 1922 - 1991", 
+                "role_display_name": "Designed by", 
+                "person_id": "18054493", 
+                "person_url": "https://collection.cooperhewitt.org/people/18054493/"
+            }, 
+            {
+                "person_name": "Peter Cornelius", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236631/", 
+                "role_id": "35236631", 
+                "role_name": "Photographer", 
+                "person_date": "German", 
+                "role_display_name": "Photographed by", 
+                "person_id": "18535587", 
+                "person_url": "https://collection.cooperhewitt.org/people/18535587/"
+            }, 
+            {
+                "person_name": "Unknown", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "", 
+                "role_display_name": "Designed by", 
+                "person_id": "18042681", 
+                "person_url": "https://collection.cooperhewitt.org/people/18042681/"
+            }, 
+            {
+                "person_name": "Ken Friedman", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35351535/", 
+                "role_id": "35351535", 
+                "role_name": "Donor", 
+                "person_date": "", 
+                "role_display_name": "Donated by", 
+                "person_id": "18049807", 
+                "person_url": "https://collection.cooperhewitt.org/people/18049807/"
+            }
+        ], 
+        "decade": "1970", 
+        "label_text": null, 
+        "woe:country": null, 
+        "dimensions_raw": {
+            "width": [
+                "84.00", 
+                "centimeters"
+            ], 
+            "height": [
+                "118.60", 
+                "centimeters"
+            ]
+        }, 
+        "department_id": "35347493", 
+        "title_raw": "Munich Olympics Blatt 9: The Tall Ships", 
+        "justification": null, 
+        "media_id": "35431673", 
+        "description": "Color photographic reproduction of two tall ships under full sail. Large ship at right fills the sheet with smaller ship in the middle distance at left. Accompaning sailboats at lower left, right and center. Texture of the image is grainy.", 
+        "creditline": "Gift of Ken Friedman", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "1972", 
+        "url": "https://collection.cooperhewitt.org/objects/18673335/", 
+        "type": "poster", 
+        "accession_number": "1997-19-158", 
+        "year_end": 1972, 
+        "signed": null, 
+        "inscribed": "Imprinted in white lower right: Keil, Germany  Photo by Peter Cornelius 07.70.02/9\nImprinted in white lower left: Blat 9 / der Ausstellungsserie / herausgegeben vom / Organisationskomitee / fürdie Spiele / der XX Olympiade / München 1972 [Munich Olympics logo]", 
+        "period_id": null, 
+        "year_acquired": "1997", 
+        "woe:country_id": null
+    }
+}

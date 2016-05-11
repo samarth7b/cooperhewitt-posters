@@ -1,0 +1,197 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": 1993, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": "screen print on brown paper", 
+        "tms:id": "200398", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/12902_9975485b7b022ef6_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "12902"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/12902_9975485b7b022ef6_b.jpg", 
+                    "width": 588, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "12902"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/12902_9975485b7b022ef6_d.gif", 
+                    "width": 184, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "12902"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/12902_9975485b7b022ef6_z.jpg", 
+                    "width": 367, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "12902"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/12902_9975485b7b022ef6_n.jpg", 
+                    "width": 184, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "12902"
+                }
+            }, 
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/221571_55274aacf520d84c_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "0", 
+                    "image_id": "221571"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/221571_55274aacf520d84c_b.jpg", 
+                    "width": 588, 
+                    "height": 1024, 
+                    "is_primary": "0", 
+                    "image_id": "221571"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/221571_55274aacf520d84c_d.gif", 
+                    "width": 184, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "221571"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/221571_55274aacf520d84c_z.jpg", 
+                    "width": 368, 
+                    "height": 640, 
+                    "is_primary": "0", 
+                    "image_id": "221571"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/221571_55274aacf520d84c_n.jpg", 
+                    "width": 184, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "221571"
+                }
+            }
+        ], 
+        "id": "18650925", 
+        "has_no_known_copyright": null, 
+        "woe:country_name": "United States", 
+        "dimensions": "91.5 x 52.1 cm (36 in. x 20 1/2 in.)", 
+        "title": "Poster, Sandjam '93, Sand Castle Competition, Des Moines, IA, 1993", 
+        "provenance": "John H. Sayles, Sayles Graphic Design", 
+        "participants": [
+            {
+                "person_name": "John H. Sayles", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35351535/", 
+                "role_id": "35351535", 
+                "role_name": "Donor", 
+                "person_date": "", 
+                "role_display_name": "Donated by", 
+                "person_id": "18041835", 
+                "person_url": "https://collection.cooperhewitt.org/people/18041835/"
+            }, 
+            {
+                "person_name": "Karin Zonis", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35352245/", 
+                "role_id": "35352245", 
+                "role_name": "Cataloguer", 
+                "person_date": "", 
+                "role_display_name": "Catalogued by", 
+                "person_id": "51676457", 
+                "person_url": "https://collection.cooperhewitt.org/people/51676457/"
+            }, 
+            {
+                "person_name": "Sayles Graphic Design", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35351535/", 
+                "role_id": "35351535", 
+                "role_name": "Donor", 
+                "person_date": "", 
+                "role_display_name": "Donated by", 
+                "person_id": "18049027", 
+                "person_url": "https://collection.cooperhewitt.org/people/18049027/"
+            }, 
+            {
+                "person_name": "Elizabeth Horwitz Marcus", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35352245/", 
+                "role_id": "35352245", 
+                "role_name": "Cataloguer", 
+                "person_date": "", 
+                "role_display_name": "Catalogued by", 
+                "person_id": "18047453", 
+                "person_url": "https://collection.cooperhewitt.org/people/18047453/"
+            }, 
+            {
+                "person_name": "AU", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35352245/", 
+                "role_id": "35352245", 
+                "role_name": "Cataloguer", 
+                "person_date": "", 
+                "role_display_name": "Catalogued by", 
+                "person_id": "18048335", 
+                "person_url": "https://collection.cooperhewitt.org/people/18048335/"
+            }, 
+            {
+                "person_name": "John H. Sayles", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "", 
+                "role_display_name": "Designed by", 
+                "person_id": "18041835", 
+                "person_url": "https://collection.cooperhewitt.org/people/18041835/"
+            }, 
+            {
+                "person_name": "Sayles Graphic Design", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236797/", 
+                "role_id": "35236797", 
+                "role_name": "Firm", 
+                "person_date": "", 
+                "role_display_name": "Firm:", 
+                "person_id": "18049027", 
+                "person_url": "https://collection.cooperhewitt.org/people/18049027/"
+            }
+        ], 
+        "decade": "1990", 
+        "label_text": null, 
+        "woe:country": "23424977", 
+        "dimensions_raw": {
+            "width": [
+                "52.10", 
+                "centimeters"
+            ], 
+            "height": [
+                "91.50", 
+                "centimeters"
+            ]
+        }, 
+        "department_id": "35347493", 
+        "title_raw": "Sandjam '93, Sand Castle Competition, Des Moines, IA", 
+        "justification": null, 
+        "media_id": "35520171", 
+        "description": "Poster for Sandjam '93, August 28. Recto: images and text integrated throughout. Center: image of man abstracted to resemble a sandcastle, in teal. Text, left margin: SANDJAM '93 in script; upper left: SAND / JAM; along right edge, information regarding event. Lower right corner, piece of torn paper printed in red ink with information regarding event. Verso: printed in teal, various blocks of overlapping text, including event name, date, location, etc.", 
+        "creditline": "Gift of Sayles Graphic Design", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "1993", 
+        "url": "https://collection.cooperhewitt.org/objects/18650925/", 
+        "type": "poster", 
+        "accession_number": "1995-170-7", 
+        "year_end": 1993, 
+        "signed": null, 
+        "inscribed": "Imprinted in teal ink, vertically in lower right corner: DESIGN: SAYLES GRAPHIC DESIGN, INC.", 
+        "period_id": null, 
+        "year_acquired": "1995", 
+        "woe:country_id": "23424977"
+    }
+}

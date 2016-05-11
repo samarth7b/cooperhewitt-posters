@@ -1,0 +1,150 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": 2007, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": "offset lithograph on white paper", 
+        "tms:id": "233183", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/28887_7fc91e48277855ff_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "28887"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/28887_7fc91e48277855ff_b.jpg", 
+                    "width": 1024, 
+                    "height": 357, 
+                    "is_primary": "1", 
+                    "image_id": "28887"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/28887_7fc91e48277855ff_d.gif", 
+                    "width": 320, 
+                    "height": 111, 
+                    "is_primary": "1", 
+                    "image_id": "28887"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/28887_7fc91e48277855ff_z.jpg", 
+                    "width": 640, 
+                    "height": 223, 
+                    "is_primary": "1", 
+                    "image_id": "28887"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/28887_7fc91e48277855ff_n.jpg", 
+                    "width": 320, 
+                    "height": 111, 
+                    "is_primary": "1", 
+                    "image_id": "28887"
+                }
+            }
+        ], 
+        "id": "18714563", 
+        "has_no_known_copyright": null, 
+        "woe:country_name": "Canada", 
+        "dimensions": "28.1 × 86.7 cm (11 1/16 × 34 1/8 in.)", 
+        "title": "Poster, Sustainability, 2007", 
+        "provenance": "William Drenttel", 
+        "participants": [
+            {
+                "person_name": "Jessica Helfand", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236787/", 
+                "role_id": "35236787", 
+                "role_name": "Art Director", 
+                "person_date": "American", 
+                "role_display_name": "Art Director:", 
+                "person_id": "18061559", 
+                "person_url": "https://collection.cooperhewitt.org/people/18061559/"
+            }, 
+            {
+                "person_name": "William Drenttel", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236787/", 
+                "role_id": "35236787", 
+                "role_name": "Art Director", 
+                "person_date": "American,", 
+                "role_display_name": "Art Director:", 
+                "person_id": "18538099", 
+                "person_url": "https://collection.cooperhewitt.org/people/18538099/"
+            }, 
+            {
+                "person_name": "Stora Enso", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236657/", 
+                "role_id": "35236657", 
+                "role_name": "Manufacturer", 
+                "person_date": "Helsinki, Finland, founded 1998", 
+                "role_display_name": "Manufactured by", 
+                "person_id": "18061569", 
+                "person_url": "https://collection.cooperhewitt.org/people/18061569/"
+            }, 
+            {
+                "person_name": "Marian Bantjes", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "Canadian, b. 1963", 
+                "role_display_name": "Designed by", 
+                "person_id": "18060549", 
+                "person_url": "https://collection.cooperhewitt.org/people/18060549/"
+            }, 
+            {
+                "person_name": "Jessica Helfand", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35351535/", 
+                "role_id": "35351535", 
+                "role_name": "Donor", 
+                "person_date": "American", 
+                "role_display_name": "Donated by", 
+                "person_id": "18061559", 
+                "person_url": "https://collection.cooperhewitt.org/people/18061559/"
+            }, 
+            {
+                "person_name": "William Drenttel", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35351535/", 
+                "role_id": "35351535", 
+                "role_name": "Donor", 
+                "person_date": "American,", 
+                "role_display_name": "Donated by", 
+                "person_id": "18538099", 
+                "person_url": "https://collection.cooperhewitt.org/people/18538099/"
+            }
+        ], 
+        "decade": "2000", 
+        "label_text": null, 
+        "woe:country": "23424775", 
+        "dimensions_raw": {
+            "width": [
+                "86.40", 
+                "centimeters"
+            ], 
+            "height": [
+                "27.90", 
+                "centimeters"
+            ]
+        }, 
+        "department_id": "35347493", 
+        "title_raw": "Sustainability", 
+        "justification": "This poster, designed by Marian Bantjes, is the first in a series of 12 posters promoting sustainability. The series, commissioned and art directed by William Drenttel and Jessica Helfand of Winterhouse Publications, features the concept of sustainability as interpreted by graphic design. Produced in collaboration with international paper manufacturing firm Stora Enso, the posters are presented in two formats: as a folded brochure advertising Stora Enso’s commitment to reforestation projects while manufacturing a superior paper product, and as a standalone horizontal poster. \nBantjes is a major figure in contemporary graphic design, whose work is included in the museum’s collection. In this poster, she has coupled her signature calligraphic style with a kaleidoscopic patterned background that combines organic and inorganic forms. Bantjes’s personal interest in portraiture led her to mine the archives of the Library of Congress for images of Americans of past generations. These minute portraits reference not just the past upon which we build, but also speak to the need for a sustained effort to conserve resources for generations to come.", 
+        "media_id": "35424093", 
+        "description": "Overall blue pattern that repeats in a kaleidoscopic fashion interspersed with tiny photographic portraits in sepia tones. The word \"Sustainability\" printed in white is presented horizontally.", 
+        "creditline": "Gift of William Drenttel and Jessica Helfand", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "2007", 
+        "url": "https://collection.cooperhewitt.org/objects/18714563/", 
+        "type": "poster", 
+        "accession_number": "2008-7-1", 
+        "year_end": 2007, 
+        "signed": null, 
+        "inscribed": null, 
+        "period_id": null, 
+        "year_acquired": "2008", 
+        "woe:country_id": "23424775"
+    }
+}

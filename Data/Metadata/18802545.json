@@ -1,0 +1,147 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": 1984, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": "silkscreen on paper", 
+        "tms:id": "181458", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/80936_3c8ba7a48dbed310_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "80936"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/80936_3c8ba7a48dbed310_b.jpg", 
+                    "width": 658, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "80936"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/80936_3c8ba7a48dbed310_d.gif", 
+                    "width": 206, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "80936"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/80936_3c8ba7a48dbed310_z.jpg", 
+                    "width": 411, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "80936"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/80936_3c8ba7a48dbed310_n.jpg", 
+                    "width": 206, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "80936"
+                }
+            }, 
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/257935_045cffc40ffb27cc_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "0", 
+                    "image_id": "257935"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/257935_045cffc40ffb27cc_b.jpg", 
+                    "width": 659, 
+                    "height": 1024, 
+                    "is_primary": "0", 
+                    "image_id": "257935"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/257935_045cffc40ffb27cc_d.gif", 
+                    "width": 206, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "257935"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/257935_045cffc40ffb27cc_z.jpg", 
+                    "width": 412, 
+                    "height": 640, 
+                    "is_primary": "0", 
+                    "image_id": "257935"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/257935_045cffc40ffb27cc_n.jpg", 
+                    "width": 206, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "257935"
+                }
+            }
+        ], 
+        "id": "18802545", 
+        "has_no_known_copyright": null, 
+        "woe:country_name": "United States", 
+        "dimensions": "85.4 x 54.4 cm (33 5/8 x 21 7/16 in.)", 
+        "title": "Poster, Convergence 84, Handweavers Guild of America, 1984", 
+        "provenance": "1984: acquired by Museum", 
+        "participants": [
+            {
+                "person_name": "Inky Fingers", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236673/", 
+                "role_id": "35236673", 
+                "role_name": "Printer", 
+                "person_date": "", 
+                "role_display_name": "Printed by", 
+                "person_id": "51865241", 
+                "person_url": "https://collection.cooperhewitt.org/people/51865241/"
+            }, 
+            {
+                "person_name": "Woody Pirtle", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "b. 1945", 
+                "role_display_name": "Designed by", 
+                "person_id": "18042325", 
+                "person_url": "https://collection.cooperhewitt.org/people/18042325/"
+            }
+        ], 
+        "decade": "1980", 
+        "label_text": null, 
+        "woe:country": "23424977", 
+        "dimensions_raw": {
+            "width": [
+                "54.40", 
+                "centimeters"
+            ], 
+            "height": [
+                "85.40", 
+                "centimeters"
+            ]
+        }, 
+        "department_id": "35347493", 
+        "title_raw": "Convergence 84, Handweavers Guild of America", 
+        "justification": null, 
+        "media_id": "35519703", 
+        "description": "Poster depicts two gray boxes with colorful string, woven through. Text inside upper box: CONVERGENCE 84 / HANDWEAVERS GUILD / OF AMERICA / SIXTH BIENNIAL CONVENTION / DALLAS JUNE – JULY.", 
+        "creditline": null, 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "1984", 
+        "url": "https://collection.cooperhewitt.org/objects/18802545/", 
+        "type": "poster", 
+        "accession_number": "1984-24-1", 
+        "year_end": 1984, 
+        "signed": null, 
+        "inscribed": "Printed in yellow ink, lower left edge: COPYRIGHT 1981 WOODY PIRTLE, INC/SILKSCREEN: INKY FINGERS", 
+        "period_id": null, 
+        "year_acquired": "1984", 
+        "woe:country_id": "23424977"
+    }
+}

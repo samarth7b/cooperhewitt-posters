@@ -1,0 +1,101 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": 1980, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": null, 
+        "tms:id": "196760", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/257952_3d052dd35c63ef51_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "257952"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/257952_3d052dd35c63ef51_b.jpg", 
+                    "width": 801, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "257952"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/257952_3d052dd35c63ef51_d.gif", 
+                    "width": 250, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "257952"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/257952_3d052dd35c63ef51_z.jpg", 
+                    "width": 501, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "257952"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/257952_3d052dd35c63ef51_n.jpg", 
+                    "width": 250, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "257952"
+                }
+            }
+        ], 
+        "id": "18643787", 
+        "has_no_known_copyright": null, 
+        "woe:country_name": "United States", 
+        "dimensions": null, 
+        "title": "Poster, French Film J.B. Speed Ar, 1980", 
+        "provenance": null, 
+        "participants": [
+            {
+                "person_name": "Marilyn Symmes", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35351535/", 
+                "role_id": "35351535", 
+                "role_name": "Donor", 
+                "person_date": "", 
+                "role_display_name": "Donated by", 
+                "person_id": "18047461", 
+                "person_url": "https://collection.cooperhewitt.org/people/18047461/"
+            }, 
+            {
+                "person_name": "Julius Friedman", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "", 
+                "role_display_name": "Designed by", 
+                "person_id": "18535575", 
+                "person_url": "https://collection.cooperhewitt.org/people/18535575/"
+            }
+        ], 
+        "decade": "1980", 
+        "label_text": null, 
+        "woe:country": "23424977", 
+        "dimensions_raw": null, 
+        "department_id": "35347493", 
+        "title_raw": "French Film J.B. Speed Ar", 
+        "justification": null, 
+        "media_id": "35371135", 
+        "description": null, 
+        "creditline": "Gift of Marilyn F. Symmes", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "1980", 
+        "url": "https://collection.cooperhewitt.org/objects/18643787/", 
+        "type": "poster", 
+        "accession_number": "1993-145-1", 
+        "year_end": 1980, 
+        "signed": null, 
+        "inscribed": null, 
+        "period_id": null, 
+        "year_acquired": "1993", 
+        "woe:country_id": "23424977"
+    }
+}

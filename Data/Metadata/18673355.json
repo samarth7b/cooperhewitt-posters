@@ -1,0 +1,119 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": 1972, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": "offset lithograph on white wove paper", 
+        "tms:id": "212120", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/269810_15a9d2f76b23592b_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "0", 
+                    "image_id": "269810"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/269810_15a9d2f76b23592b_b.jpg", 
+                    "width": 747, 
+                    "height": 1024, 
+                    "is_primary": "0", 
+                    "image_id": "269810"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/269810_15a9d2f76b23592b_d.gif", 
+                    "width": 233, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "269810"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/269810_15a9d2f76b23592b_z.jpg", 
+                    "width": 467, 
+                    "height": 640, 
+                    "is_primary": "0", 
+                    "image_id": "269810"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/269810_15a9d2f76b23592b_n.jpg", 
+                    "width": 233, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "269810"
+                }
+            }
+        ], 
+        "id": "18673355", 
+        "has_no_known_copyright": null, 
+        "dimensions": "118.1 x 83.8 cm (46 1/2 x 33 in. )", 
+        "title": "Poster, Olympisches Dorf, 1972", 
+        "provenance": "From the Collection of Dan Friedman", 
+        "participants": [
+            {
+                "person_name": "Otl Aicher", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "German, 1922 - 1991", 
+                "role_display_name": "Designed by", 
+                "person_id": "18054493", 
+                "person_url": "https://collection.cooperhewitt.org/people/18054493/"
+            }, 
+            {
+                "person_name": "Unknown", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "", 
+                "role_display_name": "Designed by", 
+                "person_id": "18042681", 
+                "person_url": "https://collection.cooperhewitt.org/people/18042681/"
+            }, 
+            {
+                "person_name": "Ken Friedman", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35351535/", 
+                "role_id": "35351535", 
+                "role_name": "Donor", 
+                "person_date": "", 
+                "role_display_name": "Donated by", 
+                "person_id": "18049807", 
+                "person_url": "https://collection.cooperhewitt.org/people/18049807/"
+            }
+        ], 
+        "decade": "1970", 
+        "label_text": null, 
+        "woe:country": null, 
+        "dimensions_raw": {
+            "width": [
+                "83.80", 
+                "centimeters"
+            ], 
+            "height": [
+                "118.10", 
+                "centimeters"
+            ]
+        }, 
+        "department_id": "35347493", 
+        "title_raw": "Olympisches Dorf", 
+        "justification": null, 
+        "media_id": "35431673", 
+        "description": "Black linear schematic rendering of an aerial map of the 1972 Munich Olympic compound showing residencies, streets, shops and open areas.  Complex is presented on a flat white ground. In blue upper right, Olympischers Dorf. Specific locations are listed on map in yellow-orange with dots and directional triangles.", 
+        "creditline": "Gift of Ken Friedman", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "1972", 
+        "url": "https://collection.cooperhewitt.org/objects/18673355/", 
+        "type": "poster", 
+        "accession_number": "1997-19-168", 
+        "year_end": 1972, 
+        "signed": null, 
+        "inscribed": "Imprinted in yellow-orange across sheet [listed from top to bottom]:\nWohnbereich / Olympics Dorf Manner / Schwimmbad / Arztliches zu den Trainingsstatten / Schwimmbad / Kirche / Theater / Diskoteck / Wohnberiech / Spiel Salons / Kino / International Club / Ladenstraße/Shop in Shop / Zentrum / Tref Cafe / Interviewraume / Eingangszone / Burgermeisterei/Verwaltung / Wohnbereich / Zuzangzuden Sportstatten / Schimmbad / Pestaurant / Bus Terminal / Olympisches Dorf Frauen \nImprinted in black lower left: black line and above it \"50m\"\nImprinted in black lower right: 11.71.28", 
+        "period_id": null, 
+        "year_acquired": "1997", 
+        "woe:country_id": null
+    }
+}

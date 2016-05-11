@@ -1,0 +1,186 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": 2003, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": "engraving on holographic foil printed laid down on heavy white wove paper", 
+        "tms:id": "255483", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/38556_1a92437168b0f5ad_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "38556"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/38556_1a92437168b0f5ad_b.jpg", 
+                    "width": 691, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "38556"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/38556_1a92437168b0f5ad_d.gif", 
+                    "width": 216, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "38556"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/38556_1a92437168b0f5ad_z.jpg", 
+                    "width": 432, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "38556"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/38556_1a92437168b0f5ad_n.jpg", 
+                    "width": 216, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "38556"
+                }
+            }, 
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/253638_860fd0c81890ce31_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "0", 
+                    "image_id": "253638"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/253638_860fd0c81890ce31_b.jpg", 
+                    "width": 694, 
+                    "height": 1024, 
+                    "is_primary": "0", 
+                    "image_id": "253638"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/253638_860fd0c81890ce31_d.gif", 
+                    "width": 217, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "253638"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/253638_860fd0c81890ce31_z.jpg", 
+                    "width": 434, 
+                    "height": 640, 
+                    "is_primary": "0", 
+                    "image_id": "253638"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/253638_860fd0c81890ce31_n.jpg", 
+                    "width": 217, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "253638"
+                }
+            }
+        ], 
+        "id": "18758395", 
+        "has_no_known_copyright": null, 
+        "dimensions": "101.6 x 68.6 cm (40 x 27 in.)", 
+        "title": "Poster, \"Teaser\" Announcement Poster for The Matrix Reloaded, 2003", 
+        "provenance": "Acquired from dealers, galleries and auction houses by Marc Benda.  Remained with Benda until 2010, when gifted to CHNDM.", 
+        "participants": [
+            {
+                "person_name": "Warner Bros. Entertainment, Inc.", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236667/", 
+                "role_id": "35236667", 
+                "role_name": "Client", 
+                "person_date": "American, founded 1918", 
+                "role_display_name": "Client:", 
+                "person_id": "18063883", 
+                "person_url": "https://collection.cooperhewitt.org/people/18063883/"
+            }, 
+            {
+                "person_name": "Concept Arts Studios, inc.", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236797/", 
+                "role_id": "35236797", 
+                "role_name": "Firm", 
+                "person_date": "American, founded 1972", 
+                "role_display_name": "Firm:", 
+                "person_id": "18063879", 
+                "person_url": "https://collection.cooperhewitt.org/people/18063879/"
+            }, 
+            {
+                "person_name": "Lucinda Cowell", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236787/", 
+                "role_id": "35236787", 
+                "role_name": "Art Director", 
+                "person_date": "American, born 1947", 
+                "role_display_name": "Art Director:", 
+                "person_id": "18063877", 
+                "person_url": "https://collection.cooperhewitt.org/people/18063877/"
+            }, 
+            {
+                "person_name": "Ron Michaelson", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236787/", 
+                "role_id": "35236787", 
+                "role_name": "Art Director", 
+                "person_date": "American, born 1950", 
+                "role_display_name": "Art Director:", 
+                "person_id": "18063875", 
+                "person_url": "https://collection.cooperhewitt.org/people/18063875/"
+            }, 
+            {
+                "person_name": "Marc Benda", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35351535/", 
+                "role_id": "35351535", 
+                "role_name": "Donor", 
+                "person_date": "", 
+                "role_display_name": "Donated by", 
+                "person_id": "18062523", 
+                "person_url": "https://collection.cooperhewitt.org/people/18062523/"
+            }, 
+            {
+                "person_name": "Sara Benda", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35351535/", 
+                "role_id": "35351535", 
+                "role_name": "Donor", 
+                "person_date": "", 
+                "role_display_name": "Donated by", 
+                "person_id": "18063205", 
+                "person_url": "https://collection.cooperhewitt.org/people/18063205/"
+            }
+        ], 
+        "decade": "2000", 
+        "label_text": null, 
+        "woe:country": null, 
+        "dimensions_raw": {
+            "width": [
+                "68.60", 
+                "centimeters"
+            ], 
+            "height": [
+                "101.60", 
+                "centimeters"
+            ]
+        }, 
+        "department_id": "35347493", 
+        "title_raw": "\"Teaser\" Announcement Poster for The Matrix Reloaded", 
+        "justification": null, 
+        "media_id": "35434621", 
+        "description": "On black background, a rain-like blanket of vertical running digital tableaux, streaming numbers and letters in neon green. At lower center, the number \"2003\" takes shape horizontally, followed by \"www.thematrix.com\", and three logos of the sponsoring companies.", 
+        "creditline": "Gift of Sara and Marc Benda", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "2003", 
+        "url": "https://collection.cooperhewitt.org/objects/18758395/", 
+        "type": "poster", 
+        "accession_number": "2010-21-94", 
+        "year_end": 2003, 
+        "signed": null, 
+        "inscribed": null, 
+        "period_id": "35435877", 
+        "year_acquired": "2010", 
+        "woe:country_id": null
+    }
+}

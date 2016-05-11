@@ -1,0 +1,79 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": 1975, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": null, 
+        "tms:id": "163478", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/200679_d6d468109b2c49d3_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "200679"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/200679_d6d468109b2c49d3_b.jpg", 
+                    "width": 1024, 
+                    "height": 784, 
+                    "is_primary": "1", 
+                    "image_id": "200679"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/200679_d6d468109b2c49d3_d.gif", 
+                    "width": 320, 
+                    "height": 245, 
+                    "is_primary": "1", 
+                    "image_id": "200679"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/200679_d6d468109b2c49d3_z.jpg", 
+                    "width": 640, 
+                    "height": 490, 
+                    "is_primary": "1", 
+                    "image_id": "200679"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/200679_d6d468109b2c49d3_n.jpg", 
+                    "width": 320, 
+                    "height": 245, 
+                    "is_primary": "1", 
+                    "image_id": "200679"
+                }
+            }
+        ], 
+        "id": "18505149", 
+        "has_no_known_copyright": null, 
+        "dimensions": null, 
+        "title": "Poster, Tous Events, 1975", 
+        "provenance": "1980: acquired by Museum", 
+        "participants": [], 
+        "decade": "1970", 
+        "label_text": null, 
+        "woe:country": null, 
+        "dimensions_raw": null, 
+        "department_id": "35347493", 
+        "title_raw": "Tous Events", 
+        "justification": null, 
+        "media_id": "35371135", 
+        "description": null, 
+        "creditline": "Gift of Unknown Donor", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "1975", 
+        "url": "https://collection.cooperhewitt.org/objects/18505149/", 
+        "type": "poster", 
+        "accession_number": "1980-32-1222", 
+        "year_end": 1975, 
+        "signed": null, 
+        "inscribed": null, 
+        "period_id": null, 
+        "year_acquired": "1980", 
+        "woe:country_id": null
+    }
+}

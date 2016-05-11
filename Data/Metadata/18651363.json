@@ -1,0 +1,177 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": 1970, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": "offset lithograph on white paper", 
+        "tms:id": "200621", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/85347_02114df3ea658d08_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "85347"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/85347_02114df3ea658d08_b.jpg", 
+                    "width": 789, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "85347"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/85347_02114df3ea658d08_d.gif", 
+                    "width": 247, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "85347"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/85347_02114df3ea658d08_z.jpg", 
+                    "width": 493, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "85347"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/85347_02114df3ea658d08_n.jpg", 
+                    "width": 247, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "85347"
+                }
+            }, 
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/210484_a96044ba9869b2a7_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "0", 
+                    "image_id": "210484"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/210484_a96044ba9869b2a7_b.jpg", 
+                    "width": 787, 
+                    "height": 1024, 
+                    "is_primary": "0", 
+                    "image_id": "210484"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/210484_a96044ba9869b2a7_d.gif", 
+                    "width": 246, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "210484"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/210484_a96044ba9869b2a7_z.jpg", 
+                    "width": 492, 
+                    "height": 640, 
+                    "is_primary": "0", 
+                    "image_id": "210484"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/210484_a96044ba9869b2a7_n.jpg", 
+                    "width": 246, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "210484"
+                }
+            }
+        ], 
+        "id": "18651363", 
+        "has_no_known_copyright": null, 
+        "woe:country_name": "United States", 
+        "dimensions": "55.9 x 43.2 cm (22 x 17 in. )", 
+        "title": "Poster, Mumbo Jumbo, late 20th century", 
+        "provenance": "1995: acquired by Museum", 
+        "participants": [
+            {
+                "person_name": "Edward Fella", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35351535/", 
+                "role_id": "35351535", 
+                "role_name": "Donor", 
+                "person_date": "American, b. 1938", 
+                "role_display_name": "Donated by", 
+                "person_id": "18041625", 
+                "person_url": "https://collection.cooperhewitt.org/people/18041625/"
+            }, 
+            {
+                "person_name": "Molly Seiler", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35352245/", 
+                "role_id": "35352245", 
+                "role_name": "Cataloguer", 
+                "person_date": "", 
+                "role_display_name": "Catalogued by", 
+                "person_id": "18048471", 
+                "person_url": "https://collection.cooperhewitt.org/people/18048471/"
+            }, 
+            {
+                "person_name": "Sheila Silverman", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35352245/", 
+                "role_id": "35352245", 
+                "role_name": "Cataloguer", 
+                "person_date": "", 
+                "role_display_name": "Catalogued by", 
+                "person_id": "18055425", 
+                "person_url": "https://collection.cooperhewitt.org/people/18055425/"
+            }, 
+            {
+                "person_name": "Skidmore Sahration Incorporated", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236705/", 
+                "role_id": "35236705", 
+                "role_name": "Studio of", 
+                "person_date": "", 
+                "role_display_name": "Studio of", 
+                "person_id": "18054869", 
+                "person_url": "https://collection.cooperhewitt.org/people/18054869/"
+            }, 
+            {
+                "person_name": "Leo Skidmore", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236601/", 
+                "role_id": "35236601", 
+                "role_name": "Illustrator", 
+                "person_date": "", 
+                "role_display_name": "Illustrated by", 
+                "person_id": "18054867", 
+                "person_url": "https://collection.cooperhewitt.org/people/18054867/"
+            }
+        ], 
+        "decade": "1970", 
+        "label_text": null, 
+        "woe:country": "23424977", 
+        "dimensions_raw": {
+            "width": [
+                "43.20", 
+                "centimeters"
+            ], 
+            "height": [
+                "55.90", 
+                "centimeters"
+            ]
+        }, 
+        "department_id": "35347493", 
+        "title_raw": "Mumbo Jumbo", 
+        "justification": null, 
+        "media_id": "35424093", 
+        "description": "Poster with text at top and lower right corner, image at center.  Printed in multicolored inks including red, blue, black.  Side view of elephant, standing. The words of title oppose each other connected by curving lines, in red and blue. Red and blue stripes at bottom. Band across lower right corner, red text on black.", 
+        "creditline": "Gift of Edward Fella", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "late 20th century", 
+        "url": "https://collection.cooperhewitt.org/objects/18651363/", 
+        "type": "poster", 
+        "accession_number": "1995-42-58", 
+        "year_end": 1995, 
+        "signed": "Signature imprinted diagonally in red on black, across lower right quadrant: Design: Edward Fella/ Illustration: Leo Skidmore", 
+        "inscribed": "Across top left quadrant in blue: MUMBO; across top right quadrant in red: JUMBO, across lower right quadrant in red over black, upward on a right diagonal: Number 1 in a series Skidmore Sahration Incorporated/2100 West Big Beaver Road/ Troy Michigan 48084/ Phone: 313/* 613-6000/Los Angeles 213/* 469-8767/ Dallas: 214/* 630-7504\n\n*The \"/\" is in the text.", 
+        "period_id": null, 
+        "year_acquired": "1995", 
+        "woe:country_id": "23424977"
+    }
+}

@@ -1,0 +1,150 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": 1967, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": "offset lithograph (color)\nsupport: white paper", 
+        "tms:id": "139991", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/200769_b975a42c0becac2e_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "200769"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/200769_b975a42c0becac2e_b.jpg", 
+                    "width": 780, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "200769"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/200769_b975a42c0becac2e_d.gif", 
+                    "width": 244, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "200769"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/200769_b975a42c0becac2e_z.jpg", 
+                    "width": 487, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "200769"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/200769_b975a42c0becac2e_n.jpg", 
+                    "width": 244, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "200769"
+                }
+            }
+        ], 
+        "id": "18458835", 
+        "has_no_known_copyright": null, 
+        "woe:country_name": "Spain", 
+        "dimensions": "70.8 x 53 cm (27 7/8 x 20 7/8 in.)", 
+        "title": "Poster, Joan Miro,  Abstract Composition, 1967", 
+        "provenance": null, 
+        "participants": [
+            {
+                "person_name": "Xenia Cage", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35352245/", 
+                "role_id": "35352245", 
+                "role_name": "Cataloguer", 
+                "person_date": "", 
+                "role_display_name": "Catalogued by", 
+                "person_id": "18054715", 
+                "person_url": "https://collection.cooperhewitt.org/people/18054715/"
+            }, 
+            {
+                "person_name": "Marilyn Symmes", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35352245/", 
+                "role_id": "35352245", 
+                "role_name": "Cataloguer", 
+                "person_date": "", 
+                "role_display_name": "Catalogued by", 
+                "person_id": "18047461", 
+                "person_url": "https://collection.cooperhewitt.org/people/18047461/"
+            }, 
+            {
+                "person_name": "LBP", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35352245/", 
+                "role_id": "35352245", 
+                "role_name": "Cataloguer", 
+                "person_date": "", 
+                "role_display_name": "Catalogued by", 
+                "person_id": "18048097", 
+                "person_url": "https://collection.cooperhewitt.org/people/18048097/"
+            }, 
+            {
+                "person_name": "Atelier Mourlot", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236661/", 
+                "role_id": "35236661", 
+                "role_name": "Publisher", 
+                "person_date": "", 
+                "role_display_name": "Published by", 
+                "person_id": "18048169", 
+                "person_url": "https://collection.cooperhewitt.org/people/18048169/"
+            }, 
+            {
+                "person_name": "Atelier Mourlot", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236673/", 
+                "role_id": "35236673", 
+                "role_name": "Printer", 
+                "person_date": "", 
+                "role_display_name": "Printed by", 
+                "person_id": "18048169", 
+                "person_url": "https://collection.cooperhewitt.org/people/18048169/"
+            }, 
+            {
+                "person_name": "Joan Miró", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236565/", 
+                "role_id": "35236565", 
+                "role_name": "Artist", 
+                "person_date": "1893 – 1983", 
+                "role_display_name": "", 
+                "person_id": "18043099", 
+                "person_url": "https://collection.cooperhewitt.org/people/18043099/"
+            }
+        ], 
+        "decade": "1960", 
+        "label_text": null, 
+        "woe:country": "23424950", 
+        "dimensions_raw": {
+            "width": [
+                "53.00", 
+                "centimeters"
+            ], 
+            "height": [
+                "70.80", 
+                "centimeters"
+            ]
+        }, 
+        "department_id": "35347493", 
+        "title_raw": "Joan Miro,  Abstract Composition", 
+        "justification": null, 
+        "media_id": "136265485", 
+        "description": null, 
+        "creditline": null, 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "1967", 
+        "url": "https://collection.cooperhewitt.org/objects/18458835/", 
+        "type": "poster", 
+        "accession_number": "1967-70-1", 
+        "year_end": 1967, 
+        "signed": null, 
+        "inscribed": null, 
+        "period_id": null, 
+        "year_acquired": "1967", 
+        "woe:country_id": "23424950"
+    }
+}

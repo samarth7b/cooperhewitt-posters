@@ -1,0 +1,138 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": 2004, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": "screenprint on paper", 
+        "tms:id": "277507", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/95699_592a876a70853969_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "95699"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/95699_592a876a70853969_b.jpg", 
+                    "width": 718, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "95699"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/95699_592a876a70853969_d.gif", 
+                    "width": 224, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "95699"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/95699_592a876a70853969_z.jpg", 
+                    "width": 448, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "95699"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/95699_592a876a70853969_n.jpg", 
+                    "width": 224, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "95699"
+                }
+            }, 
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/94785_c7429de80d18e91a_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "0", 
+                    "image_id": "94785"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/94785_c7429de80d18e91a_b.jpg", 
+                    "width": 717, 
+                    "height": 1024, 
+                    "is_primary": "0", 
+                    "image_id": "94785"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/94785_c7429de80d18e91a_d.gif", 
+                    "width": 224, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "94785"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/94785_c7429de80d18e91a_z.jpg", 
+                    "width": 448, 
+                    "height": 640, 
+                    "is_primary": "0", 
+                    "image_id": "94785"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/94785_c7429de80d18e91a_n.jpg", 
+                    "width": 224, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "94785"
+                }
+            }
+        ], 
+        "id": "68743379", 
+        "has_no_known_copyright": null, 
+        "woe:country_name": "Germany", 
+        "dimensions": "118.9 × 84.1 cm (46 13/16 × 33 1/8 in.)", 
+        "title": "Poster, China Image, 2004", 
+        "provenance": "Jianping He new to Cooper Hewitt, August 2014", 
+        "participants": [
+            {
+                "person_name": "Jianping He", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35351535/", 
+                "role_id": "35351535", 
+                "role_name": "Donor", 
+                "person_date": "Chinese, born 1973", 
+                "role_display_name": "Donated by", 
+                "person_id": "68735173", 
+                "person_url": "https://collection.cooperhewitt.org/people/68735173/"
+            }, 
+            {
+                "person_name": "Jianping He", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "Chinese, born 1973", 
+                "role_display_name": "Designed by", 
+                "person_id": "68735173", 
+                "person_url": "https://collection.cooperhewitt.org/people/68735173/"
+            }
+        ], 
+        "decade": "2000", 
+        "label_text": null, 
+        "woe:country": "23424829", 
+        "dimensions_raw": null, 
+        "department_id": "35347493", 
+        "title_raw": "China Image", 
+        "justification": "This poster, the earliest example of He’s work to be added to Cooper Hewitt’s collection, was designed for the Taiwan Poster Design Association. The poster features the two Chinese characters that together translate as \"China.\" The characters were modelled in ceramic by artist Sonny Kim, and painted to recall the iconic blue and white floral pattern associated with the country. He staged these two ceramic models against a bough of white cherry blossoms.", 
+        "media_id": "35431679", 
+        "description": "Two Chinese characters spelling \"China\" and modelled in ceramic are placed in front of a background of white blossoms. Ceramic modelling fabricated by Sonny Kim.", 
+        "creditline": "Gift of Jianping He", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "2004", 
+        "url": "https://collection.cooperhewitt.org/objects/68743379/", 
+        "type": "poster", 
+        "accession_number": "2014-23-1", 
+        "year_end": 2004, 
+        "signed": null, 
+        "inscribed": null, 
+        "period_id": null, 
+        "year_acquired": "2014", 
+        "woe:country_id": "23424829"
+    }
+}

@@ -1,0 +1,90 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": null, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": null, 
+        "tms:id": "163412", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/252617_024cbc4627c30282_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "252617"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/252617_024cbc4627c30282_b.jpg", 
+                    "width": 643, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "252617"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/252617_024cbc4627c30282_d.gif", 
+                    "width": 201, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "252617"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/252617_024cbc4627c30282_z.jpg", 
+                    "width": 402, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "252617"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/252617_024cbc4627c30282_n.jpg", 
+                    "width": 201, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "252617"
+                }
+            }
+        ], 
+        "id": "18505017", 
+        "has_no_known_copyright": null, 
+        "dimensions": null, 
+        "title": "Poster, Travel Poster: Washington / Pennsylvania Railroad", 
+        "provenance": null, 
+        "participants": [
+            {
+                "person_name": "Haurer", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "", 
+                "role_display_name": "Designed by", 
+                "person_id": "68263783", 
+                "person_url": "https://collection.cooperhewitt.org/people/68263783/"
+            }
+        ], 
+        "decade": null, 
+        "label_text": null, 
+        "woe:country": null, 
+        "dimensions_raw": null, 
+        "department_id": "35347493", 
+        "title_raw": "Travel Poster: Washington / Pennsylvania Railroad", 
+        "justification": null, 
+        "media_id": "35371135", 
+        "description": null, 
+        "creditline": "Gift of Unknown Donor", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": null, 
+        "url": "https://collection.cooperhewitt.org/objects/18505017/", 
+        "type": "poster", 
+        "accession_number": "1980-32-1158", 
+        "year_end": null, 
+        "signed": null, 
+        "inscribed": null, 
+        "period_id": null, 
+        "year_acquired": "1980", 
+        "woe:country_id": null
+    }
+}

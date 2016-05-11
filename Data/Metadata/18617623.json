@@ -1,0 +1,137 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": null, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": "offset lithograph", 
+        "tms:id": "177344", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/50022_c0e953f402d64b74_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "50022"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/50022_c0e953f402d64b74_b.jpg", 
+                    "width": 359, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "50022"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/50022_c0e953f402d64b74_d.gif", 
+                    "width": 112, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "50022"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/50022_c0e953f402d64b74_z.jpg", 
+                    "width": 224, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "50022"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/50022_c0e953f402d64b74_n.jpg", 
+                    "width": 112, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "50022"
+                }
+            }, 
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/256141_ebf7e7cfa89fa289_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "0", 
+                    "image_id": "256141"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/256141_ebf7e7cfa89fa289_b.jpg", 
+                    "width": 372, 
+                    "height": 1024, 
+                    "is_primary": "0", 
+                    "image_id": "256141"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/256141_ebf7e7cfa89fa289_d.gif", 
+                    "width": 116, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "256141"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/256141_ebf7e7cfa89fa289_z.jpg", 
+                    "width": 232, 
+                    "height": 640, 
+                    "is_primary": "0", 
+                    "image_id": "256141"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/256141_ebf7e7cfa89fa289_n.jpg", 
+                    "width": 116, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "256141"
+                }
+            }
+        ], 
+        "id": "18617623", 
+        "has_no_known_copyright": null, 
+        "woe:country_name": "United States", 
+        "dimensions": "H x W: 96 x 33.7 cm (37 13/16 x 13 1/4 in.)", 
+        "title": "Poster, Corbin/Yamafuji and Partners, Inc. Architecture Planning", 
+        "provenance": "1981: acquired by Museum", 
+        "participants": [
+            {
+                "person_name": "Jann Church", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "", 
+                "role_display_name": "Designed by", 
+                "person_id": "18049873", 
+                "person_url": "https://collection.cooperhewitt.org/people/18049873/"
+            }
+        ], 
+        "decade": null, 
+        "label_text": null, 
+        "woe:country": "23424977", 
+        "dimensions_raw": {
+            "width": [
+                "33.70", 
+                "centimeters"
+            ], 
+            "height": [
+                "96.00", 
+                "centimeters"
+            ]
+        }, 
+        "department_id": "35347493", 
+        "title_raw": "Corbin/Yamafuji and Partners, Inc. Architecture Planning", 
+        "justification": null, 
+        "media_id": "35399027", 
+        "description": "Poster depicts text in white, sculptural geometric formations in dark red, dark orange and dark yellow on gray background. Text in the upper left: Corbin/Yamafuji and Partners, Inc.; Architecture / Planning; on the left, text by Le Corbusier; text on the right, by Richard Neutra; text on the lower left, by Frank Lloyd Wright.", 
+        "creditline": "Gift of Various Donors", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": null, 
+        "url": "https://collection.cooperhewitt.org/objects/18617623/", 
+        "type": "poster", 
+        "accession_number": "1981-29-265", 
+        "year_end": null, 
+        "signed": null, 
+        "inscribed": "Inscribed in white, lower center: 3661 Spruce Street, / Newport Beach, / California 92660 / Tel: 714 752-5567; lower right: Donald Corbin / Robert Yamafuji / Fernando Calderon / James Corcoran; right side, vertical: Design: Jann Church Advertising & Graphic Design, Inc., Newport Beach", 
+        "period_id": null, 
+        "year_acquired": "1981", 
+        "woe:country_id": "23424977"
+    }
+}

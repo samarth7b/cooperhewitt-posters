@@ -1,0 +1,91 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": null, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": null, 
+        "tms:id": "191116", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/268533_62105df22876eca8_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "268533"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/268533_62105df22876eca8_b.jpg", 
+                    "width": 740, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "268533"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/268533_62105df22876eca8_d.gif", 
+                    "width": 231, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "268533"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/268533_62105df22876eca8_z.jpg", 
+                    "width": 463, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "268533"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/268533_62105df22876eca8_n.jpg", 
+                    "width": 231, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "268533"
+                }
+            }
+        ], 
+        "id": "18632547", 
+        "has_no_known_copyright": null, 
+        "woe:country_name": "Austria", 
+        "dimensions": null, 
+        "title": "Poster, Berezctzy-Pallavmic, Wien", 
+        "provenance": null, 
+        "participants": [
+            {
+                "person_name": "Unknown donor: unsolicited gift", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35351535/", 
+                "role_id": "35351535", 
+                "role_name": "Donor", 
+                "person_date": "", 
+                "role_display_name": "Donated by", 
+                "person_id": "18050283", 
+                "person_url": "https://collection.cooperhewitt.org/people/18050283/"
+            }
+        ], 
+        "decade": null, 
+        "label_text": null, 
+        "woe:country": "23424750", 
+        "dimensions_raw": null, 
+        "department_id": "35347493", 
+        "title_raw": "Berezctzy-Pallavmic, Wien", 
+        "justification": null, 
+        "media_id": "35371135", 
+        "description": null, 
+        "creditline": "Gift of Unknown Donor", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": null, 
+        "url": "https://collection.cooperhewitt.org/objects/18632547/", 
+        "type": "poster", 
+        "accession_number": "1989-21-8", 
+        "year_end": null, 
+        "signed": null, 
+        "inscribed": null, 
+        "period_id": null, 
+        "year_acquired": "1989", 
+        "woe:country_id": "23424750"
+    }
+}

@@ -1,0 +1,91 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": 1980, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": null, 
+        "tms:id": "177626", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/254498_6a2eb82e61fa31a2_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "254498"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/254498_6a2eb82e61fa31a2_b.jpg", 
+                    "width": 1024, 
+                    "height": 804, 
+                    "is_primary": "1", 
+                    "image_id": "254498"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/254498_6a2eb82e61fa31a2_d.gif", 
+                    "width": 320, 
+                    "height": 251, 
+                    "is_primary": "1", 
+                    "image_id": "254498"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/254498_6a2eb82e61fa31a2_z.jpg", 
+                    "width": 640, 
+                    "height": 502, 
+                    "is_primary": "1", 
+                    "image_id": "254498"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/254498_6a2eb82e61fa31a2_n.jpg", 
+                    "width": 320, 
+                    "height": 251, 
+                    "is_primary": "1", 
+                    "image_id": "254498"
+                }
+            }
+        ], 
+        "id": "18618185", 
+        "has_no_known_copyright": null, 
+        "woe:country_name": "United States", 
+        "dimensions": null, 
+        "title": "Poster, School of Visual Arts, Homage to the Palette, 1980", 
+        "provenance": "1981: acquired by Museum", 
+        "participants": [
+            {
+                "person_name": "Diane Adesso", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "American", 
+                "role_display_name": "Designed by", 
+                "person_id": "18054499", 
+                "person_url": "https://collection.cooperhewitt.org/people/18054499/"
+            }
+        ], 
+        "decade": "1980", 
+        "label_text": null, 
+        "woe:country": "23424977", 
+        "dimensions_raw": null, 
+        "department_id": "35347493", 
+        "title_raw": "School of Visual Arts, Homage to the Palette", 
+        "justification": null, 
+        "media_id": "35371135", 
+        "description": null, 
+        "creditline": "Gift of Various Donors", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "1980", 
+        "url": "https://collection.cooperhewitt.org/objects/18618185/", 
+        "type": "poster", 
+        "accession_number": "1981-29-53", 
+        "year_end": 1980, 
+        "signed": null, 
+        "inscribed": null, 
+        "period_id": null, 
+        "year_acquired": "1981", 
+        "woe:country_id": "23424977"
+    }
+}

@@ -1,0 +1,197 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": 1973, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": "silkscreen on wove paper", 
+        "tms:id": "199457", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/89864_3acd734ea82fae51_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "89864"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/89864_3acd734ea82fae51_b.jpg", 
+                    "width": 729, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "89864"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/89864_3acd734ea82fae51_d.gif", 
+                    "width": 228, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "89864"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/89864_3acd734ea82fae51_z.jpg", 
+                    "width": 455, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "89864"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/89864_3acd734ea82fae51_n.jpg", 
+                    "width": 228, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "89864"
+                }
+            }, 
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/141480_682ebb3f1dc40784_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "0", 
+                    "image_id": "141480"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/141480_682ebb3f1dc40784_b.jpg", 
+                    "width": 688, 
+                    "height": 1024, 
+                    "is_primary": "0", 
+                    "image_id": "141480"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/141480_682ebb3f1dc40784_d.gif", 
+                    "width": 215, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "141480"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/141480_682ebb3f1dc40784_z.jpg", 
+                    "width": 430, 
+                    "height": 640, 
+                    "is_primary": "0", 
+                    "image_id": "141480"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/141480_682ebb3f1dc40784_n.jpg", 
+                    "width": 215, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "141480"
+                }
+            }
+        ], 
+        "id": "18649095", 
+        "has_no_known_copyright": null, 
+        "woe:country_name": "Cuba", 
+        "dimensions": "76.2 x 50.6 cm (30 x 19 15/16 in.)", 
+        "title": "Poster, El Salvador, 1973", 
+        "provenance": "1994: acquired by Museum (from Reinhold Brown Gallery New York, NY)", 
+        "participants": [
+            {
+                "person_name": "Dr. Gail Davidson", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35352245/", 
+                "role_id": "35352245", 
+                "role_name": "Cataloguer", 
+                "person_date": "", 
+                "role_display_name": "Catalogued by", 
+                "person_id": "18048255", 
+                "person_url": "https://collection.cooperhewitt.org/people/18048255/"
+            }, 
+            {
+                "person_name": "Reinhold Brown Gallery", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35352249/", 
+                "role_id": "35352249", 
+                "role_name": "Vendor", 
+                "person_date": "", 
+                "role_display_name": "Purchased from", 
+                "person_id": "18041557", 
+                "person_url": "https://collection.cooperhewitt.org/people/18041557/"
+            }, 
+            {
+                "person_name": "Smithsonian Institution CAP Funds--do not use", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35352247/", 
+                "role_id": "35352247", 
+                "role_name": "Fund", 
+                "person_date": "", 
+                "role_display_name": "Fund:", 
+                "person_id": "18048931", 
+                "person_url": "https://collection.cooperhewitt.org/people/18048931/"
+            }, 
+            {
+                "person_name": "ss", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35352245/", 
+                "role_id": "35352245", 
+                "role_name": "Cataloguer", 
+                "person_date": "", 
+                "role_display_name": "Catalogued by", 
+                "person_id": "18047797", 
+                "person_url": "https://collection.cooperhewitt.org/people/18047797/"
+            }, 
+            {
+                "person_name": "SR", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35352245/", 
+                "role_id": "35352245", 
+                "role_name": "Cataloguer", 
+                "person_date": "", 
+                "role_display_name": "Catalogued by", 
+                "person_id": "18047543", 
+                "person_url": "https://collection.cooperhewitt.org/people/18047543/"
+            }, 
+            {
+                "person_name": "Luis Vega de Castro, Cuban, b. 1944", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236565/", 
+                "role_id": "35236565", 
+                "role_name": "Artist", 
+                "person_date": "", 
+                "role_display_name": "", 
+                "person_id": "18043375", 
+                "person_url": "https://collection.cooperhewitt.org/people/18043375/"
+            }, 
+            {
+                "person_name": "Luis Vega de Castro, Cuban, b. 1944", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "", 
+                "role_display_name": "Designed by", 
+                "person_id": "18043375", 
+                "person_url": "https://collection.cooperhewitt.org/people/18043375/"
+            }
+        ], 
+        "decade": "1970", 
+        "label_text": null, 
+        "woe:country": "23424793", 
+        "dimensions_raw": {
+            "width": [
+                "50.64", 
+                "centimeters"
+            ], 
+            "height": [
+                "76.20", 
+                "centimeters"
+            ]
+        }, 
+        "department_id": "35347493", 
+        "title_raw": "El Salvador", 
+        "justification": null, 
+        "media_id": "35434615", 
+        "description": "On a black ground a soldier in a Nazi uniform. His face is surrounded by a yellow halo and covered by Benday dots. On his left shoulder sits a young girl in a blue dress with orange hair holding a rifle which is directed at his neck. Title runs across top: EL SALVADOR / film francés direccion: michel mardore/con: horst bucholz/muriel catala", 
+        "creditline": "Museum purchase from Smithsonian Institution Collections Acquisition Program Fund and through gift of Anonymous Donors", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "1973", 
+        "url": "https://collection.cooperhewitt.org/objects/18649095/", 
+        "type": "poster", 
+        "accession_number": "1994-65-12", 
+        "year_end": 1973, 
+        "signed": "Signed and dated on image along edge lower left: Luis Vega 73", 
+        "inscribed": null, 
+        "period_id": null, 
+        "year_acquired": "1994", 
+        "woe:country_id": "23424793"
+    }
+}

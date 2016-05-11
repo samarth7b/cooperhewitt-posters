@@ -1,0 +1,90 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": null, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": null, 
+        "tms:id": "208528", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/231825_7d7ca389b4fb876f_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "231825"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/231825_7d7ca389b4fb876f_b.jpg", 
+                    "width": 1024, 
+                    "height": 748, 
+                    "is_primary": "1", 
+                    "image_id": "231825"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/231825_7d7ca389b4fb876f_d.gif", 
+                    "width": 320, 
+                    "height": 234, 
+                    "is_primary": "1", 
+                    "image_id": "231825"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/231825_7d7ca389b4fb876f_z.jpg", 
+                    "width": 640, 
+                    "height": 467, 
+                    "is_primary": "1", 
+                    "image_id": "231825"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/231825_7d7ca389b4fb876f_n.jpg", 
+                    "width": 320, 
+                    "height": 234, 
+                    "is_primary": "1", 
+                    "image_id": "231825"
+                }
+            }
+        ], 
+        "id": "18666299", 
+        "has_no_known_copyright": null, 
+        "dimensions": null, 
+        "title": "Poster", 
+        "provenance": null, 
+        "participants": [
+            {
+                "person_name": "Independent Project Press", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35351535/", 
+                "role_id": "35351535", 
+                "role_name": "Donor", 
+                "person_date": "", 
+                "role_display_name": "Donated by", 
+                "person_id": "18041741", 
+                "person_url": "https://collection.cooperhewitt.org/people/18041741/"
+            }
+        ], 
+        "decade": null, 
+        "label_text": null, 
+        "woe:country": null, 
+        "dimensions_raw": null, 
+        "department_id": "35347493", 
+        "title_raw": null, 
+        "justification": null, 
+        "media_id": "35371135", 
+        "description": null, 
+        "creditline": "Gift of Independent Project Press", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": null, 
+        "url": "https://collection.cooperhewitt.org/objects/18666299/", 
+        "type": "poster", 
+        "accession_number": "1997-161-7", 
+        "year_end": null, 
+        "signed": null, 
+        "inscribed": null, 
+        "period_id": null, 
+        "year_acquired": "1997", 
+        "woe:country_id": null
+    }
+}

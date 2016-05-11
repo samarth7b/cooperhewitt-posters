@@ -1,0 +1,130 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": "For this poster featuring Bob Dylan, Sharp drew inspiration from the musician’s signature curly hair. Radiating circular motifs imitate the curls and also borrow from Albrecht Dürer’s woodcut, seen nearby. Just above Dylan’s forehead and scattered throughout, Sharp inserts the knot patterns that Dürer created in the early 16th century.", 
+        "year_start": 1968, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": "lithograph on wove paper", 
+        "tms:id": "241976", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/34746_d394217b956adc22_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "34746"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/34746_d394217b956adc22_b.jpg", 
+                    "width": 725, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "34746"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/34746_d394217b956adc22_d.gif", 
+                    "width": 227, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "34746"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/34746_d394217b956adc22_z.jpg", 
+                    "width": 453, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "34746"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/34746_d394217b956adc22_n.jpg", 
+                    "width": 227, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "34746"
+                }
+            }
+        ], 
+        "id": "18731757", 
+        "has_no_known_copyright": null, 
+        "woe:country_name": "United States", 
+        "dimensions": "74.8 x 50.5 cm (29 7/16 x 19 7/8 in.)", 
+        "title": "Poster, Blowing in the Mind/Mister Tambourine Man, 1968", 
+        "provenance": "Sara and Marc Benda; 2009: acquired by Museum", 
+        "participants": [
+            {
+                "person_name": "Sara Benda", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35351535/", 
+                "role_id": "35351535", 
+                "role_name": "Donor", 
+                "person_date": "", 
+                "role_display_name": "Donated by", 
+                "person_id": "18063205", 
+                "person_url": "https://collection.cooperhewitt.org/people/18063205/"
+            }, 
+            {
+                "person_name": "Big O Posters Ltd.", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236675/", 
+                "role_id": "35236675", 
+                "role_name": "For", 
+                "person_date": "England, United Kingdom, active 1960s", 
+                "role_display_name": "Made for", 
+                "person_id": "18062651", 
+                "person_url": "https://collection.cooperhewitt.org/people/18062651/"
+            }, 
+            {
+                "person_name": "Martin Sharp", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "Australian, 1942 - 2013", 
+                "role_display_name": "Designed by", 
+                "person_id": "18062625", 
+                "person_url": "https://collection.cooperhewitt.org/people/18062625/"
+            }, 
+            {
+                "person_name": "Marc Benda", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35351535/", 
+                "role_id": "35351535", 
+                "role_name": "Donor", 
+                "person_date": "", 
+                "role_display_name": "Donated by", 
+                "person_id": "18062523", 
+                "person_url": "https://collection.cooperhewitt.org/people/18062523/"
+            }
+        ], 
+        "decade": "1960", 
+        "label_text": "For this poster featuring Bob Dylan, Sharp drew inspiration from the musician’s signature curly hair. Radiating circular motifs imitate the curls and also borrow from Albrecht Dürer’s woodcut, seen nearby. Just above Dylan’s forehead and scattered throughout, Sharp inserts the knot patterns that Dürer created in the early 16th century.", 
+        "woe:country": "23424977", 
+        "dimensions_raw": {
+            "width": [
+                "50.48", 
+                "centimeters"
+            ], 
+            "height": [
+                "74.77", 
+                "centimeters"
+            ]
+        }, 
+        "department_id": "35347493", 
+        "title_raw": "Blowing in the Mind/Mister Tambourine Man", 
+        "justification": null, 
+        "media_id": "35407799", 
+        "description": "Large, central image of Bob Dylan in metallic gold and red, with singer wearing glasses containing text: \"Blowing in the Mind\" in metallic red. This portrait contains multi-sized radiating circular patterns in Dylan's hair, also in metallic gold and red. Additionally, portrait contains motifs from Albrecht Durer's series of woodblock prints for embroidery patterns, located in the middle of the singer's forehead as well as between circular patterns in upper section of poster. Also features a smaller image of Dylan in profile in the poster's lower section, in metallic red, facing left, in front of text: \"Mister Tambourine Man\" in metallic gold.", 
+        "creditline": "Gift of Sara and Marc Benda", 
+        "on_display": "1", 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "1968", 
+        "url": "https://collection.cooperhewitt.org/objects/18731757/", 
+        "type": "poster", 
+        "accession_number": "2009-12-25", 
+        "year_end": 1968, 
+        "signed": null, 
+        "inscribed": null, 
+        "period_id": null, 
+        "year_acquired": "2009", 
+        "woe:country_id": "23424977"
+    }
+}

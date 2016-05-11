@@ -1,0 +1,137 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": 1979, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": "offset lithograph on paper", 
+        "tms:id": "177410", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/64041_f0bd66ca2198d023_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "64041"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/64041_f0bd66ca2198d023_b.jpg", 
+                    "width": 517, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "64041"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/64041_f0bd66ca2198d023_d.gif", 
+                    "width": 162, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "64041"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/64041_f0bd66ca2198d023_z.jpg", 
+                    "width": 323, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "64041"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/64041_f0bd66ca2198d023_n.jpg", 
+                    "width": 162, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "64041"
+                }
+            }, 
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/203702_a78343ebd20865d3_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "0", 
+                    "image_id": "203702"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/203702_a78343ebd20865d3_b.jpg", 
+                    "width": 524, 
+                    "height": 1024, 
+                    "is_primary": "0", 
+                    "image_id": "203702"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/203702_a78343ebd20865d3_d.gif", 
+                    "width": 164, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "203702"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/203702_a78343ebd20865d3_z.jpg", 
+                    "width": 328, 
+                    "height": 640, 
+                    "is_primary": "0", 
+                    "image_id": "203702"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/203702_a78343ebd20865d3_n.jpg", 
+                    "width": 164, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "203702"
+                }
+            }
+        ], 
+        "id": "18617755", 
+        "has_no_known_copyright": null, 
+        "woe:country_name": "United States", 
+        "dimensions": "71.2 x 35.7 cm (28 1/16 x 14 1/16 in.)", 
+        "title": "Poster, 7in, 1979", 
+        "provenance": "1981: acquired by Museum", 
+        "participants": [
+            {
+                "person_name": "Woody Pirtle", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "b. 1945", 
+                "role_display_name": "Designed by", 
+                "person_id": "18042325", 
+                "person_url": "https://collection.cooperhewitt.org/people/18042325/"
+            }
+        ], 
+        "decade": "1970", 
+        "label_text": null, 
+        "woe:country": "23424977", 
+        "dimensions_raw": {
+            "width": [
+                "35.70", 
+                "centimeters"
+            ], 
+            "height": [
+                "71.20", 
+                "centimeters"
+            ]
+        }, 
+        "department_id": "35347493", 
+        "title_raw": "7in", 
+        "justification": null, 
+        "media_id": "35399021", 
+        "description": "Poster depicts a play on the 7Up soda brand. 7 in white with green outline, some “bubbles” and “in” is in white with green instead of “up\", on a red background. Below, in red ink: It was un-expected. / And clearly refreshing. / When seven of our entries / were published in CA79. / The Twentieth / Communication Arts Annual. / We’re especially proud / because it happened only eighteen / months after we opened. And / we’re certainly inspired to keep / pouring it on. / Because in the years ahead, we plan to move right from our / first seven on up. / [in green ink] Woody Pirtle, Inc.", 
+        "creditline": "Gift of Various Donors", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "1979", 
+        "url": "https://collection.cooperhewitt.org/objects/18617755/", 
+        "type": "poster", 
+        "accession_number": "1981-29-322", 
+        "year_end": 1979, 
+        "signed": null, 
+        "inscribed": null, 
+        "period_id": null, 
+        "year_acquired": "1981", 
+        "woe:country_id": "23424977"
+    }
+}

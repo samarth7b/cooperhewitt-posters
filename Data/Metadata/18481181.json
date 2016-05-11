@@ -1,0 +1,147 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": 1969, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": "lithograph on off-white wove paper", 
+        "tms:id": "151444", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/81914_46baba306194b76b_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "81914"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/81914_46baba306194b76b_b.jpg", 
+                    "width": 805, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "81914"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/81914_46baba306194b76b_d.gif", 
+                    "width": 252, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "81914"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/81914_46baba306194b76b_z.jpg", 
+                    "width": 503, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "81914"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/81914_46baba306194b76b_n.jpg", 
+                    "width": 252, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "81914"
+                }
+            }, 
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/255090_f48fd9d5a260c65b_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "0", 
+                    "image_id": "255090"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/255090_f48fd9d5a260c65b_b.jpg", 
+                    "width": 828, 
+                    "height": 1024, 
+                    "is_primary": "0", 
+                    "image_id": "255090"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/255090_f48fd9d5a260c65b_d.gif", 
+                    "width": 259, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "255090"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/255090_f48fd9d5a260c65b_z.jpg", 
+                    "width": 518, 
+                    "height": 640, 
+                    "is_primary": "0", 
+                    "image_id": "255090"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/255090_f48fd9d5a260c65b_n.jpg", 
+                    "width": 259, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "255090"
+                }
+            }
+        ], 
+        "id": "18481181", 
+        "has_no_known_copyright": null, 
+        "woe:country_name": "United States", 
+        "dimensions": "73.7 x 58.8 cm (29 in. x 23 1/8 in.)", 
+        "title": "Poster, Black Revolution, 1969", 
+        "provenance": "1973: acquired by Museum", 
+        "participants": [
+            {
+                "person_name": "Mike Mills", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "American, b. 1966", 
+                "role_display_name": "Designed by", 
+                "person_id": "18043625", 
+                "person_url": "https://collection.cooperhewitt.org/people/18043625/"
+            }, 
+            {
+                "person_name": "Lew Mills", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "", 
+                "role_display_name": "Designed by", 
+                "person_id": "420563843", 
+                "person_url": "https://collection.cooperhewitt.org/people/420563843/"
+            }
+        ], 
+        "decade": "1960", 
+        "label_text": null, 
+        "woe:country": "23424977", 
+        "dimensions_raw": {
+            "width": [
+                "58.80", 
+                "centimeters"
+            ], 
+            "height": [
+                "73.70", 
+                "centimeters"
+            ]
+        }, 
+        "department_id": "35347493", 
+        "title_raw": "Black Revolution", 
+        "justification": null, 
+        "media_id": "35385163", 
+        "description": "Profiled silhouette of African-American boy. Overlayed with several black and white collage drawings.  Some of figures, city apartment buildings and words. Black Revolution is drawn at bottom. Composite images form a rectangle over the profile.", 
+        "creditline": null, 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "1969", 
+        "url": "https://collection.cooperhewitt.org/objects/18481181/", 
+        "type": "poster", 
+        "accession_number": "1973-39-399", 
+        "year_end": 1969, 
+        "signed": "Signed in pencil, lower left: Lew Mills, '69", 
+        "inscribed": "To Mr. Donald H. Karshan Museum of Graphic Art", 
+        "period_id": null, 
+        "year_acquired": "1973", 
+        "woe:country_id": "23424977"
+    }
+}

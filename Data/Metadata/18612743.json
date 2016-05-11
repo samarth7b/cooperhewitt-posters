@@ -1,0 +1,216 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": 1917, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": null, 
+        "tms:id": "99688", 
+        "images": [
+            {
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/97157_e5db77d4c8749638_b.jpg", 
+                    "width": 688, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "97157"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/97157_e5db77d4c8749638_d.gif", 
+                    "width": 215, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "97157"
+                }, 
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/97157_e5db77d4c8749638_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "97157"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/97157_e5db77d4c8749638_n.jpg", 
+                    "width": 215, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "97157"
+                }, 
+                "x": {
+                    "url": "https://images.collection.cooperhewitt.org/97157_77048de860bfe963_x.jpg", 
+                    "width": 2749, 
+                    "height": 4096, 
+                    "is_primary": "1", 
+                    "image_id": "97157"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/97157_e5db77d4c8749638_z.jpg", 
+                    "width": 430, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "97157"
+                }
+            }, 
+            {
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/252225_756a7cc03991e21c_b.jpg", 
+                    "width": 695, 
+                    "height": 1024, 
+                    "is_primary": "0", 
+                    "image_id": "252225"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/252225_756a7cc03991e21c_d.gif", 
+                    "width": 217, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "252225"
+                }, 
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/252225_756a7cc03991e21c_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "0", 
+                    "image_id": "252225"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/252225_756a7cc03991e21c_n.jpg", 
+                    "width": 217, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "252225"
+                }, 
+                "x": {
+                    "url": "https://images.collection.cooperhewitt.org/252225_2d07fc6a82ad7178_x.jpg", 
+                    "width": 2780, 
+                    "height": 4095, 
+                    "is_primary": "0", 
+                    "image_id": "252225"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/252225_756a7cc03991e21c_z.jpg", 
+                    "width": 434, 
+                    "height": 640, 
+                    "is_primary": "0", 
+                    "image_id": "252225"
+                }
+            }, 
+            {
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/95464_ab545832b6c532b8_b.jpg", 
+                    "width": 687, 
+                    "height": 1024, 
+                    "is_primary": "0", 
+                    "image_id": "95464"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/95464_ab545832b6c532b8_d.gif", 
+                    "width": 215, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "95464"
+                }, 
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/95464_ab545832b6c532b8_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "0", 
+                    "image_id": "95464"
+                }, 
+                "o": {
+                    "url": "https://images.collection.cooperhewitt.org/95464_c6f9159d3039b349_o.jpg", 
+                    "width": 4549, 
+                    "height": 6779, 
+                    "is_primary": "0", 
+                    "image_id": "95464"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/95464_ab545832b6c532b8_n.jpg", 
+                    "width": 215, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "95464"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/95464_ab545832b6c532b8_z.jpg", 
+                    "width": 429, 
+                    "height": 640, 
+                    "is_primary": "0", 
+                    "image_id": "95464"
+                }
+            }
+        ], 
+        "id": "18612743", 
+        "has_no_known_copyright": "1", 
+        "woe:country_name": "United States", 
+        "dimensions": "76.4 × 51.1 cm (30 1/16 × 20 1/8 in.)", 
+        "title": "Poster, The Ships are Coming, 1917", 
+        "provenance": null, 
+        "participants": [
+            {
+                "person_name": "United States Shipping Board", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236667/", 
+                "role_id": "35236667", 
+                "role_name": "Client", 
+                "person_date": "Washington D.C., USA", 
+                "role_display_name": "Client:", 
+                "person_id": "51678435", 
+                "person_url": "https://collection.cooperhewitt.org/people/51678435/"
+            }, 
+            {
+                "person_name": "Publications Section, Emergency Fleet Corporation", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236661/", 
+                "role_id": "35236661", 
+                "role_name": "Publisher", 
+                "person_date": "", 
+                "role_display_name": "Published by", 
+                "person_id": "18048327", 
+                "person_url": "https://collection.cooperhewitt.org/people/18048327/"
+            }, 
+            {
+                "person_name": "James H. Daugherty", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236763/", 
+                "role_id": "35236763", 
+                "role_name": "Graphic Designer", 
+                "person_date": "American, 1889-1974", 
+                "role_display_name": "Graphic design by", 
+                "person_id": "68263799", 
+                "person_url": "https://collection.cooperhewitt.org/people/68263799/"
+            }, 
+            {
+                "person_name": "Miss Louise Clémencon", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35351535/", 
+                "role_id": "35351535", 
+                "role_name": "Donor", 
+                "person_date": "", 
+                "role_display_name": "Donated by", 
+                "person_id": "18536605", 
+                "person_url": "https://collection.cooperhewitt.org/people/18536605/"
+            }
+        ], 
+        "decade": "1910", 
+        "label_text": null, 
+        "woe:country": "23424977", 
+        "dimensions_raw": null, 
+        "department_id": "35347493", 
+        "title_raw": "The Ships are Coming", 
+        "justification": null, 
+        "media_id": "35371135", 
+        "description": "An eagle takes up a large portion of the top half of the poster. The eagle is mid flight but appears to be reacting to something because its claws are in a defensive position. The eagle is flying over a shipping yard, with a city in the background. A red sun appears at the horizon. Text at bottom: THE SHIPS ARE COMING / United States Shipping Board Emergency Fleet Corporation .", 
+        "creditline": "Gift of Louise Clémencon", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "1917", 
+        "url": "https://collection.cooperhewitt.org/objects/18612743/", 
+        "type": "poster", 
+        "accession_number": "1949-108-11", 
+        "year_end": 1917, 
+        "signed": null, 
+        "inscribed": "Bottom left: Forbes Boston \nBottom center: Issued by publications section emergency fleet corporation Philadelphia PA.", 
+        "period_id": "35417341", 
+        "year_acquired": "1949", 
+        "woe:country_id": "23424977"
+    }
+}

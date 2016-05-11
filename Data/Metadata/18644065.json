@@ -1,0 +1,110 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": null, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": null, 
+        "tms:id": "196900", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/232206_665de3dcbe2a3386_sq.jpg", 
+                    "width": 105, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "232206"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/232206_665de3dcbe2a3386_b.jpg", 
+                    "width": 105, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "232206"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/232206_665de3dcbe2a3386_d.gif", 
+                    "width": 33, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "232206"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/232206_665de3dcbe2a3386_z.jpg", 
+                    "width": 65, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "232206"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/232206_665de3dcbe2a3386_n.jpg", 
+                    "width": 33, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "232206"
+                }
+            }
+        ], 
+        "id": "18644065", 
+        "has_no_known_copyright": null, 
+        "woe:country_name": "United States", 
+        "dimensions": "Sheet: 88.9 x 58.4 cm (35 x 23 in.)", 
+        "title": "Poster, Talking Heads:  Naked (fo", 
+        "provenance": null, 
+        "participants": [
+            {
+                "person_name": "Tibor Kalman", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35351535/", 
+                "role_id": "35351535", 
+                "role_name": "Donor", 
+                "person_date": "Hungarian and American, 1949 - 1999", 
+                "role_display_name": "Donated by", 
+                "person_id": "18041523", 
+                "person_url": "https://collection.cooperhewitt.org/people/18041523/"
+            }, 
+            {
+                "person_name": "M & Co.", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "founded 1979", 
+                "role_display_name": "Designed by", 
+                "person_id": "18048717", 
+                "person_url": "https://collection.cooperhewitt.org/people/18048717/"
+            }
+        ], 
+        "decade": null, 
+        "label_text": null, 
+        "woe:country": "23424977", 
+        "dimensions_raw": {
+            "width": [
+                "58.40", 
+                "centimeters"
+            ], 
+            "height": [
+                "88.90", 
+                "centimeters"
+            ]
+        }, 
+        "department_id": "35347493", 
+        "title_raw": "Talking Heads:  Naked (fo", 
+        "justification": null, 
+        "media_id": "35371135", 
+        "description": "poster folder in accordian style", 
+        "creditline": "Gift of Tibor Kalman/ M & Co.", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": null, 
+        "url": "https://collection.cooperhewitt.org/objects/18644065/", 
+        "type": "poster", 
+        "accession_number": "1993-151-140", 
+        "year_end": null, 
+        "signed": null, 
+        "inscribed": null, 
+        "period_id": null, 
+        "year_acquired": "1993", 
+        "woe:country_id": "23424977"
+    }
+}

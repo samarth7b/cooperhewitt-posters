@@ -1,0 +1,129 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": 1975, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": "offset lithograph", 
+        "tms:id": "211500", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/252269_e29ba553549ee168_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "252269"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/252269_e29ba553549ee168_b.jpg", 
+                    "width": 1024, 
+                    "height": 710, 
+                    "is_primary": "1", 
+                    "image_id": "252269"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/252269_e29ba553549ee168_d.gif", 
+                    "width": 320, 
+                    "height": 222, 
+                    "is_primary": "1", 
+                    "image_id": "252269"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/252269_e29ba553549ee168_z.jpg", 
+                    "width": 640, 
+                    "height": 444, 
+                    "is_primary": "1", 
+                    "image_id": "252269"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/252269_e29ba553549ee168_n.jpg", 
+                    "width": 320, 
+                    "height": 222, 
+                    "is_primary": "1", 
+                    "image_id": "252269"
+                }
+            }
+        ], 
+        "id": "18672117", 
+        "has_no_known_copyright": null, 
+        "dimensions": "45.1 x 66.0 cm (17 3/4 x 26 in. )", 
+        "title": "Poster, Exhibition Poster: Artists Make Toys,  The Clocktower, New York, 1975", 
+        "provenance": null, 
+        "participants": [
+            {
+                "person_name": "Lawrence Markey, Inc.", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35352249/", 
+                "role_id": "35352249", 
+                "role_name": "Vendor", 
+                "person_date": "", 
+                "role_display_name": "Purchased from", 
+                "person_id": "18051405", 
+                "person_url": "https://collection.cooperhewitt.org/people/18051405/"
+            }, 
+            {
+                "person_name": "Hannah Wilke", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236631/", 
+                "role_id": "35236631", 
+                "role_name": "Photographer", 
+                "person_date": "b. 1940", 
+                "role_display_name": "Photographed by", 
+                "person_id": "18054407", 
+                "person_url": "https://collection.cooperhewitt.org/people/18054407/"
+            }, 
+            {
+                "person_name": "Claes Oldenburg", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236685/", 
+                "role_id": "35236685", 
+                "role_name": "Maker", 
+                "person_date": "American, b. Stockholm, Sweden, 1929", 
+                "role_display_name": "Made by", 
+                "person_id": "18054275", 
+                "person_url": "https://collection.cooperhewitt.org/people/18054275/"
+            }, 
+            {
+                "person_name": "General Acquisitions Endowment", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35352247/", 
+                "role_id": "35352247", 
+                "role_name": "Fund", 
+                "person_date": "", 
+                "role_display_name": "Fund:", 
+                "person_id": "18048535", 
+                "person_url": "https://collection.cooperhewitt.org/people/18048535/"
+            }
+        ], 
+        "decade": "1970", 
+        "label_text": null, 
+        "woe:country": null, 
+        "dimensions_raw": {
+            "width": [
+                "66.00", 
+                "centimeters"
+            ], 
+            "height": [
+                "45.10", 
+                "centimeters"
+            ]
+        }, 
+        "department_id": "35347493", 
+        "title_raw": "Exhibition Poster: Artists Make Toys,  The Clocktower, New York", 
+        "justification": null, 
+        "media_id": "35399027", 
+        "description": "Art exhibition poster showing color photo of reclining couple on a bed covered by quilts.  The man (clothed, wearing a hat) is the artist Claes Oldenburg; the nude woman is artist Hannah Wilke.  Above bed is Oldenburg's large soft sculpture of light switch.  The exhibition title is printed in the space between the artists's heads.   A long list of 65 artist names is printed at the right (Laurie Anderson... Joe Zucker).", 
+        "creditline": "Museum purchase from General Acquisitions Endowment and Smithsonian Institution Collections Acquisition Program Funds", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "1975", 
+        "url": "https://collection.cooperhewitt.org/objects/18672117/", 
+        "type": "poster", 
+        "accession_number": "1999-45-2", 
+        "year_end": 1975, 
+        "signed": "© Hannah Wilke C. Oldenburg/H. Wilke, 1973\"", 
+        "inscribed": "Imprinted in black, center: \"artists make toys\".  Imprinted in black, upper left corner:\n\"The Clocktower/January 1 - February 15, 1975/ 108 Leonard Street/ New York, New York 10013/ Thursday - Saturday 1:00 - 6:00 PM/ January 25, 1975, 8:30 PM/ reservations/ call 233-1096\".  Imprinted in black, along right edge: \"The Clocktower is sponsored by the Institute for Art and Urban Resources, Inc. 11 John Street, New York, New York 10038 (212) 233-1096 Printing: Davis-Delaney-Arrow Inc. Typography: York Type/Peter Pica Paper, Nationwide Papers Photo: © Hannah Wilke C. Oldenburg/H. Wilke, 1973\"", 
+        "period_id": null, 
+        "year_acquired": "1999", 
+        "woe:country_id": null
+    }
+}

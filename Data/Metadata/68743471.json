@@ -1,0 +1,138 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": 2009, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": "laser plotter print with hand-applied stickers on paper", 
+        "tms:id": "277543", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/95681_2f03e851f9e31beb_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "95681"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/95681_2f03e851f9e31beb_b.jpg", 
+                    "width": 729, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "95681"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/95681_2f03e851f9e31beb_d.gif", 
+                    "width": 228, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "95681"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/95681_2f03e851f9e31beb_z.jpg", 
+                    "width": 455, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "95681"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/95681_2f03e851f9e31beb_n.jpg", 
+                    "width": 228, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "95681"
+                }
+            }, 
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/94796_8c7d27017719966c_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "0", 
+                    "image_id": "94796"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/94796_8c7d27017719966c_b.jpg", 
+                    "width": 728, 
+                    "height": 1024, 
+                    "is_primary": "0", 
+                    "image_id": "94796"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/94796_8c7d27017719966c_d.gif", 
+                    "width": 228, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "94796"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/94796_8c7d27017719966c_z.jpg", 
+                    "width": 455, 
+                    "height": 640, 
+                    "is_primary": "0", 
+                    "image_id": "94796"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/94796_8c7d27017719966c_n.jpg", 
+                    "width": 228, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "94796"
+                }
+            }
+        ], 
+        "id": "68743471", 
+        "has_no_known_copyright": null, 
+        "woe:country_name": "Australia", 
+        "dimensions": "H x W: 115.9 × 82.1 cm (45 5/8 × 32 5/16 in.)", 
+        "title": "Poster, Labelled 1/8 (Refugee), 2009", 
+        "provenance": "Mark Gowing to Cooper Hewitt, August 2014", 
+        "participants": [
+            {
+                "person_name": "Mark Gowing", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35351535/", 
+                "role_id": "35351535", 
+                "role_name": "Donor", 
+                "person_date": "Australian, b. 1970", 
+                "role_display_name": "Donated by", 
+                "person_id": "68735181", 
+                "person_url": "https://collection.cooperhewitt.org/people/68735181/"
+            }, 
+            {
+                "person_name": "Mark Gowing", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "Australian, b. 1970", 
+                "role_display_name": "Designed by", 
+                "person_id": "68735181", 
+                "person_url": "https://collection.cooperhewitt.org/people/68735181/"
+            }
+        ], 
+        "decade": "2000", 
+        "label_text": null, 
+        "woe:country": "23424748", 
+        "dimensions_raw": null, 
+        "department_id": "35347493", 
+        "title_raw": "Labelled 1/8 (Refugee)", 
+        "justification": "This poster, one of a series of eight designed by Mark Gowing for a personal project, was inspired by Gowing’s concerned observation that “[o]ur contemporary world seems to be in a constantly heightening state of panic over people’s origins and intents.  Judging individuals on face value seems to be an increasing concern at both a social and political level as the global melting pot takes a firm step backwards.”  Gowing created this set of posters to highlight what he feels is the “unjust nature of labelling an individual based on their appearance.”  Gowing sourced his images from an inexpensive, royalty free image bank and printed them at large scale in black and white using a laser plotter printer.  He purchased off-the-shelf stickers which he then applied by hand to the surface of the poster, creating the “labels”, such as “homeless,” “religious,” and “indigenous.”  For this poster, Gowing use red stickers printed with white letters featuring the word “SOLD” to form the word “refugee” across the face of a man in glasses.", 
+        "media_id": "68743465", 
+        "description": "Poster for the EyeSaw 2009 exhibition, from Gowing's Labelled Series. Black-and-white photo of a bespectacled, middle-aged man, pictured from the neck up. Across his face, text reads \"re / fug / ee\". The letters are comprised of many small red rectangular stickers, each printed with the word \"SOLD\" in white.", 
+        "creditline": "Gift of Mark Gowing", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "2009", 
+        "url": "https://collection.cooperhewitt.org/objects/68743471/", 
+        "type": "poster", 
+        "accession_number": "2014-32-4", 
+        "year_end": 2009, 
+        "signed": null, 
+        "inscribed": null, 
+        "period_id": null, 
+        "year_acquired": "2014", 
+        "woe:country_id": "23424748"
+    }
+}

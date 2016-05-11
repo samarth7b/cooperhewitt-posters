@@ -1,0 +1,147 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": 2014, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": "digital print on paper", 
+        "tms:id": "277461", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/95688_42f352168ac35806_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "95688"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/95688_42f352168ac35806_b.jpg", 
+                    "width": 730, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "95688"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/95688_42f352168ac35806_d.gif", 
+                    "width": 228, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "95688"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/95688_42f352168ac35806_z.jpg", 
+                    "width": 456, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "95688"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/95688_42f352168ac35806_n.jpg", 
+                    "width": 228, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "95688"
+                }
+            }, 
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/94811_9202e698f12745a3_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "0", 
+                    "image_id": "94811"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/94811_9202e698f12745a3_b.jpg", 
+                    "width": 730, 
+                    "height": 1024, 
+                    "is_primary": "0", 
+                    "image_id": "94811"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/94811_9202e698f12745a3_d.gif", 
+                    "width": 228, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "94811"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/94811_9202e698f12745a3_z.jpg", 
+                    "width": 456, 
+                    "height": 640, 
+                    "is_primary": "0", 
+                    "image_id": "94811"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/94811_9202e698f12745a3_n.jpg", 
+                    "width": 228, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "94811"
+                }
+            }
+        ], 
+        "id": "68731067", 
+        "has_no_known_copyright": null, 
+        "woe:country_name": "Germany", 
+        "dimensions": "H x W: 103 × 72.8 cm (40 9/16 × 28 11/16 in.)", 
+        "title": "Poster, The Core, 2014", 
+        "provenance": "Saori Shiro Shita new to Cooper Hewitt, August 2014", 
+        "participants": [
+            {
+                "person_name": "Shiro Shita Saori", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35351535/", 
+                "role_id": "35351535", 
+                "role_name": "Donor", 
+                "person_date": "Japanese, born 1990", 
+                "role_display_name": "Donated by", 
+                "person_id": "68735113", 
+                "person_url": "https://collection.cooperhewitt.org/people/68735113/"
+            }, 
+            {
+                "person_name": "Shiro Shita Saori", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "Japanese, born 1990", 
+                "role_display_name": "Designed by", 
+                "person_id": "68735113", 
+                "person_url": "https://collection.cooperhewitt.org/people/68735113/"
+            }
+        ], 
+        "decade": "2010", 
+        "label_text": null, 
+        "woe:country": "23424829", 
+        "dimensions_raw": {
+            "width": [
+                "72.80", 
+                "centimeters"
+            ], 
+            "height": [
+                "103.00", 
+                "centimeters"
+            ]
+        }, 
+        "department_id": "35347493", 
+        "title_raw": "The Core", 
+        "justification": "For a personal project, Shiro Shita Saori designed a pair of posters as an ode to Japan and the rich history of Japanese poster design.  As Bruno Munari half-jokingly wrote, “[t]he old idea in advertising was that a poster should hit you in the eye.”  The tradition of Japanese posters that feature an eye-catching circle in the center of their composition is often a nod to the country’s flag, which comprises a stark red circle on a white ground.  Of this design structure, Munari wrote that “the disc itself is a form that the eye finds is hard to escape from.”  Working within this esteemed tradition, Saori’s poster features the word \"JAPAN\" repeated six times in white italicized letters against a black ground.  A central black circle obscures much of these letters, and is filled with thin white concentric circles, further drawing the eye to the center or, as Munari would say, hitting you in the eye.", 
+        "media_id": "35433615", 
+        "description": "Poster with black background featuring the word \"JAPAN\" written in white italicized letters repeated six times. A large black circle in the center of the poster obscures many of the letters.", 
+        "creditline": "Gift of Shiro Shita Saori", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "2014", 
+        "url": "https://collection.cooperhewitt.org/objects/68731067/", 
+        "type": "poster", 
+        "accession_number": "2014-35-4", 
+        "year_end": 2014, 
+        "signed": null, 
+        "inscribed": null, 
+        "period_id": null, 
+        "year_acquired": "2014", 
+        "woe:country_id": "23424829"
+    }
+}

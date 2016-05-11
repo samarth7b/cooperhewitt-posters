@@ -1,0 +1,89 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": 1980, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": null, 
+        "tms:id": "176205", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/201523_809b91b7123479f1_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "201523"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/201523_809b91b7123479f1_b.jpg", 
+                    "width": 719, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "201523"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/201523_809b91b7123479f1_d.gif", 
+                    "width": 225, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "201523"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/201523_809b91b7123479f1_z.jpg", 
+                    "width": 449, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "201523"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/201523_809b91b7123479f1_n.jpg", 
+                    "width": 225, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "201523"
+                }
+            }
+        ], 
+        "id": "18615359", 
+        "has_no_known_copyright": null, 
+        "woe:country_name": "United States", 
+        "dimensions": "Overall: 62.5 x 43.2 cm (24 5/8 x 17 in.)", 
+        "title": "Poster, Charles Eldred: Sculpture & Drawing, 1980", 
+        "provenance": null, 
+        "participants": [], 
+        "decade": "1980", 
+        "label_text": null, 
+        "woe:country": "23424977", 
+        "dimensions_raw": {
+            "width": [
+                "43.20", 
+                "centimeters"
+            ], 
+            "height": [
+                "62.50", 
+                "centimeters"
+            ]
+        }, 
+        "department_id": "35347493", 
+        "title_raw": "Charles Eldred: Sculpture & Drawing", 
+        "justification": null, 
+        "media_id": "35371135", 
+        "description": "Identical to 1980-32-1017-1.", 
+        "creditline": null, 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "1980", 
+        "url": "https://collection.cooperhewitt.org/objects/18615359/", 
+        "type": "poster", 
+        "accession_number": "1980-42-1", 
+        "year_end": 1980, 
+        "signed": null, 
+        "inscribed": null, 
+        "period_id": null, 
+        "year_acquired": "1980", 
+        "woe:country_id": "23424977"
+    }
+}

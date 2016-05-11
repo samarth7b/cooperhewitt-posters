@@ -1,0 +1,140 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": "In the 1950s, IBM hired Eliot Noyes as design consultant to revamp the company’s identity. Noyes subsequently hired modern graphic artist Paul Rand, who designed the iconic striped IBM logo as well as various packaging, posters, and other design work for which he became renowned as a leading corporate designer. Rand’s IBM logo was intended to give consistency to the letters, each of which is wider than the last. The striped letters, with eight- and thirteen-bar variants, suggest speed, dynamism, and make the ordinary block letters less standard, and therefore more memorable. In this poster, Rand has replaced the first two letters with pictograms while retaining the “M” of what by this time had become iconic. He claimed that the “B” and “I” were the least likely letters in the alphabet to be misinterpreted in a rebus. Rand has described the rebus as “a kind of game designed to engage the reader and, incidentally, lots of fun.” Further, the rebus humanized the corporate giant while maintaining reference to its iconic striped letters. The in-house poster was considered so successful that IBM has continued printing the design for other purposes and in variant forms.", 
+        "year_start": 1981, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": "offset lithograph", 
+        "tms:id": "223238", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/49899_ace8c0378089f8bd_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "49899"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/49899_ace8c0378089f8bd_b.jpg", 
+                    "width": 684, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "49899"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/49899_ace8c0378089f8bd_d.gif", 
+                    "width": 214, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "49899"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/49899_ace8c0378089f8bd_z.jpg", 
+                    "width": 428, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "49899"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/49899_ace8c0378089f8bd_n.jpg", 
+                    "width": 214, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "49899"
+                }
+            }
+        ], 
+        "id": "18695343", 
+        "has_no_known_copyright": null, 
+        "woe:country_name": "United States", 
+        "dimensions": "H x W x D: 91.6 × 61.1 cm (36 1/16 × 24 1/16 in.)", 
+        "title": "Poster, Eye, Bee, M (IBM), 1981", 
+        "provenance": "Marion S. Rand; 2002: acquired by Museum", 
+        "participants": [
+            {
+                "person_name": "Karin Zonis", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35352245/", 
+                "role_id": "35352245", 
+                "role_name": "Cataloguer", 
+                "person_date": "", 
+                "role_display_name": "Catalogued by", 
+                "person_id": "51676457", 
+                "person_url": "https://collection.cooperhewitt.org/people/51676457/"
+            }, 
+            {
+                "person_name": "Dr. Gail Davidson", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35352245/", 
+                "role_id": "35352245", 
+                "role_name": "Cataloguer", 
+                "person_date": "", 
+                "role_display_name": "Catalogued by", 
+                "person_id": "18048255", 
+                "person_url": "https://collection.cooperhewitt.org/people/18048255/"
+            }, 
+            {
+                "person_name": "Marion S. Rand", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35351535/", 
+                "role_id": "35351535", 
+                "role_name": "Donor", 
+                "person_date": "", 
+                "role_display_name": "Donated by", 
+                "person_id": "18538789", 
+                "person_url": "https://collection.cooperhewitt.org/people/18538789/"
+            }, 
+            {
+                "person_name": "Paul Rand", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236763/", 
+                "role_id": "35236763", 
+                "role_name": "Graphic Designer", 
+                "person_date": "American, 1914–1996", 
+                "role_display_name": "Graphic design by", 
+                "person_id": "18042341", 
+                "person_url": "https://collection.cooperhewitt.org/people/18042341/"
+            }, 
+            {
+                "person_name": "IBM", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236667/", 
+                "role_id": "35236667", 
+                "role_name": "Client", 
+                "person_date": "USA", 
+                "role_display_name": "Client:", 
+                "person_id": "18041871", 
+                "person_url": "https://collection.cooperhewitt.org/people/18041871/"
+            }
+        ], 
+        "decade": "1980", 
+        "label_text": "This famous poster is an example of a rebus. We read the pictures of the eye and the bee as sounds, spelling out the company name: IBM. Using pictures to represent sounds is the basis of various writing systems, including Egyptian hieroglyphs. The striped version of the logo, which Rand designed in 1972, remains in use today.", 
+        "woe:country": "23424977", 
+        "dimensions_raw": {
+            "width": [
+                "61.00", 
+                "centimeters"
+            ], 
+            "height": [
+                "91.40", 
+                "centimeters"
+            ]
+        }, 
+        "department_id": "35347493", 
+        "title_raw": "Eye, Bee, M (IBM)", 
+        "justification": null, 
+        "media_id": "35399027", 
+        "description": "On a black ground, across center of sheet, an eye with brown iris and orange eyebrow, a vertically placed yellow jacket bee with pink, circular antenae and green wings, and a horizontally striped blue and black M.", 
+        "creditline": "Gift of Marion S. Rand", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "1981", 
+        "url": "https://collection.cooperhewitt.org/objects/18695343/", 
+        "type": "poster", 
+        "accession_number": "2002-11-20", 
+        "year_end": 1981, 
+        "signed": "Signed [imprinted] in grey ink, lower right:  Paul Rand", 
+        "inscribed": "Imprinted in gray, lower left corner:  ©Copyright IBM Corporation, 1991.  All Rights Reserved. / TM Trademark of the IBM Corporation in the United States and/or other countries.", 
+        "period_id": null, 
+        "year_acquired": "2002", 
+        "woe:country_id": "23424977"
+    }
+}

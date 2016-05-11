@@ -1,0 +1,146 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": 1967, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": "screenprint on white paper", 
+        "tms:id": "139983", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/65135_816fb195a2f90edb_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "65135"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/65135_816fb195a2f90edb_b.jpg", 
+                    "width": 576, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "65135"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/65135_816fb195a2f90edb_d.gif", 
+                    "width": 180, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "65135"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/65135_816fb195a2f90edb_z.jpg", 
+                    "width": 360, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "65135"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/65135_816fb195a2f90edb_n.jpg", 
+                    "width": 180, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "65135"
+                }
+            }, 
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/268455_457f9a33d59fff46_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "0", 
+                    "image_id": "268455"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/268455_457f9a33d59fff46_b.jpg", 
+                    "width": 602, 
+                    "height": 1024, 
+                    "is_primary": "0", 
+                    "image_id": "268455"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/268455_457f9a33d59fff46_d.gif", 
+                    "width": 188, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "268455"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/268455_457f9a33d59fff46_z.jpg", 
+                    "width": 376, 
+                    "height": 640, 
+                    "is_primary": "0", 
+                    "image_id": "268455"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/268455_457f9a33d59fff46_n.jpg", 
+                    "width": 188, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "268455"
+                }
+            }
+        ], 
+        "id": "18458819", 
+        "has_no_known_copyright": null, 
+        "dimensions": "88.8 x 50 cm (34 15/16 x 19 11/16 in.)", 
+        "title": "Poster, London Art Gallery, 1967", 
+        "provenance": "1967: acquired by Museum", 
+        "participants": [
+            {
+                "person_name": "Xenia Cage", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35351535/", 
+                "role_id": "35351535", 
+                "role_name": "Donor", 
+                "person_date": "", 
+                "role_display_name": "Donated by", 
+                "person_id": "18054715", 
+                "person_url": "https://collection.cooperhewitt.org/people/18054715/"
+            }, 
+            {
+                "person_name": "Victor Vasarely", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236685/", 
+                "role_id": "35236685", 
+                "role_name": "Maker", 
+                "person_date": "", 
+                "role_display_name": "Made by", 
+                "person_id": "18538023", 
+                "person_url": "https://collection.cooperhewitt.org/people/18538023/"
+            }
+        ], 
+        "decade": "1960", 
+        "label_text": null, 
+        "woe:country": null, 
+        "dimensions_raw": {
+            "width": [
+                "50.00", 
+                "centimeters"
+            ], 
+            "height": [
+                "88.80", 
+                "centimeters"
+            ]
+        }, 
+        "department_id": "35347493", 
+        "title_raw": "London Art Gallery", 
+        "justification": null, 
+        "media_id": "51684187", 
+        "description": "Abstract design in black, gray and white on white paper. At bottom: VICTOR VASARELY / OCT. 18-NOV. 11 / London Arts Gallery / 321 FISHER BLDG. / DETROIT 48202 / THE EXHIBITION IS AVAILABLE FOR / CIRCULATION TO COLLEGES AND MUSEUMS.", 
+        "creditline": null, 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "1967", 
+        "url": "https://collection.cooperhewitt.org/objects/18458819/", 
+        "type": "poster", 
+        "accession_number": "1967-67-1", 
+        "year_end": 1967, 
+        "signed": null, 
+        "inscribed": null, 
+        "period_id": null, 
+        "year_acquired": "1967", 
+        "woe:country_id": null
+    }
+}

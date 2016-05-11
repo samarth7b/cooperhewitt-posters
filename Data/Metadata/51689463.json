@@ -1,0 +1,120 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": 2000, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": "offset lithograph on two sheets of paper", 
+        "tms:id": "276300", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/90517_5a7f859f32ac2b86_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "90517"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/90517_5a7f859f32ac2b86_b.jpg", 
+                    "width": 513, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "90517"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/90517_5a7f859f32ac2b86_d.gif", 
+                    "width": 160, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "90517"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/90517_5a7f859f32ac2b86_z.jpg", 
+                    "width": 321, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "90517"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/90517_5a7f859f32ac2b86_n.jpg", 
+                    "width": 160, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "90517"
+                }
+            }
+        ], 
+        "id": "51689463", 
+        "has_no_known_copyright": null, 
+        "woe:country_name": "United States", 
+        "dimensions": "213.4 x 106.7 cm (7 ft. x 42 in.)", 
+        "title": "Poster, Shakespeare in the Park 2000: The Winter's Tale/Julius Caeser, The Public Theater, 2000", 
+        "provenance": "Paula Scher; 2013: acquired by Museum", 
+        "participants": [
+            {
+                "person_name": "Paula Scher", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "American, b. 1948", 
+                "role_display_name": "Designed by", 
+                "person_id": "18043689", 
+                "person_url": "https://collection.cooperhewitt.org/people/18043689/"
+            }, 
+            {
+                "person_name": "The Public Theater", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236667/", 
+                "role_id": "35236667", 
+                "role_name": "Client", 
+                "person_date": "New York, New York, USA", 
+                "role_display_name": "Client:", 
+                "person_id": "18052561", 
+                "person_url": "https://collection.cooperhewitt.org/people/18052561/"
+            }, 
+            {
+                "person_name": "Paula Scher", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35351535/", 
+                "role_id": "35351535", 
+                "role_name": "Donor", 
+                "person_date": "American, b. 1948", 
+                "role_display_name": "Donated by", 
+                "person_id": "18043689", 
+                "person_url": "https://collection.cooperhewitt.org/people/18043689/"
+            }
+        ], 
+        "decade": "2000", 
+        "label_text": null, 
+        "woe:country": "23424977", 
+        "dimensions_raw": {
+            "width": [
+                "106.68", 
+                "centimeters"
+            ], 
+            "height": [
+                "213.36", 
+                "centimeters"
+            ]
+        }, 
+        "department_id": "35347493", 
+        "title_raw": "Shakespeare in the Park 2000: The Winter's Tale/Julius Caeser, The Public Theater", 
+        "justification": "Paula Scher’s work for The Public Theater began in 1994 when she was retained by the The Public’s producer, George C. Wolfe, to design the organization’s graphic identity. In seeking to provide a visual identity that responded to the theater’s mission as an accessible community theater, Scher drew inspiration from the streets of New York City to create a series of graphics that responded to both the grid-structure of the streets and the urban language of graffiti. \nThe posters that Scher designed for The Public Theater have become iconic emblems—not only of the plays that they advertised, but of the cultural moments in which they were produced. Scher’s designs reference the pervasive social, economic and political issues of the time. The museum is perpetually interested in adding the work of National Design Award winners to the permanent collection.", 
+        "media_id": "51866687", 
+        "description": "Central text in red outline: THE WINTER’S TALE & / JULIUS CAESAR; upper margin, in black: THE PUBLIC THEATER/NEW YORK SHAKESPEARE FESTIVAL / in red outline: SHAKESPEARE IN / CENTRAL PARK; DIRECTED BY BRIAN KULICK / JUNE 21-JULY 16 / AUGUST 8-SEPTEMBER 3 DIRECTED BY BARRY EDELSTEIN; lower margin: TUESDAY THROUGH SUNDAY EVENINGS AT 8PM. Information on sponsors and ticket policy in lower section.", 
+        "creditline": "Gift of Paula Scher", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "2000", 
+        "url": "https://collection.cooperhewitt.org/objects/51689463/", 
+        "type": "poster", 
+        "accession_number": "2013-25-4-a,b", 
+        "year_end": 2000, 
+        "signed": null, 
+        "inscribed": null, 
+        "period_id": null, 
+        "year_acquired": "2013", 
+        "woe:country_id": "23424977"
+    }
+}

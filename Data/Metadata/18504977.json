@@ -1,0 +1,117 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": null, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": null, 
+        "tms:id": "163392", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/99080_858af555f534f4c7_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "99080"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/99080_858af555f534f4c7_b.jpg", 
+                    "width": 648, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "99080"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/99080_858af555f534f4c7_d.gif", 
+                    "width": 203, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "99080"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/99080_858af555f534f4c7_z.jpg", 
+                    "width": 405, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "99080"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/99080_858af555f534f4c7_n.jpg", 
+                    "width": 203, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "99080"
+                }
+            }, 
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/95468_c3ce18c8d2250fdc_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "0", 
+                    "image_id": "95468"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/95468_c3ce18c8d2250fdc_b.jpg", 
+                    "width": 648, 
+                    "height": 1024, 
+                    "is_primary": "0", 
+                    "image_id": "95468"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/95468_c3ce18c8d2250fdc_d.gif", 
+                    "width": 203, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "95468"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/95468_c3ce18c8d2250fdc_z.jpg", 
+                    "width": 405, 
+                    "height": 640, 
+                    "is_primary": "0", 
+                    "image_id": "95468"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/95468_c3ce18c8d2250fdc_n.jpg", 
+                    "width": 203, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "95468"
+                }
+            }
+        ], 
+        "id": "18504977", 
+        "has_no_known_copyright": null, 
+        "woe:country_name": "New Zealand", 
+        "dimensions": null, 
+        "title": "Poster, Railway Studio", 
+        "provenance": null, 
+        "participants": [], 
+        "decade": null, 
+        "label_text": null, 
+        "woe:country": "23424916", 
+        "dimensions_raw": null, 
+        "department_id": "35347493", 
+        "title_raw": "Railway Studio", 
+        "justification": null, 
+        "media_id": "35371135", 
+        "description": null, 
+        "creditline": "Gift of Unknown Donor", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": null, 
+        "url": "https://collection.cooperhewitt.org/objects/18504977/", 
+        "type": "poster", 
+        "accession_number": "1980-32-1136", 
+        "year_end": null, 
+        "signed": null, 
+        "inscribed": null, 
+        "period_id": null, 
+        "year_acquired": "1980", 
+        "woe:country_id": "23424916"
+    }
+}

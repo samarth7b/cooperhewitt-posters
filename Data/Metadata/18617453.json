@@ -1,0 +1,91 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": 1975, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": null, 
+        "tms:id": "177259", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/256799_a7d35bebd5624461_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "256799"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/256799_a7d35bebd5624461_b.jpg", 
+                    "width": 683, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "256799"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/256799_a7d35bebd5624461_d.gif", 
+                    "width": 213, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "256799"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/256799_a7d35bebd5624461_z.jpg", 
+                    "width": 427, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "256799"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/256799_a7d35bebd5624461_n.jpg", 
+                    "width": 213, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "256799"
+                }
+            }
+        ], 
+        "id": "18617453", 
+        "has_no_known_copyright": null, 
+        "woe:country_name": "United States", 
+        "dimensions": null, 
+        "title": "Poster, System Design, Unicorn Systems, Co., 1975", 
+        "provenance": "1981: acquired by Museum", 
+        "participants": [
+            {
+                "person_name": "James Potocki", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "", 
+                "role_display_name": "Designed by", 
+                "person_id": "18535713", 
+                "person_url": "https://collection.cooperhewitt.org/people/18535713/"
+            }
+        ], 
+        "decade": "1970", 
+        "label_text": null, 
+        "woe:country": "23424977", 
+        "dimensions_raw": null, 
+        "department_id": "35347493", 
+        "title_raw": "System Design, Unicorn Systems, Co.", 
+        "justification": null, 
+        "media_id": "35371135", 
+        "description": null, 
+        "creditline": "Gift of Various Donors", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "1975", 
+        "url": "https://collection.cooperhewitt.org/objects/18617453/", 
+        "type": "poster", 
+        "accession_number": "1981-29-189-2", 
+        "year_end": 1975, 
+        "signed": null, 
+        "inscribed": null, 
+        "period_id": null, 
+        "year_acquired": "1981", 
+        "woe:country_id": "23424977"
+    }
+}

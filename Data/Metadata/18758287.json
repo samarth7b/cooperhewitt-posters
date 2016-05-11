@@ -1,0 +1,140 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": 1985, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": "offset lithograph on wove paper", 
+        "tms:id": "255429", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/45547_56c2f930138cb885_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "45547"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/45547_56c2f930138cb885_b.jpg", 
+                    "width": 724, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "45547"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/45547_56c2f930138cb885_d.gif", 
+                    "width": 226, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "45547"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/45547_56c2f930138cb885_z.jpg", 
+                    "width": 453, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "45547"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/45547_56c2f930138cb885_n.jpg", 
+                    "width": 226, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "45547"
+                }
+            }
+        ], 
+        "id": "18758287", 
+        "has_no_known_copyright": null, 
+        "woe:country_name": "Switzerland", 
+        "dimensions": "128 x 90 cm (50 3/8 x 35 7/16 in.)", 
+        "title": "Poster, Emil Cardineaux 1877-1936, ca. 1985", 
+        "provenance": "Marc and Sara Benda (acquired new and directly from designer, Paul Brühwiler); 2010: acquired by Museum", 
+        "participants": [
+            {
+                "person_name": "Museum für Gestaltung, Zürich", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236667/", 
+                "role_id": "35236667", 
+                "role_name": "Client", 
+                "person_date": "Zürich, Switzerland", 
+                "role_display_name": "Client:", 
+                "person_id": "18063557", 
+                "person_url": "https://collection.cooperhewitt.org/people/18063557/"
+            }, 
+            {
+                "person_name": "Marc Benda", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35351535/", 
+                "role_id": "35351535", 
+                "role_name": "Donor", 
+                "person_date": "", 
+                "role_display_name": "Donated by", 
+                "person_id": "18062523", 
+                "person_url": "https://collection.cooperhewitt.org/people/18062523/"
+            }, 
+            {
+                "person_name": "Sara Benda", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35351535/", 
+                "role_id": "35351535", 
+                "role_name": "Donor", 
+                "person_date": "", 
+                "role_display_name": "Donated by", 
+                "person_id": "18063205", 
+                "person_url": "https://collection.cooperhewitt.org/people/18063205/"
+            }, 
+            {
+                "person_name": "Paul Brühwiler", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "Swiss, b. 1939", 
+                "role_display_name": "Designed by", 
+                "person_id": "68738393", 
+                "person_url": "https://collection.cooperhewitt.org/people/68738393/"
+            }, 
+            {
+                "person_name": "Bea Spillman Siebdruck", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236673/", 
+                "role_id": "35236673", 
+                "role_name": "Printer", 
+                "person_date": "Swiss", 
+                "role_display_name": "Printed by", 
+                "person_id": "68738757", 
+                "person_url": "https://collection.cooperhewitt.org/people/68738757/"
+            }
+        ], 
+        "decade": "1980", 
+        "label_text": null, 
+        "woe:country": "23424957", 
+        "dimensions_raw": {
+            "width": [
+                "90.00", 
+                "centimeters"
+            ], 
+            "height": [
+                "128.00", 
+                "centimeters"
+            ]
+        }, 
+        "department_id": "35347493", 
+        "title_raw": "Emil Cardineaux 1877-1936", 
+        "justification": null, 
+        "media_id": "35431963", 
+        "description": "Poster depicts a hand and forearm holding artist tools, such a pencil, brushes, on a background of two blue rough stripes and a painted sun; green ground. Text in black on yellow: Reihe Schweizer Plakatgestalter 2; on a paintbrush is written: 21. Aug. – 20. Okt. 1985; center right: Emil Cardinaux 1877 – 1936; Museum fur Gestaltung Zurich Kunstgewerbemuseum.", 
+        "creditline": "Gift of Sara and Marc Benda", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "ca. 1985", 
+        "url": "https://collection.cooperhewitt.org/objects/18758287/", 
+        "type": "poster", 
+        "accession_number": "2010-21-41", 
+        "year_end": 1985, 
+        "signed": null, 
+        "inscribed": "Printed in black ink, left edge: Plakatgestaltung © 1985 Paul Bruhwiler Siebdruck Bea Spillmann; lower margin: Ausstellungsstrasse 60 Dienstag-Freitag 10-18 Uhr Mittwoch 10-21 Uhr Samstag, Sonntag 10-12 un 14-17 Uhr Montag geschlossen", 
+        "period_id": null, 
+        "year_acquired": "2010", 
+        "woe:country_id": "23424957"
+    }
+}

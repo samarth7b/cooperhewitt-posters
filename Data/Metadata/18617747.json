@@ -1,0 +1,147 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": null, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": "screenprint on paper", 
+        "tms:id": "177406", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/90344_c7f623b2bd6f0b62_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "90344"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/90344_c7f623b2bd6f0b62_b.jpg", 
+                    "width": 1024, 
+                    "height": 697, 
+                    "is_primary": "1", 
+                    "image_id": "90344"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/90344_c7f623b2bd6f0b62_d.gif", 
+                    "width": 320, 
+                    "height": 218, 
+                    "is_primary": "1", 
+                    "image_id": "90344"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/90344_c7f623b2bd6f0b62_z.jpg", 
+                    "width": 640, 
+                    "height": 436, 
+                    "is_primary": "1", 
+                    "image_id": "90344"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/90344_c7f623b2bd6f0b62_n.jpg", 
+                    "width": 320, 
+                    "height": 218, 
+                    "is_primary": "1", 
+                    "image_id": "90344"
+                }
+            }, 
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/206625_f682f4adb00a1854_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "0", 
+                    "image_id": "206625"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/206625_f682f4adb00a1854_b.jpg", 
+                    "width": 1024, 
+                    "height": 700, 
+                    "is_primary": "0", 
+                    "image_id": "206625"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/206625_f682f4adb00a1854_d.gif", 
+                    "width": 320, 
+                    "height": 219, 
+                    "is_primary": "0", 
+                    "image_id": "206625"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/206625_f682f4adb00a1854_z.jpg", 
+                    "width": 640, 
+                    "height": 438, 
+                    "is_primary": "0", 
+                    "image_id": "206625"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/206625_f682f4adb00a1854_n.jpg", 
+                    "width": 320, 
+                    "height": 219, 
+                    "is_primary": "0", 
+                    "image_id": "206625"
+                }
+            }
+        ], 
+        "id": "18617747", 
+        "has_no_known_copyright": null, 
+        "woe:country_name": "United States", 
+        "dimensions": "58.4 x 46.6 cm (23 x 18 3/8 in.)", 
+        "title": "Poster, We put a little heart in everything we do.", 
+        "provenance": "1981: acquired by Museum", 
+        "participants": [
+            {
+                "person_name": "Stanley Mason", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "", 
+                "role_display_name": "Designed by", 
+                "person_id": "18056985", 
+                "person_url": "https://collection.cooperhewitt.org/people/18056985/"
+            }, 
+            {
+                "person_name": "Jann Church Advertising & Graphic Design, Inc.", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "Newport Beach, California, USA", 
+                "role_display_name": "Designed by", 
+                "person_id": "18056983", 
+                "person_url": "https://collection.cooperhewitt.org/people/18056983/"
+            }
+        ], 
+        "decade": null, 
+        "label_text": null, 
+        "woe:country": "23424977", 
+        "dimensions_raw": {
+            "width": [
+                "46.60", 
+                "centimeters"
+            ], 
+            "height": [
+                "58.40", 
+                "centimeters"
+            ]
+        }, 
+        "department_id": "35347493", 
+        "title_raw": "We put a little heart in everything we do.", 
+        "justification": null, 
+        "media_id": "35431679", 
+        "description": "On a gray ground, rows of colored hearts and partial hearts on upper left. Right side diagonal blocks of white text (a poem): At the heart of a peach is a stone…At the heart of a heart is a HEART / Stanley Mason. [address below]", 
+        "creditline": "Gift of Various Donors", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": null, 
+        "url": "https://collection.cooperhewitt.org/objects/18617747/", 
+        "type": "poster", 
+        "accession_number": "1981-29-319", 
+        "year_end": null, 
+        "signed": null, 
+        "inscribed": "Imprinted in white, right margin: Copywriting Stanley Mason, Zurich, Switzerland   Typography: PM Graphics", 
+        "period_id": null, 
+        "year_acquired": "1981", 
+        "woe:country_id": "23424977"
+    }
+}

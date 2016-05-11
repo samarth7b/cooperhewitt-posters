@@ -1,0 +1,147 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": 1937, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": "offset lithograph on paper", 
+        "tms:id": "135056", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/64304_8f6ada95ebe75c02_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "64304"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/64304_8f6ada95ebe75c02_b.jpg", 
+                    "width": 1024, 
+                    "height": 823, 
+                    "is_primary": "1", 
+                    "image_id": "64304"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/64304_8f6ada95ebe75c02_d.gif", 
+                    "width": 320, 
+                    "height": 257, 
+                    "is_primary": "1", 
+                    "image_id": "64304"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/64304_8f6ada95ebe75c02_z.jpg", 
+                    "width": 640, 
+                    "height": 514, 
+                    "is_primary": "1", 
+                    "image_id": "64304"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/64304_8f6ada95ebe75c02_n.jpg", 
+                    "width": 320, 
+                    "height": 257, 
+                    "is_primary": "1", 
+                    "image_id": "64304"
+                }
+            }, 
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/254782_7316e3a3d6ac1a70_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "0", 
+                    "image_id": "254782"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/254782_7316e3a3d6ac1a70_b.jpg", 
+                    "width": 1024, 
+                    "height": 821, 
+                    "is_primary": "0", 
+                    "image_id": "254782"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/254782_7316e3a3d6ac1a70_d.gif", 
+                    "width": 320, 
+                    "height": 257, 
+                    "is_primary": "0", 
+                    "image_id": "254782"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/254782_7316e3a3d6ac1a70_z.jpg", 
+                    "width": 640, 
+                    "height": 513, 
+                    "is_primary": "0", 
+                    "image_id": "254782"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/254782_7316e3a3d6ac1a70_n.jpg", 
+                    "width": 320, 
+                    "height": 257, 
+                    "is_primary": "0", 
+                    "image_id": "254782"
+                }
+            }
+        ], 
+        "id": "18449081", 
+        "has_no_known_copyright": null, 
+        "woe:country_name": "United Kingdom", 
+        "dimensions": "50.8 x 63.6 cm (20 in. x 25 1/16 in.)", 
+        "title": "Poster, A Postman in Northern Scotland--Outposts of Britain, 1937", 
+        "provenance": "Mrs. E. McKnight Kauffer; 1963: acquired by Museum", 
+        "participants": [
+            {
+                "person_name": "Edward McKnight Kauffer", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "American, active England, 1890–1954", 
+                "role_display_name": "Designed by", 
+                "person_id": "18041923", 
+                "person_url": "https://collection.cooperhewitt.org/people/18041923/"
+            }, 
+            {
+                "person_name": "Mrs. Edward McKnight Kauffer", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35351535/", 
+                "role_id": "35351535", 
+                "role_name": "Donor", 
+                "person_date": "", 
+                "role_display_name": "Donated by", 
+                "person_id": "18061849", 
+                "person_url": "https://collection.cooperhewitt.org/people/18061849/"
+            }
+        ], 
+        "decade": "1930", 
+        "label_text": null, 
+        "woe:country": "23424975", 
+        "dimensions_raw": {
+            "width": [
+                "63.60", 
+                "centimeters"
+            ], 
+            "height": [
+                "50.80", 
+                "centimeters"
+            ]
+        }, 
+        "department_id": "35347493", 
+        "title_raw": "A Postman in Northern Scotland--Outposts of Britain", 
+        "justification": null, 
+        "media_id": "35399021", 
+        "description": "On a blue and black background, poster shows a framed black and white photograph of a desolate landscape with a farm and a man with a bag cycling (presumably the postman). Text in lower margin: OUTPOSTS OF BRITAIN; upper margin: A POSTMAN IN NORTHERN SCOTLAND.", 
+        "creditline": "Gift of Mrs. E. McKnight Kauffer", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "1937", 
+        "url": "https://collection.cooperhewitt.org/objects/18449081/", 
+        "type": "poster", 
+        "accession_number": "1963-39-89", 
+        "year_end": 1937, 
+        "signed": "Signed in blue ink, lower right: E McKnight Kauffer, Hon. D.I.", 
+        "inscribed": "Printed in black, lower right: PRD 165; lower left: crowned and encircled “GPO”", 
+        "period_id": null, 
+        "year_acquired": "1963", 
+        "woe:country_id": "23424975"
+    }
+}

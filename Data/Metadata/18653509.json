@@ -1,0 +1,150 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": 1992, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": "offset lithograph on paper", 
+        "tms:id": "201714", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/252288_943a488a931b0336_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "252288"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/252288_943a488a931b0336_b.jpg", 
+                    "width": 664, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "252288"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/252288_943a488a931b0336_d.gif", 
+                    "width": 208, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "252288"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/252288_943a488a931b0336_z.jpg", 
+                    "width": 415, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "252288"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/252288_943a488a931b0336_n.jpg", 
+                    "width": 208, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "252288"
+                }
+            }
+        ], 
+        "id": "18653509", 
+        "has_no_known_copyright": null, 
+        "woe:country_name": "United States", 
+        "dimensions": "38 15/16 x 24 3/4 in", 
+        "title": "Poster, Swoon, 1992", 
+        "provenance": null, 
+        "participants": [
+            {
+                "person_name": "Bureau", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35351535/", 
+                "role_id": "35351535", 
+                "role_name": "Donor", 
+                "person_date": "founded 1989", 
+                "role_display_name": "Donated by", 
+                "person_id": "18041895", 
+                "person_url": "https://collection.cooperhewitt.org/people/18041895/"
+            }, 
+            {
+                "person_name": "Donald Moffett", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "American, b. 1955", 
+                "role_display_name": "Designed by", 
+                "person_id": "18063551", 
+                "person_url": "https://collection.cooperhewitt.org/people/18063551/"
+            }, 
+            {
+                "person_name": "Elizabeth Horwitz Marcus", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35352245/", 
+                "role_id": "35352245", 
+                "role_name": "Cataloguer", 
+                "person_date": "", 
+                "role_display_name": "Catalogued by", 
+                "person_id": "18047453", 
+                "person_url": "https://collection.cooperhewitt.org/people/18047453/"
+            }, 
+            {
+                "person_name": "AU", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35352245/", 
+                "role_id": "35352245", 
+                "role_name": "Cataloguer", 
+                "person_date": "", 
+                "role_display_name": "Catalogued by", 
+                "person_id": "18048335", 
+                "person_url": "https://collection.cooperhewitt.org/people/18048335/"
+            }, 
+            {
+                "person_name": "Marlene McCarty", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "American, b. 1957", 
+                "role_display_name": "Designed by", 
+                "person_id": "18041893", 
+                "person_url": "https://collection.cooperhewitt.org/people/18041893/"
+            }, 
+            {
+                "person_name": "Bureau", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "founded 1989", 
+                "role_display_name": "Designed by", 
+                "person_id": "18041895", 
+                "person_url": "https://collection.cooperhewitt.org/people/18041895/"
+            }
+        ], 
+        "decade": "1990", 
+        "label_text": null, 
+        "woe:country": "23424977", 
+        "dimensions_raw": {
+            "width": [
+                "62.87", 
+                "centimeters"
+            ], 
+            "height": [
+                "98.90", 
+                "centimeters"
+            ]
+        }, 
+        "department_id": "35347493", 
+        "title_raw": "Swoon", 
+        "justification": null, 
+        "media_id": "35399021", 
+        "description": "Poster for the movie Swoon", 
+        "creditline": "Gift of Marlene McCarty and Donald Moffett, Bureau", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "1992", 
+        "url": "https://collection.cooperhewitt.org/objects/18653509/", 
+        "type": "poster", 
+        "accession_number": "1996-30-3", 
+        "year_end": 1992, 
+        "signed": null, 
+        "inscribed": null, 
+        "period_id": null, 
+        "year_acquired": "1996", 
+        "woe:country_id": "23424977"
+    }
+}

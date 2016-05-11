@@ -1,0 +1,207 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": 1971, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": "photo offset lithograph on white wove paper", 
+        "tms:id": "194497", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/17861_32e2b12dd9e9779b_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "17861"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/17861_32e2b12dd9e9779b_b.jpg", 
+                    "width": 730, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "17861"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/17861_32e2b12dd9e9779b_d.gif", 
+                    "width": 228, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "17861"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/17861_32e2b12dd9e9779b_z.jpg", 
+                    "width": 456, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "17861"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/17861_32e2b12dd9e9779b_n.jpg", 
+                    "width": 228, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "17861"
+                }
+            }, 
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/267866_452f46bb42b06c30_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "0", 
+                    "image_id": "267866"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/267866_452f46bb42b06c30_b.jpg", 
+                    "width": 742, 
+                    "height": 1024, 
+                    "is_primary": "0", 
+                    "image_id": "267866"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/267866_452f46bb42b06c30_d.gif", 
+                    "width": 232, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "267866"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/267866_452f46bb42b06c30_z.jpg", 
+                    "width": 464, 
+                    "height": 640, 
+                    "is_primary": "0", 
+                    "image_id": "267866"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/267866_452f46bb42b06c30_n.jpg", 
+                    "width": 232, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "267866"
+                }
+            }
+        ], 
+        "id": "18639267", 
+        "has_no_known_copyright": null, 
+        "woe:country_name": "Japan", 
+        "dimensions": "102.9 x 72.7 cm (40 1/2 x 28 5/8 in. )", 
+        "title": "Poster, Shiseido Beauty Cake, 1971", 
+        "provenance": "Shin Matsunaga; 1991: acquired by Museum", 
+        "participants": [
+            {
+                "person_name": "Yojiro Adachi", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236631/", 
+                "role_id": "35236631", 
+                "role_name": "Photographer", 
+                "person_date": "", 
+                "role_display_name": "Photographed by", 
+                "person_id": "68264013", 
+                "person_url": "https://collection.cooperhewitt.org/people/68264013/"
+            }, 
+            {
+                "person_name": "Toppan Printing Co. Ltd.", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236673/", 
+                "role_id": "35236673", 
+                "role_name": "Printer", 
+                "person_date": "Japanese, founded 1900", 
+                "role_display_name": "Printed by", 
+                "person_id": "68739531", 
+                "person_url": "https://collection.cooperhewitt.org/people/68739531/"
+            }, 
+            {
+                "person_name": "Shin Matsunaga", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35351535/", 
+                "role_id": "35351535", 
+                "role_name": "Donor", 
+                "person_date": "b. 1940", 
+                "role_display_name": "Donated by", 
+                "person_id": "18041215", 
+                "person_url": "https://collection.cooperhewitt.org/people/18041215/"
+            }, 
+            {
+                "person_name": "Karin Zonis", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35352245/", 
+                "role_id": "35352245", 
+                "role_name": "Cataloguer", 
+                "person_date": "", 
+                "role_display_name": "Catalogued by", 
+                "person_id": "51676457", 
+                "person_url": "https://collection.cooperhewitt.org/people/51676457/"
+            }, 
+            {
+                "person_name": "Shin Matsunaga", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35351535/", 
+                "role_id": "35351535", 
+                "role_name": "Donor", 
+                "person_date": "b. 1940", 
+                "role_display_name": "Donated by", 
+                "person_id": "18041215", 
+                "person_url": "https://collection.cooperhewitt.org/people/18041215/"
+            }, 
+            {
+                "person_name": "Dr. Gail Davidson", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35352245/", 
+                "role_id": "35352245", 
+                "role_name": "Cataloguer", 
+                "person_date": "", 
+                "role_display_name": "Catalogued by", 
+                "person_id": "18048255", 
+                "person_url": "https://collection.cooperhewitt.org/people/18048255/"
+            }, 
+            {
+                "person_name": "Shiseido Corporation", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236667/", 
+                "role_id": "35236667", 
+                "role_name": "Client", 
+                "person_date": "", 
+                "role_display_name": "Client:", 
+                "person_id": "18054523", 
+                "person_url": "https://collection.cooperhewitt.org/people/18054523/"
+            }, 
+            {
+                "person_name": "Shin Matsunaga Design Inc.", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "b.  1940", 
+                "role_display_name": "Designed by", 
+                "person_id": "18048545", 
+                "person_url": "https://collection.cooperhewitt.org/people/18048545/"
+            }
+        ], 
+        "decade": "1970", 
+        "label_text": null, 
+        "woe:country": "23424856", 
+        "dimensions_raw": {
+            "width": [
+                "72.70", 
+                "centimeters"
+            ], 
+            "height": [
+                "102.90", 
+                "centimeters"
+            ]
+        }, 
+        "department_id": "35347493", 
+        "title_raw": "Shiseido Beauty Cake", 
+        "justification": null, 
+        "media_id": "35407383", 
+        "description": "On a white ground, tiny images of sunbathers, in different positions and placed close together to resemble a crowded beach. Lower center, a compact whose lid is decorated with six concentric circles of melon, bright orange, and mint green surrounding a royal blue sun at center.  In lower right quadrant, a white arrow in perspective superimposed on bathers and pointing to the compact.  Inside the arrow, a series of Japanese characters in black.", 
+        "creditline": "Gift of Shin Matsunaga", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "1971", 
+        "url": "https://collection.cooperhewitt.org/objects/18639267/", 
+        "type": "poster", 
+        "accession_number": "1992-144-31", 
+        "year_end": 1971, 
+        "signed": null, 
+        "inscribed": "Imprinted in black (sideways) lower left margin:  1990 Reproduction by Toppan Printing Co., Ltd.  Art Director:  Shin Matswunaga, Katsumi Yamada  Designer:  Shin Matsunaga  Photographer:  Yojiro Adachi.", 
+        "period_id": null, 
+        "year_acquired": "1992", 
+        "woe:country_id": "23424856"
+    }
+}

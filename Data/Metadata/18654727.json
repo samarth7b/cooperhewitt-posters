@@ -1,0 +1,90 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": 1935, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": null, 
+        "tms:id": "202333", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/252306_e9fb116f5b2f1afb_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "252306"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/252306_e9fb116f5b2f1afb_b.jpg", 
+                    "width": 735, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "252306"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/252306_e9fb116f5b2f1afb_d.gif", 
+                    "width": 230, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "252306"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/252306_e9fb116f5b2f1afb_z.jpg", 
+                    "width": 459, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "252306"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/252306_e9fb116f5b2f1afb_n.jpg", 
+                    "width": 230, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "252306"
+                }
+            }
+        ], 
+        "id": "18654727", 
+        "has_no_known_copyright": null, 
+        "dimensions": null, 
+        "title": "Poster, This Man May Die", 
+        "provenance": null, 
+        "participants": [
+            {
+                "person_name": "Stanley H. Salt", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35351535/", 
+                "role_id": "35351535", 
+                "role_name": "Donor", 
+                "person_date": "", 
+                "role_display_name": "Donated by", 
+                "person_id": "18050961", 
+                "person_url": "https://collection.cooperhewitt.org/people/18050961/"
+            }
+        ], 
+        "decade": "1930", 
+        "label_text": null, 
+        "woe:country": null, 
+        "dimensions_raw": null, 
+        "department_id": "35347493", 
+        "title_raw": "This Man May Die", 
+        "justification": null, 
+        "media_id": "35371135", 
+        "description": null, 
+        "creditline": "Gift of Stanley H. Salt", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": null, 
+        "url": "https://collection.cooperhewitt.org/objects/18654727/", 
+        "type": "poster", 
+        "accession_number": "1997-126-8", 
+        "year_end": 1945, 
+        "signed": null, 
+        "inscribed": null, 
+        "period_id": "35417341", 
+        "year_acquired": "1997", 
+        "woe:country_id": null
+    }
+}

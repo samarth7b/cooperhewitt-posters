@@ -1,0 +1,140 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": 1984, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": "lithograph on off-white paper", 
+        "tms:id": "197744", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/223506_05686fc06898c250_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "0", 
+                    "image_id": "223506"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/223506_05686fc06898c250_b.jpg", 
+                    "width": 712, 
+                    "height": 1024, 
+                    "is_primary": "0", 
+                    "image_id": "223506"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/223506_05686fc06898c250_d.gif", 
+                    "width": 223, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "223506"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/223506_05686fc06898c250_z.jpg", 
+                    "width": 445, 
+                    "height": 640, 
+                    "is_primary": "0", 
+                    "image_id": "223506"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/223506_05686fc06898c250_n.jpg", 
+                    "width": 223, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "223506"
+                }
+            }
+        ], 
+        "id": "18645681", 
+        "has_no_known_copyright": null, 
+        "woe:country_name": "United States", 
+        "dimensions": "63.5 × 43.3 cm (25 in. × 17 1/16 in.)", 
+        "title": "Poster, Nicaragua, 1984", 
+        "provenance": "Steven Heller and Karrie Jacobs; 1993: acquired by Museum", 
+        "participants": [
+            {
+                "person_name": "Karrie Jacobs", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35351535/", 
+                "role_id": "35351535", 
+                "role_name": "Donor", 
+                "person_date": "", 
+                "role_display_name": "Donated by", 
+                "person_id": "18056647", 
+                "person_url": "https://collection.cooperhewitt.org/people/18056647/"
+            }, 
+            {
+                "person_name": "Steven Heller", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35351535/", 
+                "role_id": "35351535", 
+                "role_name": "Donor", 
+                "person_date": "American, b. 1950", 
+                "role_display_name": "Donated by", 
+                "person_id": "18041397", 
+                "person_url": "https://collection.cooperhewitt.org/people/18041397/"
+            }, 
+            {
+                "person_name": "Megan L. Smith", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35352245/", 
+                "role_id": "35352245", 
+                "role_name": "Cataloguer", 
+                "person_date": "", 
+                "role_display_name": "Catalogued by", 
+                "person_id": "18047443", 
+                "person_url": "https://collection.cooperhewitt.org/people/18047443/"
+            }, 
+            {
+                "person_name": "LSA", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35352245/", 
+                "role_id": "35352245", 
+                "role_name": "Cataloguer", 
+                "person_date": "", 
+                "role_display_name": "Catalogued by", 
+                "person_id": "18048737", 
+                "person_url": "https://collection.cooperhewitt.org/people/18048737/"
+            }, 
+            {
+                "person_name": "Doug Minkler", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "American, b. 1949", 
+                "role_display_name": "Designed by", 
+                "person_id": "18043597", 
+                "person_url": "https://collection.cooperhewitt.org/people/18043597/"
+            }
+        ], 
+        "decade": "1980", 
+        "label_text": null, 
+        "woe:country": "23424977", 
+        "dimensions_raw": {
+            "width": [
+                "43.30", 
+                "centimeters"
+            ], 
+            "height": [
+                "63.50", 
+                "centimeters"
+            ]
+        }, 
+        "department_id": "35347493", 
+        "title_raw": "Nicaragua", 
+        "justification": null, 
+        "media_id": "35424743", 
+        "description": "Description: Promotional poster for the Nicaraguan Information Center; print of hands with coffee plants", 
+        "creditline": "Gift of Steven Heller and Karrie Jacobs", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "1984", 
+        "url": "https://collection.cooperhewitt.org/objects/18645681/", 
+        "type": "poster", 
+        "accession_number": "1993-53-33", 
+        "year_end": 1984, 
+        "signed": null, 
+        "inscribed": "Imprinted in black ink: Nicaragua/U.S. Government Doesn't Know Beans aboutgetting along with our neighbor Nicaragua. Terrorizing coffee workers and sabotaging storage...[5 lines of text]\" Inscriped in black ink on bottom: \"c 1984 D. Minkler/published by Inkworks...\"", 
+        "period_id": null, 
+        "year_acquired": "1993", 
+        "woe:country_id": "23424977"
+    }
+}

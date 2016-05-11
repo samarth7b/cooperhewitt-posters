@@ -1,0 +1,120 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": 1978, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": "offset lithograph on paper", 
+        "tms:id": "193534", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/266713_2faf92a514c9659b_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "266713"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/266713_2faf92a514c9659b_b.jpg", 
+                    "width": 1016, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "266713"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/266713_2faf92a514c9659b_d.gif", 
+                    "width": 318, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "266713"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/266713_2faf92a514c9659b_z.jpg", 
+                    "width": 635, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "266713"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/266713_2faf92a514c9659b_n.jpg", 
+                    "width": 318, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "266713"
+                }
+            }
+        ], 
+        "id": "18637365", 
+        "has_no_known_copyright": null, 
+        "woe:country_name": "United States", 
+        "dimensions": "Custom Frame H x W x D: 121.9 x 63.5 cm (48 x 25 in.)\nH x W x D: 57.1 x 57.1cm (22 1/2 x 22 1/2in.)", 
+        "title": "Poster, A New Wave of Japanese Architecture, 1978", 
+        "provenance": null, 
+        "participants": [
+            {
+                "person_name": "Massimo Vignelli", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35351535/", 
+                "role_id": "35351535", 
+                "role_name": "Donor", 
+                "person_date": "Italian, active USA, 1931–2014", 
+                "role_display_name": "Donated by", 
+                "person_id": "18042329", 
+                "person_url": "https://collection.cooperhewitt.org/people/18042329/"
+            }, 
+            {
+                "person_name": "CGC", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35352245/", 
+                "role_id": "35352245", 
+                "role_name": "Cataloguer", 
+                "person_date": "", 
+                "role_display_name": "Catalogued by", 
+                "person_id": "18048417", 
+                "person_url": "https://collection.cooperhewitt.org/people/18048417/"
+            }, 
+            {
+                "person_name": "Massimo Vignelli", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "Italian, active USA, 1931–2014", 
+                "role_display_name": "Designed by", 
+                "person_id": "18042329", 
+                "person_url": "https://collection.cooperhewitt.org/people/18042329/"
+            }
+        ], 
+        "decade": "1970", 
+        "label_text": null, 
+        "woe:country": "23424977", 
+        "dimensions_raw": {
+            "width": [
+                "63.50", 
+                "centimeters"
+            ], 
+            "height": [
+                "121.92", 
+                "centimeters"
+            ]
+        }, 
+        "department_id": "35347493", 
+        "title_raw": "A New Wave of Japanese Architecture", 
+        "justification": null, 
+        "media_id": "35399021", 
+        "description": null, 
+        "creditline": "Gift of Massimo Vignelli", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "1978", 
+        "url": "https://collection.cooperhewitt.org/objects/18637365/", 
+        "type": "poster", 
+        "accession_number": "1991-69-82", 
+        "year_end": 1978, 
+        "signed": null, 
+        "inscribed": "Imprinted in red ink across recto: A NEW WAVE OF JAPANESE ARCHITECTURE; imprinted in white across upper margin:The Institute for Architecture and Urban Studies/...;in red ink at UL: IAUS National Architecture exchange; at UC: September 25, 1978 to November 14, 1978 Five Japanese Architects on Tour to Ten American Cities; followed by information pertaining to participating architects, cities toured,lectures, sponsors,...; in whiteat lower margin: Design Vignelli Associates", 
+        "period_id": null, 
+        "year_acquired": "1991", 
+        "woe:country_id": "23424977"
+    }
+}

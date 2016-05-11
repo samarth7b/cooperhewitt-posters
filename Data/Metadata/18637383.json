@@ -1,0 +1,157 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": 1981, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": "offset lithograph, screenprint on paper", 
+        "tms:id": "193543", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/64106_6fe6cc9c0337e13e_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "64106"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/64106_6fe6cc9c0337e13e_b.jpg", 
+                    "width": 735, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "64106"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/64106_6fe6cc9c0337e13e_d.gif", 
+                    "width": 230, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "64106"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/64106_6fe6cc9c0337e13e_z.jpg", 
+                    "width": 459, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "64106"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/64106_6fe6cc9c0337e13e_n.jpg", 
+                    "width": 230, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "64106"
+                }
+            }, 
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/203719_758a4dcb901ddc2c_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "0", 
+                    "image_id": "203719"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/203719_758a4dcb901ddc2c_b.jpg", 
+                    "width": 746, 
+                    "height": 1024, 
+                    "is_primary": "0", 
+                    "image_id": "203719"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/203719_758a4dcb901ddc2c_d.gif", 
+                    "width": 233, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "203719"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/203719_758a4dcb901ddc2c_z.jpg", 
+                    "width": 466, 
+                    "height": 640, 
+                    "is_primary": "0", 
+                    "image_id": "203719"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/203719_758a4dcb901ddc2c_n.jpg", 
+                    "width": 233, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "203719"
+                }
+            }
+        ], 
+        "id": "18637383", 
+        "has_no_known_copyright": null, 
+        "woe:country_name": "United States", 
+        "dimensions": "58.7 x 42.3 cm (23 1/8 x 16 5/8 in.)", 
+        "title": "Poster, John Beach talks about Design, 1981", 
+        "provenance": "1991: acquired by Museum", 
+        "participants": [
+            {
+                "person_name": "Frances Butler", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35351535/", 
+                "role_id": "35351535", 
+                "role_name": "Donor", 
+                "person_date": "American, b. 1940", 
+                "role_display_name": "Donated by", 
+                "person_id": "18046019", 
+                "person_url": "https://collection.cooperhewitt.org/people/18046019/"
+            }, 
+            {
+                "person_name": "CGC", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35352245/", 
+                "role_id": "35352245", 
+                "role_name": "Cataloguer", 
+                "person_date": "", 
+                "role_display_name": "Catalogued by", 
+                "person_id": "18048417", 
+                "person_url": "https://collection.cooperhewitt.org/people/18048417/"
+            }, 
+            {
+                "person_name": "Frances Butler", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "American, b. 1940", 
+                "role_display_name": "Designed by", 
+                "person_id": "18046019", 
+                "person_url": "https://collection.cooperhewitt.org/people/18046019/"
+            }
+        ], 
+        "decade": "1980", 
+        "label_text": null, 
+        "woe:country": "23424977", 
+        "dimensions_raw": {
+            "width": [
+                "42.30", 
+                "centimeters"
+            ], 
+            "height": [
+                "58.70", 
+                "centimeters"
+            ]
+        }, 
+        "department_id": "35347493", 
+        "title_raw": "John Beach talks about Design", 
+        "justification": null, 
+        "media_id": "51684113", 
+        "description": "On a white background, with colorful upper edge and strips of color throughout, a curved band with abstract shapes within surrounds an image of a bearded man sitting in a tipping chair. On right, an exclamation point, underneath which is written: DESIGN 144 / Spring 1981 / Monday and / Wednesday / 2-4 pm. Center: John Beach talks about Design History. Below, a grip with three circles; colored textures areas lower right.", 
+        "creditline": "Gift of Frances Butler", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "1981", 
+        "url": "https://collection.cooperhewitt.org/objects/18637383/", 
+        "type": "poster", 
+        "accession_number": "1991-69-90", 
+        "year_end": 1981, 
+        "signed": null, 
+        "inscribed": null, 
+        "period_id": null, 
+        "year_acquired": "1991", 
+        "woe:country_id": "23424977"
+    }
+}

@@ -1,0 +1,129 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": 1996, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": "offset lithograph on wove paper", 
+        "tms:id": "255480", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/46827_58e8a7d5871f7a66_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "46827"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/46827_58e8a7d5871f7a66_b.jpg", 
+                    "width": 724, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "46827"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/46827_58e8a7d5871f7a66_d.gif", 
+                    "width": 226, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "46827"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/46827_58e8a7d5871f7a66_z.jpg", 
+                    "width": 453, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "46827"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/46827_58e8a7d5871f7a66_n.jpg", 
+                    "width": 226, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "46827"
+                }
+            }
+        ], 
+        "id": "18758389", 
+        "has_no_known_copyright": null, 
+        "dimensions": "128.1 × 90.6 cm (50 7/16 × 35 11/16 in.)", 
+        "title": "Poster, Zürcher Theater Spektakel [Zürich Theatre Festivel], 1996", 
+        "provenance": "Acquired from dealers, galleries and auction houses by Marc Benda.  Remained with Benda until 2010, when gifted to CHNDM.", 
+        "participants": [
+            {
+                "person_name": "Benker & Steiner Werbeagentur AG", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236799/", 
+                "role_id": "35236799", 
+                "role_name": "Design Director", 
+                "person_date": "Zürich. Switzerland, 1996–2000", 
+                "role_display_name": "Design Director:", 
+                "person_id": "18063515", 
+                "person_url": "https://collection.cooperhewitt.org/people/18063515/"
+            }, 
+            {
+                "person_name": "Marc Benda", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35351535/", 
+                "role_id": "35351535", 
+                "role_name": "Donor", 
+                "person_date": "", 
+                "role_display_name": "Donated by", 
+                "person_id": "18062523", 
+                "person_url": "https://collection.cooperhewitt.org/people/18062523/"
+            }, 
+            {
+                "person_name": "Sara Benda", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35351535/", 
+                "role_id": "35351535", 
+                "role_name": "Donor", 
+                "person_date": "", 
+                "role_display_name": "Donated by", 
+                "person_id": "18063205", 
+                "person_url": "https://collection.cooperhewitt.org/people/18063205/"
+            }, 
+            {
+                "person_name": "Zürcher Theater Spektakel", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236667/", 
+                "role_id": "35236667", 
+                "role_name": "Client", 
+                "person_date": "Zürich, Switzerland", 
+                "role_display_name": "Client:", 
+                "person_id": "68778193", 
+                "person_url": "https://collection.cooperhewitt.org/people/68778193/"
+            }
+        ], 
+        "decade": "1990", 
+        "label_text": "Here, an ordinary family dinner takes a strange turn. The mother stands on a chair while the father is chained to a table leg like a dog, staring straight at the viewer from beneath the table, appearing resigned to his fate. By blocking the other faces with colored dots, the poster intensifies our emotional connection with the beleaguered patriarch.", 
+        "woe:country": null, 
+        "dimensions_raw": {
+            "width": [
+                "90.50", 
+                "centimeters"
+            ], 
+            "height": [
+                "128.00", 
+                "centimeters"
+            ]
+        }, 
+        "department_id": "35347493", 
+        "title_raw": "Zürcher Theater Spektakel [Zürich Theatre Festivel]", 
+        "justification": null, 
+        "media_id": "35431963", 
+        "description": "Dining room interior, family dinner scene. Right: daughter and son sitting at dining table with green and blue circles covering their faces, respectively. Center: mother holding white pot, standing on dining table with a red circle covering her face. Right: father sitting at dining table with yellow circle covering his face. Bottom left corner: Zürcher Kantonalbank Scheizer Rück logo. Bottom center: man crawling from under the table, looking straight at the viewer. Bottom: yellow text: Zürcher/Theater; large blue text: Spektakel; yellow text: 12.8-8.9.96", 
+        "creditline": "Gift of Sara and Marc Benda", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "1996", 
+        "url": "https://collection.cooperhewitt.org/objects/18758389/", 
+        "type": "poster", 
+        "accession_number": "2010-21-91", 
+        "year_end": 1996, 
+        "signed": null, 
+        "inscribed": "Upper left: Tages Anzeiger /Prasidialdepartement /Der Stadt Zurich \nIn script at lower left: Zuercher Theater Spktakel  22.8.-8.9.96\nLower left: Zucher / Kantonalbank / Schweizer Ruck", 
+        "period_id": null, 
+        "year_acquired": "2010", 
+        "woe:country_id": null
+    }
+}

@@ -1,0 +1,140 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": 1970, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": "lithograph on white paper", 
+        "tms:id": "197747", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/223614_2f5cff3f75f2de66_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "0", 
+                    "image_id": "223614"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/223614_2f5cff3f75f2de66_b.jpg", 
+                    "width": 725, 
+                    "height": 1024, 
+                    "is_primary": "0", 
+                    "image_id": "223614"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/223614_2f5cff3f75f2de66_d.gif", 
+                    "width": 227, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "223614"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/223614_2f5cff3f75f2de66_z.jpg", 
+                    "width": 453, 
+                    "height": 640, 
+                    "is_primary": "0", 
+                    "image_id": "223614"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/223614_2f5cff3f75f2de66_n.jpg", 
+                    "width": 227, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "223614"
+                }
+            }
+        ], 
+        "id": "18645687", 
+        "has_no_known_copyright": null, 
+        "woe:country_name": "United States", 
+        "dimensions": "83.6 × 58.7 cm (32 15/16 × 23 1/8 in.)", 
+        "title": "Poster (USA), ca. 1980", 
+        "provenance": "Steven Heller and Karrie Jacobs; 1993: acquired by Museum", 
+        "participants": [
+            {
+                "person_name": "Karrie Jacobs", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35351535/", 
+                "role_id": "35351535", 
+                "role_name": "Donor", 
+                "person_date": "", 
+                "role_display_name": "Donated by", 
+                "person_id": "18056647", 
+                "person_url": "https://collection.cooperhewitt.org/people/18056647/"
+            }, 
+            {
+                "person_name": "Steven Heller", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35351535/", 
+                "role_id": "35351535", 
+                "role_name": "Donor", 
+                "person_date": "American, b. 1950", 
+                "role_display_name": "Donated by", 
+                "person_id": "18041397", 
+                "person_url": "https://collection.cooperhewitt.org/people/18041397/"
+            }, 
+            {
+                "person_name": "Megan L. Smith", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35352245/", 
+                "role_id": "35352245", 
+                "role_name": "Cataloguer", 
+                "person_date": "", 
+                "role_display_name": "Catalogued by", 
+                "person_id": "18047443", 
+                "person_url": "https://collection.cooperhewitt.org/people/18047443/"
+            }, 
+            {
+                "person_name": "LSA", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35352245/", 
+                "role_id": "35352245", 
+                "role_name": "Cataloguer", 
+                "person_date": "", 
+                "role_display_name": "Catalogued by", 
+                "person_id": "18048737", 
+                "person_url": "https://collection.cooperhewitt.org/people/18048737/"
+            }, 
+            {
+                "person_name": "David Virgien", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "", 
+                "role_display_name": "Designed by", 
+                "person_id": "18043141", 
+                "person_url": "https://collection.cooperhewitt.org/people/18043141/"
+            }
+        ], 
+        "decade": "1970", 
+        "label_text": null, 
+        "woe:country": "23424977", 
+        "dimensions_raw": {
+            "width": [
+                "58.70", 
+                "centimeters"
+            ], 
+            "height": [
+                "83.60", 
+                "centimeters"
+            ]
+        }, 
+        "department_id": "35347493", 
+        "title_raw": null, 
+        "justification": null, 
+        "media_id": "35421135", 
+        "description": "Print of skull and cross bones resembling Ronald Reagan wearing a baseball cap", 
+        "creditline": "Gift of Steven Heller and Karrie Jacobs", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "ca. 1980", 
+        "url": "https://collection.cooperhewitt.org/objects/18645687/", 
+        "type": "poster", 
+        "accession_number": "1993-53-36", 
+        "year_end": 1990, 
+        "signed": null, 
+        "inscribed": "Inscribed on verso in graphite: \"David Virgien\"", 
+        "period_id": null, 
+        "year_acquired": "1993", 
+        "woe:country_id": "23424977"
+    }
+}

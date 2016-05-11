@@ -1,0 +1,157 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": 1971, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": "offset lithograph on paper", 
+        "tms:id": "177651", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/65459_f6a5afdda3fc06c8_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "65459"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/65459_f6a5afdda3fc06c8_b.jpg", 
+                    "width": 798, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "65459"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/65459_f6a5afdda3fc06c8_d.gif", 
+                    "width": 249, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "65459"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/65459_f6a5afdda3fc06c8_z.jpg", 
+                    "width": 498, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "65459"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/65459_f6a5afdda3fc06c8_n.jpg", 
+                    "width": 249, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "65459"
+                }
+            }, 
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/206652_0fa5d41adb1ba562_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "0", 
+                    "image_id": "206652"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/206652_0fa5d41adb1ba562_b.jpg", 
+                    "width": 808, 
+                    "height": 1024, 
+                    "is_primary": "0", 
+                    "image_id": "206652"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/206652_0fa5d41adb1ba562_d.gif", 
+                    "width": 253, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "206652"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/206652_0fa5d41adb1ba562_z.jpg", 
+                    "width": 505, 
+                    "height": 640, 
+                    "is_primary": "0", 
+                    "image_id": "206652"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/206652_0fa5d41adb1ba562_n.jpg", 
+                    "width": 253, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "206652"
+                }
+            }
+        ], 
+        "id": "18618235", 
+        "has_no_known_copyright": null, 
+        "woe:country_name": "United States", 
+        "dimensions": "55.8 x 43.1 cm (21 15/16 x 16 15/16 in.)", 
+        "title": "Poster, Nelson Office Seating / Herman Miller / International Design Group, 1971", 
+        "provenance": "1981: acquired by Museum", 
+        "participants": [
+            {
+                "person_name": "Earl Woods", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236631/", 
+                "role_id": "35236631", 
+                "role_name": "Photographer", 
+                "person_date": "", 
+                "role_display_name": "Photographed by", 
+                "person_id": "18042367", 
+                "person_url": "https://collection.cooperhewitt.org/people/18042367/"
+            }, 
+            {
+                "person_name": "Stephen Frykholm", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "American, b. 1942", 
+                "role_display_name": "Designed by", 
+                "person_id": "18042365", 
+                "person_url": "https://collection.cooperhewitt.org/people/18042365/"
+            }, 
+            {
+                "person_name": "Phil Mitchell", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "", 
+                "role_display_name": "Designed by", 
+                "person_id": "18056969", 
+                "person_url": "https://collection.cooperhewitt.org/people/18056969/"
+            }
+        ], 
+        "decade": "1970", 
+        "label_text": null, 
+        "woe:country": "23424977", 
+        "dimensions_raw": {
+            "width": [
+                "43.10", 
+                "centimeters"
+            ], 
+            "height": [
+                "55.80", 
+                "centimeters"
+            ]
+        }, 
+        "department_id": "35347493", 
+        "title_raw": "Nelson Office Seating / Herman Miller / International Design Group", 
+        "justification": null, 
+        "media_id": "35399021", 
+        "description": "Photograph of a mechanic in his workroom, lighting a cigar, sitting in a red office chair, leaning back. Room is cluttered. Lower margin, in white ink: “nelson office seating [logo] herman miller international design group.”", 
+        "creditline": "Gift of Various Donors", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "1971", 
+        "url": "https://collection.cooperhewitt.org/objects/18618235/", 
+        "type": "poster", 
+        "accession_number": "1981-29-76", 
+        "year_end": 1971, 
+        "signed": null, 
+        "inscribed": null, 
+        "period_id": null, 
+        "year_acquired": "1981", 
+        "woe:country_id": "23424977"
+    }
+}

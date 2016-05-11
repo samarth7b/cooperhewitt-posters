@@ -1,0 +1,139 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": 1993, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": "offset lithograph on paper", 
+        "tms:id": "198665", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/268517_c2fd0175e02f2f36_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "268517"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/268517_c2fd0175e02f2f36_b.jpg", 
+                    "width": 677, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "268517"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/268517_c2fd0175e02f2f36_d.gif", 
+                    "width": 212, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "268517"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/268517_c2fd0175e02f2f36_z.jpg", 
+                    "width": 423, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "268517"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/268517_c2fd0175e02f2f36_n.jpg", 
+                    "width": 212, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "268517"
+                }
+            }
+        ], 
+        "id": "18647519", 
+        "has_no_known_copyright": null, 
+        "dimensions": "93.3 x 61.0 cm (36 3/4 x 24 in. )", 
+        "title": "Poster, \"To Die For : Allan R. Schindler, 1993", 
+        "provenance": null, 
+        "participants": [
+            {
+                "person_name": "Marlene McCarty", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "American, b. 1957", 
+                "role_display_name": "Designed by", 
+                "person_id": "18041893", 
+                "person_url": "https://collection.cooperhewitt.org/people/18041893/"
+            }, 
+            {
+                "person_name": "Unknown donor: unsolicited gift", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35351535/", 
+                "role_id": "35351535", 
+                "role_name": "Donor", 
+                "person_date": "", 
+                "role_display_name": "Donated by", 
+                "person_id": "18050283", 
+                "person_url": "https://collection.cooperhewitt.org/people/18050283/"
+            }, 
+            {
+                "person_name": "Donald Moffett", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "American, b. 1955", 
+                "role_display_name": "Designed by", 
+                "person_id": "18063551", 
+                "person_url": "https://collection.cooperhewitt.org/people/18063551/"
+            }, 
+            {
+                "person_name": "Bureau", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "founded 1989", 
+                "role_display_name": "Designed by", 
+                "person_id": "18041895", 
+                "person_url": "https://collection.cooperhewitt.org/people/18041895/"
+            }, 
+            {
+                "person_name": "Marlene McCarty", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "American, b. 1957", 
+                "role_display_name": "Designed by", 
+                "person_id": "18048779", 
+                "person_url": "https://collection.cooperhewitt.org/people/18041893/"
+            }
+        ], 
+        "decade": "1990", 
+        "label_text": null, 
+        "woe:country": null, 
+        "dimensions_raw": {
+            "width": [
+                "61.00", 
+                "centimeters"
+            ], 
+            "height": [
+                "93.30", 
+                "centimeters"
+            ]
+        }, 
+        "department_id": "35347493", 
+        "title_raw": "\"To Die For : Allan R. Schindler", 
+        "justification": null, 
+        "media_id": "35399021", 
+        "description": "Poster to annouce murder of gay navy shipmen in U.S. Military and to raise awareness of hate crimes.\nImprinted in black with white outline, across top in curve: \"TO DIE FOR\" on white background.  Large black and white photo reproduction in oval format of American Navy shipman, Allan R. Schindler.  Image of shipman in white Navy uniform with partial view of American flag on left side.  Image of garland in black below photo reproduction.  \nImprinted in black, across bottom: \"RADIOMAN ALLAN R. SCHINDLER/ b. 1971-1992\" and \"B\" inside circle in white at lower right corner.", 
+        "creditline": "Gift of Unknown Donor", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "1993", 
+        "url": "https://collection.cooperhewitt.org/objects/18647519/", 
+        "type": "poster", 
+        "accession_number": "1994-114-2", 
+        "year_end": 1993, 
+        "signed": null, 
+        "inscribed": null, 
+        "period_id": null, 
+        "year_acquired": "1994", 
+        "woe:country_id": null
+    }
+}

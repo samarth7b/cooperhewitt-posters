@@ -1,0 +1,194 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": 1972, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": "offset lithograph on heavy, coated white wove paper", 
+        "tms:id": "212193", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/101263_588fb97543e1bce7_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "101263"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/101263_588fb97543e1bce7_b.jpg", 
+                    "width": 686, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "101263"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/101263_588fb97543e1bce7_d.gif", 
+                    "width": 214, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "101263"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/101263_588fb97543e1bce7_z.jpg", 
+                    "width": 429, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "101263"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/101263_588fb97543e1bce7_n.jpg", 
+                    "width": 214, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "101263"
+                }
+            }, 
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/269825_53f049b76150f1a3_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "0", 
+                    "image_id": "269825"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/269825_53f049b76150f1a3_b.jpg", 
+                    "width": 705, 
+                    "height": 1024, 
+                    "is_primary": "0", 
+                    "image_id": "269825"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/269825_53f049b76150f1a3_d.gif", 
+                    "width": 220, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "269825"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/269825_53f049b76150f1a3_z.jpg", 
+                    "width": 440, 
+                    "height": 640, 
+                    "is_primary": "0", 
+                    "image_id": "269825"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/269825_53f049b76150f1a3_n.jpg", 
+                    "width": 220, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "269825"
+                }
+            }, 
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/95206_5c6c8ec2f0e827d7_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "0", 
+                    "image_id": "95206"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/95206_5c6c8ec2f0e827d7_b.jpg", 
+                    "width": 679, 
+                    "height": 1024, 
+                    "is_primary": "0", 
+                    "image_id": "95206"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/95206_5c6c8ec2f0e827d7_d.gif", 
+                    "width": 212, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "95206"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/95206_5c6c8ec2f0e827d7_z.jpg", 
+                    "width": 424, 
+                    "height": 640, 
+                    "is_primary": "0", 
+                    "image_id": "95206"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/95206_5c6c8ec2f0e827d7_n.jpg", 
+                    "width": 212, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "95206"
+                }
+            }
+        ], 
+        "id": "18673501", 
+        "has_no_known_copyright": null, 
+        "woe:country_name": "United States", 
+        "dimensions": "106.7 x 71.1 cm (42 x 28 in. )", 
+        "title": "Poster, North Cascades, State of Washington, 1972", 
+        "provenance": "Dan Friedman; Ken Friedman; 1997: acquired by Museum", 
+        "participants": [
+            {
+                "person_name": "Chermayeff & Geismar Associates", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "New York, New York, USA", 
+                "role_display_name": "Designed by", 
+                "person_id": "18053275", 
+                "person_url": "https://collection.cooperhewitt.org/people/18053275/"
+            }, 
+            {
+                "person_name": "Ivan Chermayeff", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "English, b. 1932", 
+                "role_display_name": "Designed by", 
+                "person_id": "18042085", 
+                "person_url": "https://collection.cooperhewitt.org/people/18042085/"
+            }, 
+            {
+                "person_name": "Ken Friedman", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35351535/", 
+                "role_id": "35351535", 
+                "role_name": "Donor", 
+                "person_date": "", 
+                "role_display_name": "Donated by", 
+                "person_id": "18049807", 
+                "person_url": "https://collection.cooperhewitt.org/people/18049807/"
+            }
+        ], 
+        "decade": "1970", 
+        "label_text": null, 
+        "woe:country": "23424977", 
+        "dimensions_raw": {
+            "width": [
+                "71.10", 
+                "centimeters"
+            ], 
+            "height": [
+                "106.70", 
+                "centimeters"
+            ]
+        }, 
+        "department_id": "35347493", 
+        "title_raw": "North Cascades, State of Washington", 
+        "justification": null, 
+        "media_id": "35431961", 
+        "description": "Against a black border, the central image, placed in the upper quadrant is an abstracted landscape design of brightly colored cut out shapes that suggest water, trees, mountains and sky. The colors are vivid blues, greens, yellow and lavender against a black mountain range that cuts across the image and merges with the black border of the poster. Below the image in white text at right,is the title, North Cascades, State of Washington.", 
+        "creditline": "Gift of Ken Friedman", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "1972", 
+        "url": "https://collection.cooperhewitt.org/objects/18673501/", 
+        "type": "poster", 
+        "accession_number": "1997-19-242", 
+        "year_end": 1972, 
+        "signed": "Printed in black lower left in image", 
+        "inscribed": "Lower left printed in white: Deep canyons, hundreds of jagged peaks and glaciers, mountain lakes and streams - that is the alpine country of North Cascades National Park, and Lake Chelan and Ross Lake National Recreation Areas. / National Park Service, U.S. Department of the Interior\nLower left printed in blue: FOR SALE BY THE SUPERINTENDENT OF DOCUMENTS, U.S. GOVERNMENT PRINTING OFFICE, WASHINGTON, D.C. 20402 / PRICE 50 CENTS - STOCK NUMBER 2405-0488 [star symbol] GPO: 1972 0-472-508", 
+        "period_id": null, 
+        "year_acquired": "1997", 
+        "woe:country_id": "23424977"
+    }
+}

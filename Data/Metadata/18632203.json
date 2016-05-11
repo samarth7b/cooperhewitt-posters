@@ -1,0 +1,91 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": 1979, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": null, 
+        "tms:id": "190944", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/200733_b1cb9751ed04a42b_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "200733"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/200733_b1cb9751ed04a42b_b.jpg", 
+                    "width": 798, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "200733"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/200733_b1cb9751ed04a42b_d.gif", 
+                    "width": 249, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "200733"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/200733_b1cb9751ed04a42b_z.jpg", 
+                    "width": 498, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "200733"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/200733_b1cb9751ed04a42b_n.jpg", 
+                    "width": 249, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "200733"
+                }
+            }
+        ], 
+        "id": "18632203", 
+        "has_no_known_copyright": null, 
+        "woe:country_name": "United States", 
+        "dimensions": null, 
+        "title": "Poster, New Perspectives on American Art, Symposium in Honor of Prof. Milton W. Brown, 1979", 
+        "provenance": null, 
+        "participants": [
+            {
+                "person_name": "Ray Ring", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "American", 
+                "role_display_name": "Designed by", 
+                "person_id": "68263851", 
+                "person_url": "https://collection.cooperhewitt.org/people/68263851/"
+            }
+        ], 
+        "decade": "1970", 
+        "label_text": null, 
+        "woe:country": "23424977", 
+        "dimensions_raw": null, 
+        "department_id": "35347493", 
+        "title_raw": "New Perspectives on American Art, Symposium in Honor of Prof. Milton W. Brown", 
+        "justification": null, 
+        "media_id": "35371135", 
+        "description": "CUNY Graduate Center", 
+        "creditline": null, 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "1979", 
+        "url": "https://collection.cooperhewitt.org/objects/18632203/", 
+        "type": "poster", 
+        "accession_number": "1989-107-4", 
+        "year_end": 1979, 
+        "signed": null, 
+        "inscribed": null, 
+        "period_id": null, 
+        "year_acquired": "1989", 
+        "woe:country_id": "23424977"
+    }
+}

@@ -1,0 +1,147 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": 1970, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": "screenprint on paper", 
+        "tms:id": "177489", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/88981_cf44a2f4e6b73510_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "88981"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/88981_cf44a2f4e6b73510_b.jpg", 
+                    "width": 1024, 
+                    "height": 789, 
+                    "is_primary": "1", 
+                    "image_id": "88981"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/88981_cf44a2f4e6b73510_d.gif", 
+                    "width": 320, 
+                    "height": 247, 
+                    "is_primary": "1", 
+                    "image_id": "88981"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/88981_cf44a2f4e6b73510_z.jpg", 
+                    "width": 640, 
+                    "height": 493, 
+                    "is_primary": "1", 
+                    "image_id": "88981"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/88981_cf44a2f4e6b73510_n.jpg", 
+                    "width": 320, 
+                    "height": 247, 
+                    "is_primary": "1", 
+                    "image_id": "88981"
+                }
+            }, 
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/269776_7c342b89eb7a7698_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "0", 
+                    "image_id": "269776"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/269776_7c342b89eb7a7698_b.jpg", 
+                    "width": 1024, 
+                    "height": 787, 
+                    "is_primary": "0", 
+                    "image_id": "269776"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/269776_7c342b89eb7a7698_d.gif", 
+                    "width": 320, 
+                    "height": 246, 
+                    "is_primary": "0", 
+                    "image_id": "269776"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/269776_7c342b89eb7a7698_z.jpg", 
+                    "width": 640, 
+                    "height": 492, 
+                    "is_primary": "0", 
+                    "image_id": "269776"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/269776_7c342b89eb7a7698_n.jpg", 
+                    "width": 320, 
+                    "height": 246, 
+                    "is_primary": "0", 
+                    "image_id": "269776"
+                }
+            }
+        ], 
+        "id": "18617911", 
+        "has_no_known_copyright": null, 
+        "woe:country_name": "United States", 
+        "dimensions": "114 x 150.9 cm (44 7/8 x 59 7/16 in.)", 
+        "title": "Poster, The Bronx Zoo: Elephant, 1970–81", 
+        "provenance": "1981: acquired by Museum", 
+        "participants": [
+            {
+                "person_name": "Peter Bradford", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "", 
+                "role_display_name": "Designed by", 
+                "person_id": "18042351", 
+                "person_url": "https://collection.cooperhewitt.org/people/18042351/"
+            }, 
+            {
+                "person_name": "Gary Funiwara", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "", 
+                "role_display_name": "Designed by", 
+                "person_id": "68248403", 
+                "person_url": "https://collection.cooperhewitt.org/people/68248403/"
+            }
+        ], 
+        "decade": "1970", 
+        "label_text": null, 
+        "woe:country": "23424977", 
+        "dimensions_raw": {
+            "width": [
+                "150.90", 
+                "centimeters"
+            ], 
+            "height": [
+                "114.00", 
+                "centimeters"
+            ]
+        }, 
+        "department_id": "35347493", 
+        "title_raw": "The Bronx Zoo: Elephant", 
+        "justification": null, 
+        "media_id": "35431679", 
+        "description": "Silhouetted yellow elephant and striped red and yellow elephant on maroon ground with blocks of surrounding red text.", 
+        "creditline": "Gift of Various Donors", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "1970–81", 
+        "url": "https://collection.cooperhewitt.org/objects/18617911/", 
+        "type": "poster", 
+        "accession_number": "1981-29-393", 
+        "year_end": 1981, 
+        "signed": null, 
+        "inscribed": null, 
+        "period_id": null, 
+        "year_acquired": "1981", 
+        "woe:country_id": "23424977"
+    }
+}

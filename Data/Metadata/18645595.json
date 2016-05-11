@@ -1,0 +1,187 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": 1990, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": "lithograph on paper", 
+        "tms:id": "197701", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/95211_21e44cd05240e13e_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "95211"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/95211_21e44cd05240e13e_b.jpg", 
+                    "width": 1024, 
+                    "height": 664, 
+                    "is_primary": "1", 
+                    "image_id": "95211"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/95211_21e44cd05240e13e_d.gif", 
+                    "width": 320, 
+                    "height": 208, 
+                    "is_primary": "1", 
+                    "image_id": "95211"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/95211_21e44cd05240e13e_z.jpg", 
+                    "width": 640, 
+                    "height": 415, 
+                    "is_primary": "1", 
+                    "image_id": "95211"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/95211_21e44cd05240e13e_n.jpg", 
+                    "width": 320, 
+                    "height": 208, 
+                    "is_primary": "1", 
+                    "image_id": "95211"
+                }
+            }, 
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/101251_fc283983e2c8370f_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "0", 
+                    "image_id": "101251"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/101251_fc283983e2c8370f_b.jpg", 
+                    "width": 1024, 
+                    "height": 686, 
+                    "is_primary": "0", 
+                    "image_id": "101251"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/101251_fc283983e2c8370f_d.gif", 
+                    "width": 320, 
+                    "height": 214, 
+                    "is_primary": "0", 
+                    "image_id": "101251"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/101251_fc283983e2c8370f_z.jpg", 
+                    "width": 640, 
+                    "height": 429, 
+                    "is_primary": "0", 
+                    "image_id": "101251"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/101251_fc283983e2c8370f_n.jpg", 
+                    "width": 320, 
+                    "height": 214, 
+                    "is_primary": "0", 
+                    "image_id": "101251"
+                }
+            }
+        ], 
+        "id": "18645595", 
+        "has_no_known_copyright": null, 
+        "woe:country_name": "United States", 
+        "dimensions": "H x W: 34.4 × 52.2 cm (13 9/16 × 20 9/16 in.)\nMat: 55.9 × 71.1 cm (22 × 28 in.)", 
+        "title": "Poster, AIDS Crisis, 1990", 
+        "provenance": null, 
+        "participants": [
+            {
+                "person_name": "Leo Burnett", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236677/", 
+                "role_id": "35236677", 
+                "role_name": "After", 
+                "person_date": "American, 1891–1971", 
+                "role_display_name": "After", 
+                "person_id": "68777709", 
+                "person_url": "https://collection.cooperhewitt.org/people/68777709/"
+            }, 
+            {
+                "person_name": "ACT UP (AIDS Coalition to Unleash Power)", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236661/", 
+                "role_id": "35236661", 
+                "role_name": "Publisher", 
+                "person_date": "probably New York, New York, USA, founded 1987", 
+                "role_display_name": "Published by", 
+                "person_id": "68777707", 
+                "person_url": "https://collection.cooperhewitt.org/people/68777707/"
+            }, 
+            {
+                "person_name": "Steven Heller", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35351535/", 
+                "role_id": "35351535", 
+                "role_name": "Donor", 
+                "person_date": "American, b. 1950", 
+                "role_display_name": "Donated by", 
+                "person_id": "18041397", 
+                "person_url": "https://collection.cooperhewitt.org/people/18041397/"
+            }, 
+            {
+                "person_name": "Karrie Jacobs", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35351535/", 
+                "role_id": "35351535", 
+                "role_name": "Donor", 
+                "person_date": "", 
+                "role_display_name": "Donated by", 
+                "person_id": "18056647", 
+                "person_url": "https://collection.cooperhewitt.org/people/18056647/"
+            }, 
+            {
+                "person_name": "LSA", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35352245/", 
+                "role_id": "35352245", 
+                "role_name": "Cataloguer", 
+                "person_date": "", 
+                "role_display_name": "Catalogued by", 
+                "person_id": "18048737", 
+                "person_url": "https://collection.cooperhewitt.org/people/18048737/"
+            }, 
+            {
+                "person_name": "Gang", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "USA", 
+                "role_display_name": "Designed by", 
+                "person_id": "18043285", 
+                "person_url": "https://collection.cooperhewitt.org/people/18043285/"
+            }
+        ], 
+        "decade": "1990", 
+        "label_text": "Comparing President George H. W. Bush to the Marlboro Man, this poster critiques the administration’s emphasis on military spending and its neglect of healthcare research and reform.", 
+        "woe:country": "23424977", 
+        "dimensions_raw": {
+            "width": [
+                "52.10", 
+                "centimeters"
+            ], 
+            "height": [
+                "34.40", 
+                "centimeters"
+            ]
+        }, 
+        "department_id": "35347493", 
+        "title_raw": "AIDS Crisis", 
+        "justification": null, 
+        "media_id": "35419317", 
+        "description": "Copy of Marlboro ad with photo of George H. W. Bush and warning. For Act Up. Background in red, with white text: AIDS Crisis. Text in black below: WARNING: White Bush spends billions playing cowboy, 37 million Americans / have no health insurance. One American dies of AIDS every eight minutes.", 
+        "creditline": "Gift of Steven Heller and Karrie Jacobs", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "1990", 
+        "url": "https://collection.cooperhewitt.org/objects/18645595/", 
+        "type": "poster", 
+        "accession_number": "1993-53-112", 
+        "year_end": 1990, 
+        "signed": null, 
+        "inscribed": "In lower right corner,Gang (encircled) ACT UP 564-2437.", 
+        "period_id": null, 
+        "year_acquired": "1993", 
+        "woe:country_id": "23424977"
+    }
+}

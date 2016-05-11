@@ -1,0 +1,109 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": 1980, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": "offset lithograph on white wove paper", 
+        "tms:id": "190941", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/64051_b4c36ad39eb4e1a4_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "64051"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/64051_b4c36ad39eb4e1a4_b.jpg", 
+                    "width": 700, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "64051"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/64051_b4c36ad39eb4e1a4_d.gif", 
+                    "width": 219, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "64051"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/64051_b4c36ad39eb4e1a4_z.jpg", 
+                    "width": 438, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "64051"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/64051_b4c36ad39eb4e1a4_n.jpg", 
+                    "width": 219, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "64051"
+                }
+            }
+        ], 
+        "id": "18632197", 
+        "has_no_known_copyright": null, 
+        "dimensions": "71 x 48 cm (27 15/16 x 18 7/8 in.)", 
+        "title": "Poster, Day of the Heroic Guerrilla, 1980", 
+        "provenance": "1989: acquired by Museum", 
+        "participants": [
+            {
+                "person_name": "Megan L. Smith", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35352245/", 
+                "role_id": "35352245", 
+                "role_name": "Cataloguer", 
+                "person_date": "", 
+                "role_display_name": "Catalogued by", 
+                "person_id": "18047443", 
+                "person_url": "https://collection.cooperhewitt.org/people/18047443/"
+            }, 
+            {
+                "person_name": "Rafael Enriquez", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "Cuban", 
+                "role_display_name": "Designed by", 
+                "person_id": "18042959", 
+                "person_url": "https://collection.cooperhewitt.org/people/18042959/"
+            }
+        ], 
+        "decade": "1980", 
+        "label_text": "These posters use scale for narrative purpose rather than abstract effect. The large heads establish a point-of-view character, while the smaller elements suggest thoughts, memories, and actions.", 
+        "woe:country": null, 
+        "dimensions_raw": {
+            "width": [
+                "48.00", 
+                "centimeters"
+            ], 
+            "height": [
+                "71.00", 
+                "centimeters"
+            ]
+        }, 
+        "department_id": "35347493", 
+        "title_raw": "Day of the Heroic Guerrilla", 
+        "justification": null, 
+        "media_id": "35431673", 
+        "description": "On magenta background, head shot of Che Guevara with yellow stars and silhouette of South America in upper right. To the lower left, another image of Che in uniform, and a third lower center wearing black. In magenta on black ground: 8 OCTUBRE 8 OCTOBER 8 OCTOBRE [date in Arabic] / Día del Guerrillero Heroico / Day of the Heroic Guerrilla; Journée du Guérillero Héroïque / [same in Arabic]. At center, logo for OSPAAL.", 
+        "creditline": null, 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "1980", 
+        "url": "https://collection.cooperhewitt.org/objects/18632197/", 
+        "type": "poster", 
+        "accession_number": "1989-107-1", 
+        "year_end": 1980, 
+        "signed": null, 
+        "inscribed": "Printed in black ink, lower right: DISEÑO: RAFAEL ENRIQUEZ", 
+        "period_id": null, 
+        "year_acquired": "1989", 
+        "woe:country_id": null
+    }
+}

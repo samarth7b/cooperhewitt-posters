@@ -1,0 +1,137 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": 1970, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": "screenprint on paper", 
+        "tms:id": "177484", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/88980_7468f118c6fe44c7_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "88980"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/88980_7468f118c6fe44c7_b.jpg", 
+                    "width": 1024, 
+                    "height": 774, 
+                    "is_primary": "1", 
+                    "image_id": "88980"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/88980_7468f118c6fe44c7_d.gif", 
+                    "width": 320, 
+                    "height": 242, 
+                    "is_primary": "1", 
+                    "image_id": "88980"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/88980_7468f118c6fe44c7_z.jpg", 
+                    "width": 640, 
+                    "height": 483, 
+                    "is_primary": "1", 
+                    "image_id": "88980"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/88980_7468f118c6fe44c7_n.jpg", 
+                    "width": 320, 
+                    "height": 242, 
+                    "is_primary": "1", 
+                    "image_id": "88980"
+                }
+            }, 
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/269743_535d32cf369b9d65_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "0", 
+                    "image_id": "269743"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/269743_535d32cf369b9d65_b.jpg", 
+                    "width": 1024, 
+                    "height": 787, 
+                    "is_primary": "0", 
+                    "image_id": "269743"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/269743_535d32cf369b9d65_d.gif", 
+                    "width": 320, 
+                    "height": 246, 
+                    "is_primary": "0", 
+                    "image_id": "269743"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/269743_535d32cf369b9d65_z.jpg", 
+                    "width": 640, 
+                    "height": 492, 
+                    "is_primary": "0", 
+                    "image_id": "269743"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/269743_535d32cf369b9d65_n.jpg", 
+                    "width": 320, 
+                    "height": 246, 
+                    "is_primary": "0", 
+                    "image_id": "269743"
+                }
+            }
+        ], 
+        "id": "18617901", 
+        "has_no_known_copyright": null, 
+        "woe:country_name": "United States", 
+        "dimensions": "114 x 151 cm (44 7/8 x 59 7/16 in.)", 
+        "title": "Poster, New York Botanical Garden, 1970–81", 
+        "provenance": "1981: acquired by Museum", 
+        "participants": [
+            {
+                "person_name": "Peter Bradford", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "", 
+                "role_display_name": "Designed by", 
+                "person_id": "18042351", 
+                "person_url": "https://collection.cooperhewitt.org/people/18042351/"
+            }
+        ], 
+        "decade": "1970", 
+        "label_text": null, 
+        "woe:country": "23424977", 
+        "dimensions_raw": {
+            "width": [
+                "151.00", 
+                "centimeters"
+            ], 
+            "height": [
+                "114.00", 
+                "centimeters"
+            ]
+        }, 
+        "department_id": "35347493", 
+        "title_raw": "New York Botanical Garden", 
+        "justification": null, 
+        "media_id": "35431679", 
+        "description": "White flower on green ground with surrounding blocks of text in black ink.", 
+        "creditline": "Gift of Various Donors", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "1970–81", 
+        "url": "https://collection.cooperhewitt.org/objects/18617901/", 
+        "type": "poster", 
+        "accession_number": "1981-29-389", 
+        "year_end": 1981, 
+        "signed": null, 
+        "inscribed": null, 
+        "period_id": null, 
+        "year_acquired": "1981", 
+        "woe:country_id": "23424977"
+    }
+}

@@ -1,0 +1,91 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": 1978, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": null, 
+        "tms:id": "177216", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/268487_ab2ee6ff28d35490_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "268487"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/268487_ab2ee6ff28d35490_b.jpg", 
+                    "width": 703, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "268487"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/268487_ab2ee6ff28d35490_d.gif", 
+                    "width": 220, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "268487"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/268487_ab2ee6ff28d35490_z.jpg", 
+                    "width": 439, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "268487"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/268487_ab2ee6ff28d35490_n.jpg", 
+                    "width": 220, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "268487"
+                }
+            }
+        ], 
+        "id": "18617367", 
+        "has_no_known_copyright": null, 
+        "woe:country_name": "United States", 
+        "dimensions": null, 
+        "title": "Poster, Hartford Mozart Festival, 1978", 
+        "provenance": "1981: acquired by Museum", 
+        "participants": [
+            {
+                "person_name": "William Wondriska", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "American, b. 1931", 
+                "role_display_name": "Designed by", 
+                "person_id": "34624575", 
+                "person_url": "https://collection.cooperhewitt.org/people/34624575/"
+            }
+        ], 
+        "decade": "1970", 
+        "label_text": null, 
+        "woe:country": "23424977", 
+        "dimensions_raw": null, 
+        "department_id": "35347493", 
+        "title_raw": "Hartford Mozart Festival", 
+        "justification": null, 
+        "media_id": "35371135", 
+        "description": null, 
+        "creditline": "Gift of Various Donors", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "1978", 
+        "url": "https://collection.cooperhewitt.org/objects/18617367/", 
+        "type": "poster", 
+        "accession_number": "1981-29-150", 
+        "year_end": 1978, 
+        "signed": null, 
+        "inscribed": null, 
+        "period_id": null, 
+        "year_acquired": "1981", 
+        "woe:country_id": "23424977"
+    }
+}

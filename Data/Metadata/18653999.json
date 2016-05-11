@@ -1,0 +1,101 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": 1985, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": "offset lithography", 
+        "tms:id": "201960", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/254124_b208d935de1ec150_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "254124"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/254124_b208d935de1ec150_b.jpg", 
+                    "width": 683, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "254124"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/254124_b208d935de1ec150_d.gif", 
+                    "width": 213, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "254124"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/254124_b208d935de1ec150_z.jpg", 
+                    "width": 427, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "254124"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/254124_b208d935de1ec150_n.jpg", 
+                    "width": 213, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "254124"
+                }
+            }
+        ], 
+        "id": "18653999", 
+        "has_no_known_copyright": null, 
+        "woe:country_name": "United States", 
+        "dimensions": null, 
+        "title": "Poster, 1996 Atlanta Georgia Olympics, ca. 1995", 
+        "provenance": null, 
+        "participants": [
+            {
+                "person_name": "H. Zlokower Co.", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35351535/", 
+                "role_id": "35351535", 
+                "role_name": "Donor", 
+                "person_date": "", 
+                "role_display_name": "Donated by", 
+                "person_id": "51679237", 
+                "person_url": "https://collection.cooperhewitt.org/people/51679237/"
+            }, 
+            {
+                "person_name": "Primo Angeli", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "", 
+                "role_display_name": "Designed by", 
+                "person_id": "18053927", 
+                "person_url": "https://collection.cooperhewitt.org/people/18053927/"
+            }
+        ], 
+        "decade": "1980", 
+        "label_text": null, 
+        "woe:country": "23424977", 
+        "dimensions_raw": null, 
+        "department_id": "35347493", 
+        "title_raw": "1996 Atlanta Georgia Olympics", 
+        "justification": null, 
+        "media_id": "35421913", 
+        "description": null, 
+        "creditline": "Gift of H. Zlokower Co.", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "ca. 1995", 
+        "url": "https://collection.cooperhewitt.org/objects/18653999/", 
+        "type": "poster", 
+        "accession_number": "1996-64-1", 
+        "year_end": 1996, 
+        "signed": null, 
+        "inscribed": null, 
+        "period_id": null, 
+        "year_acquired": "1996", 
+        "woe:country_id": "23424977"
+    }
+}

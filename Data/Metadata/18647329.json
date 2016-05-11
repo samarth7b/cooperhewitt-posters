@@ -1,0 +1,101 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": 1943, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": "offset lithograph on white wove paper", 
+        "tms:id": "198569", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/46752_7dc2ba1ad80b8a13_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "46752"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/46752_7dc2ba1ad80b8a13_b.jpg", 
+                    "width": 767, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "46752"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/46752_7dc2ba1ad80b8a13_d.gif", 
+                    "width": 240, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "46752"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/46752_7dc2ba1ad80b8a13_z.jpg", 
+                    "width": 479, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "46752"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/46752_7dc2ba1ad80b8a13_n.jpg", 
+                    "width": 240, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "46752"
+                }
+            }
+        ], 
+        "id": "18647329", 
+        "has_no_known_copyright": null, 
+        "woe:country_name": "United States", 
+        "dimensions": null, 
+        "title": "Poster, Remodeling Molecules, 1943", 
+        "provenance": null, 
+        "participants": [
+            {
+                "person_name": "Ladislav Sutnar", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "American and Czech, b. Pilsen, Bohemia, 1897, d. New York, New York, USA, 1976", 
+                "role_display_name": "Designed by", 
+                "person_id": "18043523", 
+                "person_url": "https://collection.cooperhewitt.org/people/18043523/"
+            }, 
+            {
+                "person_name": "Anonymous", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35351535/", 
+                "role_id": "35351535", 
+                "role_name": "Donor", 
+                "person_date": "", 
+                "role_display_name": "Donated by", 
+                "person_id": "68739079", 
+                "person_url": "https://collection.cooperhewitt.org/people/68739079/"
+            }
+        ], 
+        "decade": "1940", 
+        "label_text": null, 
+        "woe:country": "23424977", 
+        "dimensions_raw": null, 
+        "department_id": "35347493", 
+        "title_raw": "Remodeling Molecules", 
+        "justification": null, 
+        "media_id": "35431673", 
+        "description": "Poster design for Standard Oil with graphics, text, and photography on a blue background. Upper left, in white text in tan box: 7—Remodeling Molecules, superimposed on a photograph of a factory. Below left, graphic depicts the method of “Cracking,” the cycle of transforming oil vapors into different molecules. Below this, graphic of two abstract figures taking symbols of carbon and hydrogen and turning them into aviation fuel. Right, a photograph of operators controlling the cracking process. Lower margin, black text in tan box explaining process.", 
+        "creditline": "Gift of Anonymous Donor", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "1943", 
+        "url": "https://collection.cooperhewitt.org/objects/18647329/", 
+        "type": "poster", 
+        "accession_number": "1994-109-6", 
+        "year_end": 1943, 
+        "signed": null, 
+        "inscribed": "Imprinted in black ink, lower left: PRINTED IN U.S.A.; lower right: Prepared by Standard Oil Company (New Jersey)", 
+        "period_id": null, 
+        "year_acquired": "1994", 
+        "woe:country_id": "23424977"
+    }
+}

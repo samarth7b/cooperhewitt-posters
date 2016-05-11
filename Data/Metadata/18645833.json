@@ -1,0 +1,120 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": 1970, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": "support: paper", 
+        "tms:id": "197820", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/202418_1b2c7d59a28d2675_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "202418"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/202418_1b2c7d59a28d2675_b.jpg", 
+                    "width": 674, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "202418"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/202418_1b2c7d59a28d2675_d.gif", 
+                    "width": 211, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "202418"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/202418_1b2c7d59a28d2675_z.jpg", 
+                    "width": 421, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "202418"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/202418_1b2c7d59a28d2675_n.jpg", 
+                    "width": 211, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "202418"
+                }
+            }
+        ], 
+        "id": "18645833", 
+        "has_no_known_copyright": null, 
+        "woe:country_name": "United States", 
+        "dimensions": "43.3 x 28 cm (17 1/16 in. x 11 in.)", 
+        "title": "Poster (USA), ca. 1980", 
+        "provenance": null, 
+        "participants": [
+            {
+                "person_name": "Steven Heller", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35351535/", 
+                "role_id": "35351535", 
+                "role_name": "Donor", 
+                "person_date": "American, b. 1950", 
+                "role_display_name": "Donated by", 
+                "person_id": "18041397", 
+                "person_url": "https://collection.cooperhewitt.org/people/18041397/"
+            }, 
+            {
+                "person_name": "Karrie Jacobs", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35351535/", 
+                "role_id": "35351535", 
+                "role_name": "Donor", 
+                "person_date": "", 
+                "role_display_name": "Donated by", 
+                "person_id": "18056647", 
+                "person_url": "https://collection.cooperhewitt.org/people/18056647/"
+            }, 
+            {
+                "person_name": "LSA", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35352245/", 
+                "role_id": "35352245", 
+                "role_name": "Cataloguer", 
+                "person_date": "", 
+                "role_display_name": "Catalogued by", 
+                "person_id": "18048737", 
+                "person_url": "https://collection.cooperhewitt.org/people/18048737/"
+            }
+        ], 
+        "decade": "1970", 
+        "label_text": null, 
+        "woe:country": "23424977", 
+        "dimensions_raw": {
+            "width": [
+                "28.00", 
+                "centimeters"
+            ], 
+            "height": [
+                "43.30", 
+                "centimeters"
+            ]
+        }, 
+        "department_id": "35347493", 
+        "title_raw": null, 
+        "justification": null, 
+        "media_id": "35422385", 
+        "description": "Black and white photograph of empty road. In black text: When I walk down/ the street, treat me/ as if I travel with an/ invisible gang of/ amazon women.", 
+        "creditline": "Gift of Steven Heller and Karrie Jacobs", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "ca. 1980", 
+        "url": "https://collection.cooperhewitt.org/objects/18645833/", 
+        "type": "poster", 
+        "accession_number": "1993-53-94", 
+        "year_end": 1990, 
+        "signed": null, 
+        "inscribed": null, 
+        "period_id": null, 
+        "year_acquired": "1993", 
+        "woe:country_id": "23424977"
+    }
+}

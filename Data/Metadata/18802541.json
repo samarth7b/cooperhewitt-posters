@@ -1,0 +1,137 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": 1981, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": "lithograph on paper", 
+        "tms:id": "181456", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/80935_c3fc230d77afb28c_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "80935"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/80935_c3fc230d77afb28c_b.jpg", 
+                    "width": 443, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "80935"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/80935_c3fc230d77afb28c_d.gif", 
+                    "width": 138, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "80935"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/80935_c3fc230d77afb28c_z.jpg", 
+                    "width": 277, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "80935"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/80935_c3fc230d77afb28c_n.jpg", 
+                    "width": 138, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "80935"
+                }
+            }, 
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/257069_603e58d435f611af_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "0", 
+                    "image_id": "257069"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/257069_603e58d435f611af_b.jpg", 
+                    "width": 452, 
+                    "height": 1024, 
+                    "is_primary": "0", 
+                    "image_id": "257069"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/257069_603e58d435f611af_d.gif", 
+                    "width": 141, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "257069"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/257069_603e58d435f611af_z.jpg", 
+                    "width": 282, 
+                    "height": 640, 
+                    "is_primary": "0", 
+                    "image_id": "257069"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/257069_603e58d435f611af_n.jpg", 
+                    "width": 141, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "257069"
+                }
+            }
+        ], 
+        "id": "18802541", 
+        "has_no_known_copyright": null, 
+        "woe:country_name": "United States", 
+        "dimensions": "97.6 x 41.9 cm (38 7/16 x 16 1/2 in.)", 
+        "title": "Poster, 10th Anniversary, Shakespeare Festival of Dallas, 1981", 
+        "provenance": "1984: acquired by Museum", 
+        "participants": [
+            {
+                "person_name": "Woody Pirtle", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "b. 1945", 
+                "role_display_name": "Designed by", 
+                "person_id": "18042325", 
+                "person_url": "https://collection.cooperhewitt.org/people/18042325/"
+            }
+        ], 
+        "decade": "1980", 
+        "label_text": null, 
+        "woe:country": "23424977", 
+        "dimensions_raw": {
+            "width": [
+                "41.90", 
+                "centimeters"
+            ], 
+            "height": [
+                "97.60", 
+                "centimeters"
+            ]
+        }, 
+        "department_id": "35347493", 
+        "title_raw": "10th Anniversary, Shakespeare Festival of Dallas", 
+        "justification": null, 
+        "media_id": "35419317", 
+        "description": "Poster depicts close-up abstract portrait of Shakespeare wearing a blue-gray beard and green collar, before a partial cake with 10 lit candles. Below, text in yellow on gray ground: 10TH ANNIVERSARY / SHAKESPEARE FESTIVAL OF DALLAS / As You Like It Romeo and Juliet Kemp’s Jig, An Elizabethan Road Show / In Repertory July 10-August 2, 1981 Band Shell, Fair Park Gates Open 7:15 pm, Curtain 8:15 pm / Admission Free No Performances on Mondays.", 
+        "creditline": null, 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "1981", 
+        "url": "https://collection.cooperhewitt.org/objects/18802541/", 
+        "type": "poster", 
+        "accession_number": "1984-22-1", 
+        "year_end": 1981, 
+        "signed": null, 
+        "inscribed": "Printed in black, lower margin: COPYRIGHT 1981 WOODY PIRTLE, INC./PRINTING: WILLIAMSON PRINTING COMPANY/PAPER: CLAMPITE PAPER COMPANY (65 POUND STAR WHITE VICKSBURG COVER)/TYPOGRAPHY: TYPOGRAPHICS", 
+        "period_id": null, 
+        "year_acquired": "1984", 
+        "woe:country_id": "23424977"
+    }
+}

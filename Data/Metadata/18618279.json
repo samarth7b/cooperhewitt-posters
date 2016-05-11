@@ -1,0 +1,147 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": 1979, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": "lithograph on paper", 
+        "tms:id": "177673", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/90285_a4b6a14e4d0be76f_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "90285"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/90285_a4b6a14e4d0be76f_b.jpg", 
+                    "width": 1024, 
+                    "height": 771, 
+                    "is_primary": "1", 
+                    "image_id": "90285"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/90285_a4b6a14e4d0be76f_d.gif", 
+                    "width": 320, 
+                    "height": 241, 
+                    "is_primary": "1", 
+                    "image_id": "90285"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/90285_a4b6a14e4d0be76f_z.jpg", 
+                    "width": 640, 
+                    "height": 482, 
+                    "is_primary": "1", 
+                    "image_id": "90285"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/90285_a4b6a14e4d0be76f_n.jpg", 
+                    "width": 320, 
+                    "height": 241, 
+                    "is_primary": "1", 
+                    "image_id": "90285"
+                }
+            }, 
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/266915_db653fe9f1a201da_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "0", 
+                    "image_id": "266915"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/266915_db653fe9f1a201da_b.jpg", 
+                    "width": 1024, 
+                    "height": 774, 
+                    "is_primary": "0", 
+                    "image_id": "266915"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/266915_db653fe9f1a201da_d.gif", 
+                    "width": 320, 
+                    "height": 242, 
+                    "is_primary": "0", 
+                    "image_id": "266915"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/266915_db653fe9f1a201da_z.jpg", 
+                    "width": 640, 
+                    "height": 484, 
+                    "is_primary": "0", 
+                    "image_id": "266915"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/266915_db653fe9f1a201da_n.jpg", 
+                    "width": 320, 
+                    "height": 242, 
+                    "is_primary": "0", 
+                    "image_id": "266915"
+                }
+            }
+        ], 
+        "id": "18618279", 
+        "has_no_known_copyright": null, 
+        "woe:country_name": "United States", 
+        "dimensions": "H x W: 45.9 × 61.1 cm (18 1/16 × 24 1/16 in.)", 
+        "title": "Poster, Manpower Temporary Services, 1979", 
+        "provenance": "1981: acquired by Museum", 
+        "participants": [
+            {
+                "person_name": "Manpower Temporary Services", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236667/", 
+                "role_id": "35236667", 
+                "role_name": "Client", 
+                "person_date": "", 
+                "role_display_name": "Client:", 
+                "person_id": "68765141", 
+                "person_url": "https://collection.cooperhewitt.org/people/68765141/"
+            }, 
+            {
+                "person_name": "Lois Ehlert", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "American, b. November 9, 1934, in Beaver Dam, WI", 
+                "role_display_name": "Designed by", 
+                "person_id": "34624709", 
+                "person_url": "https://collection.cooperhewitt.org/people/34624709/"
+            }
+        ], 
+        "decade": "1970", 
+        "label_text": null, 
+        "woe:country": "23424977", 
+        "dimensions_raw": {
+            "width": [
+                "45.60", 
+                "centimeters"
+            ], 
+            "height": [
+                "61.00", 
+                "centimeters"
+            ]
+        }, 
+        "department_id": "35347493", 
+        "title_raw": "Manpower Temporary Services", 
+        "justification": null, 
+        "media_id": "35419317", 
+        "description": "On a black ground, silhouette of two hands in white with black dots; fingers in different colors with keyboard keys at the fingertips.", 
+        "creditline": "Gift of Various Donors", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "1979", 
+        "url": "https://collection.cooperhewitt.org/objects/18618279/", 
+        "type": "poster", 
+        "accession_number": "1981-29-96", 
+        "year_end": 1979, 
+        "signed": null, 
+        "inscribed": "Imprinted in yellow ink, lower right: Manpower Temporary Services", 
+        "period_id": null, 
+        "year_acquired": "1981", 
+        "woe:country_id": "23424977"
+    }
+}

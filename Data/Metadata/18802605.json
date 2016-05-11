@@ -1,0 +1,147 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": 1984, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": "offset lithograph on white paper", 
+        "tms:id": "181488", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/65156_9755183d4379f32f_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "65156"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/65156_9755183d4379f32f_b.jpg", 
+                    "width": 1024, 
+                    "height": 1012, 
+                    "is_primary": "1", 
+                    "image_id": "65156"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/65156_9755183d4379f32f_d.gif", 
+                    "width": 320, 
+                    "height": 316, 
+                    "is_primary": "1", 
+                    "image_id": "65156"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/65156_9755183d4379f32f_z.jpg", 
+                    "width": 640, 
+                    "height": 632, 
+                    "is_primary": "1", 
+                    "image_id": "65156"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/65156_9755183d4379f32f_n.jpg", 
+                    "width": 320, 
+                    "height": 316, 
+                    "is_primary": "1", 
+                    "image_id": "65156"
+                }
+            }, 
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/267727_d4269b853955120c_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "0", 
+                    "image_id": "267727"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/267727_d4269b853955120c_b.jpg", 
+                    "width": 1024, 
+                    "height": 1020, 
+                    "is_primary": "0", 
+                    "image_id": "267727"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/267727_d4269b853955120c_d.gif", 
+                    "width": 320, 
+                    "height": 319, 
+                    "is_primary": "0", 
+                    "image_id": "267727"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/267727_d4269b853955120c_z.jpg", 
+                    "width": 640, 
+                    "height": 638, 
+                    "is_primary": "0", 
+                    "image_id": "267727"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/267727_d4269b853955120c_n.jpg", 
+                    "width": 320, 
+                    "height": 319, 
+                    "is_primary": "0", 
+                    "image_id": "267727"
+                }
+            }
+        ], 
+        "id": "18802605", 
+        "has_no_known_copyright": null, 
+        "woe:country_name": "United States", 
+        "dimensions": "H x W: 58.5 x 58.5 cm (23 1/16 x 23 1/16 in.)", 
+        "title": "Poster, Knoll/ Richard Meier Collection, 1984", 
+        "provenance": "1984: acquired by Museum", 
+        "participants": [
+            {
+                "person_name": "Knoll Textiles", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236667/", 
+                "role_id": "35236667", 
+                "role_name": "Client", 
+                "person_date": "New York, New York, USA, founded 1947", 
+                "role_display_name": "Client:", 
+                "person_id": "18041409", 
+                "person_url": "https://collection.cooperhewitt.org/people/18041409/"
+            }, 
+            {
+                "person_name": "Richard Meier", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236675/", 
+                "role_id": "35236675", 
+                "role_name": "For", 
+                "person_date": "American, b. 1934", 
+                "role_display_name": "Made for", 
+                "person_id": "18042729", 
+                "person_url": "https://collection.cooperhewitt.org/people/18042729/"
+            }
+        ], 
+        "decade": "1980", 
+        "label_text": null, 
+        "woe:country": "23424977", 
+        "dimensions_raw": {
+            "width": [
+                "58.50", 
+                "centimeters"
+            ], 
+            "height": [
+                "58.50", 
+                "centimeters"
+            ]
+        }, 
+        "department_id": "35347493", 
+        "title_raw": "Knoll/ Richard Meier Collection", 
+        "justification": null, 
+        "media_id": "35424093", 
+        "description": "Two rounded black chairs with backs composed of what seem like 3 stacked rings held together by a vertical bar. The chairs are back to back and cropped so that only the backs are visible. Above, in black: Knoll / Richard Meier Collection.  An example of the chair is featured in the collection of Cooper-Hewitt (1990-139-3).", 
+        "creditline": null, 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "1984", 
+        "url": "https://collection.cooperhewitt.org/objects/18802605/", 
+        "type": "poster", 
+        "accession_number": "1984-41-1", 
+        "year_end": 1984, 
+        "signed": null, 
+        "inscribed": null, 
+        "period_id": null, 
+        "year_acquired": "1984", 
+        "woe:country_id": "23424977"
+    }
+}

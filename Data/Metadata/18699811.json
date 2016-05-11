@@ -1,0 +1,110 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": 1925, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": "lithograph on tan paper, lined with linen", 
+        "tms:id": "225528", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/38559_b6795a2e9ddb4c56_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "38559"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/38559_b6795a2e9ddb4c56_b.jpg", 
+                    "width": 1024, 
+                    "height": 734, 
+                    "is_primary": "1", 
+                    "image_id": "38559"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/38559_b6795a2e9ddb4c56_d.gif", 
+                    "width": 320, 
+                    "height": 230, 
+                    "is_primary": "1", 
+                    "image_id": "38559"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/38559_b6795a2e9ddb4c56_z.jpg", 
+                    "width": 640, 
+                    "height": 459, 
+                    "is_primary": "1", 
+                    "image_id": "38559"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/38559_b6795a2e9ddb4c56_n.jpg", 
+                    "width": 320, 
+                    "height": 230, 
+                    "is_primary": "1", 
+                    "image_id": "38559"
+                }
+            }
+        ], 
+        "id": "18699811", 
+        "has_no_known_copyright": null, 
+        "woe:country_name": "France", 
+        "dimensions": "96.5 x 134.5 cm ( 38 x 52 15/16 in.)", 
+        "title": "Poster, Galerie Edgar Brandt, 1925", 
+        "provenance": "2004: acquired by Museum (from Primavera Gallery, New York, NY)", 
+        "participants": [
+            {
+                "person_name": "Private Collection", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35352249/", 
+                "role_id": "35352249", 
+                "role_name": "Vendor", 
+                "person_date": "", 
+                "role_display_name": "Purchased from", 
+                "person_id": "18056581", 
+                "person_url": "https://collection.cooperhewitt.org/people/18056581/"
+            }, 
+            {
+                "person_name": "Edgar Brandt", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236565/", 
+                "role_id": "35236565", 
+                "role_name": "Artist", 
+                "person_date": "French, 1880 - 1960", 
+                "role_display_name": "", 
+                "person_id": "18051611", 
+                "person_url": "https://collection.cooperhewitt.org/people/18051611/"
+            }
+        ], 
+        "decade": "1920", 
+        "label_text": null, 
+        "woe:country": "23424819", 
+        "dimensions_raw": {
+            "width": [
+                "134.50", 
+                "centimeters"
+            ], 
+            "height": [
+                "96.50", 
+                "centimeters"
+            ]
+        }, 
+        "department_id": "35347493", 
+        "title_raw": "Galerie Edgar Brandt", 
+        "justification": null, 
+        "media_id": "35425595", 
+        "description": "Printed in brown and cream with black lettering, the central image of a curvilinear wrought iron motif is balanced on either side by text. The name EDGAR BRANDT dominates the upper section. The text and image are superimposed over curving tan and white designs that suggest flowers.", 
+        "creditline": "Museum purchase from Drawings and Prints Council Fund", 
+        "on_display": null, 
+        "markings": "At lower left, a tax stamp is fastened with an adhesive and a printed cancellation mark.", 
+        "is_loan_object": 0, 
+        "date": "1925", 
+        "url": "https://collection.cooperhewitt.org/objects/18699811/", 
+        "type": "poster", 
+        "accession_number": "2004-8-1", 
+        "year_end": 1925, 
+        "signed": null, 
+        "inscribed": null, 
+        "period_id": null, 
+        "year_acquired": "2004", 
+        "woe:country_id": "23424819"
+    }
+}

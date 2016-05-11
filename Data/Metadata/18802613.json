@@ -1,0 +1,80 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": null, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": null, 
+        "tms:id": "181492", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/252774_5efe1c68fc85cb81_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "252774"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/252774_5efe1c68fc85cb81_b.jpg", 
+                    "width": 773, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "252774"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/252774_5efe1c68fc85cb81_d.gif", 
+                    "width": 242, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "252774"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/252774_5efe1c68fc85cb81_z.jpg", 
+                    "width": 483, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "252774"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/252774_5efe1c68fc85cb81_n.jpg", 
+                    "width": 242, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "252774"
+                }
+            }
+        ], 
+        "id": "18802613", 
+        "has_no_known_copyright": null, 
+        "woe:country_name": "Finland", 
+        "dimensions": null, 
+        "title": "Poster, Alvar Aalto Museum, 20th century", 
+        "provenance": null, 
+        "participants": [], 
+        "decade": null, 
+        "label_text": null, 
+        "woe:country": "23424812", 
+        "dimensions_raw": null, 
+        "department_id": "35347493", 
+        "title_raw": "Alvar Aalto Museum", 
+        "justification": null, 
+        "media_id": "35371135", 
+        "description": null, 
+        "creditline": null, 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "20th century", 
+        "url": "https://collection.cooperhewitt.org/objects/18802613/", 
+        "type": "poster", 
+        "accession_number": "1984-45-1", 
+        "year_end": 1999, 
+        "signed": null, 
+        "inscribed": null, 
+        "period_id": null, 
+        "year_acquired": "1984", 
+        "woe:country_id": "23424812"
+    }
+}

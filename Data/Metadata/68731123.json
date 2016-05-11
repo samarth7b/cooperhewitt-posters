@@ -1,0 +1,130 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": 2006, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": "offset lithograph on paper", 
+        "tms:id": "277479", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/94354_254ce52c8e04a73f_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "94354"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/94354_254ce52c8e04a73f_b.jpg", 
+                    "width": 723, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "94354"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/94354_254ce52c8e04a73f_d.gif", 
+                    "width": 226, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "94354"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/94354_254ce52c8e04a73f_z.jpg", 
+                    "width": 452, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "94354"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/94354_254ce52c8e04a73f_n.jpg", 
+                    "width": 226, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "94354"
+                }
+            }
+        ], 
+        "id": "68731123", 
+        "has_no_known_copyright": null, 
+        "woe:country_name": "Netherlands", 
+        "dimensions": "H x W: 59.5 × 42.1 cm (23 7/16 × 16 9/16 in.)", 
+        "title": "Poster (Netherlands), 2011", 
+        "provenance": "Experimental Jetset; August 2014: acquired new from the designers by museum", 
+        "participants": [
+            {
+                "person_name": "Danny van den Dungen", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "Dutch, born 1971", 
+                "role_display_name": "Designed by", 
+                "person_id": "68735141", 
+                "person_url": "https://collection.cooperhewitt.org/people/68735141/"
+            }, 
+            {
+                "person_name": "Marieke Stolk", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "Dutch, born 1967", 
+                "role_display_name": "Designed by", 
+                "person_id": "68735139", 
+                "person_url": "https://collection.cooperhewitt.org/people/68735139/"
+            }, 
+            {
+                "person_name": "Erwin Brinkers", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "Dutch, born 1973", 
+                "role_display_name": "Designed by", 
+                "person_id": "68735143", 
+                "person_url": "https://collection.cooperhewitt.org/people/68735143/"
+            }, 
+            {
+                "person_name": "Experimental Jetset", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "Amsterdam, Netherlands, founded 1997", 
+                "role_display_name": "Designed by", 
+                "person_id": "18065251", 
+                "person_url": "https://collection.cooperhewitt.org/people/18065251/"
+            }
+        ], 
+        "decade": "2000", 
+        "label_text": null, 
+        "woe:country": "23424909", 
+        "dimensions_raw": {
+            "width": [
+                "42.00", 
+                "centimeters"
+            ], 
+            "height": [
+                "59.40", 
+                "centimeters"
+            ]
+        }, 
+        "department_id": "35347493", 
+        "title_raw": null, 
+        "justification": "Experimental Jetset designed the graphic identity for the traveling exhibition “Out of Fashion” that originated at the International Film Festival in Rotterdam and was shown at NAiM / Bureau Europa, an architecture institute in Maastricht, Netherlands.  The exhibition focused on the relationship between fashion and cinema.  For their poster design, the team chose a graphic word play on the phrase Out of Fashion by adding additional or alternate prepositions, including Up, In, On and Of.  The designers drew inspiration from the title of the film by William Klein “In and Out of Fashion.”  Tying the composition together, Experiemental Jetset generated a layer of dots that recalls both textile patterns and the grainy resolution of film and video screens.", 
+        "media_id": "35399021", 
+        "description": "The words \"UP,\" \"IN,\" and \"OUT\" appear in multiple iterations in large blue and black type, arranged into two columns. In the middle of the composition, the words \"OF/FASHION\" span the two columns. The white ground is printed with a grid of small dots. The poster was designed to advertise an exhibition at NAiM / Bureau Europa.", 
+        "creditline": "Gift of Experimental Jetset", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "2011", 
+        "url": "https://collection.cooperhewitt.org/objects/68731123/", 
+        "type": "poster", 
+        "accession_number": "2015-2-8", 
+        "year_end": 2016, 
+        "signed": null, 
+        "inscribed": null, 
+        "period_id": null, 
+        "year_acquired": "2015", 
+        "woe:country_id": "23424909"
+    }
+}

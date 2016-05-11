@@ -1,0 +1,157 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": 1992, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": "offset lithograph heavy white paper", 
+        "tms:id": "202545", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/49892_34d636ee5e856389_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "49892"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/49892_34d636ee5e856389_b.jpg", 
+                    "width": 768, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "49892"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/49892_34d636ee5e856389_d.gif", 
+                    "width": 240, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "49892"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/49892_34d636ee5e856389_z.jpg", 
+                    "width": 480, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "49892"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/49892_34d636ee5e856389_n.jpg", 
+                    "width": 240, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "49892"
+                }
+            }, 
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/268768_cd0014e0f977b390_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "0", 
+                    "image_id": "268768"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/268768_cd0014e0f977b390_b.jpg", 
+                    "width": 780, 
+                    "height": 1024, 
+                    "is_primary": "0", 
+                    "image_id": "268768"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/268768_cd0014e0f977b390_d.gif", 
+                    "width": 244, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "268768"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/268768_cd0014e0f977b390_z.jpg", 
+                    "width": 488, 
+                    "height": 640, 
+                    "is_primary": "0", 
+                    "image_id": "268768"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/268768_cd0014e0f977b390_n.jpg", 
+                    "width": 244, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "268768"
+                }
+            }
+        ], 
+        "id": "18655151", 
+        "has_no_known_copyright": null, 
+        "woe:country_name": "United States", 
+        "dimensions": "88.6 x 66.4 cm (34 7/8 x 26 1/8 in.)", 
+        "title": "Poster, Milton Glaser per Campari, No. 2, 1992", 
+        "provenance": "Milton Glaser", 
+        "participants": [
+            {
+                "person_name": "Karin Zonis", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35352245/", 
+                "role_id": "35352245", 
+                "role_name": "Cataloguer", 
+                "person_date": "", 
+                "role_display_name": "Catalogued by", 
+                "person_id": "51676457", 
+                "person_url": "https://collection.cooperhewitt.org/people/51676457/"
+            }, 
+            {
+                "person_name": "Milton Glaser", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "American, b. 1929", 
+                "role_display_name": "Designed by", 
+                "person_id": "18042107", 
+                "person_url": "https://collection.cooperhewitt.org/people/18042107/"
+            }, 
+            {
+                "person_name": "Milton Glaser", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35351535/", 
+                "role_id": "35351535", 
+                "role_name": "Donor", 
+                "person_date": "American, b. 1929", 
+                "role_display_name": "Donated by", 
+                "person_id": "18042107", 
+                "person_url": "https://collection.cooperhewitt.org/people/18042107/"
+            }
+        ], 
+        "decade": "1990", 
+        "label_text": null, 
+        "woe:country": "23424977", 
+        "dimensions_raw": {
+            "width": [
+                "66.40", 
+                "centimeters"
+            ], 
+            "height": [
+                "88.60", 
+                "centimeters"
+            ]
+        }, 
+        "department_id": "35347493", 
+        "title_raw": "Milton Glaser per Campari, No. 2", 
+        "justification": null, 
+        "media_id": "35520279", 
+        "description": "Poster depicting a trapezoidal view of a table with a chair at the top, framed by red and blue checkers; tablecloth in colorful checkered pattern. A glass, reflecting checkered tablecloth, with reddish brown liquid splashing out of it, partial Campari bottle lying on its side bottom right with an orange and orange slice on the table. Lower margin, in blue: Milton Glaser per Campari / Manifesto realizzato in occasione de la mostra Milton Glaser/Piero Francesca. Milano, settembre 1992.", 
+        "creditline": "Gift of Milton Glaser", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "1992", 
+        "url": "https://collection.cooperhewitt.org/objects/18655151/", 
+        "type": "poster", 
+        "accession_number": "1997-28-10", 
+        "year_end": 1992, 
+        "signed": "Signed [imprinted] in white on blue oval: ©MILTON GLASER1992", 
+        "inscribed": "Imprinted in blue, lower left: Campari Advertising", 
+        "period_id": null, 
+        "year_acquired": "1997", 
+        "woe:country_id": "23424977"
+    }
+}

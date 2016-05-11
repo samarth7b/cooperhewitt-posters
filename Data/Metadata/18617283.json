@@ -1,0 +1,137 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": null, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": "lithograph on paper", 
+        "tms:id": "177174", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/82689_892c9921bc5e0098_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "82689"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/82689_892c9921bc5e0098_b.jpg", 
+                    "width": 761, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "82689"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/82689_892c9921bc5e0098_d.gif", 
+                    "width": 238, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "82689"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/82689_892c9921bc5e0098_z.jpg", 
+                    "width": 475, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "82689"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/82689_892c9921bc5e0098_n.jpg", 
+                    "width": 238, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "82689"
+                }
+            }, 
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/205040_e26ebf445c5e9db9_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "0", 
+                    "image_id": "205040"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/205040_e26ebf445c5e9db9_b.jpg", 
+                    "width": 766, 
+                    "height": 1024, 
+                    "is_primary": "0", 
+                    "image_id": "205040"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/205040_e26ebf445c5e9db9_d.gif", 
+                    "width": 239, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "205040"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/205040_e26ebf445c5e9db9_z.jpg", 
+                    "width": 478, 
+                    "height": 640, 
+                    "is_primary": "0", 
+                    "image_id": "205040"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/205040_e26ebf445c5e9db9_n.jpg", 
+                    "width": 239, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "205040"
+                }
+            }
+        ], 
+        "id": "18617283", 
+        "has_no_known_copyright": null, 
+        "woe:country_name": "United States", 
+        "dimensions": "Overall: 68.6 x 50.9 cm (27 x 20 1/16 in.)", 
+        "title": "Poster, BYU University Chorale", 
+        "provenance": "1981: acquired by Museum", 
+        "participants": [
+            {
+                "person_name": "Brigham Young University", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236667/", 
+                "role_id": "35236667", 
+                "role_name": "Client", 
+                "person_date": "", 
+                "role_display_name": "Client:", 
+                "person_id": "18042421", 
+                "person_url": "https://collection.cooperhewitt.org/people/18042421/"
+            }
+        ], 
+        "decade": null, 
+        "label_text": null, 
+        "woe:country": "23424977", 
+        "dimensions_raw": {
+            "width": [
+                "50.90", 
+                "centimeters"
+            ], 
+            "height": [
+                "68.60", 
+                "centimeters"
+            ]
+        }, 
+        "department_id": "35347493", 
+        "title_raw": "BYU University Chorale", 
+        "justification": null, 
+        "media_id": "35419317", 
+        "description": "Group of singers, all mouths open, and one pianist.", 
+        "creditline": "Gift of Various Donors", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": null, 
+        "url": "https://collection.cooperhewitt.org/objects/18617283/", 
+        "type": "poster", 
+        "accession_number": "1981-29-112", 
+        "year_end": null, 
+        "signed": null, 
+        "inscribed": null, 
+        "period_id": null, 
+        "year_acquired": "1981", 
+        "woe:country_id": "23424977"
+    }
+}

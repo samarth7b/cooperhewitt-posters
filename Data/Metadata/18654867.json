@@ -1,0 +1,100 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": 1994, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": "offset lithograph on white wove paper", 
+        "tms:id": "202403", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/257458_d43053fb8adb61d1_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "257458"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/257458_d43053fb8adb61d1_b.jpg", 
+                    "width": 680, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "257458"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/257458_d43053fb8adb61d1_d.gif", 
+                    "width": 213, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "257458"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/257458_d43053fb8adb61d1_z.jpg", 
+                    "width": 425, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "257458"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/257458_d43053fb8adb61d1_n.jpg", 
+                    "width": 213, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "257458"
+                }
+            }
+        ], 
+        "id": "18654867", 
+        "has_no_known_copyright": null, 
+        "dimensions": null, 
+        "title": "Poster, The Conversion of St. Paul, 1994", 
+        "provenance": null, 
+        "participants": [
+            {
+                "person_name": "Elliott Peter Earls", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "American, b. 1966", 
+                "role_display_name": "Designed by", 
+                "person_id": "18049533", 
+                "person_url": "https://collection.cooperhewitt.org/people/18049533/"
+            }, 
+            {
+                "person_name": "Elliott Peter Earls", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35351535/", 
+                "role_id": "35351535", 
+                "role_name": "Donor", 
+                "person_date": "American, b. 1966", 
+                "role_display_name": "Donated by", 
+                "person_id": "18049533", 
+                "person_url": "https://collection.cooperhewitt.org/people/18049533/"
+            }
+        ], 
+        "decade": "1990", 
+        "label_text": null, 
+        "woe:country": null, 
+        "dimensions_raw": null, 
+        "department_id": "35347493", 
+        "title_raw": "The Conversion of St. Paul", 
+        "justification": null, 
+        "media_id": "35431673", 
+        "description": null, 
+        "creditline": "Gift of Elliott Earls", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "1994", 
+        "url": "https://collection.cooperhewitt.org/objects/18654867/", 
+        "type": "poster", 
+        "accession_number": "1997-140-1", 
+        "year_end": 1994, 
+        "signed": null, 
+        "inscribed": null, 
+        "period_id": null, 
+        "year_acquired": "1997", 
+        "woe:country_id": null
+    }
+}

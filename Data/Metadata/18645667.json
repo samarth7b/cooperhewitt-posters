@@ -1,0 +1,214 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": 1982, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": "screenprint on white paper", 
+        "tms:id": "197737", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/95224_0803d595c8b566b0_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "95224"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/95224_0803d595c8b566b0_b.jpg", 
+                    "width": 768, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "95224"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/95224_0803d595c8b566b0_d.gif", 
+                    "width": 240, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "95224"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/95224_0803d595c8b566b0_z.jpg", 
+                    "width": 480, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "95224"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/95224_0803d595c8b566b0_n.jpg", 
+                    "width": 240, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "95224"
+                }
+            }, 
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/101358_cb623bd51c72bf20_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "0", 
+                    "image_id": "101358"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/101358_cb623bd51c72bf20_b.jpg", 
+                    "width": 768, 
+                    "height": 1024, 
+                    "is_primary": "0", 
+                    "image_id": "101358"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/101358_cb623bd51c72bf20_d.gif", 
+                    "width": 240, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "101358"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/101358_cb623bd51c72bf20_z.jpg", 
+                    "width": 480, 
+                    "height": 640, 
+                    "is_primary": "0", 
+                    "image_id": "101358"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/101358_cb623bd51c72bf20_n.jpg", 
+                    "width": 240, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "101358"
+                }
+            }, 
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/91774_831bf1660d30103c_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "0", 
+                    "image_id": "91774"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/91774_831bf1660d30103c_b.jpg", 
+                    "width": 757, 
+                    "height": 1024, 
+                    "is_primary": "0", 
+                    "image_id": "91774"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/91774_831bf1660d30103c_d.gif", 
+                    "width": 237, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "91774"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/91774_831bf1660d30103c_z.jpg", 
+                    "width": 473, 
+                    "height": 640, 
+                    "is_primary": "0", 
+                    "image_id": "91774"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/91774_831bf1660d30103c_n.jpg", 
+                    "width": 237, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "91774"
+                }
+            }
+        ], 
+        "id": "18645667", 
+        "has_no_known_copyright": null, 
+        "woe:country_name": "United States", 
+        "dimensions": "H x W: 61.1 × 45.7 cm (24 1/16 in. × 18 in.)", 
+        "title": "Poster, Ready for War, 1982", 
+        "provenance": "Steven Heller and Karrie Jacobs; 1993: acquired by Museum", 
+        "participants": [
+            {
+                "person_name": "Karrie Jacobs", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35351535/", 
+                "role_id": "35351535", 
+                "role_name": "Donor", 
+                "person_date": "", 
+                "role_display_name": "Donated by", 
+                "person_id": "18056647", 
+                "person_url": "https://collection.cooperhewitt.org/people/18056647/"
+            }, 
+            {
+                "person_name": "Steven Heller", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35351535/", 
+                "role_id": "35351535", 
+                "role_name": "Donor", 
+                "person_date": "American, b. 1950", 
+                "role_display_name": "Donated by", 
+                "person_id": "18041397", 
+                "person_url": "https://collection.cooperhewitt.org/people/18041397/"
+            }, 
+            {
+                "person_name": "Megan L. Smith", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35352245/", 
+                "role_id": "35352245", 
+                "role_name": "Cataloguer", 
+                "person_date": "", 
+                "role_display_name": "Catalogued by", 
+                "person_id": "18047443", 
+                "person_url": "https://collection.cooperhewitt.org/people/18047443/"
+            }, 
+            {
+                "person_name": "LSA", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35352245/", 
+                "role_id": "35352245", 
+                "role_name": "Cataloguer", 
+                "person_date": "", 
+                "role_display_name": "Catalogued by", 
+                "person_id": "18048737", 
+                "person_url": "https://collection.cooperhewitt.org/people/18048737/"
+            }, 
+            {
+                "person_name": "Art Chantry", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "American, b. 1954", 
+                "role_display_name": "Designed by", 
+                "person_id": "18041683", 
+                "person_url": "https://collection.cooperhewitt.org/people/18041683/"
+            }
+        ], 
+        "decade": "1980", 
+        "label_text": "According to Chantry, this poster became part of long-term political street art in Seattle. It was reprinted numerous times and wheat-pasted during the Reagan era.", 
+        "woe:country": "23424977", 
+        "dimensions_raw": {
+            "width": [
+                "45.50", 
+                "centimeters"
+            ], 
+            "height": [
+                "60.90", 
+                "centimeters"
+            ]
+        }, 
+        "department_id": "35347493", 
+        "title_raw": "Ready for War", 
+        "justification": null, 
+        "media_id": "51684187", 
+        "description": "Abstracted black and white image of a man with mouth open. Above, in white: READY FOR WAR.", 
+        "creditline": "Gift of Steven Heller and Karrie Jacobs", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "1982", 
+        "url": "https://collection.cooperhewitt.org/objects/18645667/", 
+        "type": "poster", 
+        "accession_number": "1993-53-27", 
+        "year_end": 1982, 
+        "signed": null, 
+        "inscribed": "Inscribed in graphite on verso: \"Poster by Art Chactry\" Imprinted in red ink at LC: \"ALONZO CRETINI'S SALON POLITIQUE...\"", 
+        "period_id": null, 
+        "year_acquired": "1993", 
+        "woe:country_id": "23424977"
+    }
+}

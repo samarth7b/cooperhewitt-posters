@@ -1,0 +1,147 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": null, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": "lithograph on paper", 
+        "tms:id": "177549", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/90317_18036114a87ccb7f_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "90317"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/90317_18036114a87ccb7f_b.jpg", 
+                    "width": 729, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "90317"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/90317_18036114a87ccb7f_d.gif", 
+                    "width": 228, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "90317"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/90317_18036114a87ccb7f_z.jpg", 
+                    "width": 455, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "90317"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/90317_18036114a87ccb7f_n.jpg", 
+                    "width": 228, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "90317"
+                }
+            }, 
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/206942_3010ebad1433be8c_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "0", 
+                    "image_id": "206942"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/206942_3010ebad1433be8c_b.jpg", 
+                    "width": 744, 
+                    "height": 1024, 
+                    "is_primary": "0", 
+                    "image_id": "206942"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/206942_3010ebad1433be8c_d.gif", 
+                    "width": 233, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "206942"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/206942_3010ebad1433be8c_z.jpg", 
+                    "width": 465, 
+                    "height": 640, 
+                    "is_primary": "0", 
+                    "image_id": "206942"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/206942_3010ebad1433be8c_n.jpg", 
+                    "width": 233, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "206942"
+                }
+            }
+        ], 
+        "id": "18618031", 
+        "has_no_known_copyright": null, 
+        "woe:country_name": "United States", 
+        "dimensions": "53.2 x 38 cm (20 15/16 x 14 15/16 in.)", 
+        "title": "Poster, IBM / Time", 
+        "provenance": "1981: acquired by Museum", 
+        "participants": [
+            {
+                "person_name": "IBM", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236667/", 
+                "role_id": "35236667", 
+                "role_name": "Client", 
+                "person_date": "USA", 
+                "role_display_name": "Client:", 
+                "person_id": "18041871", 
+                "person_url": "https://collection.cooperhewitt.org/people/18041871/"
+            }, 
+            {
+                "person_name": "Ken White", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "American, 1935-1985", 
+                "role_display_name": "Designed by", 
+                "person_id": "18042357", 
+                "person_url": "https://collection.cooperhewitt.org/people/18042357/"
+            }
+        ], 
+        "decade": null, 
+        "label_text": null, 
+        "woe:country": "23424977", 
+        "dimensions_raw": {
+            "width": [
+                "38.00", 
+                "centimeters"
+            ], 
+            "height": [
+                "53.20", 
+                "centimeters"
+            ]
+        }, 
+        "department_id": "35347493", 
+        "title_raw": "IBM / Time", 
+        "justification": null, 
+        "media_id": "35419317", 
+        "description": "Poster featuring a cloudy sky with drawings of various clocks. Text in white, upper right: To him whose elastic and vigorous / thought keeps pace with the sun, / the day is a perpetual morning. / Time is but the stream I go fishing in. / Henry David Thoreau.", 
+        "creditline": "Gift of Various Donors", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": null, 
+        "url": "https://collection.cooperhewitt.org/objects/18618031/", 
+        "type": "poster", 
+        "accession_number": "1981-29-447", 
+        "year_end": null, 
+        "signed": null, 
+        "inscribed": null, 
+        "period_id": null, 
+        "year_acquired": "1981", 
+        "woe:country_id": "23424977"
+    }
+}

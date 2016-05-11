@@ -1,0 +1,147 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": null, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": "screenprint on thin transparent plastic", 
+        "tms:id": "200933", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/84950_641dd78eef9d2f8e_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "84950"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/84950_641dd78eef9d2f8e_b.jpg", 
+                    "width": 702, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "84950"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/84950_641dd78eef9d2f8e_d.gif", 
+                    "width": 219, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "84950"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/84950_641dd78eef9d2f8e_z.jpg", 
+                    "width": 439, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "84950"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/84950_641dd78eef9d2f8e_n.jpg", 
+                    "width": 219, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "84950"
+                }
+            }, 
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/268902_611fb77a41bf327a_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "0", 
+                    "image_id": "268902"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/268902_611fb77a41bf327a_b.jpg", 
+                    "width": 711, 
+                    "height": 1024, 
+                    "is_primary": "0", 
+                    "image_id": "268902"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/268902_611fb77a41bf327a_d.gif", 
+                    "width": 222, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "268902"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/268902_611fb77a41bf327a_z.jpg", 
+                    "width": 444, 
+                    "height": 640, 
+                    "is_primary": "0", 
+                    "image_id": "268902"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/268902_611fb77a41bf327a_n.jpg", 
+                    "width": 222, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "268902"
+                }
+            }
+        ], 
+        "id": "18651981", 
+        "has_no_known_copyright": null, 
+        "woe:country_name": "United States", 
+        "dimensions": "89.2 x 61.1 cm (35 1/8 x 24 1/16 in.)", 
+        "title": "Poster, Various Chantry Logos", 
+        "provenance": "1995: acquired by Museum", 
+        "participants": [
+            {
+                "person_name": "Art Chantry", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35351535/", 
+                "role_id": "35351535", 
+                "role_name": "Donor", 
+                "person_date": "American, b. 1954", 
+                "role_display_name": "Donated by", 
+                "person_id": "18041683", 
+                "person_url": "https://collection.cooperhewitt.org/people/18041683/"
+            }, 
+            {
+                "person_name": "Art Chantry", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "American, b. 1954", 
+                "role_display_name": "Designed by", 
+                "person_id": "18041683", 
+                "person_url": "https://collection.cooperhewitt.org/people/18041683/"
+            }
+        ], 
+        "decade": null, 
+        "label_text": null, 
+        "woe:country": "23424977", 
+        "dimensions_raw": {
+            "width": [
+                "61.10", 
+                "centimeters"
+            ], 
+            "height": [
+                "89.20", 
+                "centimeters"
+            ]
+        }, 
+        "department_id": "35347493", 
+        "title_raw": "Various Chantry Logos", 
+        "justification": null, 
+        "media_id": "68266713", 
+        "description": "Various logos, printed in translucent white, overprinted with black logos on tranlucent sheet with orange dotted grid pattern.", 
+        "creditline": "Gift of Art Chantry", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": null, 
+        "url": "https://collection.cooperhewitt.org/objects/18651981/", 
+        "type": "poster", 
+        "accession_number": "1995-69-79", 
+        "year_end": null, 
+        "signed": null, 
+        "inscribed": null, 
+        "period_id": null, 
+        "year_acquired": "1995", 
+        "woe:country_id": "23424977"
+    }
+}

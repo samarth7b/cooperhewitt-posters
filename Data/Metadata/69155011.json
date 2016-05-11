@@ -1,0 +1,100 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": "Niessen uses techniques of overlap, collision, and convergence to create a “memory palace” in this poster series. Bright colors and shapes are distributed texturally over the surface of Building Bricks to create an imagined architecture. The typographic arrangement challenges the viewer to approach the poster from different points of view. Building Bricks is from a series of posters, Palace of Typographic Masonry.", 
+        "year_start": 2014, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": "screenprint", 
+        "tms:id": "282859", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/265777_078416cef8b0a2f7_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "265777"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/265777_078416cef8b0a2f7_b.jpg", 
+                    "width": 713, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "265777"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/265777_078416cef8b0a2f7_d.gif", 
+                    "width": 223, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "265777"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/265777_078416cef8b0a2f7_z.jpg", 
+                    "width": 446, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "265777"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/265777_078416cef8b0a2f7_n.jpg", 
+                    "width": 223, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "265777"
+                }
+            }
+        ], 
+        "id": "69155011", 
+        "has_no_known_copyright": null, 
+        "dimensions": "H x W: 118 × 84 cm (46 7/16 × 33 1/16 in.) (unframed)", 
+        "title": "Poster, Building Bricks, Palace of Typographic Masonry, 2014", 
+        "provenance": null, 
+        "participants": [
+            {
+                "person_name": "Richard Niessen", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35351535/", 
+                "role_id": "35351535", 
+                "role_name": "Donor", 
+                "person_date": "Dutch, b. 1972", 
+                "role_display_name": "Donated by", 
+                "person_id": "85011423", 
+                "person_url": "https://collection.cooperhewitt.org/people/85011423/"
+            }, 
+            {
+                "person_name": "Richard Niessen", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "Dutch, b. 1972", 
+                "role_display_name": "Designed by", 
+                "person_id": "85011423", 
+                "person_url": "https://collection.cooperhewitt.org/people/85011423/"
+            }
+        ], 
+        "decade": "2010", 
+        "label_text": null, 
+        "woe:country": null, 
+        "dimensions_raw": null, 
+        "department_id": "404529577", 
+        "title_raw": "Building Bricks, Palace of Typographic Masonry", 
+        "justification": null, 
+        "media_id": "35422783", 
+        "description": null, 
+        "creditline": "Courtesy of Richard Niessen", 
+        "on_display": "1", 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "2014", 
+        "url": "https://collection.cooperhewitt.org/objects/69155011/", 
+        "type": "poster", 
+        "accession_number": "s-e-1717", 
+        "year_end": 2014, 
+        "signed": null, 
+        "inscribed": null, 
+        "period_id": null, 
+        "year_acquired": null, 
+        "woe:country_id": null
+    }
+}

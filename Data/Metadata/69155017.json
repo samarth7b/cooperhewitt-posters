@@ -1,0 +1,100 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": "French curves are traditional tools for drawing curved lines, employed by architects, type designers, and decorative artists. French curves swarm across the surface of this poster dedicated to the idea of beauty, from Niessen’s series Palace of Typographic Masonry. The poster employs words from the history of aesthetics, including harmony, proportion, magnitude, clarity, and fitness.", 
+        "year_start": 2015, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": "screenprint", 
+        "tms:id": "282861", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/265780_74f41d7c1e2b271d_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "265780"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/265780_74f41d7c1e2b271d_b.jpg", 
+                    "width": 720, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "265780"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/265780_74f41d7c1e2b271d_d.gif", 
+                    "width": 225, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "265780"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/265780_74f41d7c1e2b271d_z.jpg", 
+                    "width": 450, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "265780"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/265780_74f41d7c1e2b271d_n.jpg", 
+                    "width": 225, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "265780"
+                }
+            }
+        ], 
+        "id": "69155017", 
+        "has_no_known_copyright": null, 
+        "dimensions": "H x W: 118 × 84 cm (46 7/16 × 33 1/16 in.) (unframed)", 
+        "title": "Poster, Several Rulers of Beauty, Palace of Typographic Masonry, 2015", 
+        "provenance": null, 
+        "participants": [
+            {
+                "person_name": "Richard Niessen", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35351535/", 
+                "role_id": "35351535", 
+                "role_name": "Donor", 
+                "person_date": "Dutch, b. 1972", 
+                "role_display_name": "Donated by", 
+                "person_id": "85011423", 
+                "person_url": "https://collection.cooperhewitt.org/people/85011423/"
+            }, 
+            {
+                "person_name": "Richard Niessen", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "Dutch, b. 1972", 
+                "role_display_name": "Designed by", 
+                "person_id": "85011423", 
+                "person_url": "https://collection.cooperhewitt.org/people/85011423/"
+            }
+        ], 
+        "decade": "2010", 
+        "label_text": null, 
+        "woe:country": null, 
+        "dimensions_raw": null, 
+        "department_id": "404529577", 
+        "title_raw": "Several Rulers of Beauty, Palace of Typographic Masonry", 
+        "justification": null, 
+        "media_id": "35422783", 
+        "description": null, 
+        "creditline": "Courtesy of Richard Niessen", 
+        "on_display": "1", 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "2015", 
+        "url": "https://collection.cooperhewitt.org/objects/69155017/", 
+        "type": "poster", 
+        "accession_number": "s-e-1719", 
+        "year_end": 2015, 
+        "signed": null, 
+        "inscribed": null, 
+        "period_id": null, 
+        "year_acquired": null, 
+        "woe:country_id": null
+    }
+}

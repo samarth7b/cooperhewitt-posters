@@ -1,0 +1,120 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": 1980, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": "screenprint\nsupport: paper", 
+        "tms:id": "193468", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/269274_e2e085f478839a01_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "269274"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/269274_e2e085f478839a01_b.jpg", 
+                    "width": 1014, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "269274"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/269274_e2e085f478839a01_d.gif", 
+                    "width": 317, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "269274"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/269274_e2e085f478839a01_z.jpg", 
+                    "width": 633, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "269274"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/269274_e2e085f478839a01_n.jpg", 
+                    "width": 317, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "269274"
+                }
+            }
+        ], 
+        "id": "18637233", 
+        "has_no_known_copyright": null, 
+        "woe:country_name": "United States", 
+        "dimensions": "63.7 x 63.3 cm (25 1/16 x 24 15/16 in.)", 
+        "title": "Poster, California Institute of t, 1980", 
+        "provenance": null, 
+        "participants": [
+            {
+                "person_name": "Peter Levine", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35351535/", 
+                "role_id": "35351535", 
+                "role_name": "Donor", 
+                "person_date": "", 
+                "role_display_name": "Donated by", 
+                "person_id": "18042353", 
+                "person_url": "https://collection.cooperhewitt.org/people/18042353/"
+            }, 
+            {
+                "person_name": "CGC", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35352245/", 
+                "role_id": "35352245", 
+                "role_name": "Cataloguer", 
+                "person_date": "", 
+                "role_display_name": "Catalogued by", 
+                "person_id": "18048417", 
+                "person_url": "https://collection.cooperhewitt.org/people/18048417/"
+            }, 
+            {
+                "person_name": "Peter Levine", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "", 
+                "role_display_name": "Designed by", 
+                "person_id": "18042353", 
+                "person_url": "https://collection.cooperhewitt.org/people/18042353/"
+            }
+        ], 
+        "decade": "1980", 
+        "label_text": null, 
+        "woe:country": "23424977", 
+        "dimensions_raw": {
+            "width": [
+                "63.30", 
+                "centimeters"
+            ], 
+            "height": [
+                "63.70", 
+                "centimeters"
+            ]
+        }, 
+        "department_id": "35347493", 
+        "title_raw": "California Institute of t", 
+        "justification": null, 
+        "media_id": "136270991", 
+        "description": null, 
+        "creditline": "Gift of Peter Levine", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "1980", 
+        "url": "https://collection.cooperhewitt.org/objects/18637233/", 
+        "type": "poster", 
+        "accession_number": "1991-69-22", 
+        "year_end": 1980, 
+        "signed": null, 
+        "inscribed": "Signed and dated at LR in graphite: P.L. Levine '80; incribed at LL in graphite: 83/100", 
+        "period_id": null, 
+        "year_acquired": "1991", 
+        "woe:country_id": "23424977"
+    }
+}

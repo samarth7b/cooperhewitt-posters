@@ -1,0 +1,130 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": 1942, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": "offset lithograph on white wove paper", 
+        "tms:id": "212152", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/254455_20a0a13147115e68_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "254455"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/254455_20a0a13147115e68_b.jpg", 
+                    "width": 837, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "254455"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/254455_20a0a13147115e68_d.gif", 
+                    "width": 262, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "254455"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/254455_20a0a13147115e68_z.jpg", 
+                    "width": 523, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "254455"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/254455_20a0a13147115e68_n.jpg", 
+                    "width": 262, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "254455"
+                }
+            }
+        ], 
+        "id": "18673419", 
+        "has_no_known_copyright": null, 
+        "woe:country_name": "United States", 
+        "dimensions": "68.6 x 55.9 cm (27 x 22 in. )", 
+        "title": "Poster, Cities are Neighborhoods/Neighborhoods are People/Conserve Neighborhoods\n[National Endowment for the Arts Poster], n.d.", 
+        "provenance": "Dan Friedman; Ken Friedman; 1997: acquired by Museum", 
+        "participants": [
+            {
+                "person_name": "Chermayeff & Geismar Associates", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236797/", 
+                "role_id": "35236797", 
+                "role_name": "Firm", 
+                "person_date": "New York, New York, USA", 
+                "role_display_name": "Firm:", 
+                "person_id": "18053275", 
+                "person_url": "https://collection.cooperhewitt.org/people/18053275/"
+            }, 
+            {
+                "person_name": "Steff Geissbühler", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "Swiss, b. 1942", 
+                "role_display_name": "Designed by", 
+                "person_id": "68736775", 
+                "person_url": "https://collection.cooperhewitt.org/people/68736775/"
+            }, 
+            {
+                "person_name": "Ivan Chermayeff", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "English, b. 1932", 
+                "role_display_name": "Designed by", 
+                "person_id": "18042085", 
+                "person_url": "https://collection.cooperhewitt.org/people/18042085/"
+            }, 
+            {
+                "person_name": "Ken Friedman", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35351535/", 
+                "role_id": "35351535", 
+                "role_name": "Donor", 
+                "person_date": "", 
+                "role_display_name": "Donated by", 
+                "person_id": "18049807", 
+                "person_url": "https://collection.cooperhewitt.org/people/18049807/"
+            }
+        ], 
+        "decade": "1940", 
+        "label_text": null, 
+        "woe:country": "23424977", 
+        "dimensions_raw": {
+            "width": [
+                "55.90", 
+                "centimeters"
+            ], 
+            "height": [
+                "68.60", 
+                "centimeters"
+            ]
+        }, 
+        "department_id": "35347493", 
+        "title_raw": "Cities are Neighborhoods/Neighborhoods are People/Conserve Neighborhoods\n[National Endowment for the Arts Poster]", 
+        "justification": null, 
+        "media_id": "35431673", 
+        "description": "An aeriel view of a city rendered in dark matte gray, black and white.  The image of the city skyline appears at the extreme upper portion of the sheet against a black sky. The image is a negative print from a photographic positive and gives the appearence of dissolution. At top right,  title appears in white letters.", 
+        "creditline": "Gift of Ken Friedman", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "n.d.", 
+        "url": "https://collection.cooperhewitt.org/objects/18673419/", 
+        "type": "poster", 
+        "accession_number": "1997-19-201", 
+        "year_end": 1997, 
+        "signed": null, 
+        "inscribed": "Imprinted lower left along left edge: National Endowment for the Arts / Design Ivan Chermayeff and Stephan Geissbuhler", 
+        "period_id": null, 
+        "year_acquired": "1997", 
+        "woe:country_id": "23424977"
+    }
+}

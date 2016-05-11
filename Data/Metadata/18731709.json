@@ -1,0 +1,156 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": 1971, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": "off-set lithograph on white wove paper", 
+        "tms:id": "241952", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/35386_b28102bc6aa5a562_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "35386"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/35386_b28102bc6aa5a562_b.jpg", 
+                    "width": 739, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "35386"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/35386_b28102bc6aa5a562_d.gif", 
+                    "width": 231, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "35386"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/35386_b28102bc6aa5a562_z.jpg", 
+                    "width": 462, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "35386"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/35386_b28102bc6aa5a562_n.jpg", 
+                    "width": 231, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "35386"
+                }
+            }, 
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/267768_25350974157a67e4_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "0", 
+                    "image_id": "267768"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/267768_25350974157a67e4_b.jpg", 
+                    "width": 739, 
+                    "height": 1024, 
+                    "is_primary": "0", 
+                    "image_id": "267768"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/267768_25350974157a67e4_d.gif", 
+                    "width": 231, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "267768"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/267768_25350974157a67e4_z.jpg", 
+                    "width": 462, 
+                    "height": 640, 
+                    "is_primary": "0", 
+                    "image_id": "267768"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/267768_25350974157a67e4_n.jpg", 
+                    "width": 231, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "267768"
+                }
+            }
+        ], 
+        "id": "18731709", 
+        "has_no_known_copyright": null, 
+        "dimensions": "103 x 72.8 cm (40 9/16 x 28 11/16 in.)", 
+        "title": "Poster, Greeting, poster for the Haizuka Printing House. Second in the series, \"Jesus and Buddha\", 1971", 
+        "provenance": null, 
+        "participants": [
+            {
+                "person_name": "Sara Benda", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35351535/", 
+                "role_id": "35351535", 
+                "role_name": "Donor", 
+                "person_date": "", 
+                "role_display_name": "Donated by", 
+                "person_id": "18063205", 
+                "person_url": "https://collection.cooperhewitt.org/people/18063205/"
+            }, 
+            {
+                "person_name": "Tadanori Yokoo, Japanese", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "b. 1936", 
+                "role_display_name": "Designed by", 
+                "person_id": "18054231", 
+                "person_url": "https://collection.cooperhewitt.org/people/18054231/"
+            }, 
+            {
+                "person_name": "Marc Benda", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35351535/", 
+                "role_id": "35351535", 
+                "role_name": "Donor", 
+                "person_date": "", 
+                "role_display_name": "Donated by", 
+                "person_id": "18062523", 
+                "person_url": "https://collection.cooperhewitt.org/people/18062523/"
+            }
+        ], 
+        "decade": "1970", 
+        "label_text": null, 
+        "woe:country": null, 
+        "dimensions_raw": {
+            "width": [
+                "72.80", 
+                "centimeters"
+            ], 
+            "height": [
+                "103.00", 
+                "centimeters"
+            ]
+        }, 
+        "department_id": "35347493", 
+        "title_raw": "Greeting, poster for the Haizuka Printing House. Second in the series, \"Jesus and Buddha\"", 
+        "justification": "Tanadori Yokoo is widely considered one of the most important Japanese graphic designers to emerge following World War II. Yokoo began his career as a stage designer for avant-garde theater in Tokyo. His early work reflects the influence of Milton Glaser and Seymour Chwast of Push Pin Studios. Yokoo began producing posters in the mid-1960s. Originally trained as a painter, he selected iconic elements from both western and eastern art to create a visual dialogue representing the synthesis of East and West. At a time when American pop artists, such as Andy Warhol and Roy Lichtenstein, were mining commercial art, commenting on mass production, and revitalizing the relevance of fine art in society, Yokoo created his own conversation between mass production and fine art. \nBy the late 1960s, Yokoo became interested in mysticism and psychedelia, which was deepened by a trip to India. While his multilayered graphic work somewhat resembles that of American and English psychedelic graphic designers, his imagery is intensely autobiographical and highly original. Yokoo achieved international recognition demonstrated through his inclusion in the 1968 Word and Image exhibition at MoMA. Four years later, MoMA mounted a monographic exhibition of his work. This was followed by other solo exhibitions at the Museen für Kunst und Gewerbe in Hamburg (1973) and the Stedelijk Museum Amsterdam (1974). In 1981, Yokoo gave up commercial work to concentrate on painting, which he continues today along with graphic design. \nIn his posters for the Haizuka Printing house, Yokoo clips iconic figures laden with symbolic content from the history of western art. He juxtaposes instantly recognizable figures from works by Raphael, Titian, and Ingres with Shiva, the Buddha, and Islamic decorative motifs, with startling effect. Most impressive is Yokoo’s adaptation of imagery gathered from the graphic work of the prolific 19th-century French artist, Gustave Doré. Yokoo appropriates significant elements from Doré’s illustrations for Dante’s Divine Comedy, including the floating figures of Paulo and Francesca (1857) as well as spectral angel figures from Doré’s illustrations for Samuel Coleridge’s The Rime of the Ancient Mariner (1878). \nAll of Yokoo’s graphic work calls attention to the printed medium—whether a silkscreen overprinting, a lithographic interpretation of an engraving, or simply the reproductive and repetitive nature of the printing process. Along with his counterparts in filmmaking and writing, Akira Kurosawa and Yukio Mishima, respectively, Yokoo has brought a new perspective to contemporary Japanese art. His influence can be seen in the graphic manifestation of manga (Japanese graphic novels) and anime (Japanese animated films).", 
+        "media_id": "35380345", 
+        "description": "Predominantly black poster with the word \"greeting\" in white letters across the top. Featuring central figure of Jesus above smaller figure of Buddha.", 
+        "creditline": "Gift of Sara and Marc Benda", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "1971", 
+        "url": "https://collection.cooperhewitt.org/objects/18731709/", 
+        "type": "poster", 
+        "accession_number": "2009-12-1", 
+        "year_end": 1971, 
+        "signed": null, 
+        "inscribed": null, 
+        "period_id": null, 
+        "year_acquired": "2009", 
+        "woe:country_id": null
+    }
+}

@@ -1,0 +1,147 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": 1990, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": "offset lithograph on white paper", 
+        "tms:id": "201429", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/81956_8bf8293d9adbb7f9_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "81956"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/81956_8bf8293d9adbb7f9_b.jpg", 
+                    "width": 723, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "81956"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/81956_8bf8293d9adbb7f9_d.gif", 
+                    "width": 226, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "81956"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/81956_8bf8293d9adbb7f9_z.jpg", 
+                    "width": 452, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "81956"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/81956_8bf8293d9adbb7f9_n.jpg", 
+                    "width": 226, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "81956"
+                }
+            }, 
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/267872_3797cb0f09630dde_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "0", 
+                    "image_id": "267872"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/267872_3797cb0f09630dde_b.jpg", 
+                    "width": 732, 
+                    "height": 1024, 
+                    "is_primary": "0", 
+                    "image_id": "267872"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/267872_3797cb0f09630dde_d.gif", 
+                    "width": 229, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "267872"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/267872_3797cb0f09630dde_z.jpg", 
+                    "width": 458, 
+                    "height": 640, 
+                    "is_primary": "0", 
+                    "image_id": "267872"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/267872_3797cb0f09630dde_n.jpg", 
+                    "width": 229, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "267872"
+                }
+            }
+        ], 
+        "id": "18652953", 
+        "has_no_known_copyright": null, 
+        "woe:country_name": "Japan", 
+        "dimensions": "102.9 x 72.7 cm (40 1/2 x 28 5/8 in. )", 
+        "title": "Poster, International Design Center Nogoya: Fukuda, 1996", 
+        "provenance": "1996: acquired by Museum", 
+        "participants": [
+            {
+                "person_name": "Unknown donor: unsolicited gift", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35351535/", 
+                "role_id": "35351535", 
+                "role_name": "Donor", 
+                "person_date": "", 
+                "role_display_name": "Donated by", 
+                "person_id": "18050283", 
+                "person_url": "https://collection.cooperhewitt.org/people/18050283/"
+            }, 
+            {
+                "person_name": "Shigeo Fukuda", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "1932 - 2009", 
+                "role_display_name": "Designed by", 
+                "person_id": "18054177", 
+                "person_url": "https://collection.cooperhewitt.org/people/18054177/"
+            }
+        ], 
+        "decade": "1990", 
+        "label_text": null, 
+        "woe:country": "23424856", 
+        "dimensions_raw": {
+            "width": [
+                "72.70", 
+                "centimeters"
+            ], 
+            "height": [
+                "102.90", 
+                "centimeters"
+            ]
+        }, 
+        "department_id": "35347493", 
+        "title_raw": "International Design Center Nogoya: Fukuda", 
+        "justification": null, 
+        "media_id": "35424093", 
+        "description": "White geometric compass on black background.  Right leg of compass is stylized leg of woman in high heels.  Left leg of compass is stylized leg of man in shoes.  Compass drawing heart in red.  Image of logo (bird in profile) in orange and imprinted in orange, next to bird: \"idcN\" at upper left corner.  Blue square with \"International/ Design/ Center/ NAGOYA Inc./\" and some Japanese characters in white at upper right corner.", 
+        "creditline": "Gift of Unknown Donor", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "1996", 
+        "url": "https://collection.cooperhewitt.org/objects/18652953/", 
+        "type": "poster", 
+        "accession_number": "1996-129-6", 
+        "year_end": 2000, 
+        "signed": "Imprinted in white, lower right corner: Designed by Shigeo Fukuda in collaboration with the Toppan Printing Co., Ltd & takeo Co., Ltd.", 
+        "inscribed": null, 
+        "period_id": null, 
+        "year_acquired": "1996", 
+        "woe:country_id": "23424856"
+    }
+}

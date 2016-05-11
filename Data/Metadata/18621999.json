@@ -1,0 +1,137 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": 1980, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": "offset lithograph on white paper", 
+        "tms:id": "185835", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/65020_262692c87a04645f_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "65020"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/65020_262692c87a04645f_b.jpg", 
+                    "width": 618, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "65020"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/65020_262692c87a04645f_d.gif", 
+                    "width": 193, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "65020"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/65020_262692c87a04645f_z.jpg", 
+                    "width": 386, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "65020"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/65020_262692c87a04645f_n.jpg", 
+                    "width": 193, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "65020"
+                }
+            }, 
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/267678_8d1dbf0fb39da4c0_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "0", 
+                    "image_id": "267678"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/267678_8d1dbf0fb39da4c0_b.jpg", 
+                    "width": 629, 
+                    "height": 1024, 
+                    "is_primary": "0", 
+                    "image_id": "267678"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/267678_8d1dbf0fb39da4c0_d.gif", 
+                    "width": 197, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "267678"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/267678_8d1dbf0fb39da4c0_z.jpg", 
+                    "width": 393, 
+                    "height": 640, 
+                    "is_primary": "0", 
+                    "image_id": "267678"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/267678_8d1dbf0fb39da4c0_n.jpg", 
+                    "width": 197, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "267678"
+                }
+            }
+        ], 
+        "id": "18621999", 
+        "has_no_known_copyright": null, 
+        "woe:country_name": "United States", 
+        "dimensions": "H x W: 91.7 x 54.8 cm (36 1/8 x 21 9/16 in.)", 
+        "title": "Poster, Happy Birthday, for I.B.M. Corporation, 1980s", 
+        "provenance": "1987: acquired by Museum", 
+        "participants": [
+            {
+                "person_name": "IBM", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236667/", 
+                "role_id": "35236667", 
+                "role_name": "Client", 
+                "person_date": "USA", 
+                "role_display_name": "Client:", 
+                "person_id": "18041871", 
+                "person_url": "https://collection.cooperhewitt.org/people/18041871/"
+            }
+        ], 
+        "decade": "1980", 
+        "label_text": null, 
+        "woe:country": "23424977", 
+        "dimensions_raw": {
+            "width": [
+                "54.80", 
+                "centimeters"
+            ], 
+            "height": [
+                "91.70", 
+                "centimeters"
+            ]
+        }, 
+        "department_id": "35347493", 
+        "title_raw": "Happy Birthday, for I.B.M. Corporation", 
+        "justification": null, 
+        "media_id": "35424093", 
+        "description": "On a white ground, bordered by gray frame, 1, 2, 4, 3; 1 in green, 2 in purple, 4 in blue, and 3 in yellow, surrounded by colorful streamers and confetti. Lower right, a Charlie Chaplin-like figure holding a red 5 and running away. In black ink: Happy / Birthday, / PC! / Celebrating / five years / of the IBM / Personal / Computer. Lower left, in black: IBM [logo].", 
+        "creditline": null, 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "1980s", 
+        "url": "https://collection.cooperhewitt.org/objects/18621999/", 
+        "type": "poster", 
+        "accession_number": "1987-2-2", 
+        "year_end": 1989, 
+        "signed": null, 
+        "inscribed": null, 
+        "period_id": null, 
+        "year_acquired": "1987", 
+        "woe:country_id": "23424977"
+    }
+}

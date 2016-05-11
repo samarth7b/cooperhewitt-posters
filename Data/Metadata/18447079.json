@@ -1,0 +1,147 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": 1938, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": "lithograph on white wove paper", 
+        "tms:id": "134055", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/65801_3148491de059c355_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "65801"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/65801_3148491de059c355_b.jpg", 
+                    "width": 1024, 
+                    "height": 704, 
+                    "is_primary": "1", 
+                    "image_id": "65801"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/65801_3148491de059c355_d.gif", 
+                    "width": 320, 
+                    "height": 220, 
+                    "is_primary": "1", 
+                    "image_id": "65801"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/65801_3148491de059c355_z.jpg", 
+                    "width": 640, 
+                    "height": 440, 
+                    "is_primary": "1", 
+                    "image_id": "65801"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/65801_3148491de059c355_n.jpg", 
+                    "width": 320, 
+                    "height": 220, 
+                    "is_primary": "1", 
+                    "image_id": "65801"
+                }
+            }, 
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/221436_251777b323dbbb28_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "0", 
+                    "image_id": "221436"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/221436_251777b323dbbb28_b.jpg", 
+                    "width": 1024, 
+                    "height": 714, 
+                    "is_primary": "0", 
+                    "image_id": "221436"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/221436_251777b323dbbb28_d.gif", 
+                    "width": 320, 
+                    "height": 223, 
+                    "is_primary": "0", 
+                    "image_id": "221436"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/221436_251777b323dbbb28_z.jpg", 
+                    "width": 640, 
+                    "height": 446, 
+                    "is_primary": "0", 
+                    "image_id": "221436"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/221436_251777b323dbbb28_n.jpg", 
+                    "width": 320, 
+                    "height": 223, 
+                    "is_primary": "0", 
+                    "image_id": "221436"
+                }
+            }
+        ], 
+        "id": "18447079", 
+        "has_no_known_copyright": null, 
+        "woe:country_name": "United States", 
+        "dimensions": "49.3 x 71 cm (19 7/16 x 27 15/16 in.)", 
+        "title": "Poster, Ringling Brothers and Barnum & Baily Circue - Holidays, ca. 1943", 
+        "provenance": "Mrs. Edward McKnight Kauffer; 1963: acquired by Museum", 
+        "participants": [
+            {
+                "person_name": "Mrs. Edward McKnight Kauffer", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35351535/", 
+                "role_id": "35351535", 
+                "role_name": "Donor", 
+                "person_date": "", 
+                "role_display_name": "Donated by", 
+                "person_id": "18061849", 
+                "person_url": "https://collection.cooperhewitt.org/people/18061849/"
+            }, 
+            {
+                "person_name": "Edward McKnight Kauffer", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "American, active England, 1890–1954", 
+                "role_display_name": "Designed by", 
+                "person_id": "18041923", 
+                "person_url": "https://collection.cooperhewitt.org/people/18041923/"
+            }
+        ], 
+        "decade": "1930", 
+        "label_text": null, 
+        "woe:country": "23424977", 
+        "dimensions_raw": {
+            "width": [
+                "71.00", 
+                "centimeters"
+            ], 
+            "height": [
+                "49.30", 
+                "centimeters"
+            ]
+        }, 
+        "department_id": "35347493", 
+        "title_raw": "Ringling Brothers and Barnum & Baily Circue - Holidays", 
+        "justification": null, 
+        "media_id": "35374607", 
+        "description": "On a black ground, a clown at center with text all over in various colored ink: RINGLING BROS AND BARNUM & BAILE PRESENT / A RADIANT NEW SPECTACLE OF COLOR BEAUTY FUN AND LAUGHTER; “HOLIDAYS” / FESTIVE GAYETY FROM NEW YEAR TO CHRISTMAS / IN GLORIOUS PROCESSIONAL PAGEANTRY / PRODUCED BY JOHN RINGLING NORTH / DESIGNED BY NORMAN BEL GEDDES / STAGED BY JOHN MURRAY ANDERSON; lower left: BUY DEFENSE BONDS *", 
+        "creditline": "Gift of Mrs. E. McKnight Kauffer", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "ca. 1943", 
+        "url": "https://collection.cooperhewitt.org/objects/18447079/", 
+        "type": "poster", 
+        "accession_number": "1963-39-116-b", 
+        "year_end": 1948, 
+        "signed": "Signed in blue ink, lower left: E McKnight Kauffer", 
+        "inscribed": "Printed in black ink, lower left: LITHO. IN U.S.A.", 
+        "period_id": null, 
+        "year_acquired": "1963", 
+        "woe:country_id": "23424977"
+    }
+}

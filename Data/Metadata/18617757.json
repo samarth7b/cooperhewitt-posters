@@ -1,0 +1,137 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": 1978, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": "lithograph on paper", 
+        "tms:id": "177411", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/90455_475041797af74110_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "90455"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/90455_475041797af74110_b.jpg", 
+                    "width": 769, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "90455"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/90455_475041797af74110_d.gif", 
+                    "width": 240, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "90455"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/90455_475041797af74110_z.jpg", 
+                    "width": 481, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "90455"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/90455_475041797af74110_n.jpg", 
+                    "width": 240, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "90455"
+                }
+            }, 
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/206698_ecf6077a898ef3ff_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "0", 
+                    "image_id": "206698"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/206698_ecf6077a898ef3ff_b.jpg", 
+                    "width": 781, 
+                    "height": 1024, 
+                    "is_primary": "0", 
+                    "image_id": "206698"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/206698_ecf6077a898ef3ff_d.gif", 
+                    "width": 244, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "206698"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/206698_ecf6077a898ef3ff_z.jpg", 
+                    "width": 488, 
+                    "height": 640, 
+                    "is_primary": "0", 
+                    "image_id": "206698"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/206698_ecf6077a898ef3ff_n.jpg", 
+                    "width": 244, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "206698"
+                }
+            }
+        ], 
+        "id": "18617757", 
+        "has_no_known_copyright": null, 
+        "woe:country_name": "United States", 
+        "dimensions": "60 x 45.8 cm (23 5/8 x 18 1/16 in.)", 
+        "title": "Poster, Norand / Statement of Design Integrity, 1978", 
+        "provenance": "1981: acquired by Museum", 
+        "participants": [
+            {
+                "person_name": "James Potocki", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "", 
+                "role_display_name": "Designed by", 
+                "person_id": "18535713", 
+                "person_url": "https://collection.cooperhewitt.org/people/18535713/"
+            }
+        ], 
+        "decade": "1970", 
+        "label_text": null, 
+        "woe:country": "23424977", 
+        "dimensions_raw": {
+            "width": [
+                "45.80", 
+                "centimeters"
+            ], 
+            "height": [
+                "60.00", 
+                "centimeters"
+            ]
+        }, 
+        "department_id": "35347493", 
+        "title_raw": "Norand / Statement of Design Integrity", 
+        "justification": null, 
+        "media_id": "35419317", 
+        "description": "On a cream ground, a figure 8 made up of several lines in purple, orange, red, and green. Above in light gray text: NORAND; Statement of Design Integrity; Norand Corporation / 550 Second Street, S.E. / Cedar Rapids, Iowa 52401; Artform by James Potocki ©1978 . Norand Corporation.", 
+        "creditline": "Gift of Various Donors", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "1978", 
+        "url": "https://collection.cooperhewitt.org/objects/18617757/", 
+        "type": "poster", 
+        "accession_number": "1981-29-323", 
+        "year_end": 1978, 
+        "signed": null, 
+        "inscribed": null, 
+        "period_id": null, 
+        "year_acquired": "1981", 
+        "woe:country_id": "23424977"
+    }
+}

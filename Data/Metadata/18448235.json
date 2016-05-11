@@ -1,0 +1,147 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": 1928, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": "lithograph on white wove paper, mounted on board", 
+        "tms:id": "134633", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/65785_16a972748be3338c_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "65785"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/65785_16a972748be3338c_b.jpg", 
+                    "width": 649, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "65785"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/65785_16a972748be3338c_d.gif", 
+                    "width": 203, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "65785"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/65785_16a972748be3338c_z.jpg", 
+                    "width": 405, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "65785"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/65785_16a972748be3338c_n.jpg", 
+                    "width": 203, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "65785"
+                }
+            }, 
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/268479_25cc73377f33131e_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "0", 
+                    "image_id": "268479"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/268479_25cc73377f33131e_b.jpg", 
+                    "width": 645, 
+                    "height": 1024, 
+                    "is_primary": "0", 
+                    "image_id": "268479"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/268479_25cc73377f33131e_d.gif", 
+                    "width": 202, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "268479"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/268479_25cc73377f33131e_z.jpg", 
+                    "width": 403, 
+                    "height": 640, 
+                    "is_primary": "0", 
+                    "image_id": "268479"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/268479_25cc73377f33131e_n.jpg", 
+                    "width": 202, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "268479"
+                }
+            }
+        ], 
+        "id": "18448235", 
+        "has_no_known_copyright": null, 
+        "woe:country_name": "United Kingdom", 
+        "dimensions": "102.7 x 63.9 cm (40 7/16 x 25 3/16 in.)", 
+        "title": "Poster, Whitsuntide Holidays - London's Underground, ca. 1933", 
+        "provenance": "Mrs. Edward McKnight Kauffer; 1963: acquired by Museum", 
+        "participants": [
+            {
+                "person_name": "Mrs. Edward McKnight Kauffer", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35351535/", 
+                "role_id": "35351535", 
+                "role_name": "Donor", 
+                "person_date": "", 
+                "role_display_name": "Donated by", 
+                "person_id": "18061849", 
+                "person_url": "https://collection.cooperhewitt.org/people/18061849/"
+            }, 
+            {
+                "person_name": "Edward McKnight Kauffer", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "American, active England, 1890–1954", 
+                "role_display_name": "Designed by", 
+                "person_id": "18041923", 
+                "person_url": "https://collection.cooperhewitt.org/people/18041923/"
+            }
+        ], 
+        "decade": "1920", 
+        "label_text": null, 
+        "woe:country": "23424975", 
+        "dimensions_raw": {
+            "width": [
+                "63.90", 
+                "centimeters"
+            ], 
+            "height": [
+                "102.70", 
+                "centimeters"
+            ]
+        }, 
+        "department_id": "35347493", 
+        "title_raw": "Whitsuntide Holidays - London's Underground", 
+        "justification": null, 
+        "media_id": "51865797", 
+        "description": "Poster depicts a woman in a pink dress, a man in brown suit, and a child—backs toward the viewer—in blue flying with wings in the sky. Above in brown ink: WHITSUNTIDE; below, in blue outline: HOLIDAY; in pink, black, and light blue: OFF TO THE COUNTRY / BY BUS COACH / TRAIN TRAM. London’s Underground [logo].", 
+        "creditline": "Gift of Mrs. E. McKnight Kauffer", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "ca. 1933", 
+        "url": "https://collection.cooperhewitt.org/objects/18448235/", 
+        "type": "poster", 
+        "accession_number": "1963-39-52", 
+        "year_end": 1938, 
+        "signed": "Signed in blue ink, center right: E McKnight Kauffer", 
+        "inscribed": "Printed in black ink, lower left: 982/1500/4.33.; lower right: VINCENT BROOKS, DAY & SON, LTD. LONDON. W.C.2.", 
+        "period_id": null, 
+        "year_acquired": "1963", 
+        "woe:country_id": "23424975"
+    }
+}

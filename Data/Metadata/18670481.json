@@ -1,0 +1,138 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": 1901, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": "lithograph on paper", 
+        "tms:id": "210658", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/99551_57e505000a049207_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "99551"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/99551_57e505000a049207_b.jpg", 
+                    "width": 677, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "99551"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/99551_57e505000a049207_d.gif", 
+                    "width": 212, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "99551"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/99551_57e505000a049207_z.jpg", 
+                    "width": 423, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "99551"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/99551_57e505000a049207_n.jpg", 
+                    "width": 212, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "99551"
+                }
+            }, 
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/95554_3c2074b3b12f96c6_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "0", 
+                    "image_id": "95554"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/95554_3c2074b3b12f96c6_b.jpg", 
+                    "width": 676, 
+                    "height": 1024, 
+                    "is_primary": "0", 
+                    "image_id": "95554"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/95554_3c2074b3b12f96c6_d.gif", 
+                    "width": 211, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "95554"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/95554_3c2074b3b12f96c6_z.jpg", 
+                    "width": 423, 
+                    "height": 640, 
+                    "is_primary": "0", 
+                    "image_id": "95554"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/95554_3c2074b3b12f96c6_n.jpg", 
+                    "width": 211, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "95554"
+                }
+            }
+        ], 
+        "id": "18670481", 
+        "has_no_known_copyright": null, 
+        "woe:country_name": "United States", 
+        "dimensions": null, 
+        "title": "Poster, United States Shipping Board / Rivets Are Bayonettes, 20th century", 
+        "provenance": "1980: acquired by Museum", 
+        "participants": [
+            {
+                "person_name": "Unknown donor: found in Collection", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35351535/", 
+                "role_id": "35351535", 
+                "role_name": "Donor", 
+                "person_date": "", 
+                "role_display_name": "Donated by", 
+                "person_id": "18053377", 
+                "person_url": "https://collection.cooperhewitt.org/people/18053377/"
+            }, 
+            {
+                "person_name": "J.E. Sheridan", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "", 
+                "role_display_name": "Designed by", 
+                "person_id": "18051005", 
+                "person_url": "https://collection.cooperhewitt.org/people/18051005/"
+            }
+        ], 
+        "decade": "1900", 
+        "label_text": null, 
+        "woe:country": "23424977", 
+        "dimensions_raw": null, 
+        "department_id": "35347493", 
+        "title_raw": "United States Shipping Board / Rivets Are Bayonettes", 
+        "justification": null, 
+        "media_id": "35419317", 
+        "description": null, 
+        "creditline": "Gift of Unknown Donor", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "20th century", 
+        "url": "https://collection.cooperhewitt.org/objects/18670481/", 
+        "type": "poster", 
+        "accession_number": "1980-32-1193", 
+        "year_end": 1980, 
+        "signed": null, 
+        "inscribed": null, 
+        "period_id": null, 
+        "year_acquired": "1980", 
+        "woe:country_id": "23424977"
+    }
+}

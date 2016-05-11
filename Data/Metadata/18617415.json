@@ -1,0 +1,110 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": 1971, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": "screenprint, gloss ink on paper", 
+        "tms:id": "177240", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/80024_022fd2e74d9d2d00_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "80024"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/80024_022fd2e74d9d2d00_b.jpg", 
+                    "width": 651, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "80024"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/80024_022fd2e74d9d2d00_d.gif", 
+                    "width": 203, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "80024"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/80024_022fd2e74d9d2d00_z.jpg", 
+                    "width": 407, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "80024"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/80024_022fd2e74d9d2d00_n.jpg", 
+                    "width": 203, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "80024"
+                }
+            }
+        ], 
+        "id": "18617415", 
+        "has_no_known_copyright": null, 
+        "woe:country_name": "United States", 
+        "dimensions": "H x W: 100.5 × 63.7 cm (39 9/16 × 25 1/16 in.)", 
+        "title": "Poster, Summer Picnic, 1971", 
+        "provenance": "1981: acquired by Museum", 
+        "participants": [
+            {
+                "person_name": "Stephen Frykholm", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "American, b. 1942", 
+                "role_display_name": "Designed by", 
+                "person_id": "18042365", 
+                "person_url": "https://collection.cooperhewitt.org/people/18042365/"
+            }, 
+            {
+                "person_name": "Herman Miller Furniture Company", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236667/", 
+                "role_id": "35236667", 
+                "role_name": "Client", 
+                "person_date": "Zeeland, Michigan, USA", 
+                "role_display_name": "Client:", 
+                "person_id": "18049013", 
+                "person_url": "https://collection.cooperhewitt.org/people/18049013/"
+            }
+        ], 
+        "decade": "1970", 
+        "label_text": "This poster celebrates a summer party organized by the furniture manufacturer Herman Miller. The enlarged detail of a watermelon slice becomes a flat graphic element, rendered in the spirit of pop.", 
+        "woe:country": "23424977", 
+        "dimensions_raw": {
+            "width": [
+                "63.80", 
+                "centimeters"
+            ], 
+            "height": [
+                "100.70", 
+                "centimeters"
+            ]
+        }, 
+        "department_id": "35347493", 
+        "title_raw": "Summer Picnic", 
+        "justification": null, 
+        "media_id": "68249125", 
+        "description": "Poster depicts a close-up cropped view of a slice of watermelon with large black seeds and bright green rind. Text in black: herman miller summer picnic  august 20, 1971.", 
+        "creditline": "Gift of Various Donors", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "1971", 
+        "url": "https://collection.cooperhewitt.org/objects/18617415/", 
+        "type": "poster", 
+        "accession_number": "1981-29-172", 
+        "year_end": 1971, 
+        "signed": null, 
+        "inscribed": null, 
+        "period_id": null, 
+        "year_acquired": "1981", 
+        "woe:country_id": "23424977"
+    }
+}

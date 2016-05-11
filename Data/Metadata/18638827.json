@@ -1,0 +1,187 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": "With raised flags and soaring spirits, soldiers, sailors, workers, and peasants rally together in this Soviet poster by Nikolai Kogout. United, they celebrate May first, International Workers’ Day. Conceived as a labor strike for an eight-hour workday, the holiday was adopted by Soviet leaders to commemorate the struggle of proletarian workers around the world. Lenin described it as a day for them to celebrate \"their solidarity in the struggle against all coercion and oppression of man by man, the struggle to free the toiling millions from hunger, poverty, and humiliation.\" In Kogout’s poster, this empowerment is palpable. Demonstrators shout and gesture with zeal, looking up, as if toward a bright future. New factories thrust skyward in sharp, vertical lines. These buildings jut out at odd angles, without realistic perspective or scaling. To capture the holiday’s heady optimism, Kogout abandons the mundane realism of the everyday, veering instead into abstraction. Drawing on the geometric vocabulary of the Russian avant-garde, he presents a crisp new world, nearly within reach.", 
+        "year_start": 1910, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": "color lithograph on newsprint", 
+        "tms:id": "194274", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/51432_749df5f1d1d472d8_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "51432"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/51432_749df5f1d1d472d8_b.jpg", 
+                    "width": 766, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "51432"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/51432_749df5f1d1d472d8_d.gif", 
+                    "width": 239, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "51432"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/51432_749df5f1d1d472d8_z.jpg", 
+                    "width": 478, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "51432"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/51432_749df5f1d1d472d8_n.jpg", 
+                    "width": 239, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "51432"
+                }
+            }, 
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/267119_593c184edc591101_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "0", 
+                    "image_id": "267119"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/267119_593c184edc591101_b.jpg", 
+                    "width": 780, 
+                    "height": 1024, 
+                    "is_primary": "0", 
+                    "image_id": "267119"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/267119_593c184edc591101_d.gif", 
+                    "width": 244, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "267119"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/267119_593c184edc591101_z.jpg", 
+                    "width": 487, 
+                    "height": 640, 
+                    "is_primary": "0", 
+                    "image_id": "267119"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/267119_593c184edc591101_n.jpg", 
+                    "width": 244, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "267119"
+                }
+            }
+        ], 
+        "id": "18638827", 
+        "has_no_known_copyright": null, 
+        "woe:country_name": "Russia", 
+        "dimensions": "71 x 53.6 cm (27 15/16 x 21 1/8 in.)", 
+        "title": "Poster, The First Day of May, ca. 1920", 
+        "provenance": null, 
+        "participants": [
+            {
+                "person_name": "Ms. Svetlana Aronov", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35352249/", 
+                "role_id": "35352249", 
+                "role_name": "Vendor", 
+                "person_date": "", 
+                "role_display_name": "Purchased from", 
+                "person_id": "18041165", 
+                "person_url": "https://collection.cooperhewitt.org/people/18041165/"
+            }, 
+            {
+                "person_name": "Karin Zonis", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35352245/", 
+                "role_id": "35352245", 
+                "role_name": "Cataloguer", 
+                "person_date": "", 
+                "role_display_name": "Catalogued by", 
+                "person_id": "51676457", 
+                "person_url": "https://collection.cooperhewitt.org/people/51676457/"
+            }, 
+            {
+                "person_name": "Megan L. Smith", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35352245/", 
+                "role_id": "35352245", 
+                "role_name": "Cataloguer", 
+                "person_date": "", 
+                "role_display_name": "Catalogued by", 
+                "person_id": "18047443", 
+                "person_url": "https://collection.cooperhewitt.org/people/18047443/"
+            }, 
+            {
+                "person_name": "Marilyn Symmes", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35352245/", 
+                "role_id": "35352245", 
+                "role_name": "Cataloguer", 
+                "person_date": "", 
+                "role_display_name": "Catalogued by", 
+                "person_id": "18047461", 
+                "person_url": "https://collection.cooperhewitt.org/people/18047461/"
+            }, 
+            {
+                "person_name": "MB", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35352245/", 
+                "role_id": "35352245", 
+                "role_name": "Cataloguer", 
+                "person_date": "", 
+                "role_display_name": "Catalogued by", 
+                "person_id": "18048525", 
+                "person_url": "https://collection.cooperhewitt.org/people/18048525/"
+            }, 
+            {
+                "person_name": "Nikolai Kogout", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "1891–1959", 
+                "role_display_name": "Designed by", 
+                "person_id": "18043065", 
+                "person_url": "https://collection.cooperhewitt.org/people/18043065/"
+            }
+        ], 
+        "decade": "1910", 
+        "label_text": null, 
+        "woe:country": "23424936", 
+        "dimensions_raw": {
+            "width": [
+                "53.60", 
+                "centimeters"
+            ], 
+            "height": [
+                "71.00", 
+                "centimeters"
+            ]
+        }, 
+        "department_id": "35347493", 
+        "title_raw": "The First Day of May", 
+        "justification": null, 
+        "media_id": "35519939", 
+        "description": "Poster depicting a group of overlapping figures and buildings in red, brown, green and yellow. The figures include soldiers and workers carrying red banner. Title imprinted in red at the bottom of the image, along with three columns of stanzas in brown ink.", 
+        "creditline": "Museum purchase through gift of Mrs. John Innes Kane", 
+        "on_display": null, 
+        "markings": "Marked in graphite, lower left: N. Koroyt [not signature]", 
+        "is_loan_object": 0, 
+        "date": "ca. 1920", 
+        "url": "https://collection.cooperhewitt.org/objects/18638827/", 
+        "type": "poster", 
+        "accession_number": "1992-123-3", 
+        "year_end": 1930, 
+        "signed": null, 
+        "inscribed": "Imprinted in brown ink, upper and lower margins, publisher information", 
+        "period_id": null, 
+        "year_acquired": "1992", 
+        "woe:country_id": "23424936"
+    }
+}

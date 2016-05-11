@@ -1,0 +1,120 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": "Edward McKnight Kauffer, a pioneer in modern advertising design, was commissioned by Nelson A. Rockefeller of the Office of Inter-American Affairs to create posters for Latin America. The purpose of these posters was to persuade Latin American opinion against the Axis powers of WWII, in order to increase solidarity of the Western hemisphere. The image of the white Latin cross represents the Freedom of Religion, one of Franklin D. Roosevelt’s four freedoms, stated to the United States Congress in January, 1941.", 
+        "year_start": 1947, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": "offset lithograph on off-white wove paper", 
+        "tms:id": "134141", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/64313_cd402645cef12496_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "64313"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/64313_cd402645cef12496_b.jpg", 
+                    "width": 732, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "64313"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/64313_cd402645cef12496_d.gif", 
+                    "width": 229, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "64313"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/64313_cd402645cef12496_z.jpg", 
+                    "width": 457, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "64313"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/64313_cd402645cef12496_n.jpg", 
+                    "width": 229, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "64313"
+                }
+            }
+        ], 
+        "id": "18447251", 
+        "has_no_known_copyright": null, 
+        "woe:country_name": "United States", 
+        "dimensions": "H x W: 50.6 × 36.2 cm (19 15/16 × 14 1/4 in.)", 
+        "title": "Poster, Libertad de Cultos (Freedom of Worship), 1947", 
+        "provenance": "Mrs. E. McKnight Kauffer; 1963: acquired by Museum", 
+        "participants": [
+            {
+                "person_name": "Mrs. Edward McKnight Kauffer", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35351535/", 
+                "role_id": "35351535", 
+                "role_name": "Donor", 
+                "person_date": "", 
+                "role_display_name": "Donated by", 
+                "person_id": "18061849", 
+                "person_url": "https://collection.cooperhewitt.org/people/18061849/"
+            }, 
+            {
+                "person_name": "Edward McKnight Kauffer", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "American, active England, 1890–1954", 
+                "role_display_name": "Designed by", 
+                "person_id": "18041923", 
+                "person_url": "https://collection.cooperhewitt.org/people/18041923/"
+            }, 
+            {
+                "person_name": "Office of War Information", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236667/", 
+                "role_id": "35236667", 
+                "role_name": "Client", 
+                "person_date": "Washington, DC, USA", 
+                "role_display_name": "Client:", 
+                "person_id": "51676657", 
+                "person_url": "https://collection.cooperhewitt.org/people/51676657/"
+            }
+        ], 
+        "decade": "1940", 
+        "label_text": "The Office of War Information (OWI) was established by President Franklin D. Roosevelt on June 13, 1942. The OWI employed dramatic storytelling to stir the emotions of citizens who were wary of US intervention in the war. Posters published by the OWI addressed numerous themes, from religious freedom to buying war bonds. They were published both in the United States and abroad, as in this Spanish-language poster.", 
+        "woe:country": "23424977", 
+        "dimensions_raw": {
+            "width": [
+                "36.00", 
+                "centimeters"
+            ], 
+            "height": [
+                "50.60", 
+                "centimeters"
+            ]
+        }, 
+        "department_id": "35347493", 
+        "title_raw": "Libertad de Cultos (Freedom of Worship)", 
+        "justification": null, 
+        "media_id": "35421153", 
+        "description": "Before a Latin Cross a sword thrusts through a shredded Nazi flag. Background a deep blue and brown earth is suggested along lower edge. Black text in large caps, top: LIBERTAD/ DE/ CULTOS (Freedom of Worship); Yellow text in small caps, bottom: UNA DE LAS CUATRO LIBERTADES/ POR LAS QUE LUCHAN LOS ALIADOS (One of the freedoms/ for which the allies fight).", 
+        "creditline": "Gift of Mrs. E. McKnight Kauffer", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "1947", 
+        "url": "https://collection.cooperhewitt.org/objects/18447251/", 
+        "type": "poster", 
+        "accession_number": "1963-39-129", 
+        "year_end": 1947, 
+        "signed": "Imprinted lower right: E.McKnight-Kauffer / '42", 
+        "inscribed": "Imprinted in orange across lower section: UNA DE LAS CUATRO LIBERTADES / POR LAS QUE LUCHAN LOS ALIADOS", 
+        "period_id": "35417341", 
+        "year_acquired": "1963", 
+        "woe:country_id": "23424977"
+    }
+}

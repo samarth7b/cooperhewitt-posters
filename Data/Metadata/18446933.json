@@ -1,0 +1,161 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": 1910, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": "offset lithograph on paper, lined", 
+        "tms:id": "133982", 
+        "images": [
+            {
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/64289_7161b20f971b5aec_b.jpg", 
+                    "width": 696, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "64289"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/64289_7161b20f971b5aec_d.gif", 
+                    "width": 218, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "64289"
+                }, 
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/64289_7161b20f971b5aec_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "64289"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/64289_7161b20f971b5aec_n.jpg", 
+                    "width": 218, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "64289"
+                }, 
+                "x": {
+                    "url": "https://images.collection.cooperhewitt.org/64289_9f5e5cc7fc1cd803_x.jpg", 
+                    "width": 2784, 
+                    "height": 4096, 
+                    "is_primary": "1", 
+                    "image_id": "64289"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/64289_7161b20f971b5aec_z.jpg", 
+                    "width": 435, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "64289"
+                }
+            }, 
+            {
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/254827_e91f8a0c41f6ffe1_b.jpg", 
+                    "width": 687, 
+                    "height": 1024, 
+                    "is_primary": "0", 
+                    "image_id": "254827"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/254827_e91f8a0c41f6ffe1_d.gif", 
+                    "width": 215, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "254827"
+                }, 
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/254827_e91f8a0c41f6ffe1_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "0", 
+                    "image_id": "254827"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/254827_e91f8a0c41f6ffe1_n.jpg", 
+                    "width": 215, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "254827"
+                }, 
+                "x": {
+                    "url": "https://images.collection.cooperhewitt.org/254827_ce0013ae24a19f48_x.jpg", 
+                    "width": 2747, 
+                    "height": 4096, 
+                    "is_primary": "0", 
+                    "image_id": "254827"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/254827_e91f8a0c41f6ffe1_z.jpg", 
+                    "width": 429, 
+                    "height": 640, 
+                    "is_primary": "0", 
+                    "image_id": "254827"
+                }
+            }
+        ], 
+        "id": "18446933", 
+        "has_no_known_copyright": "1", 
+        "woe:country_name": "United Kingdom", 
+        "dimensions": "76.7 x 50.7 cm (30 3/16 x 19 15/16 in.)", 
+        "title": "Poster, Guns By Wyndham Lewis, 1910s", 
+        "provenance": "Mrs. E. McKnight Kauffer; 1963: acquired by Museum", 
+        "participants": [
+            {
+                "person_name": "Wyndham Lewis", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236565/", 
+                "role_id": "35236565", 
+                "role_name": "Artist", 
+                "person_date": "English, 1882–1957", 
+                "role_display_name": "", 
+                "person_id": "51685451", 
+                "person_url": "https://collection.cooperhewitt.org/people/51685451/"
+            }, 
+            {
+                "person_name": "Mrs. Edward McKnight Kauffer", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35351535/", 
+                "role_id": "35351535", 
+                "role_name": "Donor", 
+                "person_date": "", 
+                "role_display_name": "Donated by", 
+                "person_id": "18061849", 
+                "person_url": "https://collection.cooperhewitt.org/people/18061849/"
+            }
+        ], 
+        "decade": "1910", 
+        "label_text": null, 
+        "woe:country": "23424975", 
+        "dimensions_raw": {
+            "width": [
+                "50.70", 
+                "centimeters"
+            ], 
+            "height": [
+                "76.70", 
+                "centimeters"
+            ]
+        }, 
+        "department_id": "35347493", 
+        "title_raw": "Guns By Wyndham Lewis", 
+        "justification": null, 
+        "media_id": "51685923", 
+        "description": "On a beige ground, in upper left, a sea captain and his first mate [?] or navy men—depicted in thick black brushstrokes—sit on some kind of platform. Taking up most of the space is text is bold black letters: GUNS / BY / WYNDHAM LEWIS / AT THE / GOUPIL GALLERY / 5, REGENT STREET / S.W.1. / 1/3 (with tax) / 10-5.", 
+        "creditline": "Gift of Mrs. E. McKnight Kauffer", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "1910s", 
+        "url": "https://collection.cooperhewitt.org/objects/18446933/", 
+        "type": "poster", 
+        "accession_number": "1963-39-11", 
+        "year_end": 1919, 
+        "signed": "Signature printed in black ink, upper left margin: W.Lewis", 
+        "inscribed": "Printed in black ink, lower right: Vincent Brocks Day & Son Ltd. Lith. London. W.C.", 
+        "period_id": null, 
+        "year_acquired": "1963", 
+        "woe:country_id": "23424975"
+    }
+}

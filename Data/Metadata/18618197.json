@@ -1,0 +1,167 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": 1972, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": "offset lithograph on white wove paper", 
+        "tms:id": "177632", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/9140_a92201f2aa2a98be_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "9140"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/9140_a92201f2aa2a98be_b.jpg", 
+                    "width": 688, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "9140"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/9140_a92201f2aa2a98be_d.gif", 
+                    "width": 215, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "9140"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/9140_a92201f2aa2a98be_z.jpg", 
+                    "width": 430, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "9140"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/9140_a92201f2aa2a98be_n.jpg", 
+                    "width": 215, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "9140"
+                }
+            }, 
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/103371_6f0e444c47eaaf9b_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "0", 
+                    "image_id": "103371"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/103371_6f0e444c47eaaf9b_b.jpg", 
+                    "width": 688, 
+                    "height": 1024, 
+                    "is_primary": "0", 
+                    "image_id": "103371"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/103371_6f0e444c47eaaf9b_d.gif", 
+                    "width": 215, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "103371"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/103371_6f0e444c47eaaf9b_z.jpg", 
+                    "width": 430, 
+                    "height": 640, 
+                    "is_primary": "0", 
+                    "image_id": "103371"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/103371_6f0e444c47eaaf9b_n.jpg", 
+                    "width": 215, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "103371"
+                }
+            }
+        ], 
+        "id": "18618197", 
+        "has_no_known_copyright": null, 
+        "woe:country_name": "United States", 
+        "dimensions": "H x W: 91.6 × 61.1 cm (36 1/16 × 24 1/16 in.)", 
+        "title": "Poster, The Invisible City, 1972", 
+        "provenance": "1981: acquired by Museum", 
+        "participants": [
+            {
+                "person_name": "Chermayeff & Geismar Associates", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "New York, New York, USA", 
+                "role_display_name": "Designed by", 
+                "person_id": "18053275", 
+                "person_url": "https://collection.cooperhewitt.org/people/18053275/"
+            }, 
+            {
+                "person_name": "Chermayeff & Geismar Associates", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35351535/", 
+                "role_id": "35351535", 
+                "role_name": "Donor", 
+                "person_date": "New York, New York, USA", 
+                "role_display_name": "Donated by", 
+                "person_id": "18053275", 
+                "person_url": "https://collection.cooperhewitt.org/people/18053275/"
+            }, 
+            {
+                "person_name": "International Design Conference", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236675/", 
+                "role_id": "35236675", 
+                "role_name": "For", 
+                "person_date": "Aspen, Colorado, USA", 
+                "role_display_name": "Made for", 
+                "person_id": "18048477", 
+                "person_url": "https://collection.cooperhewitt.org/people/18048477/"
+            }, 
+            {
+                "person_name": "Ivan Chermayeff", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "English, b. 1932", 
+                "role_display_name": "Designed by", 
+                "person_id": "18042085", 
+                "person_url": "https://collection.cooperhewitt.org/people/18042085/"
+            }
+        ], 
+        "decade": "1970", 
+        "label_text": "Chermayeff’s famous poster uses a system of found typography to represent an international conference of designers.", 
+        "woe:country": "23424977", 
+        "dimensions_raw": {
+            "width": [
+                "61.00", 
+                "centimeters"
+            ], 
+            "height": [
+                "91.40", 
+                "centimeters"
+            ]
+        }, 
+        "department_id": "35347493", 
+        "title_raw": "The Invisible City", 
+        "justification": null, 
+        "media_id": "35431673", 
+        "description": "Rows of airline luggage tags from airports around the world from ABJ (Abidjan, Ivory Coast), at upper left, to WAW (Warsaw), at lower right.  Text at bottom begins:  \"Airports are a link to the peace and places of the world. . .\" and is followed by a key to the airport codes on the tags above.", 
+        "creditline": "Gift of Chermayeff and Geismar Associates", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "1972", 
+        "url": "https://collection.cooperhewitt.org/objects/18618197/", 
+        "type": "poster", 
+        "accession_number": "1981-29-59", 
+        "year_end": 1972, 
+        "signed": null, 
+        "inscribed": "Imprinted, lower right (vertically next to WAW label): Ivan Chermayeff; imprinted along bottom edge, lower right, Copyright c 1972 IDCA, International Design Conference in Aspen, The Invisible City.  Champion Paper Javelin Coated Offset/80 lb.", 
+        "period_id": null, 
+        "year_acquired": "1981", 
+        "woe:country_id": "23424977"
+    }
+}

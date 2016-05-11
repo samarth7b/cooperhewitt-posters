@@ -1,0 +1,91 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": 1971, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": null, 
+        "tms:id": "177200", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/255908_1d890a8e2199b5ca_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "255908"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/255908_1d890a8e2199b5ca_b.jpg", 
+                    "width": 699, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "255908"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/255908_1d890a8e2199b5ca_d.gif", 
+                    "width": 218, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "255908"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/255908_1d890a8e2199b5ca_z.jpg", 
+                    "width": 437, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "255908"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/255908_1d890a8e2199b5ca_n.jpg", 
+                    "width": 218, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "255908"
+                }
+            }
+        ], 
+        "id": "18617335", 
+        "has_no_known_copyright": null, 
+        "woe:country_name": "United States", 
+        "dimensions": null, 
+        "title": "Poster, The Book of Posters, 1971", 
+        "provenance": "1981: acquired by Museum", 
+        "participants": [
+            {
+                "person_name": "Peter Max", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "American, b. Germany, 1937", 
+                "role_display_name": "Designed by", 
+                "person_id": "18042345", 
+                "person_url": "https://collection.cooperhewitt.org/people/18042345/"
+            }
+        ], 
+        "decade": "1970", 
+        "label_text": null, 
+        "woe:country": "23424977", 
+        "dimensions_raw": null, 
+        "department_id": "35347493", 
+        "title_raw": "The Book of Posters", 
+        "justification": null, 
+        "media_id": "35371135", 
+        "description": null, 
+        "creditline": "Gift of Various Donors", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "1971", 
+        "url": "https://collection.cooperhewitt.org/objects/18617335/", 
+        "type": "poster", 
+        "accession_number": "1981-29-136", 
+        "year_end": 1971, 
+        "signed": null, 
+        "inscribed": null, 
+        "period_id": null, 
+        "year_acquired": "1981", 
+        "woe:country_id": "23424977"
+    }
+}

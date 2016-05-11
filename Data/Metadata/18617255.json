@@ -1,0 +1,91 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": null, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": null, 
+        "tms:id": "177160", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/268864_ffd186752f832853_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "268864"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/268864_ffd186752f832853_b.jpg", 
+                    "width": 1024, 
+                    "height": 653, 
+                    "is_primary": "1", 
+                    "image_id": "268864"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/268864_ffd186752f832853_d.gif", 
+                    "width": 320, 
+                    "height": 204, 
+                    "is_primary": "1", 
+                    "image_id": "268864"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/268864_ffd186752f832853_z.jpg", 
+                    "width": 640, 
+                    "height": 408, 
+                    "is_primary": "1", 
+                    "image_id": "268864"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/268864_ffd186752f832853_n.jpg", 
+                    "width": 320, 
+                    "height": 204, 
+                    "is_primary": "1", 
+                    "image_id": "268864"
+                }
+            }
+        ], 
+        "id": "18617255", 
+        "has_no_known_copyright": null, 
+        "woe:country_name": "United States", 
+        "dimensions": null, 
+        "title": "Poster, Phillips-Ramsey", 
+        "provenance": "1981: acquired by Museum", 
+        "participants": [
+            {
+                "person_name": "R. Colla", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "", 
+                "role_display_name": "Designed by", 
+                "person_id": "18535535", 
+                "person_url": "https://collection.cooperhewitt.org/people/18535535/"
+            }
+        ], 
+        "decade": null, 
+        "label_text": null, 
+        "woe:country": "23424977", 
+        "dimensions_raw": null, 
+        "department_id": "35347493", 
+        "title_raw": "Phillips-Ramsey", 
+        "justification": null, 
+        "media_id": "35371135", 
+        "description": null, 
+        "creditline": "Gift of Various Donors", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": null, 
+        "url": "https://collection.cooperhewitt.org/objects/18617255/", 
+        "type": "poster", 
+        "accession_number": "1981-29-10", 
+        "year_end": null, 
+        "signed": null, 
+        "inscribed": null, 
+        "period_id": null, 
+        "year_acquired": "1981", 
+        "woe:country_id": "23424977"
+    }
+}

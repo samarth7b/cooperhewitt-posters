@@ -1,0 +1,147 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": 1930, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": "lithograph on paper", 
+        "tms:id": "202496", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/65040_1a4add20f4aaf020_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "65040"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/65040_1a4add20f4aaf020_b.jpg", 
+                    "width": 744, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "65040"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/65040_1a4add20f4aaf020_d.gif", 
+                    "width": 233, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "65040"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/65040_1a4add20f4aaf020_z.jpg", 
+                    "width": 465, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "65040"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/65040_1a4add20f4aaf020_n.jpg", 
+                    "width": 233, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "65040"
+                }
+            }, 
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/252505_6644d391ad28a88e_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "0", 
+                    "image_id": "252505"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/252505_6644d391ad28a88e_b.jpg", 
+                    "width": 741, 
+                    "height": 1024, 
+                    "is_primary": "0", 
+                    "image_id": "252505"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/252505_6644d391ad28a88e_d.gif", 
+                    "width": 232, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "252505"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/252505_6644d391ad28a88e_z.jpg", 
+                    "width": 463, 
+                    "height": 640, 
+                    "is_primary": "0", 
+                    "image_id": "252505"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/252505_6644d391ad28a88e_n.jpg", 
+                    "width": 232, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "252505"
+                }
+            }
+        ], 
+        "id": "18655053", 
+        "has_no_known_copyright": null, 
+        "woe:country_name": "Spain", 
+        "dimensions": "104 x 75.3 cm (40 15/16 x 29 5/8 in.)", 
+        "title": "Poster, Campesino: Ahora que tienes la tierra, escoje entre los dos caminos (Peasant: Now that you have the land, choose between the two routes), 1930s", 
+        "provenance": "1997: acquired by Museum", 
+        "participants": [
+            {
+                "person_name": "Estudios Gráficas Valencia", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236673/", 
+                "role_id": "35236673", 
+                "role_name": "Printer", 
+                "person_date": "", 
+                "role_display_name": "Printed by", 
+                "person_id": "68735279", 
+                "person_url": "https://collection.cooperhewitt.org/people/68735279/"
+            }, 
+            {
+                "person_name": "William P. Mangold", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35351535/", 
+                "role_id": "35351535", 
+                "role_name": "Donor", 
+                "person_date": "", 
+                "role_display_name": "Donated by", 
+                "person_id": "18049663", 
+                "person_url": "https://collection.cooperhewitt.org/people/18049663/"
+            }
+        ], 
+        "decade": "1930", 
+        "label_text": null, 
+        "woe:country": "23424950", 
+        "dimensions_raw": {
+            "width": [
+                "75.30", 
+                "centimeters"
+            ], 
+            "height": [
+                "104.00", 
+                "centimeters"
+            ]
+        }, 
+        "department_id": "35347493", 
+        "title_raw": "Campesino: Ahora que tienes la tierra, escoje entre los dos caminos (Peasant: Now that you have the land, choose between the two routes)", 
+        "justification": null, 
+        "media_id": "35419317", 
+        "description": "Spanish Civil War poster. On a red and white gradient ground, two close-ups of black and white photographs of a man plowing with two donkeys, and another featuring a man on a tractor in a field. Above, white and black text: CAMPESINO / AHORA QUE TIENES LA TIERRA, (Peasant: Now that you have the land); below in black and red text: ESCOJE / ENTRE LOS 2 / CAMINOS (choose between the two routes); las / granjas-escuela / y la catedra-ambulante / de agricultura / te capacitaron / para tu / liberacion.", 
+        "creditline": "Gift of William P. Mangold", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "1930s", 
+        "url": "https://collection.cooperhewitt.org/objects/18655053/", 
+        "type": "poster", 
+        "accession_number": "1997-21-6", 
+        "year_end": 1939, 
+        "signed": null, 
+        "inscribed": "Printed in black ink, lower right: “GRAFICAS VALENCIA” intervenido U.G.T.-C.N.T.; lower left, symbol for: INSTITUTO DE REFORMA AGRARIA", 
+        "period_id": null, 
+        "year_acquired": "1997", 
+        "woe:country_id": "23424950"
+    }
+}

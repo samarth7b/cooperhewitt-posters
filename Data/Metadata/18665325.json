@@ -1,0 +1,147 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": 1993, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": "screenprint on paper", 
+        "tms:id": "208030", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/64742_dade30ef75f31d55_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "64742"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/64742_dade30ef75f31d55_b.jpg", 
+                    "width": 615, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "64742"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/64742_dade30ef75f31d55_d.gif", 
+                    "width": 192, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "64742"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/64742_dade30ef75f31d55_z.jpg", 
+                    "width": 384, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "64742"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/64742_dade30ef75f31d55_n.jpg", 
+                    "width": 192, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "64742"
+                }
+            }, 
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/203641_9f3f4fafb91475a3_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "0", 
+                    "image_id": "203641"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/203641_9f3f4fafb91475a3_b.jpg", 
+                    "width": 639, 
+                    "height": 1024, 
+                    "is_primary": "0", 
+                    "image_id": "203641"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/203641_9f3f4fafb91475a3_d.gif", 
+                    "width": 200, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "203641"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/203641_9f3f4fafb91475a3_z.jpg", 
+                    "width": 399, 
+                    "height": 640, 
+                    "is_primary": "0", 
+                    "image_id": "203641"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/203641_9f3f4fafb91475a3_n.jpg", 
+                    "width": 200, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "203641"
+                }
+            }
+        ], 
+        "id": "18665325", 
+        "has_no_known_copyright": null, 
+        "woe:country_name": "United States", 
+        "dimensions": "(irregular): 90 x 65 cm (35 7/16 x 25 9/16 in.)", 
+        "title": "Poster, \"Booo Studio / Outlet\" for Digital Mafia, 1993", 
+        "provenance": "1997: acquired by Museum", 
+        "participants": [
+            {
+                "person_name": "Stereotype", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35351535/", 
+                "role_id": "35351535", 
+                "role_name": "Donor", 
+                "person_date": "", 
+                "role_display_name": "Donated by", 
+                "person_id": "18051333", 
+                "person_url": "https://collection.cooperhewitt.org/people/18051333/"
+            }, 
+            {
+                "person_name": "Ebon Heath", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "", 
+                "role_display_name": "Designed by", 
+                "person_id": "18051015", 
+                "person_url": "https://collection.cooperhewitt.org/people/18051015/"
+            }
+        ], 
+        "decade": "1990", 
+        "label_text": null, 
+        "woe:country": "23424977", 
+        "dimensions_raw": {
+            "width": [
+                "65.00", 
+                "centimeters"
+            ], 
+            "height": [
+                "90.00", 
+                "centimeters"
+            ]
+        }, 
+        "department_id": "35347493", 
+        "title_raw": "\"Booo Studio / Outlet\" for Digital Mafia", 
+        "justification": null, 
+        "media_id": "35431679", 
+        "description": "Rectangular poster with projected arrows. In black text: OUTLET; Above: booo! / studio-gallery; may 29 thru june, 19-9D3", 
+        "creditline": "Gift of Stereotype", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "1993", 
+        "url": "https://collection.cooperhewitt.org/objects/18665325/", 
+        "type": "poster", 
+        "accession_number": "1997-177-1", 
+        "year_end": 1993, 
+        "signed": null, 
+        "inscribed": null, 
+        "period_id": null, 
+        "year_acquired": "1997", 
+        "woe:country_id": "23424977"
+    }
+}

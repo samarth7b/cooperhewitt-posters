@@ -1,0 +1,91 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": 1973, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": null, 
+        "tms:id": "177563", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/255524_8ef0760997fd16bc_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "255524"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/255524_8ef0760997fd16bc_b.jpg", 
+                    "width": 706, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "255524"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/255524_8ef0760997fd16bc_d.gif", 
+                    "width": 221, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "255524"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/255524_8ef0760997fd16bc_z.jpg", 
+                    "width": 441, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "255524"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/255524_8ef0760997fd16bc_n.jpg", 
+                    "width": 221, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "255524"
+                }
+            }
+        ], 
+        "id": "18618059", 
+        "has_no_known_copyright": null, 
+        "woe:country_name": "United States", 
+        "dimensions": null, 
+        "title": "Poster, Hungary, 1973", 
+        "provenance": "1981: acquired by Museum", 
+        "participants": [
+            {
+                "person_name": "Bobbye Cochran", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "", 
+                "role_display_name": "Designed by", 
+                "person_id": "18051063", 
+                "person_url": "https://collection.cooperhewitt.org/people/18051063/"
+            }
+        ], 
+        "decade": "1970", 
+        "label_text": null, 
+        "woe:country": "23424977", 
+        "dimensions_raw": null, 
+        "department_id": "35347493", 
+        "title_raw": "Hungary", 
+        "justification": null, 
+        "media_id": "35371135", 
+        "description": null, 
+        "creditline": "Gift of Various Donors", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "1973", 
+        "url": "https://collection.cooperhewitt.org/objects/18618059/", 
+        "type": "poster", 
+        "accession_number": "1981-29-46", 
+        "year_end": 1973, 
+        "signed": null, 
+        "inscribed": null, 
+        "period_id": null, 
+        "year_acquired": "1981", 
+        "woe:country_id": "23424977"
+    }
+}

@@ -1,0 +1,100 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": 1989, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": null, 
+        "tms:id": "202696", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/268835_6bd3fc15becd0d16_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "268835"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/268835_6bd3fc15becd0d16_b.jpg", 
+                    "width": 820, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "268835"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/268835_6bd3fc15becd0d16_d.gif", 
+                    "width": 256, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "268835"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/268835_6bd3fc15becd0d16_z.jpg", 
+                    "width": 513, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "268835"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/268835_6bd3fc15becd0d16_n.jpg", 
+                    "width": 256, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "268835"
+                }
+            }
+        ], 
+        "id": "18655439", 
+        "has_no_known_copyright": null, 
+        "dimensions": null, 
+        "title": "Poster, \"Photography Month in Michigan/ Celebrating 150 Years of Photography\", October 1989", 
+        "provenance": null, 
+        "participants": [
+            {
+                "person_name": "Katherine McCoy", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "American, b. 1945", 
+                "role_display_name": "Designed by", 
+                "person_id": "18042311", 
+                "person_url": "https://collection.cooperhewitt.org/people/18042311/"
+            }, 
+            {
+                "person_name": "Katherine McCoy", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35351535/", 
+                "role_id": "35351535", 
+                "role_name": "Donor", 
+                "person_date": "American, b. 1945", 
+                "role_display_name": "Donated by", 
+                "person_id": "18042311", 
+                "person_url": "https://collection.cooperhewitt.org/people/18042311/"
+            }
+        ], 
+        "decade": "1980", 
+        "label_text": null, 
+        "woe:country": null, 
+        "dimensions_raw": null, 
+        "department_id": "35347493", 
+        "title_raw": "\"Photography Month in Michigan/ Celebrating 150 Years of Photography\"", 
+        "justification": null, 
+        "media_id": "35371135", 
+        "description": null, 
+        "creditline": "Gift of Katherine McCoy", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "October 1989", 
+        "url": "https://collection.cooperhewitt.org/objects/18655439/", 
+        "type": "poster", 
+        "accession_number": "1997-57-2", 
+        "year_end": 1989, 
+        "signed": null, 
+        "inscribed": null, 
+        "period_id": null, 
+        "year_acquired": "1997", 
+        "woe:country_id": null
+    }
+}

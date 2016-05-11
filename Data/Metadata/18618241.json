@@ -1,0 +1,138 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": 1977, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": null, 
+        "tms:id": "177654", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/33209_b537d41f50bf28a7_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "33209"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/33209_b537d41f50bf28a7_b.jpg", 
+                    "width": 718, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "33209"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/33209_b537d41f50bf28a7_d.gif", 
+                    "width": 224, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "33209"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/33209_b537d41f50bf28a7_z.jpg", 
+                    "width": 449, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "33209"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/33209_b537d41f50bf28a7_n.jpg", 
+                    "width": 224, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "33209"
+                }
+            }, 
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/254718_d0ded781a2609f6d_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "0", 
+                    "image_id": "254718"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/254718_d0ded781a2609f6d_b.jpg", 
+                    "width": 713, 
+                    "height": 1024, 
+                    "is_primary": "0", 
+                    "image_id": "254718"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/254718_d0ded781a2609f6d_d.gif", 
+                    "width": 223, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "254718"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/254718_d0ded781a2609f6d_z.jpg", 
+                    "width": 445, 
+                    "height": 640, 
+                    "is_primary": "0", 
+                    "image_id": "254718"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/254718_d0ded781a2609f6d_n.jpg", 
+                    "width": 223, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "254718"
+                }
+            }
+        ], 
+        "id": "18618241", 
+        "has_no_known_copyright": null, 
+        "woe:country_name": "United States", 
+        "dimensions": null, 
+        "title": "Poster, Bass on Titles, 1977", 
+        "provenance": "1981: acquired by Museum", 
+        "participants": [
+            {
+                "person_name": "Saul Bass", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "American, 1920–1996", 
+                "role_display_name": "Designed by", 
+                "person_id": "18042343", 
+                "person_url": "https://collection.cooperhewitt.org/people/18042343/"
+            }, 
+            {
+                "person_name": "Saul Bass and Associates", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "American", 
+                "role_display_name": "Designed by", 
+                "person_id": "18055791", 
+                "person_url": "https://collection.cooperhewitt.org/people/18055791/"
+            }
+        ], 
+        "decade": "1970", 
+        "label_text": null, 
+        "woe:country": "23424977", 
+        "dimensions_raw": null, 
+        "department_id": "35347493", 
+        "title_raw": "Bass on Titles", 
+        "justification": null, 
+        "media_id": "35371135", 
+        "description": "Image of multiple film strips line up next to one another with the same repeating image.", 
+        "creditline": "Gift of Various Donors", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "1977", 
+        "url": "https://collection.cooperhewitt.org/objects/18618241/", 
+        "type": "poster", 
+        "accession_number": "1981-29-79", 
+        "year_end": 1977, 
+        "signed": null, 
+        "inscribed": null, 
+        "period_id": null, 
+        "year_acquired": "1981", 
+        "woe:country_id": "23424977"
+    }
+}

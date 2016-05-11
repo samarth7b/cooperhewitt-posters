@@ -1,0 +1,147 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": null, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": "lithograph on paper", 
+        "tms:id": "177418", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/90280_7cdadc671071ec91_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "90280"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/90280_7cdadc671071ec91_b.jpg", 
+                    "width": 772, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "90280"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/90280_7cdadc671071ec91_d.gif", 
+                    "width": 241, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "90280"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/90280_7cdadc671071ec91_z.jpg", 
+                    "width": 483, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "90280"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/90280_7cdadc671071ec91_n.jpg", 
+                    "width": 241, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "90280"
+                }
+            }, 
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/207188_569f24603c6ee6f2_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "0", 
+                    "image_id": "207188"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/207188_569f24603c6ee6f2_b.jpg", 
+                    "width": 783, 
+                    "height": 1024, 
+                    "is_primary": "0", 
+                    "image_id": "207188"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/207188_569f24603c6ee6f2_d.gif", 
+                    "width": 245, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "207188"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/207188_569f24603c6ee6f2_z.jpg", 
+                    "width": 489, 
+                    "height": 640, 
+                    "is_primary": "0", 
+                    "image_id": "207188"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/207188_569f24603c6ee6f2_n.jpg", 
+                    "width": 245, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "207188"
+                }
+            }
+        ], 
+        "id": "18617771", 
+        "has_no_known_copyright": null, 
+        "woe:country_name": "United States", 
+        "dimensions": "61 x 45.7 cm (24 x 18 in.)", 
+        "title": "Poster, Oshkosh / Tales of Survival", 
+        "provenance": "1981: acquired by Museum", 
+        "participants": [
+            {
+                "person_name": "OshkoshB'gosh", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236667/", 
+                "role_id": "35236667", 
+                "role_name": "Client", 
+                "person_date": "", 
+                "role_display_name": "Client:", 
+                "person_id": "68263963", 
+                "person_url": "https://collection.cooperhewitt.org/people/68263963/"
+            }, 
+            {
+                "person_name": "Roger Huyssen", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "", 
+                "role_display_name": "Designed by", 
+                "person_id": "18056979", 
+                "person_url": "https://collection.cooperhewitt.org/people/18056979/"
+            }
+        ], 
+        "decade": null, 
+        "label_text": null, 
+        "woe:country": "23424977", 
+        "dimensions_raw": {
+            "width": [
+                "45.70", 
+                "centimeters"
+            ], 
+            "height": [
+                "61.00", 
+                "centimeters"
+            ]
+        }, 
+        "department_id": "35347493", 
+        "title_raw": "Oshkosh / Tales of Survival", 
+        "justification": null, 
+        "media_id": "35419317", 
+        "description": "Poster designed to look like a book; cover featuring a jungle, an elephant holding a woman in its trunk, an “explorer”, and an erupting volcano in the background. Title in colorful text above: Oshkosh / TALES / OF SURVIVAL. Lower right, band containing text in orange and yellow: OshkoshB’gosh.", 
+        "creditline": "Gift of Various Donors", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": null, 
+        "url": "https://collection.cooperhewitt.org/objects/18617771/", 
+        "type": "poster", 
+        "accession_number": "1981-29-33", 
+        "year_end": null, 
+        "signed": null, 
+        "inscribed": null, 
+        "period_id": null, 
+        "year_acquired": "1981", 
+        "woe:country_id": "23424977"
+    }
+}

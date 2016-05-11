@@ -1,0 +1,187 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": 1935, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": "lithograph mounted on linen", 
+        "tms:id": "134852", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/17852_c1234bd5a6150109_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "17852"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/17852_c1234bd5a6150109_b.jpg", 
+                    "width": 679, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "17852"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/17852_c1234bd5a6150109_d.gif", 
+                    "width": 212, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "17852"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/17852_c1234bd5a6150109_z.jpg", 
+                    "width": 424, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "17852"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/17852_c1234bd5a6150109_n.jpg", 
+                    "width": 212, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "17852"
+                }
+            }, 
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/221463_dbe45a75ffb7d6e3_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "0", 
+                    "image_id": "221463"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/221463_dbe45a75ffb7d6e3_b.jpg", 
+                    "width": 682, 
+                    "height": 1024, 
+                    "is_primary": "0", 
+                    "image_id": "221463"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/221463_dbe45a75ffb7d6e3_d.gif", 
+                    "width": 213, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "221463"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/221463_dbe45a75ffb7d6e3_z.jpg", 
+                    "width": 426, 
+                    "height": 640, 
+                    "is_primary": "0", 
+                    "image_id": "221463"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/221463_dbe45a75ffb7d6e3_n.jpg", 
+                    "width": 213, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "221463"
+                }
+            }
+        ], 
+        "id": "18448673", 
+        "has_no_known_copyright": null, 
+        "woe:country_name": "United Kingdom", 
+        "dimensions": "75.7 x 50.5 cm (29 13/16 x 19 7/8 in.)", 
+        "title": "Poster, Quickest Way by Air Mail, 1935", 
+        "provenance": "Mrs. Edward McKnight Kauffer", 
+        "participants": [
+            {
+                "person_name": "Mrs. Edward McKnight Kauffer", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35351535/", 
+                "role_id": "35351535", 
+                "role_name": "Donor", 
+                "person_date": "", 
+                "role_display_name": "Donated by", 
+                "person_id": "18061849", 
+                "person_url": "https://collection.cooperhewitt.org/people/18061849/"
+            }, 
+            {
+                "person_name": "Richard P. Wunder", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35352245/", 
+                "role_id": "35352245", 
+                "role_name": "Cataloguer", 
+                "person_date": "", 
+                "role_display_name": "Catalogued by", 
+                "person_id": "18054439", 
+                "person_url": "https://collection.cooperhewitt.org/people/18054439/"
+            }, 
+            {
+                "person_name": "Megan L. Smith", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35352245/", 
+                "role_id": "35352245", 
+                "role_name": "Cataloguer", 
+                "person_date": "", 
+                "role_display_name": "Catalogued by", 
+                "person_id": "18047443", 
+                "person_url": "https://collection.cooperhewitt.org/people/18047443/"
+            }, 
+            {
+                "person_name": "Elaine Evans Dee", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35352245/", 
+                "role_id": "35352245", 
+                "role_name": "Cataloguer", 
+                "person_date": "", 
+                "role_display_name": "Catalogued by", 
+                "person_id": "18047437", 
+                "person_url": "https://collection.cooperhewitt.org/people/18047437/"
+            }, 
+            {
+                "person_name": "General Post Office of England", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236667/", 
+                "role_id": "35236667", 
+                "role_name": "Client", 
+                "person_date": "", 
+                "role_display_name": "Client:", 
+                "person_id": "18042601", 
+                "person_url": "https://collection.cooperhewitt.org/people/18042601/"
+            }, 
+            {
+                "person_name": "Edward McKnight Kauffer", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236565/", 
+                "role_id": "35236565", 
+                "role_name": "Artist", 
+                "person_date": "American, active England, 1890–1954", 
+                "role_display_name": "", 
+                "person_id": "18041923", 
+                "person_url": "https://collection.cooperhewitt.org/people/18041923/"
+            }
+        ], 
+        "decade": "1930", 
+        "label_text": null, 
+        "woe:country": "23424975", 
+        "dimensions_raw": {
+            "width": [
+                "50.50", 
+                "centimeters"
+            ], 
+            "height": [
+                "75.70", 
+                "centimeters"
+            ]
+        }, 
+        "department_id": "35347493", 
+        "title_raw": "Quickest Way by Air Mail", 
+        "justification": null, 
+        "media_id": "35421203", 
+        "description": "In upper half of sheet, in heavy black line over angular white shape on a slate-blue ground, the abstract rendering of a bird to resemble paper airplane, topped by two puffy white clouds.  In lower half of sheet, close to left margin, in large black capital letters:  QUICKEST WAY BY/; in large red capital letters:  AIR MAIL/; in smaller slate-blue capital letters:  ASK AT YOUR NEAREST POST OFFICE.", 
+        "creditline": "Gift of Mrs. E. McKnight Kauffer", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "1935", 
+        "url": "https://collection.cooperhewitt.org/objects/18448673/", 
+        "type": "poster", 
+        "accession_number": "1963-39-71", 
+        "year_end": 1935, 
+        "signed": "Signed in black: E McKinight Kauffer 1935 [underlined]", 
+        "inscribed": "Imprinted in black, lower left corner: P.R.D 111.; lower right corner: GPO [encircled], surmounted by crown", 
+        "period_id": null, 
+        "year_acquired": "1963", 
+        "woe:country_id": "23424975"
+    }
+}

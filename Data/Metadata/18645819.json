@@ -1,0 +1,120 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": 1970, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": "lithograph or silkscreen?", 
+        "tms:id": "197813", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/202698_3eb4eae577a1a0fc_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "202698"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/202698_3eb4eae577a1a0fc_b.jpg", 
+                    "width": 679, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "202698"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/202698_3eb4eae577a1a0fc_d.gif", 
+                    "width": 212, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "202698"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/202698_3eb4eae577a1a0fc_z.jpg", 
+                    "width": 424, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "202698"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/202698_3eb4eae577a1a0fc_n.jpg", 
+                    "width": 212, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "202698"
+                }
+            }
+        ], 
+        "id": "18645819", 
+        "has_no_known_copyright": null, 
+        "woe:country_name": "United States", 
+        "dimensions": "48 x 31.1 cm (18 7/8 x 12 1/4 in.)", 
+        "title": "Poster, Power Strike, ca. 1980", 
+        "provenance": "Steven Heller and Karrie Jacobs; 1993: acquired by Museum", 
+        "participants": [
+            {
+                "person_name": "Steven Heller", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35351535/", 
+                "role_id": "35351535", 
+                "role_name": "Donor", 
+                "person_date": "American, b. 1950", 
+                "role_display_name": "Donated by", 
+                "person_id": "18041397", 
+                "person_url": "https://collection.cooperhewitt.org/people/18041397/"
+            }, 
+            {
+                "person_name": "Karrie Jacobs", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35351535/", 
+                "role_id": "35351535", 
+                "role_name": "Donor", 
+                "person_date": "", 
+                "role_display_name": "Donated by", 
+                "person_id": "18056647", 
+                "person_url": "https://collection.cooperhewitt.org/people/18056647/"
+            }, 
+            {
+                "person_name": "LSA", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35352245/", 
+                "role_id": "35352245", 
+                "role_name": "Cataloguer", 
+                "person_date": "", 
+                "role_display_name": "Catalogued by", 
+                "person_id": "18048737", 
+                "person_url": "https://collection.cooperhewitt.org/people/18048737/"
+            }
+        ], 
+        "decade": "1970", 
+        "label_text": null, 
+        "woe:country": "23424977", 
+        "dimensions_raw": {
+            "width": [
+                "31.10", 
+                "centimeters"
+            ], 
+            "height": [
+                "48.00", 
+                "centimeters"
+            ]
+        }, 
+        "department_id": "35347493", 
+        "title_raw": "Power Strike", 
+        "justification": null, 
+        "media_id": "68249647", 
+        "description": "Drawing of gas meter in black on a giant red arrow. In red ink: Freeze Your Bills, Not Your Bones. The energy conservation program Con Ed won't tell you about...After ConEd reads your meter: 1. Turn off Gas A...5. Budget wisely, do without ConEd. Imprinted with stamp: CAUTION always check for gas leaks", 
+        "creditline": "Gift of Steven Heller and Karrie Jacobs", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "ca. 1980", 
+        "url": "https://collection.cooperhewitt.org/objects/18645819/", 
+        "type": "poster", 
+        "accession_number": "1993-53-88", 
+        "year_end": 1990, 
+        "signed": null, 
+        "inscribed": null, 
+        "period_id": null, 
+        "year_acquired": "1993", 
+        "woe:country_id": "23424977"
+    }
+}

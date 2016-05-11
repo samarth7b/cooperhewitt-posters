@@ -1,0 +1,167 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": 1970, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": "offset lithograph on paper", 
+        "tms:id": "193450", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/64108_5cb518887b29a834_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "64108"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/64108_5cb518887b29a834_b.jpg", 
+                    "width": 773, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "64108"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/64108_5cb518887b29a834_d.gif", 
+                    "width": 242, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "64108"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/64108_5cb518887b29a834_z.jpg", 
+                    "width": 483, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "64108"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/64108_5cb518887b29a834_n.jpg", 
+                    "width": 242, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "64108"
+                }
+            }, 
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/203050_b491df8dc793ac20_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "0", 
+                    "image_id": "203050"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/203050_b491df8dc793ac20_b.jpg", 
+                    "width": 781, 
+                    "height": 1024, 
+                    "is_primary": "0", 
+                    "image_id": "203050"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/203050_b491df8dc793ac20_d.gif", 
+                    "width": 244, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "203050"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/203050_b491df8dc793ac20_z.jpg", 
+                    "width": 488, 
+                    "height": 640, 
+                    "is_primary": "0", 
+                    "image_id": "203050"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/203050_b491df8dc793ac20_n.jpg", 
+                    "width": 244, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "203050"
+                }
+            }
+        ], 
+        "id": "18637197", 
+        "has_no_known_copyright": null, 
+        "woe:country_name": "United States", 
+        "dimensions": "51.2 x 38.9 cm (20 3/16 x 15 5/16 in.)", 
+        "title": "Poster, The Rise of an American Architecture, 1970", 
+        "provenance": "1991: acquired by Museum", 
+        "participants": [
+            {
+                "person_name": "Arnold Saks", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35351535/", 
+                "role_id": "35351535", 
+                "role_name": "Donor", 
+                "person_date": "1931", 
+                "role_display_name": "Donated by", 
+                "person_id": "18042309", 
+                "person_url": "https://collection.cooperhewitt.org/people/18042309/"
+            }, 
+            {
+                "person_name": "CGC", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35352245/", 
+                "role_id": "35352245", 
+                "role_name": "Cataloguer", 
+                "person_date": "", 
+                "role_display_name": "Catalogued by", 
+                "person_id": "18048417", 
+                "person_url": "https://collection.cooperhewitt.org/people/18048417/"
+            }, 
+            {
+                "person_name": "Elliot Erwitt", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236565/", 
+                "role_id": "35236565", 
+                "role_name": "Artist", 
+                "person_date": "1928", 
+                "role_display_name": "", 
+                "person_id": "18042321", 
+                "person_url": "https://collection.cooperhewitt.org/people/18042321/"
+            }, 
+            {
+                "person_name": "Arnold Saks", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "1931", 
+                "role_display_name": "Designed by", 
+                "person_id": "18042309", 
+                "person_url": "https://collection.cooperhewitt.org/people/18042309/"
+            }
+        ], 
+        "decade": "1970", 
+        "label_text": null, 
+        "woe:country": "23424977", 
+        "dimensions_raw": {
+            "width": [
+                "38.90", 
+                "centimeters"
+            ], 
+            "height": [
+                "51.20", 
+                "centimeters"
+            ]
+        }, 
+        "department_id": "35347493", 
+        "title_raw": "The Rise of an American Architecture", 
+        "justification": null, 
+        "media_id": "35399021", 
+        "description": "View from below of the Flatiron building in New York City on white background. Imprinted in red ink, upper left: The Rise/of an /American /Architecture; in blue ink, upper center: Now/through/October 4th/1970; in grey ink, upper right: The Metropolitan/Museum of Art/1870/1970. In gray, lower right: Admission / to this exhibition and to / 19th-Century America: / $1.00, students 50©; / free Mondays", 
+        "creditline": "Gift of Arnold Saks", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "1970", 
+        "url": "https://collection.cooperhewitt.org/objects/18637197/", 
+        "type": "poster", 
+        "accession_number": "1991-69-120", 
+        "year_end": 1970, 
+        "signed": null, 
+        "inscribed": "Imprinted, lower left margin: DESIGN: ARNOLD SAKS PHOTO: ELLIOT ERWITT.", 
+        "period_id": null, 
+        "year_acquired": "1991", 
+        "woe:country_id": "23424977"
+    }
+}

@@ -1,0 +1,130 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": 2007, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": "offset lithograph on paper", 
+        "tms:id": "277476", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/94352_821dc2620ffac0af_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "94352"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/94352_821dc2620ffac0af_b.jpg", 
+                    "width": 724, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "94352"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/94352_821dc2620ffac0af_d.gif", 
+                    "width": 226, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "94352"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/94352_821dc2620ffac0af_z.jpg", 
+                    "width": 452, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "94352"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/94352_821dc2620ffac0af_n.jpg", 
+                    "width": 226, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "94352"
+                }
+            }
+        ], 
+        "id": "68731113", 
+        "has_no_known_copyright": null, 
+        "woe:country_name": "Netherlands", 
+        "dimensions": "H x W: 59.5 × 42 cm (23 7/16 × 16 9/16 in.)", 
+        "title": "Poster, Playboy Architecture 1953-1979, 2012", 
+        "provenance": "Experimental Jetset; August 2014: acquired new from the designers by museum", 
+        "participants": [
+            {
+                "person_name": "Danny van den Dungen", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "Dutch, born 1971", 
+                "role_display_name": "Designed by", 
+                "person_id": "68735141", 
+                "person_url": "https://collection.cooperhewitt.org/people/68735141/"
+            }, 
+            {
+                "person_name": "Marieke Stolk", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "Dutch, born 1967", 
+                "role_display_name": "Designed by", 
+                "person_id": "68735139", 
+                "person_url": "https://collection.cooperhewitt.org/people/68735139/"
+            }, 
+            {
+                "person_name": "Erwin Brinkers", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "Dutch, born 1973", 
+                "role_display_name": "Designed by", 
+                "person_id": "68735143", 
+                "person_url": "https://collection.cooperhewitt.org/people/68735143/"
+            }, 
+            {
+                "person_name": "Experimental Jetset", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "Amsterdam, Netherlands, founded 1997", 
+                "role_display_name": "Designed by", 
+                "person_id": "18065251", 
+                "person_url": "https://collection.cooperhewitt.org/people/18065251/"
+            }
+        ], 
+        "decade": "2000", 
+        "label_text": "Experimental Jetset has designed numerous identities, posters, and publications for Bureau Europa, a Dutch architectural institute. Seen together, these posters demonstrate Experimental Jetset’s consistent methodology, applied to subject matter ranging from architecture featured in Playboy magazine to the work of the New Brutalist architects, Alison and Peter Smithson.", 
+        "woe:country": "23424909", 
+        "dimensions_raw": {
+            "width": [
+                "42.00", 
+                "centimeters"
+            ], 
+            "height": [
+                "59.40", 
+                "centimeters"
+            ]
+        }, 
+        "department_id": "35347493", 
+        "title_raw": "Playboy Architecture 1953-1979", 
+        "justification": "In 2012, the design team Experimental Jetset created the graphic identity for the exhibition “Playboy Architecture, 1952-1979” at NAiM / Bureau Europa, an architecture institute in Maastricht, The Netherlands.  The exhibition looked at influence of Playboy Magazine on architecture and design, and was curated by the M+M (Media and Modernity) Program at the Princeton University School of Architecture.  Experimental Jetset took the iconic bunny logo of Playboy and cropped and rotated it, creating a “multi-eyed entity” that alluded to the exhibitions themes.  The designers chose to print some of the text in pink, a reference to the “notion of flesh,” but also “an attempt to somewhat undermine the ‘machismo’ of the subject of the exhibition.  After all,” the designers have noted, “pink is often seen as an effeminate colour.”  The design was altered to suit three different formats: a large, poster screenprinted by Wyber Zeefdruk was used to advertise the exhibition outdoors.  A smaller poster, offset-printed by Lenoirschuring, advertised the exhibition indoors.  A folder pamphlet served as an invitation.", 
+        "media_id": "35399021", 
+        "description": "Square-cropped views of nine black Playboy Bunny heads, rotated at different angles and interspersed with sections of text in pink and black. Top of page reads \"Playboy/Architecture/1953-1979\" in rows of large pink type. Poster advertises exhibition held at NAiM / Bureau Europa.", 
+        "creditline": "Gift of Experimental Jetset", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "2012", 
+        "url": "https://collection.cooperhewitt.org/objects/68731113/", 
+        "type": "poster", 
+        "accession_number": "2015-2-6", 
+        "year_end": 2017, 
+        "signed": null, 
+        "inscribed": null, 
+        "period_id": null, 
+        "year_acquired": "2015", 
+        "woe:country_id": "23424909"
+    }
+}

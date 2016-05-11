@@ -1,0 +1,129 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": 1992, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": "offset lithography on light blue paper", 
+        "tms:id": "208507", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/254222_0b803a88dee8b5aa_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "254222"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/254222_0b803a88dee8b5aa_b.jpg", 
+                    "width": 721, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "254222"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/254222_0b803a88dee8b5aa_d.gif", 
+                    "width": 225, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "254222"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/254222_0b803a88dee8b5aa_z.jpg", 
+                    "width": 451, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "254222"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/254222_0b803a88dee8b5aa_n.jpg", 
+                    "width": 225, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "254222"
+                }
+            }
+        ], 
+        "id": "18666257", 
+        "has_no_known_copyright": null, 
+        "dimensions": "83.0 x 57.2 cm (32 11/16 x 22 1/2 in. )", 
+        "title": "Poster, Emigre Graphics: Big Cheese Illustrations, 1992", 
+        "provenance": null, 
+        "participants": [
+            {
+                "person_name": "Zuzana Licko", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35351535/", 
+                "role_id": "35351535", 
+                "role_name": "Donor", 
+                "person_date": "Czech, b. 1961", 
+                "role_display_name": "Donated by", 
+                "person_id": "18049453", 
+                "person_url": "https://collection.cooperhewitt.org/people/18049453/"
+            }, 
+            {
+                "person_name": "Rudy VanderLans", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35351535/", 
+                "role_id": "35351535", 
+                "role_name": "Donor", 
+                "person_date": "Dutch, b. 1955", 
+                "role_display_name": "Donated by", 
+                "person_id": "18043575", 
+                "person_url": "https://collection.cooperhewitt.org/people/18043575/"
+            }, 
+            {
+                "person_name": "Emigre Graphics", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236661/", 
+                "role_id": "35236661", 
+                "role_name": "Publisher", 
+                "person_date": "founded 1984", 
+                "role_display_name": "Published by", 
+                "person_id": "18049075", 
+                "person_url": "https://collection.cooperhewitt.org/people/18049075/"
+            }, 
+            {
+                "person_name": "Bob Aufuldish", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "", 
+                "role_display_name": "Designed by", 
+                "person_id": "18043569", 
+                "person_url": "https://collection.cooperhewitt.org/people/18043569/"
+            }
+        ], 
+        "decade": "1990", 
+        "label_text": null, 
+        "woe:country": null, 
+        "dimensions_raw": {
+            "width": [
+                "57.20", 
+                "centimeters"
+            ], 
+            "height": [
+                "83.00", 
+                "centimeters"
+            ]
+        }, 
+        "department_id": "35347493", 
+        "title_raw": "Emigre Graphics: Big Cheese Illustrations", 
+        "justification": null, 
+        "media_id": "35383557", 
+        "description": "Promtional poster for \"Big Cheese\" type face from Emigre Graphics.\nUse of dark blue ink on light blue background for entire poster.\nRecto: Various circles floating with \"big cheese\" illustrations inside.  Large dark blue circle with outline diffused background at top left.  Inside quasi trapezoidal shaped head of man with legs and ears.  Three small circles inside,each with different illustration: top circle has image of geometic shaped man with canon extending from stomach, top right circle has image of walking bomb, and lower right circle has image of sea creature with fish in beak.  To top right, another circle with geometric rendition of muscle man.  Larger circle outlined in dark blue with walking wedge of Swiss cheese with eyes, nose, and nose formed by holes of cheese.  Small drawings of man with wing, diving man, etc. floating around. Other various drawing in dark blue floating through in quasi grid format.  Imprinted in dark blue, top right: \"big/ cheese/ illus-/ trations/ dark/ + light\".\nVerso: Overall horizontal format except mailing information section.  Divided into four sections, intended to be folded and mailed.\nTop left quadrant, horizontal format with two columns: First, imprinted in dark blue with mix-match fonts, top left: \"Emigre, 4475 \"D\" Street\"/ Sacremento, CA 96819/ USA/ ADDRESS CORRECTION REQUESTED\" and logo.  Small floral pattern below.  Postage mark at upper right.  Imprinted in dark blue, lower right: \"new issue/ EMIGRE/ 27/ david/ carson.\"\nBottom left quadrant, horizontal format: Order form and instructions laid out in four column format: first column, order form; second column, information on ordering and products offered; third column, imprinted in dark blue, top: \"THE EMIGRE FONTS LIBRARY/ AVAILABLE IN POSTSCRIPT OR TRUE TYPE FORMAT FOR THE MAC OR PC\" with list of fonts and price; fourth column, list of special offers.\nTop right quadrant: Imprinted in dark blue, \"Missionary $ 95/ DESIGNED BY MILES NEWLYN...\" and illustrates this font from \"aA....zZ\", \"1-0\" , and various symbols like punctuation marks in grid format.  To right, imprinted in dark blue: \"BIG CHEESE LIGHT & DARK- $59/ DESIGNED BY BOB AUFULDISH AND ERIC DONELAN/ 126 ILLUSTRATIONS IN FONT FORMAT\" with illustrations shown in 7 x 16 grid format.\nBottom right quadrant, horizontal format with two columns:  First, imprinted in dark blue, \n\"DEMOCRATICA REGULAR & DEMOCRATIC BOLD - $65/ Designed by Miles Newlyn\" with sample of font from \"A - Z\" in both style.  Imprinted in dark blue, below: \"Typefaces are not intrinsically legible; rather/.../\"it is the reader's familiarity with typeface/ that accounts for their legibility...\"  Second column, imprinted in dark blue: \"Journal Bold & Journal Text, Journal Italic & Journal Ultra/ Designed by Zuzana Licko\" with same sample below as in first column.", 
+        "creditline": "Gift of Rudy VanderLans and Zuzana Licko", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "1992", 
+        "url": "https://collection.cooperhewitt.org/objects/18666257/", 
+        "type": "poster", 
+        "accession_number": "1995-65-9", 
+        "year_end": 1992, 
+        "signed": "Imprinted in dark blue, lower right (vertically): \"design: Bob Aufuldish, Aufuldish & Warinner.\"", 
+        "inscribed": "Imprinted in dark blue, top in comic strip text bubble: \"by/ designed/ Bob Aufuldish/ and eric Donelan\".  Imprinted in dark blue, top near picture of hat: \"available/ exclusively/ from the/ Emigre/ fonts/ library.\"", 
+        "period_id": null, 
+        "year_acquired": "1995", 
+        "woe:country_id": null
+    }
+}

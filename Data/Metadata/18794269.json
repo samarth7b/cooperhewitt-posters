@@ -1,0 +1,130 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": 2004, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": "offset lithograph on wove paper, folded, secured with rubber band", 
+        "tms:id": "272790", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/40487_ae7952d392b47381_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "40487"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/40487_ae7952d392b47381_b.jpg", 
+                    "width": 1024, 
+                    "height": 576, 
+                    "is_primary": "1", 
+                    "image_id": "40487"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/40487_ae7952d392b47381_d.gif", 
+                    "width": 320, 
+                    "height": 180, 
+                    "is_primary": "1", 
+                    "image_id": "40487"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/40487_ae7952d392b47381_z.jpg", 
+                    "width": 640, 
+                    "height": 360, 
+                    "is_primary": "1", 
+                    "image_id": "40487"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/40487_ae7952d392b47381_n.jpg", 
+                    "width": 320, 
+                    "height": 180, 
+                    "is_primary": "1", 
+                    "image_id": "40487"
+                }
+            }
+        ], 
+        "id": "18794269", 
+        "has_no_known_copyright": null, 
+        "woe:country_name": "United States", 
+        "dimensions": "15.2 x 7.6 cm (6 x 3 in.), folded", 
+        "title": "Poster, GSAPP Events Fall 2004, 2004", 
+        "provenance": "2011: received directly from designer, Stefan Sagmeister, Sagmeister, Inc.", 
+        "participants": [
+            {
+                "person_name": "Stefan Sagmeister", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236787/", 
+                "role_id": "35236787", 
+                "role_name": "Art Director", 
+                "person_date": "Austrian, b. 1962", 
+                "role_display_name": "Art Director:", 
+                "person_id": "18052911", 
+                "person_url": "https://collection.cooperhewitt.org/people/18052911/"
+            }, 
+            {
+                "person_name": "Stefan Sagmeister", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35351535/", 
+                "role_id": "35351535", 
+                "role_name": "Donor", 
+                "person_date": "Austrian, b. 1962", 
+                "role_display_name": "Donated by", 
+                "person_id": "18052911", 
+                "person_url": "https://collection.cooperhewitt.org/people/18052911/"
+            }, 
+            {
+                "person_name": "Matthias Ernstberger", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "", 
+                "role_display_name": "Designed by", 
+                "person_id": "68739185", 
+                "person_url": "https://collection.cooperhewitt.org/people/68739185/"
+            }, 
+            {
+                "person_name": "Matthias Ernstberger", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236787/", 
+                "role_id": "35236787", 
+                "role_name": "Art Director", 
+                "person_date": "", 
+                "role_display_name": "Art Director:", 
+                "person_id": "68739185", 
+                "person_url": "https://collection.cooperhewitt.org/people/68739185/"
+            }
+        ], 
+        "decade": "2000", 
+        "label_text": null, 
+        "woe:country": "23424977", 
+        "dimensions_raw": {
+            "width": [
+                "7.62", 
+                "centimeters"
+            ], 
+            "height": [
+                "15.24", 
+                "centimeters"
+            ]
+        }, 
+        "department_id": "35347493", 
+        "title_raw": "GSAPP Events Fall 2004", 
+        "justification": "Stefan Sagmeister was born in Austria and studied graphic design at the University of Applied Arts in Vienna and at the Pratt Institute in New York. After short apprenticeships with Leo Burnett’s Hong Kong Design Group and at M & Co., he opened his own firm in New York in 1993, Sagmeister Inc., which has since produced graphics, branding, and packaging for a variety of clients including Levi Strauss & Co., the Guggenheim Museum, and Time Warner Inc. Sagmeister was appointed to the Frank Stanton Chair at the Cooper Union School of Art and teaches in the graduate department of the School of Visual Arts, both in New York City. He has received almost every significant international design award, including the 2005 National Design Award in the field of Communications Design and two Grammys—one that same year for his packaging for the Talking Heads box set, Once in a Lifetime, and a second in 2010 for his packaging for the David Byrne and Brian Eno collaboration, Everything That Happens Will Happen Today. \nSagmeister’s graphic production is original and challenges the limits of his profession. This poster, part of a larger group of objects by Sagmeister proposed for acquisition, will augment the museum’s representation of work by this celebrated graphic designer.", 
+        "media_id": "35435119", 
+        "description": "Red striped white card with address label: Bruno Grizzo / 200 East 33rd Street / Apt. #21i / New York. NY 10016. Above, in a black frame three postal stamps and one black ink stamp.", 
+        "creditline": "Gift of Stefan Sagmeister", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "2004", 
+        "url": "https://collection.cooperhewitt.org/objects/18794269/", 
+        "type": "poster", 
+        "accession_number": "2011-34-3", 
+        "year_end": 2004, 
+        "signed": null, 
+        "inscribed": null, 
+        "period_id": null, 
+        "year_acquired": "2011", 
+        "woe:country_id": "23424977"
+    }
+}

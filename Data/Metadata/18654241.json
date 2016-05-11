@@ -1,0 +1,148 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": 1994, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": "screenprint on paper", 
+        "tms:id": "202081", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/13609_9f51571107476226_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "13609"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/13609_9f51571107476226_b.jpg", 
+                    "width": 671, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "13609"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/13609_9f51571107476226_d.gif", 
+                    "width": 210, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "13609"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/13609_9f51571107476226_z.jpg", 
+                    "width": 419, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "13609"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/13609_9f51571107476226_n.jpg", 
+                    "width": 210, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "13609"
+                }
+            }, 
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/268422_3e9c40482216b601_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "0", 
+                    "image_id": "268422"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/268422_3e9c40482216b601_b.jpg", 
+                    "width": 679, 
+                    "height": 1024, 
+                    "is_primary": "0", 
+                    "image_id": "268422"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/268422_3e9c40482216b601_d.gif", 
+                    "width": 212, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "268422"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/268422_3e9c40482216b601_z.jpg", 
+                    "width": 424, 
+                    "height": 640, 
+                    "is_primary": "0", 
+                    "image_id": "268422"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/268422_3e9c40482216b601_n.jpg", 
+                    "width": 212, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "268422"
+                }
+            }
+        ], 
+        "id": "18654241", 
+        "has_no_known_copyright": null, 
+        "woe:country_name": "United States", 
+        "dimensions": null, 
+        "title": "Poster, Some People, New York Public Theater, 1994", 
+        "provenance": "Paula Scher; 1996: acquired by Museum", 
+        "participants": [
+            {
+                "person_name": "Karin Zonis", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35352245/", 
+                "role_id": "35352245", 
+                "role_name": "Cataloguer", 
+                "person_date": "", 
+                "role_display_name": "Catalogued by", 
+                "person_id": "51676457", 
+                "person_url": "https://collection.cooperhewitt.org/people/51676457/"
+            }, 
+            {
+                "person_name": "Paula Scher", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35351535/", 
+                "role_id": "35351535", 
+                "role_name": "Donor", 
+                "person_date": "American, b. 1948", 
+                "role_display_name": "Donated by", 
+                "person_id": "18043689", 
+                "person_url": "https://collection.cooperhewitt.org/people/18043689/"
+            }, 
+            {
+                "person_name": "Paula Scher", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "American, b. 1948", 
+                "role_display_name": "Designed by", 
+                "person_id": "18043689", 
+                "person_url": "https://collection.cooperhewitt.org/people/18043689/"
+            }
+        ], 
+        "decade": "1990", 
+        "label_text": null, 
+        "woe:country": "23424977", 
+        "dimensions_raw": null, 
+        "department_id": "35347493", 
+        "title_raw": "Some People, New York Public Theater", 
+        "justification": null, 
+        "media_id": "35431679", 
+        "description": "Two photographic images of Danny Hoch in the shape of a \"V\" on top of and in between are title of performance and the credits in simple uppercase font resembling wood type.  Public Theater logo runs vertically at lower right.", 
+        "creditline": "Gift of Paula Scher", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "1994", 
+        "url": "https://collection.cooperhewitt.org/objects/18654241/", 
+        "type": "poster", 
+        "accession_number": "1996-88-14", 
+        "year_end": 1994, 
+        "signed": null, 
+        "inscribed": null, 
+        "period_id": null, 
+        "year_acquired": "1996", 
+        "woe:country_id": "23424977"
+    }
+}

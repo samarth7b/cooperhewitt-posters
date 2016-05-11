@@ -1,0 +1,157 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": 1956, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": "offset lithograph on white paper", 
+        "tms:id": "223228", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/65610_d26d06dd31c8fd8c_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "65610"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/65610_d26d06dd31c8fd8c_b.jpg", 
+                    "width": 720, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "65610"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/65610_d26d06dd31c8fd8c_d.gif", 
+                    "width": 225, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "65610"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/65610_d26d06dd31c8fd8c_z.jpg", 
+                    "width": 450, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "65610"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/65610_d26d06dd31c8fd8c_n.jpg", 
+                    "width": 225, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "65610"
+                }
+            }, 
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/257785_0045380e3cf24f7c_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "0", 
+                    "image_id": "257785"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/257785_0045380e3cf24f7c_b.jpg", 
+                    "width": 730, 
+                    "height": 1024, 
+                    "is_primary": "0", 
+                    "image_id": "257785"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/257785_0045380e3cf24f7c_d.gif", 
+                    "width": 228, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "257785"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/257785_0045380e3cf24f7c_z.jpg", 
+                    "width": 456, 
+                    "height": 640, 
+                    "is_primary": "0", 
+                    "image_id": "257785"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/257785_0045380e3cf24f7c_n.jpg", 
+                    "width": 228, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "257785"
+                }
+            }
+        ], 
+        "id": "18695323", 
+        "has_no_known_copyright": null, 
+        "woe:country_name": "United States", 
+        "dimensions": "90.2 x 63.5 cm (35 1/2 x 25 in. )", 
+        "title": "Poster, Signs that say safe driving..., ca. 1966", 
+        "provenance": "Marion S. Rand; 2002: acquired by Museum", 
+        "participants": [
+            {
+                "person_name": "Ford", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236667/", 
+                "role_id": "35236667", 
+                "role_name": "Client", 
+                "person_date": "", 
+                "role_display_name": "Client:", 
+                "person_id": "18054861", 
+                "person_url": "https://collection.cooperhewitt.org/people/18054861/"
+            }, 
+            {
+                "person_name": "Marion S. Rand", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35351535/", 
+                "role_id": "35351535", 
+                "role_name": "Donor", 
+                "person_date": "", 
+                "role_display_name": "Donated by", 
+                "person_id": "18538789", 
+                "person_url": "https://collection.cooperhewitt.org/people/18538789/"
+            }, 
+            {
+                "person_name": "Paul Rand", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236763/", 
+                "role_id": "35236763", 
+                "role_name": "Graphic Designer", 
+                "person_date": "American, 1914–1996", 
+                "role_display_name": "Graphic design by", 
+                "person_id": "18042341", 
+                "person_url": "https://collection.cooperhewitt.org/people/18042341/"
+            }
+        ], 
+        "decade": "1950", 
+        "label_text": null, 
+        "woe:country": "23424977", 
+        "dimensions_raw": {
+            "width": [
+                "63.50", 
+                "centimeters"
+            ], 
+            "height": [
+                "90.20", 
+                "centimeters"
+            ]
+        }, 
+        "department_id": "35347493", 
+        "title_raw": "Signs that say safe driving...", 
+        "justification": null, 
+        "media_id": "35424093", 
+        "description": "Different street signs spread out on page in varied colors: red, black, yellow, white and blue. Signs include a hollow red triangle with a young girl and boy holding hands imprinted in black inside triangle, a hollow red circle, a yellow circle with a black diagonal line through it, and a blue circle with 2 white connected arrows (straight and right) inside it.  The signs include a Ford logo (pill shaped) in blue and white to left of center. Title imprinted in black, lower right quadrant.", 
+        "creditline": "Gift of Marion S. Rand", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "ca. 1966", 
+        "url": "https://collection.cooperhewitt.org/objects/18695323/", 
+        "type": "poster", 
+        "accession_number": "2002-11-9", 
+        "year_end": 1976, 
+        "signed": "Signature imprinted in gray ink, lower right quadrant: Paul Rand", 
+        "inscribed": "Imprinted in black ink, lower right quadrant: Signs that say Safe Driving...", 
+        "period_id": null, 
+        "year_acquired": "2002", 
+        "woe:country_id": "23424977"
+    }
+}

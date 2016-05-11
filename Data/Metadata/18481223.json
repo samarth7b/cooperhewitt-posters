@@ -1,0 +1,91 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": null, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": null, 
+        "tms:id": "151465", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/268827_3c1247f81c3b72a6_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "268827"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/268827_3c1247f81c3b72a6_b.jpg", 
+                    "width": 763, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "268827"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/268827_3c1247f81c3b72a6_d.gif", 
+                    "width": 238, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "268827"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/268827_3c1247f81c3b72a6_z.jpg", 
+                    "width": 477, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "268827"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/268827_3c1247f81c3b72a6_n.jpg", 
+                    "width": 238, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "268827"
+                }
+            }
+        ], 
+        "id": "18481223", 
+        "has_no_known_copyright": null, 
+        "woe:country_name": "United States", 
+        "dimensions": null, 
+        "title": "Poster (USA)", 
+        "provenance": null, 
+        "participants": [
+            {
+                "person_name": "Cuevas", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "", 
+                "role_display_name": "Designed by", 
+                "person_id": "18535543", 
+                "person_url": "https://collection.cooperhewitt.org/people/18535543/"
+            }
+        ], 
+        "decade": null, 
+        "label_text": null, 
+        "woe:country": "23424977", 
+        "dimensions_raw": null, 
+        "department_id": "35347493", 
+        "title_raw": null, 
+        "justification": null, 
+        "media_id": "35371135", 
+        "description": null, 
+        "creditline": null, 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": null, 
+        "url": "https://collection.cooperhewitt.org/objects/18481223/", 
+        "type": "poster", 
+        "accession_number": "1973-39-417", 
+        "year_end": null, 
+        "signed": null, 
+        "inscribed": null, 
+        "period_id": null, 
+        "year_acquired": "1973", 
+        "woe:country_id": "23424977"
+    }
+}

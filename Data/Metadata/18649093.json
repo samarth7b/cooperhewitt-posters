@@ -1,0 +1,217 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": 1975, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": "silkscreen on wove paper", 
+        "tms:id": "199456", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/89863_ad5a1a4a19a843ca_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "89863"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/89863_ad5a1a4a19a843ca_b.jpg", 
+                    "width": 685, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "89863"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/89863_ad5a1a4a19a843ca_d.gif", 
+                    "width": 214, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "89863"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/89863_ad5a1a4a19a843ca_z.jpg", 
+                    "width": 428, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "89863"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/89863_ad5a1a4a19a843ca_n.jpg", 
+                    "width": 214, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "89863"
+                }
+            }, 
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/141540_5ba2f2f831c79cef_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "0", 
+                    "image_id": "141540"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/141540_5ba2f2f831c79cef_b.jpg", 
+                    "width": 689, 
+                    "height": 1024, 
+                    "is_primary": "0", 
+                    "image_id": "141540"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/141540_5ba2f2f831c79cef_d.gif", 
+                    "width": 215, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "141540"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/141540_5ba2f2f831c79cef_z.jpg", 
+                    "width": 430, 
+                    "height": 640, 
+                    "is_primary": "0", 
+                    "image_id": "141540"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/141540_5ba2f2f831c79cef_n.jpg", 
+                    "width": 215, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "141540"
+                }
+            }
+        ], 
+        "id": "18649093", 
+        "has_no_known_copyright": null, 
+        "woe:country_name": "Cuba", 
+        "dimensions": "Sheet: 76.5 x 51.1 cm (30 1/8 x 20 1/8 in.)", 
+        "title": "Poster, Puerto Rico, 1975", 
+        "provenance": "Reinhold Brown Gallery New York, NY", 
+        "participants": [
+            {
+                "person_name": "Dr. Gail Davidson", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35352245/", 
+                "role_id": "35352245", 
+                "role_name": "Cataloguer", 
+                "person_date": "", 
+                "role_display_name": "Catalogued by", 
+                "person_id": "18048255", 
+                "person_url": "https://collection.cooperhewitt.org/people/18048255/"
+            }, 
+            {
+                "person_name": "Reinhold Brown Gallery", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35352249/", 
+                "role_id": "35352249", 
+                "role_name": "Vendor", 
+                "person_date": "", 
+                "role_display_name": "Purchased from", 
+                "person_id": "18041557", 
+                "person_url": "https://collection.cooperhewitt.org/people/18041557/"
+            }, 
+            {
+                "person_name": "Smithsonian Institution CAP Funds--do not use", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35352247/", 
+                "role_id": "35352247", 
+                "role_name": "Fund", 
+                "person_date": "", 
+                "role_display_name": "Fund:", 
+                "person_id": "18048931", 
+                "person_url": "https://collection.cooperhewitt.org/people/18048931/"
+            }, 
+            {
+                "person_name": "ss", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35352245/", 
+                "role_id": "35352245", 
+                "role_name": "Cataloguer", 
+                "person_date": "", 
+                "role_display_name": "Catalogued by", 
+                "person_id": "18047797", 
+                "person_url": "https://collection.cooperhewitt.org/people/18047797/"
+            }, 
+            {
+                "person_name": "SR", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35352245/", 
+                "role_id": "35352245", 
+                "role_name": "Cataloguer", 
+                "person_date": "", 
+                "role_display_name": "Catalogued by", 
+                "person_id": "18047543", 
+                "person_url": "https://collection.cooperhewitt.org/people/18047543/"
+            }, 
+            {
+                "person_name": "The Cuban Institute of Cinematographic Art and Industry (ICAIC)", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236661/", 
+                "role_id": "35236661", 
+                "role_name": "Publisher", 
+                "person_date": "Cuba", 
+                "role_display_name": "Published by", 
+                "person_id": "18043359", 
+                "person_url": "https://collection.cooperhewitt.org/people/18043359/"
+            }, 
+            {
+                "person_name": "The Cuban Institute of Cinematographic Art and Industry (ICAIC)", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236667/", 
+                "role_id": "35236667", 
+                "role_name": "Client", 
+                "person_date": "Cuba", 
+                "role_display_name": "Client:", 
+                "person_id": "18043359", 
+                "person_url": "https://collection.cooperhewitt.org/people/18043359/"
+            }, 
+            {
+                "person_name": "Silvio, Cuban", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236565/", 
+                "role_id": "35236565", 
+                "role_name": "Artist", 
+                "person_date": "", 
+                "role_display_name": "", 
+                "person_id": "18043373", 
+                "person_url": "https://collection.cooperhewitt.org/people/18043373/"
+            }, 
+            {
+                "person_name": "Silvio, Cuban", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "", 
+                "role_display_name": "Designed by", 
+                "person_id": "18043373", 
+                "person_url": "https://collection.cooperhewitt.org/people/18043373/"
+            }
+        ], 
+        "decade": "1970", 
+        "label_text": null, 
+        "woe:country": "23424793", 
+        "dimensions_raw": {
+            "width": [
+                "51.12", 
+                "centimeters"
+            ], 
+            "height": [
+                "76.52", 
+                "centimeters"
+            ]
+        }, 
+        "department_id": "35347493", 
+        "title_raw": "Puerto Rico", 
+        "justification": null, 
+        "media_id": "35434615", 
+        "description": "Puerto Rican Flag cut into four quadrants that are spaced equidistant apart and set against a black background.  Title in white runs along lower edge.", 
+        "creditline": "Museum purchase from Smithsonian Institution Collections Acquisition Program Fund and through gift of Anonymous Donors", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "1975", 
+        "url": "https://collection.cooperhewitt.org/objects/18649093/", 
+        "type": "poster", 
+        "accession_number": "1994-65-11", 
+        "year_end": 1975, 
+        "signed": null, 
+        "inscribed": "Signed and dated on image along upper right edge running vertically: Silvio 75", 
+        "period_id": null, 
+        "year_acquired": "1994", 
+        "woe:country_id": "23424793"
+    }
+}

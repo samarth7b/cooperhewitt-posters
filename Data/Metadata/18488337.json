@@ -1,0 +1,99 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": 1975, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": null, 
+        "tms:id": "155036", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/201572_62be9035879d7527_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "201572"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/201572_62be9035879d7527_b.jpg", 
+                    "width": 830, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "201572"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/201572_62be9035879d7527_d.gif", 
+                    "width": 259, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "201572"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/201572_62be9035879d7527_z.jpg", 
+                    "width": 519, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "201572"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/201572_62be9035879d7527_n.jpg", 
+                    "width": 259, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "201572"
+                }
+            }
+        ], 
+        "id": "18488337", 
+        "has_no_known_copyright": null, 
+        "dimensions": "Overall: 50.9 x 40.8 cm (20 1/16 x 16 1/16 in.)", 
+        "title": "Poster, 1776 – 1976, 1975", 
+        "provenance": null, 
+        "participants": [
+            {
+                "person_name": "Ilya Bolotowsky", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "", 
+                "role_display_name": "Designed by", 
+                "person_id": "18057051", 
+                "person_url": "https://collection.cooperhewitt.org/people/18057051/"
+            }
+        ], 
+        "decade": "1970", 
+        "label_text": null, 
+        "woe:country": null, 
+        "dimensions_raw": {
+            "width": [
+                "40.80", 
+                "centimeters"
+            ], 
+            "height": [
+                "50.90", 
+                "centimeters"
+            ]
+        }, 
+        "department_id": "35347493", 
+        "title_raw": "1776 – 1976", 
+        "justification": null, 
+        "media_id": "35371135", 
+        "description": null, 
+        "creditline": null, 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "1975", 
+        "url": "https://collection.cooperhewitt.org/objects/18488337/", 
+        "type": "poster", 
+        "accession_number": "1975-47-4", 
+        "year_end": 1975, 
+        "signed": null, 
+        "inscribed": null, 
+        "period_id": null, 
+        "year_acquired": "1975", 
+        "woe:country_id": null
+    }
+}

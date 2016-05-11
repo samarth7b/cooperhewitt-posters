@@ -1,0 +1,101 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": 1979, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": null, 
+        "tms:id": "177456", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/201589_9a0926626ea4f5ee_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "201589"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/201589_9a0926626ea4f5ee_b.jpg", 
+                    "width": 789, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "201589"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/201589_9a0926626ea4f5ee_d.gif", 
+                    "width": 247, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "201589"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/201589_9a0926626ea4f5ee_z.jpg", 
+                    "width": 493, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "201589"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/201589_9a0926626ea4f5ee_n.jpg", 
+                    "width": 247, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "201589"
+                }
+            }
+        ], 
+        "id": "18617845", 
+        "has_no_known_copyright": null, 
+        "woe:country_name": "United States", 
+        "dimensions": null, 
+        "title": "Poster, Fumihiko Maki: The Hidden Core of Japanese Urban Space, 1979", 
+        "provenance": "1981: acquired by Museum", 
+        "participants": [
+            {
+                "person_name": "Fumihiko Maki", 
+                "role_url": "https://collection.cooperhewitt.org/roles/68299055/", 
+                "role_id": "68299055", 
+                "role_name": "Subject", 
+                "person_date": "Japanese, b. 1928", 
+                "role_display_name": "Subject:", 
+                "person_id": "68263997", 
+                "person_url": "https://collection.cooperhewitt.org/people/68263997/"
+            }, 
+            {
+                "person_name": "Marc Treib", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "", 
+                "role_display_name": "Designed by", 
+                "person_id": "18060965", 
+                "person_url": "https://collection.cooperhewitt.org/people/18060965/"
+            }
+        ], 
+        "decade": "1970", 
+        "label_text": null, 
+        "woe:country": "23424977", 
+        "dimensions_raw": null, 
+        "department_id": "35347493", 
+        "title_raw": "Fumihiko Maki: The Hidden Core of Japanese Urban Space", 
+        "justification": null, 
+        "media_id": "35371135", 
+        "description": null, 
+        "creditline": "Gift of Various Donors", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "1979", 
+        "url": "https://collection.cooperhewitt.org/objects/18617845/", 
+        "type": "poster", 
+        "accession_number": "1981-29-363", 
+        "year_end": 1979, 
+        "signed": null, 
+        "inscribed": null, 
+        "period_id": null, 
+        "year_acquired": "1981", 
+        "woe:country_id": "23424977"
+    }
+}

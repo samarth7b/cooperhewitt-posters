@@ -1,0 +1,140 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": 2005, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": "die-cut offset lithograph on paper", 
+        "tms:id": "277010", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/94349_0deac8977f55573a_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "94349"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/94349_0deac8977f55573a_b.jpg", 
+                    "width": 728, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "94349"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/94349_0deac8977f55573a_d.gif", 
+                    "width": 228, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "94349"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/94349_0deac8977f55573a_z.jpg", 
+                    "width": 455, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "94349"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/94349_0deac8977f55573a_n.jpg", 
+                    "width": 228, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "94349"
+                }
+            }
+        ], 
+        "id": "68268413", 
+        "has_no_known_copyright": null, 
+        "woe:country_name": "Netherlands", 
+        "dimensions": "H x W: 59.5 × 42 cm (23 7/16 × 16 9/16 in.)", 
+        "title": "Poster, Paradiso  2010, 2010", 
+        "provenance": "Experimental Jetset; August 2014: acquired new from the designers by museum", 
+        "participants": [
+            {
+                "person_name": "Paradiso", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236667/", 
+                "role_id": "35236667", 
+                "role_name": "Client", 
+                "person_date": "Amsterdam, Netherlands, founded 1968", 
+                "role_display_name": "Client:", 
+                "person_id": "68778195", 
+                "person_url": "https://collection.cooperhewitt.org/people/68778195/"
+            }, 
+            {
+                "person_name": "Danny van den Dungen", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "Dutch, born 1971", 
+                "role_display_name": "Designed by", 
+                "person_id": "68735141", 
+                "person_url": "https://collection.cooperhewitt.org/people/68735141/"
+            }, 
+            {
+                "person_name": "Marieke Stolk", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "Dutch, born 1967", 
+                "role_display_name": "Designed by", 
+                "person_id": "68735139", 
+                "person_url": "https://collection.cooperhewitt.org/people/68735139/"
+            }, 
+            {
+                "person_name": "Erwin Brinkers", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "Dutch, born 1973", 
+                "role_display_name": "Designed by", 
+                "person_id": "68735143", 
+                "person_url": "https://collection.cooperhewitt.org/people/68735143/"
+            }, 
+            {
+                "person_name": "Experimental Jetset", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "Amsterdam, Netherlands, founded 1997", 
+                "role_display_name": "Designed by", 
+                "person_id": "18065251", 
+                "person_url": "https://collection.cooperhewitt.org/people/18065251/"
+            }
+        ], 
+        "decade": "2000", 
+        "label_text": "Experimental Jetset was founded by Erwin Brinkers, Marieke Stolk, and Danny van den Dungen in 1997. Experimental Jetset’s poster series for Paradiso, an Amsterdam concert venue, established the studio’s systematic approach early in their career. The designers claim to have been \"completely absorbed\" as teenagers by numerous post-punk movements: psychobilly, garage punk, new wave, two-tone, and American hardcore. They were drawn to both the music and its graphic manifestations, such as record sleeves, T-shirts, patches, band logos, and posters. Today, their inspirations remain modernism and rock culture.", 
+        "woe:country": "23424909", 
+        "dimensions_raw": {
+            "width": [
+                "42.00", 
+                "centimeters"
+            ], 
+            "height": [
+                "59.40", 
+                "centimeters"
+            ]
+        }, 
+        "department_id": "35347493", 
+        "title_raw": "Paradiso  2010", 
+        "justification": "In 2010, Experimental Jetset was asked to redesign a poster campaign that they had originally designed in 1996 for rock concert venue Paradiso. Paradiso has played a significant role in the Dutch rock- and counter-culture since its opening in 1968. \nExperimental Jetset’s 1996 design for a tri-weekly poster series had used a series of capsule-shaped holes to reveal the surfaces on which they were hung. For their updated design, the designers transformed the capsule-shaped holes into circular ones, which were die-cut to overlap or eclipse the printed circles beside them, reminiscent of the popular calendar posters showing the different phases of the moon. The design team appreciated this lunar parallel for its relationship to the nocturnal schedule of the concert venue. They streamlined some of the poster’s elements, eliminating the arrows surrounding the venue’s name, but they incorporated a second color into the final design.", 
+        "media_id": "68743227", 
+        "description": "Red poster with white rectangular strip at top, on which red text reads \"Paradiso.\" Four rows of four circles are cut from red ground. A white printed circle overlaps with each cutout. Beneath each circle, white text lists a performance.", 
+        "creditline": "Gift of Experimental Jetset", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "2010", 
+        "url": "https://collection.cooperhewitt.org/objects/68268413/", 
+        "type": "poster", 
+        "accession_number": "2015-2-3", 
+        "year_end": 2015, 
+        "signed": null, 
+        "inscribed": null, 
+        "period_id": null, 
+        "year_acquired": "2015", 
+        "woe:country_id": "23424909"
+    }
+}

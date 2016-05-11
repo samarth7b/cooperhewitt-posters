@@ -1,0 +1,184 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": 1977, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": "offset lithograph on paper", 
+        "tms:id": "177278", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/101181_19b9b130eb4946e7_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "101181"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/101181_19b9b130eb4946e7_b.jpg", 
+                    "width": 1024, 
+                    "height": 630, 
+                    "is_primary": "1", 
+                    "image_id": "101181"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/101181_19b9b130eb4946e7_d.gif", 
+                    "width": 320, 
+                    "height": 197, 
+                    "is_primary": "1", 
+                    "image_id": "101181"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/101181_19b9b130eb4946e7_z.jpg", 
+                    "width": 640, 
+                    "height": 393, 
+                    "is_primary": "1", 
+                    "image_id": "101181"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/101181_19b9b130eb4946e7_n.jpg", 
+                    "width": 320, 
+                    "height": 197, 
+                    "is_primary": "1", 
+                    "image_id": "101181"
+                }
+            }, 
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/267699_84e58dca24dfa40d_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "0", 
+                    "image_id": "267699"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/267699_84e58dca24dfa40d_b.jpg", 
+                    "width": 1024, 
+                    "height": 638, 
+                    "is_primary": "0", 
+                    "image_id": "267699"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/267699_84e58dca24dfa40d_d.gif", 
+                    "width": 320, 
+                    "height": 199, 
+                    "is_primary": "0", 
+                    "image_id": "267699"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/267699_84e58dca24dfa40d_z.jpg", 
+                    "width": 640, 
+                    "height": 398, 
+                    "is_primary": "0", 
+                    "image_id": "267699"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/267699_84e58dca24dfa40d_n.jpg", 
+                    "width": 320, 
+                    "height": 199, 
+                    "is_primary": "0", 
+                    "image_id": "267699"
+                }
+            }, 
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/64987_9b3ca44a200090a4_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "0", 
+                    "image_id": "64987"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/64987_9b3ca44a200090a4_b.jpg", 
+                    "width": 1024, 
+                    "height": 623, 
+                    "is_primary": "0", 
+                    "image_id": "64987"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/64987_9b3ca44a200090a4_d.gif", 
+                    "width": 320, 
+                    "height": 195, 
+                    "is_primary": "0", 
+                    "image_id": "64987"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/64987_9b3ca44a200090a4_z.jpg", 
+                    "width": 640, 
+                    "height": 389, 
+                    "is_primary": "0", 
+                    "image_id": "64987"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/64987_9b3ca44a200090a4_n.jpg", 
+                    "width": 320, 
+                    "height": 195, 
+                    "is_primary": "0", 
+                    "image_id": "64987"
+                }
+            }
+        ], 
+        "id": "18617491", 
+        "has_no_known_copyright": null, 
+        "woe:country_name": "United States", 
+        "dimensions": "56 x 91.3 cm (22 1/16 x 35 15/16 in.)", 
+        "title": "Poster, There Is No Finish Line, 1977", 
+        "provenance": "1981: acquired by Museum", 
+        "participants": [
+            {
+                "person_name": "John Brown & Partners", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "", 
+                "role_display_name": "Designed by", 
+                "person_id": "68263889", 
+                "person_url": "https://collection.cooperhewitt.org/people/68263889/"
+            }, 
+            {
+                "person_name": "Nike, Inc.", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236667/", 
+                "role_id": "35236667", 
+                "role_name": "Client", 
+                "person_date": "USA", 
+                "role_display_name": "Client:", 
+                "person_id": "18052787", 
+                "person_url": "https://collection.cooperhewitt.org/people/18052787/"
+            }
+        ], 
+        "decade": "1970", 
+        "label_text": null, 
+        "woe:country": "23424977", 
+        "dimensions_raw": {
+            "width": [
+                "91.30", 
+                "centimeters"
+            ], 
+            "height": [
+                "56.00", 
+                "centimeters"
+            ]
+        }, 
+        "department_id": "35347493", 
+        "title_raw": "There Is No Finish Line", 
+        "justification": null, 
+        "media_id": "35399021", 
+        "description": "Photograph of a man, in the dark with grey clouds, running in a park around a body of water. Lower margin, black ink on grey ground: THERE IS NO FINISH LINE. / NIKE [logo].", 
+        "creditline": "Gift of Various Donors", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "1977", 
+        "url": "https://collection.cooperhewitt.org/objects/18617491/", 
+        "type": "poster", 
+        "accession_number": "1981-29-205", 
+        "year_end": 1977, 
+        "signed": null, 
+        "inscribed": "Printed in black ink, lower left: LITHO IN U. S. A.", 
+        "period_id": null, 
+        "year_acquired": "1981", 
+        "woe:country_id": "23424977"
+    }
+}

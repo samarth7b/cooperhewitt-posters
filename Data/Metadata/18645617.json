@@ -1,0 +1,120 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": 1986, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": "lithograph on paper", 
+        "tms:id": "197712", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/223553_71f2f341a0c9d4b1_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "223553"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/223553_71f2f341a0c9d4b1_b.jpg", 
+                    "width": 686, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "223553"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/223553_71f2f341a0c9d4b1_d.gif", 
+                    "width": 214, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "223553"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/223553_71f2f341a0c9d4b1_z.jpg", 
+                    "width": 429, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "223553"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/223553_71f2f341a0c9d4b1_n.jpg", 
+                    "width": 214, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "223553"
+                }
+            }
+        ], 
+        "id": "18645617", 
+        "has_no_known_copyright": null, 
+        "woe:country_name": "United States", 
+        "dimensions": "76.1 x 50.9 cm (29 15/16 x 20 1/16 in.)", 
+        "title": "Poster, Isn't it time we went on a diet?, 1986", 
+        "provenance": "Steven Heller and Karrie Jacobs; 1993: acquired by Museum", 
+        "participants": [
+            {
+                "person_name": "Steven Heller", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35351535/", 
+                "role_id": "35351535", 
+                "role_name": "Donor", 
+                "person_date": "American, b. 1950", 
+                "role_display_name": "Donated by", 
+                "person_id": "18041397", 
+                "person_url": "https://collection.cooperhewitt.org/people/18041397/"
+            }, 
+            {
+                "person_name": "Karrie Jacobs", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35351535/", 
+                "role_id": "35351535", 
+                "role_name": "Donor", 
+                "person_date": "", 
+                "role_display_name": "Donated by", 
+                "person_id": "18056647", 
+                "person_url": "https://collection.cooperhewitt.org/people/18056647/"
+            }, 
+            {
+                "person_name": "LSA", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35352245/", 
+                "role_id": "35352245", 
+                "role_name": "Cataloguer", 
+                "person_date": "", 
+                "role_display_name": "Catalogued by", 
+                "person_id": "18048737", 
+                "person_url": "https://collection.cooperhewitt.org/people/18048737/"
+            }
+        ], 
+        "decade": "1980", 
+        "label_text": null, 
+        "woe:country": "23424977", 
+        "dimensions_raw": {
+            "width": [
+                "50.90", 
+                "centimeters"
+            ], 
+            "height": [
+                "76.10", 
+                "centimeters"
+            ]
+        }, 
+        "department_id": "35347493", 
+        "title_raw": "Isn't it time we went on a diet?", 
+        "justification": null, 
+        "media_id": "35419317", 
+        "description": "Photo of man eating coal hamburger amidst soda cans of gasoline For Union of Concerned Scientists, against a background of a smoke stack. In a large tan-colored block, extensive text concerning the reduction of fossil fuel. Upper left in red text: ISN'T IT/ TIME WE/ WENT ON/ A DIET?", 
+        "creditline": "Gift of Steven Heller and Karrie Jacobs", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "1986", 
+        "url": "https://collection.cooperhewitt.org/objects/18645617/", 
+        "type": "poster", 
+        "accession_number": "1993-53-122", 
+        "year_end": 1986, 
+        "signed": null, 
+        "inscribed": "Lower left imprinted in black ink: UNION OF CONCERNED SCIENTISTS/ Printed on recycled paper", 
+        "period_id": null, 
+        "year_acquired": "1993", 
+        "woe:country_id": "23424977"
+    }
+}

@@ -1,0 +1,147 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": 1937, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": "lithograph on paper", 
+        "tms:id": "202492", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/65038_455d45d74196ed48_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "65038"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/65038_455d45d74196ed48_b.jpg", 
+                    "width": 710, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "65038"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/65038_455d45d74196ed48_d.gif", 
+                    "width": 222, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "65038"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/65038_455d45d74196ed48_z.jpg", 
+                    "width": 444, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "65038"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/65038_455d45d74196ed48_n.jpg", 
+                    "width": 222, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "65038"
+                }
+            }, 
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/252642_cd7392e4cbd15dd8_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "0", 
+                    "image_id": "252642"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/252642_cd7392e4cbd15dd8_b.jpg", 
+                    "width": 710, 
+                    "height": 1024, 
+                    "is_primary": "0", 
+                    "image_id": "252642"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/252642_cd7392e4cbd15dd8_d.gif", 
+                    "width": 222, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "252642"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/252642_cd7392e4cbd15dd8_z.jpg", 
+                    "width": 444, 
+                    "height": 640, 
+                    "is_primary": "0", 
+                    "image_id": "252642"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/252642_cd7392e4cbd15dd8_n.jpg", 
+                    "width": 222, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "252642"
+                }
+            }
+        ], 
+        "id": "18655045", 
+        "has_no_known_copyright": null, 
+        "woe:country_name": "Spain", 
+        "dimensions": "100.3 x 69.1 cm (39 1/2 x 27 3/16 in.)", 
+        "title": "Poster, 1936/ 18 de Julio/ 1937 (July 18, 1936-1937), 1937", 
+        "provenance": "1997: acquired by Museum", 
+        "participants": [
+            {
+                "person_name": "José Bardasano Baos", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "Spanish, 1910–1979", 
+                "role_display_name": "Designed by", 
+                "person_id": "18538045", 
+                "person_url": "https://collection.cooperhewitt.org/people/18538045/"
+            }, 
+            {
+                "person_name": "William P. Mangold", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35351535/", 
+                "role_id": "35351535", 
+                "role_name": "Donor", 
+                "person_date": "", 
+                "role_display_name": "Donated by", 
+                "person_id": "18049663", 
+                "person_url": "https://collection.cooperhewitt.org/people/18049663/"
+            }
+        ], 
+        "decade": "1930", 
+        "label_text": null, 
+        "woe:country": "23424950", 
+        "dimensions_raw": {
+            "width": [
+                "69.10", 
+                "centimeters"
+            ], 
+            "height": [
+                "100.30", 
+                "centimeters"
+            ]
+        }, 
+        "department_id": "35347493", 
+        "title_raw": "1936/ 18 de Julio/ 1937 (July 18, 1936-1937)", 
+        "justification": null, 
+        "media_id": "35419317", 
+        "description": "Spanish Civil War poster.  Two soldiers fighting in front of barbed wire fence; one soldier has a Nazi armband. Upper right, in red and white text: 1936 / 18 DE JULIO / 1937 (July 18, 1936-1937); below, in red text: BARDASANO.", 
+        "creditline": "Gift of William P. Mangold", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "1937", 
+        "url": "https://collection.cooperhewitt.org/objects/18655045/", 
+        "type": "poster", 
+        "accession_number": "1997-21-3", 
+        "year_end": 1937, 
+        "signed": null, 
+        "inscribed": null, 
+        "period_id": null, 
+        "year_acquired": "1997", 
+        "woe:country_id": "23424950"
+    }
+}

@@ -1,0 +1,147 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": 1973, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": "offset lithograph on paper", 
+        "tms:id": "177332", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/65016_c24ad91278f4b9df_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "65016"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/65016_c24ad91278f4b9df_b.jpg", 
+                    "width": 798, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "65016"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/65016_c24ad91278f4b9df_d.gif", 
+                    "width": 249, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "65016"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/65016_c24ad91278f4b9df_z.jpg", 
+                    "width": 498, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "65016"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/65016_c24ad91278f4b9df_n.jpg", 
+                    "width": 249, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "65016"
+                }
+            }, 
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/267569_c0630c1983fdaa94_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "0", 
+                    "image_id": "267569"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/267569_c0630c1983fdaa94_b.jpg", 
+                    "width": 800, 
+                    "height": 1024, 
+                    "is_primary": "0", 
+                    "image_id": "267569"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/267569_c0630c1983fdaa94_d.gif", 
+                    "width": 250, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "267569"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/267569_c0630c1983fdaa94_z.jpg", 
+                    "width": 500, 
+                    "height": 640, 
+                    "is_primary": "0", 
+                    "image_id": "267569"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/267569_c0630c1983fdaa94_n.jpg", 
+                    "width": 250, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "267569"
+                }
+            }
+        ], 
+        "id": "18617599", 
+        "has_no_known_copyright": null, 
+        "woe:country_name": "United States", 
+        "dimensions": "H x W: 72.4 x 56.2 cm (28 1/2 x 22 1/8 in.)", 
+        "title": "Poster, \"We put a little bit of blue jean in everything we make\" for Levi Strauss, ca. 1975–80", 
+        "provenance": "1981: acquired by Museum", 
+        "participants": [
+            {
+                "person_name": "B. L. Wolfe", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "", 
+                "role_display_name": "Designed by", 
+                "person_id": "51688177", 
+                "person_url": "https://collection.cooperhewitt.org/people/51688177/"
+            }, 
+            {
+                "person_name": "Levi Strauss", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236667/", 
+                "role_id": "35236667", 
+                "role_name": "Client", 
+                "person_date": "San Francisco, California, USA", 
+                "role_display_name": "Client:", 
+                "person_id": "18535845", 
+                "person_url": "https://collection.cooperhewitt.org/people/18535845/"
+            }
+        ], 
+        "decade": "1970", 
+        "label_text": null, 
+        "woe:country": "23424977", 
+        "dimensions_raw": {
+            "width": [
+                "56.20", 
+                "centimeters"
+            ], 
+            "height": [
+                "72.40", 
+                "centimeters"
+            ]
+        }, 
+        "department_id": "35347493", 
+        "title_raw": "\"We put a little bit of blue jean in everything we make\" for Levi Strauss", 
+        "justification": null, 
+        "media_id": "35399021", 
+        "description": "A mining scene with mountain made of jeans in background and horse and wagon coming out of pit. Several miners pushing wagons, horses. In the foreground, a seated man clearly wearing Levi’s is lighting his pipe; next to him several folded shirts and a wagon filled with shirts.", 
+        "creditline": "Gift of Various Donors", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "ca. 1975–80", 
+        "url": "https://collection.cooperhewitt.org/objects/18617599/", 
+        "type": "poster", 
+        "accession_number": "1981-29-254", 
+        "year_end": 1981, 
+        "signed": "Signed in black ink, lower right: Wolfe", 
+        "inscribed": "Printed in white ink, right lower edge:  The slogan “We put a little blue jean in everything we make” / is a trademark of Levi Strauss & Co., San Francisco, Calif. Pocket tabs with R or LEVI’S both represent genuine / LEVI’S garments. . Levi Strauss & Co.", 
+        "period_id": null, 
+        "year_acquired": "1981", 
+        "woe:country_id": "23424977"
+    }
+}

@@ -1,0 +1,147 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": 1975, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": "lithograph with silkscreen and collage", 
+        "tms:id": "177531", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/50023_3ab5f9641c830bdf_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "50023"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/50023_3ab5f9641c830bdf_b.jpg", 
+                    "width": 699, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "50023"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/50023_3ab5f9641c830bdf_d.gif", 
+                    "width": 218, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "50023"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/50023_3ab5f9641c830bdf_z.jpg", 
+                    "width": 437, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "50023"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/50023_3ab5f9641c830bdf_n.jpg", 
+                    "width": 218, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "50023"
+                }
+            }, 
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/255811_ffb258c351ab182a_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "0", 
+                    "image_id": "255811"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/255811_ffb258c351ab182a_b.jpg", 
+                    "width": 704, 
+                    "height": 1024, 
+                    "is_primary": "0", 
+                    "image_id": "255811"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/255811_ffb258c351ab182a_d.gif", 
+                    "width": 220, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "255811"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/255811_ffb258c351ab182a_z.jpg", 
+                    "width": 440, 
+                    "height": 640, 
+                    "is_primary": "0", 
+                    "image_id": "255811"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/255811_ffb258c351ab182a_n.jpg", 
+                    "width": 220, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "255811"
+                }
+            }
+        ], 
+        "id": "18617995", 
+        "has_no_known_copyright": null, 
+        "woe:country_name": "United States", 
+        "dimensions": "73.7 x 55.9 cm (29 x 22 in.)", 
+        "title": "Poster, Texas Mastaba, 1975", 
+        "provenance": null, 
+        "participants": [
+            {
+                "person_name": "Karin Zonis", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35352245/", 
+                "role_id": "35352245", 
+                "role_name": "Cataloguer", 
+                "person_date": "", 
+                "role_display_name": "Catalogued by", 
+                "person_id": "51676457", 
+                "person_url": "https://collection.cooperhewitt.org/people/51676457/"
+            }, 
+            {
+                "person_name": "Christo", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "American, b. Bulgaria 1935", 
+                "role_display_name": "Designed by", 
+                "person_id": "18053287", 
+                "person_url": "https://collection.cooperhewitt.org/people/18053287/"
+            }
+        ], 
+        "decade": "1970", 
+        "label_text": null, 
+        "woe:country": "23424977", 
+        "dimensions_raw": {
+            "width": [
+                "55.88", 
+                "centimeters"
+            ], 
+            "height": [
+                "73.66", 
+                "centimeters"
+            ]
+        }, 
+        "department_id": "35347493", 
+        "title_raw": "Texas Mastaba", 
+        "justification": null, 
+        "media_id": "35519701", 
+        "description": "Poster depicts design of Christo’s oil drum project: 500,000 drums in orange and blue stacked into shape of a mastaba on brown background. Text in black with some orange highlights, lower margin: TEXAS MASTABA / PROJECT FOR 500,000 STACKED OIL DRUMS, inch-(diameter 24” x 36” length,); left center: [illegible] / 96’0”; lower margin: America: the third century / [in italics:] Texas Mastaba by Christo: From a series commissioned by Mobil Oil Corporation for the Bicentennial. Recognized by the American Revolution Bicentennial Administration.", 
+        "creditline": "Gift of Various Donors", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "1975", 
+        "url": "https://collection.cooperhewitt.org/objects/18617995/", 
+        "type": "poster", 
+        "accession_number": "1981-29-430", 
+        "year_end": 1975, 
+        "signed": "Signed in black, lower right margin: Christo 1975", 
+        "inscribed": "Inscribed in black, lower left: Mobil [logo] / AMERICAN REVOLUTION BICENTENNIAL 1776-1976 [encircling logo]", 
+        "period_id": null, 
+        "year_acquired": "1981", 
+        "woe:country_id": "23424977"
+    }
+}

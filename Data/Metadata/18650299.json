@@ -1,0 +1,110 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": 1993, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": "screen print, light brown wove paper", 
+        "tms:id": "200077", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/257225_2a4677fb255201c6_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "257225"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/257225_2a4677fb255201c6_b.jpg", 
+                    "width": 512, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "257225"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/257225_2a4677fb255201c6_d.gif", 
+                    "width": 160, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "257225"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/257225_2a4677fb255201c6_z.jpg", 
+                    "width": 320, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "257225"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/257225_2a4677fb255201c6_n.jpg", 
+                    "width": 160, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "257225"
+                }
+            }
+        ], 
+        "id": "18650299", 
+        "has_no_known_copyright": null, 
+        "woe:country_name": "United States", 
+        "dimensions": "62.2 x 28.6 cm (24 1/2 x 11 1/4 in. )", 
+        "title": "Poster, Band Aid: Spoon, 1993", 
+        "provenance": null, 
+        "participants": [
+            {
+                "person_name": "Marcus Durant", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35351535/", 
+                "role_id": "35351535", 
+                "role_name": "Donor", 
+                "person_date": "b. 1967", 
+                "role_display_name": "Donated by", 
+                "person_id": "18041805", 
+                "person_url": "https://collection.cooperhewitt.org/people/18041805/"
+            }, 
+            {
+                "person_name": "Marcus Durant", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "b. 1967", 
+                "role_display_name": "Designed by", 
+                "person_id": "18041805", 
+                "person_url": "https://collection.cooperhewitt.org/people/18041805/"
+            }
+        ], 
+        "decade": "1990", 
+        "label_text": null, 
+        "woe:country": "23424977", 
+        "dimensions_raw": {
+            "width": [
+                "28.60", 
+                "centimeters"
+            ], 
+            "height": [
+                "62.20", 
+                "centimeters"
+            ]
+        }, 
+        "department_id": "35347493", 
+        "title_raw": "Band Aid: Spoon", 
+        "justification": null, 
+        "media_id": "35423949", 
+        "description": "Vertical poster divided into three compartments with text at top and bottom and image of spoon in middle.  Printed across top \"BAND-AID\" in black and \"SCHROEDER-ZEN GUERRILLA-WALLEYE/ DERELICT HOTEL. PUDDLE. LEAN.\" in lime green.  Large image of spoon in black outline, extending over width of poster, against alternating diagonals of purple and black.  Below in black type against beige or beige type against black, information concerning benefits of this event and the names of sponsors.", 
+        "creditline": "Gift of Marcus Durant", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "1993", 
+        "url": "https://collection.cooperhewitt.org/objects/18650299/", 
+        "type": "poster", 
+        "accession_number": "1995-159-2", 
+        "year_end": 1993, 
+        "signed": "Stamped in blue, left corner of middle section: Square stamp mark with \"X-RAY\".", 
+        "inscribed": "Stencilled effect in black and natural color of paper (beige): \"BENEFITS: DELAWARE COMMITTEE FOR UNICEF/ UNITED NATION'S CILDREN FUND/ NOVEMBER 20, 1993 6 PM/ NEWARK HALL UNIVERSITY OF DELAWARE $5/ SPONSORED BY: U OF D CIRCLE IC CLUB/ RAINBOW RECORDS RED CLAY KIWANS/ NEWARK - WHITE CLAY KIWANS/ U OF D U.N. ASSOCIATION NEWARK HIGH SCHOOL KEY CLUB\".", 
+        "period_id": null, 
+        "year_acquired": "1995", 
+        "woe:country_id": "23424977"
+    }
+}

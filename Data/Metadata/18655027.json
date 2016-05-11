@@ -1,0 +1,119 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": "The agrarian reform and peasant revolution were two of the most controversial problems in the Second Republic of Spain (c. 1931). Vincent Canet Cabellón’s poster is emblematic of the agricultural upheaval that occurred at the start of the Spanish Civil War (1936-1939). The message of this poster highlights the underproduction and mismanagement of Spanish agricultural properties, as well as the discontent of agricultural laborers and sharecroppers in rural districts.", 
+        "year_start": 1936, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": "lithograph on paper", 
+        "tms:id": "202483", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/93582_693dc0afa566a962_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "93582"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/93582_693dc0afa566a962_b.jpg", 
+                    "width": 719, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "93582"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/93582_693dc0afa566a962_d.gif", 
+                    "width": 225, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "93582"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/93582_693dc0afa566a962_z.jpg", 
+                    "width": 449, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "93582"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/93582_693dc0afa566a962_n.jpg", 
+                    "width": 225, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "93582"
+                }
+            }
+        ], 
+        "id": "18655027", 
+        "has_no_known_copyright": null, 
+        "dimensions": "90.3 × 63.3 cm (35 9/16 × 24 15/16 in.)", 
+        "title": "Poster, Campesinos: Para Acabar con la Especulación Solo Hay un Medio la Cooperativa (Peasants: in order to stop the speculation, there is only one way, the co-operative), 1936", 
+        "provenance": null, 
+        "participants": [
+            {
+                "person_name": "Federación Provincial Campesina (València)", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236661/", 
+                "role_id": "35236661", 
+                "role_name": "Publisher", 
+                "person_date": "Valencia, Spain", 
+                "role_display_name": "Published by", 
+                "person_id": "68742831", 
+                "person_url": "https://collection.cooperhewitt.org/people/68742831/"
+            }, 
+            {
+                "person_name": "Vicente Canet Cabellón, Spanish", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "1887 - 1951", 
+                "role_display_name": "Designed by", 
+                "person_id": "68742829", 
+                "person_url": "https://collection.cooperhewitt.org/people/68742829/"
+            }, 
+            {
+                "person_name": "William P. Mangold", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35351535/", 
+                "role_id": "35351535", 
+                "role_name": "Donor", 
+                "person_date": "", 
+                "role_display_name": "Donated by", 
+                "person_id": "18049663", 
+                "person_url": "https://collection.cooperhewitt.org/people/18049663/"
+            }
+        ], 
+        "decade": "1930", 
+        "label_text": "This poster features a laborer at work in a vibrantly colored landscape. The illustrator has captured the figure at his greatest point of potential energy, about to bring down the hoe into the earth. But the text of the poster informs us that collective cooperation is essential to\nbetter agricultural management.", 
+        "woe:country": null, 
+        "dimensions_raw": {
+            "width": [
+                "68.20", 
+                "centimeters"
+            ], 
+            "height": [
+                "99.60", 
+                "centimeters"
+            ]
+        }, 
+        "department_id": "35347493", 
+        "title_raw": "Campesinos: Para Acabar con la Especulación Solo Hay un Medio la Cooperativa (Peasants: in order to stop the speculation, there is only one way, the co-operative)", 
+        "justification": null, 
+        "media_id": "35419317", 
+        "description": "Male peasant holding a gardening tool above his head; field of hills and large white clouds in background. Red and black text, upper left: Campesinos:/ para acabar con; yellow text, bottom left: la; text in white caps diagonally across field, bottom half: ESPECULACIÓN; yellow and red text, bottom right: solo hay/ un medio/ la / Cooperativa. (Peasants: in order to stop the speculation, there is only one way, the co-operative)", 
+        "creditline": "Gift of William P. Mangold", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "1936", 
+        "url": "https://collection.cooperhewitt.org/objects/18655027/", 
+        "type": "poster", 
+        "accession_number": "1997-21-21", 
+        "year_end": 1936, 
+        "signed": null, 
+        "inscribed": null, 
+        "period_id": null, 
+        "year_acquired": "1997", 
+        "woe:country_id": null
+    }
+}

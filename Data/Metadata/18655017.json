@@ -1,0 +1,120 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": 1931, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": "lithograph on wove paper/newsprint", 
+        "tms:id": "202478", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/252431_d9eb0e8d3ce21cca_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "252431"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/252431_d9eb0e8d3ce21cca_b.jpg", 
+                    "width": 727, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "252431"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/252431_d9eb0e8d3ce21cca_d.gif", 
+                    "width": 227, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "252431"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/252431_d9eb0e8d3ce21cca_z.jpg", 
+                    "width": 454, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "252431"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/252431_d9eb0e8d3ce21cca_n.jpg", 
+                    "width": 227, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "252431"
+                }
+            }
+        ], 
+        "id": "18655017", 
+        "has_no_known_copyright": null, 
+        "woe:country_name": "Spain", 
+        "dimensions": "96.5 x 67.3 cm (38 x 26 1/2 in.)\n99.6 x 70.3 cm (39 3/16 x 27 11/16 in.)", 
+        "title": "Poster, ¡Basta de \"Ensayos\" y \"Proyectos\"!/ ¡Primero Ganar la Guerra! (Enough of \"Experiments\" and \"Projects\"! First Win the War!), ca. 1936–39", 
+        "provenance": null, 
+        "participants": [
+            {
+                "person_name": "José Espert Arcos", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "Spanish, 1907 - 1951", 
+                "role_display_name": "Designed by", 
+                "person_id": "18060395", 
+                "person_url": "https://collection.cooperhewitt.org/people/18060395/"
+            }, 
+            {
+                "person_name": "Council for the Defense of Madrid", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236661/", 
+                "role_id": "35236661", 
+                "role_name": "Publisher", 
+                "person_date": "", 
+                "role_display_name": "Published by", 
+                "person_id": "18060393", 
+                "person_url": "https://collection.cooperhewitt.org/people/18060393/"
+            }, 
+            {
+                "person_name": "William P. Mangold", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35351535/", 
+                "role_id": "35351535", 
+                "role_name": "Donor", 
+                "person_date": "", 
+                "role_display_name": "Donated by", 
+                "person_id": "18049663", 
+                "person_url": "https://collection.cooperhewitt.org/people/18049663/"
+            }
+        ], 
+        "decade": "1930", 
+        "label_text": null, 
+        "woe:country": "23424950", 
+        "dimensions_raw": {
+            "width": [
+                "67.30", 
+                "centimeters"
+            ], 
+            "height": [
+                "96.50", 
+                "centimeters"
+            ]
+        }, 
+        "department_id": "35347493", 
+        "title_raw": "¡Basta de \"Ensayos\" y \"Proyectos\"!/ ¡Primero Ganar la Guerra! (Enough of \"Experiments\" and \"Projects\"! First Win the War!)", 
+        "justification": null, 
+        "media_id": "35407871", 
+        "description": "Spanish Civil War poster. Two soldiers, rendered in green, with fixed bayonets stand behind a house of cards, decorated with antique tarot motifs. Bottom right, in image: JUNTA DELEGADA DE DEFENSA DE MADRID - DELEGACION DE PROPAGANDA Y PRENSA (with official crest) (Joined Defense Delegation of Madrid-Delegation of Propaganda and Press); bottom left, below image: SINDICATO PROFESIONALES BELLAS ARTES, U.G.T. (Professional Fine Arts Union); bottom right, below image: RIVADENEYRA C.O. - MADRID", 
+        "creditline": "Gift of William P. Mangold", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "ca. 1936–39", 
+        "url": "https://collection.cooperhewitt.org/objects/18655017/", 
+        "type": "poster", 
+        "accession_number": "1997-21-17", 
+        "year_end": 1941, 
+        "signed": null, 
+        "inscribed": null, 
+        "period_id": null, 
+        "year_acquired": "1997", 
+        "woe:country_id": "23424950"
+    }
+}

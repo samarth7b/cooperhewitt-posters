@@ -1,0 +1,161 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": 1922, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": "offset lithograph on paper, lined", 
+        "tms:id": "134278", 
+        "images": [
+            {
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/65777_f7f1a1dfb4b8211d_b.jpg", 
+                    "width": 639, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "65777"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/65777_f7f1a1dfb4b8211d_d.gif", 
+                    "width": 200, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "65777"
+                }, 
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/65777_f7f1a1dfb4b8211d_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "65777"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/65777_f7f1a1dfb4b8211d_n.jpg", 
+                    "width": 200, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "65777"
+                }, 
+                "x": {
+                    "url": "https://images.collection.cooperhewitt.org/65777_0f5161d6ac9d09c2_x.jpg", 
+                    "width": 2556, 
+                    "height": 4096, 
+                    "is_primary": "1", 
+                    "image_id": "65777"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/65777_f7f1a1dfb4b8211d_z.jpg", 
+                    "width": 399, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "65777"
+                }
+            }, 
+            {
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/254696_cdf856e7ac2e68be_b.jpg", 
+                    "width": 607, 
+                    "height": 1024, 
+                    "is_primary": "0", 
+                    "image_id": "254696"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/254696_cdf856e7ac2e68be_d.gif", 
+                    "width": 190, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "254696"
+                }, 
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/254696_cdf856e7ac2e68be_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "0", 
+                    "image_id": "254696"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/254696_cdf856e7ac2e68be_n.jpg", 
+                    "width": 190, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "254696"
+                }, 
+                "x": {
+                    "url": "https://images.collection.cooperhewitt.org/254696_b4a317decc62061e_x.jpg", 
+                    "width": 2425, 
+                    "height": 4095, 
+                    "is_primary": "0", 
+                    "image_id": "254696"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/254696_cdf856e7ac2e68be_z.jpg", 
+                    "width": 379, 
+                    "height": 640, 
+                    "is_primary": "0", 
+                    "image_id": "254696"
+                }
+            }
+        ], 
+        "id": "18447525", 
+        "has_no_known_copyright": "1", 
+        "woe:country_name": "United Kingdom", 
+        "dimensions": "101.9 x 59.8 cm (40 1/8 x 23 9/16 in.)", 
+        "title": "Poster, London History at the London Museum, for London Underground, 1922", 
+        "provenance": "Mrs. Edward McKnight Kauffer; 1963: acquired by Museum", 
+        "participants": [
+            {
+                "person_name": "Mrs. Edward McKnight Kauffer", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35351535/", 
+                "role_id": "35351535", 
+                "role_name": "Donor", 
+                "person_date": "", 
+                "role_display_name": "Donated by", 
+                "person_id": "18061849", 
+                "person_url": "https://collection.cooperhewitt.org/people/18061849/"
+            }, 
+            {
+                "person_name": "Edward McKnight Kauffer", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "American, active England, 1890–1954", 
+                "role_display_name": "Designed by", 
+                "person_id": "18041923", 
+                "person_url": "https://collection.cooperhewitt.org/people/18041923/"
+            }
+        ], 
+        "decade": "1920", 
+        "label_text": null, 
+        "woe:country": "23424975", 
+        "dimensions_raw": {
+            "width": [
+                "59.80", 
+                "centimeters"
+            ], 
+            "height": [
+                "101.90", 
+                "centimeters"
+            ]
+        }, 
+        "department_id": "35347493", 
+        "title_raw": "London History at the London Museum, for London Underground", 
+        "justification": null, 
+        "media_id": "51685923", 
+        "description": "Large fire and smoke engulfing a grey abstracted castle. Below, in grey and red: LONDON HISTORY AT THE / LONDON MUSEUM / DOVER STREET / OR ST. JAMES’S PARK STATION.", 
+        "creditline": "Gift of Mrs. E. McKnight Kauffer", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "1922", 
+        "url": "https://collection.cooperhewitt.org/objects/18447525/", 
+        "type": "poster", 
+        "accession_number": "1963-39-24", 
+        "year_end": 1922, 
+        "signed": "Signed in grey ink, center right: E.McK. KAUFFER. 22", 
+        "inscribed": "Printed in grey ink, lower left: 171. 1000. 8-2-23.; lower right: VINCENT BROOKS DAY & SON LTD. LITH. LONDON. w.C.2.", 
+        "period_id": null, 
+        "year_acquired": "1963", 
+        "woe:country_id": "23424975"
+    }
+}

@@ -1,0 +1,194 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": null, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": "lithograph on paper", 
+        "tms:id": "185946", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/101431_797a8c626e9cd82a_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "101431"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/101431_797a8c626e9cd82a_b.jpg", 
+                    "width": 673, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "101431"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/101431_797a8c626e9cd82a_d.gif", 
+                    "width": 210, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "101431"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/101431_797a8c626e9cd82a_z.jpg", 
+                    "width": 420, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "101431"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/101431_797a8c626e9cd82a_n.jpg", 
+                    "width": 210, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "101431"
+                }
+            }, 
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/269854_9a09db464803a2c5_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "0", 
+                    "image_id": "269854"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/269854_9a09db464803a2c5_b.jpg", 
+                    "width": 691, 
+                    "height": 1024, 
+                    "is_primary": "0", 
+                    "image_id": "269854"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/269854_9a09db464803a2c5_d.gif", 
+                    "width": 216, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "269854"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/269854_9a09db464803a2c5_z.jpg", 
+                    "width": 432, 
+                    "height": 640, 
+                    "is_primary": "0", 
+                    "image_id": "269854"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/269854_9a09db464803a2c5_n.jpg", 
+                    "width": 216, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "269854"
+                }
+            }, 
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/95228_fe50527221223d53_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "0", 
+                    "image_id": "95228"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/95228_fe50527221223d53_b.jpg", 
+                    "width": 675, 
+                    "height": 1024, 
+                    "is_primary": "0", 
+                    "image_id": "95228"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/95228_fe50527221223d53_d.gif", 
+                    "width": 211, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "95228"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/95228_fe50527221223d53_z.jpg", 
+                    "width": 422, 
+                    "height": 640, 
+                    "is_primary": "0", 
+                    "image_id": "95228"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/95228_fe50527221223d53_n.jpg", 
+                    "width": 211, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "95228"
+                }
+            }
+        ], 
+        "id": "18622221", 
+        "has_no_known_copyright": null, 
+        "woe:country_name": "United States", 
+        "dimensions": "117 × 76.3 cm (46 1/16 × 30 1/16 in.)", 
+        "title": "Poster, Mobil, American Museum of Natural History", 
+        "provenance": "1987: acquired by Museum", 
+        "participants": [
+            {
+                "person_name": "American Museum of Natural History", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236675/", 
+                "role_id": "35236675", 
+                "role_name": "For", 
+                "person_date": "", 
+                "role_display_name": "Made for", 
+                "person_id": "34624649", 
+                "person_url": "https://collection.cooperhewitt.org/people/34624649/"
+            }, 
+            {
+                "person_name": "Chermayeff & Geismar Associates", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "New York, New York, USA", 
+                "role_display_name": "Designed by", 
+                "person_id": "18053275", 
+                "person_url": "https://collection.cooperhewitt.org/people/18053275/"
+            }, 
+            {
+                "person_name": "Chermayeff & Geismar Associates", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "New York, New York, USA", 
+                "role_display_name": "Designed by", 
+                "person_id": "18053275", 
+                "person_url": "https://collection.cooperhewitt.org/people/18053275/"
+            }
+        ], 
+        "decade": null, 
+        "label_text": null, 
+        "woe:country": "23424977", 
+        "dimensions_raw": {
+            "width": [
+                "76.30", 
+                "centimeters"
+            ], 
+            "height": [
+                "117.00", 
+                "centimeters"
+            ]
+        }, 
+        "department_id": "35347493", 
+        "title_raw": "Mobil, American Museum of Natural History", 
+        "justification": null, 
+        "media_id": "35419317", 
+        "description": null, 
+        "creditline": null, 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": null, 
+        "url": "https://collection.cooperhewitt.org/objects/18622221/", 
+        "type": "poster", 
+        "accession_number": "1987-23-2", 
+        "year_end": null, 
+        "signed": null, 
+        "inscribed": null, 
+        "period_id": null, 
+        "year_acquired": "1987", 
+        "woe:country_id": "23424977"
+    }
+}

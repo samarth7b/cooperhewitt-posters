@@ -1,0 +1,110 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": 1931, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": "offset lithograph on paper mounted on board", 
+        "tms:id": "133879", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/65108_bdc5611c1d4906de_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "65108"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/65108_bdc5611c1d4906de_b.jpg", 
+                    "width": 672, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "65108"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/65108_bdc5611c1d4906de_d.gif", 
+                    "width": 210, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "65108"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/65108_bdc5611c1d4906de_z.jpg", 
+                    "width": 420, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "65108"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/65108_bdc5611c1d4906de_n.jpg", 
+                    "width": 210, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "65108"
+                }
+            }
+        ], 
+        "id": "18446727", 
+        "has_no_known_copyright": null, 
+        "woe:country_name": "United Kingdom", 
+        "dimensions": "102 x 64.1 cm (40 3/16 x 25 1/4 in.)", 
+        "title": "Poster, Travel in Comfort, Imperial Airways, ca. 1936", 
+        "provenance": "Mrs. Edward McKnight Kauffer; 1963: acquired by Museum", 
+        "participants": [
+            {
+                "person_name": "Mrs. Edward McKnight Kauffer", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35351535/", 
+                "role_id": "35351535", 
+                "role_name": "Donor", 
+                "person_date": "", 
+                "role_display_name": "Donated by", 
+                "person_id": "18061849", 
+                "person_url": "https://collection.cooperhewitt.org/people/18061849/"
+            }, 
+            {
+                "person_name": "Edward McKnight Kauffer", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "American, active England, 1890–1954", 
+                "role_display_name": "Designed by", 
+                "person_id": "18041923", 
+                "person_url": "https://collection.cooperhewitt.org/people/18041923/"
+            }
+        ], 
+        "decade": "1930", 
+        "label_text": null, 
+        "woe:country": "23424975", 
+        "dimensions_raw": {
+            "width": [
+                "64.10", 
+                "centimeters"
+            ], 
+            "height": [
+                "102.00", 
+                "centimeters"
+            ]
+        }, 
+        "department_id": "35347493", 
+        "title_raw": "Travel in Comfort, Imperial Airways", 
+        "justification": null, 
+        "media_id": "51685921", 
+        "description": "The world in black and white, surrounded by text in black and white: TRAVEL IN / COMFORT; in blue: BY / IMPERIAL AIRWAYS; in black: EUROPE AFRICA INDIA / AND THE EAST.", 
+        "creditline": "Gift of Mrs. E. McKnight Kauffer", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "ca. 1936", 
+        "url": "https://collection.cooperhewitt.org/objects/18446727/", 
+        "type": "poster", 
+        "accession_number": "1963-39-101", 
+        "year_end": 1941, 
+        "signed": "Signed in black ink, under the globe, right: E. McKnight Kauffer.", 
+        "inscribed": null, 
+        "period_id": null, 
+        "year_acquired": "1963", 
+        "woe:country_id": "23424975"
+    }
+}

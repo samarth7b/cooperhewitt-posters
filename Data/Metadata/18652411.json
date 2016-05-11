@@ -1,0 +1,167 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": 1990, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": "screenprint on wove paper", 
+        "tms:id": "201149", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/81530_223a9c8e97a8e9d1_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "81530"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/81530_223a9c8e97a8e9d1_b.jpg", 
+                    "width": 724, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "81530"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/81530_223a9c8e97a8e9d1_d.gif", 
+                    "width": 226, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "81530"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/81530_223a9c8e97a8e9d1_z.jpg", 
+                    "width": 453, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "81530"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/81530_223a9c8e97a8e9d1_n.jpg", 
+                    "width": 226, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "81530"
+                }
+            }, 
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/268373_322578a8780241d8_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "0", 
+                    "image_id": "268373"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/268373_322578a8780241d8_b.jpg", 
+                    "width": 741, 
+                    "height": 1024, 
+                    "is_primary": "0", 
+                    "image_id": "268373"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/268373_322578a8780241d8_d.gif", 
+                    "width": 232, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "268373"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/268373_322578a8780241d8_z.jpg", 
+                    "width": 463, 
+                    "height": 640, 
+                    "is_primary": "0", 
+                    "image_id": "268373"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/268373_322578a8780241d8_n.jpg", 
+                    "width": 232, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "268373"
+                }
+            }
+        ], 
+        "id": "18652411", 
+        "has_no_known_copyright": null, 
+        "woe:country_name": "France", 
+        "dimensions": "84 x 59.2 cm (33 1/16 x 23 5/16 in.)", 
+        "title": "Poster, Bed, Sida, ca. 1995", 
+        "provenance": "1995: acquired by Museum", 
+        "participants": [
+            {
+                "person_name": "Imagenes Contra El Sida", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35352249/", 
+                "role_id": "35352249", 
+                "role_name": "Vendor", 
+                "person_date": "", 
+                "role_display_name": "Purchased from", 
+                "person_id": "18041725", 
+                "person_url": "https://collection.cooperhewitt.org/people/18041725/"
+            }, 
+            {
+                "person_name": "Graficaza", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236673/", 
+                "role_id": "35236673", 
+                "role_name": "Printer", 
+                "person_date": "France, founded 1983", 
+                "role_display_name": "Printed by", 
+                "person_id": "51865265", 
+                "person_url": "https://collection.cooperhewitt.org/people/51865265/"
+            }, 
+            {
+                "person_name": "General Exhibitions Funds", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35352247/", 
+                "role_id": "35352247", 
+                "role_name": "Fund", 
+                "person_date": "", 
+                "role_display_name": "Fund:", 
+                "person_id": "18049091", 
+                "person_url": "https://collection.cooperhewitt.org/people/18049091/"
+            }, 
+            {
+                "person_name": "Jana Sterbak", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "Canadian, born Czechoslovakia, 1955", 
+                "role_display_name": "Designed by", 
+                "person_id": "18049097", 
+                "person_url": "https://collection.cooperhewitt.org/people/18049097/"
+            }
+        ], 
+        "decade": "1990", 
+        "label_text": null, 
+        "woe:country": "23424819", 
+        "dimensions_raw": {
+            "width": [
+                "59.20", 
+                "centimeters"
+            ], 
+            "height": [
+                "84.00", 
+                "centimeters"
+            ]
+        }, 
+        "department_id": "35347493", 
+        "title_raw": "Bed, Sida", 
+        "justification": null, 
+        "media_id": "35399029", 
+        "description": "Poster shows cropped close-up of a bed with bright white sheets. Embroidered on the pillow case, in script: SIDA (AIDS).", 
+        "creditline": "Museum purchase from General Exhibitions Funds", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "ca. 1995", 
+        "url": "https://collection.cooperhewitt.org/objects/18652411/", 
+        "type": "poster", 
+        "accession_number": "1995-86-5", 
+        "year_end": 1995, 
+        "signed": null, 
+        "inscribed": "Printed in blue ink, right edge: images pour la lutte contre le sida artis sérigraphie graficaza - france", 
+        "period_id": null, 
+        "year_acquired": "1995", 
+        "woe:country_id": "23424819"
+    }
+}

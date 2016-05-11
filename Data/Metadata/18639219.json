@@ -1,0 +1,100 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": 1991, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": "offset lithograph on paper", 
+        "tms:id": "194473", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/267661_07736a4b8ee30f1a_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "267661"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/267661_07736a4b8ee30f1a_b.jpg", 
+                    "width": 732, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "267661"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/267661_07736a4b8ee30f1a_d.gif", 
+                    "width": 229, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "267661"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/267661_07736a4b8ee30f1a_z.jpg", 
+                    "width": 458, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "267661"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/267661_07736a4b8ee30f1a_n.jpg", 
+                    "width": 229, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "267661"
+                }
+            }
+        ], 
+        "id": "18639219", 
+        "has_no_known_copyright": null, 
+        "dimensions": null, 
+        "title": "Poster, 1991", 
+        "provenance": "Shin Matsunaga; 1991: acquired by Museum", 
+        "participants": [
+            {
+                "person_name": "Shin Matsunaga", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35351535/", 
+                "role_id": "35351535", 
+                "role_name": "Donor", 
+                "person_date": "b. 1940", 
+                "role_display_name": "Donated by", 
+                "person_id": "18041215", 
+                "person_url": "https://collection.cooperhewitt.org/people/18041215/"
+            }, 
+            {
+                "person_name": "Shin Matsunaga Design Inc.", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236565/", 
+                "role_id": "35236565", 
+                "role_name": "Artist", 
+                "person_date": "b.  1940", 
+                "role_display_name": "", 
+                "person_id": "18048545", 
+                "person_url": "https://collection.cooperhewitt.org/people/18048545/"
+            }
+        ], 
+        "decade": "1990", 
+        "label_text": null, 
+        "woe:country": null, 
+        "dimensions_raw": null, 
+        "department_id": "35347493", 
+        "title_raw": null, 
+        "justification": null, 
+        "media_id": "35399021", 
+        "description": null, 
+        "creditline": "Gift of Shin Matsunaga", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "1991", 
+        "url": "https://collection.cooperhewitt.org/objects/18639219/", 
+        "type": "poster", 
+        "accession_number": "1992-144-1", 
+        "year_end": 1991, 
+        "signed": null, 
+        "inscribed": null, 
+        "period_id": null, 
+        "year_acquired": "1992", 
+        "woe:country_id": null
+    }
+}

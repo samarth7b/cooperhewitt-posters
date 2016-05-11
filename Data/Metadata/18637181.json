@@ -1,0 +1,140 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": 1978, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": "offset lithograph\nsupport: paper", 
+        "tms:id": "193442", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/183144_9772703ec280b447_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "183144"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/183144_9772703ec280b447_b.jpg", 
+                    "width": 823, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "183144"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/183144_9772703ec280b447_d.gif", 
+                    "width": 257, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "183144"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/183144_9772703ec280b447_z.jpg", 
+                    "width": 514, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "183144"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/183144_9772703ec280b447_n.jpg", 
+                    "width": 257, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "183144"
+                }
+            }
+        ], 
+        "id": "18637181", 
+        "has_no_known_copyright": null, 
+        "woe:country_name": "United States", 
+        "dimensions": "71.1 x 56 cm (28 x 22 1/16 in.)", 
+        "title": "Poster, Cranbrook Architecture 19, 1978–79", 
+        "provenance": null, 
+        "participants": [
+            {
+                "person_name": "Katherine McCoy", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35351535/", 
+                "role_id": "35351535", 
+                "role_name": "Donor", 
+                "person_date": "American, b. 1945", 
+                "role_display_name": "Donated by", 
+                "person_id": "18042311", 
+                "person_url": "https://collection.cooperhewitt.org/people/18042311/"
+            }, 
+            {
+                "person_name": "Cranbrook Academy of Art", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236751/", 
+                "role_id": "35236751", 
+                "role_name": "Director of Production", 
+                "person_date": "", 
+                "role_display_name": "Production directed by", 
+                "person_id": "18041809", 
+                "person_url": "https://collection.cooperhewitt.org/people/18041809/"
+            }, 
+            {
+                "person_name": "CGC", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35352245/", 
+                "role_id": "35352245", 
+                "role_name": "Cataloguer", 
+                "person_date": "", 
+                "role_display_name": "Catalogued by", 
+                "person_id": "18048417", 
+                "person_url": "https://collection.cooperhewitt.org/people/18048417/"
+            }, 
+            {
+                "person_name": "Daniel Libeskind", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236565/", 
+                "role_id": "35236565", 
+                "role_name": "Artist", 
+                "person_date": "b. 1946", 
+                "role_display_name": "", 
+                "person_id": "18042317", 
+                "person_url": "https://collection.cooperhewitt.org/people/18042317/"
+            }, 
+            {
+                "person_name": "Katherine McCoy", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "American, b. 1945", 
+                "role_display_name": "Designed by", 
+                "person_id": "18042311", 
+                "person_url": "https://collection.cooperhewitt.org/people/18042311/"
+            }
+        ], 
+        "decade": "1970", 
+        "label_text": null, 
+        "woe:country": "23424977", 
+        "dimensions_raw": {
+            "width": [
+                "56.00", 
+                "centimeters"
+            ], 
+            "height": [
+                "71.10", 
+                "centimeters"
+            ]
+        }, 
+        "department_id": "35347493", 
+        "title_raw": "Cranbrook Architecture 19", 
+        "justification": null, 
+        "media_id": "136270993", 
+        "description": null, 
+        "creditline": "Gift of Katherine McCoy", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "1978–79", 
+        "url": "https://collection.cooperhewitt.org/objects/18637181/", 
+        "type": "poster", 
+        "accession_number": "1991-69-113", 
+        "year_end": 1979, 
+        "signed": null, 
+        "inscribed": "Imprinted in blue ink at UL: Cranbrook Architecture 1978/79; at UR: Daniel Libeskind, Chairman/Department of Architecture/Roy Slade, President, CAA/A 2-year graduate Masters/of Architecture program, structured on an independent basis and directed/ towards a design thesis...[followed by textexplaining the objectives of the program].Imprinted in red ink at UR are the names of the visiting guests followed by the month they will teach, andtheir current position. Imprinted in blue ink: The Visiting Guests are imprinted in red ink as follows: Joseph Rykwert, Raimund Abraham, Aldo Rossi, Daliber Veseley,/ Robert Slutzky, Richard Meier...At LR margin imprinted in blue ink: Design: Katherine McCoy Collage Drawings: Daniel Libeskind.", 
+        "period_id": null, 
+        "year_acquired": "1991", 
+        "woe:country_id": "23424977"
+    }
+}

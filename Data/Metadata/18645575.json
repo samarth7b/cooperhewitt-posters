@@ -1,0 +1,224 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": 1989, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": "screenprint on paper", 
+        "tms:id": "197691", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/95214_c0923b0aca19347d_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "95214"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/95214_c0923b0aca19347d_b.jpg", 
+                    "width": 842, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "95214"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/95214_c0923b0aca19347d_d.gif", 
+                    "width": 263, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "95214"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/95214_c0923b0aca19347d_z.jpg", 
+                    "width": 526, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "95214"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/95214_c0923b0aca19347d_n.jpg", 
+                    "width": 263, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "95214"
+                }
+            }, 
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/101331_70a0918a5581827a_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "0", 
+                    "image_id": "101331"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/101331_70a0918a5581827a_b.jpg", 
+                    "width": 840, 
+                    "height": 1024, 
+                    "is_primary": "0", 
+                    "image_id": "101331"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/101331_70a0918a5581827a_d.gif", 
+                    "width": 263, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "101331"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/101331_70a0918a5581827a_z.jpg", 
+                    "width": 525, 
+                    "height": 640, 
+                    "is_primary": "0", 
+                    "image_id": "101331"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/101331_70a0918a5581827a_n.jpg", 
+                    "width": 263, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "101331"
+                }
+            }, 
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/11957_6026409d631f3710_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "0", 
+                    "image_id": "11957"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/11957_6026409d631f3710_b.jpg", 
+                    "width": 836, 
+                    "height": 1024, 
+                    "is_primary": "0", 
+                    "image_id": "11957"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/11957_6026409d631f3710_d.gif", 
+                    "width": 261, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "11957"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/11957_6026409d631f3710_z.jpg", 
+                    "width": 522, 
+                    "height": 640, 
+                    "is_primary": "0", 
+                    "image_id": "11957"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/11957_6026409d631f3710_n.jpg", 
+                    "width": 261, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "11957"
+                }
+            }
+        ], 
+        "id": "18645575", 
+        "has_no_known_copyright": null, 
+        "woe:country_name": "United States", 
+        "dimensions": "H x W: 58.6 × 48.4 cm (23 1/16 × 19 1/16 in.)", 
+        "title": "Poster, Enjoy AZT, 1989", 
+        "provenance": "Steven Heller and Karrie Jacobs; 1993: acquired by Museum", 
+        "participants": [
+            {
+                "person_name": "Karin Zonis", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35352245/", 
+                "role_id": "35352245", 
+                "role_name": "Cataloguer", 
+                "person_date": "", 
+                "role_display_name": "Catalogued by", 
+                "person_id": "51676457", 
+                "person_url": "https://collection.cooperhewitt.org/people/51676457/"
+            }, 
+            {
+                "person_name": "Steven Heller", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35351535/", 
+                "role_id": "35351535", 
+                "role_name": "Donor", 
+                "person_date": "American, b. 1950", 
+                "role_display_name": "Donated by", 
+                "person_id": "18041397", 
+                "person_url": "https://collection.cooperhewitt.org/people/18041397/"
+            }, 
+            {
+                "person_name": "Karrie Jacobs", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35351535/", 
+                "role_id": "35351535", 
+                "role_name": "Donor", 
+                "person_date": "", 
+                "role_display_name": "Donated by", 
+                "person_id": "18056647", 
+                "person_url": "https://collection.cooperhewitt.org/people/18056647/"
+            }, 
+            {
+                "person_name": "LSA", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35352245/", 
+                "role_id": "35352245", 
+                "role_name": "Cataloguer", 
+                "person_date": "", 
+                "role_display_name": "Catalogued by", 
+                "person_id": "18048737", 
+                "person_url": "https://collection.cooperhewitt.org/people/18048737/"
+            }, 
+            {
+                "person_name": "Avram Finkelstein", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "American, b. 1952", 
+                "role_display_name": "Designed by", 
+                "person_id": "18043249", 
+                "person_url": "https://collection.cooperhewitt.org/people/18043249/"
+            }, 
+            {
+                "person_name": "Vincent Gagliostro", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "American, b. 1955", 
+                "role_display_name": "Designed by", 
+                "person_id": "18043247", 
+                "person_url": "https://collection.cooperhewitt.org/people/18043247/"
+            }
+        ], 
+        "decade": "1980", 
+        "label_text": "In 1987, the US Food and Drug Administration approved AZT for the treatment of AIDS. Because the drug was both toxic and ineffective, many AIDS activists demanded that drug companies develop alternative treatments. This self-published poster compares AZT to Coca-Cola, condemning the drug as a consumer product that profits from the misery of AIDS patients.", 
+        "woe:country": "23424977", 
+        "dimensions_raw": {
+            "width": [
+                "48.00", 
+                "centimeters"
+            ], 
+            "height": [
+                "58.40", 
+                "centimeters"
+            ]
+        }, 
+        "department_id": "35347493", 
+        "title_raw": "Enjoy AZT", 
+        "justification": null, 
+        "media_id": "35431679", 
+        "description": "Poster depicts the Coca-Cola logo, but with the word AZT instead. Below it is written: Trade-mark. Lower center, in white: IS THIS HEALTH CARE OR WEALTH CARE? Imprinted text in white: The U.S. government has spent one billion dollars...[4 lines of text]...", 
+        "creditline": "Gift of Steven Heller and Karrie Jacobs", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "1989", 
+        "url": "https://collection.cooperhewitt.org/objects/18645575/", 
+        "type": "poster", 
+        "accession_number": "1993-53-103", 
+        "year_end": 1989, 
+        "signed": null, 
+        "inscribed": "Imprinted in red ink on bottom: BULLET", 
+        "period_id": null, 
+        "year_acquired": "1993", 
+        "woe:country_id": "23424977"
+    }
+}

@@ -1,0 +1,100 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": 1976, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": "lithograph", 
+        "tms:id": "167016", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/103382_e4762a405c3845c5_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "103382"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/103382_e4762a405c3845c5_b.jpg", 
+                    "width": 673, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "103382"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/103382_e4762a405c3845c5_d.gif", 
+                    "width": 210, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "103382"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/103382_e4762a405c3845c5_z.jpg", 
+                    "width": 420, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "103382"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/103382_e4762a405c3845c5_n.jpg", 
+                    "width": 210, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "103382"
+                }
+            }
+        ], 
+        "id": "18512121", 
+        "has_no_known_copyright": null, 
+        "dimensions": "H x W: 116.8 × 76.4 cm (46 in. × 30 1/16 in.)", 
+        "title": "Poster, Measure for Measure, 1976", 
+        "provenance": null, 
+        "participants": [
+            {
+                "person_name": "Paul Davis", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "American, b. 1938", 
+                "role_display_name": "Designed by", 
+                "person_id": "18052585", 
+                "person_url": "https://collection.cooperhewitt.org/people/18052585/"
+            }, 
+            {
+                "person_name": "The Public Theater", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236667/", 
+                "role_id": "35236667", 
+                "role_name": "Client", 
+                "person_date": "New York, New York, USA", 
+                "role_display_name": "Client:", 
+                "person_id": "18052561", 
+                "person_url": "https://collection.cooperhewitt.org/people/18052561/"
+            }
+        ], 
+        "decade": "1970", 
+        "label_text": null, 
+        "woe:country": null, 
+        "dimensions_raw": null, 
+        "department_id": "35347493", 
+        "title_raw": "Measure for Measure", 
+        "justification": null, 
+        "media_id": "35402727", 
+        "description": null, 
+        "creditline": "Gift of Unknown Donor", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "1976", 
+        "url": "https://collection.cooperhewitt.org/objects/18512121/", 
+        "type": "poster", 
+        "accession_number": "1980-32-984", 
+        "year_end": 1976, 
+        "signed": null, 
+        "inscribed": null, 
+        "period_id": null, 
+        "year_acquired": "1980", 
+        "woe:country_id": null
+    }
+}

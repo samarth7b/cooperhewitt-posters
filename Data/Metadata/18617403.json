@@ -1,0 +1,184 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": 1972, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": "offset lithograph on paper", 
+        "tms:id": "177234", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/65141_28667416fa1ef2be_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "65141"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/65141_28667416fa1ef2be_b.jpg", 
+                    "width": 652, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "65141"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/65141_28667416fa1ef2be_d.gif", 
+                    "width": 204, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "65141"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/65141_28667416fa1ef2be_z.jpg", 
+                    "width": 407, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "65141"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/65141_28667416fa1ef2be_n.jpg", 
+                    "width": 204, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "65141"
+                }
+            }, 
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/267479_6fcf342a74e772e0_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "0", 
+                    "image_id": "267479"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/267479_6fcf342a74e772e0_b.jpg", 
+                    "width": 665, 
+                    "height": 1024, 
+                    "is_primary": "0", 
+                    "image_id": "267479"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/267479_6fcf342a74e772e0_d.gif", 
+                    "width": 208, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "267479"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/267479_6fcf342a74e772e0_z.jpg", 
+                    "width": 415, 
+                    "height": 640, 
+                    "is_primary": "0", 
+                    "image_id": "267479"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/267479_6fcf342a74e772e0_n.jpg", 
+                    "width": 208, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "267479"
+                }
+            }, 
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/65142_d29488db07f6552e_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "0", 
+                    "image_id": "65142"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/65142_d29488db07f6552e_b.jpg", 
+                    "width": 652, 
+                    "height": 1024, 
+                    "is_primary": "0", 
+                    "image_id": "65142"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/65142_d29488db07f6552e_d.gif", 
+                    "width": 204, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "65142"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/65142_d29488db07f6552e_z.jpg", 
+                    "width": 408, 
+                    "height": 640, 
+                    "is_primary": "0", 
+                    "image_id": "65142"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/65142_d29488db07f6552e_n.jpg", 
+                    "width": 204, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "65142"
+                }
+            }
+        ], 
+        "id": "18617403", 
+        "has_no_known_copyright": null, 
+        "woe:country_name": "United States", 
+        "dimensions": "H x W: 96.5 x 61.5 cm (38 in. x 24 3/16 in.)", 
+        "title": "Poster, herman miller, ca. 1972", 
+        "provenance": "1981: acquired by Museum", 
+        "participants": [
+            {
+                "person_name": "Herman Miller Furniture Company", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236667/", 
+                "role_id": "35236667", 
+                "role_name": "Client", 
+                "person_date": "Zeeland, Michigan, USA", 
+                "role_display_name": "Client:", 
+                "person_id": "18049013", 
+                "person_url": "https://collection.cooperhewitt.org/people/18049013/"
+            }, 
+            {
+                "person_name": "Mark Sturzenegger", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "", 
+                "role_display_name": "Designed by", 
+                "person_id": "18535777", 
+                "person_url": "https://collection.cooperhewitt.org/people/18535777/"
+            }
+        ], 
+        "decade": "1970", 
+        "label_text": null, 
+        "woe:country": "23424977", 
+        "dimensions_raw": {
+            "width": [
+                "61.50", 
+                "centimeters"
+            ], 
+            "height": [
+                "96.50", 
+                "centimeters"
+            ]
+        }, 
+        "department_id": "35347493", 
+        "title_raw": "herman miller", 
+        "justification": null, 
+        "media_id": "35399021", 
+        "description": "On white ground, abstract biomorphic form in yellow, pink, blue, and black. Above in black: [logo] herman miller.", 
+        "creditline": "Gift of Various Donors", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "ca. 1972", 
+        "url": "https://collection.cooperhewitt.org/objects/18617403/", 
+        "type": "poster", 
+        "accession_number": "1981-29-167", 
+        "year_end": 1972, 
+        "signed": null, 
+        "inscribed": null, 
+        "period_id": null, 
+        "year_acquired": "1981", 
+        "woe:country_id": "23424977"
+    }
+}

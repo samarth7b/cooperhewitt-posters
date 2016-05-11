@@ -1,0 +1,80 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": 1978, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": null, 
+        "tms:id": "177287", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/268378_766e75f3488c748e_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "268378"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/268378_766e75f3488c748e_b.jpg", 
+                    "width": 690, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "268378"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/268378_766e75f3488c748e_d.gif", 
+                    "width": 216, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "268378"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/268378_766e75f3488c748e_z.jpg", 
+                    "width": 431, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "268378"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/268378_766e75f3488c748e_n.jpg", 
+                    "width": 216, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "268378"
+                }
+            }
+        ], 
+        "id": "18617509", 
+        "has_no_known_copyright": null, 
+        "woe:country_name": "United States", 
+        "dimensions": null, 
+        "title": "Poster, Exhibition Poster: Graficos-Central Latin American Prints, 1978", 
+        "provenance": "1981: acquired by Museum", 
+        "participants": [], 
+        "decade": "1970", 
+        "label_text": null, 
+        "woe:country": "23424977", 
+        "dimensions_raw": null, 
+        "department_id": "35347493", 
+        "title_raw": "Exhibition Poster: Graficos-Central Latin American Prints", 
+        "justification": null, 
+        "media_id": "35371135", 
+        "description": "Card says: Smithsonian Institution", 
+        "creditline": "Gift of Various Donors", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "1978", 
+        "url": "https://collection.cooperhewitt.org/objects/18617509/", 
+        "type": "poster", 
+        "accession_number": "1981-29-213", 
+        "year_end": 1978, 
+        "signed": null, 
+        "inscribed": null, 
+        "period_id": null, 
+        "year_acquired": "1981", 
+        "woe:country_id": "23424977"
+    }
+}

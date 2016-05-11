@@ -1,0 +1,157 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": 1976, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": "offset lithograph on paper", 
+        "tms:id": "211533", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/82365_f7448e3d69529ed8_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "82365"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/82365_f7448e3d69529ed8_b.jpg", 
+                    "width": 734, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "82365"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/82365_f7448e3d69529ed8_d.gif", 
+                    "width": 229, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "82365"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/82365_f7448e3d69529ed8_z.jpg", 
+                    "width": 458, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "82365"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/82365_f7448e3d69529ed8_n.jpg", 
+                    "width": 229, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "82365"
+                }
+            }, 
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/266755_4c9ae7d4f553efeb_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "0", 
+                    "image_id": "266755"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/266755_4c9ae7d4f553efeb_b.jpg", 
+                    "width": 751, 
+                    "height": 1024, 
+                    "is_primary": "0", 
+                    "image_id": "266755"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/266755_4c9ae7d4f553efeb_d.gif", 
+                    "width": 235, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "266755"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/266755_4c9ae7d4f553efeb_z.jpg", 
+                    "width": 469, 
+                    "height": 640, 
+                    "is_primary": "0", 
+                    "image_id": "266755"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/266755_4c9ae7d4f553efeb_n.jpg", 
+                    "width": 235, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "266755"
+                }
+            }
+        ], 
+        "id": "18672181", 
+        "has_no_known_copyright": null, 
+        "woe:country_name": "United States", 
+        "dimensions": "63.8 x 45.7 cm (25 1/8 x 18 in. )", 
+        "title": "Poster, Exhibtion Poster: Lawrence Weiner, Being within the Context of Reaction, Van Abbemuseum, Eindhoven, The Netherlands, 1976", 
+        "provenance": "1999: acquired by Museum", 
+        "participants": [
+            {
+                "person_name": "General Acquisitions Endowment", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35352247/", 
+                "role_id": "35352247", 
+                "role_name": "Fund", 
+                "person_date": "", 
+                "role_display_name": "Fund:", 
+                "person_id": "18048535", 
+                "person_url": "https://collection.cooperhewitt.org/people/18048535/"
+            }, 
+            {
+                "person_name": "Lawrence Weiner", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "American, b. 1940", 
+                "role_display_name": "Designed by", 
+                "person_id": "18051567", 
+                "person_url": "https://collection.cooperhewitt.org/people/18051567/"
+            }, 
+            {
+                "person_name": "Lawrence Markey, Inc.", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35352249/", 
+                "role_id": "35352249", 
+                "role_name": "Vendor", 
+                "person_date": "", 
+                "role_display_name": "Purchased from", 
+                "person_id": "18051405", 
+                "person_url": "https://collection.cooperhewitt.org/people/18051405/"
+            }
+        ], 
+        "decade": "1970", 
+        "label_text": null, 
+        "woe:country": "23424977", 
+        "dimensions_raw": {
+            "width": [
+                "45.70", 
+                "centimeters"
+            ], 
+            "height": [
+                "63.80", 
+                "centimeters"
+            ]
+        }, 
+        "department_id": "35347493", 
+        "title_raw": "Exhibtion Poster: Lawrence Weiner, Being within the Context of Reaction, Van Abbemuseum, Eindhoven, The Netherlands", 
+        "justification": null, 
+        "media_id": "35399021", 
+        "description": "Art exhibition poster with  text (in black on white paper) occupying upper two-thirds: \"BEING WITH THE CONTEXT OF REACTION:/ UP ON (IN) THE AIR/ DOWN ON [IN] THE GROUND/ UP ON (IN) THE AIR/ DOWN ON [IN] THE GROUND/ BEING WITHIN THE CONTEXT OF [A] REACTION", 
+        "creditline": "Museum purchase from General Acquisitions Endowment and Smithsonian Institution Collections Acquisition Program Funds", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "1976", 
+        "url": "https://collection.cooperhewitt.org/objects/18672181/", 
+        "type": "poster", 
+        "accession_number": "1999-45-30", 
+        "year_end": 1976, 
+        "signed": "Imprinted, along bottom edge: LAWRENCE WEINER/ VAN ABBEMUSEUM EINDHOVEN", 
+        "inscribed": "See description", 
+        "period_id": null, 
+        "year_acquired": "1999", 
+        "woe:country_id": "23424977"
+    }
+}

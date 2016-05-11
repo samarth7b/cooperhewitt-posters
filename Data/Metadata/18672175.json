@@ -1,0 +1,119 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": 1979, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": "offset lithograph on newsprint", 
+        "tms:id": "211530", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/266736_37ea96e1d6e18236_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "266736"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/266736_37ea96e1d6e18236_b.jpg", 
+                    "width": 720, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "266736"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/266736_37ea96e1d6e18236_d.gif", 
+                    "width": 225, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "266736"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/266736_37ea96e1d6e18236_z.jpg", 
+                    "width": 450, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "266736"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/266736_37ea96e1d6e18236_n.jpg", 
+                    "width": 225, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "266736"
+                }
+            }
+        ], 
+        "id": "18672175", 
+        "has_no_known_copyright": null, 
+        "dimensions": "60.3 x 42.9 cm (23 3/4 x 16 7/8 in. )", 
+        "title": "Poster, Exhibition Poster: Keith Sonnier,  Radio Installation AM FM,  Galerie Michele Lachowsky, Brussels, 1979", 
+        "provenance": null, 
+        "participants": [
+            {
+                "person_name": "General Acquisitions Endowment", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35352247/", 
+                "role_id": "35352247", 
+                "role_name": "Fund", 
+                "person_date": "", 
+                "role_display_name": "Fund:", 
+                "person_id": "18048535", 
+                "person_url": "https://collection.cooperhewitt.org/people/18048535/"
+            }, 
+            {
+                "person_name": "Keith Sonnier", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236565/", 
+                "role_id": "35236565", 
+                "role_name": "Artist", 
+                "person_date": "American, b. 1941", 
+                "role_display_name": "", 
+                "person_id": "18051563", 
+                "person_url": "https://collection.cooperhewitt.org/people/18051563/"
+            }, 
+            {
+                "person_name": "Lawrence Markey, Inc.", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35352249/", 
+                "role_id": "35352249", 
+                "role_name": "Vendor", 
+                "person_date": "", 
+                "role_display_name": "Purchased from", 
+                "person_id": "18051405", 
+                "person_url": "https://collection.cooperhewitt.org/people/18051405/"
+            }
+        ], 
+        "decade": "1970", 
+        "label_text": null, 
+        "woe:country": null, 
+        "dimensions_raw": {
+            "width": [
+                "42.90", 
+                "centimeters"
+            ], 
+            "height": [
+                "60.30", 
+                "centimeters"
+            ]
+        }, 
+        "department_id": "35347493", 
+        "title_raw": "Exhibition Poster: Keith Sonnier,  Radio Installation AM FM,  Galerie Michele Lachowsky, Brussels", 
+        "justification": null, 
+        "media_id": "35384545", 
+        "description": "Art exhibition poster  with red, blue, and black dots comprising the typeface for artist name (top), exhibition title (center), and gallery name (bottom).   Two sections of text in French and Flemish describe gallery installation of four amplified radios.", 
+        "creditline": "Museum purchase from General Acquisitions Endowment and Smithsonian Institution Collections Acquisition Program Funds", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "1979", 
+        "url": "https://collection.cooperhewitt.org/objects/18672175/", 
+        "type": "poster", 
+        "accession_number": "1999-45-27", 
+        "year_end": 1979, 
+        "signed": "Imprinted in red, top: \"AM/ KEITH SONNIER/ FM\".", 
+        "inscribed": "Imprinted in black, center: \"RADIO INSTALLATION\"; imprinted in blue, below: \"FM/ MILCHELE LACHOWSKY/ AM\"", 
+        "period_id": null, 
+        "year_acquired": "1999", 
+        "woe:country_id": null
+    }
+}

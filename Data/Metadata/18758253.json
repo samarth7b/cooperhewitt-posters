@@ -1,0 +1,146 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": 1995, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": "photolithograph", 
+        "tms:id": "255411", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/46893_1f5a71bf34a7c70e_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "46893"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/46893_1f5a71bf34a7c70e_b.jpg", 
+                    "width": 694, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "46893"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/46893_1f5a71bf34a7c70e_d.gif", 
+                    "width": 217, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "46893"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/46893_1f5a71bf34a7c70e_z.jpg", 
+                    "width": 433, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "46893"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/46893_1f5a71bf34a7c70e_n.jpg", 
+                    "width": 217, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "46893"
+                }
+            }, 
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/253321_7f9023b196ebc842_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "0", 
+                    "image_id": "253321"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/253321_7f9023b196ebc842_b.jpg", 
+                    "width": 693, 
+                    "height": 1024, 
+                    "is_primary": "0", 
+                    "image_id": "253321"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/253321_7f9023b196ebc842_d.gif", 
+                    "width": 217, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "253321"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/253321_7f9023b196ebc842_z.jpg", 
+                    "width": 433, 
+                    "height": 640, 
+                    "is_primary": "0", 
+                    "image_id": "253321"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/253321_7f9023b196ebc842_n.jpg", 
+                    "width": 217, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "253321"
+                }
+            }
+        ], 
+        "id": "18758253", 
+        "has_no_known_copyright": null, 
+        "dimensions": "101.5 x 68.6 cm (39 15/16 x 27 in.)", 
+        "title": "Poster, Dead Man, 1995", 
+        "provenance": "Acquired from dealers, galleries and auction houses by Marc Benda.  Remained with Benda until 2010, when gifted to CHNDM.", 
+        "participants": [
+            {
+                "person_name": "Marc Benda", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35351535/", 
+                "role_id": "35351535", 
+                "role_name": "Donor", 
+                "person_date": "", 
+                "role_display_name": "Donated by", 
+                "person_id": "18062523", 
+                "person_url": "https://collection.cooperhewitt.org/people/18062523/"
+            }, 
+            {
+                "person_name": "Sara Benda", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35351535/", 
+                "role_id": "35351535", 
+                "role_name": "Donor", 
+                "person_date": "", 
+                "role_display_name": "Donated by", 
+                "person_id": "18063205", 
+                "person_url": "https://collection.cooperhewitt.org/people/18063205/"
+            }
+        ], 
+        "decade": "1990", 
+        "label_text": null, 
+        "woe:country": null, 
+        "dimensions_raw": {
+            "width": [
+                "68.60", 
+                "centimeters"
+            ], 
+            "height": [
+                "101.50", 
+                "centimeters"
+            ]
+        }, 
+        "department_id": "35347493", 
+        "title_raw": "Dead Man", 
+        "justification": null, 
+        "media_id": "35434605", 
+        "description": "In black and white: against the background of a snow-covered forest, a face-on close-up of a man with chin-length hair, kohled eyes, and zigzags painted on his cheeks, squinting and aiming a pistol.  Below, the inscription: the title \"DEAD MEN\" in white, stylized bone-shaped letters. Followed by \"JOHNNY DEPP\", credits in small type, and \"A  JIM JARMUSCH FILM\" in a gold band.", 
+        "creditline": "Gift of Sara and Marc Benda", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "1995", 
+        "url": "https://collection.cooperhewitt.org/objects/18758253/", 
+        "type": "poster", 
+        "accession_number": "2010-21-25", 
+        "year_end": 1995, 
+        "signed": null, 
+        "inscribed": null, 
+        "period_id": null, 
+        "year_acquired": "2010", 
+        "woe:country_id": null
+    }
+}

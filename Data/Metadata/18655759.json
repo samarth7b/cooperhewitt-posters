@@ -1,0 +1,90 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": null, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": null, 
+        "tms:id": "202860", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/142426_917b489c366f99bf_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "142426"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/142426_917b489c366f99bf_b.jpg", 
+                    "width": 739, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "142426"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/142426_917b489c366f99bf_d.gif", 
+                    "width": 231, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "142426"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/142426_917b489c366f99bf_z.jpg", 
+                    "width": 462, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "142426"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/142426_917b489c366f99bf_n.jpg", 
+                    "width": 231, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "142426"
+                }
+            }
+        ], 
+        "id": "18655759", 
+        "has_no_known_copyright": null, 
+        "dimensions": null, 
+        "title": "Poster, Nude Art/Nov(ember)", 
+        "provenance": null, 
+        "participants": [
+            {
+                "person_name": "Anonymous", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35351535/", 
+                "role_id": "35351535", 
+                "role_name": "Donor", 
+                "person_date": "", 
+                "role_display_name": "Donated by", 
+                "person_id": "68739079", 
+                "person_url": "https://collection.cooperhewitt.org/people/68739079/"
+            }
+        ], 
+        "decade": null, 
+        "label_text": null, 
+        "woe:country": null, 
+        "dimensions_raw": null, 
+        "department_id": "35347493", 
+        "title_raw": "Nude Art/Nov(ember)", 
+        "justification": null, 
+        "media_id": "35371135", 
+        "description": null, 
+        "creditline": "Gift of Anonymous Donor", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": null, 
+        "url": "https://collection.cooperhewitt.org/objects/18655759/", 
+        "type": "poster", 
+        "accession_number": "1997-89-1", 
+        "year_end": null, 
+        "signed": null, 
+        "inscribed": null, 
+        "period_id": null, 
+        "year_acquired": "1997", 
+        "woe:country_id": null
+    }
+}

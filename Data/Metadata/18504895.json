@@ -1,0 +1,79 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": null, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": null, 
+        "tms:id": "163351", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/252468_5f9f34449cce006c_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "252468"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/252468_5f9f34449cce006c_b.jpg", 
+                    "width": 799, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "252468"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/252468_5f9f34449cce006c_d.gif", 
+                    "width": 250, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "252468"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/252468_5f9f34449cce006c_z.jpg", 
+                    "width": 499, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "252468"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/252468_5f9f34449cce006c_n.jpg", 
+                    "width": 250, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "252468"
+                }
+            }
+        ], 
+        "id": "18504895", 
+        "has_no_known_copyright": null, 
+        "dimensions": null, 
+        "title": "Poster, The Royal Pavillion at Brighton:  An Exhibitoin at the Cooper-Hewitt Museum. Vincent Ciulla", 
+        "provenance": null, 
+        "participants": [], 
+        "decade": null, 
+        "label_text": null, 
+        "woe:country": null, 
+        "dimensions_raw": null, 
+        "department_id": "35347493", 
+        "title_raw": "The Royal Pavillion at Brighton:  An Exhibitoin at the Cooper-Hewitt Museum. Vincent Ciulla", 
+        "justification": null, 
+        "media_id": "35371135", 
+        "description": "March 3 - May 22, 1977, venue date", 
+        "creditline": "Gift of Unknown Donor", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": null, 
+        "url": "https://collection.cooperhewitt.org/objects/18504895/", 
+        "type": "poster", 
+        "accession_number": "1980-32-1092", 
+        "year_end": null, 
+        "signed": null, 
+        "inscribed": null, 
+        "period_id": null, 
+        "year_acquired": "1980", 
+        "woe:country_id": null
+    }
+}

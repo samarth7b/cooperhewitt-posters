@@ -1,0 +1,157 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": 1994, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": "offset lithograph on paper", 
+        "tms:id": "201943", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/12785_d38ac04f8e76f954_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "12785"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/12785_d38ac04f8e76f954_b.jpg", 
+                    "width": 423, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "12785"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/12785_d38ac04f8e76f954_d.gif", 
+                    "width": 132, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "12785"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/12785_d38ac04f8e76f954_z.jpg", 
+                    "width": 265, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "12785"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/12785_d38ac04f8e76f954_n.jpg", 
+                    "width": 132, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "12785"
+                }
+            }, 
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/257670_968137fda0d6fa87_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "0", 
+                    "image_id": "257670"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/257670_968137fda0d6fa87_b.jpg", 
+                    "width": 418, 
+                    "height": 1024, 
+                    "is_primary": "0", 
+                    "image_id": "257670"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/257670_968137fda0d6fa87_d.gif", 
+                    "width": 131, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "257670"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/257670_968137fda0d6fa87_z.jpg", 
+                    "width": 261, 
+                    "height": 640, 
+                    "is_primary": "0", 
+                    "image_id": "257670"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/257670_968137fda0d6fa87_n.jpg", 
+                    "width": 131, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "257670"
+                }
+            }
+        ], 
+        "id": "18653965", 
+        "has_no_known_copyright": null, 
+        "woe:country_name": "United States", 
+        "dimensions": "78.9 x 31.3 cm (31 1/16 x 12 5/16 in.)", 
+        "title": "Poster, Matador Spray Can, CBGB Club, New York, 1994", 
+        "provenance": "Matador Records", 
+        "participants": [
+            {
+                "person_name": "Mark Ohe", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35351535/", 
+                "role_id": "35351535", 
+                "role_name": "Donor", 
+                "person_date": "1958", 
+                "role_display_name": "Donated by", 
+                "person_id": "18043599", 
+                "person_url": "https://collection.cooperhewitt.org/people/18043599/"
+            }, 
+            {
+                "person_name": "TM", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35352245/", 
+                "role_id": "35352245", 
+                "role_name": "Cataloguer", 
+                "person_date": "", 
+                "role_display_name": "Catalogued by", 
+                "person_id": "18048319", 
+                "person_url": "https://collection.cooperhewitt.org/people/18048319/"
+            }, 
+            {
+                "person_name": "Mark Ohe", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "1958", 
+                "role_display_name": "Designed by", 
+                "person_id": "18043599", 
+                "person_url": "https://collection.cooperhewitt.org/people/18043599/"
+            }
+        ], 
+        "decade": "1990", 
+        "label_text": null, 
+        "woe:country": "23424977", 
+        "dimensions_raw": {
+            "width": [
+                "31.30", 
+                "centimeters"
+            ], 
+            "height": [
+                "78.90", 
+                "centimeters"
+            ]
+        }, 
+        "department_id": "35347493", 
+        "title_raw": "Matador Spray Can, CBGB Club, New York", 
+        "justification": null, 
+        "media_id": "35399021", 
+        "description": "Promotional poster for a Matador Records-sponsored concert at CBGB Club, New York, July 22, 1994. Yellow paper with schematic outline of spray can; Matador logo in upper center. In center, pink stencil-style type on body of spray can lists the bands performing: \"SF Seals, ChAVEZ, PIZZICATO FIVE, hELium, BunnyBRAINS, kustoMized.\" Various type throughout, including venue and date at bottom.", 
+        "creditline": "Gift of Mark Ohe", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "1994", 
+        "url": "https://collection.cooperhewitt.org/objects/18653965/", 
+        "type": "poster", 
+        "accession_number": "1996-60-11", 
+        "year_end": 1994, 
+        "signed": null, 
+        "inscribed": null, 
+        "period_id": null, 
+        "year_acquired": "1996", 
+        "woe:country_id": "23424977"
+    }
+}

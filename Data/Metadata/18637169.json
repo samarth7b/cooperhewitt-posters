@@ -1,0 +1,101 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": null, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": null, 
+        "tms:id": "193436", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/252363_10bd2e44514c0717_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "252363"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/252363_10bd2e44514c0717_b.jpg", 
+                    "width": 1024, 
+                    "height": 811, 
+                    "is_primary": "1", 
+                    "image_id": "252363"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/252363_10bd2e44514c0717_d.gif", 
+                    "width": 320, 
+                    "height": 253, 
+                    "is_primary": "1", 
+                    "image_id": "252363"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/252363_10bd2e44514c0717_z.jpg", 
+                    "width": 640, 
+                    "height": 507, 
+                    "is_primary": "1", 
+                    "image_id": "252363"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/252363_10bd2e44514c0717_n.jpg", 
+                    "width": 320, 
+                    "height": 253, 
+                    "is_primary": "1", 
+                    "image_id": "252363"
+                }
+            }
+        ], 
+        "id": "18637169", 
+        "has_no_known_copyright": null, 
+        "woe:country_name": "United States", 
+        "dimensions": null, 
+        "title": "Poster, Levi Strauss Blue Jeans Label", 
+        "provenance": null, 
+        "participants": [
+            {
+                "person_name": "Unknown donor: found in Collection", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35351535/", 
+                "role_id": "35351535", 
+                "role_name": "Donor", 
+                "person_date": "", 
+                "role_display_name": "Donated by", 
+                "person_id": "18053377", 
+                "person_url": "https://collection.cooperhewitt.org/people/18053377/"
+            }, 
+            {
+                "person_name": "Levi Strauss", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236667/", 
+                "role_id": "35236667", 
+                "role_name": "Client", 
+                "person_date": "San Francisco, California, USA", 
+                "role_display_name": "Client:", 
+                "person_id": "18535845", 
+                "person_url": "https://collection.cooperhewitt.org/people/18535845/"
+            }
+        ], 
+        "decade": null, 
+        "label_text": null, 
+        "woe:country": "23424977", 
+        "dimensions_raw": null, 
+        "department_id": "35347493", 
+        "title_raw": "Levi Strauss Blue Jeans Label", 
+        "justification": null, 
+        "media_id": "35371135", 
+        "description": "Jeans label", 
+        "creditline": "Gift of Unknown Donor", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": null, 
+        "url": "https://collection.cooperhewitt.org/objects/18637169/", 
+        "type": "poster", 
+        "accession_number": "1991-69-108", 
+        "year_end": null, 
+        "signed": null, 
+        "inscribed": null, 
+        "period_id": null, 
+        "year_acquired": "1991", 
+        "woe:country_id": "23424977"
+    }
+}

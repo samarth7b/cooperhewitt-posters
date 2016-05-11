@@ -1,0 +1,157 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": 1990, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": "offset lithograph on light brown textured paper", 
+        "tms:id": "223245", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/49900_a8e99be6739a757d_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "49900"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/49900_a8e99be6739a757d_b.jpg", 
+                    "width": 682, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "49900"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/49900_a8e99be6739a757d_d.gif", 
+                    "width": 213, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "49900"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/49900_a8e99be6739a757d_z.jpg", 
+                    "width": 426, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "49900"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/49900_a8e99be6739a757d_n.jpg", 
+                    "width": 213, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "49900"
+                }
+            }, 
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/257503_3af91ec8d18fceae_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "0", 
+                    "image_id": "257503"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/257503_3af91ec8d18fceae_b.jpg", 
+                    "width": 696, 
+                    "height": 1024, 
+                    "is_primary": "0", 
+                    "image_id": "257503"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/257503_3af91ec8d18fceae_d.gif", 
+                    "width": 218, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "257503"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/257503_3af91ec8d18fceae_z.jpg", 
+                    "width": 435, 
+                    "height": 640, 
+                    "is_primary": "0", 
+                    "image_id": "257503"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/257503_3af91ec8d18fceae_n.jpg", 
+                    "width": 218, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "257503"
+                }
+            }
+        ], 
+        "id": "18695357", 
+        "has_no_known_copyright": null, 
+        "woe:country_name": "United States", 
+        "dimensions": "76.2 x 50.8 cm (30 x 20 in. )", 
+        "title": "Poster, IBM Quality, 1990", 
+        "provenance": "Marion S. Rand", 
+        "participants": [
+            {
+                "person_name": "Karin Zonis", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35352245/", 
+                "role_id": "35352245", 
+                "role_name": "Cataloguer", 
+                "person_date": "", 
+                "role_display_name": "Catalogued by", 
+                "person_id": "51676457", 
+                "person_url": "https://collection.cooperhewitt.org/people/51676457/"
+            }, 
+            {
+                "person_name": "Marion S. Rand", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35351535/", 
+                "role_id": "35351535", 
+                "role_name": "Donor", 
+                "person_date": "", 
+                "role_display_name": "Donated by", 
+                "person_id": "18538789", 
+                "person_url": "https://collection.cooperhewitt.org/people/18538789/"
+            }, 
+            {
+                "person_name": "Paul Rand", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236763/", 
+                "role_id": "35236763", 
+                "role_name": "Graphic Designer", 
+                "person_date": "American, 1914–1996", 
+                "role_display_name": "Graphic design by", 
+                "person_id": "18042341", 
+                "person_url": "https://collection.cooperhewitt.org/people/18042341/"
+            }
+        ], 
+        "decade": "1990", 
+        "label_text": null, 
+        "woe:country": "23424977", 
+        "dimensions_raw": {
+            "width": [
+                "50.80", 
+                "centimeters"
+            ], 
+            "height": [
+                "76.20", 
+                "centimeters"
+            ]
+        }, 
+        "department_id": "35347493", 
+        "title_raw": "IBM Quality", 
+        "justification": null, 
+        "media_id": "35424355", 
+        "description": "Imprinted in gray ink, striped IBM logo, vertically (facing in). In font resembling children's playing blocks, upper left quadrant: Quality. Imprinted in font similar to Book Antiqua, three text blocks, lower half of page, describing Paul Rand's ideas of quality: his definition of the word, what it isn't, and what it is concerned with. First text block: The concept of quality is difficult to define, for it is not/ merely seen, but somehow intuited in the presence of the work in/ which it is embodied. Quality has little to do with popular/ notions of beauty, taste, or style; and nothing to do with status,/ respectability, or luxury. It is revealed, rather, in an atmosphere/ of receptivity, propriety, and restraint.; second text block: Quality is concerned with the weighing of relationships; the/ discovery of analogies and contrasts; with proportion and harmony;/ the juxtaposition of formal and functional elements-with/ their transformation and enrichment.; third text block: Quality is concerned with truth, not deception; with ideas, not/ techniques; with the enduring, not the ephemeral; with precision,/ not fussiness; with simplicity, not vacuity; with subtlety, not/ blatancy; with sensitivity, not sentimentality.", 
+        "creditline": "Gift of Marion S. Rand", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "1990", 
+        "url": "https://collection.cooperhewitt.org/objects/18695357/", 
+        "type": "poster", 
+        "accession_number": "2002-11-27", 
+        "year_end": 1990, 
+        "signed": "Signed [imprinted] in gray ink, lower left corner: - Paul Rand", 
+        "inscribed": null, 
+        "period_id": null, 
+        "year_acquired": "2002", 
+        "woe:country_id": "23424977"
+    }
+}

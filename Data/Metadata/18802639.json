@@ -1,0 +1,79 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": null, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": null, 
+        "tms:id": "181505", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/252384_be7d4ee5899b021d_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "252384"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/252384_be7d4ee5899b021d_b.jpg", 
+                    "width": 767, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "252384"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/252384_be7d4ee5899b021d_d.gif", 
+                    "width": 240, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "252384"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/252384_be7d4ee5899b021d_z.jpg", 
+                    "width": 479, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "252384"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/252384_be7d4ee5899b021d_n.jpg", 
+                    "width": 240, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "252384"
+                }
+            }
+        ], 
+        "id": "18802639", 
+        "has_no_known_copyright": null, 
+        "dimensions": null, 
+        "title": "Poster, New York, The Design Center of the World, Finally has a Museum of Design.", 
+        "provenance": null, 
+        "participants": [], 
+        "decade": null, 
+        "label_text": null, 
+        "woe:country": null, 
+        "dimensions_raw": null, 
+        "department_id": "35347493", 
+        "title_raw": "New York, The Design Center of the World, Finally has a Museum of Design.", 
+        "justification": null, 
+        "media_id": "35371135", 
+        "description": "Cooper-Hewitt Museum, Smithsonian Institution's National Museum of Design, 91st Street at Fifth Avenue, New York City, Open Oct. 7th.", 
+        "creditline": null, 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": null, 
+        "url": "https://collection.cooperhewitt.org/objects/18802639/", 
+        "type": "poster", 
+        "accession_number": "1984-53-1", 
+        "year_end": null, 
+        "signed": null, 
+        "inscribed": null, 
+        "period_id": null, 
+        "year_acquired": "1984", 
+        "woe:country_id": null
+    }
+}

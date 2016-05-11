@@ -1,0 +1,90 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": null, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": null, 
+        "tms:id": "202418", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/269554_8cadefefad6d1c6a_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "269554"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/269554_8cadefefad6d1c6a_b.jpg", 
+                    "width": 765, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "269554"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/269554_8cadefefad6d1c6a_d.gif", 
+                    "width": 239, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "269554"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/269554_8cadefefad6d1c6a_z.jpg", 
+                    "width": 478, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "269554"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/269554_8cadefefad6d1c6a_n.jpg", 
+                    "width": 239, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "269554"
+                }
+            }
+        ], 
+        "id": "18654897", 
+        "has_no_known_copyright": null, 
+        "dimensions": null, 
+        "title": "Poster, Citizen Office/Wystawa Design Museum", 
+        "provenance": null, 
+        "participants": [
+            {
+                "person_name": "Tadeusz Piechura", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35351535/", 
+                "role_id": "35351535", 
+                "role_name": "Donor", 
+                "person_date": "", 
+                "role_display_name": "Donated by", 
+                "person_id": "18049717", 
+                "person_url": "https://collection.cooperhewitt.org/people/18049717/"
+            }
+        ], 
+        "decade": null, 
+        "label_text": null, 
+        "woe:country": null, 
+        "dimensions_raw": null, 
+        "department_id": "35347493", 
+        "title_raw": "Citizen Office/Wystawa Design Museum", 
+        "justification": null, 
+        "media_id": "35371135", 
+        "description": null, 
+        "creditline": "Gift of Tadeusz Piechura", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": null, 
+        "url": "https://collection.cooperhewitt.org/objects/18654897/", 
+        "type": "poster", 
+        "accession_number": "1997-145-13", 
+        "year_end": null, 
+        "signed": null, 
+        "inscribed": null, 
+        "period_id": null, 
+        "year_acquired": "1997", 
+        "woe:country_id": null
+    }
+}

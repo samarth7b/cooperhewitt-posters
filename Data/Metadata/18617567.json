@@ -1,0 +1,137 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": 1970, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": "offset lithograph on paper", 
+        "tms:id": "177316", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/65139_b3ed2f5e056f36af_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "65139"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/65139_b3ed2f5e056f36af_b.jpg", 
+                    "width": 674, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "65139"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/65139_b3ed2f5e056f36af_d.gif", 
+                    "width": 211, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "65139"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/65139_b3ed2f5e056f36af_z.jpg", 
+                    "width": 421, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "65139"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/65139_b3ed2f5e056f36af_n.jpg", 
+                    "width": 211, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "65139"
+                }
+            }, 
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/267672_7e3de2c35ace2edc_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "0", 
+                    "image_id": "267672"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/267672_7e3de2c35ace2edc_b.jpg", 
+                    "width": 691, 
+                    "height": 1024, 
+                    "is_primary": "0", 
+                    "image_id": "267672"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/267672_7e3de2c35ace2edc_d.gif", 
+                    "width": 216, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "267672"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/267672_7e3de2c35ace2edc_z.jpg", 
+                    "width": 432, 
+                    "height": 640, 
+                    "is_primary": "0", 
+                    "image_id": "267672"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/267672_7e3de2c35ace2edc_n.jpg", 
+                    "width": 216, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "267672"
+                }
+            }
+        ], 
+        "id": "18617567", 
+        "has_no_known_copyright": null, 
+        "woe:country_name": "United States", 
+        "dimensions": "98.2 x 64.9 cm (38 11/16 x 25 9/16 in.)", 
+        "title": "Poster, Piano, Steinway and Sons, ca. 1975", 
+        "provenance": "1981: acquired by Museum", 
+        "participants": [
+            {
+                "person_name": "Steinway and Sons", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236667/", 
+                "role_id": "35236667", 
+                "role_name": "Client", 
+                "person_date": "", 
+                "role_display_name": "Client:", 
+                "person_id": "18043445", 
+                "person_url": "https://collection.cooperhewitt.org/people/18043445/"
+            }
+        ], 
+        "decade": "1970", 
+        "label_text": null, 
+        "woe:country": "23424977", 
+        "dimensions_raw": {
+            "width": [
+                "64.90", 
+                "centimeters"
+            ], 
+            "height": [
+                "98.20", 
+                "centimeters"
+            ]
+        }, 
+        "department_id": "35347493", 
+        "title_raw": "Piano, Steinway and Sons", 
+        "justification": null, 
+        "media_id": "35399021", 
+        "description": "View of the top of an open Steinway piano. Left edge, in black ink: STEINWAY, THE STANDARD PIANO OF THE WORLD.", 
+        "creditline": "Gift of Various Donors", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "ca. 1975", 
+        "url": "https://collection.cooperhewitt.org/objects/18617567/", 
+        "type": "poster", 
+        "accession_number": "1981-29-24", 
+        "year_end": 1981, 
+        "signed": null, 
+        "inscribed": null, 
+        "period_id": null, 
+        "year_acquired": "1981", 
+        "woe:country_id": "23424977"
+    }
+}

@@ -1,0 +1,147 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": 1940, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": "offset lithograph on paper", 
+        "tms:id": "202186", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/93877_957b4f7f020bf217_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "93877"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/93877_957b4f7f020bf217_b.jpg", 
+                    "width": 765, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "93877"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/93877_957b4f7f020bf217_d.gif", 
+                    "width": 239, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "93877"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/93877_957b4f7f020bf217_z.jpg", 
+                    "width": 478, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "93877"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/93877_957b4f7f020bf217_n.jpg", 
+                    "width": 239, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "93877"
+                }
+            }, 
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/182877_305224e88e87a10f_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "0", 
+                    "image_id": "182877"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/182877_305224e88e87a10f_b.jpg", 
+                    "width": 782, 
+                    "height": 1024, 
+                    "is_primary": "0", 
+                    "image_id": "182877"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/182877_305224e88e87a10f_d.gif", 
+                    "width": 244, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "182877"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/182877_305224e88e87a10f_z.jpg", 
+                    "width": 488, 
+                    "height": 640, 
+                    "is_primary": "0", 
+                    "image_id": "182877"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/182877_305224e88e87a10f_n.jpg", 
+                    "width": 244, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "182877"
+                }
+            }
+        ], 
+        "id": "18654451", 
+        "has_no_known_copyright": null, 
+        "woe:country_name": "United States", 
+        "dimensions": "76 × 101.6 cm (29 15/16 in. × 40 in.)", 
+        "title": "Poster, Declaracion Universal de Derechos del Hombre, ca. 1950", 
+        "provenance": null, 
+        "participants": [
+            {
+                "person_name": "Cooper Hewitt, Smithsonian Design Museum: Picture Library", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35352257/", 
+                "role_id": "35352257", 
+                "role_name": "Transferor", 
+                "person_date": "", 
+                "role_display_name": "Transferred from", 
+                "person_id": "18057545", 
+                "person_url": "https://collection.cooperhewitt.org/people/18057545/"
+            }, 
+            {
+                "person_name": "Ladislav Sutnar", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "American and Czech, b. Pilsen, Bohemia, 1897, d. New York, New York, USA, 1976", 
+                "role_display_name": "Designed by", 
+                "person_id": "18043523", 
+                "person_url": "https://collection.cooperhewitt.org/people/18043523/"
+            }
+        ], 
+        "decade": "1940", 
+        "label_text": null, 
+        "woe:country": "23424977", 
+        "dimensions_raw": {
+            "width": [
+                "101.60", 
+                "centimeters"
+            ], 
+            "height": [
+                "76.00", 
+                "centimeters"
+            ]
+        }, 
+        "department_id": "35347493", 
+        "title_raw": "Declaracion Universal de Derechos del Hombre", 
+        "justification": null, 
+        "media_id": "35399021", 
+        "description": "The Universal Declaration of Human Rights, printed in Spanish. The United Nations seal appears in the upper right corner, in white, against an orange square. The title across the top reads \"Declaracion Universal / de Derechos del Hombre\" in black serif type. The second register is larger than the first, and the initials \"D\" and \"H\" are printed in orange. Beneath the title, text is arranged in two short columns, and beneath these, in three taller, narrower columns, separated by thin, orange lines. Along the bottom of the page, white text in an orange rectangle reads \"Naciones Unidas.\"", 
+        "creditline": "Transfer from the Picture Library", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "ca. 1950", 
+        "url": "https://collection.cooperhewitt.org/objects/18654451/", 
+        "type": "poster", 
+        "accession_number": "1996-96-3", 
+        "year_end": 1960, 
+        "signed": null, 
+        "inscribed": null, 
+        "period_id": null, 
+        "year_acquired": "1996", 
+        "woe:country_id": "23424977"
+    }
+}

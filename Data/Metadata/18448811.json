@@ -1,0 +1,100 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": null, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": null, 
+        "tms:id": "134921", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/254478_65c89c9c9364fbda_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "254478"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/254478_65c89c9c9364fbda_b.jpg", 
+                    "width": 653, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "254478"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/254478_65c89c9c9364fbda_d.gif", 
+                    "width": 204, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "254478"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/254478_65c89c9c9364fbda_z.jpg", 
+                    "width": 408, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "254478"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/254478_65c89c9c9364fbda_n.jpg", 
+                    "width": 204, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "254478"
+                }
+            }
+        ], 
+        "id": "18448811", 
+        "has_no_known_copyright": null, 
+        "woe:country_name": "United States", 
+        "dimensions": "101.6 x 63.8 cm (40 in. x 25 1/8 in.)", 
+        "title": "Poster (USA)", 
+        "provenance": null, 
+        "participants": [
+            {
+                "person_name": "Mrs. Edward McKnight Kauffer", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35351535/", 
+                "role_id": "35351535", 
+                "role_name": "Donor", 
+                "person_date": "", 
+                "role_display_name": "Donated by", 
+                "person_id": "18061849", 
+                "person_url": "https://collection.cooperhewitt.org/people/18061849/"
+            }
+        ], 
+        "decade": null, 
+        "label_text": null, 
+        "woe:country": "23424977", 
+        "dimensions_raw": {
+            "width": [
+                "63.80", 
+                "centimeters"
+            ], 
+            "height": [
+                "101.60", 
+                "centimeters"
+            ]
+        }, 
+        "department_id": "35347493", 
+        "title_raw": null, 
+        "justification": null, 
+        "media_id": "35371135", 
+        "description": null, 
+        "creditline": "Gift of Mrs. E. McKnight Kauffer", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": null, 
+        "url": "https://collection.cooperhewitt.org/objects/18448811/", 
+        "type": "poster", 
+        "accession_number": "1963-39-77", 
+        "year_end": null, 
+        "signed": null, 
+        "inscribed": null, 
+        "period_id": null, 
+        "year_acquired": "1963", 
+        "woe:country_id": "23424977"
+    }
+}

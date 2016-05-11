@@ -1,0 +1,167 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": "Graphic designer Stephen Frykholm began printing in silk-screen when working in the Peace Corps in Nigeria, where he taught at an all-girls trade school. The process involved few and inexpensive materials. To create a print, the artist cut a stencil whose negative space will represent one color in the final work. The stencil is attached to a gauze textile (a silk screen or mesh) stretched onto a frame. The artist spreads ink across the textile and uses a blade, or squeegee, to force the ink through the screen and onto the paper. When Frykholm returned to the US in 1967, he continued studying the process at Cranbrook Academy of Arts. In 1970, Herman Miller hired him as its first in-house graphic designer, and asked him to design a poster for the annual company picnic. He would go on to design twenty Summer Picnic posters, his last being “Peach Sundae,” in 1989. Freshly sliced peaches are shown against a white cream background with a detail of two scoops of ice cream about to melt. In this series, the silk screening process resulted in bold, vibrant colors with large blocks of color and playful shapes—perfect for a day of summer fun.", 
+        "year_start": 1989, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": "screenprint with lacquer finish on wove paper", 
+        "tms:id": "255470", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/44520_a0adda28cbab8472_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "44520"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/44520_a0adda28cbab8472_b.jpg", 
+                    "width": 645, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "44520"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/44520_a0adda28cbab8472_d.gif", 
+                    "width": 202, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "44520"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/44520_a0adda28cbab8472_z.jpg", 
+                    "width": 403, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "44520"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/44520_a0adda28cbab8472_n.jpg", 
+                    "width": 202, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "44520"
+                }
+            }, 
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/268771_42cd3a5bafd0074a_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "0", 
+                    "image_id": "268771"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/268771_42cd3a5bafd0074a_b.jpg", 
+                    "width": 663, 
+                    "height": 1024, 
+                    "is_primary": "0", 
+                    "image_id": "268771"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/268771_42cd3a5bafd0074a_d.gif", 
+                    "width": 207, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "268771"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/268771_42cd3a5bafd0074a_z.jpg", 
+                    "width": 414, 
+                    "height": 640, 
+                    "is_primary": "0", 
+                    "image_id": "268771"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/268771_42cd3a5bafd0074a_n.jpg", 
+                    "width": 207, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "268771"
+                }
+            }
+        ], 
+        "id": "18758369", 
+        "has_no_known_copyright": null, 
+        "woe:country_name": "United States", 
+        "dimensions": "100.3 x 63.4 cm (39 1/2 x 24 15/16 in.)", 
+        "title": "Poster, Herman Miller Summer Picnic, 1989, 1989", 
+        "provenance": "Sara and Marc Benda; 2010: acquired by Museum", 
+        "participants": [
+            {
+                "person_name": "Sara Benda", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35351535/", 
+                "role_id": "35351535", 
+                "role_name": "Donor", 
+                "person_date": "", 
+                "role_display_name": "Donated by", 
+                "person_id": "18063205", 
+                "person_url": "https://collection.cooperhewitt.org/people/18063205/"
+            }, 
+            {
+                "person_name": "Herman Miller Furniture Company", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236667/", 
+                "role_id": "35236667", 
+                "role_name": "Client", 
+                "person_date": "Zeeland, Michigan, USA", 
+                "role_display_name": "Client:", 
+                "person_id": "18049013", 
+                "person_url": "https://collection.cooperhewitt.org/people/18049013/"
+            }, 
+            {
+                "person_name": "Stephen Frykholm", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "American, b. 1942", 
+                "role_display_name": "Designed by", 
+                "person_id": "18042365", 
+                "person_url": "https://collection.cooperhewitt.org/people/18042365/"
+            }, 
+            {
+                "person_name": "Marc Benda", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35351535/", 
+                "role_id": "35351535", 
+                "role_name": "Donor", 
+                "person_date": "", 
+                "role_display_name": "Donated by", 
+                "person_id": "18062523", 
+                "person_url": "https://collection.cooperhewitt.org/people/18062523/"
+            }
+        ], 
+        "decade": "1980", 
+        "label_text": null, 
+        "woe:country": "23424977", 
+        "dimensions_raw": {
+            "width": [
+                "63.40", 
+                "centimeters"
+            ], 
+            "height": [
+                "100.30", 
+                "centimeters"
+            ]
+        }, 
+        "department_id": "35347493", 
+        "title_raw": "Herman Miller Summer Picnic, 1989", 
+        "justification": null, 
+        "media_id": "68250023", 
+        "description": "A representation of white cream fills the page; orange bitten peach slices appear at bottom. Inscription in red at top: \"HERMAN MILLER SUMMER PICNIC 1989\".", 
+        "creditline": "Gift of Sara and Marc Benda", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "1989", 
+        "url": "https://collection.cooperhewitt.org/objects/18758369/", 
+        "type": "poster", 
+        "accession_number": "2010-21-81", 
+        "year_end": 1989, 
+        "signed": null, 
+        "inscribed": null, 
+        "period_id": "35435927", 
+        "year_acquired": "2010", 
+        "woe:country_id": "23424977"
+    }
+}

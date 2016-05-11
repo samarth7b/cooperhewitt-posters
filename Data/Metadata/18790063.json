@@ -1,0 +1,98 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": 1912, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": null, 
+        "tms:id": "271346", 
+        "images": [
+            {
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/252351_0044b9200ebe606c_b.jpg", 
+                    "width": 795, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "252351"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/252351_0044b9200ebe606c_d.gif", 
+                    "width": 248, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "252351"
+                }, 
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/252351_0044b9200ebe606c_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "252351"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/252351_0044b9200ebe606c_n.jpg", 
+                    "width": 248, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "252351"
+                }, 
+                "x": {
+                    "url": "https://images.collection.cooperhewitt.org/252351_95d9729fa6aca1c8_x.jpg", 
+                    "width": 3180, 
+                    "height": 4096, 
+                    "is_primary": "1", 
+                    "image_id": "252351"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/252351_0044b9200ebe606c_z.jpg", 
+                    "width": 497, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "252351"
+                }
+            }
+        ], 
+        "id": "18790063", 
+        "has_no_known_copyright": "1", 
+        "woe:country_name": "United States", 
+        "dimensions": null, 
+        "title": "Poster, The Comforter, Red Cross, ca. 1917", 
+        "provenance": "1980: acquired by Museum", 
+        "participants": [
+            {
+                "person_name": "Gordon Grant", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "", 
+                "role_display_name": "Designed by", 
+                "person_id": "68263801", 
+                "person_url": "https://collection.cooperhewitt.org/people/68263801/"
+            }
+        ], 
+        "decade": "1910", 
+        "label_text": null, 
+        "woe:country": "23424977", 
+        "dimensions_raw": null, 
+        "department_id": "35347493", 
+        "title_raw": "The Comforter, Red Cross", 
+        "justification": null, 
+        "media_id": "35371135", 
+        "description": "WWI-era poster with image of nurse on the front line caring for an injured soldier.", 
+        "creditline": null, 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "ca. 1917", 
+        "url": "https://collection.cooperhewitt.org/objects/18790063/", 
+        "type": "poster", 
+        "accession_number": "1980-32-1181", 
+        "year_end": 1922, 
+        "signed": null, 
+        "inscribed": null, 
+        "period_id": null, 
+        "year_acquired": "1980", 
+        "woe:country_id": "23424977"
+    }
+}

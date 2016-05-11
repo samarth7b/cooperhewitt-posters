@@ -1,0 +1,157 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": 1920, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": "color lithograph on white wove paper", 
+        "tms:id": "199450", 
+        "images": [
+            {
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/44275_7f968cbea714b691_b.jpg", 
+                    "width": 741, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "44275"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/44275_7f968cbea714b691_d.gif", 
+                    "width": 232, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "44275"
+                }, 
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/44275_7f968cbea714b691_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "44275"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/44275_7f968cbea714b691_n.jpg", 
+                    "width": 232, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "44275"
+                }, 
+                "x": {
+                    "url": "https://images.collection.cooperhewitt.org/44275_078350d579ccaf4a_x.jpg", 
+                    "width": 2963, 
+                    "height": 4095, 
+                    "is_primary": "1", 
+                    "image_id": "44275"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/44275_7f968cbea714b691_z.jpg", 
+                    "width": 463, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "44275"
+                }
+            }
+        ], 
+        "id": "18649081", 
+        "has_no_known_copyright": "1", 
+        "woe:country_name": "Netherlands", 
+        "dimensions": "109.9 x 395 cm (43 1/4 in. x 12 ft. 11 1/2 in.)", 
+        "title": "Poster, Raden Arbeid (Labor Board), 1920", 
+        "provenance": "Ms. June Braun and Mr. Robert Leibowits", 
+        "participants": [
+            {
+                "person_name": "Karin Zonis", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35352245/", 
+                "role_id": "35352245", 
+                "role_name": "Cataloguer", 
+                "person_date": "", 
+                "role_display_name": "Catalogued by", 
+                "person_id": "51676457", 
+                "person_url": "https://collection.cooperhewitt.org/people/51676457/"
+            }, 
+            {
+                "person_name": "Mr. Robert Leibowits", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35351535/", 
+                "role_id": "35351535", 
+                "role_name": "Donor", 
+                "person_date": "", 
+                "role_display_name": "Donated by", 
+                "person_id": "18041729", 
+                "person_url": "https://collection.cooperhewitt.org/people/18041729/"
+            }, 
+            {
+                "person_name": "Ms. June Braun", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35351535/", 
+                "role_id": "35351535", 
+                "role_name": "Donor", 
+                "person_date": "", 
+                "role_display_name": "Donated by", 
+                "person_id": "18041587", 
+                "person_url": "https://collection.cooperhewitt.org/people/18041587/"
+            }, 
+            {
+                "person_name": "Elizabeth Horwitz Marcus", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35352245/", 
+                "role_id": "35352245", 
+                "role_name": "Cataloguer", 
+                "person_date": "", 
+                "role_display_name": "Catalogued by", 
+                "person_id": "18047453", 
+                "person_url": "https://collection.cooperhewitt.org/people/18047453/"
+            }, 
+            {
+                "person_name": "SR", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35352245/", 
+                "role_id": "35352245", 
+                "role_name": "Cataloguer", 
+                "person_date": "", 
+                "role_display_name": "Catalogued by", 
+                "person_id": "18047543", 
+                "person_url": "https://collection.cooperhewitt.org/people/18047543/"
+            }, 
+            {
+                "person_name": "Richard Nicolaus Roland Holst", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "Dutch, 1868–1938", 
+                "role_display_name": "Designed by", 
+                "person_id": "18043341", 
+                "person_url": "https://collection.cooperhewitt.org/people/18043341/"
+            }
+        ], 
+        "decade": "1920", 
+        "label_text": null, 
+        "woe:country": "23424909", 
+        "dimensions_raw": {
+            "width": [
+                "395.00", 
+                "centimeters"
+            ], 
+            "height": [
+                "109.90", 
+                "centimeters"
+            ]
+        }, 
+        "department_id": "35347493", 
+        "title_raw": "Raden Arbeid (Labor Board)", 
+        "justification": null, 
+        "media_id": "35423717", 
+        "description": "Upright horizontal composition featuring a motif of a stylized cross in blue, black and orange. At the center, a kneeling man holds a bow and arrow. In each of the four corners of the cross decorative motifs with Dutch wording are evident. At the top of the composition, a roundel with the words: Bestaans zerkerheid; above this the words: RADEN van ARBEID in blue and orange.", 
+        "creditline": "Gift of June Braun and Robert Leibowits", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "1920", 
+        "url": "https://collection.cooperhewitt.org/objects/18649081/", 
+        "type": "poster", 
+        "accession_number": "1994-63-6", 
+        "year_end": 1920, 
+        "signed": null, 
+        "inscribed": null, 
+        "period_id": null, 
+        "year_acquired": "1994", 
+        "woe:country_id": "23424909"
+    }
+}

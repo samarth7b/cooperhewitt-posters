@@ -1,0 +1,79 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": null, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": null, 
+        "tms:id": "163496", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/268625_6eacaea8114effd5_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "268625"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/268625_6eacaea8114effd5_b.jpg", 
+                    "width": 725, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "268625"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/268625_6eacaea8114effd5_d.gif", 
+                    "width": 227, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "268625"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/268625_6eacaea8114effd5_z.jpg", 
+                    "width": 453, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "268625"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/268625_6eacaea8114effd5_n.jpg", 
+                    "width": 227, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "268625"
+                }
+            }
+        ], 
+        "id": "18505185", 
+        "has_no_known_copyright": null, 
+        "dimensions": null, 
+        "title": "Poster, International Design Conference, Aspen", 
+        "provenance": "1980: acquired by Museum", 
+        "participants": [], 
+        "decade": null, 
+        "label_text": null, 
+        "woe:country": null, 
+        "dimensions_raw": null, 
+        "department_id": "35347493", 
+        "title_raw": "International Design Conference, Aspen", 
+        "justification": null, 
+        "media_id": "35371135", 
+        "description": null, 
+        "creditline": "Gift of Unknown Donor", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": null, 
+        "url": "https://collection.cooperhewitt.org/objects/18505185/", 
+        "type": "poster", 
+        "accession_number": "1980-32-1241", 
+        "year_end": null, 
+        "signed": null, 
+        "inscribed": null, 
+        "period_id": null, 
+        "year_acquired": "1980", 
+        "woe:country_id": null
+    }
+}

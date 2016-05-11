@@ -1,0 +1,91 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": null, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": null, 
+        "tms:id": "176251", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/200962_b137e91489e6652c_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "200962"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/200962_b137e91489e6652c_b.jpg", 
+                    "width": 742, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "200962"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/200962_b137e91489e6652c_d.gif", 
+                    "width": 232, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "200962"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/200962_b137e91489e6652c_z.jpg", 
+                    "width": 463, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "200962"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/200962_b137e91489e6652c_n.jpg", 
+                    "width": 232, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "200962"
+                }
+            }
+        ], 
+        "id": "18615449", 
+        "has_no_known_copyright": null, 
+        "woe:country_name": "United States", 
+        "dimensions": null, 
+        "title": "Poster, Autumn Mozart", 
+        "provenance": "1980: acquired by Museum", 
+        "participants": [
+            {
+                "person_name": "James Kirby", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35351535/", 
+                "role_id": "35351535", 
+                "role_name": "Donor", 
+                "person_date": "", 
+                "role_display_name": "Donated by", 
+                "person_id": "18048419", 
+                "person_url": "https://collection.cooperhewitt.org/people/18048419/"
+            }
+        ], 
+        "decade": null, 
+        "label_text": null, 
+        "woe:country": "23424977", 
+        "dimensions_raw": null, 
+        "department_id": "35347493", 
+        "title_raw": "Autumn Mozart", 
+        "justification": null, 
+        "media_id": "35371135", 
+        "description": null, 
+        "creditline": "Gift of James T. Kirby", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": null, 
+        "url": "https://collection.cooperhewitt.org/objects/18615449/", 
+        "type": "poster", 
+        "accession_number": "1980-52-1", 
+        "year_end": null, 
+        "signed": null, 
+        "inscribed": null, 
+        "period_id": null, 
+        "year_acquired": "1980", 
+        "woe:country_id": "23424977"
+    }
+}

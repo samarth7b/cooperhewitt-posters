@@ -1,0 +1,110 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": 1987, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": "screenprint on paper", 
+        "tms:id": "212130", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/141402_595c970d056c872c_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "0", 
+                    "image_id": "141402"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/141402_595c970d056c872c_b.jpg", 
+                    "width": 1024, 
+                    "height": 766, 
+                    "is_primary": "0", 
+                    "image_id": "141402"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/141402_595c970d056c872c_d.gif", 
+                    "width": 320, 
+                    "height": 239, 
+                    "is_primary": "0", 
+                    "image_id": "141402"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/141402_595c970d056c872c_z.jpg", 
+                    "width": 640, 
+                    "height": 479, 
+                    "is_primary": "0", 
+                    "image_id": "141402"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/141402_595c970d056c872c_n.jpg", 
+                    "width": 320, 
+                    "height": 239, 
+                    "is_primary": "0", 
+                    "image_id": "141402"
+                }
+            }
+        ], 
+        "id": "18673375", 
+        "has_no_known_copyright": null, 
+        "woe:country_name": "United States", 
+        "dimensions": "30.5 x 40.6cm (12 x 16in.)", 
+        "title": "Poster, Vote for the Candidate of Your Choice, November 3rd, 1987", 
+        "provenance": "Dan Friedman; Ken Friedman; 1997: acquired by Museum", 
+        "participants": [
+            {
+                "person_name": "Ken Friedman", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35351535/", 
+                "role_id": "35351535", 
+                "role_name": "Donor", 
+                "person_date": "", 
+                "role_display_name": "Donated by", 
+                "person_id": "18049807", 
+                "person_url": "https://collection.cooperhewitt.org/people/18049807/"
+            }, 
+            {
+                "person_name": "Dan Friedman", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "American, 1945–1995", 
+                "role_display_name": "Designed by", 
+                "person_id": "18041325", 
+                "person_url": "https://collection.cooperhewitt.org/people/18041325/"
+            }
+        ], 
+        "decade": "1980", 
+        "label_text": null, 
+        "woe:country": "23424977", 
+        "dimensions_raw": {
+            "width": [
+                "40.60", 
+                "centimeters"
+            ], 
+            "height": [
+                "30.50", 
+                "centimeters"
+            ]
+        }, 
+        "department_id": "35347493", 
+        "title_raw": "Vote for the Candidate of Your Choice, November 3rd", 
+        "justification": null, 
+        "media_id": "35431679", 
+        "description": null, 
+        "creditline": "Gift of Ken Friedman", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "1987", 
+        "url": "https://collection.cooperhewitt.org/objects/18673375/", 
+        "type": "poster", 
+        "accession_number": "1997-19-179", 
+        "year_end": 1987, 
+        "signed": null, 
+        "inscribed": null, 
+        "period_id": null, 
+        "year_acquired": "1997", 
+        "woe:country_id": "23424977"
+    }
+}

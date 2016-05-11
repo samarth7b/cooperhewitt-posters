@@ -1,0 +1,100 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": null, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": "offset lithograph on board", 
+        "tms:id": "177300", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/267611_8d4519ed1629a4d2_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "267611"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/267611_8d4519ed1629a4d2_b.jpg", 
+                    "width": 642, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "267611"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/267611_8d4519ed1629a4d2_d.gif", 
+                    "width": 201, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "267611"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/267611_8d4519ed1629a4d2_z.jpg", 
+                    "width": 401, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "267611"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/267611_8d4519ed1629a4d2_n.jpg", 
+                    "width": 201, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "267611"
+                }
+            }
+        ], 
+        "id": "18617535", 
+        "has_no_known_copyright": null, 
+        "woe:country_name": "United States", 
+        "dimensions": "H x W: 90.9 x 56 cm (35 13/16 x 22 1/16 in.)", 
+        "title": "Poster, Pabst", 
+        "provenance": "1981: acquired by Museum", 
+        "participants": [
+            {
+                "person_name": "Pabst Brewing Co.", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236667/", 
+                "role_id": "35236667", 
+                "role_name": "Client", 
+                "person_date": "", 
+                "role_display_name": "Client:", 
+                "person_id": "68263985", 
+                "person_url": "https://collection.cooperhewitt.org/people/68263985/"
+            }
+        ], 
+        "decade": null, 
+        "label_text": null, 
+        "woe:country": "23424977", 
+        "dimensions_raw": {
+            "width": [
+                "56.00", 
+                "centimeters"
+            ], 
+            "height": [
+                "90.90", 
+                "centimeters"
+            ]
+        }, 
+        "department_id": "35347493", 
+        "title_raw": "Pabst", 
+        "justification": null, 
+        "media_id": "51688941", 
+        "description": "standing poster", 
+        "creditline": "Gift of Various Donors", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": null, 
+        "url": "https://collection.cooperhewitt.org/objects/18617535/", 
+        "type": "poster", 
+        "accession_number": "1981-29-225", 
+        "year_end": null, 
+        "signed": null, 
+        "inscribed": null, 
+        "period_id": null, 
+        "year_acquired": "1981", 
+        "woe:country_id": "23424977"
+    }
+}

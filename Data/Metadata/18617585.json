@@ -1,0 +1,91 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": 1978, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": null, 
+        "tms:id": "177325", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/268573_8036dfac9b96357d_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "268573"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/268573_8036dfac9b96357d_b.jpg", 
+                    "width": 825, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "268573"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/268573_8036dfac9b96357d_d.gif", 
+                    "width": 258, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "268573"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/268573_8036dfac9b96357d_z.jpg", 
+                    "width": 516, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "268573"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/268573_8036dfac9b96357d_n.jpg", 
+                    "width": 258, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "268573"
+                }
+            }
+        ], 
+        "id": "18617585", 
+        "has_no_known_copyright": null, 
+        "woe:country_name": "United States", 
+        "dimensions": null, 
+        "title": "Poster, Building Reborn: New Uses, Old Places, 1978", 
+        "provenance": "1981: acquired by Museum", 
+        "participants": [
+            {
+                "person_name": "Richard Haas", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "American, b. 1936", 
+                "role_display_name": "Designed by", 
+                "person_id": "35351017", 
+                "person_url": "https://collection.cooperhewitt.org/people/35351017/"
+            }
+        ], 
+        "decade": "1970", 
+        "label_text": null, 
+        "woe:country": "23424977", 
+        "dimensions_raw": null, 
+        "department_id": "35347493", 
+        "title_raw": "Building Reborn: New Uses, Old Places", 
+        "justification": null, 
+        "media_id": "35371135", 
+        "description": null, 
+        "creditline": "Gift of Various Donors", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "1978", 
+        "url": "https://collection.cooperhewitt.org/objects/18617585/", 
+        "type": "poster", 
+        "accession_number": "1981-29-248", 
+        "year_end": 1978, 
+        "signed": null, 
+        "inscribed": null, 
+        "period_id": null, 
+        "year_acquired": "1981", 
+        "woe:country_id": "23424977"
+    }
+}

@@ -1,0 +1,101 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": null, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": null, 
+        "tms:id": "134887", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/253903_0aa2e1fbdccfc6f3_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "253903"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/253903_0aa2e1fbdccfc6f3_b.jpg", 
+                    "width": 642, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "253903"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/253903_0aa2e1fbdccfc6f3_d.gif", 
+                    "width": 201, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "253903"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/253903_0aa2e1fbdccfc6f3_z.jpg", 
+                    "width": 401, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "253903"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/253903_0aa2e1fbdccfc6f3_n.jpg", 
+                    "width": 201, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "253903"
+                }
+            }
+        ], 
+        "id": "18448743", 
+        "has_no_known_copyright": null, 
+        "woe:country_name": "United States", 
+        "dimensions": null, 
+        "title": "Poster (USA)", 
+        "provenance": null, 
+        "participants": [
+            {
+                "person_name": "Marion Dorn Kauffer", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35351535/", 
+                "role_id": "35351535", 
+                "role_name": "Donor", 
+                "person_date": "American, active in England, 1896–1964", 
+                "role_display_name": "Donated by", 
+                "person_id": "18046153", 
+                "person_url": "https://collection.cooperhewitt.org/people/18046153/"
+            }, 
+            {
+                "person_name": "Marion Dorn Kauffer", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35351535/", 
+                "role_id": "35351535", 
+                "role_name": "Donor", 
+                "person_date": "American, active in England, 1896–1964", 
+                "role_display_name": "Donated by", 
+                "person_id": "18049761", 
+                "person_url": "https://collection.cooperhewitt.org/people/18046153/"
+            }
+        ], 
+        "decade": null, 
+        "label_text": null, 
+        "woe:country": "23424977", 
+        "dimensions_raw": null, 
+        "department_id": "35347493", 
+        "title_raw": null, 
+        "justification": null, 
+        "media_id": "35371135", 
+        "description": null, 
+        "creditline": "Gift of Mrs. E. McKnight Kauffer", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": null, 
+        "url": "https://collection.cooperhewitt.org/objects/18448743/", 
+        "type": "poster", 
+        "accession_number": "1963-39-74", 
+        "year_end": null, 
+        "signed": null, 
+        "inscribed": null, 
+        "period_id": null, 
+        "year_acquired": "1963", 
+        "woe:country_id": "23424977"
+    }
+}

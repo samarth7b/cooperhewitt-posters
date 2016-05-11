@@ -1,0 +1,101 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": 1970, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": "lithography", 
+        "tms:id": "201686", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/254299_05f64ad0b4d6e806_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "254299"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/254299_05f64ad0b4d6e806_b.jpg", 
+                    "width": 757, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "254299"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/254299_05f64ad0b4d6e806_d.gif", 
+                    "width": 237, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "254299"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/254299_05f64ad0b4d6e806_z.jpg", 
+                    "width": 473, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "254299"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/254299_05f64ad0b4d6e806_n.jpg", 
+                    "width": 237, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "254299"
+                }
+            }
+        ], 
+        "id": "18653453", 
+        "has_no_known_copyright": null, 
+        "woe:country_name": "United States", 
+        "dimensions": null, 
+        "title": "Poster, \"Charles S. Anderson/Dall, ca. 1980–95", 
+        "provenance": null, 
+        "participants": [
+            {
+                "person_name": "Charles S. Anderson", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "1958", 
+                "role_display_name": "Designed by", 
+                "person_id": "18043567", 
+                "person_url": "https://collection.cooperhewitt.org/people/18043567/"
+            }, 
+            {
+                "person_name": "Charles S. Anderson Design Company", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35351535/", 
+                "role_id": "35351535", 
+                "role_name": "Donor", 
+                "person_date": "", 
+                "role_display_name": "Donated by", 
+                "person_id": "18536361", 
+                "person_url": "https://collection.cooperhewitt.org/people/18536361/"
+            }
+        ], 
+        "decade": "1970", 
+        "label_text": null, 
+        "woe:country": "23424977", 
+        "dimensions_raw": null, 
+        "department_id": "35347493", 
+        "title_raw": "\"Charles S. Anderson/Dall", 
+        "justification": null, 
+        "media_id": "35423105", 
+        "description": null, 
+        "creditline": "Gift of Charles S. Anderson Design Company", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "ca. 1980–95", 
+        "url": "https://collection.cooperhewitt.org/objects/18653453/", 
+        "type": "poster", 
+        "accession_number": "1996-29-7", 
+        "year_end": 1995, 
+        "signed": null, 
+        "inscribed": null, 
+        "period_id": null, 
+        "year_acquired": "1996", 
+        "woe:country_id": "23424977"
+    }
+}

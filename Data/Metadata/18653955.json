@@ -1,0 +1,147 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": 1995, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": "letterpress and silkscreen on paper", 
+        "tms:id": "201938", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/81952_1e5bd105b5218ee6_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "81952"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/81952_1e5bd105b5218ee6_b.jpg", 
+                    "width": 1024, 
+                    "height": 722, 
+                    "is_primary": "1", 
+                    "image_id": "81952"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/81952_1e5bd105b5218ee6_d.gif", 
+                    "width": 320, 
+                    "height": 226, 
+                    "is_primary": "1", 
+                    "image_id": "81952"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/81952_1e5bd105b5218ee6_z.jpg", 
+                    "width": 640, 
+                    "height": 451, 
+                    "is_primary": "1", 
+                    "image_id": "81952"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/81952_1e5bd105b5218ee6_n.jpg", 
+                    "width": 320, 
+                    "height": 226, 
+                    "is_primary": "1", 
+                    "image_id": "81952"
+                }
+            }, 
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/255027_98ef7bf30c9265c9_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "0", 
+                    "image_id": "255027"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/255027_98ef7bf30c9265c9_b.jpg", 
+                    "width": 1024, 
+                    "height": 721, 
+                    "is_primary": "0", 
+                    "image_id": "255027"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/255027_98ef7bf30c9265c9_d.gif", 
+                    "width": 320, 
+                    "height": 225, 
+                    "is_primary": "0", 
+                    "image_id": "255027"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/255027_98ef7bf30c9265c9_z.jpg", 
+                    "width": 640, 
+                    "height": 450, 
+                    "is_primary": "0", 
+                    "image_id": "255027"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/255027_98ef7bf30c9265c9_n.jpg", 
+                    "width": 320, 
+                    "height": 225, 
+                    "is_primary": "0", 
+                    "image_id": "255027"
+                }
+            }
+        ], 
+        "id": "18653955", 
+        "has_no_known_copyright": null, 
+        "woe:country_name": "United States", 
+        "dimensions": "52.1 x 74.1 cm (20 1/2 x 29 3/16 in.)", 
+        "title": "Poster, \"I knew, as did everyone...\", 1995", 
+        "provenance": "Rebeca Mendez; 1996: acquired by Museum", 
+        "participants": [
+            {
+                "person_name": "Rebeca Méndez", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35351535/", 
+                "role_id": "35351535", 
+                "role_name": "Donor", 
+                "person_date": "Mexican and American, b. 1962", 
+                "role_display_name": "Donated by", 
+                "person_id": "18049203", 
+                "person_url": "https://collection.cooperhewitt.org/people/18049203/"
+            }, 
+            {
+                "person_name": "Rebeca Méndez", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "Mexican and American, b. 1962", 
+                "role_display_name": "Designed by", 
+                "person_id": "18049203", 
+                "person_url": "https://collection.cooperhewitt.org/people/18049203/"
+            }
+        ], 
+        "decade": "1990", 
+        "label_text": null, 
+        "woe:country": "23424977", 
+        "dimensions_raw": {
+            "width": [
+                "74.10", 
+                "centimeters"
+            ], 
+            "height": [
+                "52.10", 
+                "centimeters"
+            ]
+        }, 
+        "department_id": "35347493", 
+        "title_raw": "\"I knew, as did everyone...\"", 
+        "justification": null, 
+        "media_id": "68775809", 
+        "description": "On a ground of floral motifs in pink, lavender, and green, a blocked out area of ground in darker tones, six lines of text, five as though crossed out with a black marker. The last line reads: 6. “I knew, as did everyone, that Bicêtre was both hospital and prison; but I did not know that the hospital had been built to nurture sickness, the prison to nurture crime.”", 
+        "creditline": "Gift of Rebeca Mendez", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "1995", 
+        "url": "https://collection.cooperhewitt.org/objects/18653955/", 
+        "type": "poster", 
+        "accession_number": "1996-59-8", 
+        "year_end": 1995, 
+        "signed": "Signed in graphite (?), lower right: Rebeca Mendez 4/5", 
+        "inscribed": null, 
+        "period_id": null, 
+        "year_acquired": "1996", 
+        "woe:country_id": "23424977"
+    }
+}

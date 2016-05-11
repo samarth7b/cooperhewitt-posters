@@ -1,0 +1,157 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": "Best known for his work with corporate logos and branding identities, Paul Rand’s minimalist, structured approach to graphic design can also be seen in his various one-off poster designs, like “Earth Day… ’95.” The poster was designed for a poster exhibition first shown at New York’s World Trade Center as part of Earth Day New York 1995, and then traveled to schools around the US. The exhibition included the work of eighty-four designers from around the world to demonstrate the global importance of environmental issues. While these posters were previously made, ten US designers, including Rand, were commissioned to create new posters pro bono. The ten posters were printed either with dryography, a water- and alcohol-free printing process, and vegetable-based inks; or using specially made recycled paper. Rand’s use of a grid of green hearts and one single red heart suggests the human connection to the environment. Repetition and bold colors were characteristic of his work.", 
+        "year_start": 1995, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": "offset lithograph on white paper", 
+        "tms:id": "223226", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/49895_28bb04900183f85b_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "49895"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/49895_28bb04900183f85b_b.jpg", 
+                    "width": 692, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "49895"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/49895_28bb04900183f85b_d.gif", 
+                    "width": 216, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "49895"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/49895_28bb04900183f85b_z.jpg", 
+                    "width": 432, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "49895"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/49895_28bb04900183f85b_n.jpg", 
+                    "width": 216, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "49895"
+                }
+            }, 
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/257112_b85bec6963de2c8f_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "0", 
+                    "image_id": "257112"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/257112_b85bec6963de2c8f_b.jpg", 
+                    "width": 695, 
+                    "height": 1024, 
+                    "is_primary": "0", 
+                    "image_id": "257112"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/257112_b85bec6963de2c8f_d.gif", 
+                    "width": 217, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "257112"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/257112_b85bec6963de2c8f_z.jpg", 
+                    "width": 434, 
+                    "height": 640, 
+                    "is_primary": "0", 
+                    "image_id": "257112"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/257112_b85bec6963de2c8f_n.jpg", 
+                    "width": 217, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "257112"
+                }
+            }
+        ], 
+        "id": "18695319", 
+        "has_no_known_copyright": null, 
+        "woe:country_name": "United States", 
+        "dimensions": "90.2 x 61.0 cm (35 1/2 x 24 in. )", 
+        "title": "Poster, Earth Day '95, 1995", 
+        "provenance": "Marion S. Rand; 2002: acquired by Museum", 
+        "participants": [
+            {
+                "person_name": "Karin Zonis", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35352245/", 
+                "role_id": "35352245", 
+                "role_name": "Cataloguer", 
+                "person_date": "", 
+                "role_display_name": "Catalogued by", 
+                "person_id": "51676457", 
+                "person_url": "https://collection.cooperhewitt.org/people/51676457/"
+            }, 
+            {
+                "person_name": "Marion S. Rand", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35351535/", 
+                "role_id": "35351535", 
+                "role_name": "Donor", 
+                "person_date": "", 
+                "role_display_name": "Donated by", 
+                "person_id": "18538789", 
+                "person_url": "https://collection.cooperhewitt.org/people/18538789/"
+            }, 
+            {
+                "person_name": "Paul Rand", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "American, 1914–1996", 
+                "role_display_name": "Designed by", 
+                "person_id": "18042341", 
+                "person_url": "https://collection.cooperhewitt.org/people/18042341/"
+            }
+        ], 
+        "decade": "1990", 
+        "label_text": null, 
+        "woe:country": "23424977", 
+        "dimensions_raw": {
+            "width": [
+                "61.00", 
+                "centimeters"
+            ], 
+            "height": [
+                "90.20", 
+                "centimeters"
+            ]
+        }, 
+        "department_id": "35347493", 
+        "title_raw": "Earth Day '95", 
+        "justification": null, 
+        "media_id": "35424093", 
+        "description": "Six rows of hearts fill entire page.  First three rows above and last row have four green hearts each.  Fourth row (from top) has three green hearts and brown text: Earth / Day... / '95\"; fifth row has three green hearts with the fourth heart in red.", 
+        "creditline": "Gift of Marion S. Rand", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "1995", 
+        "url": "https://collection.cooperhewitt.org/objects/18695319/", 
+        "type": "poster", 
+        "accession_number": "2002-11-7", 
+        "year_end": 1995, 
+        "signed": "Signed [imprinted] in gold ink, lower right: Paul Rand", 
+        "inscribed": null, 
+        "period_id": null, 
+        "year_acquired": "2002", 
+        "woe:country_id": "23424977"
+    }
+}

@@ -1,0 +1,167 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": 1953, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": "offset lithograph on paper", 
+        "tms:id": "193519", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/64076_d626d9062969c9dd_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "64076"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/64076_d626d9062969c9dd_b.jpg", 
+                    "width": 986, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "64076"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/64076_d626d9062969c9dd_d.gif", 
+                    "width": 308, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "64076"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/64076_d626d9062969c9dd_z.jpg", 
+                    "width": 616, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "64076"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/64076_d626d9062969c9dd_n.jpg", 
+                    "width": 308, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "64076"
+                }
+            }, 
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/203769_70017b61c1fe993d_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "0", 
+                    "image_id": "203769"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/203769_70017b61c1fe993d_b.jpg", 
+                    "width": 983, 
+                    "height": 1024, 
+                    "is_primary": "0", 
+                    "image_id": "203769"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/203769_70017b61c1fe993d_d.gif", 
+                    "width": 307, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "203769"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/203769_70017b61c1fe993d_z.jpg", 
+                    "width": 614, 
+                    "height": 640, 
+                    "is_primary": "0", 
+                    "image_id": "203769"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/203769_70017b61c1fe993d_n.jpg", 
+                    "width": 307, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "203769"
+                }
+            }
+        ], 
+        "id": "18637335", 
+        "has_no_known_copyright": null, 
+        "woe:country_name": "United States", 
+        "dimensions": "53 x 50.9 cm (20 7/8 x 20 1/16 in.)", 
+        "title": "Poster, Santa's Favorite Cigar, 1953–57", 
+        "provenance": "1991: acquired by Museum", 
+        "participants": [
+            {
+                "person_name": "El Producto", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236667/", 
+                "role_id": "35236667", 
+                "role_name": "Client", 
+                "person_date": "Fort Lauderdale, Florida, USA", 
+                "role_display_name": "Client:", 
+                "person_id": "68775677", 
+                "person_url": "https://collection.cooperhewitt.org/people/68775677/"
+            }, 
+            {
+                "person_name": "Paul Rand", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35351535/", 
+                "role_id": "35351535", 
+                "role_name": "Donor", 
+                "person_date": "American, 1914–1996", 
+                "role_display_name": "Donated by", 
+                "person_id": "18042341", 
+                "person_url": "https://collection.cooperhewitt.org/people/18042341/"
+            }, 
+            {
+                "person_name": "CGC", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35352245/", 
+                "role_id": "35352245", 
+                "role_name": "Cataloguer", 
+                "person_date": "", 
+                "role_display_name": "Catalogued by", 
+                "person_id": "18048417", 
+                "person_url": "https://collection.cooperhewitt.org/people/18048417/"
+            }, 
+            {
+                "person_name": "Paul Rand", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "American, 1914–1996", 
+                "role_display_name": "Designed by", 
+                "person_id": "18042341", 
+                "person_url": "https://collection.cooperhewitt.org/people/18042341/"
+            }
+        ], 
+        "decade": "1950", 
+        "label_text": null, 
+        "woe:country": "23424977", 
+        "dimensions_raw": {
+            "width": [
+                "50.90", 
+                "centimeters"
+            ], 
+            "height": [
+                "53.00", 
+                "centimeters"
+            ]
+        }, 
+        "department_id": "35347493", 
+        "title_raw": "Santa's Favorite Cigar", 
+        "justification": null, 
+        "media_id": "35399021", 
+        "description": "On a blue background, a personified cigar with drawn hands holding a cigar and wearing a Santa hat. Label in red and yellow on cigar: EL PRODUCTO / C.H.P.CO.  Cigar also holds a white toy reindeer with red and green circles in antlers. Above, in a cloud: santa’s favorite cigar.", 
+        "creditline": "Gift of Paul Rand", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "1953–57", 
+        "url": "https://collection.cooperhewitt.org/objects/18637335/", 
+        "type": "poster", 
+        "accession_number": "1991-69-69", 
+        "year_end": 1957, 
+        "signed": "Signature imprinted in black ink, lower right: Paul Rand", 
+        "inscribed": "Imprinted in black ink, lower left: 138 21 6-59", 
+        "period_id": null, 
+        "year_acquired": "1991", 
+        "woe:country_id": "23424977"
+    }
+}

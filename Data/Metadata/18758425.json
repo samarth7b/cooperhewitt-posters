@@ -1,0 +1,140 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": 1998, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": "offset lithograph on wove paper", 
+        "tms:id": "255498", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/46830_578f4078b18f7042_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "46830"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/46830_578f4078b18f7042_b.jpg", 
+                    "width": 715, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "46830"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/46830_578f4078b18f7042_d.gif", 
+                    "width": 223, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "46830"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/46830_578f4078b18f7042_z.jpg", 
+                    "width": 447, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "46830"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/46830_578f4078b18f7042_n.jpg", 
+                    "width": 223, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "46830"
+                }
+            }
+        ], 
+        "id": "18758425", 
+        "has_no_known_copyright": null, 
+        "woe:country_name": "Switzerland", 
+        "dimensions": "127.9 x 89.5 cm (50 3/8 x 35 1/4 in.)", 
+        "title": "Poster, 100 Jahre Schweizer Werbefilm, 1998", 
+        "provenance": "Sara and Marc Benda; 2010: acquired by Museum", 
+        "participants": [
+            {
+                "person_name": "Egli. Kunz & Partner", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236673/", 
+                "role_id": "35236673", 
+                "role_name": "Printer", 
+                "person_date": "Swiss", 
+                "role_display_name": "Printed by", 
+                "person_id": "51865069", 
+                "person_url": "https://collection.cooperhewitt.org/people/51865069/"
+            }, 
+            {
+                "person_name": "Museum für Gestaltung, Zürich", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236667/", 
+                "role_id": "35236667", 
+                "role_name": "Client", 
+                "person_date": "Zürich, Switzerland", 
+                "role_display_name": "Client:", 
+                "person_id": "18063557", 
+                "person_url": "https://collection.cooperhewitt.org/people/18063557/"
+            }, 
+            {
+                "person_name": "Marc Benda", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35351535/", 
+                "role_id": "35351535", 
+                "role_name": "Donor", 
+                "person_date": "", 
+                "role_display_name": "Donated by", 
+                "person_id": "18062523", 
+                "person_url": "https://collection.cooperhewitt.org/people/18062523/"
+            }, 
+            {
+                "person_name": "Sara Benda", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35351535/", 
+                "role_id": "35351535", 
+                "role_name": "Donor", 
+                "person_date": "", 
+                "role_display_name": "Donated by", 
+                "person_id": "18063205", 
+                "person_url": "https://collection.cooperhewitt.org/people/18063205/"
+            }, 
+            {
+                "person_name": "Julian Vonier Photographie", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236631/", 
+                "role_id": "35236631", 
+                "role_name": "Photographer", 
+                "person_date": "", 
+                "role_display_name": "Photographed by", 
+                "person_id": "68738765", 
+                "person_url": "https://collection.cooperhewitt.org/people/68738765/"
+            }
+        ], 
+        "decade": "1990", 
+        "label_text": null, 
+        "woe:country": "23424957", 
+        "dimensions_raw": {
+            "width": [
+                "89.50", 
+                "centimeters"
+            ], 
+            "height": [
+                "127.90", 
+                "centimeters"
+            ]
+        }, 
+        "department_id": "35347493", 
+        "title_raw": "100 Jahre Schweizer Werbefilm", 
+        "justification": null, 
+        "media_id": "35431963", 
+        "description": "Close-up of made-up eye with finger pushing open lower lid and eyedropper coming from above. Text in black and red, lower margin: 100 JAHRE / SCHWIEZER / WEBEFILM / 27. Mai – 2. August 1998 . Museum fur Gestaltung Zurich . www.werbefilm.ch.", 
+        "creditline": "Gift of Sara and Marc Benda", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "1998", 
+        "url": "https://collection.cooperhewitt.org/objects/18758425/", 
+        "type": "poster", 
+        "accession_number": "2010-21-108", 
+        "year_end": 1998, 
+        "signed": null, 
+        "inscribed": "Printed in black ink, upper right edge: Advico Young & Rubicam . Foto: Julien Vonier Fotografie . Litho: Egli. Kunz & Partner . Druck: Graph. Anstalt J.E. Wolfensberger AG", 
+        "period_id": null, 
+        "year_acquired": "2010", 
+        "woe:country_id": "23424957"
+    }
+}

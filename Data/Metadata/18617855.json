@@ -1,0 +1,137 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": null, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": "screenprint on paper", 
+        "tms:id": "177461", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/90457_30ac0abeae67633b_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "90457"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/90457_30ac0abeae67633b_b.jpg", 
+                    "width": 792, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "90457"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/90457_30ac0abeae67633b_d.gif", 
+                    "width": 248, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "90457"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/90457_30ac0abeae67633b_z.jpg", 
+                    "width": 495, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "90457"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/90457_30ac0abeae67633b_n.jpg", 
+                    "width": 248, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "90457"
+                }
+            }, 
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/206811_5dea4614fb1d5cb7_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "0", 
+                    "image_id": "206811"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/206811_5dea4614fb1d5cb7_b.jpg", 
+                    "width": 793, 
+                    "height": 1024, 
+                    "is_primary": "0", 
+                    "image_id": "206811"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/206811_5dea4614fb1d5cb7_d.gif", 
+                    "width": 248, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "206811"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/206811_5dea4614fb1d5cb7_z.jpg", 
+                    "width": 495, 
+                    "height": 640, 
+                    "is_primary": "0", 
+                    "image_id": "206811"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/206811_5dea4614fb1d5cb7_n.jpg", 
+                    "width": 248, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "206811"
+                }
+            }
+        ], 
+        "id": "18617855", 
+        "has_no_known_copyright": null, 
+        "woe:country_name": "United States", 
+        "dimensions": "56 x 43.2 cm (22 1/16 x 17 in.)", 
+        "title": "Poster, Space Ship / CCA Carton Division", 
+        "provenance": "1981: acquired by Museum", 
+        "participants": [
+            {
+                "person_name": "Jeff Barnes", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "American", 
+                "role_display_name": "Designed by", 
+                "person_id": "18535487", 
+                "person_url": "https://collection.cooperhewitt.org/people/18535487/"
+            }
+        ], 
+        "decade": null, 
+        "label_text": null, 
+        "woe:country": "23424977", 
+        "dimensions_raw": {
+            "width": [
+                "43.20", 
+                "centimeters"
+            ], 
+            "height": [
+                "56.00", 
+                "centimeters"
+            ]
+        }, 
+        "department_id": "35347493", 
+        "title_raw": "Space Ship / CCA Carton Division", 
+        "justification": null, 
+        "media_id": "35431679", 
+        "description": "Poster features five white cubes with black borders with speed lines. Background is yellow above and white below. Text is green: SPACE/SHIP; Distribution / Cost / Savings / Program Carton / Division / Container / Corporation / of America.Poster features three white cubes with black borders with speed lines. Background is yellow above and white below. Text is green: SPACE/SHIP; Distribution / Cost / Savings / Program Carton / Division / Container / Corporation / of America.", 
+        "creditline": "Gift of Various Donors", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": null, 
+        "url": "https://collection.cooperhewitt.org/objects/18617855/", 
+        "type": "poster", 
+        "accession_number": "1981-29-368", 
+        "year_end": null, 
+        "signed": null, 
+        "inscribed": null, 
+        "period_id": null, 
+        "year_acquired": "1981", 
+        "woe:country_id": "23424977"
+    }
+}

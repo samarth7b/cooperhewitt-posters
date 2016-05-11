@@ -1,0 +1,119 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": "Using collage to play with scale, Andrzej Klimowski creates surreal imagery in this movie poster. Photographs are enlarged, cut, and layered; text is rotated and placed vertically. The result is disorientating — the poster appears to condense scenes (disrupting the plot line) with spectacular effect. Early twentieth-century photo-collagists have been influential on Klimowski’s work,  but the designer has developed a signature style that combines elements from Surrealism, Dadaism, and Expressionism together with his own process.", 
+        "year_start": 1991, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": "offset lithograph on wove paper", 
+        "tms:id": "255397", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/46881_ddcfd51db0abf769_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "46881"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/46881_ddcfd51db0abf769_b.jpg", 
+                    "width": 711, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "46881"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/46881_ddcfd51db0abf769_d.gif", 
+                    "width": 222, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "46881"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/46881_ddcfd51db0abf769_z.jpg", 
+                    "width": 444, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "46881"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/46881_ddcfd51db0abf769_n.jpg", 
+                    "width": 222, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "46881"
+                }
+            }
+        ], 
+        "id": "18758227", 
+        "has_no_known_copyright": null, 
+        "dimensions": "96.4 × 67.8 cm (37 15/16 × 26 11/16 in.)", 
+        "title": "Poster, Nieustajace Wakacje [Permanent Vacation], 1991", 
+        "provenance": "Acquired from dealers, galleries and auction houses by Marc Benda.  Remained with Benda until 2010, when gifted to CHNDM.", 
+        "participants": [
+            {
+                "person_name": "Andrzej Klimowski", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "British, active Poland, b. 1949", 
+                "role_display_name": "Designed by", 
+                "person_id": "18063463", 
+                "person_url": "https://collection.cooperhewitt.org/people/18063463/"
+            }, 
+            {
+                "person_name": "Marc Benda", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35351535/", 
+                "role_id": "35351535", 
+                "role_name": "Donor", 
+                "person_date": "", 
+                "role_display_name": "Donated by", 
+                "person_id": "18062523", 
+                "person_url": "https://collection.cooperhewitt.org/people/18062523/"
+            }, 
+            {
+                "person_name": "Sara Benda", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35351535/", 
+                "role_id": "35351535", 
+                "role_name": "Donor", 
+                "person_date": "", 
+                "role_display_name": "Donated by", 
+                "person_id": "18063205", 
+                "person_url": "https://collection.cooperhewitt.org/people/18063205/"
+            }
+        ], 
+        "decade": "1990", 
+        "label_text": "Designers deliberately violate the seamless integrity of a photograph in order to highlight the constructed nature of the graphic image and to depict emotional, physical, or social upheaval. Fragments of images become like words in a story, subject to rearrangement for dramatic effect. Gaps become as important as points of connection.", 
+        "woe:country": null, 
+        "dimensions_raw": {
+            "width": [
+                "67.60", 
+                "centimeters"
+            ], 
+            "height": [
+                "96.20", 
+                "centimeters"
+            ]
+        }, 
+        "department_id": "35347493", 
+        "title_raw": "Nieustajace Wakacje [Permanent Vacation]", 
+        "justification": null, 
+        "media_id": "35431963", 
+        "description": "The poster is a collage of several layers: \n(1)Sky: photograph of light white clouds, overlaid with single-tone blue, patterned with Ben-Day dots;\n(2)Image: profile of an adolescent boy, facing left; image of two skyscrapers at lower left. \n(3)Inscription: running vertically, slightly left-of-center: \"NIEUSTAJACE WACACJE\", lower right:  \"PERMANENT VACATION\", and at bottom, list of credits: \"scenariusz i rezyseriya: JIM JARMUSCH wykonawcy: CHRIS PARKER, LEILA GASTIL, JOHN LURIE / zdjecia: JAMES A. LEBOVITZ, THOMAS DICILLO muzyka: JIM JARMUSCH, JOHN LURIE\".", 
+        "creditline": "Gift of Sara and Marc Benda", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "1991", 
+        "url": "https://collection.cooperhewitt.org/objects/18758227/", 
+        "type": "poster", 
+        "accession_number": "2010-21-11", 
+        "year_end": 1991, 
+        "signed": null, 
+        "inscribed": null, 
+        "period_id": null, 
+        "year_acquired": "2010", 
+        "woe:country_id": null
+    }
+}

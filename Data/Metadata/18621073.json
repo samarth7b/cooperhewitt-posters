@@ -1,0 +1,101 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": 1979, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": null, 
+        "tms:id": "185350", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/268707_0886d1ab5522a11c_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "268707"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/268707_0886d1ab5522a11c_b.jpg", 
+                    "width": 691, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "268707"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/268707_0886d1ab5522a11c_d.gif", 
+                    "width": 216, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "268707"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/268707_0886d1ab5522a11c_z.jpg", 
+                    "width": 432, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "268707"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/268707_0886d1ab5522a11c_n.jpg", 
+                    "width": 216, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "268707"
+                }
+            }
+        ], 
+        "id": "18621073", 
+        "has_no_known_copyright": null, 
+        "woe:country_name": "United States", 
+        "dimensions": null, 
+        "title": "Poster, Diamond Jubilee: A Celebration of the 75th Anniversary of New York Subways, 1979", 
+        "provenance": null, 
+        "participants": [
+            {
+                "person_name": "Cooper Hewitt, Smithsonian Design Museum: Picture Library", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35352257/", 
+                "role_id": "35352257", 
+                "role_name": "Transferor", 
+                "person_date": "", 
+                "role_display_name": "Transferred from", 
+                "person_id": "18057545", 
+                "person_url": "https://collection.cooperhewitt.org/people/18057545/"
+            }, 
+            {
+                "person_name": "George Gershinowitz", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "", 
+                "role_display_name": "Designed by", 
+                "person_id": "18535619", 
+                "person_url": "https://collection.cooperhewitt.org/people/18535619/"
+            }
+        ], 
+        "decade": "1970", 
+        "label_text": null, 
+        "woe:country": "23424977", 
+        "dimensions_raw": null, 
+        "department_id": "35347493", 
+        "title_raw": "Diamond Jubilee: A Celebration of the 75th Anniversary of New York Subways", 
+        "justification": null, 
+        "media_id": "35371135", 
+        "description": null, 
+        "creditline": "Gift of Unknown Donor", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "1979", 
+        "url": "https://collection.cooperhewitt.org/objects/18621073/", 
+        "type": "poster", 
+        "accession_number": "1986-6-1", 
+        "year_end": 1979, 
+        "signed": null, 
+        "inscribed": null, 
+        "period_id": null, 
+        "year_acquired": "1986", 
+        "woe:country_id": "23424977"
+    }
+}

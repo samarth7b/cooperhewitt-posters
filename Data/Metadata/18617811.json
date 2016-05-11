@@ -1,0 +1,126 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": 1980, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": "lithograph on paper", 
+        "tms:id": "177439", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/90294_62091b32b38add6c_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "90294"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/90294_62091b32b38add6c_b.jpg", 
+                    "width": 793, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "90294"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/90294_62091b32b38add6c_d.gif", 
+                    "width": 248, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "90294"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/90294_62091b32b38add6c_z.jpg", 
+                    "width": 495, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "90294"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/90294_62091b32b38add6c_n.jpg", 
+                    "width": 248, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "90294"
+                }
+            }, 
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/207090_71cd4e79e3a6d121_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "0", 
+                    "image_id": "207090"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/207090_71cd4e79e3a6d121_b.jpg", 
+                    "width": 792, 
+                    "height": 1024, 
+                    "is_primary": "0", 
+                    "image_id": "207090"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/207090_71cd4e79e3a6d121_d.gif", 
+                    "width": 248, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "207090"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/207090_71cd4e79e3a6d121_z.jpg", 
+                    "width": 495, 
+                    "height": 640, 
+                    "is_primary": "0", 
+                    "image_id": "207090"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/207090_71cd4e79e3a6d121_n.jpg", 
+                    "width": 248, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "207090"
+                }
+            }
+        ], 
+        "id": "18617811", 
+        "has_no_known_copyright": null, 
+        "woe:country_name": "United States", 
+        "dimensions": "55.7 x 43 cm (21 15/16 x 16 15/16 in.)", 
+        "title": "Poster, 14th General Assembly of the Inter-American Center of Tax Administrators, Washington DC, 1980", 
+        "provenance": "1981: acquired by Museum", 
+        "participants": [], 
+        "decade": "1980", 
+        "label_text": null, 
+        "woe:country": "23424977", 
+        "dimensions_raw": {
+            "width": [
+                "43.00", 
+                "centimeters"
+            ], 
+            "height": [
+                "55.70", 
+                "centimeters"
+            ]
+        }, 
+        "department_id": "35347493", 
+        "title_raw": "14th General Assembly of the Inter-American Center of Tax Administrators, Washington DC", 
+        "justification": null, 
+        "media_id": "35419317", 
+        "description": "On a cream ground, black silhouetted portraits of men, including Abraham Lincoln; signatures surround their heads. Above in red and blue: WASHINGTON DC.", 
+        "creditline": "Gift of Various Donors", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "1980", 
+        "url": "https://collection.cooperhewitt.org/objects/18617811/", 
+        "type": "poster", 
+        "accession_number": "1981-29-348", 
+        "year_end": 1980, 
+        "signed": null, 
+        "inscribed": "Imprinted in black, lower left: [logo CIAT] 14th General Assembly of the Inter-American Center of Tax Administrators  June 22-27, 1980", 
+        "period_id": null, 
+        "year_acquired": "1981", 
+        "woe:country_id": "23424977"
+    }
+}

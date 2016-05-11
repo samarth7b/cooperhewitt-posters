@@ -1,0 +1,167 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": 1980, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": "offset lithograph on paper", 
+        "tms:id": "193525", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/64080_b16b535e8a038dda_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "64080"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/64080_b16b535e8a038dda_b.jpg", 
+                    "width": 1024, 
+                    "height": 678, 
+                    "is_primary": "1", 
+                    "image_id": "64080"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/64080_b16b535e8a038dda_d.gif", 
+                    "width": 320, 
+                    "height": 212, 
+                    "is_primary": "1", 
+                    "image_id": "64080"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/64080_b16b535e8a038dda_z.jpg", 
+                    "width": 640, 
+                    "height": 423, 
+                    "is_primary": "1", 
+                    "image_id": "64080"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/64080_b16b535e8a038dda_n.jpg", 
+                    "width": 320, 
+                    "height": 212, 
+                    "is_primary": "1", 
+                    "image_id": "64080"
+                }
+            }, 
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/203864_818550b9e5d116aa_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "0", 
+                    "image_id": "203864"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/203864_818550b9e5d116aa_b.jpg", 
+                    "width": 1024, 
+                    "height": 692, 
+                    "is_primary": "0", 
+                    "image_id": "203864"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/203864_818550b9e5d116aa_d.gif", 
+                    "width": 320, 
+                    "height": 216, 
+                    "is_primary": "0", 
+                    "image_id": "203864"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/203864_818550b9e5d116aa_z.jpg", 
+                    "width": 640, 
+                    "height": 433, 
+                    "is_primary": "0", 
+                    "image_id": "203864"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/203864_818550b9e5d116aa_n.jpg", 
+                    "width": 320, 
+                    "height": 216, 
+                    "is_primary": "0", 
+                    "image_id": "203864"
+                }
+            }
+        ], 
+        "id": "18637347", 
+        "has_no_known_copyright": null, 
+        "woe:country_name": "United States", 
+        "dimensions": "38.4 x 57.3 cm (15 1/8 x 22 9/16 in.)", 
+        "title": "Poster, Kurdsetan/\"Don't think we are just concerned about the problems of this one village, No. We are concerned with the struggle of people in every country of the world against imperialism.\" - a Kurdish Peasant, 1980", 
+        "provenance": "1991: acquired by Museum", 
+        "participants": [
+            {
+                "person_name": "Rachael Romero", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "Australian, active USA, b. 1953", 
+                "role_display_name": "Designed by", 
+                "person_id": "69099631", 
+                "person_url": "https://collection.cooperhewitt.org/people/69099631/"
+            }, 
+            {
+                "person_name": "San Francisco Poster Brigade", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35351535/", 
+                "role_id": "35351535", 
+                "role_name": "Donor", 
+                "person_date": "San Francisco, California, USA, 1975–1982", 
+                "role_display_name": "Donated by", 
+                "person_id": "18042463", 
+                "person_url": "https://collection.cooperhewitt.org/people/18042463/"
+            }, 
+            {
+                "person_name": "CGC", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35352245/", 
+                "role_id": "35352245", 
+                "role_name": "Cataloguer", 
+                "person_date": "", 
+                "role_display_name": "Catalogued by", 
+                "person_id": "18048417", 
+                "person_url": "https://collection.cooperhewitt.org/people/18048417/"
+            }, 
+            {
+                "person_name": "San Francisco Poster Brigade", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "San Francisco, California, USA, 1975–1982", 
+                "role_display_name": "Designed by", 
+                "person_id": "18042463", 
+                "person_url": "https://collection.cooperhewitt.org/people/18042463/"
+            }
+        ], 
+        "decade": "1980", 
+        "label_text": null, 
+        "woe:country": "23424977", 
+        "dimensions_raw": {
+            "width": [
+                "57.30", 
+                "centimeters"
+            ], 
+            "height": [
+                "38.40", 
+                "centimeters"
+            ]
+        }, 
+        "department_id": "35347493", 
+        "title_raw": "Kurdsetan/\"Don't think we are just concerned about the problems of this one village, No. We are concerned with the struggle of people in every country of the world against imperialism.\" - a Kurdish Peasant", 
+        "justification": null, 
+        "media_id": "35399021", 
+        "description": "Five figures in a mountains landscape. Color half-tone of Kurdish rebels. Upper left, in black on pink ground: Kurdestan; lower margin: “Don’t think we are just concerned about the problems of this one village, NO. / We are concerned about the struggle of people in every country of the world against imperialism.” –a Kurdish peasant. In blue ink, lower left: S. F. Poster Brigade 1980. Lower margin: ANTI-WW3 INTERNATIONALIST ART PO Box 31428 San Francisco Ca. 94131 U$A. [logo] inkworks", 
+        "creditline": "Gift of San Francisco Poster Brigade", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "1980", 
+        "url": "https://collection.cooperhewitt.org/objects/18637347/", 
+        "type": "poster", 
+        "accession_number": "1991-69-74", 
+        "year_end": 1980, 
+        "signed": null, 
+        "inscribed": null, 
+        "period_id": null, 
+        "year_acquired": "1991", 
+        "woe:country_id": "23424977"
+    }
+}

@@ -1,0 +1,79 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": 1930, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": "photolithograph", 
+        "tms:id": "280200", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/103034_19fe53515d3dcf78_sq.jpg", 
+                    "width": 200, 
+                    "height": 269, 
+                    "is_primary": "1", 
+                    "image_id": "103034"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/103034_19fe53515d3dcf78_b.jpg", 
+                    "width": 200, 
+                    "height": 269, 
+                    "is_primary": "1", 
+                    "image_id": "103034"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/103034_19fe53515d3dcf78_d.gif", 
+                    "width": 200, 
+                    "height": 269, 
+                    "is_primary": "1", 
+                    "image_id": "103034"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/103034_19fe53515d3dcf78_z.jpg", 
+                    "width": 200, 
+                    "height": 269, 
+                    "is_primary": "1", 
+                    "image_id": "103034"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/103034_19fe53515d3dcf78_n.jpg", 
+                    "width": 200, 
+                    "height": 269, 
+                    "is_primary": "1", 
+                    "image_id": "103034"
+                }
+            }
+        ], 
+        "id": "69113381", 
+        "has_no_known_copyright": null, 
+        "dimensions": "158.1 × 117.2 cm (5 ft. 2 1/4 in. × 46 1/8 in.)", 
+        "title": "Poster, Section Allemande [German Section], 1930", 
+        "provenance": null, 
+        "participants": [], 
+        "decade": "1930", 
+        "label_text": "In 1935, Herbert Bayer depicted a man with a giant eye for a head attending an exhibition. Flat planes confront the man from diverse angles, canted from the walls, ceiling, and floor. Bayer’s drawing is based on an exhibition he created with former Bauhaus compatriots, László Moholy-Nagy and Walter Gropius, in 1930. The exhibition, Section Allemande (German Section), featured photographs of modern architecture installed at various angles. In Bayer’s poster for the exhibition, a tiny human figure stands dwarfed beneath a huge white sphere. The sphere—casting a shadow on a vast white plane resembling a movie screen—symbolizes the engulfing, larger-thanlife optical experience of modernity.", 
+        "woe:country": null, 
+        "dimensions_raw": null, 
+        "department_id": "404529577", 
+        "title_raw": "Section Allemande [German Section]", 
+        "justification": null, 
+        "media_id": "35434605", 
+        "description": null, 
+        "creditline": "Collection of Merrill C. Berman", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 1, 
+        "date": "1930", 
+        "url": "https://collection.cooperhewitt.org/objects/69113381/", 
+        "type": "poster", 
+        "accession_number": "1.2015.1", 
+        "year_end": 1930, 
+        "signed": null, 
+        "inscribed": null, 
+        "period_id": null, 
+        "year_acquired": null, 
+        "woe:country_id": null
+    }
+}

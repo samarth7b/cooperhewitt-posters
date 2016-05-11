@@ -1,0 +1,137 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": 1960, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": "offset lithograph on paper", 
+        "tms:id": "177524", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/49872_7659371c94d73623_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "49872"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/49872_7659371c94d73623_b.jpg", 
+                    "width": 666, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "49872"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/49872_7659371c94d73623_d.gif", 
+                    "width": 208, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "49872"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/49872_7659371c94d73623_z.jpg", 
+                    "width": 416, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "49872"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/49872_7659371c94d73623_n.jpg", 
+                    "width": 208, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "49872"
+                }
+            }, 
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/257848_db57d0a6b096e249_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "0", 
+                    "image_id": "257848"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/257848_db57d0a6b096e249_b.jpg", 
+                    "width": 677, 
+                    "height": 1024, 
+                    "is_primary": "0", 
+                    "image_id": "257848"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/257848_db57d0a6b096e249_d.gif", 
+                    "width": 212, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "257848"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/257848_db57d0a6b096e249_z.jpg", 
+                    "width": 423, 
+                    "height": 640, 
+                    "is_primary": "0", 
+                    "image_id": "257848"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/257848_db57d0a6b096e249_n.jpg", 
+                    "width": 212, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "257848"
+                }
+            }
+        ], 
+        "id": "18617981", 
+        "has_no_known_copyright": null, 
+        "woe:country_name": "United States", 
+        "dimensions": "101 x 65.6 cm (39 3/4 x 25 13/16 in.)", 
+        "title": "Poster (USA), 1960–81", 
+        "provenance": "1981: acquired by Museum", 
+        "participants": [
+            {
+                "person_name": "Paul Rand", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "American, 1914–1996", 
+                "role_display_name": "Designed by", 
+                "person_id": "18042341", 
+                "person_url": "https://collection.cooperhewitt.org/people/18042341/"
+            }
+        ], 
+        "decade": "1960", 
+        "label_text": null, 
+        "woe:country": "23424977", 
+        "dimensions_raw": {
+            "width": [
+                "65.60", 
+                "centimeters"
+            ], 
+            "height": [
+                "101.00", 
+                "centimeters"
+            ]
+        }, 
+        "department_id": "35347493", 
+        "title_raw": null, 
+        "justification": null, 
+        "media_id": "35399021", 
+        "description": "Dot portrait on music paper.", 
+        "creditline": "Gift of Various Donors", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "1960–81", 
+        "url": "https://collection.cooperhewitt.org/objects/18617981/", 
+        "type": "poster", 
+        "accession_number": "1981-29-424", 
+        "year_end": 1981, 
+        "signed": null, 
+        "inscribed": null, 
+        "period_id": null, 
+        "year_acquired": "1981", 
+        "woe:country_id": "23424977"
+    }
+}

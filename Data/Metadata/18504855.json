@@ -1,0 +1,90 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": 1973, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": null, 
+        "tms:id": "163331", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/267002_e4cbd56aba2f796a_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "267002"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/267002_e4cbd56aba2f796a_b.jpg", 
+                    "width": 1024, 
+                    "height": 807, 
+                    "is_primary": "1", 
+                    "image_id": "267002"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/267002_e4cbd56aba2f796a_d.gif", 
+                    "width": 320, 
+                    "height": 252, 
+                    "is_primary": "1", 
+                    "image_id": "267002"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/267002_e4cbd56aba2f796a_z.jpg", 
+                    "width": 640, 
+                    "height": 504, 
+                    "is_primary": "1", 
+                    "image_id": "267002"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/267002_e4cbd56aba2f796a_n.jpg", 
+                    "width": 320, 
+                    "height": 252, 
+                    "is_primary": "1", 
+                    "image_id": "267002"
+                }
+            }
+        ], 
+        "id": "18504855", 
+        "has_no_known_copyright": null, 
+        "dimensions": null, 
+        "title": "Poster, Toulouse-Lautrec lithography Posters, 1973", 
+        "provenance": null, 
+        "participants": [
+            {
+                "person_name": "Henri Marie Raymo Toulouse-Lautrec", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "1864 – 1901", 
+                "role_display_name": "Designed by", 
+                "person_id": "18053903", 
+                "person_url": "https://collection.cooperhewitt.org/people/18053903/"
+            }
+        ], 
+        "decade": "1970", 
+        "label_text": null, 
+        "woe:country": null, 
+        "dimensions_raw": null, 
+        "department_id": "35347493", 
+        "title_raw": "Toulouse-Lautrec lithography Posters", 
+        "justification": null, 
+        "media_id": "35371135", 
+        "description": null, 
+        "creditline": "Gift of Unknown Donor", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "1973", 
+        "url": "https://collection.cooperhewitt.org/objects/18504855/", 
+        "type": "poster", 
+        "accession_number": "1980-32-1071", 
+        "year_end": 1973, 
+        "signed": null, 
+        "inscribed": null, 
+        "period_id": null, 
+        "year_acquired": "1980", 
+        "woe:country_id": null
+    }
+}

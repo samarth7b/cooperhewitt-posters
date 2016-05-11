@@ -1,0 +1,130 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": 1997, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": "offset lithograph on wove paper", 
+        "tms:id": "255508", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/45568_030d89ef9c467235_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "45568"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/45568_030d89ef9c467235_b.jpg", 
+                    "width": 725, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "45568"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/45568_030d89ef9c467235_d.gif", 
+                    "width": 227, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "45568"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/45568_030d89ef9c467235_z.jpg", 
+                    "width": 453, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "45568"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/45568_030d89ef9c467235_n.jpg", 
+                    "width": 227, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "45568"
+                }
+            }
+        ], 
+        "id": "18758445", 
+        "has_no_known_copyright": null, 
+        "woe:country_name": "Switzerland", 
+        "dimensions": "128.4 x 90.9 cm (50 9/16 x 35 13/16 in.)", 
+        "title": "Poster, Heinz Spoerli, Brahms ein Ballet, 1997", 
+        "provenance": "Sara and Marc Benda (acquired new and directly from designer, Büro Kerim Seiler); 2010: acquired by Museum", 
+        "participants": [
+            {
+                "person_name": "Marc Benda", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35351535/", 
+                "role_id": "35351535", 
+                "role_name": "Donor", 
+                "person_date": "", 
+                "role_display_name": "Donated by", 
+                "person_id": "18062523", 
+                "person_url": "https://collection.cooperhewitt.org/people/18062523/"
+            }, 
+            {
+                "person_name": "Sara Benda", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35351535/", 
+                "role_id": "35351535", 
+                "role_name": "Donor", 
+                "person_date": "", 
+                "role_display_name": "Donated by", 
+                "person_id": "18063205", 
+                "person_url": "https://collection.cooperhewitt.org/people/18063205/"
+            }, 
+            {
+                "person_name": "Opernhaus, Zürich", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236667/", 
+                "role_id": "35236667", 
+                "role_name": "Client", 
+                "person_date": "Zürich, Switzerland", 
+                "role_display_name": "Client:", 
+                "person_id": "68738781", 
+                "person_url": "https://collection.cooperhewitt.org/people/68738781/"
+            }, 
+            {
+                "person_name": "Büro Kerim Seiler", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "Swiss", 
+                "role_display_name": "Designed by", 
+                "person_id": "68738783", 
+                "person_url": "https://collection.cooperhewitt.org/people/68738783/"
+            }
+        ], 
+        "decade": "1990", 
+        "label_text": null, 
+        "woe:country": "23424957", 
+        "dimensions_raw": {
+            "width": [
+                "90.90", 
+                "centimeters"
+            ], 
+            "height": [
+                "128.40", 
+                "centimeters"
+            ]
+        }, 
+        "department_id": "35347493", 
+        "title_raw": "Heinz Spoerli, Brahms ein Ballet", 
+        "justification": null, 
+        "media_id": "35431963", 
+        "description": "On a red ground, 15 white circles containing a male figure striking different poses. Text in black ink, center right: OPERNHAUS ZURICH; lower: HEINZ SPOERLI / BRAHMS EIN / BALLETT / HANS SCHAVERNOCH HELENA HELBLING / AB. 7 SEPTEMBER ’97.", 
+        "creditline": "Gift of Sara and Marc Benda", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "1997", 
+        "url": "https://collection.cooperhewitt.org/objects/18758445/", 
+        "type": "poster", 
+        "accession_number": "2010-21-118", 
+        "year_end": 1997, 
+        "signed": null, 
+        "inscribed": "Printed in white ink, upper right: Buro Kerim Seiler", 
+        "period_id": null, 
+        "year_acquired": "2010", 
+        "woe:country_id": "23424957"
+    }
+}

@@ -1,0 +1,207 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": 1976, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": "screenprint on wove paper", 
+        "tms:id": "199454", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/89854_4840cdfb8647fb47_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "89854"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/89854_4840cdfb8647fb47_b.jpg", 
+                    "width": 678, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "89854"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/89854_4840cdfb8647fb47_d.gif", 
+                    "width": 212, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "89854"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/89854_4840cdfb8647fb47_z.jpg", 
+                    "width": 423, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "89854"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/89854_4840cdfb8647fb47_n.jpg", 
+                    "width": 212, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "89854"
+                }
+            }, 
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/141710_d1a8b14533c1970c_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "0", 
+                    "image_id": "141710"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/141710_d1a8b14533c1970c_b.jpg", 
+                    "width": 689, 
+                    "height": 1024, 
+                    "is_primary": "0", 
+                    "image_id": "141710"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/141710_d1a8b14533c1970c_d.gif", 
+                    "width": 215, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "141710"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/141710_d1a8b14533c1970c_z.jpg", 
+                    "width": 431, 
+                    "height": 640, 
+                    "is_primary": "0", 
+                    "image_id": "141710"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/141710_d1a8b14533c1970c_n.jpg", 
+                    "width": 215, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "141710"
+                }
+            }
+        ], 
+        "id": "18649089", 
+        "has_no_known_copyright": null, 
+        "woe:country_name": "Cuba", 
+        "dimensions": "75.9 x 50.2 cm (29 7/8 x 19 3/4 in.)", 
+        "title": "Poster, Semana de Cine Documental (Film Documentary Week), 1976", 
+        "provenance": "1994: acquired by Museum (from Reinhold Brown Gallery New York, NY)", 
+        "participants": [
+            {
+                "person_name": "Dr. Gail Davidson", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35352245/", 
+                "role_id": "35352245", 
+                "role_name": "Cataloguer", 
+                "person_date": "", 
+                "role_display_name": "Catalogued by", 
+                "person_id": "18048255", 
+                "person_url": "https://collection.cooperhewitt.org/people/18048255/"
+            }, 
+            {
+                "person_name": "Reinhold Brown Gallery", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35352249/", 
+                "role_id": "35352249", 
+                "role_name": "Vendor", 
+                "person_date": "", 
+                "role_display_name": "Purchased from", 
+                "person_id": "18041557", 
+                "person_url": "https://collection.cooperhewitt.org/people/18041557/"
+            }, 
+            {
+                "person_name": "Smithsonian Institution CAP Funds--do not use", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35352247/", 
+                "role_id": "35352247", 
+                "role_name": "Fund", 
+                "person_date": "", 
+                "role_display_name": "Fund:", 
+                "person_id": "18048931", 
+                "person_url": "https://collection.cooperhewitt.org/people/18048931/"
+            }, 
+            {
+                "person_name": "ss", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35352245/", 
+                "role_id": "35352245", 
+                "role_name": "Cataloguer", 
+                "person_date": "", 
+                "role_display_name": "Catalogued by", 
+                "person_id": "18047797", 
+                "person_url": "https://collection.cooperhewitt.org/people/18047797/"
+            }, 
+            {
+                "person_name": "SR", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35352245/", 
+                "role_id": "35352245", 
+                "role_name": "Cataloguer", 
+                "person_date": "", 
+                "role_display_name": "Catalogued by", 
+                "person_id": "18047543", 
+                "person_url": "https://collection.cooperhewitt.org/people/18047543/"
+            }, 
+            {
+                "person_name": "The Cuban Institute of Cinematographic Art and Industry (ICAIC)", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236661/", 
+                "role_id": "35236661", 
+                "role_name": "Publisher", 
+                "person_date": "Cuba", 
+                "role_display_name": "Published by", 
+                "person_id": "18043359", 
+                "person_url": "https://collection.cooperhewitt.org/people/18043359/"
+            }, 
+            {
+                "person_name": "The Cuban Institute of Cinematographic Art and Industry (ICAIC)", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236667/", 
+                "role_id": "35236667", 
+                "role_name": "Client", 
+                "person_date": "Cuba", 
+                "role_display_name": "Client:", 
+                "person_id": "18043359", 
+                "person_url": "https://collection.cooperhewitt.org/people/18043359/"
+            }, 
+            {
+                "person_name": "Paul René Azcuy Cárdenas, Cuban", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "b. 1939", 
+                "role_display_name": "Designed by", 
+                "person_id": "18043381", 
+                "person_url": "https://collection.cooperhewitt.org/people/18043381/"
+            }
+        ], 
+        "decade": "1970", 
+        "label_text": null, 
+        "woe:country": "23424793", 
+        "dimensions_raw": {
+            "width": [
+                "50.20", 
+                "centimeters"
+            ], 
+            "height": [
+                "75.90", 
+                "centimeters"
+            ]
+        }, 
+        "department_id": "35347493", 
+        "title_raw": "Semana de Cine Documental (Film Documentary Week)", 
+        "justification": null, 
+        "media_id": "35399029", 
+        "description": "A piece of film and several sheets of off-white paper are held together with a paper clip, on black ground. Below the paper clip, in black small caps, center: semana/ de cine/ documental/ y de cortometraje/ mexicano/ 11 al 17/ octubre de 1976. (Film Documentary Week and Mexican Short Films October 11 to 17, 1976).", 
+        "creditline": "Museum purchase from Smithsonian Institution Collections Acquisition Program Fund and through gift of Anonymous Donors", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "1976", 
+        "url": "https://collection.cooperhewitt.org/objects/18649089/", 
+        "type": "poster", 
+        "accession_number": "1994-65-1", 
+        "year_end": 1976, 
+        "signed": "Signed with initial and dates on image lower right: A 76", 
+        "inscribed": null, 
+        "period_id": null, 
+        "year_acquired": "1994", 
+        "woe:country_id": "23424793"
+    }
+}

@@ -1,0 +1,166 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": 1967, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": "offset lithograph on white wove paper", 
+        "tms:id": "159905", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/82669_368e879c6a55113e_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "82669"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/82669_368e879c6a55113e_b.jpg", 
+                    "width": 740, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "82669"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/82669_368e879c6a55113e_d.gif", 
+                    "width": 231, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "82669"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/82669_368e879c6a55113e_z.jpg", 
+                    "width": 463, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "82669"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/82669_368e879c6a55113e_n.jpg", 
+                    "width": 231, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "82669"
+                }
+            }, 
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/204955_5457b887a3822b61_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "0", 
+                    "image_id": "204955"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/204955_5457b887a3822b61_b.jpg", 
+                    "width": 729, 
+                    "height": 1024, 
+                    "is_primary": "0", 
+                    "image_id": "204955"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/204955_5457b887a3822b61_d.gif", 
+                    "width": 228, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "204955"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/204955_5457b887a3822b61_z.jpg", 
+                    "width": 456, 
+                    "height": 640, 
+                    "is_primary": "0", 
+                    "image_id": "204955"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/204955_5457b887a3822b61_n.jpg", 
+                    "width": 228, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "204955"
+                }
+            }
+        ], 
+        "id": "18498017", 
+        "has_no_known_copyright": null, 
+        "dimensions": "50.6 x 35.6 cm (19 15/16 in. x 14 in.)", 
+        "title": "Poster, Bo Diddley / Lee Michaels, 1967", 
+        "provenance": "Mr. and Mrs. Leslie J. Schreyer; 1979: acquired by Museum", 
+        "participants": [
+            {
+                "person_name": "Mrs. Alice Schreyer", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35351535/", 
+                "role_id": "35351535", 
+                "role_name": "Donor", 
+                "person_date": "", 
+                "role_display_name": "Donated by", 
+                "person_id": "68736623", 
+                "person_url": "https://collection.cooperhewitt.org/people/68736623/"
+            }, 
+            {
+                "person_name": "Mr. Leslie Schreyer", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35351535/", 
+                "role_id": "35351535", 
+                "role_name": "Donor", 
+                "person_date": "", 
+                "role_display_name": "Donated by", 
+                "person_id": "18058429", 
+                "person_url": "https://collection.cooperhewitt.org/people/18058429/"
+            }, 
+            {
+                "person_name": "Family Dog Productions", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236673/", 
+                "role_id": "35236673", 
+                "role_name": "Printer", 
+                "person_date": "", 
+                "role_display_name": "Printed by", 
+                "person_id": "18056705", 
+                "person_url": "https://collection.cooperhewitt.org/people/18056705/"
+            }, 
+            {
+                "person_name": "William  S Henry", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "", 
+                "role_display_name": "Designed by", 
+                "person_id": "18056703", 
+                "person_url": "https://collection.cooperhewitt.org/people/18056703/"
+            }
+        ], 
+        "decade": "1960", 
+        "label_text": null, 
+        "woe:country": null, 
+        "dimensions_raw": {
+            "width": [
+                "35.60", 
+                "centimeters"
+            ], 
+            "height": [
+                "50.60", 
+                "centimeters"
+            ]
+        }, 
+        "department_id": "35347493", 
+        "title_raw": "Bo Diddley / Lee Michaels", 
+        "justification": null, 
+        "media_id": "35431673", 
+        "description": "Poster featuring psychedelic image of three women attached by headbands; their hair curly, large red-orange and purple jewelry. Framed by orange border containing stylized fans [ticket information below].", 
+        "creditline": "Gift of Mr. and Mrs. Leslie J. Schreyer", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "1967", 
+        "url": "https://collection.cooperhewitt.org/objects/18498017/", 
+        "type": "poster", 
+        "accession_number": "1979-34-35", 
+        "year_end": 1967, 
+        "signed": "Imprinted in orange, right margin: WS HENRY…67…", 
+        "inscribed": "Imprinted in purple, lower margin: 1967 ©FAMILY DOG PRODUCTION 639 GOUGH ST., San Francisco, Calif. 94102", 
+        "period_id": "35435941", 
+        "year_acquired": "1979", 
+        "woe:country_id": null
+    }
+}

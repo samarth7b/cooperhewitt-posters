@@ -1,0 +1,139 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": 1988, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": "screenprint on wove paper", 
+        "tms:id": "255425", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/36994_091f17cd06dd2d61_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "36994"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/36994_091f17cd06dd2d61_b.jpg", 
+                    "width": 793, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "36994"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/36994_091f17cd06dd2d61_d.gif", 
+                    "width": 248, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "36994"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/36994_091f17cd06dd2d61_z.jpg", 
+                    "width": 495, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "36994"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/36994_091f17cd06dd2d61_n.jpg", 
+                    "width": 248, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "36994"
+                }
+            }
+        ], 
+        "id": "18758279", 
+        "has_no_known_copyright": null, 
+        "dimensions": "128.1 x 90.8 cm (50 7/16 x 35 3/4 in.)", 
+        "title": "Poster, Foto/Vision:  Projekt Fotographie nach 150 Jahren, 1988", 
+        "provenance": "Acquired new and directly from designers, museums, and cultural institutions by Marc Benda.  Remained with Benda until 2010, when gifted to CHNDM.", 
+        "participants": [
+            {
+                "person_name": "Museum für Gestaltung, Zürich", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236667/", 
+                "role_id": "35236667", 
+                "role_name": "Client", 
+                "person_date": "Zürich, Switzerland", 
+                "role_display_name": "Client:", 
+                "person_id": "18063557", 
+                "person_url": "https://collection.cooperhewitt.org/people/18063557/"
+            }, 
+            {
+                "person_name": "Diego Zweifel", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "Swiss, born ca. 1965", 
+                "role_display_name": "Designed by", 
+                "person_id": "18063531", 
+                "person_url": "https://collection.cooperhewitt.org/people/18063531/"
+            }, 
+            {
+                "person_name": "Marc Benda", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35351535/", 
+                "role_id": "35351535", 
+                "role_name": "Donor", 
+                "person_date": "", 
+                "role_display_name": "Donated by", 
+                "person_id": "18062523", 
+                "person_url": "https://collection.cooperhewitt.org/people/18062523/"
+            }, 
+            {
+                "person_name": "Sara Benda", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35351535/", 
+                "role_id": "35351535", 
+                "role_name": "Donor", 
+                "person_date": "", 
+                "role_display_name": "Donated by", 
+                "person_id": "18063205", 
+                "person_url": "https://collection.cooperhewitt.org/people/18063205/"
+            }, 
+            {
+                "person_name": "Bea Spillman Siebdruck", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236673/", 
+                "role_id": "35236673", 
+                "role_name": "Printer", 
+                "person_date": "Swiss", 
+                "role_display_name": "Printed by", 
+                "person_id": "68738757", 
+                "person_url": "https://collection.cooperhewitt.org/people/68738757/"
+            }
+        ], 
+        "decade": "1980", 
+        "label_text": null, 
+        "woe:country": null, 
+        "dimensions_raw": {
+            "width": [
+                "90.80", 
+                "centimeters"
+            ], 
+            "height": [
+                "128.10", 
+                "centimeters"
+            ]
+        }, 
+        "department_id": "35347493", 
+        "title_raw": "Foto/Vision:  Projekt Fotographie nach 150 Jahren", 
+        "justification": null, 
+        "media_id": "35399029", 
+        "description": "In green, blue, white, and black, a collage of several transparent images: a car speeding, motorcycle headlights, nighttime road. Inscriptions: at mid-left, \"Di-Fr 10-18 Uhr, Mi 10-21 Uhr / Sa/So 10-17 Uhr, Mo geschlossen / 13. Mai Pfingstsamstag 10-17 Uhr / 14. Mai Pfingstsonntag geschlossen / 15. Mai Pfingstmontag10-17 Uhr\", on diagonal at upper left: \"10. Mai bis 16. Juli 1989\", on diagonal upper right: \"Project Fotographie nach 150 Jahren\", the title at mid-left: \"vision / foto\", all in white. Followed by further inscriptions in red, at center bottom: \"Austellungsstrasse 60, 8005 Zurich\", and at lower right: \"Museum fur Gestaltung Zurich\".", 
+        "creditline": "Gift of Sara and Marc Benda", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "1988", 
+        "url": "https://collection.cooperhewitt.org/objects/18758279/", 
+        "type": "poster", 
+        "accession_number": "2010-21-37", 
+        "year_end": 1988, 
+        "signed": null, 
+        "inscribed": null, 
+        "period_id": null, 
+        "year_acquired": "2010", 
+        "woe:country_id": null
+    }
+}

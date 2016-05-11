@@ -1,0 +1,79 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": 1975, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": null, 
+        "tms:id": "163339", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/268423_5df70d89adcba180_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "268423"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/268423_5df70d89adcba180_b.jpg", 
+                    "width": 780, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "268423"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/268423_5df70d89adcba180_d.gif", 
+                    "width": 244, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "268423"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/268423_5df70d89adcba180_z.jpg", 
+                    "width": 487, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "268423"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/268423_5df70d89adcba180_n.jpg", 
+                    "width": 244, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "268423"
+                }
+            }
+        ], 
+        "id": "18504871", 
+        "has_no_known_copyright": null, 
+        "dimensions": null, 
+        "title": "Poster, Les Folles Années de la Soie, 1975", 
+        "provenance": null, 
+        "participants": [], 
+        "decade": "1970", 
+        "label_text": null, 
+        "woe:country": null, 
+        "dimensions_raw": null, 
+        "department_id": "35347493", 
+        "title_raw": "Les Folles Années de la Soie", 
+        "justification": null, 
+        "media_id": "35371135", 
+        "description": "image by Francois Ducharme", 
+        "creditline": "Gift of Unknown Donor", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "1975", 
+        "url": "https://collection.cooperhewitt.org/objects/18504871/", 
+        "type": "poster", 
+        "accession_number": "1980-32-1079", 
+        "year_end": 1975, 
+        "signed": null, 
+        "inscribed": null, 
+        "period_id": null, 
+        "year_acquired": "1980", 
+        "woe:country_id": null
+    }
+}

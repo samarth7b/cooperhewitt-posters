@@ -1,0 +1,100 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": 1980, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": null, 
+        "tms:id": "177447", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/200751_50e9a5efca0a07f8_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "200751"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/200751_50e9a5efca0a07f8_b.jpg", 
+                    "width": 606, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "200751"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/200751_50e9a5efca0a07f8_d.gif", 
+                    "width": 189, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "200751"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/200751_50e9a5efca0a07f8_z.jpg", 
+                    "width": 379, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "200751"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/200751_50e9a5efca0a07f8_n.jpg", 
+                    "width": 189, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "200751"
+                }
+            }
+        ], 
+        "id": "18617827", 
+        "has_no_known_copyright": null, 
+        "woe:country_name": "United States", 
+        "dimensions": "Overall: 61 x 34.8 cm (24 x 13 11/16 in.)", 
+        "title": "Poster, Drug Preventer, 1980", 
+        "provenance": "1981: acquired by Museum", 
+        "participants": [
+            {
+                "person_name": "Mike Hicks", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "", 
+                "role_display_name": "Designed by", 
+                "person_id": "18057027", 
+                "person_url": "https://collection.cooperhewitt.org/people/18057027/"
+            }
+        ], 
+        "decade": "1980", 
+        "label_text": null, 
+        "woe:country": "23424977", 
+        "dimensions_raw": {
+            "width": [
+                "34.80", 
+                "centimeters"
+            ], 
+            "height": [
+                "61.00", 
+                "centimeters"
+            ]
+        }, 
+        "department_id": "35347493", 
+        "title_raw": "Drug Preventer", 
+        "justification": null, 
+        "media_id": "35371135", 
+        "description": null, 
+        "creditline": "Gift of Various Donors", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "1980", 
+        "url": "https://collection.cooperhewitt.org/objects/18617827/", 
+        "type": "poster", 
+        "accession_number": "1981-29-355", 
+        "year_end": 1980, 
+        "signed": null, 
+        "inscribed": null, 
+        "period_id": null, 
+        "year_acquired": "1981", 
+        "woe:country_id": "23424977"
+    }
+}

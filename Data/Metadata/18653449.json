@@ -1,0 +1,147 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": 1970, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": "lithograph on paper", 
+        "tms:id": "201684", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/12990_507aead6e15859c7_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "12990"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/12990_507aead6e15859c7_b.jpg", 
+                    "width": 738, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "12990"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/12990_507aead6e15859c7_d.gif", 
+                    "width": 231, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "12990"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/12990_507aead6e15859c7_z.jpg", 
+                    "width": 461, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "12990"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/12990_507aead6e15859c7_n.jpg", 
+                    "width": 231, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "12990"
+                }
+            }, 
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/254836_03aa80c45f1a3bb1_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "0", 
+                    "image_id": "254836"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/254836_03aa80c45f1a3bb1_b.jpg", 
+                    "width": 753, 
+                    "height": 1024, 
+                    "is_primary": "0", 
+                    "image_id": "254836"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/254836_03aa80c45f1a3bb1_d.gif", 
+                    "width": 235, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "254836"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/254836_03aa80c45f1a3bb1_z.jpg", 
+                    "width": 470, 
+                    "height": 640, 
+                    "is_primary": "0", 
+                    "image_id": "254836"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/254836_03aa80c45f1a3bb1_n.jpg", 
+                    "width": 235, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "254836"
+                }
+            }
+        ], 
+        "id": "18653449", 
+        "has_no_known_copyright": null, 
+        "woe:country_name": "United States", 
+        "dimensions": "88.3 x 63.9 cm (34 3/4 x 25 3/16 in.)", 
+        "title": "Poster, Nike 180 AIR, ca. 1980–95", 
+        "provenance": "Charles S. Anderson Design Company", 
+        "participants": [
+            {
+                "person_name": "Charles S. Anderson", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "1958", 
+                "role_display_name": "Designed by", 
+                "person_id": "18043567", 
+                "person_url": "https://collection.cooperhewitt.org/people/18043567/"
+            }, 
+            {
+                "person_name": "Charles S. Anderson Design Company", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35351535/", 
+                "role_id": "35351535", 
+                "role_name": "Donor", 
+                "person_date": "", 
+                "role_display_name": "Donated by", 
+                "person_id": "18536361", 
+                "person_url": "https://collection.cooperhewitt.org/people/18536361/"
+            }
+        ], 
+        "decade": "1970", 
+        "label_text": null, 
+        "woe:country": "23424977", 
+        "dimensions_raw": {
+            "width": [
+                "63.90", 
+                "centimeters"
+            ], 
+            "height": [
+                "88.30", 
+                "centimeters"
+            ]
+        }, 
+        "department_id": "35347493", 
+        "title_raw": "Nike 180 AIR", 
+        "justification": null, 
+        "media_id": "35419317", 
+        "description": "Nike 180 Air specifications poster depicts in black and white, upper left, the Empire State building; upper center, records; upper right: measuring instrument. At the center, in red: 80. Lower section depicts an abstract male head and on the right: 180 / A / AIR. Also lower right is the name and brand of the shoe. Marginal markings in black.", 
+        "creditline": "Gift of Charles S. Anderson Design Company", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "ca. 1980–95", 
+        "url": "https://collection.cooperhewitt.org/objects/18653449/", 
+        "type": "poster", 
+        "accession_number": "1996-29-5", 
+        "year_end": 1995, 
+        "signed": null, 
+        "inscribed": null, 
+        "period_id": null, 
+        "year_acquired": "1996", 
+        "woe:country_id": "23424977"
+    }
+}

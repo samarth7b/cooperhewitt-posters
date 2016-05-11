@@ -1,0 +1,120 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": null, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": "offset lithograph\nsupport: paper", 
+        "tms:id": "193550", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/268834_7ccc42167c4d1dce_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "268834"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/268834_7ccc42167c4d1dce_b.jpg", 
+                    "width": 1024, 
+                    "height": 678, 
+                    "is_primary": "1", 
+                    "image_id": "268834"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/268834_7ccc42167c4d1dce_d.gif", 
+                    "width": 320, 
+                    "height": 212, 
+                    "is_primary": "1", 
+                    "image_id": "268834"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/268834_7ccc42167c4d1dce_z.jpg", 
+                    "width": 640, 
+                    "height": 423, 
+                    "is_primary": "1", 
+                    "image_id": "268834"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/268834_7ccc42167c4d1dce_n.jpg", 
+                    "width": 320, 
+                    "height": 212, 
+                    "is_primary": "1", 
+                    "image_id": "268834"
+                }
+            }
+        ], 
+        "id": "18637397", 
+        "has_no_known_copyright": null, 
+        "woe:country_name": "United States", 
+        "dimensions": "61 x 93.9 cm (24 x 36 15/16 in.)", 
+        "title": "Poster, How can a design be compa", 
+        "provenance": null, 
+        "participants": [
+            {
+                "person_name": "Cranbrook Academy Design Department", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35351535/", 
+                "role_id": "35351535", 
+                "role_name": "Donor", 
+                "person_date": "", 
+                "role_display_name": "Donated by", 
+                "person_id": "18048475", 
+                "person_url": "https://collection.cooperhewitt.org/people/18048475/"
+            }, 
+            {
+                "person_name": "CGC", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35352245/", 
+                "role_id": "35352245", 
+                "role_name": "Cataloguer", 
+                "person_date": "", 
+                "role_display_name": "Catalogued by", 
+                "person_id": "18048417", 
+                "person_url": "https://collection.cooperhewitt.org/people/18048417/"
+            }, 
+            {
+                "person_name": "Cranbrook Academy Design Department", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236751/", 
+                "role_id": "35236751", 
+                "role_name": "Director of Production", 
+                "person_date": "", 
+                "role_display_name": "Production directed by", 
+                "person_id": "18048475", 
+                "person_url": "https://collection.cooperhewitt.org/people/18048475/"
+            }
+        ], 
+        "decade": null, 
+        "label_text": null, 
+        "woe:country": "23424977", 
+        "dimensions_raw": {
+            "width": [
+                "93.90", 
+                "centimeters"
+            ], 
+            "height": [
+                "61.00", 
+                "centimeters"
+            ]
+        }, 
+        "department_id": "35347493", 
+        "title_raw": "How can a design be compa", 
+        "justification": null, 
+        "media_id": "136270993", 
+        "description": null, 
+        "creditline": "Gift of Cranbrook Academy of Art", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": null, 
+        "url": "https://collection.cooperhewitt.org/objects/18637397/", 
+        "type": "poster", 
+        "accession_number": "1991-69-97", 
+        "year_end": null, 
+        "signed": null, 
+        "inscribed": "Imprinted in white ink at UC: How can a design be compatible?; at UC: Bicycles have always been..; at C: 2/ Buildings can be designed to fit the scale/ of an existing urban setting; at LR: Funded by the Michigan Council for/the Arts...; at lower margin C: Design Michigan", 
+        "period_id": null, 
+        "year_acquired": "1991", 
+        "woe:country_id": "23424977"
+    }
+}

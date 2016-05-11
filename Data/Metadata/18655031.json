@@ -1,0 +1,110 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": 1936, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": "lithograph on wove paper", 
+        "tms:id": "202485", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/252519_86bf1ff2791958c7_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "252519"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/252519_86bf1ff2791958c7_b.jpg", 
+                    "width": 741, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "252519"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/252519_86bf1ff2791958c7_d.gif", 
+                    "width": 232, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "252519"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/252519_86bf1ff2791958c7_z.jpg", 
+                    "width": 463, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "252519"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/252519_86bf1ff2791958c7_n.jpg", 
+                    "width": 232, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "252519"
+                }
+            }
+        ], 
+        "id": "18655031", 
+        "has_no_known_copyright": null, 
+        "woe:country_name": "Spain", 
+        "dimensions": "78.7 x 58.9 cm (31 x 23 3/16 in.)\n89.8 x 64.2 cm (35 3/8 x 25 1/4 in.)", 
+        "title": "Poster, Ayuda a Madrid (Help Madrid), 1936–37", 
+        "provenance": null, 
+        "participants": [
+            {
+                "person_name": "Council for the Defense of Madrid", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236661/", 
+                "role_id": "35236661", 
+                "role_name": "Publisher", 
+                "person_date": "", 
+                "role_display_name": "Published by", 
+                "person_id": "18060393", 
+                "person_url": "https://collection.cooperhewitt.org/people/18060393/"
+            }, 
+            {
+                "person_name": "William P. Mangold", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35351535/", 
+                "role_id": "35351535", 
+                "role_name": "Donor", 
+                "person_date": "", 
+                "role_display_name": "Donated by", 
+                "person_id": "18049663", 
+                "person_url": "https://collection.cooperhewitt.org/people/18049663/"
+            }
+        ], 
+        "decade": "1930", 
+        "label_text": null, 
+        "woe:country": "23424950", 
+        "dimensions_raw": {
+            "width": [
+                "58.90", 
+                "centimeters"
+            ], 
+            "height": [
+                "78.70", 
+                "centimeters"
+            ]
+        }, 
+        "department_id": "35347493", 
+        "title_raw": "Ayuda a Madrid (Help Madrid)", 
+        "justification": null, 
+        "media_id": "35407799", 
+        "description": "Spanish Civil War poster. Photographically-derived image of two girls huddled together under a stone arch. They look anxiously at the sky. Across top of image: La aviación fascista pasa sobre la capital/ de la República./ ¿Haces tú algo para evitar esto? ( A fascist plane flies over the capital of the Republic. Are you doing something to avoid this?); at bottom of image: AYUDA  A MADRID (Help Madrid).", 
+        "creditline": "Gift of William P. Mangold", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "1936–37", 
+        "url": "https://collection.cooperhewitt.org/objects/18655031/", 
+        "type": "poster", 
+        "accession_number": "1997-21-23", 
+        "year_end": 1937, 
+        "signed": null, 
+        "inscribed": "Lower left: Junta Delagada de Defensa de Madrid - Delagacion De Propaganda y Prensa; lower right: Huecograbado Rivadeneyra - Madrid", 
+        "period_id": null, 
+        "year_acquired": "1997", 
+        "woe:country_id": "23424950"
+    }
+}

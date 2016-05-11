@@ -1,0 +1,137 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": null, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": "screenprint on white paper", 
+        "tms:id": "177672", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/90452_dc34b43cb8fa6111_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "90452"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/90452_dc34b43cb8fa6111_b.jpg", 
+                    "width": 696, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "90452"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/90452_dc34b43cb8fa6111_d.gif", 
+                    "width": 218, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "90452"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/90452_dc34b43cb8fa6111_z.jpg", 
+                    "width": 435, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "90452"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/90452_dc34b43cb8fa6111_n.jpg", 
+                    "width": 218, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "90452"
+                }
+            }, 
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/206150_1b47a873fcec6752_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "0", 
+                    "image_id": "206150"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/206150_1b47a873fcec6752_b.jpg", 
+                    "width": 707, 
+                    "height": 1024, 
+                    "is_primary": "0", 
+                    "image_id": "206150"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/206150_1b47a873fcec6752_d.gif", 
+                    "width": 221, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "206150"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/206150_1b47a873fcec6752_z.jpg", 
+                    "width": 442, 
+                    "height": 640, 
+                    "is_primary": "0", 
+                    "image_id": "206150"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/206150_1b47a873fcec6752_n.jpg", 
+                    "width": 221, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "206150"
+                }
+            }
+        ], 
+        "id": "18618277", 
+        "has_no_known_copyright": null, 
+        "woe:country_name": "United States", 
+        "dimensions": "69.8 x 47.6 cm (27 1/2 x 18 3/4 in.)", 
+        "title": "Poster, Jeanne Marc", 
+        "provenance": "1981: acquired by Museum", 
+        "participants": [
+            {
+                "person_name": "John Casado", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "", 
+                "role_display_name": "Designed by", 
+                "person_id": "18051065", 
+                "person_url": "https://collection.cooperhewitt.org/people/18051065/"
+            }
+        ], 
+        "decade": null, 
+        "label_text": null, 
+        "woe:country": "23424977", 
+        "dimensions_raw": {
+            "width": [
+                "47.60", 
+                "centimeters"
+            ], 
+            "height": [
+                "69.80", 
+                "centimeters"
+            ]
+        }, 
+        "department_id": "35347493", 
+        "title_raw": "Jeanne Marc", 
+        "justification": null, 
+        "media_id": "51684187", 
+        "description": "Poster featuring abstract profile of woman’s face in deep blue with yellow triangle for eye and red lips; only part of her face is visible. Diagonal line crosses entire poster and above is cream color and below is turquoise. Jeanne Marc logo cropped and large on cream and small on turquoise.  Imprinted in yellow, lower margin: 262 SUTTER SAN FRANCISCO 415.362.1121.", 
+        "creditline": "Gift of Various Donors", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": null, 
+        "url": "https://collection.cooperhewitt.org/objects/18618277/", 
+        "type": "poster", 
+        "accession_number": "1981-29-95", 
+        "year_end": null, 
+        "signed": null, 
+        "inscribed": null, 
+        "period_id": null, 
+        "year_acquired": "1981", 
+        "woe:country_id": "23424977"
+    }
+}

@@ -1,0 +1,137 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": "This poster depicts a large-scale version of the Levi's guarantee ticket that founder Levi Strauss first affixed to the back right pocket of his jeans in 1892. Originally of oilcloth and sewn, the label was switched to paper in the early 1950s and affixed with staples, rather than thread, in the 1940s. The ticket's basic design, layout, fonts, and imagery have remained constant, and only minor differences in wording can be found. For instance, this one, from 1977, reads at the top: \"For over 125 years,\" a notation that changed over time. While this ticket reads, \"They are the original blue jeans,\" a 1930s label claims, \"They are positively superior.\" In the two-horse logo trademark at right, a 1930s example offers the 1873 patent date for Levi’s riveted pockets, which allowed for sturdy denim pants, and is considered the birth year of the modern blue jean. The 1977 poster instead simply states, “Since 1850,” noting the date Strauss opened his dry goods wholesale business. Such differences suggest changed marketing strategies for new generations of consumers. In addition to affixing the label to jeans, Levi's also gave retailers sample tickets with denim swatches as part of their sales pitch.", 
+        "year_start": 1977, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": "offset lithograph on paper", 
+        "tms:id": "177360", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/65017_6c802223f117ed90_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "65017"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/65017_6c802223f117ed90_b.jpg", 
+                    "width": 1024, 
+                    "height": 450, 
+                    "is_primary": "1", 
+                    "image_id": "65017"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/65017_6c802223f117ed90_d.gif", 
+                    "width": 320, 
+                    "height": 141, 
+                    "is_primary": "1", 
+                    "image_id": "65017"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/65017_6c802223f117ed90_z.jpg", 
+                    "width": 640, 
+                    "height": 281, 
+                    "is_primary": "1", 
+                    "image_id": "65017"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/65017_6c802223f117ed90_n.jpg", 
+                    "width": 320, 
+                    "height": 141, 
+                    "is_primary": "1", 
+                    "image_id": "65017"
+                }
+            }, 
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/267686_58a8e8ee2476f022_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "0", 
+                    "image_id": "267686"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/267686_58a8e8ee2476f022_b.jpg", 
+                    "width": 1024, 
+                    "height": 455, 
+                    "is_primary": "0", 
+                    "image_id": "267686"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/267686_58a8e8ee2476f022_d.gif", 
+                    "width": 320, 
+                    "height": 142, 
+                    "is_primary": "0", 
+                    "image_id": "267686"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/267686_58a8e8ee2476f022_z.jpg", 
+                    "width": 640, 
+                    "height": 284, 
+                    "is_primary": "0", 
+                    "image_id": "267686"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/267686_58a8e8ee2476f022_n.jpg", 
+                    "width": 320, 
+                    "height": 142, 
+                    "is_primary": "0", 
+                    "image_id": "267686"
+                }
+            }
+        ], 
+        "id": "18617655", 
+        "has_no_known_copyright": null, 
+        "woe:country_name": "United States", 
+        "dimensions": "31.2 x 72.8 cm (12 5/16 x 28 11/16 in.)", 
+        "title": "Poster, \"This is a pair of Levi's\" for Levi Strauss, 1977", 
+        "provenance": "1981: acquired by Museum", 
+        "participants": [
+            {
+                "person_name": "Levi Strauss", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236667/", 
+                "role_id": "35236667", 
+                "role_name": "Client", 
+                "person_date": "San Francisco, California, USA", 
+                "role_display_name": "Client:", 
+                "person_id": "18535845", 
+                "person_url": "https://collection.cooperhewitt.org/people/18535845/"
+            }
+        ], 
+        "decade": "1970", 
+        "label_text": null, 
+        "woe:country": "23424977", 
+        "dimensions_raw": {
+            "width": [
+                "72.80", 
+                "centimeters"
+            ], 
+            "height": [
+                "31.20", 
+                "centimeters"
+            ]
+        }, 
+        "department_id": "35347493", 
+        "title_raw": "\"This is a pair of Levi's\" for Levi Strauss", 
+        "justification": null, 
+        "media_id": "35399021", 
+        "description": "Horizontal poster; reminiscent of a dollar bill. All in black ink on white ground. Allover text, including: FOR OVER 125 YEARS / OUR CELEBRATED AND ORIGINAL XX BLUE DENIM OVERALLS / HAVE BEEN BEFORE THE PUBLIC. This is a pair of Levi’s / THEY ARE / THE ORIGINAL BLUE JEANS / made in the United States and enjoy a national reputation. Only selected materials have been used in their manufacture. / EVERY PAIR SATISFACTION GUARANTEED…", 
+        "creditline": "Gift of Various Donors", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "1977", 
+        "url": "https://collection.cooperhewitt.org/objects/18617655/", 
+        "type": "poster", 
+        "accession_number": "1981-29-278", 
+        "year_end": 1977, 
+        "signed": null, 
+        "inscribed": "Printed in black ink, lower left edge: COPYRIGHT 1977, BY LEVI STRAUSS & CO., MARK A REG.", 
+        "period_id": null, 
+        "year_acquired": "1981", 
+        "woe:country_id": "23424977"
+    }
+}

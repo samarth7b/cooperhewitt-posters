@@ -1,0 +1,137 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": 1980, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": "offset lithograph", 
+        "tms:id": "177210", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/49868_6438bbd192001807_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "49868"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/49868_6438bbd192001807_b.jpg", 
+                    "width": 692, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "49868"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/49868_6438bbd192001807_d.gif", 
+                    "width": 216, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "49868"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/49868_6438bbd192001807_z.jpg", 
+                    "width": 432, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "49868"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/49868_6438bbd192001807_n.jpg", 
+                    "width": 216, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "49868"
+                }
+            }, 
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/268684_189806d92e7a4de7_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "0", 
+                    "image_id": "268684"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/268684_189806d92e7a4de7_b.jpg", 
+                    "width": 701, 
+                    "height": 1024, 
+                    "is_primary": "0", 
+                    "image_id": "268684"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/268684_189806d92e7a4de7_d.gif", 
+                    "width": 219, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "268684"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/268684_189806d92e7a4de7_z.jpg", 
+                    "width": 438, 
+                    "height": 640, 
+                    "is_primary": "0", 
+                    "image_id": "268684"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/268684_189806d92e7a4de7_n.jpg", 
+                    "width": 219, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "268684"
+                }
+            }
+        ], 
+        "id": "18617355", 
+        "has_no_known_copyright": null, 
+        "woe:country_name": "United States", 
+        "dimensions": "H x W: 91.5 x 61.1 cm (36 in. x 24 1/16 in.)", 
+        "title": "Poster, The Los Angeles World Hunger Event, 1980", 
+        "provenance": "1981: acquired by Museum", 
+        "participants": [
+            {
+                "person_name": "Milton Glaser", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "American, b. 1929", 
+                "role_display_name": "Designed by", 
+                "person_id": "18042107", 
+                "person_url": "https://collection.cooperhewitt.org/people/18042107/"
+            }
+        ], 
+        "decade": "1980", 
+        "label_text": null, 
+        "woe:country": "23424977", 
+        "dimensions_raw": {
+            "width": [
+                "61.10", 
+                "centimeters"
+            ], 
+            "height": [
+                "91.50", 
+                "centimeters"
+            ]
+        }, 
+        "department_id": "35347493", 
+        "title_raw": "The Los Angeles World Hunger Event", 
+        "justification": null, 
+        "media_id": "35399027", 
+        "description": "Poster depicting wheat stalk with grains blowing around it in blue, red, and gray, against a yellow-orange background. Text in black, lower left: THE LOS ANGELES / WORLD HUNGER EVENT / [in orange] SATURDAY, MAY 3, 1980 / [in gray] THE BONAVENTURE / HOTEL.", 
+        "creditline": "Gift of Various Donors", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "1980", 
+        "url": "https://collection.cooperhewitt.org/objects/18617355/", 
+        "type": "poster", 
+        "accession_number": "1981-29-145", 
+        "year_end": 1980, 
+        "signed": "Signed in black, lower right: Milton Glaser", 
+        "inscribed": null, 
+        "period_id": null, 
+        "year_acquired": "1981", 
+        "woe:country_id": "23424977"
+    }
+}

@@ -1,0 +1,99 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": null, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": "screenprint on white toothed paper", 
+        "tms:id": "156161", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/200531_0c31c10c86c214ae_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "200531"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/200531_0c31c10c86c214ae_b.jpg", 
+                    "width": 839, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "200531"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/200531_0c31c10c86c214ae_d.gif", 
+                    "width": 262, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "200531"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/200531_0c31c10c86c214ae_z.jpg", 
+                    "width": 524, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "200531"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/200531_0c31c10c86c214ae_n.jpg", 
+                    "width": 262, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "200531"
+                }
+            }
+        ], 
+        "id": "18490567", 
+        "has_no_known_copyright": null, 
+        "dimensions": "53.2 x 43.5 cm (20 15/16 x 17 1/8 in.)", 
+        "title": "Poster", 
+        "provenance": null, 
+        "participants": [
+            {
+                "person_name": "Bridget Riley", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236565/", 
+                "role_id": "35236565", 
+                "role_name": "Artist", 
+                "person_date": "British, b. England, 1931-", 
+                "role_display_name": "", 
+                "person_id": "51679633", 
+                "person_url": "https://collection.cooperhewitt.org/people/51679633/"
+            }
+        ], 
+        "decade": null, 
+        "label_text": null, 
+        "woe:country": null, 
+        "dimensions_raw": {
+            "width": [
+                "43.50", 
+                "centimeters"
+            ], 
+            "height": [
+                "53.20", 
+                "centimeters"
+            ]
+        }, 
+        "department_id": "35347493", 
+        "title_raw": null, 
+        "justification": null, 
+        "media_id": "68266097", 
+        "description": "Vertical, black undulating lines.", 
+        "creditline": null, 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": null, 
+        "url": "https://collection.cooperhewitt.org/objects/18490567/", 
+        "type": "poster", 
+        "accession_number": "1976-25-5", 
+        "year_end": null, 
+        "signed": null, 
+        "inscribed": null, 
+        "period_id": null, 
+        "year_acquired": "1976", 
+        "woe:country_id": null
+    }
+}

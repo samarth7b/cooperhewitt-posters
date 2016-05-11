@@ -1,0 +1,177 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": 1987, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": "screenprint on paper", 
+        "tms:id": "276986", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/99244_466c80651b7c247c_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "99244"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/99244_466c80651b7c247c_b.jpg", 
+                    "width": 687, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "99244"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/99244_466c80651b7c247c_d.gif", 
+                    "width": 215, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "99244"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/99244_466c80651b7c247c_z.jpg", 
+                    "width": 429, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "99244"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/99244_466c80651b7c247c_n.jpg", 
+                    "width": 215, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "99244"
+                }
+            }, 
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/95567_02b2225c8257fdb6_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "0", 
+                    "image_id": "95567"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/95567_02b2225c8257fdb6_b.jpg", 
+                    "width": 687, 
+                    "height": 1024, 
+                    "is_primary": "0", 
+                    "image_id": "95567"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/95567_02b2225c8257fdb6_d.gif", 
+                    "width": 215, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "95567"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/95567_02b2225c8257fdb6_z.jpg", 
+                    "width": 429, 
+                    "height": 640, 
+                    "is_primary": "0", 
+                    "image_id": "95567"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/95567_02b2225c8257fdb6_n.jpg", 
+                    "width": 215, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "95567"
+                }
+            }
+        ], 
+        "id": "68268331", 
+        "has_no_known_copyright": null, 
+        "woe:country_name": "France", 
+        "dimensions": "H x W: 150 x 100 cm (59 1/16 x 39 3/8 in.)", 
+        "title": "Poster, Chicago, Naissance d’une métropole [Birth of a metropolis] 1872–1922, 1987", 
+        "provenance": "Philippe Apeloig to Cooper-Hewitt, May 2014.", 
+        "participants": [
+            {
+                "person_name": "General Acquisitions Endowment", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35352247/", 
+                "role_id": "35352247", 
+                "role_name": "Fund", 
+                "person_date": "", 
+                "role_display_name": "Fund:", 
+                "person_id": "18048535", 
+                "person_url": "https://collection.cooperhewitt.org/people/18048535/"
+            }, 
+            {
+                "person_name": "Musée D'Orsay", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236661/", 
+                "role_id": "35236661", 
+                "role_name": "Publisher", 
+                "person_date": "Paris, France", 
+                "role_display_name": "Published by", 
+                "person_id": "18048025", 
+                "person_url": "https://collection.cooperhewitt.org/people/18048025/"
+            }, 
+            {
+                "person_name": "Jacques London/Bedos", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236673/", 
+                "role_id": "35236673", 
+                "role_name": "Printer", 
+                "person_date": "", 
+                "role_display_name": "Printed by", 
+                "person_id": "68739535", 
+                "person_url": "https://collection.cooperhewitt.org/people/68739535/"
+            }, 
+            {
+                "person_name": "Philippe Apeloig", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35352249/", 
+                "role_id": "35352249", 
+                "role_name": "Vendor", 
+                "person_date": "French, b. 1962", 
+                "role_display_name": "Purchased from", 
+                "person_id": "35459765", 
+                "person_url": "https://collection.cooperhewitt.org/people/35459765/"
+            }, 
+            {
+                "person_name": "Philippe Apeloig", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "French, b. 1962", 
+                "role_display_name": "Designed by", 
+                "person_id": "35459765", 
+                "person_url": "https://collection.cooperhewitt.org/people/35459765/"
+            }
+        ], 
+        "decade": "1980", 
+        "label_text": "To create his Chicago poster in 1987, Apeloig used an early CAD-based typesetting system to produce letterforms that bend to follow the space of the photograph.", 
+        "woe:country": "23424819", 
+        "dimensions_raw": {
+            "width": [
+                "100.00", 
+                "centimeters"
+            ], 
+            "height": [
+                "150.00", 
+                "centimeters"
+            ]
+        }, 
+        "department_id": "35347493", 
+        "title_raw": "Chicago, Naissance d’une métropole [Birth of a metropolis] 1872–1922", 
+        "justification": "The contemporary graphic designer Philippe Apeloig came to public attention with this dynamic poster for the Musée d’Orsay’s opening exhibition in 1987-88, Chicago, Naissance du’une métropole (Chicago, Birth of a Metropolis) 1872-1922.  It was the first poster created by the now-celebrated graphic artist following his appointment as the Museum’s in-house designer.  \nApeloig won the competition for the position when he was only twenty-four and still a student at the École Nationale Supérieure des Arts Décoratifs in Paris.  During his student years, he interned in 1983 and again in 1985 at Wim Crouwel’s influential Total Design studio in Amsterdam, where he learned about the grid and computer aided design (CAD), which he would use throughout his career.  For the Chicago poster, Apeloig employed the new digital software and the hand-made photomontage technique of illustration.  A 1913 photograph of the city by J.W. Taylor, from the collection of The Art Institute of Chicago’s Burnham Library, provided a starting point for the poster.  Focusing on the right half of the image and rotating it to the left multiplied the dizzying sensation of the receding wind-swept street.  Further pulling/pushing the viewer into the city is the word Chicago which begins in the distance and wraps around the corner of the skyscraper-filled street, ending with a large “O,” alluding to the “O” of Orsay.  Apeloig achieved this innovative movement of the text by toggling back and forth between mechanical and digital means.  Initially, the studio experimented mechanically by hand-lettering “Chicago” on paper and folding the sheet at the last two letters, simulating the text bending around the corner.  For the next digital step, Apeloig traveled to Geneva to check out software that permitted him to distort the shapes of the letters by thickening and thinning the strokes to emphasize the word “Chicago” looming into the foreground.  At one point the poster contained additional text including the sponsor's name floating above the surface of the image.  Subsequently, almost all of the textual material was organized into a strip along the left edge, leaving only the subtitle picked out in yellow hovering diagonally across the front plane. The final point in the process was a mock-up of the poster with the manipulated photograph layered beneath a Mylar sheet containing the manipulated text superimposed on top. \nApeloig applied this same methodology for the other promotional materials related to the Chicago exhibition.  But he moved beyond this combination of illustration and computer-generated typography in his subsequent posters which rely totally on typographic solutions as represented by the group of five posters that entered the collection in 2013.", 
+        "media_id": "35431679", 
+        "description": "The right half of an archival 1913 photograph of Chicago by J.W. Taylor, from the collection of The Art Institute of Chicago’s Burnham Library, is tipped to the left to suggest the receding streets of the city.  In a contrasting movement, the word \"Chicago,\" in the Musee d'Orsay's official Waldbaum font and aligned with the architecture, begins in the distance and looms forward wrapping around the corner of the skyscraper-filled street, ending with a large “O,” perhaps alluding to the “O” of Orsay.", 
+        "creditline": "Museum purchase from General Acquisitions Endowment Fund", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "1987", 
+        "url": "https://collection.cooperhewitt.org/objects/68268331/", 
+        "type": "poster", 
+        "accession_number": "2015-6-1", 
+        "year_end": 1987, 
+        "signed": null, 
+        "inscribed": null, 
+        "period_id": null, 
+        "year_acquired": "2015", 
+        "woe:country_id": "23424819"
+    }
+}

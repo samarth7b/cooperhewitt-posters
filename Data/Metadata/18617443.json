@@ -1,0 +1,174 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": 1975, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": "lithograph on paper", 
+        "tms:id": "177254", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/80931_a4cd848c4d4a058e_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "80931"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/80931_a4cd848c4d4a058e_b.jpg", 
+                    "width": 536, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "80931"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/80931_a4cd848c4d4a058e_d.gif", 
+                    "width": 168, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "80931"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/80931_a4cd848c4d4a058e_z.jpg", 
+                    "width": 335, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "80931"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/80931_a4cd848c4d4a058e_n.jpg", 
+                    "width": 168, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "80931"
+                }
+            }, 
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/257264_4b20ba869a742ec6_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "0", 
+                    "image_id": "257264"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/257264_4b20ba869a742ec6_b.jpg", 
+                    "width": 543, 
+                    "height": 1024, 
+                    "is_primary": "0", 
+                    "image_id": "257264"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/257264_4b20ba869a742ec6_d.gif", 
+                    "width": 170, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "257264"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/257264_4b20ba869a742ec6_z.jpg", 
+                    "width": 339, 
+                    "height": 640, 
+                    "is_primary": "0", 
+                    "image_id": "257264"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/257264_4b20ba869a742ec6_n.jpg", 
+                    "width": 170, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "257264"
+                }
+            }, 
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/80932_dc884970468286cc_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "0", 
+                    "image_id": "80932"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/80932_dc884970468286cc_b.jpg", 
+                    "width": 534, 
+                    "height": 1024, 
+                    "is_primary": "0", 
+                    "image_id": "80932"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/80932_dc884970468286cc_d.gif", 
+                    "width": 167, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "80932"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/80932_dc884970468286cc_z.jpg", 
+                    "width": 334, 
+                    "height": 640, 
+                    "is_primary": "0", 
+                    "image_id": "80932"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/80932_dc884970468286cc_n.jpg", 
+                    "width": 167, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "80932"
+                }
+            }
+        ], 
+        "id": "18617443", 
+        "has_no_known_copyright": null, 
+        "woe:country_name": "United States", 
+        "dimensions": "95.3 x 50 cm (37 1/2 x 19 11/16 in.)", 
+        "title": "Poster, Pinwheel, ca. 1980", 
+        "provenance": "1981: acquired by Museum", 
+        "participants": [
+            {
+                "person_name": "Woody Pirtle", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "b. 1945", 
+                "role_display_name": "Designed by", 
+                "person_id": "18042325", 
+                "person_url": "https://collection.cooperhewitt.org/people/18042325/"
+            }
+        ], 
+        "decade": "1970", 
+        "label_text": null, 
+        "woe:country": "23424977", 
+        "dimensions_raw": {
+            "width": [
+                "50.00", 
+                "centimeters"
+            ], 
+            "height": [
+                "95.30", 
+                "centimeters"
+            ]
+        }, 
+        "department_id": "35347493", 
+        "title_raw": "Pinwheel", 
+        "justification": null, 
+        "media_id": "35419317", 
+        "description": "Poster depicts a house shape framed in purple containing two boxes of text on either side; above, in purple: PINWHEEL; Text boxes: Aha! Rust really does / it. But would red by richer? Would purple / pop? Now it’s easy / to actually see all the / choices your imagine. / With Typographic’s / Pinwheel. It’s a / new color proof pro- / cess that works kind of / like sild screen. For af- / fordable color trials / and presentation cali- / bre super compos. And / even for short runs of 2- / 200 or more. But / Pinwheel has made [next box] lots of improvements / over old-fashioned sild / screen methods. All in / the name of quality. / So you can spin the / color wheel and bring / a whole new spectrum / of possibilities to life. / Because no matter / how right rust is, some- / times your wonder, / would dark green do / more? Pinwheel.\nThe house shape contains a hand holding up a green pinwheel, all with saw tooth border on rust-colored ground. Above, one letter in each circle: COLOR.", 
+        "creditline": "Gift of Various Donors", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "ca. 1980", 
+        "url": "https://collection.cooperhewitt.org/objects/18617443/", 
+        "type": "poster", 
+        "accession_number": "1981-29-185", 
+        "year_end": 1985, 
+        "signed": null, 
+        "inscribed": "Printed in rust, lower margin: POSTER DESIGN: WOODY PIRTLE, INC./COPY: MARY KECK/TYPE: TYPOGRAPHICS/PAPER: MCNARCH PAPER CO./PRINTING: NEWMAN & MELTON", 
+        "period_id": null, 
+        "year_acquired": "1981", 
+        "woe:country_id": "23424977"
+    }
+}

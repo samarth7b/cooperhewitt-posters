@@ -1,0 +1,130 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": 1997, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": "offset lithograph on wove paper", 
+        "tms:id": "255497", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/46829_0424bef4f494898b_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "46829"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/46829_0424bef4f494898b_b.jpg", 
+                    "width": 1024, 
+                    "height": 714, 
+                    "is_primary": "1", 
+                    "image_id": "46829"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/46829_0424bef4f494898b_d.gif", 
+                    "width": 320, 
+                    "height": 223, 
+                    "is_primary": "1", 
+                    "image_id": "46829"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/46829_0424bef4f494898b_z.jpg", 
+                    "width": 640, 
+                    "height": 446, 
+                    "is_primary": "1", 
+                    "image_id": "46829"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/46829_0424bef4f494898b_n.jpg", 
+                    "width": 320, 
+                    "height": 223, 
+                    "is_primary": "1", 
+                    "image_id": "46829"
+                }
+            }
+        ], 
+        "id": "18758423", 
+        "has_no_known_copyright": null, 
+        "woe:country_name": "Switzerland", 
+        "dimensions": "127.9 x 89.5 cm (50 3/8 x 35 1/4 in.)", 
+        "title": "Poster, Virus Express - Rendezvous im Überall, 1997", 
+        "provenance": "Sara and Marc Benda (acquired new and directly from designer, Richard Feurer); 2010: acquired by Museum", 
+        "participants": [
+            {
+                "person_name": "Museum für Gestaltung, Zürich", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236667/", 
+                "role_id": "35236667", 
+                "role_name": "Client", 
+                "person_date": "Zürich, Switzerland", 
+                "role_display_name": "Client:", 
+                "person_id": "18063557", 
+                "person_url": "https://collection.cooperhewitt.org/people/18063557/"
+            }, 
+            {
+                "person_name": "Marc Benda", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35351535/", 
+                "role_id": "35351535", 
+                "role_name": "Donor", 
+                "person_date": "", 
+                "role_display_name": "Donated by", 
+                "person_id": "18062523", 
+                "person_url": "https://collection.cooperhewitt.org/people/18062523/"
+            }, 
+            {
+                "person_name": "Sara Benda", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35351535/", 
+                "role_id": "35351535", 
+                "role_name": "Donor", 
+                "person_date": "", 
+                "role_display_name": "Donated by", 
+                "person_id": "18063205", 
+                "person_url": "https://collection.cooperhewitt.org/people/18063205/"
+            }, 
+            {
+                "person_name": "Richard Feurer", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "", 
+                "role_display_name": "Designed by", 
+                "person_id": "68738767", 
+                "person_url": "https://collection.cooperhewitt.org/people/68738767/"
+            }
+        ], 
+        "decade": "1990", 
+        "label_text": null, 
+        "woe:country": "23424957", 
+        "dimensions_raw": {
+            "width": [
+                "89.50", 
+                "centimeters"
+            ], 
+            "height": [
+                "127.90", 
+                "centimeters"
+            ]
+        }, 
+        "department_id": "35347493", 
+        "title_raw": "Virus Express - Rendezvous im Überall", 
+        "justification": null, 
+        "media_id": "35431963", 
+        "description": "Black text on an extreme close-up of a woman’s face with dark lipstick and eye makeup. Text: Life is what happens to you WHILE YOU’RE BUSY MAKING OTHER PLANS / [JENE…SCHEINT…] / VIELLEICHTWIRKLICH, VIELLEICHTDA, VIELLEICHTKOMMEND, vielleichtschongeschehen… / KURZ […] HALTEN / OB […] SONSTWIE / Das […] DANN… / FUR IMMER immune! / Paradise is exactly where you are RIGHT NOW / VIRUSEXPRESS / RENDEZ-VOUS IM UBERALL / 22. OKTOBER […] Museum fur Gestaltung Zurich.", 
+        "creditline": "Gift of Sara and Marc Benda", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "1997", 
+        "url": "https://collection.cooperhewitt.org/objects/18758423/", 
+        "type": "poster", 
+        "accession_number": "2010-21-107", 
+        "year_end": 1997, 
+        "signed": null, 
+        "inscribed": "Printed in black ink, lower margin: GESTALTUNG Richard Feurer, Zurich REPRODUKTION typolitho ag, Zurich DRUCK vontobel druck ag, Wetzikon", 
+        "period_id": null, 
+        "year_acquired": "2010", 
+        "woe:country_id": "23424957"
+    }
+}

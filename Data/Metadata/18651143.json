@@ -1,0 +1,101 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": null, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": null, 
+        "tms:id": "200511", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/267094_d4de758cf86814cd_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "267094"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/267094_d4de758cf86814cd_b.jpg", 
+                    "width": 749, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "267094"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/267094_d4de758cf86814cd_d.gif", 
+                    "width": 234, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "267094"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/267094_d4de758cf86814cd_z.jpg", 
+                    "width": 468, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "267094"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/267094_d4de758cf86814cd_n.jpg", 
+                    "width": 234, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "267094"
+                }
+            }
+        ], 
+        "id": "18651143", 
+        "has_no_known_copyright": null, 
+        "woe:country_name": "United States", 
+        "dimensions": null, 
+        "title": "Poster, 25th Anniversary of City", 
+        "provenance": null, 
+        "participants": [
+            {
+                "person_name": "Mr. Joshua Mack", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35351535/", 
+                "role_id": "35351535", 
+                "role_name": "Donor", 
+                "person_date": "", 
+                "role_display_name": "Donated by", 
+                "person_id": "18041623", 
+                "person_url": "https://collection.cooperhewitt.org/people/18041623/"
+            }, 
+            {
+                "person_name": "Jack Youngerman", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "", 
+                "role_display_name": "Designed by", 
+                "person_id": "18535795", 
+                "person_url": "https://collection.cooperhewitt.org/people/18535795/"
+            }
+        ], 
+        "decade": null, 
+        "label_text": null, 
+        "woe:country": "23424977", 
+        "dimensions_raw": null, 
+        "department_id": "35347493", 
+        "title_raw": "25th Anniversary of City", 
+        "justification": null, 
+        "media_id": "35371135", 
+        "description": null, 
+        "creditline": "Gift of Joshua Mack", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": null, 
+        "url": "https://collection.cooperhewitt.org/objects/18651143/", 
+        "type": "poster", 
+        "accession_number": "1995-38-11", 
+        "year_end": null, 
+        "signed": null, 
+        "inscribed": null, 
+        "period_id": null, 
+        "year_acquired": "1995", 
+        "woe:country_id": "23424977"
+    }
+}

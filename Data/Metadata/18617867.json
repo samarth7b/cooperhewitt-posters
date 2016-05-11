@@ -1,0 +1,91 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": 1979, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": null, 
+        "tms:id": "177467", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/201197_831a2f46aff67d93_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "201197"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/201197_831a2f46aff67d93_b.jpg", 
+                    "width": 790, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "201197"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/201197_831a2f46aff67d93_d.gif", 
+                    "width": 247, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "201197"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/201197_831a2f46aff67d93_z.jpg", 
+                    "width": 494, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "201197"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/201197_831a2f46aff67d93_n.jpg", 
+                    "width": 247, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "201197"
+                }
+            }
+        ], 
+        "id": "18617867", 
+        "has_no_known_copyright": null, 
+        "woe:country_name": "United States", 
+        "dimensions": null, 
+        "title": "Poster, Japanese Architecture and Environment, 1979", 
+        "provenance": "1981: acquired by Museum", 
+        "participants": [
+            {
+                "person_name": "Marc Treib", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "", 
+                "role_display_name": "Designed by", 
+                "person_id": "18060965", 
+                "person_url": "https://collection.cooperhewitt.org/people/18060965/"
+            }
+        ], 
+        "decade": "1970", 
+        "label_text": null, 
+        "woe:country": "23424977", 
+        "dimensions_raw": null, 
+        "department_id": "35347493", 
+        "title_raw": "Japanese Architecture and Environment", 
+        "justification": null, 
+        "media_id": "35371135", 
+        "description": null, 
+        "creditline": "Gift of Various Donors", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "1979", 
+        "url": "https://collection.cooperhewitt.org/objects/18617867/", 
+        "type": "poster", 
+        "accession_number": "1981-29-373", 
+        "year_end": 1979, 
+        "signed": null, 
+        "inscribed": null, 
+        "period_id": null, 
+        "year_acquired": "1981", 
+        "woe:country_id": "23424977"
+    }
+}

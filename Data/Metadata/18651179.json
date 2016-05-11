@@ -1,0 +1,101 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": 1968, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": null, 
+        "tms:id": "200529", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/256545_4ddac1479249c8f1_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "256545"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/256545_4ddac1479249c8f1_b.jpg", 
+                    "width": 726, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "256545"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/256545_4ddac1479249c8f1_d.gif", 
+                    "width": 227, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "256545"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/256545_4ddac1479249c8f1_z.jpg", 
+                    "width": 454, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "256545"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/256545_4ddac1479249c8f1_n.jpg", 
+                    "width": 227, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "256545"
+                }
+            }
+        ], 
+        "id": "18651179", 
+        "has_no_known_copyright": null, 
+        "woe:country_name": "United States", 
+        "dimensions": null, 
+        "title": "Poster, Art, 1968", 
+        "provenance": null, 
+        "participants": [
+            {
+                "person_name": "Mr. Joshua Mack", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35351535/", 
+                "role_id": "35351535", 
+                "role_name": "Donor", 
+                "person_date": "", 
+                "role_display_name": "Donated by", 
+                "person_id": "18041623", 
+                "person_url": "https://collection.cooperhewitt.org/people/18041623/"
+            }, 
+            {
+                "person_name": "Jim Dine", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236565/", 
+                "role_id": "35236565", 
+                "role_name": "Artist", 
+                "person_date": "American, born 1935", 
+                "role_display_name": "", 
+                "person_id": "18042429", 
+                "person_url": "https://collection.cooperhewitt.org/people/18042429/"
+            }
+        ], 
+        "decade": "1960", 
+        "label_text": null, 
+        "woe:country": "23424977", 
+        "dimensions_raw": null, 
+        "department_id": "35347493", 
+        "title_raw": "Art", 
+        "justification": null, 
+        "media_id": "35371135", 
+        "description": null, 
+        "creditline": "Gift of Joshua Mack", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "1968", 
+        "url": "https://collection.cooperhewitt.org/objects/18651179/", 
+        "type": "poster", 
+        "accession_number": "1995-38-28", 
+        "year_end": 1968, 
+        "signed": null, 
+        "inscribed": null, 
+        "period_id": null, 
+        "year_acquired": "1995", 
+        "woe:country_id": "23424977"
+    }
+}

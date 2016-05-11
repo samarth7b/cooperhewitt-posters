@@ -1,0 +1,167 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": 1986, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": "screenprint on white wove paper", 
+        "tms:id": "200879", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/84928_dc95af6ab90f11fc_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "84928"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/84928_dc95af6ab90f11fc_b.jpg", 
+                    "width": 593, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "84928"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/84928_dc95af6ab90f11fc_d.gif", 
+                    "width": 185, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "84928"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/84928_dc95af6ab90f11fc_z.jpg", 
+                    "width": 370, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "84928"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/84928_dc95af6ab90f11fc_n.jpg", 
+                    "width": 185, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "84928"
+                }
+            }, 
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/268830_2aa35f2cbf8f38a2_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "0", 
+                    "image_id": "268830"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/268830_2aa35f2cbf8f38a2_b.jpg", 
+                    "width": 605, 
+                    "height": 1024, 
+                    "is_primary": "0", 
+                    "image_id": "268830"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/268830_2aa35f2cbf8f38a2_d.gif", 
+                    "width": 189, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "268830"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/268830_2aa35f2cbf8f38a2_z.jpg", 
+                    "width": 378, 
+                    "height": 640, 
+                    "is_primary": "0", 
+                    "image_id": "268830"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/268830_2aa35f2cbf8f38a2_n.jpg", 
+                    "width": 189, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "268830"
+                }
+            }
+        ], 
+        "id": "18651873", 
+        "has_no_known_copyright": null, 
+        "woe:country_name": "United States", 
+        "dimensions": "74.7 x 43.2 cm (29 7/16 in. x 17 in.)", 
+        "title": "Poster, The Rocky Horror Show, 1986", 
+        "provenance": "1995: acquired by Museum", 
+        "participants": [
+            {
+                "person_name": "Empty Space Theatre", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236667/", 
+                "role_id": "35236667", 
+                "role_name": "Client", 
+                "person_date": "Bakersfield, California, USA", 
+                "role_display_name": "Client:", 
+                "person_id": "68775709", 
+                "person_url": "https://collection.cooperhewitt.org/people/68775709/"
+            }, 
+            {
+                "person_name": "Art Chantry", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35351535/", 
+                "role_id": "35351535", 
+                "role_name": "Donor", 
+                "person_date": "American, b. 1954", 
+                "role_display_name": "Donated by", 
+                "person_id": "18041683", 
+                "person_url": "https://collection.cooperhewitt.org/people/18041683/"
+            }, 
+            {
+                "person_name": "Display Products", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236673/", 
+                "role_id": "35236673", 
+                "role_name": "Printer", 
+                "person_date": "", 
+                "role_display_name": "Printed by", 
+                "person_id": "68263691", 
+                "person_url": "https://collection.cooperhewitt.org/people/68263691/"
+            }, 
+            {
+                "person_name": "Art Chantry", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "American, b. 1954", 
+                "role_display_name": "Designed by", 
+                "person_id": "18041683", 
+                "person_url": "https://collection.cooperhewitt.org/people/18041683/"
+            }
+        ], 
+        "decade": "1980", 
+        "label_text": null, 
+        "woe:country": "23424977", 
+        "dimensions_raw": {
+            "width": [
+                "43.20", 
+                "centimeters"
+            ], 
+            "height": [
+                "74.70", 
+                "centimeters"
+            ]
+        }, 
+        "department_id": "35347493", 
+        "title_raw": "The Rocky Horror Show", 
+        "justification": null, 
+        "media_id": "35432313", 
+        "description": "Poster advertising Richard O'Brien's, text in caps: THE/ ROCKY/ HORROR/SHOW.  Opening at Empty Space 86.  Features Frankenstein printed in greyscale.  Outline, in flourescent yellow, of astronaut helmet with anentae, bra, and bare legs superimposed over figure.  In flourescent pink appear, in a like fashion over the figure:  painted lips and nails, beauty mark, and high heeled shoes.", 
+        "creditline": "Gift of Art Chantry", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "1986", 
+        "url": "https://collection.cooperhewitt.org/objects/18651873/", 
+        "type": "poster", 
+        "accession_number": "1995-69-42", 
+        "year_end": 1986, 
+        "signed": null, 
+        "inscribed": "Imprinted in black ink on white, right margin: POSTER: DESIGN BY ART CHANTRY / TYPOGRAPHY BY ECLIPSE / PRINTED BY DISPLAY PRODUCTS / CAMERA WORK BY THE CAMERA", 
+        "period_id": null, 
+        "year_acquired": "1995", 
+        "woe:country_id": "23424977"
+    }
+}

@@ -1,0 +1,91 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": null, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": null, 
+        "tms:id": "177526", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/269245_3a51872669f5e55b_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "269245"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/269245_3a51872669f5e55b_b.jpg", 
+                    "width": 779, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "269245"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/269245_3a51872669f5e55b_d.gif", 
+                    "width": 243, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "269245"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/269245_3a51872669f5e55b_z.jpg", 
+                    "width": 487, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "269245"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/269245_3a51872669f5e55b_n.jpg", 
+                    "width": 243, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "269245"
+                }
+            }
+        ], 
+        "id": "18617985", 
+        "has_no_known_copyright": null, 
+        "woe:country_name": "United States", 
+        "dimensions": null, 
+        "title": "Poster (USA)", 
+        "provenance": null, 
+        "participants": [
+            {
+                "person_name": "Alex Katz", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236677/", 
+                "role_id": "35236677", 
+                "role_name": "After", 
+                "person_date": "", 
+                "role_display_name": "After", 
+                "person_id": "18535651", 
+                "person_url": "https://collection.cooperhewitt.org/people/18535651/"
+            }
+        ], 
+        "decade": null, 
+        "label_text": null, 
+        "woe:country": "23424977", 
+        "dimensions_raw": null, 
+        "department_id": "35347493", 
+        "title_raw": null, 
+        "justification": null, 
+        "media_id": "35371135", 
+        "description": null, 
+        "creditline": "Gift of Various Donors", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": null, 
+        "url": "https://collection.cooperhewitt.org/objects/18617985/", 
+        "type": "poster", 
+        "accession_number": "1981-29-426", 
+        "year_end": null, 
+        "signed": null, 
+        "inscribed": null, 
+        "period_id": null, 
+        "year_acquired": "1981", 
+        "woe:country_id": "23424977"
+    }
+}

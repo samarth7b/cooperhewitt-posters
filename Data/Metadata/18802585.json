@@ -1,0 +1,80 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": null, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": null, 
+        "tms:id": "181478", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/268505_e5d6ff9a3d854b34_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "268505"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/268505_e5d6ff9a3d854b34_b.jpg", 
+                    "width": 677, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "268505"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/268505_e5d6ff9a3d854b34_d.gif", 
+                    "width": 212, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "268505"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/268505_e5d6ff9a3d854b34_z.jpg", 
+                    "width": 423, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "268505"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/268505_e5d6ff9a3d854b34_n.jpg", 
+                    "width": 212, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "268505"
+                }
+            }
+        ], 
+        "id": "18802585", 
+        "has_no_known_copyright": null, 
+        "woe:country_name": "United States", 
+        "dimensions": null, 
+        "title": "Poster, The Grand Kabuki", 
+        "provenance": null, 
+        "participants": [], 
+        "decade": null, 
+        "label_text": null, 
+        "woe:country": "23424977", 
+        "dimensions_raw": null, 
+        "department_id": "35347493", 
+        "title_raw": "The Grand Kabuki", 
+        "justification": null, 
+        "media_id": "35371135", 
+        "description": null, 
+        "creditline": null, 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": null, 
+        "url": "https://collection.cooperhewitt.org/objects/18802585/", 
+        "type": "poster", 
+        "accession_number": "1984-34-1", 
+        "year_end": null, 
+        "signed": null, 
+        "inscribed": null, 
+        "period_id": null, 
+        "year_acquired": "1984", 
+        "woe:country_id": "23424977"
+    }
+}

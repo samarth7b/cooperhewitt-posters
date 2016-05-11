@@ -1,0 +1,137 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": 1993, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": "lithograph on paper", 
+        "tms:id": "200476", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/81507_8c30fffa9e27e2b7_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "81507"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/81507_8c30fffa9e27e2b7_b.jpg", 
+                    "width": 788, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "81507"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/81507_8c30fffa9e27e2b7_d.gif", 
+                    "width": 246, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "81507"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/81507_8c30fffa9e27e2b7_z.jpg", 
+                    "width": 493, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "81507"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/81507_8c30fffa9e27e2b7_n.jpg", 
+                    "width": 246, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "81507"
+                }
+            }, 
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/268450_f845a82475c2ec10_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "0", 
+                    "image_id": "268450"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/268450_f845a82475c2ec10_b.jpg", 
+                    "width": 812, 
+                    "height": 1024, 
+                    "is_primary": "0", 
+                    "image_id": "268450"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/268450_f845a82475c2ec10_d.gif", 
+                    "width": 254, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "268450"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/268450_f845a82475c2ec10_z.jpg", 
+                    "width": 508, 
+                    "height": 640, 
+                    "is_primary": "0", 
+                    "image_id": "268450"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/268450_f845a82475c2ec10_n.jpg", 
+                    "width": 254, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "268450"
+                }
+            }
+        ], 
+        "id": "18651075", 
+        "has_no_known_copyright": null, 
+        "woe:country_name": "United States", 
+        "dimensions": "55.9 x 43.2 cm (22 x 17 in.)", 
+        "title": "Poster, You'll last longer with a condom, 1993", 
+        "provenance": "1995: acquired by Museum", 
+        "participants": [
+            {
+                "person_name": "AIDS Action Committee", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35351535/", 
+                "role_id": "35351535", 
+                "role_name": "Donor", 
+                "person_date": "", 
+                "role_display_name": "Donated by", 
+                "person_id": "18041635", 
+                "person_url": "https://collection.cooperhewitt.org/people/18041635/"
+            }
+        ], 
+        "decade": "1990", 
+        "label_text": null, 
+        "woe:country": "23424977", 
+        "dimensions_raw": {
+            "width": [
+                "43.20", 
+                "centimeters"
+            ], 
+            "height": [
+                "55.90", 
+                "centimeters"
+            ]
+        }, 
+        "department_id": "35347493", 
+        "title_raw": "You'll last longer with a condom", 
+        "justification": null, 
+        "media_id": "35419317", 
+        "description": "On white ground, a single yellow wrapped condom. Text in black: You’ll last longer with a condom. Sure, you sacrifice of little sensitivity when using a condom. But isn’t that better than sacrificing your life? / Use a latex condom. Barring abstinence. It’s the best way to prevent AIDS. For more information about HIV and AIDS, call the AIDS Action Committee Hotline at 1-800-235-2331.", 
+        "creditline": "Gift of AIDS Action Committee", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "1993", 
+        "url": "https://collection.cooperhewitt.org/objects/18651075/", 
+        "type": "poster", 
+        "accession_number": "1995-30-2", 
+        "year_end": 1993, 
+        "signed": null, 
+        "inscribed": null, 
+        "period_id": null, 
+        "year_acquired": "1995", 
+        "woe:country_id": "23424977"
+    }
+}

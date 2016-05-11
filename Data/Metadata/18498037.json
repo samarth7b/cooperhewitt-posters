@@ -1,0 +1,166 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": 1968, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": "offset lithograph on white wove paper", 
+        "tms:id": "159915", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/82643_9070d11b8752cae1_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "82643"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/82643_9070d11b8752cae1_b.jpg", 
+                    "width": 687, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "82643"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/82643_9070d11b8752cae1_d.gif", 
+                    "width": 215, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "82643"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/82643_9070d11b8752cae1_z.jpg", 
+                    "width": 429, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "82643"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/82643_9070d11b8752cae1_n.jpg", 
+                    "width": 215, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "82643"
+                }
+            }, 
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/204428_571fe7c7e8413903_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "0", 
+                    "image_id": "204428"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/204428_571fe7c7e8413903_b.jpg", 
+                    "width": 669, 
+                    "height": 1024, 
+                    "is_primary": "0", 
+                    "image_id": "204428"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/204428_571fe7c7e8413903_d.gif", 
+                    "width": 209, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "204428"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/204428_571fe7c7e8413903_z.jpg", 
+                    "width": 418, 
+                    "height": 640, 
+                    "is_primary": "0", 
+                    "image_id": "204428"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/204428_571fe7c7e8413903_n.jpg", 
+                    "width": 209, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "204428"
+                }
+            }
+        ], 
+        "id": "18498037", 
+        "has_no_known_copyright": null, 
+        "dimensions": "55.2 x 35.5 cm (21 3/4 in. x 14 in.)", 
+        "title": "Poster, Jim Hendrix..., 1968", 
+        "provenance": "Mr. and Mrs. Leslie J. Schreyer; 1979: acquired by Museum", 
+        "participants": [
+            {
+                "person_name": "Mrs. Alice Schreyer", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35351535/", 
+                "role_id": "35351535", 
+                "role_name": "Donor", 
+                "person_date": "", 
+                "role_display_name": "Donated by", 
+                "person_id": "68736623", 
+                "person_url": "https://collection.cooperhewitt.org/people/68736623/"
+            }, 
+            {
+                "person_name": "Mr. Leslie Schreyer", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35351535/", 
+                "role_id": "35351535", 
+                "role_name": "Donor", 
+                "person_date": "", 
+                "role_display_name": "Donated by", 
+                "person_id": "18058429", 
+                "person_url": "https://collection.cooperhewitt.org/people/18058429/"
+            }, 
+            {
+                "person_name": "Tea Lautrec Litho, San Francisco", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236673/", 
+                "role_id": "35236673", 
+                "role_name": "Printer", 
+                "person_date": "", 
+                "role_display_name": "Printed by", 
+                "person_id": "18056701", 
+                "person_url": "https://collection.cooperhewitt.org/people/18056701/"
+            }, 
+            {
+                "person_name": "Rick Griffin", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "", 
+                "role_display_name": "Designed by", 
+                "person_id": "18056725", 
+                "person_url": "https://collection.cooperhewitt.org/people/18056725/"
+            }
+        ], 
+        "decade": "1960", 
+        "label_text": null, 
+        "woe:country": null, 
+        "dimensions_raw": {
+            "width": [
+                "35.50", 
+                "centimeters"
+            ], 
+            "height": [
+                "55.20", 
+                "centimeters"
+            ]
+        }, 
+        "department_id": "35347493", 
+        "title_raw": "Jim Hendrix...", 
+        "justification": null, 
+        "media_id": "35431673", 
+        "description": "Poster features eyeball creature with reptilian limbs, feathered wings, and a skull burning through red background. Text in black: BILL GRAHAM PRESENTS IN SAN FRANCISCO; in black outlined in yellow: JIMI HENDRIX / EXPERIENCE / JOHN HAYALL / AND THE BLUESBREAKERS / ALBERT KING [more data].", 
+        "creditline": "Gift of Mr. and Mrs. Leslie J. Schreyer", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "1968", 
+        "url": "https://collection.cooperhewitt.org/objects/18498037/", 
+        "type": "poster", 
+        "accession_number": "1979-34-8", 
+        "year_end": 1968, 
+        "signed": "Signed in black ink, in poster, lower left: © 1968 BILL GRAHAM ~103", 
+        "inscribed": "Imprinted in black ink, lower left: tea lautrec litho", 
+        "period_id": "35435941", 
+        "year_acquired": "1979", 
+        "woe:country_id": null
+    }
+}

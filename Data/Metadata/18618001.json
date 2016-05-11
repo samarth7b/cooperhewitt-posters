@@ -1,0 +1,147 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": null, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": "lithograph on paper", 
+        "tms:id": "177534", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/90301_719df308e2a3673a_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "90301"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/90301_719df308e2a3673a_b.jpg", 
+                    "width": 731, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "90301"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/90301_719df308e2a3673a_d.gif", 
+                    "width": 228, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "90301"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/90301_719df308e2a3673a_z.jpg", 
+                    "width": 457, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "90301"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/90301_719df308e2a3673a_n.jpg", 
+                    "width": 228, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "90301"
+                }
+            }, 
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/207061_fef2a05eb42bf7dc_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "0", 
+                    "image_id": "207061"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/207061_fef2a05eb42bf7dc_b.jpg", 
+                    "width": 744, 
+                    "height": 1024, 
+                    "is_primary": "0", 
+                    "image_id": "207061"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/207061_fef2a05eb42bf7dc_d.gif", 
+                    "width": 233, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "207061"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/207061_fef2a05eb42bf7dc_z.jpg", 
+                    "width": 465, 
+                    "height": 640, 
+                    "is_primary": "0", 
+                    "image_id": "207061"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/207061_fef2a05eb42bf7dc_n.jpg", 
+                    "width": 233, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "207061"
+                }
+            }
+        ], 
+        "id": "18618001", 
+        "has_no_known_copyright": null, 
+        "woe:country_name": "United States", 
+        "dimensions": "53.4 x 38.2 cm (21 in. x 15 1/16 in.)", 
+        "title": "Poster, IBM / Let every eye negotiate for itself, and trust no agent", 
+        "provenance": "1981: acquired by Museum", 
+        "participants": [
+            {
+                "person_name": "IBM", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236667/", 
+                "role_id": "35236667", 
+                "role_name": "Client", 
+                "person_date": "USA", 
+                "role_display_name": "Client:", 
+                "person_id": "18041871", 
+                "person_url": "https://collection.cooperhewitt.org/people/18041871/"
+            }, 
+            {
+                "person_name": "Ken White", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "American, 1935-1985", 
+                "role_display_name": "Designed by", 
+                "person_id": "18042357", 
+                "person_url": "https://collection.cooperhewitt.org/people/18042357/"
+            }
+        ], 
+        "decade": null, 
+        "label_text": null, 
+        "woe:country": "23424977", 
+        "dimensions_raw": {
+            "width": [
+                "38.20", 
+                "centimeters"
+            ], 
+            "height": [
+                "53.40", 
+                "centimeters"
+            ]
+        }, 
+        "department_id": "35347493", 
+        "title_raw": "IBM / Let every eye negotiate for itself, and trust no agent", 
+        "justification": null, 
+        "media_id": "35419317", 
+        "description": "Poster in white with diagonal barely visible text; IBM logo. Lower left: Let every eye negotiate for itself, / And trust no agent / Shakespeare.", 
+        "creditline": "Gift of Various Donors", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": null, 
+        "url": "https://collection.cooperhewitt.org/objects/18618001/", 
+        "type": "poster", 
+        "accession_number": "1981-29-433", 
+        "year_end": null, 
+        "signed": null, 
+        "inscribed": null, 
+        "period_id": null, 
+        "year_acquired": "1981", 
+        "woe:country_id": "23424977"
+    }
+}

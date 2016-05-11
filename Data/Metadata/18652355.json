@@ -1,0 +1,167 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": 1994, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": "offset lithograph on paper", 
+        "tms:id": "201121", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/81525_e7fb6aa976674827_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "81525"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/81525_e7fb6aa976674827_b.jpg", 
+                    "width": 746, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "81525"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/81525_e7fb6aa976674827_d.gif", 
+                    "width": 233, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "81525"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/81525_e7fb6aa976674827_z.jpg", 
+                    "width": 466, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "81525"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/81525_e7fb6aa976674827_n.jpg", 
+                    "width": 233, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "81525"
+                }
+            }, 
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/268375_c69a805c0afb9275_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "0", 
+                    "image_id": "268375"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/268375_c69a805c0afb9275_b.jpg", 
+                    "width": 752, 
+                    "height": 1024, 
+                    "is_primary": "0", 
+                    "image_id": "268375"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/268375_c69a805c0afb9275_d.gif", 
+                    "width": 235, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "268375"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/268375_c69a805c0afb9275_z.jpg", 
+                    "width": 470, 
+                    "height": 640, 
+                    "is_primary": "0", 
+                    "image_id": "268375"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/268375_c69a805c0afb9275_n.jpg", 
+                    "width": 235, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "268375"
+                }
+            }
+        ], 
+        "id": "18652355", 
+        "has_no_known_copyright": null, 
+        "woe:country_name": "United States", 
+        "dimensions": "88.9 x 65.1 cm (35 x 25 5/8 in. )", 
+        "title": "Poster, Day without Art, 1994", 
+        "provenance": "1995: acquired by Museum", 
+        "participants": [
+            {
+                "person_name": "Darrel Ellis", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236565/", 
+                "role_id": "35236565", 
+                "role_name": "Artist", 
+                "person_date": "American, 1958–1992", 
+                "role_display_name": "", 
+                "person_id": "420565443", 
+                "person_url": "https://collection.cooperhewitt.org/people/420565443/"
+            }, 
+            {
+                "person_name": "Visual AIDS", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236667/", 
+                "role_id": "35236667", 
+                "role_name": "Client", 
+                "person_date": "", 
+                "role_display_name": "Client:", 
+                "person_id": "18055525", 
+                "person_url": "https://collection.cooperhewitt.org/people/18055525/"
+            }, 
+            {
+                "person_name": "Unknown donor: found in Collection", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35351535/", 
+                "role_id": "35351535", 
+                "role_name": "Donor", 
+                "person_date": "", 
+                "role_display_name": "Donated by", 
+                "person_id": "18053377", 
+                "person_url": "https://collection.cooperhewitt.org/people/18053377/"
+            }, 
+            {
+                "person_name": "Danny Tisdale Studio", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "", 
+                "role_display_name": "Designed by", 
+                "person_id": "18049083", 
+                "person_url": "https://collection.cooperhewitt.org/people/18049083/"
+            }
+        ], 
+        "decade": "1990", 
+        "label_text": null, 
+        "woe:country": "23424977", 
+        "dimensions_raw": {
+            "width": [
+                "65.10", 
+                "centimeters"
+            ], 
+            "height": [
+                "88.90", 
+                "centimeters"
+            ]
+        }, 
+        "department_id": "35347493", 
+        "title_raw": "Day without Art", 
+        "justification": null, 
+        "media_id": "35399021", 
+        "description": "Poster for \"Day Without Art\" to honor artists who died of AIDS. Reproduction of ink and paper drawing of Darrel Ellis' \"Self Portrait\" at top half.  Image of African-American young man with hands clasped in front.  Across top, \"We're all one human being,/really./ - Darrell Ellis (died of AIDS in 1992)/ (Source: Interview with David Hirsh)\" (in red).  Written biography of Ellis and information about this day such as date, purpose, and sponsors below in red.", 
+        "creditline": "Gift of Unknown Donor", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "1994", 
+        "url": "https://collection.cooperhewitt.org/objects/18652355/", 
+        "type": "poster", 
+        "accession_number": "1995-78-3", 
+        "year_end": 1994, 
+        "signed": "Imprinted vertically in red, right edge: Darrel Ellis, Self Protrait after photograph by Robert Mapplethorpe, Ink on Paper\nImprinted in red, along bottom edge: \"Danny Tisdale Studio consultations: Denis Hadfield and Lisa Salkey printing: Louis Sherman & Co. paper: G.B. Paper Co. text by Gloria typeset: Artforum/ ©VISUAL AIDS 1994.\"", 
+        "inscribed": "Imprinted in red, below image in three columns: \"Painter/photographer Darrel Ellis/ was born in 1958 in the South/ Bronx, New York.  Ellis attended/ art school and recieved a number/ of awards and fellowships in New/ York.  While beginning to show his/ work, he was employed as a secu-/rity guard at The Museum of Mod- (first column)/ ern Art and taught public school/ students through the Whitney Mu-/seum of Art education program./ Darrel Ellis died in 1992 at the age/ of 33 from complications of AIDS./ Exhibitions of his work include/ The Museum of Modern Art, six/ months after his death (second column)/ This year's DAY WITHOUT ART/ THRUSDAY DECEMBER 1, is dedi-/ cated to celebrating and supporting/ the work of artists living with/ AIDS, to documenting and preserv-/ing the work of these artists, and/ adressing the needs and concerns/ of teenagers and young adults.\"(third column)\nImprinted in red, below biography: \"DAY WITHOUT ART/ An International Day of Action and Mourning in Response to the AIDS crisis/ DECEMBER 1, 1994/ A project of Visual AIDS, 131 W24 St. New York, NY 10011 USA 212.206.6758/ National AIDS Hotline 1.800.342.2437 (24 hours) Spanish 1.800.344.7432 (7 days, 8 - 2 pm)/ Sponsors of DAY WITHOUT ART 1994:/ The AT&T Foundation, Art Matters Inc, The Borough President of Manhattan-the Hon. Ruth Messinger, Broadway Cares/ Equity Fight AIDS, The Charles Engelhard Foundation/ Consolidated Edison, The/ Coules Charitable Trust, Creative Time, DIFFA, The Joyce Mertz-Gilmore Foundation, Materials for the Arts, The National Endowment for the Arts, The New York City Department of Cultural Affairs, The/ New York State Council on the Arts, The Pace/MacGil Gallery and all out DAY WITHOUT ART participants.\"", 
+        "period_id": null, 
+        "year_acquired": "1995", 
+        "woe:country_id": "23424977"
+    }
+}

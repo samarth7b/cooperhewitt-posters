@@ -1,0 +1,137 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": null, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": "lithograph on paper", 
+        "tms:id": "177163", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/82686_4181c5782566fc30_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "82686"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/82686_4181c5782566fc30_b.jpg", 
+                    "width": 772, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "82686"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/82686_4181c5782566fc30_d.gif", 
+                    "width": 241, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "82686"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/82686_4181c5782566fc30_z.jpg", 
+                    "width": 483, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "82686"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/82686_4181c5782566fc30_n.jpg", 
+                    "width": 241, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "82686"
+                }
+            }, 
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/205310_283eeffdf8b3ac25_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "0", 
+                    "image_id": "205310"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/205310_283eeffdf8b3ac25_b.jpg", 
+                    "width": 791, 
+                    "height": 1024, 
+                    "is_primary": "0", 
+                    "image_id": "205310"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/205310_283eeffdf8b3ac25_d.gif", 
+                    "width": 247, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "205310"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/205310_283eeffdf8b3ac25_z.jpg", 
+                    "width": 494, 
+                    "height": 640, 
+                    "is_primary": "0", 
+                    "image_id": "205310"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/205310_283eeffdf8b3ac25_n.jpg", 
+                    "width": 247, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "205310"
+                }
+            }
+        ], 
+        "id": "18617261", 
+        "has_no_known_copyright": null, 
+        "woe:country_name": "United States", 
+        "dimensions": "Overall: 64.5 x 48.8 cm (25 3/8 x 19 3/16 in.)", 
+        "title": "Poster, Don't Be Dilatory", 
+        "provenance": "1981: acquired by Museum", 
+        "participants": [
+            {
+                "person_name": "Brigham Young University", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236667/", 
+                "role_id": "35236667", 
+                "role_name": "Client", 
+                "person_date": "", 
+                "role_display_name": "Client:", 
+                "person_id": "18042421", 
+                "person_url": "https://collection.cooperhewitt.org/people/18042421/"
+            }
+        ], 
+        "decade": null, 
+        "label_text": null, 
+        "woe:country": "23424977", 
+        "dimensions_raw": {
+            "width": [
+                "48.80", 
+                "centimeters"
+            ], 
+            "height": [
+                "64.50", 
+                "centimeters"
+            ]
+        }, 
+        "department_id": "35347493", 
+        "title_raw": "Don't Be Dilatory", 
+        "justification": null, 
+        "media_id": "35419317", 
+        "description": "Poster featuring a blue silhouette of a schoolboy running. Text in blue in yellow box.", 
+        "creditline": "Gift of Various Donors", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": null, 
+        "url": "https://collection.cooperhewitt.org/objects/18617261/", 
+        "type": "poster", 
+        "accession_number": "1981-29-102", 
+        "year_end": null, 
+        "signed": null, 
+        "inscribed": null, 
+        "period_id": null, 
+        "year_acquired": "1981", 
+        "woe:country_id": "23424977"
+    }
+}

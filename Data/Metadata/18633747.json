@@ -1,0 +1,80 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": 1989, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": null, 
+        "tms:id": "191720", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/252472_066c27b6ebea83cd_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "252472"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/252472_066c27b6ebea83cd_b.jpg", 
+                    "width": 1024, 
+                    "height": 1019, 
+                    "is_primary": "1", 
+                    "image_id": "252472"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/252472_066c27b6ebea83cd_d.gif", 
+                    "width": 320, 
+                    "height": 318, 
+                    "is_primary": "1", 
+                    "image_id": "252472"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/252472_066c27b6ebea83cd_z.jpg", 
+                    "width": 640, 
+                    "height": 637, 
+                    "is_primary": "1", 
+                    "image_id": "252472"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/252472_066c27b6ebea83cd_n.jpg", 
+                    "width": 320, 
+                    "height": 318, 
+                    "is_primary": "1", 
+                    "image_id": "252472"
+                }
+            }
+        ], 
+        "id": "18633747", 
+        "has_no_known_copyright": null, 
+        "woe:country_name": "United States", 
+        "dimensions": null, 
+        "title": "Poster, Center for Design Typography: The First Ten Years, Cooper Union, 1989", 
+        "provenance": null, 
+        "participants": [], 
+        "decade": "1980", 
+        "label_text": null, 
+        "woe:country": "23424977", 
+        "dimensions_raw": null, 
+        "department_id": "35347493", 
+        "title_raw": "Center for Design Typography: The First Ten Years, Cooper Union", 
+        "justification": null, 
+        "media_id": "35371135", 
+        "description": null, 
+        "creditline": null, 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "1989", 
+        "url": "https://collection.cooperhewitt.org/objects/18633747/", 
+        "type": "poster", 
+        "accession_number": "1990-119-5", 
+        "year_end": 1989, 
+        "signed": null, 
+        "inscribed": null, 
+        "period_id": null, 
+        "year_acquired": "1990", 
+        "woe:country_id": "23424977"
+    }
+}

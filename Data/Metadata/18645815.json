@@ -1,0 +1,130 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": 1970, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": "lithograph on paper", 
+        "tms:id": "197811", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/201842_9111a095b01c1233_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "201842"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/201842_9111a095b01c1233_b.jpg", 
+                    "width": 791, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "201842"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/201842_9111a095b01c1233_d.gif", 
+                    "width": 247, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "201842"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/201842_9111a095b01c1233_z.jpg", 
+                    "width": 494, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "201842"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/201842_9111a095b01c1233_n.jpg", 
+                    "width": 247, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "201842"
+                }
+            }
+        ], 
+        "id": "18645815", 
+        "has_no_known_copyright": null, 
+        "woe:country_name": "United States", 
+        "dimensions": "60 x 46 cm (23 5/8 x 18 1/8 in.)", 
+        "title": "Poster (USA), ca. 1980", 
+        "provenance": "Steven Heller and Karrie Jacobs; 1993: acquired by Museum", 
+        "participants": [
+            {
+                "person_name": "Steven Heller", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35351535/", 
+                "role_id": "35351535", 
+                "role_name": "Donor", 
+                "person_date": "American, b. 1950", 
+                "role_display_name": "Donated by", 
+                "person_id": "18041397", 
+                "person_url": "https://collection.cooperhewitt.org/people/18041397/"
+            }, 
+            {
+                "person_name": "Karrie Jacobs", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35351535/", 
+                "role_id": "35351535", 
+                "role_name": "Donor", 
+                "person_date": "", 
+                "role_display_name": "Donated by", 
+                "person_id": "18056647", 
+                "person_url": "https://collection.cooperhewitt.org/people/18056647/"
+            }, 
+            {
+                "person_name": "LSA", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35352245/", 
+                "role_id": "35352245", 
+                "role_name": "Cataloguer", 
+                "person_date": "", 
+                "role_display_name": "Catalogued by", 
+                "person_id": "18048737", 
+                "person_url": "https://collection.cooperhewitt.org/people/18048737/"
+            }, 
+            {
+                "person_name": "Caz", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "", 
+                "role_display_name": "Designed by", 
+                "person_id": "18043237", 
+                "person_url": "https://collection.cooperhewitt.org/people/18043237/"
+            }
+        ], 
+        "decade": "1970", 
+        "label_text": null, 
+        "woe:country": "23424977", 
+        "dimensions_raw": {
+            "width": [
+                "46.00", 
+                "centimeters"
+            ], 
+            "height": [
+                "60.00", 
+                "centimeters"
+            ]
+        }, 
+        "department_id": "35347493", 
+        "title_raw": null, 
+        "justification": null, 
+        "media_id": "35419317", 
+        "description": "Black and white drawing of woman with weapon on roller skates, attacking couples.", 
+        "creditline": "Gift of Steven Heller and Karrie Jacobs", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "ca. 1980", 
+        "url": "https://collection.cooperhewitt.org/objects/18645815/", 
+        "type": "poster", 
+        "accession_number": "1993-53-86", 
+        "year_end": 1990, 
+        "signed": "Signed in black ink, in script: Caz", 
+        "inscribed": "Text in black and white in a bubble: Bored on the Streets? GO COUPLE BUSTING.", 
+        "period_id": null, 
+        "year_acquired": "1993", 
+        "woe:country_id": "23424977"
+    }
+}

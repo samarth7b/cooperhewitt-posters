@@ -1,0 +1,101 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": 1979, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": "lithograph on paper", 
+        "tms:id": "177659", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/200486_c53f53d3664de541_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "200486"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/200486_c53f53d3664de541_b.jpg", 
+                    "width": 884, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "200486"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/200486_c53f53d3664de541_d.gif", 
+                    "width": 276, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "200486"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/200486_c53f53d3664de541_z.jpg", 
+                    "width": 553, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "200486"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/200486_c53f53d3664de541_n.jpg", 
+                    "width": 276, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "200486"
+                }
+            }
+        ], 
+        "id": "18618251", 
+        "has_no_known_copyright": null, 
+        "woe:country_name": "United States", 
+        "dimensions": null, 
+        "title": "Poster, Ger Dekkers: New Dutch Landscape, 1979", 
+        "provenance": "1981: acquired by Museum", 
+        "participants": [
+            {
+                "person_name": "Rebekah Pollock", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35352245/", 
+                "role_id": "35352245", 
+                "role_name": "Cataloguer", 
+                "person_date": "American, born 1982", 
+                "role_display_name": "Catalogued by", 
+                "person_id": "51686969", 
+                "person_url": "https://collection.cooperhewitt.org/people/51686969/"
+            }, 
+            {
+                "person_name": "Jacqueline Casey", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "American, 1927–1992", 
+                "role_display_name": "Designed by", 
+                "person_id": "18053543", 
+                "person_url": "https://collection.cooperhewitt.org/people/18053543/"
+            }
+        ], 
+        "decade": "1970", 
+        "label_text": null, 
+        "woe:country": "23424977", 
+        "dimensions_raw": null, 
+        "department_id": "35347493", 
+        "title_raw": "Ger Dekkers: New Dutch Landscape", 
+        "justification": null, 
+        "media_id": "35419317", 
+        "description": "Seven squares showing views of trees arranged horizontally in the center of a black field. In-print inscription in white, above and below.", 
+        "creditline": "Gift of Various Donors", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "1979", 
+        "url": "https://collection.cooperhewitt.org/objects/18618251/", 
+        "type": "poster", 
+        "accession_number": "1981-29-83", 
+        "year_end": 1979, 
+        "signed": null, 
+        "inscribed": "In larger letters at top: Ger Dekkers New Dutch Landscape \nIn smaller letters below: Hayden Gallery / Massachusetts Institute of Technology / 160 Memorial Drive Cambridge, Massachusetts 02139 / February 2 – march 7, 1979 Public Preview Friday, February 2 5 to 7 pm / Telephone Gallery 253-1680 Office 253-4400 / Organized by the MIT Committee on the Visual Arts", 
+        "period_id": null, 
+        "year_acquired": "1981", 
+        "woe:country_id": "23424977"
+    }
+}

@@ -1,0 +1,167 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": 1982, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": "screenprint with lacquer finish on wove paper", 
+        "tms:id": "255469", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/44519_9f37394830da3bac_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "44519"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/44519_9f37394830da3bac_b.jpg", 
+                    "width": 649, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "44519"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/44519_9f37394830da3bac_d.gif", 
+                    "width": 203, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "44519"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/44519_9f37394830da3bac_z.jpg", 
+                    "width": 405, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "44519"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/44519_9f37394830da3bac_n.jpg", 
+                    "width": 203, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "44519"
+                }
+            }, 
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/268855_a5a9098ec51b54fa_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "0", 
+                    "image_id": "268855"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/268855_a5a9098ec51b54fa_b.jpg", 
+                    "width": 655, 
+                    "height": 1024, 
+                    "is_primary": "0", 
+                    "image_id": "268855"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/268855_a5a9098ec51b54fa_d.gif", 
+                    "width": 205, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "268855"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/268855_a5a9098ec51b54fa_z.jpg", 
+                    "width": 409, 
+                    "height": 640, 
+                    "is_primary": "0", 
+                    "image_id": "268855"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/268855_a5a9098ec51b54fa_n.jpg", 
+                    "width": 205, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "268855"
+                }
+            }
+        ], 
+        "id": "18758367", 
+        "has_no_known_copyright": null, 
+        "woe:country_name": "United States", 
+        "dimensions": "100.4 x 63.5 cm (39 1/2 x 25 in.)", 
+        "title": "Poster, Herman Miller Summer Picnic, 1982, 1982", 
+        "provenance": "Sara and Marc Benda; 2010: acquired by Museum", 
+        "participants": [
+            {
+                "person_name": "Sara Benda", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35351535/", 
+                "role_id": "35351535", 
+                "role_name": "Donor", 
+                "person_date": "", 
+                "role_display_name": "Donated by", 
+                "person_id": "18063205", 
+                "person_url": "https://collection.cooperhewitt.org/people/18063205/"
+            }, 
+            {
+                "person_name": "Herman Miller Furniture Company", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236667/", 
+                "role_id": "35236667", 
+                "role_name": "Client", 
+                "person_date": "Zeeland, Michigan, USA", 
+                "role_display_name": "Client:", 
+                "person_id": "18049013", 
+                "person_url": "https://collection.cooperhewitt.org/people/18049013/"
+            }, 
+            {
+                "person_name": "Stephen Frykholm", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "American, b. 1942", 
+                "role_display_name": "Designed by", 
+                "person_id": "18042365", 
+                "person_url": "https://collection.cooperhewitt.org/people/18042365/"
+            }, 
+            {
+                "person_name": "Marc Benda", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35351535/", 
+                "role_id": "35351535", 
+                "role_name": "Donor", 
+                "person_date": "", 
+                "role_display_name": "Donated by", 
+                "person_id": "18062523", 
+                "person_url": "https://collection.cooperhewitt.org/people/18062523/"
+            }
+        ], 
+        "decade": "1980", 
+        "label_text": null, 
+        "woe:country": "23424977", 
+        "dimensions_raw": {
+            "width": [
+                "63.50", 
+                "centimeters"
+            ], 
+            "height": [
+                "100.40", 
+                "centimeters"
+            ]
+        }, 
+        "department_id": "35347493", 
+        "title_raw": "Herman Miller Summer Picnic, 1982", 
+        "justification": null, 
+        "media_id": "68250023", 
+        "description": "Various stylized vegetables layered over each other in a salad. Top to bottom: potato fries, red onions, radishes, peas, zucchini, carrots. Inscribed at top: \"herman miller summer picnic july 31, 1982\".", 
+        "creditline": "Gift of Sara and Marc Benda", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "1982", 
+        "url": "https://collection.cooperhewitt.org/objects/18758367/", 
+        "type": "poster", 
+        "accession_number": "2010-21-80", 
+        "year_end": 1982, 
+        "signed": null, 
+        "inscribed": null, 
+        "period_id": "35435927", 
+        "year_acquired": "2010", 
+        "woe:country_id": "23424977"
+    }
+}

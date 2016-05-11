@@ -1,0 +1,167 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": 1981, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": "offset color lithograph on paper", 
+        "tms:id": "177501", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/9626_dca7eaeecfda6909_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "9626"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/9626_dca7eaeecfda6909_b.jpg", 
+                    "width": 656, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "9626"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/9626_dca7eaeecfda6909_d.gif", 
+                    "width": 205, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "9626"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/9626_dca7eaeecfda6909_z.jpg", 
+                    "width": 410, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "9626"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/9626_dca7eaeecfda6909_n.jpg", 
+                    "width": 205, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "9626"
+                }
+            }, 
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/267354_6368a1f537ff4184_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "0", 
+                    "image_id": "267354"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/267354_6368a1f537ff4184_b.jpg", 
+                    "width": 657, 
+                    "height": 1024, 
+                    "is_primary": "0", 
+                    "image_id": "267354"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/267354_6368a1f537ff4184_d.gif", 
+                    "width": 205, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "267354"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/267354_6368a1f537ff4184_z.jpg", 
+                    "width": 410, 
+                    "height": 640, 
+                    "is_primary": "0", 
+                    "image_id": "267354"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/267354_6368a1f537ff4184_n.jpg", 
+                    "width": 205, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "267354"
+                }
+            }
+        ], 
+        "id": "18617935", 
+        "has_no_known_copyright": null, 
+        "woe:country_name": "United States", 
+        "dimensions": "96.5 x 61.2 cm (38 in. x 24 1/8 in.)", 
+        "title": "Poster, International Design Conference in Aspen 1981, 1981", 
+        "provenance": "1981: acquired by Museum", 
+        "participants": [
+            {
+                "person_name": "Elizabeth Horwitz Marcus", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35352245/", 
+                "role_id": "35352245", 
+                "role_name": "Cataloguer", 
+                "person_date": "", 
+                "role_display_name": "Catalogued by", 
+                "person_id": "18047453", 
+                "person_url": "https://collection.cooperhewitt.org/people/18047453/"
+            }, 
+            {
+                "person_name": "AU", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35352245/", 
+                "role_id": "35352245", 
+                "role_name": "Cataloguer", 
+                "person_date": "", 
+                "role_display_name": "Catalogued by", 
+                "person_id": "18048335", 
+                "person_url": "https://collection.cooperhewitt.org/people/18048335/"
+            }, 
+            {
+                "person_name": "Tom Kluepfel", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "b. 1955", 
+                "role_display_name": "Designed by", 
+                "person_id": "18043589", 
+                "person_url": "https://collection.cooperhewitt.org/people/18043589/"
+            }, 
+            {
+                "person_name": "George Sadek", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "1928–2007", 
+                "role_display_name": "Designed by", 
+                "person_id": "18043565", 
+                "person_url": "https://collection.cooperhewitt.org/people/18043565/"
+            }
+        ], 
+        "decade": "1980", 
+        "label_text": null, 
+        "woe:country": "23424977", 
+        "dimensions_raw": {
+            "width": [
+                "61.20", 
+                "centimeters"
+            ], 
+            "height": [
+                "96.50", 
+                "centimeters"
+            ]
+        }, 
+        "department_id": "35347493", 
+        "title_raw": "International Design Conference in Aspen 1981", 
+        "justification": null, 
+        "media_id": "35519927", 
+        "description": "Poster advertising for Internation Design Conference on June 14-19 1981.  Consists of surnames of historic and contemporary  Italian  artists, designers, and writer in gray caps and concluded in red text \" The Italian Idea\".  Lower right is an image of a green leaf.  Across lower center is the title of the event and followed by address and information.", 
+        "creditline": "Gift of Various Donors", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "1981", 
+        "url": "https://collection.cooperhewitt.org/objects/18617935/", 
+        "type": "poster", 
+        "accession_number": "1981-29-403", 
+        "year_end": 1981, 
+        "signed": null, 
+        "inscribed": "Imprinted at bottom in gray: POSTER CREDITS paper: KROMEKOTE courtesy of CHAMPION INTERNATIONAL CORPORATION, PAPER DIVISION; typesetting: V-I-P BAUER BODONI courtesy of THE MERGENTHALER GROUP OF COMPANIES; printing: courtesy of SANDERS PRINTING CORPORATION; publisher: THE CENTER FOR DESIGN AND TYPOGRAPHY OF THE COOPER UNION; design: GEORGE SADEK; razor blade and perceptive eye: TOM KLUEPFEL", 
+        "period_id": null, 
+        "year_acquired": "1981", 
+        "woe:country_id": "23424977"
+    }
+}

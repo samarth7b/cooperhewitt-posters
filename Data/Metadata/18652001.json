@@ -1,0 +1,157 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": 1980, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": "lithograph on paper", 
+        "tms:id": "200943", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/84988_ab73b21c4ea15003_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "84988"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/84988_ab73b21c4ea15003_b.jpg", 
+                    "width": 651, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "84988"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/84988_ab73b21c4ea15003_d.gif", 
+                    "width": 203, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "84988"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/84988_ab73b21c4ea15003_z.jpg", 
+                    "width": 407, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "84988"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/84988_ab73b21c4ea15003_n.jpg", 
+                    "width": 203, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "84988"
+                }
+            }, 
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/268767_0918ea2f30ebd9f2_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "0", 
+                    "image_id": "268767"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/268767_0918ea2f30ebd9f2_b.jpg", 
+                    "width": 672, 
+                    "height": 1024, 
+                    "is_primary": "0", 
+                    "image_id": "268767"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/268767_0918ea2f30ebd9f2_d.gif", 
+                    "width": 210, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "268767"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/268767_0918ea2f30ebd9f2_z.jpg", 
+                    "width": 420, 
+                    "height": 640, 
+                    "is_primary": "0", 
+                    "image_id": "268767"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/268767_0918ea2f30ebd9f2_n.jpg", 
+                    "width": 210, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "268767"
+                }
+            }
+        ], 
+        "id": "18652001", 
+        "has_no_known_copyright": null, 
+        "woe:country_name": "United States", 
+        "dimensions": "55.9 x 35.7 cm (22 in. x 14 1/16 in.)", 
+        "title": "Poster, All-Star! X-Mas X-travaganza!, 1980–95", 
+        "provenance": "1995: acquired by Museum", 
+        "participants": [
+            {
+                "person_name": "Art Chantry", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35351535/", 
+                "role_id": "35351535", 
+                "role_name": "Donor", 
+                "person_date": "American, b. 1954", 
+                "role_display_name": "Donated by", 
+                "person_id": "18041683", 
+                "person_url": "https://collection.cooperhewitt.org/people/18041683/"
+            }, 
+            {
+                "person_name": "Colby Poster Printing Co.", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236673/", 
+                "role_id": "35236673", 
+                "role_name": "Printer", 
+                "person_date": "", 
+                "role_display_name": "Printed by", 
+                "person_id": "68248495", 
+                "person_url": "https://collection.cooperhewitt.org/people/68248495/"
+            }, 
+            {
+                "person_name": "Art Chantry", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "American, b. 1954", 
+                "role_display_name": "Designed by", 
+                "person_id": "18041683", 
+                "person_url": "https://collection.cooperhewitt.org/people/18041683/"
+            }
+        ], 
+        "decade": "1980", 
+        "label_text": null, 
+        "woe:country": "23424977", 
+        "dimensions_raw": {
+            "width": [
+                "35.70", 
+                "centimeters"
+            ], 
+            "height": [
+                "55.90", 
+                "centimeters"
+            ]
+        }, 
+        "department_id": "35347493", 
+        "title_raw": "All-Star! X-Mas X-travaganza!", 
+        "justification": null, 
+        "media_id": "35419317", 
+        "description": "Rainbow poster with photographs of different bands with allover black text.", 
+        "creditline": "Gift of Art Chantry", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "1980–95", 
+        "url": "https://collection.cooperhewitt.org/objects/18652001/", 
+        "type": "poster", 
+        "accession_number": "1995-69-86", 
+        "year_end": 1995, 
+        "signed": null, 
+        "inscribed": "Imprinted in black ink, lower margin: [logo] 42 COLBY POSTER PRINTING CO., 1332 W. 12th Pl., L.A. 90015 Phone (213) 747-5108", 
+        "period_id": null, 
+        "year_acquired": "1995", 
+        "woe:country_id": "23424977"
+    }
+}

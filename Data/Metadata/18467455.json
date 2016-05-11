@@ -1,0 +1,100 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": 1968, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": null, 
+        "tms:id": "144358", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/267270_63ab939482365b40_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "0", 
+                    "image_id": "267270"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/267270_63ab939482365b40_b.jpg", 
+                    "width": 974, 
+                    "height": 1024, 
+                    "is_primary": "0", 
+                    "image_id": "267270"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/267270_63ab939482365b40_d.gif", 
+                    "width": 304, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "267270"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/267270_63ab939482365b40_z.jpg", 
+                    "width": 608, 
+                    "height": 640, 
+                    "is_primary": "0", 
+                    "image_id": "267270"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/267270_63ab939482365b40_n.jpg", 
+                    "width": 304, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "267270"
+                }
+            }
+        ], 
+        "id": "18467455", 
+        "has_no_known_copyright": null, 
+        "woe:country_name": "United States", 
+        "dimensions": "78.5 x 74 cm (30 7/8 x 29 1/8 in.)", 
+        "title": "Poster, National Collection of Fine Arts for XXXIV Venice Biennale, 1968", 
+        "provenance": "1968: acquired by Museum", 
+        "participants": [
+            {
+                "person_name": "Carol Summers", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "American, b. 1925", 
+                "role_display_name": "Designed by", 
+                "person_id": "18050113", 
+                "person_url": "https://collection.cooperhewitt.org/people/18050113/"
+            }
+        ], 
+        "decade": "1960", 
+        "label_text": null, 
+        "woe:country": "23424977", 
+        "dimensions_raw": {
+            "width": [
+                "74.00", 
+                "centimeters"
+            ], 
+            "height": [
+                "78.50", 
+                "centimeters"
+            ]
+        }, 
+        "department_id": "35347493", 
+        "title_raw": "National Collection of Fine Arts for XXXIV Venice Biennale", 
+        "justification": null, 
+        "media_id": "35371135", 
+        "description": "Stylized arch in shades of gold on silver background. At top: XXXIV Venice Biennale. Right margin: March 17, 1969. University of Nebraska Art Galleries Lincoln. At bottom: United States June 22 Oct 20 1968. Left margin: Dec 18 Feb 2, 1969 National Collection of Fine Arts Washington D.C.", 
+        "creditline": null, 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "1968", 
+        "url": "https://collection.cooperhewitt.org/objects/18467455/", 
+        "type": "poster", 
+        "accession_number": "1968-91-1", 
+        "year_end": 1968, 
+        "signed": null, 
+        "inscribed": null, 
+        "period_id": null, 
+        "year_acquired": "1968", 
+        "woe:country_id": "23424977"
+    }
+}

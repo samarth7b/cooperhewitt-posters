@@ -1,0 +1,137 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": 1980, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": "lithograph on paper", 
+        "tms:id": "177191", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/88918_6b15dada35bf02e0_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "88918"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/88918_6b15dada35bf02e0_b.jpg", 
+                    "width": 545, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "88918"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/88918_6b15dada35bf02e0_d.gif", 
+                    "width": 170, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "88918"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/88918_6b15dada35bf02e0_z.jpg", 
+                    "width": 340, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "88918"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/88918_6b15dada35bf02e0_n.jpg", 
+                    "width": 170, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "88918"
+                }
+            }, 
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/269769_98428a48246ec56e_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "0", 
+                    "image_id": "269769"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/269769_98428a48246ec56e_b.jpg", 
+                    "width": 562, 
+                    "height": 1024, 
+                    "is_primary": "0", 
+                    "image_id": "269769"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/269769_98428a48246ec56e_d.gif", 
+                    "width": 176, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "269769"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/269769_98428a48246ec56e_z.jpg", 
+                    "width": 351, 
+                    "height": 640, 
+                    "is_primary": "0", 
+                    "image_id": "269769"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/269769_98428a48246ec56e_n.jpg", 
+                    "width": 176, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "269769"
+                }
+            }
+        ], 
+        "id": "18617317", 
+        "has_no_known_copyright": null, 
+        "woe:country_name": "United States", 
+        "dimensions": "123.8 x 65.8 cm (48 3/4 x 25 7/8 in.)", 
+        "title": "Poster, Campaign Gimmick, 1980", 
+        "provenance": "1981: acquired by Museum", 
+        "participants": [
+            {
+                "person_name": "Lou Dorfsman", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "American, 1918 - 2008", 
+                "role_display_name": "Designed by", 
+                "person_id": "18535551", 
+                "person_url": "https://collection.cooperhewitt.org/people/18535551/"
+            }
+        ], 
+        "decade": "1980", 
+        "label_text": null, 
+        "woe:country": "23424977", 
+        "dimensions_raw": {
+            "width": [
+                "65.80", 
+                "centimeters"
+            ], 
+            "height": [
+                "123.80", 
+                "centimeters"
+            ]
+        }, 
+        "department_id": "35347493", 
+        "title_raw": "Campaign Gimmick", 
+        "justification": null, 
+        "media_id": "35419317", 
+        "description": "Poster features a calendar of political events. Above historic political campaign paraphernalia.", 
+        "creditline": "Gift of Various Donors", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "1980", 
+        "url": "https://collection.cooperhewitt.org/objects/18617317/", 
+        "type": "poster", 
+        "accession_number": "1981-29-128", 
+        "year_end": 1980, 
+        "signed": null, 
+        "inscribed": null, 
+        "period_id": null, 
+        "year_acquired": "1981", 
+        "woe:country_id": "23424977"
+    }
+}

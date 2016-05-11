@@ -1,0 +1,109 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": 1960, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": "offset lithograph on white wove paper", 
+        "tms:id": "212194", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/269806_5fb03dd0c557756e_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "269806"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/269806_5fb03dd0c557756e_b.jpg", 
+                    "width": 696, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "269806"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/269806_5fb03dd0c557756e_d.gif", 
+                    "width": 218, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "269806"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/269806_5fb03dd0c557756e_z.jpg", 
+                    "width": 435, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "269806"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/269806_5fb03dd0c557756e_n.jpg", 
+                    "width": 218, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "269806"
+                }
+            }
+        ], 
+        "id": "18673503", 
+        "has_no_known_copyright": null, 
+        "dimensions": "106.8 x 71.1 cm (42 1/16 x 28 in. )", 
+        "title": "Poster, Everglades National Park, ca. 1970", 
+        "provenance": "From the collection of Dan Friedman", 
+        "participants": [
+            {
+                "person_name": "Unknown", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "American", 
+                "role_display_name": "Designed by", 
+                "person_id": "18052047", 
+                "person_url": "https://collection.cooperhewitt.org/people/18052047/"
+            }, 
+            {
+                "person_name": "Ken Friedman", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35351535/", 
+                "role_id": "35351535", 
+                "role_name": "Donor", 
+                "person_date": "", 
+                "role_display_name": "Donated by", 
+                "person_id": "18049807", 
+                "person_url": "https://collection.cooperhewitt.org/people/18049807/"
+            }
+        ], 
+        "decade": "1960", 
+        "label_text": null, 
+        "woe:country": null, 
+        "dimensions_raw": {
+            "width": [
+                "71.10", 
+                "centimeters"
+            ], 
+            "height": [
+                "106.80", 
+                "centimeters"
+            ]
+        }, 
+        "department_id": "35347493", 
+        "title_raw": "Everglades National Park", 
+        "justification": null, 
+        "media_id": "35431673", 
+        "description": "Densly composed reproduction of a pen and watercolor drawings of the everglades showing a close up of tall grasses by water. Many different animals are depictd in the grasses including crocodiles, bobcats, herons, racoons as well as a myriad number of bugs, butterflies and birds and grasshoppers. Across bottom of sheet in black letters: EVERGLADES NATIONAL PARK, FLORIDA.", 
+        "creditline": "Gift of Ken Friedman", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "ca. 1970", 
+        "url": "https://collection.cooperhewitt.org/objects/18673503/", 
+        "type": "poster", 
+        "accession_number": "1997-19-243", 
+        "year_end": 1980, 
+        "signed": null, 
+        "inscribed": "Imprinted in black at bottom of sheet in block letters:EVERGLADES NATIONAL PARK, FLORIDA / NATIONAL PARK SERVICE, U.S. DEPARTMENT OF THE INTERIOR\nImprinted in black lower right corner: For sale by the Superintendent of Documents, U.S. Government Printing Office, Wash- / ington, D.C. 20302 - Prine $1.55/Stock number 2405 0487 [star] GPO 470-509", 
+        "period_id": null, 
+        "year_acquired": "1997", 
+        "woe:country_id": null
+    }
+}

@@ -1,0 +1,167 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": 1975, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": "offset lithograph on paper", 
+        "tms:id": "193517", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/49878_2b6e43e57b3fc679_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "49878"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/49878_2b6e43e57b3fc679_b.jpg", 
+                    "width": 680, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "49878"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/49878_2b6e43e57b3fc679_d.gif", 
+                    "width": 213, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "49878"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/49878_2b6e43e57b3fc679_z.jpg", 
+                    "width": 425, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "49878"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/49878_2b6e43e57b3fc679_n.jpg", 
+                    "width": 213, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "49878"
+                }
+            }, 
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/257906_7d05c4bb0d871653_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "0", 
+                    "image_id": "257906"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/257906_7d05c4bb0d871653_b.jpg", 
+                    "width": 683, 
+                    "height": 1024, 
+                    "is_primary": "0", 
+                    "image_id": "257906"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/257906_7d05c4bb0d871653_d.gif", 
+                    "width": 213, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "257906"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/257906_7d05c4bb0d871653_z.jpg", 
+                    "width": 427, 
+                    "height": 640, 
+                    "is_primary": "0", 
+                    "image_id": "257906"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/257906_7d05c4bb0d871653_n.jpg", 
+                    "width": 213, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "257906"
+                }
+            }
+        ], 
+        "id": "18637331", 
+        "has_no_known_copyright": null, 
+        "woe:country_name": "United States", 
+        "dimensions": "106.7 x 71.1 cm (42 x 28 in.)", 
+        "title": "Poster, Boston - A New National Park..., 1975", 
+        "provenance": "Paul Rand; 1991: acquired by Museum", 
+        "participants": [
+            {
+                "person_name": "Karin Zonis", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35352245/", 
+                "role_id": "35352245", 
+                "role_name": "Cataloguer", 
+                "person_date": "", 
+                "role_display_name": "Catalogued by", 
+                "person_id": "51676457", 
+                "person_url": "https://collection.cooperhewitt.org/people/51676457/"
+            }, 
+            {
+                "person_name": "Paul Rand", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35351535/", 
+                "role_id": "35351535", 
+                "role_name": "Donor", 
+                "person_date": "American, 1914–1996", 
+                "role_display_name": "Donated by", 
+                "person_id": "18042341", 
+                "person_url": "https://collection.cooperhewitt.org/people/18042341/"
+            }, 
+            {
+                "person_name": "CGC", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35352245/", 
+                "role_id": "35352245", 
+                "role_name": "Cataloguer", 
+                "person_date": "", 
+                "role_display_name": "Catalogued by", 
+                "person_id": "18048417", 
+                "person_url": "https://collection.cooperhewitt.org/people/18048417/"
+            }, 
+            {
+                "person_name": "Paul Rand", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "American, 1914–1996", 
+                "role_display_name": "Designed by", 
+                "person_id": "18042341", 
+                "person_url": "https://collection.cooperhewitt.org/people/18042341/"
+            }
+        ], 
+        "decade": "1970", 
+        "label_text": null, 
+        "woe:country": "23424977", 
+        "dimensions_raw": {
+            "width": [
+                "71.10", 
+                "centimeters"
+            ], 
+            "height": [
+                "106.70", 
+                "centimeters"
+            ]
+        }, 
+        "department_id": "35347493", 
+        "title_raw": "Boston - A New National Park...", 
+        "justification": null, 
+        "media_id": "35399021", 
+        "description": "A five-spoked figure in white holding a torch against blue background with red confetti shapes.", 
+        "creditline": "Gift of Paul Rand", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "1975", 
+        "url": "https://collection.cooperhewitt.org/objects/18637331/", 
+        "type": "poster", 
+        "accession_number": "1991-69-67", 
+        "year_end": 1975, 
+        "signed": "Signature imprinted in black ink, upper right: Paul Rand '75", 
+        "inscribed": "Imprinted in black ink, lower center: Boston; in white ink, lower right: a new national park...; in black ink across lower recto: Boston National Historical Park: Fannueil Hall/ Paul Revere House/ Old North Church...; lower margin center: For Sale by the Superintendent of Documents, U.S. Printing Office, Washington, D.C....", 
+        "period_id": null, 
+        "year_acquired": "1991", 
+        "woe:country_id": "23424977"
+    }
+}

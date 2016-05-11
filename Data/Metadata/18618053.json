@@ -1,0 +1,147 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": null, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": "screenprint on paper", 
+        "tms:id": "177560", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/90327_ed3b397963785ca4_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "90327"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/90327_ed3b397963785ca4_b.jpg", 
+                    "width": 732, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "90327"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/90327_ed3b397963785ca4_d.gif", 
+                    "width": 229, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "90327"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/90327_ed3b397963785ca4_z.jpg", 
+                    "width": 458, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "90327"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/90327_ed3b397963785ca4_n.jpg", 
+                    "width": 229, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "90327"
+                }
+            }, 
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/206436_ed6cf7b557013af0_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "0", 
+                    "image_id": "206436"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/206436_ed6cf7b557013af0_b.jpg", 
+                    "width": 744, 
+                    "height": 1024, 
+                    "is_primary": "0", 
+                    "image_id": "206436"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/206436_ed6cf7b557013af0_d.gif", 
+                    "width": 233, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "206436"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/206436_ed6cf7b557013af0_z.jpg", 
+                    "width": 465, 
+                    "height": 640, 
+                    "is_primary": "0", 
+                    "image_id": "206436"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/206436_ed6cf7b557013af0_n.jpg", 
+                    "width": 233, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "206436"
+                }
+            }
+        ], 
+        "id": "18618053", 
+        "has_no_known_copyright": null, 
+        "woe:country_name": "United States", 
+        "dimensions": "53.3 x 38.1 cm (21 x 15 in.)", 
+        "title": "Poster, IBM / Making your mark in this world always required quality", 
+        "provenance": "1981: acquired by Museum", 
+        "participants": [
+            {
+                "person_name": "IBM", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236667/", 
+                "role_id": "35236667", 
+                "role_name": "Client", 
+                "person_date": "USA", 
+                "role_display_name": "Client:", 
+                "person_id": "18041871", 
+                "person_url": "https://collection.cooperhewitt.org/people/18041871/"
+            }, 
+            {
+                "person_name": "Ken White", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "American, 1935-1985", 
+                "role_display_name": "Designed by", 
+                "person_id": "18042357", 
+                "person_url": "https://collection.cooperhewitt.org/people/18042357/"
+            }
+        ], 
+        "decade": null, 
+        "label_text": null, 
+        "woe:country": "23424977", 
+        "dimensions_raw": {
+            "width": [
+                "38.10", 
+                "centimeters"
+            ], 
+            "height": [
+                "53.30", 
+                "centimeters"
+            ]
+        }, 
+        "department_id": "35347493", 
+        "title_raw": "IBM / Making your mark in this world always required quality", 
+        "justification": null, 
+        "media_id": "35431679", 
+        "description": "On white ground, grid in black with 9 squares in black with symbols and initials in orange and purple. Lower right has IBM logo. Each black square contains explanation of what the symbol is below; for example: A 15th Century European Merchant / Rocking R Ranch, Texas—1870. Lower margin in black ink: Making your mark in this world has always required quality.", 
+        "creditline": "Gift of Various Donors", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": null, 
+        "url": "https://collection.cooperhewitt.org/objects/18618053/", 
+        "type": "poster", 
+        "accession_number": "1981-29-457", 
+        "year_end": null, 
+        "signed": null, 
+        "inscribed": null, 
+        "period_id": null, 
+        "year_acquired": "1981", 
+        "woe:country_id": "23424977"
+    }
+}

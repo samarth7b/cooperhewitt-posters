@@ -1,0 +1,167 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": 1962, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": "screenprint on paper", 
+        "tms:id": "197838", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/65344_9771fe7de9e9f6c0_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "65344"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/65344_9771fe7de9e9f6c0_b.jpg", 
+                    "width": 724, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "65344"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/65344_9771fe7de9e9f6c0_d.gif", 
+                    "width": 226, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "65344"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/65344_9771fe7de9e9f6c0_z.jpg", 
+                    "width": 453, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "65344"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/65344_9771fe7de9e9f6c0_n.jpg", 
+                    "width": 226, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "65344"
+                }
+            }, 
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/267767_5740326a4fa39ca8_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "0", 
+                    "image_id": "267767"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/267767_5740326a4fa39ca8_b.jpg", 
+                    "width": 722, 
+                    "height": 1024, 
+                    "is_primary": "0", 
+                    "image_id": "267767"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/267767_5740326a4fa39ca8_d.gif", 
+                    "width": 226, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "267767"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/267767_5740326a4fa39ca8_z.jpg", 
+                    "width": 451, 
+                    "height": 640, 
+                    "is_primary": "0", 
+                    "image_id": "267767"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/267767_5740326a4fa39ca8_n.jpg", 
+                    "width": 226, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "267767"
+                }
+            }
+        ], 
+        "id": "18645869", 
+        "has_no_known_copyright": null, 
+        "woe:country_name": "Japan", 
+        "dimensions": "103.3 x 73.5 cm (40 11/16 x 28 15/16 in.)", 
+        "title": "Poster, The 3rd International Biennial Exhibition of Prints, 1962", 
+        "provenance": "Ikko Tanaka; 1993: acquired by Museum", 
+        "participants": [
+            {
+                "person_name": "Ikko Tanaka", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35351535/", 
+                "role_id": "35351535", 
+                "role_name": "Donor", 
+                "person_date": "Japanese, 1930–2002", 
+                "role_display_name": "Donated by", 
+                "person_id": "18041173", 
+                "person_url": "https://collection.cooperhewitt.org/people/18041173/"
+            }, 
+            {
+                "person_name": "Stephanie Keating", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35352245/", 
+                "role_id": "35352245", 
+                "role_name": "Cataloguer", 
+                "person_date": "American", 
+                "role_display_name": "Catalogued by", 
+                "person_id": "18065427", 
+                "person_url": "https://collection.cooperhewitt.org/people/18065427/"
+            }, 
+            {
+                "person_name": "Megan L. Smith", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35352245/", 
+                "role_id": "35352245", 
+                "role_name": "Cataloguer", 
+                "person_date": "", 
+                "role_display_name": "Catalogued by", 
+                "person_id": "18047443", 
+                "person_url": "https://collection.cooperhewitt.org/people/18047443/"
+            }, 
+            {
+                "person_name": "Ikko Tanaka", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "Japanese, 1930–2002", 
+                "role_display_name": "Designed by", 
+                "person_id": "18041173", 
+                "person_url": "https://collection.cooperhewitt.org/people/18041173/"
+            }
+        ], 
+        "decade": "1960", 
+        "label_text": null, 
+        "woe:country": "23424856", 
+        "dimensions_raw": {
+            "width": [
+                "73.50", 
+                "centimeters"
+            ], 
+            "height": [
+                "103.30", 
+                "centimeters"
+            ]
+        }, 
+        "department_id": "35347493", 
+        "title_raw": "The 3rd International Biennial Exhibition of Prints", 
+        "justification": null, 
+        "media_id": "35431679", 
+        "description": "Black background with profile of a Japanese actor highlighted in blue, green, red, and purple. Imprinted in gray ink, center left: [Japanese characters] 1962 [Japanese characters]; text in blue, lower margin.", 
+        "creditline": "Gift of Ikko Tanaka", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "1962", 
+        "url": "https://collection.cooperhewitt.org/objects/18645869/", 
+        "type": "poster", 
+        "accession_number": "1993-55-2", 
+        "year_end": 1962, 
+        "signed": null, 
+        "inscribed": null, 
+        "period_id": null, 
+        "year_acquired": "1993", 
+        "woe:country_id": "23424856"
+    }
+}

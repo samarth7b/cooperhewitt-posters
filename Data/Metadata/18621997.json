@@ -1,0 +1,137 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": 1980, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": "offset lithograph on white paper", 
+        "tms:id": "185834", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/65019_8506345a98d19dcf_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "65019"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/65019_8506345a98d19dcf_b.jpg", 
+                    "width": 618, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "65019"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/65019_8506345a98d19dcf_d.gif", 
+                    "width": 193, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "65019"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/65019_8506345a98d19dcf_z.jpg", 
+                    "width": 386, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "65019"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/65019_8506345a98d19dcf_n.jpg", 
+                    "width": 193, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "65019"
+                }
+            }, 
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/267929_7c354a08bf210328_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "0", 
+                    "image_id": "267929"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/267929_7c354a08bf210328_b.jpg", 
+                    "width": 622, 
+                    "height": 1024, 
+                    "is_primary": "0", 
+                    "image_id": "267929"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/267929_7c354a08bf210328_d.gif", 
+                    "width": 194, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "267929"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/267929_7c354a08bf210328_z.jpg", 
+                    "width": 388, 
+                    "height": 640, 
+                    "is_primary": "0", 
+                    "image_id": "267929"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/267929_7c354a08bf210328_n.jpg", 
+                    "width": 194, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "267929"
+                }
+            }
+        ], 
+        "id": "18621997", 
+        "has_no_known_copyright": null, 
+        "woe:country_name": "United States", 
+        "dimensions": "H x W: 91.3 x 54.7 cm (35 15/16 x 21 9/16 in.)", 
+        "title": "Poster, Joy, for I.B.M. Corporation, 1980s", 
+        "provenance": "1987: acquired by Museum", 
+        "participants": [
+            {
+                "person_name": "IBM", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236667/", 
+                "role_id": "35236667", 
+                "role_name": "Client", 
+                "person_date": "USA", 
+                "role_display_name": "Client:", 
+                "person_id": "18041871", 
+                "person_url": "https://collection.cooperhewitt.org/people/18041871/"
+            }
+        ], 
+        "decade": "1980", 
+        "label_text": null, 
+        "woe:country": "23424977", 
+        "dimensions_raw": {
+            "width": [
+                "54.70", 
+                "centimeters"
+            ], 
+            "height": [
+                "91.30", 
+                "centimeters"
+            ]
+        }, 
+        "department_id": "35347493", 
+        "title_raw": "Joy, for I.B.M. Corporation", 
+        "justification": null, 
+        "media_id": "35424093", 
+        "description": "On a white ground, bordered by gray frame, the word: JOY. J is red, O is blue in the shape of a floppy disk, and Y is green. The floppy disk is balanced on the hand of a Charlie Chaplin figure in black. Above, in black ink: A joyous / season and / a happy / new year. Lower margin, in black: IBM [logo].", 
+        "creditline": null, 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "1980s", 
+        "url": "https://collection.cooperhewitt.org/objects/18621997/", 
+        "type": "poster", 
+        "accession_number": "1987-2-1", 
+        "year_end": 1989, 
+        "signed": null, 
+        "inscribed": "Printed in black ink, lower left: Little Tramp character licensed by Bubbles, Inc., s.a.", 
+        "period_id": null, 
+        "year_acquired": "1987", 
+        "woe:country_id": "23424977"
+    }
+}

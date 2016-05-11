@@ -1,0 +1,90 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": 1989, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": null, 
+        "tms:id": "201209", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/268438_a8ed180a327f5229_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "268438"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/268438_a8ed180a327f5229_b.jpg", 
+                    "width": 742, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "268438"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/268438_a8ed180a327f5229_d.gif", 
+                    "width": 232, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "268438"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/268438_a8ed180a327f5229_z.jpg", 
+                    "width": 463, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "268438"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/268438_a8ed180a327f5229_n.jpg", 
+                    "width": 232, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "268438"
+                }
+            }
+        ], 
+        "id": "18652531", 
+        "has_no_known_copyright": null, 
+        "dimensions": null, 
+        "title": "Poster, \"Architektur-Wegweiser, Vortragsreine an der ETH Zurich, 1994\", ca. 1994", 
+        "provenance": null, 
+        "participants": [
+            {
+                "person_name": "Unknown donor: unsolicited gift", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35351535/", 
+                "role_id": "35351535", 
+                "role_name": "Donor", 
+                "person_date": "", 
+                "role_display_name": "Donated by", 
+                "person_id": "18050283", 
+                "person_url": "https://collection.cooperhewitt.org/people/18050283/"
+            }
+        ], 
+        "decade": "1980", 
+        "label_text": null, 
+        "woe:country": null, 
+        "dimensions_raw": null, 
+        "department_id": "35347493", 
+        "title_raw": "\"Architektur-Wegweiser, Vortragsreine an der ETH Zurich, 1994\"", 
+        "justification": null, 
+        "media_id": "35371135", 
+        "description": null, 
+        "creditline": "Gift of Unknown Donor", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "ca. 1994", 
+        "url": "https://collection.cooperhewitt.org/objects/18652531/", 
+        "type": "poster", 
+        "accession_number": "1996-100-1", 
+        "year_end": 1999, 
+        "signed": null, 
+        "inscribed": null, 
+        "period_id": null, 
+        "year_acquired": "1996", 
+        "woe:country_id": null
+    }
+}

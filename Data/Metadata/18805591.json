@@ -1,0 +1,157 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": 1983, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": "offset lithograph on paper", 
+        "tms:id": "183089", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/63534_6b06c3661f795435_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "63534"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/63534_6b06c3661f795435_b.jpg", 
+                    "width": 1024, 
+                    "height": 738, 
+                    "is_primary": "1", 
+                    "image_id": "63534"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/63534_6b06c3661f795435_d.gif", 
+                    "width": 320, 
+                    "height": 231, 
+                    "is_primary": "1", 
+                    "image_id": "63534"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/63534_6b06c3661f795435_z.jpg", 
+                    "width": 640, 
+                    "height": 461, 
+                    "is_primary": "1", 
+                    "image_id": "63534"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/63534_6b06c3661f795435_n.jpg", 
+                    "width": 320, 
+                    "height": 231, 
+                    "is_primary": "1", 
+                    "image_id": "63534"
+                }
+            }, 
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/196615_ee6eb40647625e34_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "0", 
+                    "image_id": "196615"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/196615_ee6eb40647625e34_b.jpg", 
+                    "width": 1024, 
+                    "height": 732, 
+                    "is_primary": "0", 
+                    "image_id": "196615"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/196615_ee6eb40647625e34_d.gif", 
+                    "width": 320, 
+                    "height": 229, 
+                    "is_primary": "0", 
+                    "image_id": "196615"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/196615_ee6eb40647625e34_z.jpg", 
+                    "width": 640, 
+                    "height": 457, 
+                    "is_primary": "0", 
+                    "image_id": "196615"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/196615_ee6eb40647625e34_n.jpg", 
+                    "width": 320, 
+                    "height": 229, 
+                    "is_primary": "0", 
+                    "image_id": "196615"
+                }
+            }
+        ], 
+        "id": "18805591", 
+        "has_no_known_copyright": null, 
+        "woe:country_name": "United States", 
+        "dimensions": "H x W: 49 x 70.2 cm (19 5/16 x 27 5/8 in.)", 
+        "title": "Poster, Town for Memphis, 1983", 
+        "provenance": "1985: acquired by Museum", 
+        "participants": [
+            {
+                "person_name": "George J. Sowden", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "British, b. 1942", 
+                "role_display_name": "Designed by", 
+                "person_id": "18047289", 
+                "person_url": "https://collection.cooperhewitt.org/people/18047289/"
+            }, 
+            {
+                "person_name": "George J. Sowden", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35351535/", 
+                "role_id": "35351535", 
+                "role_name": "Donor", 
+                "person_date": "British, b. 1942", 
+                "role_display_name": "Donated by", 
+                "person_id": "18047289", 
+                "person_url": "https://collection.cooperhewitt.org/people/18047289/"
+            }, 
+            {
+                "person_name": "Natalie Du Pasquier", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35351535/", 
+                "role_id": "35351535", 
+                "role_name": "Donor", 
+                "person_date": "French, active Milan, b. 1957", 
+                "role_display_name": "Donated by", 
+                "person_id": "18041739", 
+                "person_url": "https://collection.cooperhewitt.org/people/18041739/"
+            }
+        ], 
+        "decade": "1980", 
+        "label_text": null, 
+        "woe:country": "23424977", 
+        "dimensions_raw": {
+            "width": [
+                "70.20", 
+                "centimeters"
+            ], 
+            "height": [
+                "49.00", 
+                "centimeters"
+            ]
+        }, 
+        "department_id": "35347493", 
+        "title_raw": "Town for Memphis", 
+        "justification": null, 
+        "media_id": "35399021", 
+        "description": "Poster depicts a diptych featuring an aerial view of a town with multicolored buildings on black asphalt. Below, in black ink: TOWN FOR MEMPHIS / GEORGE J. SOWDEN.", 
+        "creditline": "Gift of Nathalie du Pasquier and George J. Sowden", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "1983", 
+        "url": "https://collection.cooperhewitt.org/objects/18805591/", 
+        "type": "poster", 
+        "accession_number": "1985-69-6", 
+        "year_end": 1983, 
+        "signed": null, 
+        "inscribed": null, 
+        "period_id": null, 
+        "year_acquired": "1985", 
+        "woe:country_id": "23424977"
+    }
+}

@@ -1,0 +1,147 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": 1933, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": "offset lithograph on paper, lined", 
+        "tms:id": "134733", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/64937_76cba638b61bc4a0_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "64937"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/64937_76cba638b61bc4a0_b.jpg", 
+                    "width": 684, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "64937"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/64937_76cba638b61bc4a0_d.gif", 
+                    "width": 214, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "64937"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/64937_76cba638b61bc4a0_z.jpg", 
+                    "width": 427, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "64937"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/64937_76cba638b61bc4a0_n.jpg", 
+                    "width": 214, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "64937"
+                }
+            }, 
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/254690_2725b7a5ea65d171_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "0", 
+                    "image_id": "254690"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/254690_2725b7a5ea65d171_b.jpg", 
+                    "width": 691, 
+                    "height": 1024, 
+                    "is_primary": "0", 
+                    "image_id": "254690"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/254690_2725b7a5ea65d171_d.gif", 
+                    "width": 216, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "254690"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/254690_2725b7a5ea65d171_z.jpg", 
+                    "width": 432, 
+                    "height": 640, 
+                    "is_primary": "0", 
+                    "image_id": "254690"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/254690_2725b7a5ea65d171_n.jpg", 
+                    "width": 216, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "254690"
+                }
+            }
+        ], 
+        "id": "18448435", 
+        "has_no_known_copyright": null, 
+        "woe:country_name": "United Kingdom", 
+        "dimensions": "75.4 x 50.4 cm (29 11/16 x 19 13/16 in.)", 
+        "title": "Poster, Quickest by the Air Mail, General Post Office, 1933", 
+        "provenance": "Mrs. Edward McKnight Kauffer; 1963: acquired by Museum", 
+        "participants": [
+            {
+                "person_name": "Edward McKnight Kauffer", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "American, active England, 1890–1954", 
+                "role_display_name": "Designed by", 
+                "person_id": "18041923", 
+                "person_url": "https://collection.cooperhewitt.org/people/18041923/"
+            }, 
+            {
+                "person_name": "Mrs. Edward McKnight Kauffer", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35351535/", 
+                "role_id": "35351535", 
+                "role_name": "Donor", 
+                "person_date": "", 
+                "role_display_name": "Donated by", 
+                "person_id": "18061849", 
+                "person_url": "https://collection.cooperhewitt.org/people/18061849/"
+            }
+        ], 
+        "decade": "1930", 
+        "label_text": null, 
+        "woe:country": "23424975", 
+        "dimensions_raw": {
+            "width": [
+                "50.40", 
+                "centimeters"
+            ], 
+            "height": [
+                "75.40", 
+                "centimeters"
+            ]
+        }, 
+        "department_id": "35347493", 
+        "title_raw": "Quickest by the Air Mail, General Post Office", 
+        "justification": null, 
+        "media_id": "51685923", 
+        "description": "On a black ground, situated in diagonal on picture plane, a white envelope with red stamp and written address, black smudge at center. Text above, in gray: QUICKEST; below: BY / AIR / MAIL.", 
+        "creditline": "Gift of Mrs. E. McKnight Kauffer", 
+        "on_display": null, 
+        "markings": "Stamp in purple ink, upper left: MADE IN ENGLND", 
+        "is_loan_object": 0, 
+        "date": "1933", 
+        "url": "https://collection.cooperhewitt.org/objects/18448435/", 
+        "type": "poster", 
+        "accession_number": "1963-39-61", 
+        "year_end": 1933, 
+        "signed": "Signed in gray ink, lower left: E. McKNIGHT KAUFFER ‘33", 
+        "inscribed": "Printed in black, lower left: PRD 79; lower right, in gray: crowned and encircled “GPO”", 
+        "period_id": null, 
+        "year_acquired": "1963", 
+        "woe:country_id": "23424975"
+    }
+}

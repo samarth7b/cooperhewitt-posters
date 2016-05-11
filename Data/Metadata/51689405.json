@@ -1,0 +1,129 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": 1955, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": "offset lithograph on paper", 
+        "tms:id": "276279", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/88999_9b3a3fa3c9851bf3_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "88999"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/88999_9b3a3fa3c9851bf3_b.jpg", 
+                    "width": 747, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "88999"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/88999_9b3a3fa3c9851bf3_d.gif", 
+                    "width": 233, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "88999"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/88999_9b3a3fa3c9851bf3_z.jpg", 
+                    "width": 467, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "88999"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/88999_9b3a3fa3c9851bf3_n.jpg", 
+                    "width": 233, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "88999"
+                }
+            }
+        ], 
+        "id": "51689405", 
+        "has_no_known_copyright": null, 
+        "dimensions": "132.5 x 96 cm (52 3/16 x 37 13/16 in.)", 
+        "title": "Poster, Canadair forty four air cargo, General Dynamics, ca. 1960", 
+        "provenance": "Gift to Cooper-Hewitt from  Arthur M. Cohen and Daryl R. Otte in Memory of Bill Moggridge, 2013; purchased at auction from Posters International May 2, 1999.", 
+        "participants": [
+            {
+                "person_name": "Daryl Otte", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35351535/", 
+                "role_id": "35351535", 
+                "role_name": "Donor", 
+                "person_date": "", 
+                "role_display_name": "Donated by", 
+                "person_id": "68248137", 
+                "person_url": "https://collection.cooperhewitt.org/people/68248137/"
+            }, 
+            {
+                "person_name": "General Dynamics Corporation", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236667/", 
+                "role_id": "35236667", 
+                "role_name": "Client", 
+                "person_date": "USA", 
+                "role_display_name": "Client:", 
+                "person_id": "18049511", 
+                "person_url": "https://collection.cooperhewitt.org/people/18049511/"
+            }, 
+            {
+                "person_name": "Arthur Cohen", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35351535/", 
+                "role_id": "35351535", 
+                "role_name": "Donor", 
+                "person_date": "", 
+                "role_display_name": "Donated by", 
+                "person_id": "51688357", 
+                "person_url": "https://collection.cooperhewitt.org/people/51688357/"
+            }, 
+            {
+                "person_name": "Erik Nitsche", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "Swiss, 1908 - 1998", 
+                "role_display_name": "Designed by", 
+                "person_id": "18538331", 
+                "person_url": "https://collection.cooperhewitt.org/people/18538331/"
+            }
+        ], 
+        "decade": "1950", 
+        "label_text": null, 
+        "woe:country": null, 
+        "dimensions_raw": {
+            "width": [
+                "96.00", 
+                "centimeters"
+            ], 
+            "height": [
+                "132.50", 
+                "centimeters"
+            ]
+        }, 
+        "department_id": "35347493", 
+        "title_raw": "Canadair forty four air cargo, General Dynamics", 
+        "justification": null, 
+        "media_id": "35399021", 
+        "description": "Poster depicts horizontal striations with two vertical stripes. On left side: CL-44; upper right, a slim blue and white airplane flies; upper margin, in black ink: canadair forty four air cargo; lower margin: GENERAL DYNAMICS; lower right margin: CANADAIR LIMITED.", 
+        "creditline": "Gift of Arthur Cohen and Daryl Otte in memory of Bill Moggridge", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "ca. 1960", 
+        "url": "https://collection.cooperhewitt.org/objects/51689405/", 
+        "type": "poster", 
+        "accession_number": "2013-42-2", 
+        "year_end": 1965, 
+        "signed": null, 
+        "inscribed": null, 
+        "period_id": null, 
+        "year_acquired": "2013", 
+        "woe:country_id": null
+    }
+}

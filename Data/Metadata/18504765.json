@@ -1,0 +1,79 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": 1976, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": null, 
+        "tms:id": "163286", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/252560_0e5ad348d286e1e7_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "252560"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/252560_0e5ad348d286e1e7_b.jpg", 
+                    "width": 596, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "252560"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/252560_0e5ad348d286e1e7_d.gif", 
+                    "width": 186, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "252560"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/252560_0e5ad348d286e1e7_z.jpg", 
+                    "width": 373, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "252560"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/252560_0e5ad348d286e1e7_n.jpg", 
+                    "width": 186, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "252560"
+                }
+            }
+        ], 
+        "id": "18504765", 
+        "has_no_known_copyright": null, 
+        "dimensions": null, 
+        "title": "Poster, The Pre-Raphaelite Era: Delaware Art Museum, 1976", 
+        "provenance": null, 
+        "participants": [], 
+        "decade": "1970", 
+        "label_text": null, 
+        "woe:country": null, 
+        "dimensions_raw": null, 
+        "department_id": "35347493", 
+        "title_raw": "The Pre-Raphaelite Era: Delaware Art Museum", 
+        "justification": null, 
+        "media_id": "35371135", 
+        "description": null, 
+        "creditline": "Gift of Unknown Donor", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "1976", 
+        "url": "https://collection.cooperhewitt.org/objects/18504765/", 
+        "type": "poster", 
+        "accession_number": "1980-32-1022", 
+        "year_end": 1976, 
+        "signed": null, 
+        "inscribed": null, 
+        "period_id": null, 
+        "year_acquired": "1980", 
+        "woe:country_id": null
+    }
+}

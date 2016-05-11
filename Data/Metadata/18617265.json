@@ -1,0 +1,126 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": 1980, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": "lithograph on white paper", 
+        "tms:id": "177165", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/90453_28e3d9bc1e02ce92_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "90453"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/90453_28e3d9bc1e02ce92_b.jpg", 
+                    "width": 996, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "90453"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/90453_28e3d9bc1e02ce92_d.gif", 
+                    "width": 311, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "90453"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/90453_28e3d9bc1e02ce92_z.jpg", 
+                    "width": 623, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "90453"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/90453_28e3d9bc1e02ce92_n.jpg", 
+                    "width": 311, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "90453"
+                }
+            }, 
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/206263_5af06f548172a45e_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "0", 
+                    "image_id": "206263"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/206263_5af06f548172a45e_b.jpg", 
+                    "width": 990, 
+                    "height": 1024, 
+                    "is_primary": "0", 
+                    "image_id": "206263"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/206263_5af06f548172a45e_d.gif", 
+                    "width": 309, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "206263"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/206263_5af06f548172a45e_z.jpg", 
+                    "width": 618, 
+                    "height": 640, 
+                    "is_primary": "0", 
+                    "image_id": "206263"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/206263_5af06f548172a45e_n.jpg", 
+                    "width": 309, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "206263"
+                }
+            }
+        ], 
+        "id": "18617265", 
+        "has_no_known_copyright": null, 
+        "woe:country_name": "United States", 
+        "dimensions": "55.5 x 53.6 cm (21 7/8 x 21 1/8 in.)", 
+        "title": "Poster, Intramural Sports, 1980", 
+        "provenance": "1981: acquired by Museum", 
+        "participants": [], 
+        "decade": "1980", 
+        "label_text": null, 
+        "woe:country": "23424977", 
+        "dimensions_raw": {
+            "width": [
+                "53.60", 
+                "centimeters"
+            ], 
+            "height": [
+                "55.50", 
+                "centimeters"
+            ]
+        }, 
+        "department_id": "35347493", 
+        "title_raw": "Intramural Sports", 
+        "justification": null, 
+        "media_id": "35421135", 
+        "description": "For Pabst?", 
+        "creditline": "Gift of Various Donors", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "1980", 
+        "url": "https://collection.cooperhewitt.org/objects/18617265/", 
+        "type": "poster", 
+        "accession_number": "1981-29-104", 
+        "year_end": 1980, 
+        "signed": null, 
+        "inscribed": null, 
+        "period_id": null, 
+        "year_acquired": "1981", 
+        "woe:country_id": "23424977"
+    }
+}

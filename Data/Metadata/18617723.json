@@ -1,0 +1,147 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": 1970, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": "lithograph on wove paper", 
+        "tms:id": "177394", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/82695_f823f6aa347a0429_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "82695"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/82695_f823f6aa347a0429_b.jpg", 
+                    "width": 734, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "82695"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/82695_f823f6aa347a0429_d.gif", 
+                    "width": 229, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "82695"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/82695_f823f6aa347a0429_z.jpg", 
+                    "width": 459, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "82695"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/82695_f823f6aa347a0429_n.jpg", 
+                    "width": 229, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "82695"
+                }
+            }, 
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/267128_30fc4df1b08c9469_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "0", 
+                    "image_id": "267128"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/267128_30fc4df1b08c9469_b.jpg", 
+                    "width": 760, 
+                    "height": 1024, 
+                    "is_primary": "0", 
+                    "image_id": "267128"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/267128_30fc4df1b08c9469_d.gif", 
+                    "width": 238, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "267128"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/267128_30fc4df1b08c9469_z.jpg", 
+                    "width": 475, 
+                    "height": 640, 
+                    "is_primary": "0", 
+                    "image_id": "267128"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/267128_30fc4df1b08c9469_n.jpg", 
+                    "width": 238, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "267128"
+                }
+            }
+        ], 
+        "id": "18617723", 
+        "has_no_known_copyright": null, 
+        "woe:country_name": "United States", 
+        "dimensions": "H x W x D: 65.6 × 47.6 cm (25 13/16 × 18 3/4 in.)", 
+        "title": "Poster, Hand over your $8!, 1975", 
+        "provenance": "1981: acquired by Museum", 
+        "participants": [
+            {
+                "person_name": "Rebekah Pollock", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35352245/", 
+                "role_id": "35352245", 
+                "role_name": "Cataloguer", 
+                "person_date": "American, born 1982", 
+                "role_display_name": "Catalogued by", 
+                "person_id": "51686969", 
+                "person_url": "https://collection.cooperhewitt.org/people/51686969/"
+            }, 
+            {
+                "person_name": "Brigham Young University", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236667/", 
+                "role_id": "35236667", 
+                "role_name": "Client", 
+                "person_date": "", 
+                "role_display_name": "Client:", 
+                "person_id": "18042421", 
+                "person_url": "https://collection.cooperhewitt.org/people/18042421/"
+            }
+        ], 
+        "decade": "1970", 
+        "label_text": null, 
+        "woe:country": "23424977", 
+        "dimensions_raw": {
+            "width": [
+                "47.40", 
+                "centimeters"
+            ], 
+            "height": [
+                "65.30", 
+                "centimeters"
+            ]
+        }, 
+        "department_id": "35347493", 
+        "title_raw": "Hand over your $8!", 
+        "justification": null, 
+        "media_id": "35407799", 
+        "description": "Pseudo-wanted poster of a man holding gun to viewer. Below, information about library dues.", 
+        "creditline": "Gift of Various Donors", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "1975", 
+        "url": "https://collection.cooperhewitt.org/objects/18617723/", 
+        "type": "poster", 
+        "accession_number": "1981-29-308", 
+        "year_end": 1980, 
+        "signed": null, 
+        "inscribed": null, 
+        "period_id": null, 
+        "year_acquired": "1981", 
+        "woe:country_id": "23424977"
+    }
+}

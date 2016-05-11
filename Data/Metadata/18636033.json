@@ -1,0 +1,101 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": 1991, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": "offset lithograph on white paper", 
+        "tms:id": "192864", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/267758_ada4b6fa5f4b95ee_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "267758"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/267758_ada4b6fa5f4b95ee_b.jpg", 
+                    "width": 1024, 
+                    "height": 1011, 
+                    "is_primary": "1", 
+                    "image_id": "267758"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/267758_ada4b6fa5f4b95ee_d.gif", 
+                    "width": 320, 
+                    "height": 316, 
+                    "is_primary": "1", 
+                    "image_id": "267758"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/267758_ada4b6fa5f4b95ee_z.jpg", 
+                    "width": 640, 
+                    "height": 632, 
+                    "is_primary": "1", 
+                    "image_id": "267758"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/267758_ada4b6fa5f4b95ee_n.jpg", 
+                    "width": 320, 
+                    "height": 316, 
+                    "is_primary": "1", 
+                    "image_id": "267758"
+                }
+            }
+        ], 
+        "id": "18636033", 
+        "has_no_known_copyright": null, 
+        "woe:country_name": "Japan", 
+        "dimensions": null, 
+        "title": "Poster, \"91 Ways to Destroy the W, 1991", 
+        "provenance": null, 
+        "participants": [
+            {
+                "person_name": "Molly Seiler", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35352245/", 
+                "role_id": "35352245", 
+                "role_name": "Cataloguer", 
+                "person_date": "", 
+                "role_display_name": "Catalogued by", 
+                "person_id": "18048471", 
+                "person_url": "https://collection.cooperhewitt.org/people/18048471/"
+            }, 
+            {
+                "person_name": "Takaaki Matsumoto", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "", 
+                "role_display_name": "Designed by", 
+                "person_id": "18042719", 
+                "person_url": "https://collection.cooperhewitt.org/people/18042719/"
+            }
+        ], 
+        "decade": "1990", 
+        "label_text": null, 
+        "woe:country": "23424856", 
+        "dimensions_raw": null, 
+        "department_id": "35347493", 
+        "title_raw": "\"91 Ways to Destroy the W", 
+        "justification": null, 
+        "media_id": "35424093", 
+        "description": "Four quadrants", 
+        "creditline": null, 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "1991", 
+        "url": "https://collection.cooperhewitt.org/objects/18636033/", 
+        "type": "poster", 
+        "accession_number": "1991-167-2", 
+        "year_end": 1991, 
+        "signed": null, 
+        "inscribed": null, 
+        "period_id": null, 
+        "year_acquired": "1991", 
+        "woe:country_id": "23424856"
+    }
+}

@@ -1,0 +1,147 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": 1970, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": "screenprint, gloss ink on paper", 
+        "tms:id": "177241", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/80025_5e6bff6c588b24c6_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "80025"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/80025_5e6bff6c588b24c6_b.jpg", 
+                    "width": 652, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "80025"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/80025_5e6bff6c588b24c6_d.gif", 
+                    "width": 204, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "80025"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/80025_5e6bff6c588b24c6_z.jpg", 
+                    "width": 407, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "80025"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/80025_5e6bff6c588b24c6_n.jpg", 
+                    "width": 204, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "80025"
+                }
+            }, 
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/268794_8668d3844ec38368_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "0", 
+                    "image_id": "268794"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/268794_8668d3844ec38368_b.jpg", 
+                    "width": 659, 
+                    "height": 1024, 
+                    "is_primary": "0", 
+                    "image_id": "268794"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/268794_8668d3844ec38368_d.gif", 
+                    "width": 206, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "268794"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/268794_8668d3844ec38368_z.jpg", 
+                    "width": 412, 
+                    "height": 640, 
+                    "is_primary": "0", 
+                    "image_id": "268794"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/268794_8668d3844ec38368_n.jpg", 
+                    "width": 206, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "268794"
+                }
+            }
+        ], 
+        "id": "18617417", 
+        "has_no_known_copyright": null, 
+        "woe:country_name": "United States", 
+        "dimensions": "100.1 x 63.7 cm (39 7/16 x 25 1/16 in.)", 
+        "title": "Poster, Summer Picnic, 1970, 1970", 
+        "provenance": "1981: acquired by Museum", 
+        "participants": [
+            {
+                "person_name": "Herman Miller Furniture Company", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236667/", 
+                "role_id": "35236667", 
+                "role_name": "Client", 
+                "person_date": "Zeeland, Michigan, USA", 
+                "role_display_name": "Client:", 
+                "person_id": "18049013", 
+                "person_url": "https://collection.cooperhewitt.org/people/18049013/"
+            }, 
+            {
+                "person_name": "Stephen Frykholm", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "American, b. 1942", 
+                "role_display_name": "Designed by", 
+                "person_id": "18042365", 
+                "person_url": "https://collection.cooperhewitt.org/people/18042365/"
+            }
+        ], 
+        "decade": "1970", 
+        "label_text": null, 
+        "woe:country": "23424977", 
+        "dimensions_raw": {
+            "width": [
+                "63.70", 
+                "centimeters"
+            ], 
+            "height": [
+                "100.10", 
+                "centimeters"
+            ]
+        }, 
+        "department_id": "35347493", 
+        "title_raw": "Summer Picnic, 1970", 
+        "justification": null, 
+        "media_id": "68249125", 
+        "description": "Poster depicts a close-up cropped view of a corn on the cob between teeth and red lips. Text in black: Sweet Corn / Festival / summer picnic / herman miller / august 21, 1970.", 
+        "creditline": "Gift of Various Donors", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "1970", 
+        "url": "https://collection.cooperhewitt.org/objects/18617417/", 
+        "type": "poster", 
+        "accession_number": "1981-29-173", 
+        "year_end": 1970, 
+        "signed": null, 
+        "inscribed": null, 
+        "period_id": null, 
+        "year_acquired": "1981", 
+        "woe:country_id": "23424977"
+    }
+}

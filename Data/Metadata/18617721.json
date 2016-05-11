@@ -1,0 +1,137 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": null, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": "lithograph on wove paper", 
+        "tms:id": "177393", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/82694_e764856e9ad6bdcc_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "82694"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/82694_e764856e9ad6bdcc_b.jpg", 
+                    "width": 1024, 
+                    "height": 824, 
+                    "is_primary": "1", 
+                    "image_id": "82694"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/82694_e764856e9ad6bdcc_d.gif", 
+                    "width": 320, 
+                    "height": 258, 
+                    "is_primary": "1", 
+                    "image_id": "82694"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/82694_e764856e9ad6bdcc_z.jpg", 
+                    "width": 640, 
+                    "height": 515, 
+                    "is_primary": "1", 
+                    "image_id": "82694"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/82694_e764856e9ad6bdcc_n.jpg", 
+                    "width": 320, 
+                    "height": 258, 
+                    "is_primary": "1", 
+                    "image_id": "82694"
+                }
+            }, 
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/205134_9020efd73b905f13_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "0", 
+                    "image_id": "205134"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/205134_9020efd73b905f13_b.jpg", 
+                    "width": 1024, 
+                    "height": 833, 
+                    "is_primary": "0", 
+                    "image_id": "205134"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/205134_9020efd73b905f13_d.gif", 
+                    "width": 320, 
+                    "height": 260, 
+                    "is_primary": "0", 
+                    "image_id": "205134"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/205134_9020efd73b905f13_z.jpg", 
+                    "width": 640, 
+                    "height": 521, 
+                    "is_primary": "0", 
+                    "image_id": "205134"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/205134_9020efd73b905f13_n.jpg", 
+                    "width": 320, 
+                    "height": 260, 
+                    "is_primary": "0", 
+                    "image_id": "205134"
+                }
+            }
+        ], 
+        "id": "18617721", 
+        "has_no_known_copyright": null, 
+        "woe:country_name": "United States", 
+        "dimensions": "Overall: 63.7 x 51.8 cm (25 1/16 x 20 3/8 in.)", 
+        "title": "Poster, BYU Chamber Orchestra", 
+        "provenance": "1981: acquired by Museum", 
+        "participants": [
+            {
+                "person_name": "Brigham Young University", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236667/", 
+                "role_id": "35236667", 
+                "role_name": "Client", 
+                "person_date": "", 
+                "role_display_name": "Client:", 
+                "person_id": "18042421", 
+                "person_url": "https://collection.cooperhewitt.org/people/18042421/"
+            }
+        ], 
+        "decade": null, 
+        "label_text": null, 
+        "woe:country": "23424977", 
+        "dimensions_raw": {
+            "width": [
+                "51.80", 
+                "centimeters"
+            ], 
+            "height": [
+                "63.70", 
+                "centimeters"
+            ]
+        }, 
+        "department_id": "35347493", 
+        "title_raw": "BYU Chamber Orchestra", 
+        "justification": null, 
+        "media_id": "35407799", 
+        "description": "Poster features orchestra members dressed in 16th century garb, flying around a room with a window open.", 
+        "creditline": "Gift of Various Donors", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": null, 
+        "url": "https://collection.cooperhewitt.org/objects/18617721/", 
+        "type": "poster", 
+        "accession_number": "1981-29-307", 
+        "year_end": null, 
+        "signed": null, 
+        "inscribed": null, 
+        "period_id": null, 
+        "year_acquired": "1981", 
+        "woe:country_id": "23424977"
+    }
+}

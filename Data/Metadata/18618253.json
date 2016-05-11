@@ -1,0 +1,137 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": null, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": "lithograph on paper", 
+        "tms:id": "177660", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/82683_4ec5786d77e37fe9_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "82683"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/82683_4ec5786d77e37fe9_b.jpg", 
+                    "width": 780, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "82683"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/82683_4ec5786d77e37fe9_d.gif", 
+                    "width": 244, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "82683"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/82683_4ec5786d77e37fe9_z.jpg", 
+                    "width": 487, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "82683"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/82683_4ec5786d77e37fe9_n.jpg", 
+                    "width": 244, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "82683"
+                }
+            }, 
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/204574_93ce1ddaecf0e031_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "0", 
+                    "image_id": "204574"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/204574_93ce1ddaecf0e031_b.jpg", 
+                    "width": 787, 
+                    "height": 1024, 
+                    "is_primary": "0", 
+                    "image_id": "204574"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/204574_93ce1ddaecf0e031_d.gif", 
+                    "width": 246, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "204574"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/204574_93ce1ddaecf0e031_z.jpg", 
+                    "width": 492, 
+                    "height": 640, 
+                    "is_primary": "0", 
+                    "image_id": "204574"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/204574_93ce1ddaecf0e031_n.jpg", 
+                    "width": 246, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "204574"
+                }
+            }
+        ], 
+        "id": "18618253", 
+        "has_no_known_copyright": null, 
+        "woe:country_name": "United States", 
+        "dimensions": "53.2 x 40.5 cm (20 15/16 x 15 15/16 in.)", 
+        "title": "Poster, Art Institute of Fort Lauderdale", 
+        "provenance": "1981: acquired by Museum", 
+        "participants": [
+            {
+                "person_name": "Seymour Chwast", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "American, b. 1931", 
+                "role_display_name": "Designed by", 
+                "person_id": "18042087", 
+                "person_url": "https://collection.cooperhewitt.org/people/18042087/"
+            }
+        ], 
+        "decade": null, 
+        "label_text": null, 
+        "woe:country": "23424977", 
+        "dimensions_raw": {
+            "width": [
+                "40.50", 
+                "centimeters"
+            ], 
+            "height": [
+                "53.20", 
+                "centimeters"
+            ]
+        }, 
+        "department_id": "35347493", 
+        "title_raw": "Art Institute of Fort Lauderdale", 
+        "justification": null, 
+        "media_id": "35419317", 
+        "description": "Poster featuring a beach composed of art-making objects.", 
+        "creditline": "Gift of Various Donors", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": null, 
+        "url": "https://collection.cooperhewitt.org/objects/18618253/", 
+        "type": "poster", 
+        "accession_number": "1981-29-84", 
+        "year_end": null, 
+        "signed": null, 
+        "inscribed": "Imprinted in black ink, lower left: SEYMOUR CHWAST", 
+        "period_id": null, 
+        "year_acquired": "1981", 
+        "woe:country_id": "23424977"
+    }
+}

@@ -1,0 +1,130 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": 1979, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": "offset lithograph\nsupport: paper", 
+        "tms:id": "193549", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/268844_324f27235c54e11c_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "268844"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/268844_324f27235c54e11c_b.jpg", 
+                    "width": 821, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "268844"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/268844_324f27235c54e11c_d.gif", 
+                    "width": 257, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "268844"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/268844_324f27235c54e11c_z.jpg", 
+                    "width": 513, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "268844"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/268844_324f27235c54e11c_n.jpg", 
+                    "width": 257, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "268844"
+                }
+            }
+        ], 
+        "id": "18637395", 
+        "has_no_known_copyright": null, 
+        "woe:country_name": "United States", 
+        "dimensions": "71.1 x 56 cm (28 x 22 1/16 in.)", 
+        "title": "Poster, Cranbrook Schools Open Ho, 1979", 
+        "provenance": null, 
+        "participants": [
+            {
+                "person_name": "Bob Monize", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35351535/", 
+                "role_id": "35351535", 
+                "role_name": "Donor", 
+                "person_date": "", 
+                "role_display_name": "Donated by", 
+                "person_id": "18042331", 
+                "person_url": "https://collection.cooperhewitt.org/people/18042331/"
+            }, 
+            {
+                "person_name": "Cranbrook Academy of Art", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236751/", 
+                "role_id": "35236751", 
+                "role_name": "Director of Production", 
+                "person_date": "", 
+                "role_display_name": "Production directed by", 
+                "person_id": "18041809", 
+                "person_url": "https://collection.cooperhewitt.org/people/18041809/"
+            }, 
+            {
+                "person_name": "CGC", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35352245/", 
+                "role_id": "35352245", 
+                "role_name": "Cataloguer", 
+                "person_date": "", 
+                "role_display_name": "Catalogued by", 
+                "person_id": "18048417", 
+                "person_url": "https://collection.cooperhewitt.org/people/18048417/"
+            }, 
+            {
+                "person_name": "Bob Monize", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "", 
+                "role_display_name": "Designed by", 
+                "person_id": "18042331", 
+                "person_url": "https://collection.cooperhewitt.org/people/18042331/"
+            }
+        ], 
+        "decade": "1970", 
+        "label_text": null, 
+        "woe:country": "23424977", 
+        "dimensions_raw": {
+            "width": [
+                "56.00", 
+                "centimeters"
+            ], 
+            "height": [
+                "71.10", 
+                "centimeters"
+            ]
+        }, 
+        "department_id": "35347493", 
+        "title_raw": "Cranbrook Schools Open Ho", 
+        "justification": null, 
+        "media_id": "136270993", 
+        "description": null, 
+        "creditline": "Gift of Bob Monize", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "1979", 
+        "url": "https://collection.cooperhewitt.org/objects/18637395/", 
+        "type": "poster", 
+        "accession_number": "1991-69-96", 
+        "year_end": 1979, 
+        "signed": null, 
+        "inscribed": "Imprinted in dark red ink at UC: Cranbrook Schools; in black ink at UL: Open House/...[followed by four paragraphs of text]; imprinted in black at LC: Design: Bob Monize Typehouse, Inc. Signet Printing", 
+        "period_id": null, 
+        "year_acquired": "1991", 
+        "woe:country_id": "23424977"
+    }
+}

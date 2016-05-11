@@ -1,0 +1,160 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": 1967, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": "offset lithograph on white wove paper", 
+        "tms:id": "177621", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/9971_0eab09b8e64a669d_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "9971"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/9971_0eab09b8e64a669d_b.jpg", 
+                    "width": 741, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "9971"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/9971_0eab09b8e64a669d_d.gif", 
+                    "width": 232, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "9971"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/9971_0eab09b8e64a669d_z.jpg", 
+                    "width": 463, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "9971"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/9971_0eab09b8e64a669d_n.jpg", 
+                    "width": 232, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "9971"
+                }
+            }
+        ], 
+        "id": "18618175", 
+        "has_no_known_copyright": null, 
+        "woe:country_name": "United States", 
+        "dimensions": "H x W: 79.2 × 57.3 cm (31 3/16 × 22 9/16 in.)\nMat: 71.1 × 91.4 cm (28 × 36 in.)", 
+        "title": "Poster, John Lennon, 1967", 
+        "provenance": "1981: acquired by Museum", 
+        "participants": [
+            {
+                "person_name": "Look Magazine", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236657/", 
+                "role_id": "35236657", 
+                "role_name": "Manufacturer", 
+                "person_date": "USA", 
+                "role_display_name": "Manufactured by", 
+                "person_id": "68777467", 
+                "person_url": "https://collection.cooperhewitt.org/people/68777467/"
+            }, 
+            {
+                "person_name": "NEMS Enterprises, Ltd.", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236735/", 
+                "role_id": "35236735", 
+                "role_name": "Association", 
+                "person_date": "", 
+                "role_display_name": "Association:", 
+                "person_id": "18056203", 
+                "person_url": "https://collection.cooperhewitt.org/people/18056203/"
+            }, 
+            {
+                "person_name": "Maximus Enterprises, Ltd.", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236735/", 
+                "role_id": "35236735", 
+                "role_name": "Association", 
+                "person_date": "", 
+                "role_display_name": "Association:", 
+                "person_id": "18056201", 
+                "person_url": "https://collection.cooperhewitt.org/people/18056201/"
+            }, 
+            {
+                "person_name": "Richard Avedon Posters, Inc.", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236675/", 
+                "role_id": "35236675", 
+                "role_name": "For", 
+                "person_date": "New York, New York, USA", 
+                "role_display_name": "Made for", 
+                "person_id": "18056199", 
+                "person_url": "https://collection.cooperhewitt.org/people/18056199/"
+            }, 
+            {
+                "person_name": "Cowles Education Corporation", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236661/", 
+                "role_id": "35236661", 
+                "role_name": "Publisher", 
+                "person_date": "", 
+                "role_display_name": "Published by", 
+                "person_id": "18056197", 
+                "person_url": "https://collection.cooperhewitt.org/people/18056197/"
+            }, 
+            {
+                "person_name": "Various Donors", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35351535/", 
+                "role_id": "35351535", 
+                "role_name": "Donor", 
+                "person_date": "", 
+                "role_display_name": "Donated by", 
+                "person_id": "18041163", 
+                "person_url": "https://collection.cooperhewitt.org/people/18041163/"
+            }, 
+            {
+                "person_name": "Richard Avedon", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "American, 1923 - 2004", 
+                "role_display_name": "Designed by", 
+                "person_id": "18535489", 
+                "person_url": "https://collection.cooperhewitt.org/people/18535489/"
+            }
+        ], 
+        "decade": "1960", 
+        "label_text": "This poster suggests an altered state of mind by filling John Lennon’s glasses with a swirling optical illusion. The photograph has been converted to a high-contrast image, a technique sometimes called \"posterization.\"", 
+        "woe:country": "23424977", 
+        "dimensions_raw": {
+            "width": [
+                "57.20", 
+                "centimeters"
+            ], 
+            "height": [
+                "78.90", 
+                "centimeters"
+            ]
+        }, 
+        "department_id": "35347493", 
+        "title_raw": "John Lennon", 
+        "justification": null, 
+        "media_id": "35431673", 
+        "description": "A depiction of the head and shoulders of musician John Lennon on vibrant yellow ground. The left side of image and hair saturated in bright orange-red; the right side of image in deep purple.  The features are visible as in a photographic negative with negative areas highlighted in bright white.  Superimposed on the face, a pair of round glasses with lenses formed by bright orange, green, and white spirals.", 
+        "creditline": "Gift of Various Donors", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "1967", 
+        "url": "https://collection.cooperhewitt.org/objects/18618175/", 
+        "type": "poster", 
+        "accession_number": "1981-29-511", 
+        "year_end": 1967, 
+        "signed": null, 
+        "inscribed": "Imprinted in green, lower left corner of margin:  JOHN LENNON photographed by Richard Avedon for Look magazine; in lower right corner:  Copyright c [encircled] 1967 by NEMS Enterprises, Ltd.  All rights reserved, published and distributed by Cowles Education Corporation, 488 Madison/Avenue, New York, N.Y. 10022, in cooperation with Richard Avedon Posters, Inc. exclusively under license from Maximus Enterprises, Ltd.", 
+        "period_id": null, 
+        "year_acquired": "1981", 
+        "woe:country_id": "23424977"
+    }
+}

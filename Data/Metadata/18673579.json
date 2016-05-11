@@ -1,0 +1,109 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": 1960, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": "offset lithograph on white wove paper", 
+        "tms:id": "212232", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/268828_f5cf12452c84a835_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "268828"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/268828_f5cf12452c84a835_b.jpg", 
+                    "width": 695, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "268828"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/268828_f5cf12452c84a835_d.gif", 
+                    "width": 217, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "268828"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/268828_f5cf12452c84a835_z.jpg", 
+                    "width": 434, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "268828"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/268828_f5cf12452c84a835_n.jpg", 
+                    "width": 217, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "268828"
+                }
+            }
+        ], 
+        "id": "18673579", 
+        "has_no_known_copyright": null, 
+        "dimensions": "76.0 x 50.8 cm (29 15/16 x 20 in. )", 
+        "title": "Poster, Air Canada - Québec City, ca. 1970", 
+        "provenance": "From the collection of Dan Friedman", 
+        "participants": [
+            {
+                "person_name": "Ken Friedman", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35351535/", 
+                "role_id": "35351535", 
+                "role_name": "Donor", 
+                "person_date": "", 
+                "role_display_name": "Donated by", 
+                "person_id": "18049807", 
+                "person_url": "https://collection.cooperhewitt.org/people/18049807/"
+            }, 
+            {
+                "person_name": "Dan Friedman", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "American, 1945–1995", 
+                "role_display_name": "Designed by", 
+                "person_id": "18041325", 
+                "person_url": "https://collection.cooperhewitt.org/people/18041325/"
+            }
+        ], 
+        "decade": "1960", 
+        "label_text": null, 
+        "woe:country": null, 
+        "dimensions_raw": {
+            "width": [
+                "50.80", 
+                "centimeters"
+            ], 
+            "height": [
+                "76.00", 
+                "centimeters"
+            ]
+        }, 
+        "department_id": "35347493", 
+        "title_raw": "Air Canada - Québec City", 
+        "justification": null, 
+        "media_id": "35431673", 
+        "description": "Against a gray-green background a color photographic image shows an arial view of the rooftops and pointed spires of the old section of Québec City.  A woman is in a window at left. The image juts into the poster design on an angle creating a sharp right angle at upper right center. Along left top edge of image in large white letters 'Québec City' and at upper right 'Air Canada's' is imprinted at an oblique angle.", 
+        "creditline": "Gift of Ken Friedman", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "ca. 1970", 
+        "url": "https://collection.cooperhewitt.org/objects/18673579/", 
+        "type": "poster", 
+        "accession_number": "1997-19-281", 
+        "year_end": 1980, 
+        "signed": null, 
+        "inscribed": "Imprinted upper left: red maple leaf inscribed in circle logo. Imprinted in white lower right corner: Printed in U.S.A.", 
+        "period_id": null, 
+        "year_acquired": "1997", 
+        "woe:country_id": null
+    }
+}

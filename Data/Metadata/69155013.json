@@ -1,0 +1,90 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": "Delvaray creates multifaceted depictions of language in space. Here, recycled letters hang from trees. Rendered in bright magenta and purple, the harshly colored letters stand out against a background of soft green leaves and pale brown branches. Vibrant blue extension cords complete the story by tying the letters to the branches.", 
+        "year_start": 2014, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": "digital print", 
+        "tms:id": "282858", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/265665_d42c1ac884f9d6f8_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "265665"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/265665_d42c1ac884f9d6f8_b.jpg", 
+                    "width": 717, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "265665"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/265665_d42c1ac884f9d6f8_d.gif", 
+                    "width": 224, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "265665"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/265665_d42c1ac884f9d6f8_z.jpg", 
+                    "width": 448, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "265665"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/265665_d42c1ac884f9d6f8_n.jpg", 
+                    "width": 224, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "265665"
+                }
+            }
+        ], 
+        "id": "69155013", 
+        "has_no_known_copyright": null, 
+        "dimensions": "H x W: 80 × 55.9 cm (31 1/2 in. × 22 in.)", 
+        "title": "Poster, Recycle Games, 2014", 
+        "provenance": null, 
+        "participants": [
+            {
+                "person_name": "Homa Delvaray", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "Iranian, b. 1980", 
+                "role_display_name": "Designed by", 
+                "person_id": "85011421", 
+                "person_url": "https://collection.cooperhewitt.org/people/85011421/"
+            }
+        ], 
+        "decade": "2010", 
+        "label_text": null, 
+        "woe:country": null, 
+        "dimensions_raw": null, 
+        "department_id": "404529577", 
+        "title_raw": "Recycle Games", 
+        "justification": null, 
+        "media_id": "35424525", 
+        "description": null, 
+        "creditline": "Courtesy of the designer", 
+        "on_display": "1", 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "2014", 
+        "url": "https://collection.cooperhewitt.org/objects/69155013/", 
+        "type": "poster", 
+        "accession_number": "s-e-1716", 
+        "year_end": 2014, 
+        "signed": null, 
+        "inscribed": null, 
+        "period_id": null, 
+        "year_acquired": null, 
+        "woe:country_id": null
+    }
+}

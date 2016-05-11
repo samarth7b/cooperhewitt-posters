@@ -1,0 +1,147 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": 1998, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": "lithograph on paper", 
+        "tms:id": "181464", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/80937_6882ab3cc39b64af_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "80937"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/80937_6882ab3cc39b64af_b.jpg", 
+                    "width": 668, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "80937"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/80937_6882ab3cc39b64af_d.gif", 
+                    "width": 209, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "80937"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/80937_6882ab3cc39b64af_z.jpg", 
+                    "width": 417, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "80937"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/80937_6882ab3cc39b64af_n.jpg", 
+                    "width": 209, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "80937"
+                }
+            }, 
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/257392_7016437c57c1dc27_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "0", 
+                    "image_id": "257392"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/257392_7016437c57c1dc27_b.jpg", 
+                    "width": 667, 
+                    "height": 1024, 
+                    "is_primary": "0", 
+                    "image_id": "257392"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/257392_7016437c57c1dc27_d.gif", 
+                    "width": 208, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "257392"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/257392_7016437c57c1dc27_z.jpg", 
+                    "width": 417, 
+                    "height": 640, 
+                    "is_primary": "0", 
+                    "image_id": "257392"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/257392_7016437c57c1dc27_n.jpg", 
+                    "width": 208, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "257392"
+                }
+            }
+        ], 
+        "id": "18802557", 
+        "has_no_known_copyright": null, 
+        "woe:country_name": "United States", 
+        "dimensions": "99.5 x 64.3 cm (39 3/16 x 25 5/16 in.)", 
+        "title": "Poster, Architecture Dallas, April '98, 1998", 
+        "provenance": "1984: acquired by Museum", 
+        "participants": [
+            {
+                "person_name": "Newman & Melton", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236673/", 
+                "role_id": "35236673", 
+                "role_name": "Printer", 
+                "person_date": "", 
+                "role_display_name": "Printed by", 
+                "person_id": "51865243", 
+                "person_url": "https://collection.cooperhewitt.org/people/51865243/"
+            }, 
+            {
+                "person_name": "Woody Pirtle", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "b. 1945", 
+                "role_display_name": "Designed by", 
+                "person_id": "18042325", 
+                "person_url": "https://collection.cooperhewitt.org/people/18042325/"
+            }
+        ], 
+        "decade": "1990", 
+        "label_text": null, 
+        "woe:country": "23424977", 
+        "dimensions_raw": {
+            "width": [
+                "64.30", 
+                "centimeters"
+            ], 
+            "height": [
+                "99.50", 
+                "centimeters"
+            ]
+        }, 
+        "department_id": "35347493", 
+        "title_raw": "Architecture Dallas, April '98", 
+        "justification": null, 
+        "media_id": "35419317", 
+        "description": "On a black ground, white text above in script: Architecture Dallas / April 1981 / Dallas Design Competition/Saturday April 4 / Spring Luncheon/Thursday April 16, Sheraton Hotel / Design & Honor Awards Program/Friday April 24 / Downtown Tours/April 6-10 / Sponsored by The American Institute / of Architects/Dallas Chapter.\nBelow, colorful geometric shapes.", 
+        "creditline": null, 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "1998", 
+        "url": "https://collection.cooperhewitt.org/objects/18802557/", 
+        "type": "poster", 
+        "accession_number": "1984-25-1", 
+        "year_end": 1998, 
+        "signed": null, 
+        "inscribed": "Printed in white ink, lower edge: DESIGN: WOODY PIRTLE, INC. 1981 PRINTING: NEWMAN & MELTON, INC.", 
+        "period_id": null, 
+        "year_acquired": "1984", 
+        "woe:country_id": "23424977"
+    }
+}

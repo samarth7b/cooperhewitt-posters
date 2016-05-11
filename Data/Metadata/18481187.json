@@ -1,0 +1,91 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": null, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": null, 
+        "tms:id": "151447", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/267440_d63cb508b9227057_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "267440"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/267440_d63cb508b9227057_b.jpg", 
+                    "width": 712, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "267440"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/267440_d63cb508b9227057_d.gif", 
+                    "width": 223, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "267440"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/267440_d63cb508b9227057_z.jpg", 
+                    "width": 445, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "267440"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/267440_d63cb508b9227057_n.jpg", 
+                    "width": 223, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "267440"
+                }
+            }
+        ], 
+        "id": "18481187", 
+        "has_no_known_copyright": null, 
+        "woe:country_name": "United States", 
+        "dimensions": null, 
+        "title": "Poster (USA)", 
+        "provenance": null, 
+        "participants": [
+            {
+                "person_name": "Ben Shahn", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "", 
+                "role_display_name": "Designed by", 
+                "person_id": "18051229", 
+                "person_url": "https://collection.cooperhewitt.org/people/18051229/"
+            }
+        ], 
+        "decade": null, 
+        "label_text": null, 
+        "woe:country": "23424977", 
+        "dimensions_raw": null, 
+        "department_id": "35347493", 
+        "title_raw": null, 
+        "justification": null, 
+        "media_id": "35371135", 
+        "description": null, 
+        "creditline": null, 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": null, 
+        "url": "https://collection.cooperhewitt.org/objects/18481187/", 
+        "type": "poster", 
+        "accession_number": "1973-39-400", 
+        "year_end": null, 
+        "signed": null, 
+        "inscribed": null, 
+        "period_id": null, 
+        "year_acquired": "1973", 
+        "woe:country_id": "23424977"
+    }
+}

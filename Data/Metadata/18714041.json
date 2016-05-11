@@ -1,0 +1,241 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": 1928, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": "lithograph on off-white wove paper", 
+        "tms:id": "232918", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/127690_9925380dd5d98a29_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "127690"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/127690_9925380dd5d98a29_b.jpg", 
+                    "width": 685, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "127690"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/127690_9925380dd5d98a29_d.gif", 
+                    "width": 214, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "127690"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/127690_9925380dd5d98a29_z.jpg", 
+                    "width": 428, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "127690"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/127690_9925380dd5d98a29_n.jpg", 
+                    "width": 214, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "127690"
+                }
+            }, 
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/142935_4a95cce82d95105d_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "0", 
+                    "image_id": "142935"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/142935_4a95cce82d95105d_b.jpg", 
+                    "width": 763, 
+                    "height": 1024, 
+                    "is_primary": "0", 
+                    "image_id": "142935"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/142935_4a95cce82d95105d_d.gif", 
+                    "width": 238, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "142935"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/142935_4a95cce82d95105d_z.jpg", 
+                    "width": 477, 
+                    "height": 640, 
+                    "is_primary": "0", 
+                    "image_id": "142935"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/142935_4a95cce82d95105d_n.jpg", 
+                    "width": 238, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "142935"
+                }
+            }, 
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/63541_3e028c4ddde5f663_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "63541"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/63541_3e028c4ddde5f663_b.jpg", 
+                    "width": 693, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "63541"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/63541_3e028c4ddde5f663_d.gif", 
+                    "width": 217, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "63541"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/63541_3e028c4ddde5f663_z.jpg", 
+                    "width": 433, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "63541"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/63541_3e028c4ddde5f663_n.jpg", 
+                    "width": 217, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "63541"
+                }
+            }, 
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/28068_392a6783cf01e2c6_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "0", 
+                    "image_id": "28068"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/28068_392a6783cf01e2c6_b.jpg", 
+                    "width": 683, 
+                    "height": 1024, 
+                    "is_primary": "0", 
+                    "image_id": "28068"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/28068_392a6783cf01e2c6_d.gif", 
+                    "width": 213, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "28068"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/28068_392a6783cf01e2c6_z.jpg", 
+                    "width": 427, 
+                    "height": 640, 
+                    "is_primary": "0", 
+                    "image_id": "28068"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/28068_392a6783cf01e2c6_n.jpg", 
+                    "width": 213, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "28068"
+                }
+            }
+        ], 
+        "id": "18714041", 
+        "has_no_known_copyright": null, 
+        "woe:country_name": "Russia", 
+        "dimensions": "106.7 x 70.5 cm (42 x 27 3/4 in.)", 
+        "title": "Poster, Symphony of a Big City, 1928", 
+        "provenance": "Reinold Brown, New York City; 2008: acquired by Museum", 
+        "participants": [
+            {
+                "person_name": "General Acquisitions Endowment", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35352247/", 
+                "role_id": "35352247", 
+                "role_name": "Fund", 
+                "person_date": "", 
+                "role_display_name": "Fund:", 
+                "person_id": "18048535", 
+                "person_url": "https://collection.cooperhewitt.org/people/18048535/"
+            }, 
+            {
+                "person_name": "Vladimir Augustovich Stenberg", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "Russian, 1899 - 1982", 
+                "role_display_name": "Designed by", 
+                "person_id": "18061513", 
+                "person_url": "https://collection.cooperhewitt.org/people/18061513/"
+            }, 
+            {
+                "person_name": "Georgii Augustovich Stenberg", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "Russian, 1900-1933", 
+                "role_display_name": "Designed by", 
+                "person_id": "18061511", 
+                "person_url": "https://collection.cooperhewitt.org/people/18061511/"
+            }, 
+            {
+                "person_name": "Reinhold Brown Gallery", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35352249/", 
+                "role_id": "35352249", 
+                "role_name": "Vendor", 
+                "person_date": "", 
+                "role_display_name": "Purchased from", 
+                "person_id": "18041557", 
+                "person_url": "https://collection.cooperhewitt.org/people/18041557/"
+            }
+        ], 
+        "decade": "1920", 
+        "label_text": null, 
+        "woe:country": "23424936", 
+        "dimensions_raw": {
+            "width": [
+                "70.49", 
+                "centimeters"
+            ], 
+            "height": [
+                "106.68", 
+                "centimeters"
+            ]
+        }, 
+        "department_id": "35347493", 
+        "title_raw": "Symphony of a Big City", 
+        "justification": "Vladimir and Georgii Stenberg’s film posters are universally considered design icons. The brothers were major innovators in the field of modernist graphic design.\nVladimir and Georgii Stenberg were born in Moscow in 1899 and 1900, respectively. They attended the Stroganov School of Applied Art and took classes in military engineering. In the early 1920s, they joined other artists, including Alexander Rodchenko, in an exhibition of constructivist sculpture and painting. The Stenbergs’ contributions were non-objective sculptures of glass, metal, wire, and wood, showing lines and planes floating in space. Their earliest graphic design efforts were for the theater, which the Soviet state supported as a powerful propaganda tool. They provided inventive and graphic costumes and sets for Moscow Chamber Theater productions by George Bernard Shaw, Eugene O’Neill, and Bertolt Brecht. For one production, the Stenbergs included the names of the characters running down the sides of their costumes. \nWhen the Stenberg brothers turned their attention to film posters, they were influenced by the innovations of Russian and Eastern European designers such as Alexander Rodchenko and László Moholy-Nagy, who had incorporated the technique of photomontage in their work. They were also influenced by the cinematic montage theories of Dziga Vertov and Sergei Eisenstein. The Stenbergs, however, did not use photomontage in the conventional way, in which photographs were transposed onto the lithographic plate and then printed. Instead, they projected photographic images with a special projector they invented; this enabled them to enlarge and distort images and turn them in any direction. This device allowed for greater creativity in achieving unusual compositions of fractured, isolated images of different scales and perspectives.\nDuring their career as poster designers—from 1923 through 1933, when Georgii died in a motorcycle accident—the Stenbergs produced over 50 posters, most of which look as fresh today as they must have appeared at the time. The Stenberg brothers have influenced a range of contemporary graphic designers, from the whole Swiss typography movement, Josef Müller-Brockman, Armin Hofmann, April Greiman, and Dan Friedman, to Saul Bass and Paula Scher. \nThis poster was designed for the 1928 Moscow debut of the 1927 German silent film, Die Symphonie der Grossstadt (Symphony of a Metropolis), directed by Walter Ruttmann and written by Ruttman with Carl Mayer and Karl Freund. The film comprises a series of short segments, analogous to photomontage clips, showing a day in the life of Berlin, from early morning to midnight, as seen through the eye of the camera. The Stenbergs based their Soviet film poster on a photomontage by Otto Umbehr (Umbo) one of the designers who had been commissioned by Ruttmann to make photomontages as publicity images for the German movie. Umbo based his montage on the book, The Raging Reporter, by the Czech journalist Egon Kisch, in which Kisch describes scenes in his life as a reporter. Umbo’s photomontage shows Kisch as “Communication Man” striding over the city of Berlin. One eye takes the form of a film camera, while the ears are replaced by two horns, one taking in the sound of the city, the other communicating out to the world. Kisch’s thorax is composed of a typewriter on which he is typing with one hand, while the other assumes the form of a fountain pen; his legs are shown as an airplane and a car. \nThe Stenbergs most probably saw Umbo’s photomontage in the publicity material for the German film or else via the avant-garde network. They brilliantly expropriated the most significant “body parts” from the photomontage to express their figure. They cropped and enlarged these elements to fill most of the poster and set them against a flattened and tilted skyscraper to convey a feeling of movement—the movement of the motion picture and the reporter as well as the movement of the city and the airplane at the lower right (a legacy of the original photomontage). Beneath these metaphorical images, on an opposing, balancing diagonal, the movie title appears in a simple sans serif font, Simpfonia Bolshogo Goroda. The other credits run sideways, parallel to the multistoried building, integrating the text into the total composition. The finished work is a stunning and radical piece of graphic design evoking the life and movement of modern Berlin—one that presumably lured people into the cinema.\nDocumenting the history of 20th-century graphic design through the poster is a collection priority. This would be the first Stenberg poster to enter the collection.", 
+        "media_id": "35385163", 
+        "description": "This Soviet film poster for the German 1927 movie \"Die Symphonie der Grossstadt\" [\"Symphony of a Metropolis\"], depicts a mechanical man composed of a head with a movie camera for one eye, a watch on his neck, with one arm typing on a typewriter and the other arm in the form of a pen.  This figure is placed in front of a flat and tilted skyscraper.  The title of the film, in red, runs diagonally along the lower edge while the movie credits in white parallel the diagonal building.", 
+        "creditline": "Museum purchase from Drawings and Prints Council and General Acquisitions Endowment Funds", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "1928", 
+        "url": "https://collection.cooperhewitt.org/objects/18714041/", 
+        "type": "poster", 
+        "accession_number": "2008-1-1", 
+        "year_end": 1928, 
+        "signed": null, 
+        "inscribed": null, 
+        "period_id": null, 
+        "year_acquired": "2008", 
+        "woe:country_id": "23424936"
+    }
+}

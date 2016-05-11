@@ -1,0 +1,126 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": 1992, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": "lithograph on paper", 
+        "tms:id": "200489", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/81520_ac3262052dd6fd0b_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "81520"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/81520_ac3262052dd6fd0b_b.jpg", 
+                    "width": 1024, 
+                    "height": 403, 
+                    "is_primary": "1", 
+                    "image_id": "81520"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/81520_ac3262052dd6fd0b_d.gif", 
+                    "width": 320, 
+                    "height": 126, 
+                    "is_primary": "1", 
+                    "image_id": "81520"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/81520_ac3262052dd6fd0b_z.jpg", 
+                    "width": 640, 
+                    "height": 252, 
+                    "is_primary": "1", 
+                    "image_id": "81520"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/81520_ac3262052dd6fd0b_n.jpg", 
+                    "width": 320, 
+                    "height": 126, 
+                    "is_primary": "1", 
+                    "image_id": "81520"
+                }
+            }, 
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/268490_fb7884c493d10a8f_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "0", 
+                    "image_id": "268490"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/268490_fb7884c493d10a8f_b.jpg", 
+                    "width": 1024, 
+                    "height": 420, 
+                    "is_primary": "0", 
+                    "image_id": "268490"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/268490_fb7884c493d10a8f_d.gif", 
+                    "width": 320, 
+                    "height": 131, 
+                    "is_primary": "0", 
+                    "image_id": "268490"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/268490_fb7884c493d10a8f_z.jpg", 
+                    "width": 640, 
+                    "height": 262, 
+                    "is_primary": "0", 
+                    "image_id": "268490"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/268490_fb7884c493d10a8f_n.jpg", 
+                    "width": 320, 
+                    "height": 131, 
+                    "is_primary": "0", 
+                    "image_id": "268490"
+                }
+            }
+        ], 
+        "id": "18651101", 
+        "has_no_known_copyright": null, 
+        "woe:country_name": "United States", 
+        "dimensions": "27.9 x 70.6 cm (11 in. x 27 13/16 in.)", 
+        "title": "Poster, La Decision V, 1992–93", 
+        "provenance": "1995: acquired by Museum", 
+        "participants": [], 
+        "decade": "1990", 
+        "label_text": null, 
+        "woe:country": "23424977", 
+        "dimensions_raw": {
+            "width": [
+                "70.60", 
+                "centimeters"
+            ], 
+            "height": [
+                "27.90", 
+                "centimeters"
+            ]
+        }, 
+        "department_id": "35347493", 
+        "title_raw": "La Decision V", 
+        "justification": null, 
+        "media_id": "35419317", 
+        "description": "Comic book-style poster dealing with AIDS.", 
+        "creditline": "Gift of the Department of Health, City of New York", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "1992–93", 
+        "url": "https://collection.cooperhewitt.org/objects/18651101/", 
+        "type": "poster", 
+        "accession_number": "1995-32-7", 
+        "year_end": 1993, 
+        "signed": null, 
+        "inscribed": null, 
+        "period_id": null, 
+        "year_acquired": "1995", 
+        "woe:country_id": "23424977"
+    }
+}

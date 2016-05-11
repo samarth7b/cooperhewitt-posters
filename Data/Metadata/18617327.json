@@ -1,0 +1,101 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": null, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": null, 
+        "tms:id": "177196", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/268596_238d57f95cdd372c_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "268596"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/268596_238d57f95cdd372c_b.jpg", 
+                    "width": 1024, 
+                    "height": 741, 
+                    "is_primary": "1", 
+                    "image_id": "268596"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/268596_238d57f95cdd372c_d.gif", 
+                    "width": 320, 
+                    "height": 232, 
+                    "is_primary": "1", 
+                    "image_id": "268596"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/268596_238d57f95cdd372c_z.jpg", 
+                    "width": 640, 
+                    "height": 463, 
+                    "is_primary": "1", 
+                    "image_id": "268596"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/268596_238d57f95cdd372c_n.jpg", 
+                    "width": 320, 
+                    "height": 232, 
+                    "is_primary": "1", 
+                    "image_id": "268596"
+                }
+            }
+        ], 
+        "id": "18617327", 
+        "has_no_known_copyright": null, 
+        "woe:country_name": "United States", 
+        "dimensions": null, 
+        "title": "Poster, Oliphant Paintings and Cartoons", 
+        "provenance": "1981: acquired by Museum", 
+        "participants": [
+            {
+                "person_name": "Oliphant", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236565/", 
+                "role_id": "35236565", 
+                "role_name": "Artist", 
+                "person_date": "", 
+                "role_display_name": "", 
+                "person_id": "18535855", 
+                "person_url": "https://collection.cooperhewitt.org/people/18535855/"
+            }, 
+            {
+                "person_name": "Smithsonian Institution", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236667/", 
+                "role_id": "35236667", 
+                "role_name": "Client", 
+                "person_date": "", 
+                "role_display_name": "Client:", 
+                "person_id": "18051731", 
+                "person_url": "https://collection.cooperhewitt.org/people/18051731/"
+            }
+        ], 
+        "decade": null, 
+        "label_text": null, 
+        "woe:country": "23424977", 
+        "dimensions_raw": null, 
+        "department_id": "35347493", 
+        "title_raw": "Oliphant Paintings and Cartoons", 
+        "justification": null, 
+        "media_id": "35371135", 
+        "description": null, 
+        "creditline": "Gift of Various Donors", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": null, 
+        "url": "https://collection.cooperhewitt.org/objects/18617327/", 
+        "type": "poster", 
+        "accession_number": "1981-29-132", 
+        "year_end": null, 
+        "signed": null, 
+        "inscribed": null, 
+        "period_id": null, 
+        "year_acquired": "1981", 
+        "woe:country_id": "23424977"
+    }
+}

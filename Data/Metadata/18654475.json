@@ -1,0 +1,120 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": 1994, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": "lithograph on paper", 
+        "tms:id": "202198", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/254558_229dbd86e192d496_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "0", 
+                    "image_id": "254558"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/254558_229dbd86e192d496_b.jpg", 
+                    "width": 729, 
+                    "height": 1024, 
+                    "is_primary": "0", 
+                    "image_id": "254558"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/254558_229dbd86e192d496_d.gif", 
+                    "width": 228, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "254558"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/254558_229dbd86e192d496_z.jpg", 
+                    "width": 456, 
+                    "height": 640, 
+                    "is_primary": "0", 
+                    "image_id": "254558"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/254558_229dbd86e192d496_n.jpg", 
+                    "width": 228, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "254558"
+                }
+            }
+        ], 
+        "id": "18654475", 
+        "has_no_known_copyright": null, 
+        "woe:country_name": "United States", 
+        "dimensions": "94 × 66.2 cm (37 in. × 26 1/16 in.)", 
+        "title": "Poster, Knoll Parachute Landing Spring 1994, 1994", 
+        "provenance": "1996: acquired by Museum", 
+        "participants": [
+            {
+                "person_name": "Knoll Textiles", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35351535/", 
+                "role_id": "35351535", 
+                "role_name": "Donor", 
+                "person_date": "New York, New York, USA, founded 1947", 
+                "role_display_name": "Donated by", 
+                "person_id": "18041409", 
+                "person_url": "https://collection.cooperhewitt.org/people/18041409/"
+            }, 
+            {
+                "person_name": "Knoll Textiles", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236675/", 
+                "role_id": "35236675", 
+                "role_name": "For", 
+                "person_date": "New York, New York, USA, founded 1947", 
+                "role_display_name": "Made for", 
+                "person_id": "18041409", 
+                "person_url": "https://collection.cooperhewitt.org/people/18041409/"
+            }, 
+            {
+                "person_name": "Chermayeff & Geismar Associates", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "New York, New York, USA", 
+                "role_display_name": "Designed by", 
+                "person_id": "18053275", 
+                "person_url": "https://collection.cooperhewitt.org/people/18053275/"
+            }
+        ], 
+        "decade": "1990", 
+        "label_text": null, 
+        "woe:country": "23424977", 
+        "dimensions_raw": {
+            "width": [
+                "66.20", 
+                "centimeters"
+            ], 
+            "height": [
+                "94.00", 
+                "centimeters"
+            ]
+        }, 
+        "department_id": "35347493", 
+        "title_raw": "Knoll Parachute Landing Spring 1994", 
+        "justification": null, 
+        "media_id": "35419317", 
+        "description": "Poster featuring a sky with clouds as background with a parachute in the upper right corner; colored lines all around. Text in black: Knoll Parachute.", 
+        "creditline": "Gift of The Knoll Group", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "1994", 
+        "url": "https://collection.cooperhewitt.org/objects/18654475/", 
+        "type": "poster", 
+        "accession_number": "1996-98-1", 
+        "year_end": 1994, 
+        "signed": null, 
+        "inscribed": null, 
+        "period_id": null, 
+        "year_acquired": "1996", 
+        "woe:country_id": "23424977"
+    }
+}

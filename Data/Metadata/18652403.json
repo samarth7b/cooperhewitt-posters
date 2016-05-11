@@ -1,0 +1,156 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": 1990, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": "screenprint on wove paper", 
+        "tms:id": "201145", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/81526_36f8f23a2bd1ea53_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "81526"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/81526_36f8f23a2bd1ea53_b.jpg", 
+                    "width": 722, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "81526"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/81526_36f8f23a2bd1ea53_d.gif", 
+                    "width": 226, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "81526"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/81526_36f8f23a2bd1ea53_z.jpg", 
+                    "width": 451, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "81526"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/81526_36f8f23a2bd1ea53_n.jpg", 
+                    "width": 226, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "81526"
+                }
+            }, 
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/268476_4c3682c5ef7e9557_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "0", 
+                    "image_id": "268476"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/268476_4c3682c5ef7e9557_b.jpg", 
+                    "width": 742, 
+                    "height": 1024, 
+                    "is_primary": "0", 
+                    "image_id": "268476"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/268476_4c3682c5ef7e9557_d.gif", 
+                    "width": 232, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "268476"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/268476_4c3682c5ef7e9557_z.jpg", 
+                    "width": 463, 
+                    "height": 640, 
+                    "is_primary": "0", 
+                    "image_id": "268476"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/268476_4c3682c5ef7e9557_n.jpg", 
+                    "width": 232, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "268476"
+                }
+            }
+        ], 
+        "id": "18652403", 
+        "has_no_known_copyright": null, 
+        "dimensions": "84.1 x 59.3 cm (33 1/8 x 23 3/8 in.)", 
+        "title": "Poster, Imagenes Contra El Sida, ca. 1995", 
+        "provenance": "1995: acquired by Museum", 
+        "participants": [
+            {
+                "person_name": "Imagenes Contra El Sida", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35352249/", 
+                "role_id": "35352249", 
+                "role_name": "Vendor", 
+                "person_date": "", 
+                "role_display_name": "Purchased from", 
+                "person_id": "18041725", 
+                "person_url": "https://collection.cooperhewitt.org/people/18041725/"
+            }, 
+            {
+                "person_name": "General Exhibitions Funds", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35352247/", 
+                "role_id": "35352247", 
+                "role_name": "Fund", 
+                "person_date": "", 
+                "role_display_name": "Fund:", 
+                "person_id": "18049091", 
+                "person_url": "https://collection.cooperhewitt.org/people/18049091/"
+            }, 
+            {
+                "person_name": "Pedro Torrent", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "Spanish, born 1945", 
+                "role_display_name": "Designed by", 
+                "person_id": "18049089", 
+                "person_url": "https://collection.cooperhewitt.org/people/18049089/"
+            }
+        ], 
+        "decade": "1990", 
+        "label_text": null, 
+        "woe:country": null, 
+        "dimensions_raw": {
+            "width": [
+                "59.30", 
+                "centimeters"
+            ], 
+            "height": [
+                "84.10", 
+                "centimeters"
+            ]
+        }, 
+        "department_id": "35347493", 
+        "title_raw": "Imagenes Contra El Sida", 
+        "justification": null, 
+        "media_id": "35399029", 
+        "description": "On a bright red ground, a black and white drawn flame on a horizontal plane. Text on right side in black the title: imagenes contra el sida; column of white text: list of names.", 
+        "creditline": "Museum purchase from General Exhibitions Funds", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "ca. 1995", 
+        "url": "https://collection.cooperhewitt.org/objects/18652403/", 
+        "type": "poster", 
+        "accession_number": "1995-86-1", 
+        "year_end": 1995, 
+        "signed": "Printed in black ink, lower left: peret", 
+        "inscribed": null, 
+        "period_id": null, 
+        "year_acquired": "1995", 
+        "woe:country_id": null
+    }
+}

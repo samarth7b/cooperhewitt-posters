@@ -1,0 +1,100 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": null, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": null, 
+        "tms:id": "177657", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/200484_673affd201c93fda_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "200484"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/200484_673affd201c93fda_b.jpg", 
+                    "width": 820, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "200484"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/200484_673affd201c93fda_d.gif", 
+                    "width": 256, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "200484"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/200484_673affd201c93fda_z.jpg", 
+                    "width": 512, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "200484"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/200484_673affd201c93fda_n.jpg", 
+                    "width": 256, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "200484"
+                }
+            }
+        ], 
+        "id": "18618247", 
+        "has_no_known_copyright": null, 
+        "woe:country_name": "United States", 
+        "dimensions": "Overall: 55.1 x 42.7 cm (21 11/16 x 16 13/16 in.)", 
+        "title": "Poster, Post Office", 
+        "provenance": "1981: acquired by Museum", 
+        "participants": [
+            {
+                "person_name": "Jane Bonsack", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "", 
+                "role_display_name": "Designed by", 
+                "person_id": "18042455", 
+                "person_url": "https://collection.cooperhewitt.org/people/18042455/"
+            }
+        ], 
+        "decade": null, 
+        "label_text": null, 
+        "woe:country": "23424977", 
+        "dimensions_raw": {
+            "width": [
+                "42.70", 
+                "centimeters"
+            ], 
+            "height": [
+                "55.10", 
+                "centimeters"
+            ]
+        }, 
+        "department_id": "35347493", 
+        "title_raw": "Post Office", 
+        "justification": null, 
+        "media_id": "35371135", 
+        "description": null, 
+        "creditline": "Gift of Various Donors", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": null, 
+        "url": "https://collection.cooperhewitt.org/objects/18618247/", 
+        "type": "poster", 
+        "accession_number": "1981-29-81", 
+        "year_end": null, 
+        "signed": null, 
+        "inscribed": null, 
+        "period_id": null, 
+        "year_acquired": "1981", 
+        "woe:country_id": "23424977"
+    }
+}

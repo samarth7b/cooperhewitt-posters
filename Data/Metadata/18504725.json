@@ -1,0 +1,79 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": null, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": null, 
+        "tms:id": "163266", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/269842_039014c1cafd5646_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "269842"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/269842_039014c1cafd5646_b.jpg", 
+                    "width": 687, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "269842"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/269842_039014c1cafd5646_d.gif", 
+                    "width": 215, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "269842"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/269842_039014c1cafd5646_z.jpg", 
+                    "width": 429, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "269842"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/269842_039014c1cafd5646_n.jpg", 
+                    "width": 215, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "269842"
+                }
+            }
+        ], 
+        "id": "18504725", 
+        "has_no_known_copyright": null, 
+        "dimensions": null, 
+        "title": "Poster, Great Sports Events (Mobil)", 
+        "provenance": null, 
+        "participants": [], 
+        "decade": null, 
+        "label_text": null, 
+        "woe:country": null, 
+        "dimensions_raw": null, 
+        "department_id": "35347493", 
+        "title_raw": "Great Sports Events (Mobil)", 
+        "justification": null, 
+        "media_id": "35371135", 
+        "description": null, 
+        "creditline": "Gift of Unknown Donor", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": null, 
+        "url": "https://collection.cooperhewitt.org/objects/18504725/", 
+        "type": "poster", 
+        "accession_number": "1980-32-1003", 
+        "year_end": null, 
+        "signed": null, 
+        "inscribed": null, 
+        "period_id": null, 
+        "year_acquired": "1980", 
+        "woe:country_id": null
+    }
+}

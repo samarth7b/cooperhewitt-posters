@@ -1,0 +1,137 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": null, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": "lithograph on paper", 
+        "tms:id": "177413", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/90456_28f2ffc5c7a09210_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "90456"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/90456_28f2ffc5c7a09210_b.jpg", 
+                    "width": 1024, 
+                    "height": 791, 
+                    "is_primary": "1", 
+                    "image_id": "90456"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/90456_28f2ffc5c7a09210_d.gif", 
+                    "width": 320, 
+                    "height": 247, 
+                    "is_primary": "1", 
+                    "image_id": "90456"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/90456_28f2ffc5c7a09210_z.jpg", 
+                    "width": 640, 
+                    "height": 494, 
+                    "is_primary": "1", 
+                    "image_id": "90456"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/90456_28f2ffc5c7a09210_n.jpg", 
+                    "width": 320, 
+                    "height": 247, 
+                    "is_primary": "1", 
+                    "image_id": "90456"
+                }
+            }, 
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/206213_ad2461777452e147_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "0", 
+                    "image_id": "206213"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/206213_ad2461777452e147_b.jpg", 
+                    "width": 1024, 
+                    "height": 793, 
+                    "is_primary": "0", 
+                    "image_id": "206213"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/206213_ad2461777452e147_d.gif", 
+                    "width": 320, 
+                    "height": 248, 
+                    "is_primary": "0", 
+                    "image_id": "206213"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/206213_ad2461777452e147_z.jpg", 
+                    "width": 640, 
+                    "height": 495, 
+                    "is_primary": "0", 
+                    "image_id": "206213"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/206213_ad2461777452e147_n.jpg", 
+                    "width": 320, 
+                    "height": 248, 
+                    "is_primary": "0", 
+                    "image_id": "206213"
+                }
+            }
+        ], 
+        "id": "18617761", 
+        "has_no_known_copyright": null, 
+        "woe:country_name": "United States", 
+        "dimensions": "60.8 x 47 cm (23 15/16 x 18 1/2 in.)", 
+        "title": "Poster, The Great American Forest", 
+        "provenance": "1981: acquired by Museum", 
+        "participants": [
+            {
+                "person_name": "David Strong", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "", 
+                "role_display_name": "Designed by", 
+                "person_id": "18056989", 
+                "person_url": "https://collection.cooperhewitt.org/people/18056989/"
+            }
+        ], 
+        "decade": null, 
+        "label_text": null, 
+        "woe:country": "23424977", 
+        "dimensions_raw": {
+            "width": [
+                "47.00", 
+                "centimeters"
+            ], 
+            "height": [
+                "60.80", 
+                "centimeters"
+            ]
+        }, 
+        "department_id": "35347493", 
+        "title_raw": "The Great American Forest", 
+        "justification": null, 
+        "media_id": "35419317", 
+        "description": "Photograph of a semi-truck with the container labeled: The Great American Forest. From the container a stairs with a bearded man holding a shepherd’s staff and one arm up (Noah-like); silhouettes of two birds, two deer, and two bears approaching the stairs. All this framed with green border.", 
+        "creditline": "Gift of Various Donors", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": null, 
+        "url": "https://collection.cooperhewitt.org/objects/18617761/", 
+        "type": "poster", 
+        "accession_number": "1981-29-325", 
+        "year_end": null, 
+        "signed": null, 
+        "inscribed": null, 
+        "period_id": null, 
+        "year_acquired": "1981", 
+        "woe:country_id": "23424977"
+    }
+}

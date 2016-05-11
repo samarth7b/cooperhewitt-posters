@@ -1,0 +1,157 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": null, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": "lithograph on paper", 
+        "tms:id": "177184", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/90287_28e4c56a306c8997_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "90287"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/90287_28e4c56a306c8997_b.jpg", 
+                    "width": 717, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "90287"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/90287_28e4c56a306c8997_d.gif", 
+                    "width": 224, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "90287"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/90287_28e4c56a306c8997_z.jpg", 
+                    "width": 448, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "90287"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/90287_28e4c56a306c8997_n.jpg", 
+                    "width": 224, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "90287"
+                }
+            }, 
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/206294_35391cac00e7b4d3_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "0", 
+                    "image_id": "206294"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/206294_35391cac00e7b4d3_b.jpg", 
+                    "width": 730, 
+                    "height": 1024, 
+                    "is_primary": "0", 
+                    "image_id": "206294"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/206294_35391cac00e7b4d3_d.gif", 
+                    "width": 228, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "206294"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/206294_35391cac00e7b4d3_z.jpg", 
+                    "width": 456, 
+                    "height": 640, 
+                    "is_primary": "0", 
+                    "image_id": "206294"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/206294_35391cac00e7b4d3_n.jpg", 
+                    "width": 228, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "206294"
+                }
+            }
+        ], 
+        "id": "18617303", 
+        "has_no_known_copyright": null, 
+        "woe:country_name": "United States", 
+        "dimensions": "49 x 34.2 cm (19 5/16 x 13 7/16 in.)", 
+        "title": "Poster, Books Take You Away", 
+        "provenance": "1981: acquired by Museum", 
+        "participants": [
+            {
+                "person_name": "Isadore Seltzer", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236601/", 
+                "role_id": "35236601", 
+                "role_name": "Illustrator", 
+                "person_date": "American, b. 1930", 
+                "role_display_name": "Illustrated by", 
+                "person_id": "18052529", 
+                "person_url": "https://collection.cooperhewitt.org/people/18052529/"
+            }, 
+            {
+                "person_name": "Andrew Kner", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "Hungarian, born 1935", 
+                "role_display_name": "Designed by", 
+                "person_id": "18056973", 
+                "person_url": "https://collection.cooperhewitt.org/people/18056973/"
+            }, 
+            {
+                "person_name": "Andrew Kner", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236787/", 
+                "role_id": "35236787", 
+                "role_name": "Art Director", 
+                "person_date": "Hungarian, born 1935", 
+                "role_display_name": "Art Director:", 
+                "person_id": "18056973", 
+                "person_url": "https://collection.cooperhewitt.org/people/18056973/"
+            }
+        ], 
+        "decade": null, 
+        "label_text": null, 
+        "woe:country": "23424977", 
+        "dimensions_raw": {
+            "width": [
+                "34.20", 
+                "centimeters"
+            ], 
+            "height": [
+                "49.00", 
+                "centimeters"
+            ]
+        }, 
+        "department_id": "35347493", 
+        "title_raw": "Books Take You Away", 
+        "justification": null, 
+        "media_id": "35419317", 
+        "description": "Cartoon of a landscape with a long path upon which roll books on wheels. At the top in white: Books take you away.", 
+        "creditline": "Gift of Various Donors", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": null, 
+        "url": "https://collection.cooperhewitt.org/objects/18617303/", 
+        "type": "poster", 
+        "accession_number": "1981-29-121", 
+        "year_end": null, 
+        "signed": "Imprinted (signed) in black, lower right: Isadore Seltzer", 
+        "inscribed": "Imprinted in black, lower right: Prepared by The New York Times", 
+        "period_id": null, 
+        "year_acquired": "1981", 
+        "woe:country_id": "23424977"
+    }
+}

@@ -1,0 +1,120 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": "Andrzej Pagowski’s illustration subtly depicts the premise behind director Roman Polanski’s psychological horror film.  The poster only hints at what sinister events may occur: the blown-up image of a woman’s hand holding a small grotesque claw is hand-drawn, with expressive sketch lines, in bright colors with a bold outline. Much is left to the viewer to decipher. Polish posters do not often “advertise” what they depict (in a Western sense) and instead provide space for consumers to draw their own conclusions.", 
+        "year_start": 1984, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": "offset lithograph", 
+        "tms:id": "255406", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/46889_66e04c6fdc6eccee_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "46889"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/46889_66e04c6fdc6eccee_b.jpg", 
+                    "width": 716, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "46889"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/46889_66e04c6fdc6eccee_d.gif", 
+                    "width": 224, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "46889"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/46889_66e04c6fdc6eccee_z.jpg", 
+                    "width": 448, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "46889"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/46889_66e04c6fdc6eccee_n.jpg", 
+                    "width": 224, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "46889"
+                }
+            }
+        ], 
+        "id": "18758243", 
+        "has_no_known_copyright": null, 
+        "woe:country_name": "Poland", 
+        "dimensions": "95.6 × 67.2 cm (37 5/8 × 26 7/16 in.)", 
+        "title": "Poster, Dziecko Rosemary [Rosemary's Baby], 1984", 
+        "provenance": "Acquired from dealers, galleries and auction houses by Marc Benda.  Remained with Benda until 2010, when gifted to CHNDM.", 
+        "participants": [
+            {
+                "person_name": "Andrzej Pagowski", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "Polish, b. 1953", 
+                "role_display_name": "Designed by", 
+                "person_id": "18063497", 
+                "person_url": "https://collection.cooperhewitt.org/people/18063497/"
+            }, 
+            {
+                "person_name": "Marc Benda", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35351535/", 
+                "role_id": "35351535", 
+                "role_name": "Donor", 
+                "person_date": "", 
+                "role_display_name": "Donated by", 
+                "person_id": "18062523", 
+                "person_url": "https://collection.cooperhewitt.org/people/18062523/"
+            }, 
+            {
+                "person_name": "Sara Benda", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35351535/", 
+                "role_id": "35351535", 
+                "role_name": "Donor", 
+                "person_date": "", 
+                "role_display_name": "Donated by", 
+                "person_id": "18063205", 
+                "person_url": "https://collection.cooperhewitt.org/people/18063205/"
+            }
+        ], 
+        "decade": "1980", 
+        "label_text": "Pagowksi designed this poster for the Polish distribution of Roman Polanski’s legendary 1968 horror film, Rosemary’s Baby (based on the novel by Ira Levin). This moment of intimacy between Rosemary and her demon child is only ever implied in the film.", 
+        "woe:country": "23424923", 
+        "dimensions_raw": {
+            "width": [
+                "67.00", 
+                "centimeters"
+            ], 
+            "height": [
+                "95.30", 
+                "centimeters"
+            ]
+        }, 
+        "department_id": "35347493", 
+        "title_raw": "Dziecko Rosemary [Rosemary's Baby]", 
+        "justification": null, 
+        "media_id": "35399027", 
+        "description": "On black background, diagonally oriented, the pink hand of a woman with bright red fingernails, extending an index finger to a clutching infant's hand covered in hair and with sharp green fingernails. Below, the inscription in white hand-printed letters: \"film produkcji americanskiej \"Rosemary's Baby\" / DZIECKO ROSEMARY\" and followed by further credits in smaller type.", 
+        "creditline": "Gift of Sara and Marc Benda", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "1984", 
+        "url": "https://collection.cooperhewitt.org/objects/18758243/", 
+        "type": "poster", 
+        "accession_number": "2010-21-20", 
+        "year_end": 1984, 
+        "signed": null, 
+        "inscribed": null, 
+        "period_id": null, 
+        "year_acquired": "2010", 
+        "woe:country_id": "23424923"
+    }
+}

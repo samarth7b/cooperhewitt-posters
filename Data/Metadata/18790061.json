@@ -1,0 +1,79 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": 1979, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": null, 
+        "tms:id": "271345", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/268513_ace58e89ea0f978f_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "268513"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/268513_ace58e89ea0f978f_b.jpg", 
+                    "width": 631, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "268513"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/268513_ace58e89ea0f978f_d.gif", 
+                    "width": 197, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "268513"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/268513_ace58e89ea0f978f_z.jpg", 
+                    "width": 394, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "268513"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/268513_ace58e89ea0f978f_n.jpg", 
+                    "width": 197, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "268513"
+                }
+            }
+        ], 
+        "id": "18790061", 
+        "has_no_known_copyright": null, 
+        "dimensions": null, 
+        "title": "Poster, Kuan Chang, \"Japan Today\", 1979", 
+        "provenance": null, 
+        "participants": [], 
+        "decade": "1970", 
+        "label_text": null, 
+        "woe:country": null, 
+        "dimensions_raw": null, 
+        "department_id": "35347493", 
+        "title_raw": "Kuan Chang, \"Japan Today\"", 
+        "justification": null, 
+        "media_id": "35371135", 
+        "description": "Japan Today", 
+        "creditline": null, 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "1979", 
+        "url": "https://collection.cooperhewitt.org/objects/18790061/", 
+        "type": "poster", 
+        "accession_number": "1980-32-1090", 
+        "year_end": 1979, 
+        "signed": null, 
+        "inscribed": null, 
+        "period_id": null, 
+        "year_acquired": "1980", 
+        "woe:country_id": null
+    }
+}

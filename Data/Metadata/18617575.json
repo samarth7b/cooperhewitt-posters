@@ -1,0 +1,137 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": 1980, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": "offset lithograph on paper", 
+        "tms:id": "177320", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/64035_e7bc134cb75dbcec_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "64035"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/64035_e7bc134cb75dbcec_b.jpg", 
+                    "width": 736, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "64035"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/64035_e7bc134cb75dbcec_d.gif", 
+                    "width": 230, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "64035"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/64035_e7bc134cb75dbcec_z.jpg", 
+                    "width": 460, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "64035"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/64035_e7bc134cb75dbcec_n.jpg", 
+                    "width": 230, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "64035"
+                }
+            }, 
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/203440_df0c2334b4d8e8e9_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "0", 
+                    "image_id": "203440"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/203440_df0c2334b4d8e8e9_b.jpg", 
+                    "width": 741, 
+                    "height": 1024, 
+                    "is_primary": "0", 
+                    "image_id": "203440"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/203440_df0c2334b4d8e8e9_d.gif", 
+                    "width": 232, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "203440"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/203440_df0c2334b4d8e8e9_z.jpg", 
+                    "width": 463, 
+                    "height": 640, 
+                    "is_primary": "0", 
+                    "image_id": "203440"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/203440_df0c2334b4d8e8e9_n.jpg", 
+                    "width": 232, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "203440"
+                }
+            }
+        ], 
+        "id": "18617575", 
+        "has_no_known_copyright": null, 
+        "woe:country_name": "United States", 
+        "dimensions": "71.2 x 50.9 cm (28 1/16 x 20 1/16 in.)", 
+        "title": "Poster, Festa, 1980", 
+        "provenance": "1981: acquired by Museum", 
+        "participants": [
+            {
+                "person_name": "William Wondriska", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "American, b. 1931", 
+                "role_display_name": "Designed by", 
+                "person_id": "34624575", 
+                "person_url": "https://collection.cooperhewitt.org/people/34624575/"
+            }
+        ], 
+        "decade": "1980", 
+        "label_text": null, 
+        "woe:country": "23424977", 
+        "dimensions_raw": {
+            "width": [
+                "50.90", 
+                "centimeters"
+            ], 
+            "height": [
+                "71.20", 
+                "centimeters"
+            ]
+        }, 
+        "department_id": "35347493", 
+        "title_raw": "Festa", 
+        "justification": null, 
+        "media_id": "35399021", 
+        "description": "Poster depicts a rectangle filled with several abstracted shapes in various colors. Above, in gray: FESTA; below, in black: Franklin Avenue / Festival Association / Presents; The 3rd Annual / FESTA ITALIAN ’80.; Franklin Avenue, / Harford, Connecticut; September 5, 6 & 7, 1980.", 
+        "creditline": "Gift of Various Donors", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "1980", 
+        "url": "https://collection.cooperhewitt.org/objects/18617575/", 
+        "type": "poster", 
+        "accession_number": "1981-29-243", 
+        "year_end": 1980, 
+        "signed": "Signed in black ink, lower right: Wondriska 1980", 
+        "inscribed": null, 
+        "period_id": null, 
+        "year_acquired": "1981", 
+        "woe:country_id": "23424977"
+    }
+}

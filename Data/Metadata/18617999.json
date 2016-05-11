@@ -1,0 +1,147 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": 1973, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": "screenprint on paper", 
+        "tms:id": "177533", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/90300_500a045129028ad4_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "90300"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/90300_500a045129028ad4_b.jpg", 
+                    "width": 735, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "90300"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/90300_500a045129028ad4_d.gif", 
+                    "width": 230, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "90300"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/90300_500a045129028ad4_z.jpg", 
+                    "width": 459, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "90300"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/90300_500a045129028ad4_n.jpg", 
+                    "width": 230, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "90300"
+                }
+            }, 
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/206894_76b9e60e6c5f390f_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "0", 
+                    "image_id": "206894"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/206894_76b9e60e6c5f390f_b.jpg", 
+                    "width": 744, 
+                    "height": 1024, 
+                    "is_primary": "0", 
+                    "image_id": "206894"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/206894_76b9e60e6c5f390f_d.gif", 
+                    "width": 233, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "206894"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/206894_76b9e60e6c5f390f_z.jpg", 
+                    "width": 465, 
+                    "height": 640, 
+                    "is_primary": "0", 
+                    "image_id": "206894"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/206894_76b9e60e6c5f390f_n.jpg", 
+                    "width": 233, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "206894"
+                }
+            }
+        ], 
+        "id": "18617999", 
+        "has_no_known_copyright": null, 
+        "woe:country_name": "United States", 
+        "dimensions": "53 x 38.1 cm (20 7/8 in. x 15 in.)", 
+        "title": "Poster, IBM / The shell must break before the bird can fly, 1973", 
+        "provenance": "1981: acquired by Museum", 
+        "participants": [
+            {
+                "person_name": "IBM", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236667/", 
+                "role_id": "35236667", 
+                "role_name": "Client", 
+                "person_date": "USA", 
+                "role_display_name": "Client:", 
+                "person_id": "18041871", 
+                "person_url": "https://collection.cooperhewitt.org/people/18041871/"
+            }, 
+            {
+                "person_name": "Ken White", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "American, 1935-1985", 
+                "role_display_name": "Designed by", 
+                "person_id": "18042357", 
+                "person_url": "https://collection.cooperhewitt.org/people/18042357/"
+            }
+        ], 
+        "decade": "1970", 
+        "label_text": null, 
+        "woe:country": "23424977", 
+        "dimensions_raw": {
+            "width": [
+                "38.10", 
+                "centimeters"
+            ], 
+            "height": [
+                "53.00", 
+                "centimeters"
+            ]
+        }, 
+        "department_id": "35347493", 
+        "title_raw": "IBM / The shell must break before the bird can fly", 
+        "justification": null, 
+        "media_id": "35431679", 
+        "description": "Poster in blue and green with white circle; shadows of flying birds in the blue area. Text in green area below: The / shell / must / break / before / the / bird / can / fly. / Tennyson. Lower left IBM logo; lower center: Management Development 1973.", 
+        "creditline": "Gift of Various Donors", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "1973", 
+        "url": "https://collection.cooperhewitt.org/objects/18617999/", 
+        "type": "poster", 
+        "accession_number": "1981-29-432", 
+        "year_end": 1973, 
+        "signed": null, 
+        "inscribed": null, 
+        "period_id": null, 
+        "year_acquired": "1981", 
+        "woe:country_id": "23424977"
+    }
+}

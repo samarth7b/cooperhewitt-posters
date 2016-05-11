@@ -1,0 +1,90 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": null, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": null, 
+        "tms:id": "163240", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/268843_0a91a7935238de1f_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "268843"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/268843_0a91a7935238de1f_b.jpg", 
+                    "width": 707, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "268843"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/268843_0a91a7935238de1f_d.gif", 
+                    "width": 221, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "268843"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/268843_0a91a7935238de1f_z.jpg", 
+                    "width": 442, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "268843"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/268843_0a91a7935238de1f_n.jpg", 
+                    "width": 221, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "268843"
+                }
+            }
+        ], 
+        "id": "18504673", 
+        "has_no_known_copyright": null, 
+        "dimensions": null, 
+        "title": "Poster", 
+        "provenance": null, 
+        "participants": [
+            {
+                "person_name": "Carl F. Claus", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "", 
+                "role_display_name": "Designed by", 
+                "person_id": "18535527", 
+                "person_url": "https://collection.cooperhewitt.org/people/18535527/"
+            }
+        ], 
+        "decade": null, 
+        "label_text": null, 
+        "woe:country": null, 
+        "dimensions_raw": null, 
+        "department_id": "35347493", 
+        "title_raw": null, 
+        "justification": null, 
+        "media_id": "35371135", 
+        "description": null, 
+        "creditline": null, 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": null, 
+        "url": "https://collection.cooperhewitt.org/objects/18504673/", 
+        "type": "poster", 
+        "accession_number": "1980-27-2", 
+        "year_end": null, 
+        "signed": null, 
+        "inscribed": null, 
+        "period_id": null, 
+        "year_acquired": "1980", 
+        "woe:country_id": null
+    }
+}

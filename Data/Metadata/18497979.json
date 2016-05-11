@@ -1,0 +1,166 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": 1970, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": "offset lithograph on white wove paper", 
+        "tms:id": "159886", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/82653_cf1e18d4bd9861c4_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "82653"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/82653_cf1e18d4bd9861c4_b.jpg", 
+                    "width": 727, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "82653"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/82653_cf1e18d4bd9861c4_d.gif", 
+                    "width": 227, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "82653"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/82653_cf1e18d4bd9861c4_z.jpg", 
+                    "width": 454, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "82653"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/82653_cf1e18d4bd9861c4_n.jpg", 
+                    "width": 227, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "82653"
+                }
+            }, 
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/205056_6d9d3760758ddb55_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "0", 
+                    "image_id": "205056"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/205056_6d9d3760758ddb55_b.jpg", 
+                    "width": 694, 
+                    "height": 1024, 
+                    "is_primary": "0", 
+                    "image_id": "205056"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/205056_6d9d3760758ddb55_d.gif", 
+                    "width": 217, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "205056"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/205056_6d9d3760758ddb55_z.jpg", 
+                    "width": 433, 
+                    "height": 640, 
+                    "is_primary": "0", 
+                    "image_id": "205056"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/205056_6d9d3760758ddb55_n.jpg", 
+                    "width": 217, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "205056"
+                }
+            }
+        ], 
+        "id": "18497979", 
+        "has_no_known_copyright": null, 
+        "dimensions": "55 x 35.5 cm (21 5/8 in. x 14 in.)", 
+        "title": "Poster, Voises of East Harlem/Delaney Bonnie and Friends, 1970", 
+        "provenance": "Mr. and Mrs. Leslie J. Schreyer; 1979: acquired by Museum", 
+        "participants": [
+            {
+                "person_name": "Norman Orr", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "American, born 1949", 
+                "role_display_name": "Designed by", 
+                "person_id": "68739475", 
+                "person_url": "https://collection.cooperhewitt.org/people/68739475/"
+            }, 
+            {
+                "person_name": "Mrs. Alice Schreyer", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35351535/", 
+                "role_id": "35351535", 
+                "role_name": "Donor", 
+                "person_date": "", 
+                "role_display_name": "Donated by", 
+                "person_id": "68736623", 
+                "person_url": "https://collection.cooperhewitt.org/people/68736623/"
+            }, 
+            {
+                "person_name": "Mr. Leslie Schreyer", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35351535/", 
+                "role_id": "35351535", 
+                "role_name": "Donor", 
+                "person_date": "", 
+                "role_display_name": "Donated by", 
+                "person_id": "18058429", 
+                "person_url": "https://collection.cooperhewitt.org/people/18058429/"
+            }, 
+            {
+                "person_name": "Tea Lautrec Litho, San Francisco", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236673/", 
+                "role_id": "35236673", 
+                "role_name": "Printer", 
+                "person_date": "", 
+                "role_display_name": "Printed by", 
+                "person_id": "18056701", 
+                "person_url": "https://collection.cooperhewitt.org/people/18056701/"
+            }
+        ], 
+        "decade": "1970", 
+        "label_text": null, 
+        "woe:country": null, 
+        "dimensions_raw": {
+            "width": [
+                "35.50", 
+                "centimeters"
+            ], 
+            "height": [
+                "55.00", 
+                "centimeters"
+            ]
+        }, 
+        "department_id": "35347493", 
+        "title_raw": "Voises of East Harlem/Delaney Bonnie and Friends", 
+        "justification": null, 
+        "media_id": "35431673", 
+        "description": "Poster in black-brown and white-cream featuring religious-like image of a long-haired Jesus Christ-like figure at center. Ticket information below.", 
+        "creditline": "Gift of Mr. and Mrs. Leslie J. Schreyer", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "1970", 
+        "url": "https://collection.cooperhewitt.org/objects/18497979/", 
+        "type": "poster", 
+        "accession_number": "1979-34-18", 
+        "year_end": 1970, 
+        "signed": "Imprinted in cream, center of image: © BILL GRAHAM 1970 #262 N. ORR", 
+        "inscribed": "Imprinted in cream, center: DRAWN FROM PAINTING BY R. VON KYN", 
+        "period_id": "35435941", 
+        "year_acquired": "1979", 
+        "woe:country_id": null
+    }
+}

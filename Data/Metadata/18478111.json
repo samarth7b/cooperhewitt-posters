@@ -1,0 +1,147 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": null, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": "color lithograph in six colors: vermillion, beige, blue green, light beige, dark brownish violet and gold on heavy wove paper", 
+        "tms:id": "149865", 
+        "images": [
+            {
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/240042_4f1db8c1c50ce230_b.jpg", 
+                    "width": 442, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "240042"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/240042_4f1db8c1c50ce230_d.gif", 
+                    "width": 138, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "240042"
+                }, 
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/240042_4f1db8c1c50ce230_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "240042"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/240042_4f1db8c1c50ce230_n.jpg", 
+                    "width": 138, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "240042"
+                }, 
+                "x": {
+                    "url": "https://images.collection.cooperhewitt.org/240042_f6800738fe3c075d_x.jpg", 
+                    "width": 1765, 
+                    "height": 4096, 
+                    "is_primary": "1", 
+                    "image_id": "240042"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/240042_4f1db8c1c50ce230_z.jpg", 
+                    "width": 276, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "240042"
+                }
+            }
+        ], 
+        "id": "18478111", 
+        "has_no_known_copyright": "1", 
+        "woe:country_name": "France", 
+        "dimensions": "36.4 x 15.1cm (14 5/16 x 5 15/16in.)", 
+        "title": "Poster, Lorenzaccio, d'Alfred de Musset, 1896", 
+        "provenance": null, 
+        "participants": [
+            {
+                "person_name": "Megan L. Smith", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35352245/", 
+                "role_id": "35352245", 
+                "role_name": "Cataloguer", 
+                "person_date": "", 
+                "role_display_name": "Catalogued by", 
+                "person_id": "18047443", 
+                "person_url": "https://collection.cooperhewitt.org/people/18047443/"
+            }, 
+            {
+                "person_name": "Julian Clarence Levi (American, 1874-1971)", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35351537/", 
+                "role_id": "35351537", 
+                "role_name": "Bequestor", 
+                "person_date": "", 
+                "role_display_name": "Bequest of", 
+                "person_id": "18056787", 
+                "person_url": "https://collection.cooperhewitt.org/people/18056787/"
+            }, 
+            {
+                "person_name": "Sarah Bernhardt", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236693/", 
+                "role_id": "35236693", 
+                "role_name": "Dedicatee", 
+                "person_date": "1844 – 1923", 
+                "role_display_name": "Dedicatee:", 
+                "person_id": "18042973", 
+                "person_url": "https://collection.cooperhewitt.org/people/18042973/"
+            }, 
+            {
+                "person_name": "F. Champenois", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236661/", 
+                "role_id": "35236661", 
+                "role_name": "Publisher", 
+                "person_date": "", 
+                "role_display_name": "Published by", 
+                "person_id": "18043029", 
+                "person_url": "https://collection.cooperhewitt.org/people/18043029/"
+            }, 
+            {
+                "person_name": "Alphonse Maria Mucha", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "Czech, 1860-1939", 
+                "role_display_name": "Designed by", 
+                "person_id": "18043027", 
+                "person_url": "https://collection.cooperhewitt.org/people/18043027/"
+            }
+        ], 
+        "decade": null, 
+        "label_text": null, 
+        "woe:country": "23424819", 
+        "dimensions_raw": {
+            "width": [
+                "15.10", 
+                "centimeters"
+            ], 
+            "height": [
+                "36.40", 
+                "centimeters"
+            ]
+        }, 
+        "department_id": "35347493", 
+        "title_raw": "Lorenzaccio, d'Alfred de Musset", 
+        "justification": null, 
+        "media_id": "35379329", 
+        "description": "Reduced version of poster", 
+        "creditline": null, 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "1896", 
+        "url": "https://collection.cooperhewitt.org/objects/18478111/", 
+        "type": "poster", 
+        "accession_number": "1972-7-1", 
+        "year_end": null, 
+        "signed": null, 
+        "inscribed": null, 
+        "period_id": "35417231", 
+        "year_acquired": "1972", 
+        "woe:country_id": "23424819"
+    }
+}

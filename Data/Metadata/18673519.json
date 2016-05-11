@@ -1,0 +1,109 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": 1965, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": "offset lithograph on white wove paper", 
+        "tms:id": "212202", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/268692_9f27fb7752df452f_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "268692"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/268692_9f27fb7752df452f_b.jpg", 
+                    "width": 738, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "268692"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/268692_9f27fb7752df452f_d.gif", 
+                    "width": 231, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "268692"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/268692_9f27fb7752df452f_z.jpg", 
+                    "width": 461, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "268692"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/268692_9f27fb7752df452f_n.jpg", 
+                    "width": 231, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "268692"
+                }
+            }
+        ], 
+        "id": "18673519", 
+        "has_no_known_copyright": null, 
+        "dimensions": "83.3 x 58.4 cm (32 13/16 x 23 in. )", 
+        "title": "Poster, Alfa Romero, ca. 1975", 
+        "provenance": "From the collection of Dan Friedman", 
+        "participants": [
+            {
+                "person_name": "Ken Friedman", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35351535/", 
+                "role_id": "35351535", 
+                "role_name": "Donor", 
+                "person_date": "", 
+                "role_display_name": "Donated by", 
+                "person_id": "18049807", 
+                "person_url": "https://collection.cooperhewitt.org/people/18049807/"
+            }, 
+            {
+                "person_name": "Dan Friedman", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "American, 1945–1995", 
+                "role_display_name": "Designed by", 
+                "person_id": "18041325", 
+                "person_url": "https://collection.cooperhewitt.org/people/18041325/"
+            }
+        ], 
+        "decade": "1960", 
+        "label_text": null, 
+        "woe:country": null, 
+        "dimensions_raw": {
+            "width": [
+                "58.40", 
+                "centimeters"
+            ], 
+            "height": [
+                "83.30", 
+                "centimeters"
+            ]
+        }, 
+        "department_id": "35347493", 
+        "title_raw": "Alfa Romero", 
+        "justification": null, 
+        "media_id": "35431673", 
+        "description": "On a silver background two section views of an Alfa Romero passanger van, presented from the driver's side, and rear, in green and white lines with black numbers 1 to 15 for side view and 1 to 4 for rear view, that correspond to legend printed in white at right.", 
+        "creditline": "Gift of Ken Friedman", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "ca. 1975", 
+        "url": "https://collection.cooperhewitt.org/objects/18673519/", 
+        "type": "poster", 
+        "accession_number": "1997-19-251", 
+        "year_end": 1985, 
+        "signed": null, 
+        "inscribed": "Imprinted in white upper right: 1 24.4\" (62cm) / 2  34.3\" (87cm) / 3  18.5\" (47cm) / 4  18.9\" (48cm) / 5  5.6\" (14cm) / 6  37.4\" (95cm) / 7   55.5\" (141cm) / 8  36.2\" (92cm) / 9  20.5\" (52cm) / 10  18.5\" (47cm) / 11  19.7\" (50cm) / 12  11.6\" (29.5cm) / 13  8.2\" (21cm) / 14  90.5\" (230cm) / 15  159.6\" (4060cm) / 1  55,5\" (140cm) / 2  70.2\" (178cm) / 3  59.2\" (150cm) / 4  68.0\" (172cm). Imprinted in white lower left: Passenger Compartment.\nThree columns of text printed in white:\nEntery and Exit [bold]. Because the floor is only / 295mm from the ground, entry and exit of / passengers and", 
+        "period_id": null, 
+        "year_acquired": "1997", 
+        "woe:country_id": null
+    }
+}

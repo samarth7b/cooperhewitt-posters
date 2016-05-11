@@ -1,0 +1,130 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": 1995, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": "offset lithograph on paper", 
+        "tms:id": "208854", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/252213_0334da506a7ae9af_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "252213"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/252213_0334da506a7ae9af_b.jpg", 
+                    "width": 680, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "252213"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/252213_0334da506a7ae9af_d.gif", 
+                    "width": 213, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "252213"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/252213_0334da506a7ae9af_z.jpg", 
+                    "width": 425, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "252213"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/252213_0334da506a7ae9af_n.jpg", 
+                    "width": 213, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "252213"
+                }
+            }
+        ], 
+        "id": "18666941", 
+        "has_no_known_copyright": null, 
+        "dimensions": null, 
+        "title": "Poster, Motion Picture Poster: Art for Teachers of Children, 1995", 
+        "provenance": null, 
+        "participants": [
+            {
+                "person_name": "Bureau", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236739/", 
+                "role_id": "35236739", 
+                "role_name": "Institution", 
+                "person_date": "founded 1989", 
+                "role_display_name": "Institution:", 
+                "person_id": "18041895", 
+                "person_url": "https://collection.cooperhewitt.org/people/18041895/"
+            }, 
+            {
+                "person_name": "Kiera Alexandra", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "", 
+                "role_display_name": "Designed by", 
+                "person_id": "68739155", 
+                "person_url": "https://collection.cooperhewitt.org/people/68739155/"
+            }, 
+            {
+                "person_name": "Donald Moffett", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "American, b. 1955", 
+                "role_display_name": "Designed by", 
+                "person_id": "18063551", 
+                "person_url": "https://collection.cooperhewitt.org/people/18063551/"
+            }, 
+            {
+                "person_name": "Marlene McCarty", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "American, b. 1957", 
+                "role_display_name": "Designed by", 
+                "person_id": "18041893", 
+                "person_url": "https://collection.cooperhewitt.org/people/18041893/"
+            }, 
+            {
+                "person_name": "Bureau", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35351535/", 
+                "role_id": "35351535", 
+                "role_name": "Donor", 
+                "person_date": "founded 1989", 
+                "role_display_name": "Donated by", 
+                "person_id": "18041895", 
+                "person_url": "https://collection.cooperhewitt.org/people/18041895/"
+            }
+        ], 
+        "decade": "1990", 
+        "label_text": null, 
+        "woe:country": null, 
+        "dimensions_raw": null, 
+        "department_id": "35347493", 
+        "title_raw": "Motion Picture Poster: Art for Teachers of Children", 
+        "justification": null, 
+        "media_id": "35399021", 
+        "description": null, 
+        "creditline": "Gift of Bureau", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "1995", 
+        "url": "https://collection.cooperhewitt.org/objects/18666941/", 
+        "type": "poster", 
+        "accession_number": "1997-147-1", 
+        "year_end": 1995, 
+        "signed": null, 
+        "inscribed": null, 
+        "period_id": null, 
+        "year_acquired": "1997", 
+        "woe:country_id": null
+    }
+}

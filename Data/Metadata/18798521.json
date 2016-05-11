@@ -1,0 +1,147 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": 1981, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": "offset lithograph on paper", 
+        "tms:id": "178273", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/65153_c378eb5e56e98a98_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "65153"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/65153_c378eb5e56e98a98_b.jpg", 
+                    "width": 1024, 
+                    "height": 720, 
+                    "is_primary": "1", 
+                    "image_id": "65153"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/65153_c378eb5e56e98a98_d.gif", 
+                    "width": 320, 
+                    "height": 225, 
+                    "is_primary": "1", 
+                    "image_id": "65153"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/65153_c378eb5e56e98a98_z.jpg", 
+                    "width": 640, 
+                    "height": 450, 
+                    "is_primary": "1", 
+                    "image_id": "65153"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/65153_c378eb5e56e98a98_n.jpg", 
+                    "width": 320, 
+                    "height": 225, 
+                    "is_primary": "1", 
+                    "image_id": "65153"
+                }
+            }, 
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/267635_a48145ce54064b83_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "0", 
+                    "image_id": "267635"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/267635_a48145ce54064b83_b.jpg", 
+                    "width": 1024, 
+                    "height": 728, 
+                    "is_primary": "0", 
+                    "image_id": "267635"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/267635_a48145ce54064b83_d.gif", 
+                    "width": 320, 
+                    "height": 228, 
+                    "is_primary": "0", 
+                    "image_id": "267635"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/267635_a48145ce54064b83_z.jpg", 
+                    "width": 640, 
+                    "height": 455, 
+                    "is_primary": "0", 
+                    "image_id": "267635"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/267635_a48145ce54064b83_n.jpg", 
+                    "width": 320, 
+                    "height": 228, 
+                    "is_primary": "0", 
+                    "image_id": "267635"
+                }
+            }
+        ], 
+        "id": "18798521", 
+        "has_no_known_copyright": null, 
+        "woe:country_name": "Japan", 
+        "dimensions": "72.6 x 102.8 cm (28 9/16 x 40 1/2 in.)", 
+        "title": "Poster, NOH: UCLA  Asian Performing Arts Institute, 1981", 
+        "provenance": "Takenobu Igarashi; 1981: acquired by Museum", 
+        "participants": [
+            {
+                "person_name": "Takenobu Igarashi (Japanese, b. 1944)", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35351535/", 
+                "role_id": "35351535", 
+                "role_name": "Donor", 
+                "person_date": "", 
+                "role_display_name": "Donated by", 
+                "person_id": "18042747", 
+                "person_url": "https://collection.cooperhewitt.org/people/18042747/"
+            }, 
+            {
+                "person_name": "Takenobu Igarashi (Japanese, b. 1944)", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "", 
+                "role_display_name": "Designed by", 
+                "person_id": "18042747", 
+                "person_url": "https://collection.cooperhewitt.org/people/18042747/"
+            }
+        ], 
+        "decade": "1980", 
+        "label_text": null, 
+        "woe:country": "23424856", 
+        "dimensions_raw": {
+            "width": [
+                "102.80", 
+                "centimeters"
+            ], 
+            "height": [
+                "72.60", 
+                "centimeters"
+            ]
+        }, 
+        "department_id": "35347493", 
+        "title_raw": "NOH: UCLA  Asian Performing Arts Institute", 
+        "justification": null, 
+        "media_id": "35399021", 
+        "description": "On a gray ground, a black and gray structure of 3D letters spelling out: NOH. Upper left: NOH in blue ink. Lower right, in blue ink: UCLA Asian Performing Arts Institute 1981 / Los Angeles-Washington, D.C.-New York.", 
+        "creditline": "Gift of Takenobu Igarashi", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "1981", 
+        "url": "https://collection.cooperhewitt.org/objects/18798521/", 
+        "type": "poster", 
+        "accession_number": "1981-69-2", 
+        "year_end": 1981, 
+        "signed": null, 
+        "inscribed": "Printed in black ink, upper right: DESIGN: TAKENOBU IGARASHI / PRINTING CONTRIBUTED BY: TOPPAN PRINTING CO. LTD / PAPER DONATED BY TAKEO CO. LTD. (DIAPAGUE-MITSUBISHI PAPER MILLS, LTD.) / ©1981 UNIVERSITY OF CALIFORNIA, LOS ANGELES", 
+        "period_id": null, 
+        "year_acquired": "1981", 
+        "woe:country_id": "23424856"
+    }
+}

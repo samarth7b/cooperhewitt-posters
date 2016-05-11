@@ -1,0 +1,119 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": 1968, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": "offset lithography", 
+        "tms:id": "211513", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/257228_fb9872a14bb023cb_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "257228"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/257228_fb9872a14bb023cb_b.jpg", 
+                    "width": 983, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "257228"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/257228_fb9872a14bb023cb_d.gif", 
+                    "width": 307, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "257228"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/257228_fb9872a14bb023cb_z.jpg", 
+                    "width": 614, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "257228"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/257228_fb9872a14bb023cb_n.jpg", 
+                    "width": 307, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "257228"
+                }
+            }
+        ], 
+        "id": "18672141", 
+        "has_no_known_copyright": null, 
+        "dimensions": "60.6 x 57.8 cm (23 7/8 x 22 3/4 in. )", 
+        "title": "Poster, Exhibition Poster: Walter De Maria, 50 M ³ (1600 cubic feet) Level Dirt , Galerie Heiner Friedrich, Munich, 1968", 
+        "provenance": null, 
+        "participants": [
+            {
+                "person_name": "General Acquisitions Endowment", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35352247/", 
+                "role_id": "35352247", 
+                "role_name": "Fund", 
+                "person_date": "", 
+                "role_display_name": "Fund:", 
+                "person_id": "18048535", 
+                "person_url": "https://collection.cooperhewitt.org/people/18048535/"
+            }, 
+            {
+                "person_name": "Walter De Maria", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236565/", 
+                "role_id": "35236565", 
+                "role_name": "Artist", 
+                "person_date": "American, b. 1935", 
+                "role_display_name": "", 
+                "person_id": "18051601", 
+                "person_url": "https://collection.cooperhewitt.org/people/18051601/"
+            }, 
+            {
+                "person_name": "Lawrence Markey, Inc.", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35352249/", 
+                "role_id": "35352249", 
+                "role_name": "Vendor", 
+                "person_date": "", 
+                "role_display_name": "Purchased from", 
+                "person_id": "18051405", 
+                "person_url": "https://collection.cooperhewitt.org/people/18051405/"
+            }
+        ], 
+        "decade": "1960", 
+        "label_text": null, 
+        "woe:country": null, 
+        "dimensions_raw": {
+            "width": [
+                "57.80", 
+                "centimeters"
+            ], 
+            "height": [
+                "60.60", 
+                "centimeters"
+            ]
+        }, 
+        "department_id": "35347493", 
+        "title_raw": "Exhibition Poster: Walter De Maria, 50 M ³ (1600 cubic feet) Level Dirt , Galerie Heiner Friedrich, Munich", 
+        "justification": null, 
+        "media_id": "35421913", 
+        "description": "Artist's exhibition poster: top half of image shows a building elevation (with four windows) and plan (of three rooms and hallway); bottom half of image shows photographic portrait of artist with road in background.  Text at left of center; artist's name and gallery name at right of center.", 
+        "creditline": "Museum purchase from General Acquisitions Endowment and Smithsonian Institution Collections Acquisition Program Funds", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "1968", 
+        "url": "https://collection.cooperhewitt.org/objects/18672141/", 
+        "type": "poster", 
+        "accession_number": "1999-45-11", 
+        "year_end": 1968, 
+        "signed": null, 
+        "inscribed": "Imprinted at right side, center: WALTER DE MARIA/ 50 M 3 (1600 CUBIC FEET) LEVEL DIRT/GALERIE HEINER FRIEDRICH MUNCHEN/MAXIMILIANSTRASSE 15/ TELEFON 295021/ 28.SEPTEMBER - 10.OCTOBER 1968\n\nImprinted in caps at left side, center:  PURE DIRT - PURE EARTH - PURE LAND/ NO OBJECT ON IT/ NO OBJECT IN IT/ NO MARKINGS ON IT/NO MARKINGS IN IT/ NOTHING GROWING ON IT/NOTHING GROWING IN IT", 
+        "period_id": null, 
+        "year_acquired": "1999", 
+        "woe:country_id": null
+    }
+}

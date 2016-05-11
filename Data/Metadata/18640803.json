@@ -1,0 +1,101 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": null, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": null, 
+        "tms:id": "195266", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/267828_8d07741265048e8f_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "267828"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/267828_8d07741265048e8f_b.jpg", 
+                    "width": 1024, 
+                    "height": 496, 
+                    "is_primary": "1", 
+                    "image_id": "267828"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/267828_8d07741265048e8f_d.gif", 
+                    "width": 320, 
+                    "height": 155, 
+                    "is_primary": "1", 
+                    "image_id": "267828"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/267828_8d07741265048e8f_z.jpg", 
+                    "width": 640, 
+                    "height": 310, 
+                    "is_primary": "1", 
+                    "image_id": "267828"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/267828_8d07741265048e8f_n.jpg", 
+                    "width": 320, 
+                    "height": 155, 
+                    "is_primary": "1", 
+                    "image_id": "267828"
+                }
+            }
+        ], 
+        "id": "18640803", 
+        "has_no_known_copyright": null, 
+        "woe:country_name": "Japan", 
+        "dimensions": null, 
+        "title": "Poster, Japanese Underground", 
+        "provenance": null, 
+        "participants": [
+            {
+                "person_name": "Unknown donor: found in Collection", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35351535/", 
+                "role_id": "35351535", 
+                "role_name": "Donor", 
+                "person_date": "", 
+                "role_display_name": "Donated by", 
+                "person_id": "18053377", 
+                "person_url": "https://collection.cooperhewitt.org/people/18053377/"
+            }, 
+            {
+                "person_name": "Molly Seiler", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35352245/", 
+                "role_id": "35352245", 
+                "role_name": "Cataloguer", 
+                "person_date": "", 
+                "role_display_name": "Catalogued by", 
+                "person_id": "18048471", 
+                "person_url": "https://collection.cooperhewitt.org/people/18048471/"
+            }
+        ], 
+        "decade": null, 
+        "label_text": null, 
+        "woe:country": "23424856", 
+        "dimensions_raw": null, 
+        "department_id": "35347493", 
+        "title_raw": "Japanese Underground", 
+        "justification": null, 
+        "media_id": "35371135", 
+        "description": null, 
+        "creditline": "Gift of Unknown Donor", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": null, 
+        "url": "https://collection.cooperhewitt.org/objects/18640803/", 
+        "type": "poster", 
+        "accession_number": "1992-67-13", 
+        "year_end": null, 
+        "signed": null, 
+        "inscribed": null, 
+        "period_id": null, 
+        "year_acquired": "1992", 
+        "woe:country_id": "23424856"
+    }
+}

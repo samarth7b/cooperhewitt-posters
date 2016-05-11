@@ -1,0 +1,129 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": 1967, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": "offset lithograph on paper", 
+        "tms:id": "211526", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/269216_11aa2078f84a72b8_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "0", 
+                    "image_id": "269216"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/269216_11aa2078f84a72b8_b.jpg", 
+                    "width": 740, 
+                    "height": 1024, 
+                    "is_primary": "0", 
+                    "image_id": "269216"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/269216_11aa2078f84a72b8_d.gif", 
+                    "width": 231, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "269216"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/269216_11aa2078f84a72b8_z.jpg", 
+                    "width": 463, 
+                    "height": 640, 
+                    "is_primary": "0", 
+                    "image_id": "269216"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/269216_11aa2078f84a72b8_n.jpg", 
+                    "width": 231, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "269216"
+                }
+            }
+        ], 
+        "id": "18672167", 
+        "has_no_known_copyright": null, 
+        "dimensions": "83.8 x 59.2 cm (33 x 23 5/16 in. )", 
+        "title": "Poster, Exhibition Poster: Gerhard Richter  Ausstellung, Galerie Heiner Friedrich,  Munich, 1967", 
+        "provenance": null, 
+        "participants": [
+            {
+                "person_name": "Mendell & Oberer", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236685/", 
+                "role_id": "35236685", 
+                "role_name": "Maker", 
+                "person_date": "Germany, 1961–2000", 
+                "role_display_name": "Made by", 
+                "person_id": "18048713", 
+                "person_url": "https://collection.cooperhewitt.org/people/18048713/"
+            }, 
+            {
+                "person_name": "General Acquisitions Endowment", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35352247/", 
+                "role_id": "35352247", 
+                "role_name": "Fund", 
+                "person_date": "", 
+                "role_display_name": "Fund:", 
+                "person_id": "18048535", 
+                "person_url": "https://collection.cooperhewitt.org/people/18048535/"
+            }, 
+            {
+                "person_name": "Gerhard Richter", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236565/", 
+                "role_id": "35236565", 
+                "role_name": "Artist", 
+                "person_date": "German, b. 1932", 
+                "role_display_name": "", 
+                "person_id": "18051557", 
+                "person_url": "https://collection.cooperhewitt.org/people/18051557/"
+            }, 
+            {
+                "person_name": "Lawrence Markey, Inc.", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35352249/", 
+                "role_id": "35352249", 
+                "role_name": "Vendor", 
+                "person_date": "", 
+                "role_display_name": "Purchased from", 
+                "person_id": "18051405", 
+                "person_url": "https://collection.cooperhewitt.org/people/18051405/"
+            }
+        ], 
+        "decade": "1960", 
+        "label_text": null, 
+        "woe:country": null, 
+        "dimensions_raw": {
+            "width": [
+                "59.20", 
+                "centimeters"
+            ], 
+            "height": [
+                "83.80", 
+                "centimeters"
+            ]
+        }, 
+        "department_id": "35347493", 
+        "title_raw": "Exhibition Poster: Gerhard Richter  Ausstellung, Galerie Heiner Friedrich,  Munich", 
+        "justification": null, 
+        "media_id": "35399021", 
+        "description": "Art exhibition poster with white letters on black background on recto.  The text of German words appear to  twist and torque as if viewed in perspective.  The left column made up of single words reads: Gerhard  Richter  Neue Bilder Galerie Heiner Friedrich München Maximilian Straße 15 Telefon 29502\" (Gerhard Richter New Paintings Galerie Heiner Friedrich etc.).   The right column reads: \"Ausstellung/vom 2. Mai bis/4. Juni 1967/Dienstag bis/Samstag/10 bis 19 Uhr\" (Exhibition from May 2 to June 4 1967, Tuesday through Saturday 10 to 7).  Verso: Upper half shows photograph of installation of metal door frames, doors, and large glass panel in frame.  Lower half is text:  \"Richter\" in large black letters and two columns of  German text stating artist's biography and exhibition history from 1963 to 1967.", 
+        "creditline": "Museum purchase from General Acquisitions Endowment and Smithsonian Institution Collections Acquisition Program Funds", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "1967", 
+        "url": "https://collection.cooperhewitt.org/objects/18672167/", 
+        "type": "poster", 
+        "accession_number": "1999-45-23", 
+        "year_end": 1967, 
+        "signed": "Imprinted in white, right edge: Mendell & Oberer", 
+        "inscribed": null, 
+        "period_id": null, 
+        "year_acquired": "1999", 
+        "woe:country_id": null
+    }
+}

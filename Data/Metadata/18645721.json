@@ -1,0 +1,140 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": 1970, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": "lithograph on white paper", 
+        "tms:id": "197764", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/224020_1b685f1135adc56c_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "0", 
+                    "image_id": "224020"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/224020_1b685f1135adc56c_b.jpg", 
+                    "width": 615, 
+                    "height": 1024, 
+                    "is_primary": "0", 
+                    "image_id": "224020"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/224020_1b685f1135adc56c_d.gif", 
+                    "width": 192, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "224020"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/224020_1b685f1135adc56c_z.jpg", 
+                    "width": 384, 
+                    "height": 640, 
+                    "is_primary": "0", 
+                    "image_id": "224020"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/224020_1b685f1135adc56c_n.jpg", 
+                    "width": 192, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "224020"
+                }
+            }
+        ], 
+        "id": "18645721", 
+        "has_no_known_copyright": null, 
+        "woe:country_name": "United States", 
+        "dimensions": "68.7 × 39.5 cm (27 1/16 × 15 9/16 in.)", 
+        "title": "Poster, Gag Me with a Coat Hanger, ca. 1980", 
+        "provenance": "Steven Heller and Karrie Jacobs; 1993: acquired by Museum", 
+        "participants": [
+            {
+                "person_name": "Karrie Jacobs", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35351535/", 
+                "role_id": "35351535", 
+                "role_name": "Donor", 
+                "person_date": "", 
+                "role_display_name": "Donated by", 
+                "person_id": "18056647", 
+                "person_url": "https://collection.cooperhewitt.org/people/18056647/"
+            }, 
+            {
+                "person_name": "Steven Heller", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35351535/", 
+                "role_id": "35351535", 
+                "role_name": "Donor", 
+                "person_date": "American, b. 1950", 
+                "role_display_name": "Donated by", 
+                "person_id": "18041397", 
+                "person_url": "https://collection.cooperhewitt.org/people/18041397/"
+            }, 
+            {
+                "person_name": "Megan L. Smith", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35352245/", 
+                "role_id": "35352245", 
+                "role_name": "Cataloguer", 
+                "person_date": "", 
+                "role_display_name": "Catalogued by", 
+                "person_id": "18047443", 
+                "person_url": "https://collection.cooperhewitt.org/people/18047443/"
+            }, 
+            {
+                "person_name": "LSA", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35352245/", 
+                "role_id": "35352245", 
+                "role_name": "Cataloguer", 
+                "person_date": "", 
+                "role_display_name": "Catalogued by", 
+                "person_id": "18048737", 
+                "person_url": "https://collection.cooperhewitt.org/people/18048737/"
+            }, 
+            {
+                "person_name": "Robbie Connor", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "", 
+                "role_display_name": "Designed by", 
+                "person_id": "18043175", 
+                "person_url": "https://collection.cooperhewitt.org/people/18043175/"
+            }
+        ], 
+        "decade": "1970", 
+        "label_text": null, 
+        "woe:country": "23424977", 
+        "dimensions_raw": {
+            "width": [
+                "39.50", 
+                "centimeters"
+            ], 
+            "height": [
+                "68.70", 
+                "centimeters"
+            ]
+        }, 
+        "department_id": "35347493", 
+        "title_raw": "Gag Me with a Coat Hanger", 
+        "justification": null, 
+        "media_id": "35421135", 
+        "description": "Black and white painting of William Rehnquist.", 
+        "creditline": "Gift of Steven Heller and Karrie Jacobs", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "ca. 1980", 
+        "url": "https://collection.cooperhewitt.org/objects/18645721/", 
+        "type": "poster", 
+        "accession_number": "1993-53-51", 
+        "year_end": 1990, 
+        "signed": null, 
+        "inscribed": "Signed in black ink at UR: \"Robbie Connor\" Imprinted: \"Use Your Voice! Vote for Choice!\"", 
+        "period_id": null, 
+        "year_acquired": "1993", 
+        "woe:country_id": "23424977"
+    }
+}

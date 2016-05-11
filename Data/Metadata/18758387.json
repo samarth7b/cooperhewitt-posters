@@ -1,0 +1,156 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": 1979, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": "offset lithograph on wove paper", 
+        "tms:id": "255479", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/38540_f5007c64d8503743_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "38540"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/38540_f5007c64d8503743_b.jpg", 
+                    "width": 726, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "38540"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/38540_f5007c64d8503743_d.gif", 
+                    "width": 227, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "38540"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/38540_f5007c64d8503743_z.jpg", 
+                    "width": 454, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "38540"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/38540_f5007c64d8503743_n.jpg", 
+                    "width": 227, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "38540"
+                }
+            }, 
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/253790_9aea5ef152943e4c_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "0", 
+                    "image_id": "253790"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/253790_9aea5ef152943e4c_b.jpg", 
+                    "width": 732, 
+                    "height": 1024, 
+                    "is_primary": "0", 
+                    "image_id": "253790"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/253790_9aea5ef152943e4c_d.gif", 
+                    "width": 229, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "253790"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/253790_9aea5ef152943e4c_z.jpg", 
+                    "width": 458, 
+                    "height": 640, 
+                    "is_primary": "0", 
+                    "image_id": "253790"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/253790_9aea5ef152943e4c_n.jpg", 
+                    "width": 229, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "253790"
+                }
+            }
+        ], 
+        "id": "18758387", 
+        "has_no_known_copyright": null, 
+        "dimensions": "94.5 x 67.1 cm (37 3/16 x 26 7/16 in.)", 
+        "title": "Poster, Les Damoiselles de Wilko, 1979–80", 
+        "provenance": "Acquired from dealers, galleries and auction houses by Marc Benda.  Remained with Benda until 2010, when gifted to CHNDM.", 
+        "participants": [
+            {
+                "person_name": "Roman Cieslewicz", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "Polish, 1930 - 1996", 
+                "role_display_name": "Designed by", 
+                "person_id": "68738397", 
+                "person_url": "https://collection.cooperhewitt.org/people/68738397/"
+            }, 
+            {
+                "person_name": "Marc Benda", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35351535/", 
+                "role_id": "35351535", 
+                "role_name": "Donor", 
+                "person_date": "", 
+                "role_display_name": "Donated by", 
+                "person_id": "18062523", 
+                "person_url": "https://collection.cooperhewitt.org/people/18062523/"
+            }, 
+            {
+                "person_name": "Sara Benda", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35351535/", 
+                "role_id": "35351535", 
+                "role_name": "Donor", 
+                "person_date": "", 
+                "role_display_name": "Donated by", 
+                "person_id": "18063205", 
+                "person_url": "https://collection.cooperhewitt.org/people/18063205/"
+            }
+        ], 
+        "decade": "1970", 
+        "label_text": null, 
+        "woe:country": null, 
+        "dimensions_raw": {
+            "width": [
+                "67.10", 
+                "centimeters"
+            ], 
+            "height": [
+                "94.50", 
+                "centimeters"
+            ]
+        }, 
+        "department_id": "35347493", 
+        "title_raw": "Les Damoiselles de Wilko", 
+        "justification": null, 
+        "media_id": "35431963", 
+        "description": "A high-contrast photograph of a man with half-closed eyes and drooping mouth, digitally \"colored\" with black pixillated \"patches\" and tinted magenta and blue, with traces of cyan and yellow. On the white field below the man's chin, in lower left, the inscription: \"FILM POSLKI / PRESENTE LE FILM DE / ANDRZEJ WAJDA / Les Demoiselles de Wilko / PANNY Z WILKA\", and in the lower right: \"film polski / 6/8 mazowlecka / 00-048 warsaw / poland\".", 
+        "creditline": "Gift of Sara and Marc Benda", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "1979–80", 
+        "url": "https://collection.cooperhewitt.org/objects/18758387/", 
+        "type": "poster", 
+        "accession_number": "2010-21-90", 
+        "year_end": 1980, 
+        "signed": null, 
+        "inscribed": null, 
+        "period_id": null, 
+        "year_acquired": "2010", 
+        "woe:country_id": null
+    }
+}

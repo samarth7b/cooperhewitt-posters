@@ -1,0 +1,157 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": null, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": "lithograph on paper", 
+        "tms:id": "177183", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/90286_302719230c0da5dc_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "90286"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/90286_302719230c0da5dc_b.jpg", 
+                    "width": 796, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "90286"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/90286_302719230c0da5dc_d.gif", 
+                    "width": 249, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "90286"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/90286_302719230c0da5dc_z.jpg", 
+                    "width": 497, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "90286"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/90286_302719230c0da5dc_n.jpg", 
+                    "width": 249, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "90286"
+                }
+            }, 
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/206270_8dd4b5931ee22cbf_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "0", 
+                    "image_id": "206270"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/206270_8dd4b5931ee22cbf_b.jpg", 
+                    "width": 807, 
+                    "height": 1024, 
+                    "is_primary": "0", 
+                    "image_id": "206270"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/206270_8dd4b5931ee22cbf_d.gif", 
+                    "width": 252, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "206270"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/206270_8dd4b5931ee22cbf_z.jpg", 
+                    "width": 504, 
+                    "height": 640, 
+                    "is_primary": "0", 
+                    "image_id": "206270"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/206270_8dd4b5931ee22cbf_n.jpg", 
+                    "width": 252, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "206270"
+                }
+            }
+        ], 
+        "id": "18617301", 
+        "has_no_known_copyright": null, 
+        "woe:country_name": "United States", 
+        "dimensions": "46.5 x 36.2 cm (18 5/16 x 14 1/4 in.)", 
+        "title": "Poster, Children you love ... love books", 
+        "provenance": "1981: acquired by Museum", 
+        "participants": [
+            {
+                "person_name": "Kiyoshi Kanai", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236601/", 
+                "role_id": "35236601", 
+                "role_name": "Illustrator", 
+                "person_date": "", 
+                "role_display_name": "Illustrated by", 
+                "person_id": "18056977", 
+                "person_url": "https://collection.cooperhewitt.org/people/18056977/"
+            }, 
+            {
+                "person_name": "Peter Schaefer", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "", 
+                "role_display_name": "Designed by", 
+                "person_id": "34624707", 
+                "person_url": "https://collection.cooperhewitt.org/people/34624707/"
+            }, 
+            {
+                "person_name": "Andrew Kner", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236787/", 
+                "role_id": "35236787", 
+                "role_name": "Art Director", 
+                "person_date": "Hungarian, born 1935", 
+                "role_display_name": "Art Director:", 
+                "person_id": "18056973", 
+                "person_url": "https://collection.cooperhewitt.org/people/18056973/"
+            }
+        ], 
+        "decade": null, 
+        "label_text": null, 
+        "woe:country": "23424977", 
+        "dimensions_raw": {
+            "width": [
+                "36.20", 
+                "centimeters"
+            ], 
+            "height": [
+                "46.50", 
+                "centimeters"
+            ]
+        }, 
+        "department_id": "35347493", 
+        "title_raw": "Children you love ... love books", 
+        "justification": null, 
+        "media_id": "35419317", 
+        "description": "Cartoon of children playing football, but the starter is reading from an open book in his hands. Above, in black: CHILDREN YOU LOVE…LOVE BOOKS.", 
+        "creditline": "Gift of Various Donors", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": null, 
+        "url": "https://collection.cooperhewitt.org/objects/18617301/", 
+        "type": "poster", 
+        "accession_number": "1981-29-120", 
+        "year_end": null, 
+        "signed": null, 
+        "inscribed": "Imprinted in black, lower right: PREPARED BY THE NEW YORK TIMES", 
+        "period_id": null, 
+        "year_acquired": "1981", 
+        "woe:country_id": "23424977"
+    }
+}

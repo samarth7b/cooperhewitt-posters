@@ -1,0 +1,147 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": "The political, social and economic upheaval during the Spanish Civil War (1936-1939) inspired a powerful propaganda movement through print culture. Propaganda posters disseminated messages against Fascism, advertised war effort social groups, and encouraged military recruitment. Among these social groups was the Union de Muchachas, a sport camp for young women sponsored by the National Confederation for Physical Education, and issued by the Ministry of Public Instruction and Health. Only women who shared common interests in promoting the Republican cause of Spain were recruited to this specific social group. Juana Francisca Rubio Garcia (1911-2008), the designer of this poster, was one of the more well-known female cartelistas, poster illustrators, in Spain who signed her work. Although it is unknown whether she designed this poster for the protest against the Olympics held in Nazi Germany at the time, it suggests how athletic events maintained a political force throughout the war. The Union de Muchachas promoted the importance of exercise to the Republic and aspired to recruit strong and courageous women, such as the female figure depicted as the subject of this poster. Allowing women the opportunity to fight in the militias alongside men radicalized their social status tremendously in early-twentieth century Spain.", 
+        "year_start": 1937, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": "lithograph on wove paper", 
+        "tms:id": "202470", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/65036_db3e0b719464e657_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "65036"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/65036_db3e0b719464e657_b.jpg", 
+                    "width": 370, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "65036"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/65036_db3e0b719464e657_d.gif", 
+                    "width": 116, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "65036"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/65036_db3e0b719464e657_z.jpg", 
+                    "width": 231, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "65036"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/65036_db3e0b719464e657_n.jpg", 
+                    "width": 116, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "65036"
+                }
+            }, 
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/252786_5f34e495a80901df_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "0", 
+                    "image_id": "252786"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/252786_5f34e495a80901df_b.jpg", 
+                    "width": 371, 
+                    "height": 1024, 
+                    "is_primary": "0", 
+                    "image_id": "252786"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/252786_5f34e495a80901df_d.gif", 
+                    "width": 116, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "252786"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/252786_5f34e495a80901df_z.jpg", 
+                    "width": 232, 
+                    "height": 640, 
+                    "is_primary": "0", 
+                    "image_id": "252786"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/252786_5f34e495a80901df_n.jpg", 
+                    "width": 116, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "252786"
+                }
+            }
+        ], 
+        "id": "18655001", 
+        "has_no_known_copyright": null, 
+        "woe:country_name": "Spain", 
+        "dimensions": "100.4 × 35 cm (39 1/2 × 13 3/4 in.)", 
+        "title": "Poster, Union de Muchachas/ Campamento Deportivo (Girls League Sports Camp), 1937", 
+        "provenance": "1997: acquired by Museum", 
+        "participants": [
+            {
+                "person_name": "Juana Francisca Rubio García, Spanish", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "1911 - 2008", 
+                "role_display_name": "Designed by", 
+                "person_id": "18538041", 
+                "person_url": "https://collection.cooperhewitt.org/people/18538041/"
+            }, 
+            {
+                "person_name": "William P. Mangold", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35351535/", 
+                "role_id": "35351535", 
+                "role_name": "Donor", 
+                "person_date": "", 
+                "role_display_name": "Donated by", 
+                "person_id": "18049663", 
+                "person_url": "https://collection.cooperhewitt.org/people/18049663/"
+            }
+        ], 
+        "decade": "1930", 
+        "label_text": null, 
+        "woe:country": "23424950", 
+        "dimensions_raw": {
+            "width": [
+                "35.00", 
+                "centimeters"
+            ], 
+            "height": [
+                "100.00", 
+                "centimeters"
+            ]
+        }, 
+        "department_id": "35347493", 
+        "title_raw": "Union de Muchachas/ Campamento Deportivo (Girls League Sports Camp)", 
+        "justification": null, 
+        "media_id": "35407799", 
+        "description": "Spanish Civil War poster. Elongated female figure with blue sweater, black shorts, and orange ankle weights. She carries a large brown backpack, and leans over with hands on her knees. Above, white text in caps: UNION; in blue script: de; white text in caps: MUCHACHAS; bottom left below figure, blue text in small caps: CAMPAMENTO / DEPORTIVO / MINISTERIO DE INSTRUCCION / PUBLICA Y SANIDAD; bottom right, orange text in small caps: PATROCINADO / POR EL CONSEJO DE EDUCACION / FISICA Y DEPORTES. (Girls League Sports Camp Ministry of Public Health Instruction sponsored by Physical Education and Sports)", 
+        "creditline": "Gift of William P. Mangold", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "1937", 
+        "url": "https://collection.cooperhewitt.org/objects/18655001/", 
+        "type": "poster", 
+        "accession_number": "1997-21-1", 
+        "year_end": 1937, 
+        "signed": "Signed in brown ink, lower right: JUANA / FRANCISCA", 
+        "inscribed": "Printed in brown ink, right margin: LIT. S. DURA SOCIALIZADA U.G.T. C.N.T. VALENCIA", 
+        "period_id": null, 
+        "year_acquired": "1997", 
+        "woe:country_id": "23424950"
+    }
+}

@@ -1,0 +1,117 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": null, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": null, 
+        "tms:id": "192949", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/268571_ad6be9db97bc966c_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "268571"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/268571_ad6be9db97bc966c_b.jpg", 
+                    "width": 1024, 
+                    "height": 729, 
+                    "is_primary": "1", 
+                    "image_id": "268571"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/268571_ad6be9db97bc966c_d.gif", 
+                    "width": 320, 
+                    "height": 228, 
+                    "is_primary": "1", 
+                    "image_id": "268571"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/268571_ad6be9db97bc966c_z.jpg", 
+                    "width": 640, 
+                    "height": 455, 
+                    "is_primary": "1", 
+                    "image_id": "268571"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/268571_ad6be9db97bc966c_n.jpg", 
+                    "width": 320, 
+                    "height": 228, 
+                    "is_primary": "1", 
+                    "image_id": "268571"
+                }
+            }, 
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/268638_47920ed97d5e10af_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "0", 
+                    "image_id": "268638"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/268638_47920ed97d5e10af_b.jpg", 
+                    "width": 805, 
+                    "height": 1024, 
+                    "is_primary": "0", 
+                    "image_id": "268638"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/268638_47920ed97d5e10af_d.gif", 
+                    "width": 252, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "268638"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/268638_47920ed97d5e10af_z.jpg", 
+                    "width": 503, 
+                    "height": 640, 
+                    "is_primary": "0", 
+                    "image_id": "268638"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/268638_47920ed97d5e10af_n.jpg", 
+                    "width": 252, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "268638"
+                }
+            }
+        ], 
+        "id": "18636203", 
+        "has_no_known_copyright": null, 
+        "woe:country_name": "Germany", 
+        "dimensions": null, 
+        "title": "Poster, \"Inspirations\"., Hanover", 
+        "provenance": null, 
+        "participants": [], 
+        "decade": null, 
+        "label_text": null, 
+        "woe:country": "23424829", 
+        "dimensions_raw": null, 
+        "department_id": "35347493", 
+        "title_raw": "\"Inspirations\"., Hanover", 
+        "justification": null, 
+        "media_id": "35371135", 
+        "description": null, 
+        "creditline": null, 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": null, 
+        "url": "https://collection.cooperhewitt.org/objects/18636203/", 
+        "type": "poster", 
+        "accession_number": "1991-21-1", 
+        "year_end": null, 
+        "signed": null, 
+        "inscribed": null, 
+        "period_id": null, 
+        "year_acquired": "1991", 
+        "woe:country_id": "23424829"
+    }
+}

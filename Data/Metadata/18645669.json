@@ -1,0 +1,140 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": 1986, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": "lithograph on paper", 
+        "tms:id": "197738", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/223731_0118024fdc7f8e44_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "223731"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/223731_0118024fdc7f8e44_b.jpg", 
+                    "width": 674, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "223731"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/223731_0118024fdc7f8e44_d.gif", 
+                    "width": 211, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "223731"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/223731_0118024fdc7f8e44_z.jpg", 
+                    "width": 421, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "223731"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/223731_0118024fdc7f8e44_n.jpg", 
+                    "width": 211, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "223731"
+                }
+            }
+        ], 
+        "id": "18645669", 
+        "has_no_known_copyright": null, 
+        "woe:country_name": "United States", 
+        "dimensions": "42.8 x 28 cm (16 7/8 in. x 11 in.)", 
+        "title": "Poster (USA), 1986", 
+        "provenance": null, 
+        "participants": [
+            {
+                "person_name": "Karrie Jacobs", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35351535/", 
+                "role_id": "35351535", 
+                "role_name": "Donor", 
+                "person_date": "", 
+                "role_display_name": "Donated by", 
+                "person_id": "18056647", 
+                "person_url": "https://collection.cooperhewitt.org/people/18056647/"
+            }, 
+            {
+                "person_name": "Steven Heller", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35351535/", 
+                "role_id": "35351535", 
+                "role_name": "Donor", 
+                "person_date": "American, b. 1950", 
+                "role_display_name": "Donated by", 
+                "person_id": "18041397", 
+                "person_url": "https://collection.cooperhewitt.org/people/18041397/"
+            }, 
+            {
+                "person_name": "Megan L. Smith", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35352245/", 
+                "role_id": "35352245", 
+                "role_name": "Cataloguer", 
+                "person_date": "", 
+                "role_display_name": "Catalogued by", 
+                "person_id": "18047443", 
+                "person_url": "https://collection.cooperhewitt.org/people/18047443/"
+            }, 
+            {
+                "person_name": "LSA", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35352245/", 
+                "role_id": "35352245", 
+                "role_name": "Cataloguer", 
+                "person_date": "", 
+                "role_display_name": "Catalogued by", 
+                "person_id": "18048737", 
+                "person_url": "https://collection.cooperhewitt.org/people/18048737/"
+            }, 
+            {
+                "person_name": "Lincoln Cushing", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "", 
+                "role_display_name": "Designed by", 
+                "person_id": "18043145", 
+                "person_url": "https://collection.cooperhewitt.org/people/18043145/"
+            }
+        ], 
+        "decade": "1980", 
+        "label_text": null, 
+        "woe:country": "23424977", 
+        "dimensions_raw": {
+            "width": [
+                "28.00", 
+                "centimeters"
+            ], 
+            "height": [
+                "42.80", 
+                "centimeters"
+            ]
+        }, 
+        "department_id": "35347493", 
+        "title_raw": null, 
+        "justification": null, 
+        "media_id": "35419317", 
+        "description": "Drawing of a white skull wearing glasses that reflect a map of Africa; around the skull's neck is a necklace with different symbols: statue of Liberty, coins, pullets, a heart, and diamonds. Upper margin, text in black: THE SAN FRANCISCO / MIME TROUPE / Presents a New Spy Thriller; lower margin, in yellow and black: THE MOZAMGOLA CAPER / A new African nation is up for grabs...See American foreign policy in action - it's deadly!", 
+        "creditline": "Gift of Steven Heller and Karrie Jacobs", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "1986", 
+        "url": "https://collection.cooperhewitt.org/objects/18645669/", 
+        "type": "poster", 
+        "accession_number": "1993-53-28", 
+        "year_end": 1986, 
+        "signed": "Imprinted in black ink, lower margin: graphic/design © 1986 Lincoln Cushing", 
+        "inscribed": null, 
+        "period_id": null, 
+        "year_acquired": "1993", 
+        "woe:country_id": "23424977"
+    }
+}

@@ -1,0 +1,119 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": 1974, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": "offset lithograph on white paper", 
+        "tms:id": "211525", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/257782_61a01ccda895523f_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "257782"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/257782_61a01ccda895523f_b.jpg", 
+                    "width": 538, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "257782"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/257782_61a01ccda895523f_d.gif", 
+                    "width": 168, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "257782"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/257782_61a01ccda895523f_z.jpg", 
+                    "width": 336, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "257782"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/257782_61a01ccda895523f_n.jpg", 
+                    "width": 168, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "257782"
+                }
+            }
+        ], 
+        "id": "18672165", 
+        "has_no_known_copyright": null, 
+        "dimensions": "53.0 x 27.0 cm (20 7/8 x 10 5/8 in. )", 
+        "title": "Poster, Exhibition Poster: Robert Rauschenberg,  Hoar Frost Series,  Leo Castelli and Sonnabend Galleries, New York, 1974", 
+        "provenance": null, 
+        "participants": [
+            {
+                "person_name": "General Acquisitions Endowment", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35352247/", 
+                "role_id": "35352247", 
+                "role_name": "Fund", 
+                "person_date": "", 
+                "role_display_name": "Fund:", 
+                "person_id": "18048535", 
+                "person_url": "https://collection.cooperhewitt.org/people/18048535/"
+            }, 
+            {
+                "person_name": "Robert Rauschenberg", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236565/", 
+                "role_id": "35236565", 
+                "role_name": "Artist", 
+                "person_date": "American, 1925–2008", 
+                "role_display_name": "", 
+                "person_id": "18050813", 
+                "person_url": "https://collection.cooperhewitt.org/people/18050813/"
+            }, 
+            {
+                "person_name": "Lawrence Markey, Inc.", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35352249/", 
+                "role_id": "35352249", 
+                "role_name": "Vendor", 
+                "person_date": "", 
+                "role_display_name": "Purchased from", 
+                "person_id": "18051405", 
+                "person_url": "https://collection.cooperhewitt.org/people/18051405/"
+            }
+        ], 
+        "decade": "1970", 
+        "label_text": null, 
+        "woe:country": null, 
+        "dimensions_raw": {
+            "width": [
+                "27.00", 
+                "centimeters"
+            ], 
+            "height": [
+                "53.00", 
+                "centimeters"
+            ]
+        }, 
+        "department_id": "35347493", 
+        "title_raw": "Exhibition Poster: Robert Rauschenberg,  Hoar Frost Series,  Leo Castelli and Sonnabend Galleries, New York", 
+        "justification": null, 
+        "media_id": "35424093", 
+        "description": "Art exhibition poster showing photographic portrait of artist posed in front of one of his paintings.  Rauschenberg is wearing striped shirt with sleeves rolled up, blue jeans, and brown belt.  An orange veil, attached to painting, is draped over his head.  Hand-written text appears on artist's shirt.", 
+        "creditline": "Museum purchase from General Acquisitions Endowment and Smithsonian Institution Collections Acquisition Program Funds", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "1974", 
+        "url": "https://collection.cooperhewitt.org/objects/18672165/", 
+        "type": "poster", 
+        "accession_number": "1999-45-22", 
+        "year_end": 1974, 
+        "signed": null, 
+        "inscribed": "Imprinted in white (recreating hand-written script), center: \"RAUSCHENBERG/ HOAR FROST SERIES [underlined]/ OPENING DEC. 7 CASTELLI + SONNABEND/ 420 W. BROADWAY NYC\"", 
+        "period_id": null, 
+        "year_acquired": "1999", 
+        "woe:country_id": null
+    }
+}

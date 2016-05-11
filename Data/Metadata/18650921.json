@@ -1,0 +1,121 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": null, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": null, 
+        "tms:id": "200396", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/267249_05a1342f7fc2eef0_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "267249"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/267249_05a1342f7fc2eef0_b.jpg", 
+                    "width": 476, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "267249"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/267249_05a1342f7fc2eef0_d.gif", 
+                    "width": 149, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "267249"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/267249_05a1342f7fc2eef0_z.jpg", 
+                    "width": 297, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "267249"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/267249_05a1342f7fc2eef0_n.jpg", 
+                    "width": 149, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "267249"
+                }
+            }
+        ], 
+        "id": "18650921", 
+        "has_no_known_copyright": null, 
+        "woe:country_name": "United States", 
+        "dimensions": null, 
+        "title": "Poster (USA)", 
+        "provenance": null, 
+        "participants": [
+            {
+                "person_name": "John H. Sayles", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35351535/", 
+                "role_id": "35351535", 
+                "role_name": "Donor", 
+                "person_date": "", 
+                "role_display_name": "Donated by", 
+                "person_id": "18041835", 
+                "person_url": "https://collection.cooperhewitt.org/people/18041835/"
+            }, 
+            {
+                "person_name": "Sayles Graphic Design", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35351535/", 
+                "role_id": "35351535", 
+                "role_name": "Donor", 
+                "person_date": "", 
+                "role_display_name": "Donated by", 
+                "person_id": "18049027", 
+                "person_url": "https://collection.cooperhewitt.org/people/18049027/"
+            }, 
+            {
+                "person_name": "John H. Sayles", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "", 
+                "role_display_name": "Designed by", 
+                "person_id": "18041835", 
+                "person_url": "https://collection.cooperhewitt.org/people/18041835/"
+            }, 
+            {
+                "person_name": "Sayles Graphic Design", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "", 
+                "role_display_name": "Designed by", 
+                "person_id": "18049027", 
+                "person_url": "https://collection.cooperhewitt.org/people/18049027/"
+            }
+        ], 
+        "decade": null, 
+        "label_text": null, 
+        "woe:country": "23424977", 
+        "dimensions_raw": null, 
+        "department_id": "35347493", 
+        "title_raw": null, 
+        "justification": null, 
+        "media_id": "35371135", 
+        "description": null, 
+        "creditline": "Gift of Sayles Graphic Design", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": null, 
+        "url": "https://collection.cooperhewitt.org/objects/18650921/", 
+        "type": "poster", 
+        "accession_number": "1995-170-5", 
+        "year_end": null, 
+        "signed": null, 
+        "inscribed": null, 
+        "period_id": null, 
+        "year_acquired": "1995", 
+        "woe:country_id": "23424977"
+    }
+}

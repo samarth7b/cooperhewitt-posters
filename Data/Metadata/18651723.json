@@ -1,0 +1,157 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": 1994, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": "screenprint on paper on plastic", 
+        "tms:id": "200804", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/12695_5b0eb3a443f7e97e_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "12695"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/12695_5b0eb3a443f7e97e_b.jpg", 
+                    "width": 1024, 
+                    "height": 417, 
+                    "is_primary": "1", 
+                    "image_id": "12695"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/12695_5b0eb3a443f7e97e_d.gif", 
+                    "width": 320, 
+                    "height": 130, 
+                    "is_primary": "1", 
+                    "image_id": "12695"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/12695_5b0eb3a443f7e97e_z.jpg", 
+                    "width": 640, 
+                    "height": 261, 
+                    "is_primary": "1", 
+                    "image_id": "12695"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/12695_5b0eb3a443f7e97e_n.jpg", 
+                    "width": 320, 
+                    "height": 130, 
+                    "is_primary": "1", 
+                    "image_id": "12695"
+                }
+            }, 
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/268621_6bf2300634812a42_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "0", 
+                    "image_id": "268621"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/268621_6bf2300634812a42_b.jpg", 
+                    "width": 1024, 
+                    "height": 422, 
+                    "is_primary": "0", 
+                    "image_id": "268621"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/268621_6bf2300634812a42_d.gif", 
+                    "width": 320, 
+                    "height": 132, 
+                    "is_primary": "0", 
+                    "image_id": "268621"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/268621_6bf2300634812a42_z.jpg", 
+                    "width": 640, 
+                    "height": 264, 
+                    "is_primary": "0", 
+                    "image_id": "268621"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/268621_6bf2300634812a42_n.jpg", 
+                    "width": 320, 
+                    "height": 132, 
+                    "is_primary": "0", 
+                    "image_id": "268621"
+                }
+            }
+        ], 
+        "id": "18651723", 
+        "has_no_known_copyright": null, 
+        "woe:country_name": "United States", 
+        "dimensions": "11 x 27.9 cm (4 5/16 x 11 in.)", 
+        "title": "Poster, Want to Know a Dirty Little Secret?  Condoms Don't Save Lives, 1994", 
+        "provenance": "Catholic League for Religious and Civil Rights", 
+        "participants": [
+            {
+                "person_name": "Catholic League for Religious and Civil Rights", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35351535/", 
+                "role_id": "35351535", 
+                "role_name": "Donor", 
+                "person_date": "", 
+                "role_display_name": "Donated by", 
+                "person_id": "18049073", 
+                "person_url": "https://collection.cooperhewitt.org/people/18049073/"
+            }, 
+            {
+                "person_name": "TM", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35352245/", 
+                "role_id": "35352245", 
+                "role_name": "Cataloguer", 
+                "person_date": "", 
+                "role_display_name": "Catalogued by", 
+                "person_id": "18048319", 
+                "person_url": "https://collection.cooperhewitt.org/people/18048319/"
+            }, 
+            {
+                "person_name": "Catholic League for Religious and Civil Rights", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236661/", 
+                "role_id": "35236661", 
+                "role_name": "Publisher", 
+                "person_date": "", 
+                "role_display_name": "Published by", 
+                "person_id": "18049073", 
+                "person_url": "https://collection.cooperhewitt.org/people/18049073/"
+            }
+        ], 
+        "decade": "1990", 
+        "label_text": null, 
+        "woe:country": "23424977", 
+        "dimensions_raw": {
+            "width": [
+                "27.88", 
+                "centimeters"
+            ], 
+            "height": [
+                "11.00", 
+                "centimeters"
+            ]
+        }, 
+        "department_id": "35347493", 
+        "title_raw": "Want to Know a Dirty Little Secret?  Condoms Don't Save Lives", 
+        "justification": null, 
+        "media_id": "35520179", 
+        "description": "C(atholic) L(eague) shield with sword at left, as if a coat of arms.  Text overall, with accented lines in purple, the rest in blue.  Complete text reads: Want to Know a Dirty Little Secret? / Condoms don't Save Lives. / But restraint does. / Only fools think condoms are foolproof. /  Remember, better safe than sorry./  Some common sense and a public service message from the/ Catholic League / for Religious and Civil Rights / 1011 First Avenue/ New York, NY 10022 / (212) 371-3191.", 
+        "creditline": "Gift of the Catholic League for Religious and Civil Rights", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "1994", 
+        "url": "https://collection.cooperhewitt.org/objects/18651723/", 
+        "type": "poster", 
+        "accession_number": "1995-64-1", 
+        "year_end": 1994, 
+        "signed": null, 
+        "inscribed": null, 
+        "period_id": null, 
+        "year_acquired": "1995", 
+        "woe:country_id": "23424977"
+    }
+}

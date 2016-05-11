@@ -1,0 +1,167 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": 1983, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": "lithograph on paper", 
+        "tms:id": "197695", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/99291_0b156e8f6fbc9825_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "99291"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/99291_0b156e8f6fbc9825_b.jpg", 
+                    "width": 748, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "99291"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/99291_0b156e8f6fbc9825_d.gif", 
+                    "width": 234, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "99291"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/99291_0b156e8f6fbc9825_z.jpg", 
+                    "width": 467, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "99291"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/99291_0b156e8f6fbc9825_n.jpg", 
+                    "width": 234, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "99291"
+                }
+            }, 
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/95560_0c6e8eb0f55cdc95_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "0", 
+                    "image_id": "95560"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/95560_0c6e8eb0f55cdc95_b.jpg", 
+                    "width": 748, 
+                    "height": 1024, 
+                    "is_primary": "0", 
+                    "image_id": "95560"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/95560_0c6e8eb0f55cdc95_d.gif", 
+                    "width": 234, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "95560"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/95560_0c6e8eb0f55cdc95_z.jpg", 
+                    "width": 467, 
+                    "height": 640, 
+                    "is_primary": "0", 
+                    "image_id": "95560"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/95560_0c6e8eb0f55cdc95_n.jpg", 
+                    "width": 234, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "95560"
+                }
+            }
+        ], 
+        "id": "18645583", 
+        "has_no_known_copyright": null, 
+        "woe:country_name": "United States", 
+        "dimensions": "H x W: 56 × 40.8 cm (22 1/16 × 16 1/16 in.)", 
+        "title": "Poster, Build a Wall of Resistance, 1983", 
+        "provenance": "Steven Heller and Karrie Jacobs; 1993: acquired by Museum", 
+        "participants": [
+            {
+                "person_name": "Steven Heller", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35351535/", 
+                "role_id": "35351535", 
+                "role_name": "Donor", 
+                "person_date": "American, b. 1950", 
+                "role_display_name": "Donated by", 
+                "person_id": "18041397", 
+                "person_url": "https://collection.cooperhewitt.org/people/18041397/"
+            }, 
+            {
+                "person_name": "Karrie Jacobs", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35351535/", 
+                "role_id": "35351535", 
+                "role_name": "Donor", 
+                "person_date": "", 
+                "role_display_name": "Donated by", 
+                "person_id": "18056647", 
+                "person_url": "https://collection.cooperhewitt.org/people/18056647/"
+            }, 
+            {
+                "person_name": "LSA", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35352245/", 
+                "role_id": "35352245", 
+                "role_name": "Cataloguer", 
+                "person_date": "", 
+                "role_display_name": "Catalogued by", 
+                "person_id": "18048737", 
+                "person_url": "https://collection.cooperhewitt.org/people/18048737/"
+            }, 
+            {
+                "person_name": "Terry Forman", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "American, b. 1950", 
+                "role_display_name": "Designed by", 
+                "person_id": "18043159", 
+                "person_url": "https://collection.cooperhewitt.org/people/18043159/"
+            }
+        ], 
+        "decade": "1980", 
+        "label_text": null, 
+        "woe:country": "23424977", 
+        "dimensions_raw": {
+            "width": [
+                "40.70", 
+                "centimeters"
+            ], 
+            "height": [
+                "56.00", 
+                "centimeters"
+            ]
+        }, 
+        "department_id": "35347493", 
+        "title_raw": "Build a Wall of Resistance", 
+        "justification": null, 
+        "media_id": "35419317", 
+        "description": "Drawing of houses with F.B.I. man in black and red. Upper margin in black: BUILD A WALL/ OF RESISTANCE/ DON'T TALK TO THE F.B.I", 
+        "creditline": "Gift of Steven Heller and Karrie Jacobs", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "1983", 
+        "url": "https://collection.cooperhewitt.org/objects/18645583/", 
+        "type": "poster", 
+        "accession_number": "1993-53-107", 
+        "year_end": 1983, 
+        "signed": null, 
+        "inscribed": "Imprinted in black ink, right side: FIREWORKS", 
+        "period_id": null, 
+        "year_acquired": "1993", 
+        "woe:country_id": "23424977"
+    }
+}

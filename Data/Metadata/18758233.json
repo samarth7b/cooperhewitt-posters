@@ -1,0 +1,166 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": 1991, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": "offset lithograph on wove paper", 
+        "tms:id": "255400", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/46884_afa8da6b07fdeee0_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "46884"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/46884_afa8da6b07fdeee0_b.jpg", 
+                    "width": 722, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "46884"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/46884_afa8da6b07fdeee0_d.gif", 
+                    "width": 226, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "46884"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/46884_afa8da6b07fdeee0_z.jpg", 
+                    "width": 451, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "46884"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/46884_afa8da6b07fdeee0_n.jpg", 
+                    "width": 226, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "46884"
+                }
+            }, 
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/253915_3c476d580a78d079_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "0", 
+                    "image_id": "253915"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/253915_3c476d580a78d079_b.jpg", 
+                    "width": 729, 
+                    "height": 1024, 
+                    "is_primary": "0", 
+                    "image_id": "253915"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/253915_3c476d580a78d079_d.gif", 
+                    "width": 228, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "253915"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/253915_3c476d580a78d079_z.jpg", 
+                    "width": 455, 
+                    "height": 640, 
+                    "is_primary": "0", 
+                    "image_id": "253915"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/253915_3c476d580a78d079_n.jpg", 
+                    "width": 228, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "253915"
+                }
+            }
+        ], 
+        "id": "18758233", 
+        "has_no_known_copyright": null, 
+        "dimensions": "95.3 x 66.9 cm (37 1/2 x 26 5/16 in.)", 
+        "title": "Poster, Tacones Lejanos [High Heels], 1991", 
+        "provenance": "Acquired from dealers, galleries and auction houses by Marc Benda.  Remained with Benda until 2010, when gifted to CHNDM.", 
+        "participants": [
+            {
+                "person_name": "Pedro Almodóvar Caballero", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236667/", 
+                "role_id": "35236667", 
+                "role_name": "Client", 
+                "person_date": "Spanish, b. 1951", 
+                "role_display_name": "Client:", 
+                "person_id": "18063481", 
+                "person_url": "https://collection.cooperhewitt.org/people/18063481/"
+            }, 
+            {
+                "person_name": "Studio Gatti", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "Spanish, founded 1985", 
+                "role_display_name": "Designed by", 
+                "person_id": "18063483", 
+                "person_url": "https://collection.cooperhewitt.org/people/18063483/"
+            }, 
+            {
+                "person_name": "Marc Benda", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35351535/", 
+                "role_id": "35351535", 
+                "role_name": "Donor", 
+                "person_date": "", 
+                "role_display_name": "Donated by", 
+                "person_id": "18062523", 
+                "person_url": "https://collection.cooperhewitt.org/people/18062523/"
+            }, 
+            {
+                "person_name": "Sara Benda", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35351535/", 
+                "role_id": "35351535", 
+                "role_name": "Donor", 
+                "person_date": "", 
+                "role_display_name": "Donated by", 
+                "person_id": "18063205", 
+                "person_url": "https://collection.cooperhewitt.org/people/18063205/"
+            }
+        ], 
+        "decade": "1990", 
+        "label_text": null, 
+        "woe:country": null, 
+        "dimensions_raw": {
+            "width": [
+                "66.90", 
+                "centimeters"
+            ], 
+            "height": [
+                "95.30", 
+                "centimeters"
+            ]
+        }, 
+        "department_id": "35347493", 
+        "title_raw": "Tacones Lejanos [High Heels]", 
+        "justification": null, 
+        "media_id": "35431963", 
+        "description": "On red background, a photograph of a polished black high-heeled shoe, the heel in the shape of a handgun, and framed by the inscription \"TACONES\" at top, and 'LEJANOS\" at bottom. At the very top is written: \"EL DESEO S.A. PRESENTA UN FILM DE PEDRO ALMODOVAR\", and at bottom are the credits: \"VICTORIA ABRIL  MARISA PAREDES  MIGUEL BOSE\" followed by further credits in smaller type.", 
+        "creditline": "Gift of Sara and Marc Benda", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "1991", 
+        "url": "https://collection.cooperhewitt.org/objects/18758233/", 
+        "type": "poster", 
+        "accession_number": "2010-21-14", 
+        "year_end": 1991, 
+        "signed": null, 
+        "inscribed": null, 
+        "period_id": null, 
+        "year_acquired": "2010", 
+        "woe:country_id": null
+    }
+}

@@ -1,0 +1,157 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": 1998, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": "screenprint on white wove paper", 
+        "tms:id": "230050", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/25644_73fce4ef3d158079_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "25644"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/25644_73fce4ef3d158079_b.jpg", 
+                    "width": 733, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "25644"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/25644_73fce4ef3d158079_d.gif", 
+                    "width": 229, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "25644"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/25644_73fce4ef3d158079_z.jpg", 
+                    "width": 458, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "25644"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/25644_73fce4ef3d158079_n.jpg", 
+                    "width": 229, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "25644"
+                }
+            }, 
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/267239_9bcd7cdbe4a1c51a_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "0", 
+                    "image_id": "267239"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/267239_9bcd7cdbe4a1c51a_b.jpg", 
+                    "width": 1024, 
+                    "height": 732, 
+                    "is_primary": "0", 
+                    "image_id": "267239"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/267239_9bcd7cdbe4a1c51a_d.gif", 
+                    "width": 320, 
+                    "height": 229, 
+                    "is_primary": "0", 
+                    "image_id": "267239"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/267239_9bcd7cdbe4a1c51a_z.jpg", 
+                    "width": 640, 
+                    "height": 457, 
+                    "is_primary": "0", 
+                    "image_id": "267239"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/267239_9bcd7cdbe4a1c51a_n.jpg", 
+                    "width": 320, 
+                    "height": 229, 
+                    "is_primary": "0", 
+                    "image_id": "267239"
+                }
+            }
+        ], 
+        "id": "18708391", 
+        "has_no_known_copyright": null, 
+        "woe:country_name": "Switzerland", 
+        "dimensions": "100 x 70.6 cm (39 3/8 x 27 13/16 in.)", 
+        "title": "Poster, Schule für Gestaltung Bern, 1998", 
+        "provenance": "Ralph Schraivogel, Zurich, Switzerland; 2007: acquired by Museum", 
+        "participants": [
+            {
+                "person_name": "Albin Uldry Workshop", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236673/", 
+                "role_id": "35236673", 
+                "role_name": "Printer", 
+                "person_date": "Swiss", 
+                "role_display_name": "Printed by", 
+                "person_id": "18061679", 
+                "person_url": "https://collection.cooperhewitt.org/people/18061679/"
+            }, 
+            {
+                "person_name": "Ralph Schraivogel", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35351535/", 
+                "role_id": "35351535", 
+                "role_name": "Donor", 
+                "person_date": "Swiss, b. 1960", 
+                "role_display_name": "Donated by", 
+                "person_id": "18060553", 
+                "person_url": "https://collection.cooperhewitt.org/people/18060553/"
+            }, 
+            {
+                "person_name": "Ralph Schraivogel", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236565/", 
+                "role_id": "35236565", 
+                "role_name": "Artist", 
+                "person_date": "Swiss, b. 1960", 
+                "role_display_name": "", 
+                "person_id": "18060553", 
+                "person_url": "https://collection.cooperhewitt.org/people/18060553/"
+            }
+        ], 
+        "decade": "1990", 
+        "label_text": null, 
+        "woe:country": "23424957", 
+        "dimensions_raw": {
+            "width": [
+                "70.64", 
+                "centimeters"
+            ], 
+            "height": [
+                "100.01", 
+                "centimeters"
+            ]
+        }, 
+        "department_id": "35347493", 
+        "title_raw": "Schule für Gestaltung Bern", 
+        "justification": "This silkscreen poster by Ralph Schraivogel, Schraivogel Plakate Schule für Gestaltung Bern (1998), will be included in the museum's 2008 exhibition Rococo: The Continuing Curve 1730–2008. Schraivogel is internationally acknowledged as one of the most important and influential contemporary poster designers, and certainly the most significant contemporary Swiss designer. \nThe graphic designer Keith Godard said of Schraivogel, “The phonetic translation of his name (screaming bird) is a fitting analogy: his posters are always ‘in your face,’ never using quiet or orderly typography so often equated with the Swiss.” This statement sums up where and how Schraivogel has positioned himself in relation to the expected rational model of Swiss graphic design, which typically incorporates combinations of typography and photography—or typography alone—on a tightly controlled mathematical grid. \nTrained in Zurich at the Schule für Gestaltung (1977–82), Schraivogel acknowledges no particular Swiss models or influences from his field. In fact, he prides himself on working outside of any particular movement.[1] Schraivogel has said, “As a designer, I’m not allowed to bore people. I need to make a surprising picture, like fire-works.” Schraivogel rejects the expected look and approach to poster design, in which the designer starts to sketch ideas towards a graphic solution. Instead he relies on chance, on “unforeseeable stray tracks and detours to expand his means of expression.” He will sometimes focus on randomly encountered patterns or graphic structures of his own invention, using them to get into the mood for a new idea or to arrive at a unique solution for each commission. \nRegarding his approach to the use of space, Schraivogel has said that growing up he admired the painter, El Greco, and the printmaker, M. C. Escher, for their ways of representing space. El Greco depicted figures in undefined, cavernous, light-filled spaces that were not contained by the frame. Similarly, Schraivogel’s compositions seem not to be contained by the frame. His other model, Escher, created totally confounding, warped and illogical spatial puzzles that have no resolution. Schraivogel perpetually plays with pattern, image, and type to create ambiguous illusions of space without using perspective, “so that you can’t imagine how the paper remains flat.\"\nOne feels this spatial tension and the resulting explosions of energy in Schraivogel Plakate Schule für Gestaltung Bern, which advertises an exhibition of Schraivogel posters at the Zurich School of Design. In this work, he plays with three components: ribbons of text, a pattern of dots and dashes, and the “imprint” of his own hand. The bands of text, suggesting a liquid-like oil slick floating within the pictorial space, impart some kind of hallucinogenic experience. The Lichtenstein-like dots and dashes similarly expand and contract in irrational configurations pulling the viewer in and out of a fictitious space. And, somewhere in this mix, the designer has created what appears to be an imprint of his hand. In traditional modernist poster design, the hand was used in a formal manner to establish the flat picture plane; here, however, it magnifies and confuses spatial irrationalities. The effect of all these components is to produce a sensation that the dematerialized hand is pushing everything forward—“in your face,” as Godard described it. \nSuch visual inventiveness has characterized Schraivogel’s career. Because he avoids being pigeonholed or limited by a single solution, the experimentation of this poster will not likely be repeated. Swiss posters have been an area of curatorial collection focus since the early 1990s. Since that time, the museum has acquired posters by Armin Hofmann, Wolfgang Weingart, Josef Müller-Brockmann, Max Bill, and Herbert Matter. This representative selection of important Swiss graphic design, which spans the 1930s to 1970s, has established a solid foundation from which to appreciate Schraivogel’s work.\n[1] Dan Nadel, “The flat earth: designer. Poster-maker. Woody Allen heckler. In Zurich, Ralph Schraivogel adds life and depth to surfaces where they can't physically exist,” Print (May 2004): 45.", 
+        "media_id": "35432313", 
+        "description": "A liquid-like biomorphic allover pattern in white and yellow with black spots and black text: PLAKATE; SCHULE FUR GESTALTUNG BERN.", 
+        "creditline": "Gift of Ralph Schraivogel", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "1998", 
+        "url": "https://collection.cooperhewitt.org/objects/18708391/", 
+        "type": "poster", 
+        "accession_number": "2007-15-1", 
+        "year_end": 1998, 
+        "signed": null, 
+        "inscribed": "Printed in black ink, lower left: SCHULE FUR GESTALTUNG BERN, SFGB / SCHANZLIHALDE 31, 3013 BERN / FON: 031 331 05 75. FAX: 031 331 06 79 / SFGB @ MSO.C.H. WWW.MSO.C.H/SFGB/", 
+        "period_id": "35435527", 
+        "year_acquired": "2007", 
+        "woe:country_id": "23424957"
+    }
+}

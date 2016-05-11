@@ -1,0 +1,142 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": 1917, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": null, 
+        "tms:id": "163429", 
+        "images": [
+            {
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/97349_7d22fc2ad8f0376c_b.jpg", 
+                    "width": 687, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "97349"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/97349_7d22fc2ad8f0376c_d.gif", 
+                    "width": 215, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "97349"
+                }, 
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/97349_7d22fc2ad8f0376c_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "97349"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/97349_7d22fc2ad8f0376c_n.jpg", 
+                    "width": 215, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "97349"
+                }, 
+                "x": {
+                    "url": "https://images.collection.cooperhewitt.org/97349_5c961b996575c45f_x.jpg", 
+                    "width": 2746, 
+                    "height": 4096, 
+                    "is_primary": "1", 
+                    "image_id": "97349"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/97349_7d22fc2ad8f0376c_z.jpg", 
+                    "width": 429, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "97349"
+                }
+            }, 
+            {
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/95549_727c326f3ea17c7d_b.jpg", 
+                    "width": 687, 
+                    "height": 1024, 
+                    "is_primary": "0", 
+                    "image_id": "95549"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/95549_727c326f3ea17c7d_d.gif", 
+                    "width": 215, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "95549"
+                }, 
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/95549_727c326f3ea17c7d_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "0", 
+                    "image_id": "95549"
+                }, 
+                "o": {
+                    "url": "https://images.collection.cooperhewitt.org/95549_15a9c380691229ef_o.jpg", 
+                    "width": 4307, 
+                    "height": 6424, 
+                    "is_primary": "0", 
+                    "image_id": "95549"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/95549_727c326f3ea17c7d_n.jpg", 
+                    "width": 215, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "95549"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/95549_727c326f3ea17c7d_z.jpg", 
+                    "width": 429, 
+                    "height": 640, 
+                    "is_primary": "0", 
+                    "image_id": "95549"
+                }
+            }
+        ], 
+        "id": "18505051", 
+        "has_no_known_copyright": "1", 
+        "woe:country_name": "United States", 
+        "dimensions": null, 
+        "title": "Poster, The Navy Needs You! U.S. Navy, possibly 1917", 
+        "provenance": "1980: acquired by Museum", 
+        "participants": [
+            {
+                "person_name": "James Montgomery Flagg", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "American, 1877–1960", 
+                "role_display_name": "Designed by", 
+                "person_id": "68263797", 
+                "person_url": "https://collection.cooperhewitt.org/people/68263797/"
+            }
+        ], 
+        "decade": "1910", 
+        "label_text": null, 
+        "woe:country": "23424977", 
+        "dimensions_raw": null, 
+        "department_id": "35347493", 
+        "title_raw": "The Navy Needs You! U.S. Navy", 
+        "justification": null, 
+        "media_id": "35371135", 
+        "description": null, 
+        "creditline": "Gift of Unknown Donor", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "possibly 1917", 
+        "url": "https://collection.cooperhewitt.org/objects/18505051/", 
+        "type": "poster", 
+        "accession_number": "1980-32-1176", 
+        "year_end": 1917, 
+        "signed": null, 
+        "inscribed": null, 
+        "period_id": null, 
+        "year_acquired": "1980", 
+        "woe:country_id": "23424977"
+    }
+}

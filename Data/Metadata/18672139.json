@@ -1,0 +1,156 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": 1974, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": "offset lithograph in gold ink on two sheets of black paper", 
+        "tms:id": "211511", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/268906_82f9aab47ee8ed89_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "268906"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/268906_82f9aab47ee8ed89_b.jpg", 
+                    "width": 573, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "268906"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/268906_82f9aab47ee8ed89_d.gif", 
+                    "width": 179, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "268906"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/268906_82f9aab47ee8ed89_z.jpg", 
+                    "width": 358, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "268906"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/268906_82f9aab47ee8ed89_n.jpg", 
+                    "width": 179, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "268906"
+                }
+            }, 
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/268913_d9f6a869afdaa67a_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "0", 
+                    "image_id": "268913"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/268913_d9f6a869afdaa67a_b.jpg", 
+                    "width": 573, 
+                    "height": 1024, 
+                    "is_primary": "0", 
+                    "image_id": "268913"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/268913_d9f6a869afdaa67a_d.gif", 
+                    "width": 179, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "268913"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/268913_d9f6a869afdaa67a_z.jpg", 
+                    "width": 358, 
+                    "height": 640, 
+                    "is_primary": "0", 
+                    "image_id": "268913"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/268913_d9f6a869afdaa67a_n.jpg", 
+                    "width": 179, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "268913"
+                }
+            }
+        ], 
+        "id": "18672139", 
+        "has_no_known_copyright": null, 
+        "dimensions": "91.8 x 49.8 cm (36 1/8 x 19 5/8 in. )", 
+        "title": "Poster, Exhibition Poster: James Lee Byars,  The Golden Tower, Springer Gallery, Berlin, December 6, 1974", 
+        "provenance": null, 
+        "participants": [
+            {
+                "person_name": "General Acquisitions Endowment", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35352247/", 
+                "role_id": "35352247", 
+                "role_name": "Fund", 
+                "person_date": "", 
+                "role_display_name": "Fund:", 
+                "person_id": "18048535", 
+                "person_url": "https://collection.cooperhewitt.org/people/18048535/"
+            }, 
+            {
+                "person_name": "James Lee Byers", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236565/", 
+                "role_id": "35236565", 
+                "role_name": "Artist", 
+                "person_date": "American, 1932 – 1997", 
+                "role_display_name": "", 
+                "person_id": "18051599", 
+                "person_url": "https://collection.cooperhewitt.org/people/18051599/"
+            }, 
+            {
+                "person_name": "Lawrence Markey, Inc.", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35352249/", 
+                "role_id": "35352249", 
+                "role_name": "Vendor", 
+                "person_date": "", 
+                "role_display_name": "Purchased from", 
+                "person_id": "18051405", 
+                "person_url": "https://collection.cooperhewitt.org/people/18051405/"
+            }
+        ], 
+        "decade": "1970", 
+        "label_text": null, 
+        "woe:country": null, 
+        "dimensions_raw": {
+            "width": [
+                "49.80", 
+                "centimeters"
+            ], 
+            "height": [
+                "91.80", 
+                "centimeters"
+            ]
+        }, 
+        "department_id": "35347493", 
+        "title_raw": "Exhibition Poster: James Lee Byars,  The Golden Tower, Springer Gallery, Berlin", 
+        "justification": null, 
+        "media_id": "35384533", 
+        "description": "Art exhibition poster featuring a long prose poem in English and German, printed in gold on black paper, with text arranged on the two sheets of paper (which are meant to abut each other) so as to suggest a vertical \"Golden Tower\" structure, or oblong bar shape. (a)  The text begins: \"THE GOLDEN TOWER 1STANDING UP IN THE AIR CROWND [sic] WITH THE GOLDEN SUN...\"   Mentions \"JAMES LEE BYARS\", \"T.E. LAWRENCE THE SEVEN PILLOWS OF WISDOM\" and the year \"1974\".  (b) 1999-45-10-b: Text concludes (near bottom, 8 lines up): ...\"I...INVITE YOU TO THE ..../OPENING OF THE GOLDEN TOWER AT THE/ SPRINGER GALLERY...DEC 6 AT/ 9 PM...November 1974 FELGENTREFF UND GOEBEL KG| BERLIN 61\"", 
+        "creditline": "Museum purchase from General Acquisitions Endowment and Smithsonian Institution Collections Acquisition Program Funds", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "December 6, 1974", 
+        "url": "https://collection.cooperhewitt.org/objects/18672139/", 
+        "type": "poster", 
+        "accession_number": "1999-45-10-a,b", 
+        "year_end": 1974, 
+        "signed": null, 
+        "inscribed": null, 
+        "period_id": null, 
+        "year_acquired": "1999", 
+        "woe:country_id": null
+    }
+}

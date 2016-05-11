@@ -1,0 +1,91 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": null, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": null, 
+        "tms:id": "177532", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/269187_8dce248ef05a48fd_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "269187"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/269187_8dce248ef05a48fd_b.jpg", 
+                    "width": 714, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "269187"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/269187_8dce248ef05a48fd_d.gif", 
+                    "width": 223, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "269187"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/269187_8dce248ef05a48fd_z.jpg", 
+                    "width": 446, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "269187"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/269187_8dce248ef05a48fd_n.jpg", 
+                    "width": 223, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "269187"
+                }
+            }
+        ], 
+        "id": "18617997", 
+        "has_no_known_copyright": null, 
+        "woe:country_name": "United States", 
+        "dimensions": null, 
+        "title": "Poster (USA)", 
+        "provenance": null, 
+        "participants": [
+            {
+                "person_name": "Edward Ruscha", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "American, b. 1937", 
+                "role_display_name": "Designed by", 
+                "person_id": "18053897", 
+                "person_url": "https://collection.cooperhewitt.org/people/18053897/"
+            }
+        ], 
+        "decade": null, 
+        "label_text": null, 
+        "woe:country": "23424977", 
+        "dimensions_raw": null, 
+        "department_id": "35347493", 
+        "title_raw": null, 
+        "justification": null, 
+        "media_id": "35371135", 
+        "description": null, 
+        "creditline": "Gift of Various Donors", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": null, 
+        "url": "https://collection.cooperhewitt.org/objects/18617997/", 
+        "type": "poster", 
+        "accession_number": "1981-29-431", 
+        "year_end": null, 
+        "signed": null, 
+        "inscribed": null, 
+        "period_id": null, 
+        "year_acquired": "1981", 
+        "woe:country_id": "23424977"
+    }
+}

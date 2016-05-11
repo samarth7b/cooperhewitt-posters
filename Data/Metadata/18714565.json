@@ -1,0 +1,197 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": 2007, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": "offset lithograph on white paper", 
+        "tms:id": "233184", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/141666_504222aab82a0024_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "141666"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/141666_504222aab82a0024_b.jpg", 
+                    "width": 1024, 
+                    "height": 347, 
+                    "is_primary": "1", 
+                    "image_id": "141666"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/141666_504222aab82a0024_d.gif", 
+                    "width": 320, 
+                    "height": 108, 
+                    "is_primary": "1", 
+                    "image_id": "141666"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/141666_504222aab82a0024_z.jpg", 
+                    "width": 640, 
+                    "height": 217, 
+                    "is_primary": "1", 
+                    "image_id": "141666"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/141666_504222aab82a0024_n.jpg", 
+                    "width": 320, 
+                    "height": 108, 
+                    "is_primary": "1", 
+                    "image_id": "141666"
+                }
+            }, 
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/28888_6d0419cd017a46ab_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "0", 
+                    "image_id": "28888"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/28888_6d0419cd017a46ab_b.jpg", 
+                    "width": 1024, 
+                    "height": 374, 
+                    "is_primary": "0", 
+                    "image_id": "28888"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/28888_6d0419cd017a46ab_d.gif", 
+                    "width": 320, 
+                    "height": 117, 
+                    "is_primary": "0", 
+                    "image_id": "28888"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/28888_6d0419cd017a46ab_z.jpg", 
+                    "width": 640, 
+                    "height": 233, 
+                    "is_primary": "0", 
+                    "image_id": "28888"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/28888_6d0419cd017a46ab_n.jpg", 
+                    "width": 320, 
+                    "height": 117, 
+                    "is_primary": "0", 
+                    "image_id": "28888"
+                }
+            }
+        ], 
+        "id": "18714565", 
+        "has_no_known_copyright": null, 
+        "woe:country_name": "United States", 
+        "dimensions": "27.9 x 86.4 cm (11 x 34 in.)", 
+        "title": "Poster, Sustainability, 2007", 
+        "provenance": "William Drenttel and Jessica Helfand; 2008: acquired by Museum", 
+        "participants": [
+            {
+                "person_name": "Karin Zonis", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35352245/", 
+                "role_id": "35352245", 
+                "role_name": "Cataloguer", 
+                "person_date": "", 
+                "role_display_name": "Catalogued by", 
+                "person_id": "51676457", 
+                "person_url": "https://collection.cooperhewitt.org/people/51676457/"
+            }, 
+            {
+                "person_name": "Jessica Helfand", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236787/", 
+                "role_id": "35236787", 
+                "role_name": "Art Director", 
+                "person_date": "American", 
+                "role_display_name": "Art Director:", 
+                "person_id": "18061559", 
+                "person_url": "https://collection.cooperhewitt.org/people/18061559/"
+            }, 
+            {
+                "person_name": "William Drenttel", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236787/", 
+                "role_id": "35236787", 
+                "role_name": "Art Director", 
+                "person_date": "American,", 
+                "role_display_name": "Art Director:", 
+                "person_id": "18538099", 
+                "person_url": "https://collection.cooperhewitt.org/people/18538099/"
+            }, 
+            {
+                "person_name": "Stora Enso", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236657/", 
+                "role_id": "35236657", 
+                "role_name": "Manufacturer", 
+                "person_date": "Helsinki, Finland, founded 1998", 
+                "role_display_name": "Manufactured by", 
+                "person_id": "18061569", 
+                "person_url": "https://collection.cooperhewitt.org/people/18061569/"
+            }, 
+            {
+                "person_name": "Paula Scher", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "American, b. 1948", 
+                "role_display_name": "Designed by", 
+                "person_id": "18043689", 
+                "person_url": "https://collection.cooperhewitt.org/people/18043689/"
+            }, 
+            {
+                "person_name": "Jessica Helfand", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35351535/", 
+                "role_id": "35351535", 
+                "role_name": "Donor", 
+                "person_date": "American", 
+                "role_display_name": "Donated by", 
+                "person_id": "18061559", 
+                "person_url": "https://collection.cooperhewitt.org/people/18061559/"
+            }, 
+            {
+                "person_name": "William Drenttel", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35351535/", 
+                "role_id": "35351535", 
+                "role_name": "Donor", 
+                "person_date": "American,", 
+                "role_display_name": "Donated by", 
+                "person_id": "18538099", 
+                "person_url": "https://collection.cooperhewitt.org/people/18538099/"
+            }
+        ], 
+        "decade": "2000", 
+        "label_text": null, 
+        "woe:country": "23424977", 
+        "dimensions_raw": {
+            "width": [
+                "86.40", 
+                "centimeters"
+            ], 
+            "height": [
+                "27.90", 
+                "centimeters"
+            ]
+        }, 
+        "department_id": "35347493", 
+        "title_raw": "Sustainability", 
+        "justification": null, 
+        "media_id": "35424093", 
+        "description": "Poster depicting graphics like a blueprint, light blue and white text: sustainability, on deep blue background, presented as the infinity symbol. 'Sustainability' is presented in plan, section and elevation. Instructions for assembly at bottom.", 
+        "creditline": "Gift of William Drenttel and Jessica Helfand", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "2007", 
+        "url": "https://collection.cooperhewitt.org/objects/18714565/", 
+        "type": "poster", 
+        "accession_number": "2008-7-2", 
+        "year_end": 2007, 
+        "signed": null, 
+        "inscribed": null, 
+        "period_id": null, 
+        "year_acquired": "2008", 
+        "woe:country_id": "23424977"
+    }
+}

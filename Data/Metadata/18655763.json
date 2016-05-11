@@ -1,0 +1,109 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": 1965, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": "screenprint", 
+        "tms:id": "202862", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/269008_3aa1304d83d467e5_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "269008"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/269008_3aa1304d83d467e5_b.jpg", 
+                    "width": 721, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "269008"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/269008_3aa1304d83d467e5_d.gif", 
+                    "width": 225, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "269008"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/269008_3aa1304d83d467e5_z.jpg", 
+                    "width": 450, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "269008"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/269008_3aa1304d83d467e5_n.jpg", 
+                    "width": 225, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "269008"
+                }
+            }
+        ], 
+        "id": "18655763", 
+        "has_no_known_copyright": null, 
+        "dimensions": "106.0 x 74.9 cm (41 3/4 x 29 1/2 in. )", 
+        "title": "Poster, International/University/Choral/Festival  Septmeber 20-26, 1965/Philharmonic Hall Lincoln Center, 1965", 
+        "provenance": null, 
+        "participants": [
+            {
+                "person_name": "Anonymous", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35351535/", 
+                "role_id": "35351535", 
+                "role_name": "Donor", 
+                "person_date": "", 
+                "role_display_name": "Donated by", 
+                "person_id": "68739079", 
+                "person_url": "https://collection.cooperhewitt.org/people/68739079/"
+            }, 
+            {
+                "person_name": "Charles Hinman", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "", 
+                "role_display_name": "Designed by", 
+                "person_id": "18539525", 
+                "person_url": "https://collection.cooperhewitt.org/people/18539525/"
+            }
+        ], 
+        "decade": "1960", 
+        "label_text": null, 
+        "woe:country": null, 
+        "dimensions_raw": {
+            "width": [
+                "74.90", 
+                "centimeters"
+            ], 
+            "height": [
+                "106.00", 
+                "centimeters"
+            ]
+        }, 
+        "department_id": "35347493", 
+        "title_raw": "International/University/Choral/Festival  Septmeber 20-26, 1965/Philharmonic Hall Lincoln Center", 
+        "justification": null, 
+        "media_id": "35422783", 
+        "description": null, 
+        "creditline": "Gift of Anonymous Donor", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "1965", 
+        "url": "https://collection.cooperhewitt.org/objects/18655763/", 
+        "type": "poster", 
+        "accession_number": "1997-89-2", 
+        "year_end": 1965, 
+        "signed": "Signed in graphite, lower left corner: Charles Hinman", 
+        "inscribed": null, 
+        "period_id": null, 
+        "year_acquired": "1997", 
+        "woe:country_id": null
+    }
+}

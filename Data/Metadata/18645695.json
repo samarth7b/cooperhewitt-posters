@@ -1,0 +1,140 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": 1970, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": "Support: Black paper", 
+        "tms:id": "197751", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/224110_b88427820af3ac4c_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "224110"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/224110_b88427820af3ac4c_b.jpg", 
+                    "width": 783, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "224110"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/224110_b88427820af3ac4c_d.gif", 
+                    "width": 245, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "224110"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/224110_b88427820af3ac4c_z.jpg", 
+                    "width": 489, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "224110"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/224110_b88427820af3ac4c_n.jpg", 
+                    "width": 245, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "224110"
+                }
+            }
+        ], 
+        "id": "18645695", 
+        "has_no_known_copyright": null, 
+        "woe:country_name": "United States", 
+        "dimensions": "66.4 x 50.8 cm (26 1/8 in. x 20 in.)", 
+        "title": "Poster, Salon Politique, ca. 1980", 
+        "provenance": "Steven Heller and Karrie Jacobs; 1993: acquired by Museum", 
+        "participants": [
+            {
+                "person_name": "Steven Heller", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35351535/", 
+                "role_id": "35351535", 
+                "role_name": "Donor", 
+                "person_date": "American, b. 1950", 
+                "role_display_name": "Donated by", 
+                "person_id": "18041397", 
+                "person_url": "https://collection.cooperhewitt.org/people/18041397/"
+            }, 
+            {
+                "person_name": "Karrie Jacobs", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35351535/", 
+                "role_id": "35351535", 
+                "role_name": "Donor", 
+                "person_date": "", 
+                "role_display_name": "Donated by", 
+                "person_id": "18056647", 
+                "person_url": "https://collection.cooperhewitt.org/people/18056647/"
+            }, 
+            {
+                "person_name": "Megan L. Smith", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35352245/", 
+                "role_id": "35352245", 
+                "role_name": "Cataloguer", 
+                "person_date": "", 
+                "role_display_name": "Catalogued by", 
+                "person_id": "18047443", 
+                "person_url": "https://collection.cooperhewitt.org/people/18047443/"
+            }, 
+            {
+                "person_name": "LSA", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35352245/", 
+                "role_id": "35352245", 
+                "role_name": "Cataloguer", 
+                "person_date": "", 
+                "role_display_name": "Catalogued by", 
+                "person_id": "18048737", 
+                "person_url": "https://collection.cooperhewitt.org/people/18048737/"
+            }, 
+            {
+                "person_name": "David Virgien", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "", 
+                "role_display_name": "Designed by", 
+                "person_id": "18043141", 
+                "person_url": "https://collection.cooperhewitt.org/people/18043141/"
+            }
+        ], 
+        "decade": "1970", 
+        "label_text": null, 
+        "woe:country": "23424977", 
+        "dimensions_raw": {
+            "width": [
+                "50.80", 
+                "centimeters"
+            ], 
+            "height": [
+                "66.40", 
+                "centimeters"
+            ]
+        }, 
+        "department_id": "35347493", 
+        "title_raw": "Salon Politique", 
+        "justification": null, 
+        "media_id": "35423161", 
+        "description": "Drawing of television set For Alonzo Cretini's Salon Politique. Inside television stenciled text: BOREDUM...BOR/Y...APATHY...AP/..AUTHORITY...A/OM...BOREDUM", 
+        "creditline": "Gift of Steven Heller and Karrie Jacobs", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "ca. 1980", 
+        "url": "https://collection.cooperhewitt.org/objects/18645695/", 
+        "type": "poster", 
+        "accession_number": "1993-53-4", 
+        "year_end": 1990, 
+        "signed": null, 
+        "inscribed": null, 
+        "period_id": null, 
+        "year_acquired": "1993", 
+        "woe:country_id": "23424977"
+    }
+}

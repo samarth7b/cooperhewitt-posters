@@ -1,0 +1,101 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": 1979, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": null, 
+        "tms:id": "177339", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/201217_ea516160e4a49692_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "201217"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/201217_ea516160e4a49692_b.jpg", 
+                    "width": 893, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "201217"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/201217_ea516160e4a49692_d.gif", 
+                    "width": 279, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "201217"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/201217_ea516160e4a49692_z.jpg", 
+                    "width": 558, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "201217"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/201217_ea516160e4a49692_n.jpg", 
+                    "width": 279, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "201217"
+                }
+            }
+        ], 
+        "id": "18617613", 
+        "has_no_known_copyright": null, 
+        "woe:country_name": "United States", 
+        "dimensions": null, 
+        "title": "Poster, New Writers of the Purple Sage, 1979", 
+        "provenance": "1981: acquired by Museum", 
+        "participants": [
+            {
+                "person_name": "Mike Hicks", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "", 
+                "role_display_name": "Designed by", 
+                "person_id": "18057027", 
+                "person_url": "https://collection.cooperhewitt.org/people/18057027/"
+            }, 
+            {
+                "person_name": "Hixo", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "", 
+                "role_display_name": "Designed by", 
+                "person_id": "18535639", 
+                "person_url": "https://collection.cooperhewitt.org/people/18535639/"
+            }
+        ], 
+        "decade": "1970", 
+        "label_text": null, 
+        "woe:country": "23424977", 
+        "dimensions_raw": null, 
+        "department_id": "35347493", 
+        "title_raw": "New Writers of the Purple Sage", 
+        "justification": null, 
+        "media_id": "35371135", 
+        "description": null, 
+        "creditline": "Gift of Various Donors", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "1979", 
+        "url": "https://collection.cooperhewitt.org/objects/18617613/", 
+        "type": "poster", 
+        "accession_number": "1981-29-260", 
+        "year_end": 1979, 
+        "signed": null, 
+        "inscribed": null, 
+        "period_id": null, 
+        "year_acquired": "1981", 
+        "woe:country_id": "23424977"
+    }
+}

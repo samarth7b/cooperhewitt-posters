@@ -1,0 +1,91 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": 1929, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": null, 
+        "tms:id": "183120", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/197092_b60a015c240d59ec_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "197092"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/197092_b60a015c240d59ec_b.jpg", 
+                    "width": 792, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "197092"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/197092_b60a015c240d59ec_d.gif", 
+                    "width": 248, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "197092"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/197092_b60a015c240d59ec_z.jpg", 
+                    "width": 495, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "197092"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/197092_b60a015c240d59ec_n.jpg", 
+                    "width": 248, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "197092"
+                }
+            }
+        ], 
+        "id": "18805653", 
+        "has_no_known_copyright": null, 
+        "woe:country_name": "United States", 
+        "dimensions": null, 
+        "title": "Poster, Musée céramique de Sèvres, Exposition de Céramique, 1929", 
+        "provenance": null, 
+        "participants": [
+            {
+                "person_name": "Simon Lissim", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "American, b. Kiev, Russia, 1900–1981", 
+                "role_display_name": "Designed by", 
+                "person_id": "18043845", 
+                "person_url": "https://collection.cooperhewitt.org/people/18043845/"
+            }
+        ], 
+        "decade": "1920", 
+        "label_text": null, 
+        "woe:country": "23424977", 
+        "dimensions_raw": null, 
+        "department_id": "35347493", 
+        "title_raw": "Musée céramique de Sèvres, Exposition de Céramique", 
+        "justification": null, 
+        "media_id": "35371135", 
+        "description": null, 
+        "creditline": null, 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "1929", 
+        "url": "https://collection.cooperhewitt.org/objects/18805653/", 
+        "type": "poster", 
+        "accession_number": "1985-81-5", 
+        "year_end": 1929, 
+        "signed": null, 
+        "inscribed": null, 
+        "period_id": null, 
+        "year_acquired": "1985", 
+        "woe:country_id": "23424977"
+    }
+}

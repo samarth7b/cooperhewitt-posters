@@ -1,0 +1,157 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": 1981, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": "lithograph on paper", 
+        "tms:id": "200941", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/84975_d648aa32dfbef558_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "84975"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/84975_d648aa32dfbef558_b.jpg", 
+                    "width": 677, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "84975"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/84975_d648aa32dfbef558_d.gif", 
+                    "width": 212, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "84975"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/84975_d648aa32dfbef558_z.jpg", 
+                    "width": 423, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "84975"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/84975_d648aa32dfbef558_n.jpg", 
+                    "width": 212, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "84975"
+                }
+            }, 
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/268756_75a591124e7c0039_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "0", 
+                    "image_id": "268756"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/268756_75a591124e7c0039_b.jpg", 
+                    "width": 714, 
+                    "height": 1024, 
+                    "is_primary": "0", 
+                    "image_id": "268756"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/268756_75a591124e7c0039_d.gif", 
+                    "width": 223, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "268756"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/268756_75a591124e7c0039_z.jpg", 
+                    "width": 446, 
+                    "height": 640, 
+                    "is_primary": "0", 
+                    "image_id": "268756"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/268756_75a591124e7c0039_n.jpg", 
+                    "width": 223, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "268756"
+                }
+            }
+        ], 
+        "id": "18651997", 
+        "has_no_known_copyright": null, 
+        "woe:country_name": "United States", 
+        "dimensions": "52.1 x 34.5 cm (20 1/2 x 13 9/16 in.)", 
+        "title": "Poster, The Strange Case of Dr. Jekyll and Mr. Hyde, 1981", 
+        "provenance": "1995: acquired by Museum", 
+        "participants": [
+            {
+                "person_name": "Art Chantry", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35351535/", 
+                "role_id": "35351535", 
+                "role_name": "Donor", 
+                "person_date": "American, b. 1954", 
+                "role_display_name": "Donated by", 
+                "person_id": "18041683", 
+                "person_url": "https://collection.cooperhewitt.org/people/18041683/"
+            }, 
+            {
+                "person_name": "Central Lithograph", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236673/", 
+                "role_id": "35236673", 
+                "role_name": "Printer", 
+                "person_date": "Seattle, Washington, USA", 
+                "role_display_name": "Printed by", 
+                "person_id": "68248493", 
+                "person_url": "https://collection.cooperhewitt.org/people/68248493/"
+            }, 
+            {
+                "person_name": "Art Chantry", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "American, b. 1954", 
+                "role_display_name": "Designed by", 
+                "person_id": "18041683", 
+                "person_url": "https://collection.cooperhewitt.org/people/18041683/"
+            }
+        ], 
+        "decade": "1980", 
+        "label_text": null, 
+        "woe:country": "23424977", 
+        "dimensions_raw": {
+            "width": [
+                "34.50", 
+                "centimeters"
+            ], 
+            "height": [
+                "52.10", 
+                "centimeters"
+            ]
+        }, 
+        "department_id": "35347493", 
+        "title_raw": "The Strange Case of Dr. Jekyll and Mr. Hyde", 
+        "justification": null, 
+        "media_id": "35419317", 
+        "description": "Bathhouse Theatre poster with a portrait of a man with a red streak (as though torn through paper) through his eyes, revealing the other side of the man.", 
+        "creditline": "Gift of Art Chantry", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "1981", 
+        "url": "https://collection.cooperhewitt.org/objects/18651997/", 
+        "type": "poster", 
+        "accession_number": "1995-69-84", 
+        "year_end": 1981, 
+        "signed": "Imprinted in black ink, lower left: Design By Art Chantry", 
+        "inscribed": "Imprinted in black ink, lower left: Printed by Central Lithograph", 
+        "period_id": null, 
+        "year_acquired": "1995", 
+        "woe:country_id": "23424977"
+    }
+}

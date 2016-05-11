@@ -1,0 +1,120 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": 2008, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": "laser cut wove paper", 
+        "tms:id": "274444", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/50017_646a32e886f6ae5b_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "50017"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/50017_646a32e886f6ae5b_b.jpg", 
+                    "width": 730, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "50017"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/50017_646a32e886f6ae5b_d.gif", 
+                    "width": 228, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "50017"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/50017_646a32e886f6ae5b_z.jpg", 
+                    "width": 456, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "50017"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/50017_646a32e886f6ae5b_n.jpg", 
+                    "width": 228, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "50017"
+                }
+            }
+        ], 
+        "id": "35456725", 
+        "has_no_known_copyright": null, 
+        "woe:country_name": "Canada", 
+        "dimensions": "71.3 x 51 cm (28 1/16 x 20 1/16 in.)", 
+        "title": "Poster, Design Ignites Change, 2008", 
+        "provenance": "Marian Bantjes; 2013: acquired by Museum", 
+        "participants": [
+            {
+                "person_name": "Marian Bantjes", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35351535/", 
+                "role_id": "35351535", 
+                "role_name": "Donor", 
+                "person_date": "Canadian, b. 1963", 
+                "role_display_name": "Donated by", 
+                "person_id": "18060549", 
+                "person_url": "https://collection.cooperhewitt.org/people/18060549/"
+            }, 
+            {
+                "person_name": "Marian Bantjes", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "Canadian, b. 1963", 
+                "role_display_name": "Designed by", 
+                "person_id": "18060549", 
+                "person_url": "https://collection.cooperhewitt.org/people/18060549/"
+            }, 
+            {
+                "person_name": "The Academy of Educational Development", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236667/", 
+                "role_id": "35236667", 
+                "role_name": "Client", 
+                "person_date": "Washington D.C., USA", 
+                "role_display_name": "Client:", 
+                "person_id": "68778203", 
+                "person_url": "https://collection.cooperhewitt.org/people/68778203/"
+            }
+        ], 
+        "decade": "2000", 
+        "label_text": null, 
+        "woe:country": "23424775", 
+        "dimensions_raw": {
+            "width": [
+                "51.00", 
+                "centimeters"
+            ], 
+            "height": [
+                "71.28", 
+                "centimeters"
+            ]
+        }, 
+        "department_id": "35347493", 
+        "title_raw": "Design Ignites Change", 
+        "justification": "Design Ignites Change was created by Marian Bantjes for the Academy of Educational Development, a not-for-profit organization based in Washington D.C. that promotes the use of design in educational development. This poster is especially compelling because of its hand-crafted appearance. In contrast to normal laser cutting procedure, the text was cut from the front of the sheet so that the burn marks around the letters show in the final work.\nAt the time of proposed acquisition, the museum holds several works by Bantjes in its collection, dating from 2005 to 2007. Bantjes is a significant designer and this poster would help extend the museum’s documentation of her creative production.", 
+        "media_id": "35456723", 
+        "description": "Laser cut poster featuring the text \"design ignites change.\"", 
+        "creditline": "Gift of Marian Bantjes", 
+        "on_display": "1", 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "2008", 
+        "url": "https://collection.cooperhewitt.org/objects/35456725/", 
+        "type": "poster", 
+        "accession_number": "2013-23-1", 
+        "year_end": 2008, 
+        "signed": null, 
+        "inscribed": null, 
+        "period_id": null, 
+        "year_acquired": "2013", 
+        "woe:country_id": "23424775"
+    }
+}

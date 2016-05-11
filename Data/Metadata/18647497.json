@@ -1,0 +1,109 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": 1993, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": "offset lithography", 
+        "tms:id": "198654", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/268366_e398847b064ea055_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "268366"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/268366_e398847b064ea055_b.jpg", 
+                    "width": 675, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "268366"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/268366_e398847b064ea055_d.gif", 
+                    "width": 211, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "268366"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/268366_e398847b064ea055_z.jpg", 
+                    "width": 422, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "268366"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/268366_e398847b064ea055_n.jpg", 
+                    "width": 211, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "268366"
+                }
+            }
+        ], 
+        "id": "18647497", 
+        "has_no_known_copyright": null, 
+        "dimensions": "76.2 x 49.1 cm (30 x 19 5/16 in. )", 
+        "title": "Poster, Smithsonian: American Indian Dance Theatre, 1993", 
+        "provenance": null, 
+        "participants": [
+            {
+                "person_name": "Unknown donor: unsolicited gift", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35351535/", 
+                "role_id": "35351535", 
+                "role_name": "Donor", 
+                "person_date": "", 
+                "role_display_name": "Donated by", 
+                "person_id": "18050283", 
+                "person_url": "https://collection.cooperhewitt.org/people/18050283/"
+            }, 
+            {
+                "person_name": "Theo Westenberger", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236631/", 
+                "role_id": "35236631", 
+                "role_name": "Photographer", 
+                "person_date": "", 
+                "role_display_name": "Photographed by", 
+                "person_id": "18048777", 
+                "person_url": "https://collection.cooperhewitt.org/people/18048777/"
+            }
+        ], 
+        "decade": "1990", 
+        "label_text": null, 
+        "woe:country": null, 
+        "dimensions_raw": {
+            "width": [
+                "49.10", 
+                "centimeters"
+            ], 
+            "height": [
+                "76.20", 
+                "centimeters"
+            ]
+        }, 
+        "department_id": "35347493", 
+        "title_raw": "Smithsonian: American Indian Dance Theatre", 
+        "justification": null, 
+        "media_id": "35421913", 
+        "description": "Exhibition poster for American Indian Dance Theatre performance.\nImprinted in white, across top: \"Smithsonian\".\nColor photo reproduction of Native American male performing ritual dance called \"Fancy Dance\".  His costume comprises of elaborate head dress (in yellow, black, red) reaching to his legs.  Teal beaded moccasins, head band, and belt.  Text explaining photography at lower right.", 
+        "creditline": "Gift of Unknown Donor", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "1993", 
+        "url": "https://collection.cooperhewitt.org/objects/18647497/", 
+        "type": "poster", 
+        "accession_number": "1994-114-1", 
+        "year_end": 1993, 
+        "signed": "Imprinted in white, lower right: \"photography by Theo Westenberger\".", 
+        "inscribed": "Imprinted in white, lower right corner: \"Member of the American Indian/ Dance Theatre performs/ rendition of the \"Fancy Dance.\"", 
+        "period_id": null, 
+        "year_acquired": "1994", 
+        "woe:country_id": null
+    }
+}

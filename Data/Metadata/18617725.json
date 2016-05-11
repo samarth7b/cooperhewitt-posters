@@ -1,0 +1,137 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": 1980, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": "lithograph on paper", 
+        "tms:id": "177395", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/90086_89d98a667b6da700_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "90086"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/90086_89d98a667b6da700_b.jpg", 
+                    "width": 1024, 
+                    "height": 787, 
+                    "is_primary": "1", 
+                    "image_id": "90086"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/90086_89d98a667b6da700_d.gif", 
+                    "width": 320, 
+                    "height": 246, 
+                    "is_primary": "1", 
+                    "image_id": "90086"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/90086_89d98a667b6da700_z.jpg", 
+                    "width": 640, 
+                    "height": 492, 
+                    "is_primary": "1", 
+                    "image_id": "90086"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/90086_89d98a667b6da700_n.jpg", 
+                    "width": 320, 
+                    "height": 246, 
+                    "is_primary": "1", 
+                    "image_id": "90086"
+                }
+            }, 
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/200929_d8d9e338cd101db1_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "0", 
+                    "image_id": "200929"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/200929_d8d9e338cd101db1_b.jpg", 
+                    "width": 1024, 
+                    "height": 788, 
+                    "is_primary": "0", 
+                    "image_id": "200929"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/200929_d8d9e338cd101db1_d.gif", 
+                    "width": 320, 
+                    "height": 246, 
+                    "is_primary": "0", 
+                    "image_id": "200929"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/200929_d8d9e338cd101db1_z.jpg", 
+                    "width": 640, 
+                    "height": 492, 
+                    "is_primary": "0", 
+                    "image_id": "200929"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/200929_d8d9e338cd101db1_n.jpg", 
+                    "width": 320, 
+                    "height": 246, 
+                    "is_primary": "0", 
+                    "image_id": "200929"
+                }
+            }
+        ], 
+        "id": "18617725", 
+        "has_no_known_copyright": null, 
+        "woe:country_name": "United States", 
+        "dimensions": "Overall: 43.9 x 57 cm (17 5/16 x 22 7/16 in.)", 
+        "title": "Poster, Speak Your Own Language, 1980", 
+        "provenance": "1981: acquired by Museum", 
+        "participants": [
+            {
+                "person_name": "Frances Butler", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "American, b. 1940", 
+                "role_display_name": "Designed by", 
+                "person_id": "18046019", 
+                "person_url": "https://collection.cooperhewitt.org/people/18046019/"
+            }
+        ], 
+        "decade": "1980", 
+        "label_text": null, 
+        "woe:country": "23424977", 
+        "dimensions_raw": {
+            "width": [
+                "57.00", 
+                "centimeters"
+            ], 
+            "height": [
+                "43.90", 
+                "centimeters"
+            ]
+        }, 
+        "department_id": "35347493", 
+        "title_raw": "Speak Your Own Language", 
+        "justification": null, 
+        "media_id": "35419317", 
+        "description": "Poster depicts exterior (possibly a walled garden) with trees; a yellow structure on the left; on the right, a woman dressed in black holding a bag, she has a purple square on her body and a semi-circle covers her head (like an umbrella). Text in black, at center: Speak your own language / The Womens Graphic Center offers / two workshops with Frances Butler. / Sequential Design: The story in / folded turned or spaced pages. / Sundays, March 16 & 23, 1980 / 9-12 & 1-3    Fee: $30.00 / Experimental Color Printing. / Letterpress, collotype & stencil. / March 17-21, 9-12, 1-3. Fee: $60. / Women’s Graphic Center / at the Woman’s Building / 1727 N. Spring Street / Los Angeles, / CA 90012.", 
+        "creditline": "Gift of Various Donors", 
+        "on_display": null, 
+        "markings": "Lower left, stamp", 
+        "is_loan_object": 0, 
+        "date": "1980", 
+        "url": "https://collection.cooperhewitt.org/objects/18617725/", 
+        "type": "poster", 
+        "accession_number": "1981-29-309", 
+        "year_end": 1980, 
+        "signed": null, 
+        "inscribed": null, 
+        "period_id": null, 
+        "year_acquired": "1981", 
+        "woe:country_id": "23424977"
+    }
+}

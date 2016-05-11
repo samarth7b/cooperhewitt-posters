@@ -1,0 +1,101 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": 1980, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": null, 
+        "tms:id": "202138", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/269110_4d51d80ad1425719_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "269110"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/269110_4d51d80ad1425719_b.jpg", 
+                    "width": 1024, 
+                    "height": 605, 
+                    "is_primary": "1", 
+                    "image_id": "269110"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/269110_4d51d80ad1425719_d.gif", 
+                    "width": 320, 
+                    "height": 189, 
+                    "is_primary": "1", 
+                    "image_id": "269110"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/269110_4d51d80ad1425719_z.jpg", 
+                    "width": 640, 
+                    "height": 378, 
+                    "is_primary": "1", 
+                    "image_id": "269110"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/269110_4d51d80ad1425719_n.jpg", 
+                    "width": 320, 
+                    "height": 189, 
+                    "is_primary": "1", 
+                    "image_id": "269110"
+                }
+            }
+        ], 
+        "id": "18654355", 
+        "has_no_known_copyright": null, 
+        "woe:country_name": "United States", 
+        "dimensions": null, 
+        "title": "Poster, Flux, ca. 1990–95", 
+        "provenance": null, 
+        "participants": [
+            {
+                "person_name": "Jager Di Paola Kemp", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35351535/", 
+                "role_id": "35351535", 
+                "role_name": "Donor", 
+                "person_date": "", 
+                "role_display_name": "Donated by", 
+                "person_id": "18049231", 
+                "person_url": "https://collection.cooperhewitt.org/people/18049231/"
+            }, 
+            {
+                "person_name": "Jager Di Paola Kemp", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "", 
+                "role_display_name": "Designed by", 
+                "person_id": "18049231", 
+                "person_url": "https://collection.cooperhewitt.org/people/18049231/"
+            }
+        ], 
+        "decade": "1980", 
+        "label_text": null, 
+        "woe:country": "23424977", 
+        "dimensions_raw": null, 
+        "department_id": "35347493", 
+        "title_raw": "Flux", 
+        "justification": null, 
+        "media_id": "35371135", 
+        "description": null, 
+        "creditline": "Gift of Jager Di Paola Kemp", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "ca. 1990–95", 
+        "url": "https://collection.cooperhewitt.org/objects/18654355/", 
+        "type": "poster", 
+        "accession_number": "1996-91-12", 
+        "year_end": 1995, 
+        "signed": null, 
+        "inscribed": null, 
+        "period_id": null, 
+        "year_acquired": "1996", 
+        "woe:country_id": "23424977"
+    }
+}

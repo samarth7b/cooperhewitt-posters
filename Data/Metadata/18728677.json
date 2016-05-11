@@ -1,0 +1,167 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": "This poster for a Swiss city planning exhibition, held at the Zurich Art Museum, shows the strong influence of Bauhaus design principles. The sans serif lettering on the roof of the Z-shaped building is the only ornamentation, which further emphasizes the strong zig-zag form.", 
+        "year_start": 1928, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": "lithograph on white wove paper", 
+        "tms:id": "240339", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/90759_35a0943d9d1f7b50_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "90759"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/90759_35a0943d9d1f7b50_b.jpg", 
+                    "width": 722, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "90759"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/90759_35a0943d9d1f7b50_d.gif", 
+                    "width": 226, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "90759"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/90759_35a0943d9d1f7b50_z.jpg", 
+                    "width": 451, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "90759"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/90759_35a0943d9d1f7b50_n.jpg", 
+                    "width": 226, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "90759"
+                }
+            }, 
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/30400_5dba50e25f4e057d_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "0", 
+                    "image_id": "30400"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/30400_5dba50e25f4e057d_b.jpg", 
+                    "width": 722, 
+                    "height": 1024, 
+                    "is_primary": "0", 
+                    "image_id": "30400"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/30400_5dba50e25f4e057d_d.gif", 
+                    "width": 226, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "30400"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/30400_5dba50e25f4e057d_z.jpg", 
+                    "width": 451, 
+                    "height": 640, 
+                    "is_primary": "0", 
+                    "image_id": "30400"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/30400_5dba50e25f4e057d_n.jpg", 
+                    "width": 226, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "30400"
+                }
+            }
+        ], 
+        "id": "18728677", 
+        "has_no_known_copyright": null, 
+        "woe:country_name": "Switzerland", 
+        "dimensions": "128.4 x 90.3 cm (50 9/16 x 35 9/16 in.)", 
+        "title": "Poster, Schweizerische Stadtbau-Ausstellung (Swiss City Planning Exhibit), 1928", 
+        "provenance": "2008: acquired by Museum", 
+        "participants": [
+            {
+                "person_name": "Kunsthaus Zurich", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236667/", 
+                "role_id": "35236667", 
+                "role_name": "Client", 
+                "person_date": "Switzerland", 
+                "role_display_name": "Client:", 
+                "person_id": "18063605", 
+                "person_url": "https://collection.cooperhewitt.org/people/18063605/"
+            }, 
+            {
+                "person_name": "General Acquisitions Endowment", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35352247/", 
+                "role_id": "35352247", 
+                "role_name": "Fund", 
+                "person_date": "", 
+                "role_display_name": "Fund:", 
+                "person_id": "18048535", 
+                "person_url": "https://collection.cooperhewitt.org/people/18048535/"
+            }, 
+            {
+                "person_name": "Niklaus Stoecklin", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "Swiss, 1896 - 1982", 
+                "role_display_name": "Designed by", 
+                "person_id": "18062101", 
+                "person_url": "https://collection.cooperhewitt.org/people/18062101/"
+            }, 
+            {
+                "person_name": "Eric Kellenberger", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35352249/", 
+                "role_id": "35352249", 
+                "role_name": "Vendor", 
+                "person_date": "", 
+                "role_display_name": "Purchased from", 
+                "person_id": "18057951", 
+                "person_url": "https://collection.cooperhewitt.org/people/18057951/"
+            }
+        ], 
+        "decade": "1920", 
+        "label_text": "This poster for a Swiss city planning exhibition, held at the Zurich Art Museum, shows the strong influence of Bauhaus design principles. The sans serif lettering on the roof of the Z-shaped building is the only ornamentation, which further emphasizes the strong zig-zag form.", 
+        "woe:country": "23424957", 
+        "dimensions_raw": {
+            "width": [
+                "90.33", 
+                "centimeters"
+            ], 
+            "height": [
+                "128.43", 
+                "centimeters"
+            ]
+        }, 
+        "department_id": "35347493", 
+        "title_raw": "Schweizerische Stadtbau-Ausstellung (Swiss City Planning Exhibit)", 
+        "justification": "Niklaus Stoecklin was one of a group of early 20th-century Swiss graphic designers, including Emil Cardinaux, Otto Morach, and Otto Baumberger, who originally trained as painters. While many of these early graphic designers celebrated the Swiss landscape, Stoecklin, with the Germans Ludwig Hohlwein and Burkhard Mangold, focused on manufactured and industrial good and products. \nStoecklin studied painting at the Kunstgewerbeschule in Munich, Germany with Alexander Zschokke in 1914 and later at the Allgemeine Gewerbeschule in Basel, Switzerland, where Stoecklin absorbed the lessons of modernism. He created paintings that utilized basic, flat abstract forms and bold compositions, and incorporated these applications in his earliest graphic designs.\nSchweizerische Städtebau-Ausstellung, Stoecklin’s rare modernist poster for a Swiss city planning exhibition held at the Zurich Art Museum in 1928, shows the strong influence of Bauhaus design principles. The poster depicts an unadorned three-story building in the shape of the letter Z, signifying the Zurich museum. The only ornament is the lettering that runs over the building’s flat roof. The use of sans serif lettering, the strong diagonal movement, and the innovative use of line, all point to the impact of a new language of modern design. Later, during the 1930s, Stoecklin became influenced by photographic realism, a movement (called the neue sachlichkeit in Germany) that emphasized straightforward, unromantic renditions of everyday objects. This movement was pioneered in German graphic design by Peter Behrens, Ludwig Hohlwein, and Lucian Bernhard early in the 20th century. By 1931, Stoecklin had abandoned flat abstraction in favor of hand drawn, full color, photographically-accurate renditions of industrial products from radio tubes to tweed jackets. \nThis early poster by Stoecklin would help the museum tell the story of Swiss graphic design across the 20th and 21st centuries as well as its particular impact on American graphic design. The poster proposed for acquisition would join other Swiss graphic design holdings by Josef Müller-Brockman, Max Bill, Herbert Matter, and Ralph Schraivogel, and would provide a fine reference point against which later Swiss posters can be understood.", 
+        "media_id": "35374607", 
+        "description": "A simply constructed three story building in the shape of a Z, signifying the Zurich museum is the single element of this poster; the only ornament is the lettering running over the flat roof. Executed in black, gray and blue with white lettering.", 
+        "creditline": "Museum purchase through gift of Eric Kellenberger Collection, Switzerland and from General Acquisitions Endowment Fund", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "1928", 
+        "url": "https://collection.cooperhewitt.org/objects/18728677/", 
+        "type": "poster", 
+        "accession_number": "2008-33-1", 
+        "year_end": 1928, 
+        "signed": null, 
+        "inscribed": null, 
+        "period_id": null, 
+        "year_acquired": "2008", 
+        "woe:country_id": "23424957"
+    }
+}

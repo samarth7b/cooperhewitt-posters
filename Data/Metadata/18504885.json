@@ -1,0 +1,90 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": 1973, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": null, 
+        "tms:id": "163346", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/268396_01568c51248e48a5_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "268396"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/268396_01568c51248e48a5_b.jpg", 
+                    "width": 698, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "268396"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/268396_01568c51248e48a5_d.gif", 
+                    "width": 218, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "268396"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/268396_01568c51248e48a5_z.jpg", 
+                    "width": 436, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "268396"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/268396_01568c51248e48a5_n.jpg", 
+                    "width": 218, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "268396"
+                }
+            }
+        ], 
+        "id": "18504885", 
+        "has_no_known_copyright": null, 
+        "dimensions": null, 
+        "title": "Poster, HMSO/Peter Branfield, An American Museum, 1973", 
+        "provenance": null, 
+        "participants": [
+            {
+                "person_name": "Victoria &  Albert Museum", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236657/", 
+                "role_id": "35236657", 
+                "role_name": "Manufacturer", 
+                "person_date": "", 
+                "role_display_name": "Manufactured by", 
+                "person_id": "18047475", 
+                "person_url": "https://collection.cooperhewitt.org/people/18047475/"
+            }
+        ], 
+        "decade": "1970", 
+        "label_text": null, 
+        "woe:country": null, 
+        "dimensions_raw": null, 
+        "department_id": "35347493", 
+        "title_raw": "HMSO/Peter Branfield, An American Museum", 
+        "justification": null, 
+        "media_id": "35371135", 
+        "description": null, 
+        "creditline": "Gift of Unknown Donor", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "1973", 
+        "url": "https://collection.cooperhewitt.org/objects/18504885/", 
+        "type": "poster", 
+        "accession_number": "1980-32-1085", 
+        "year_end": 1973, 
+        "signed": null, 
+        "inscribed": null, 
+        "period_id": null, 
+        "year_acquired": "1980", 
+        "woe:country_id": null
+    }
+}

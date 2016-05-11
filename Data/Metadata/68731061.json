@@ -1,0 +1,110 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": 2010, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": "risograph on paper", 
+        "tms:id": "277457", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/94536_188b268cd803f900_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "94536"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/94536_188b268cd803f900_b.jpg", 
+                    "width": 736, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "94536"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/94536_188b268cd803f900_d.gif", 
+                    "width": 230, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "94536"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/94536_188b268cd803f900_z.jpg", 
+                    "width": 460, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "94536"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/94536_188b268cd803f900_n.jpg", 
+                    "width": 230, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "94536"
+                }
+            }
+        ], 
+        "id": "68731061", 
+        "has_no_known_copyright": null, 
+        "woe:country_name": "Switzerland", 
+        "dimensions": "42 × 29.4 cm (16 9/16 × 11 9/16 in.)", 
+        "title": "Poster, Efterklang [Echo], 2013", 
+        "provenance": "Felix Pfäffli to Cooper Hewitt new, August 2014", 
+        "participants": [
+            {
+                "person_name": "Südpol", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236667/", 
+                "role_id": "35236667", 
+                "role_name": "Client", 
+                "person_date": "Kriens, Switzerland", 
+                "role_display_name": "Client:", 
+                "person_id": "68778205", 
+                "person_url": "https://collection.cooperhewitt.org/people/68778205/"
+            }, 
+            {
+                "person_name": "Felix Pfäffli", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "Swiss, born 1986", 
+                "role_display_name": "Designed by", 
+                "person_id": "68735119", 
+                "person_url": "https://collection.cooperhewitt.org/people/68735119/"
+            }
+        ], 
+        "decade": "2010", 
+        "label_text": null, 
+        "woe:country": "23424957", 
+        "dimensions_raw": {
+            "width": [
+                "42.00", 
+                "centimeters"
+            ], 
+            "height": [
+                "29.70", 
+                "centimeters"
+            ]
+        }, 
+        "department_id": "35347493", 
+        "title_raw": "Efterklang [Echo]", 
+        "justification": "These posters are part of Felix Pfäffli’s ongoing series for Südpol, a multipurpose cultural center in Kriens, Switzerland. Before Pfäffli began the series in 2010, each Südpol poster was created by a different designer. Pfäffli maintains this diversity in his series, treating each new commission as an experiment in type, texture, and space. Such varied output befits the center, which Pfäffli has described as “a place with many different faces,” and which incorporates a theater, a music school, multiple concert and exhibition spaces, a flea market, and a restaurant. Pfäffli resists the standardized branding of many cultural institutions, and captures the unique character of the different performances and exhibitions he promotes, rather than presenting Südpol as a cultural and aesthetic monolith.\nDespite their differences, these posters share a playful approach to typography. Working within the boundaries of an A3 format, Pfäffli must devote most of his limited space to the name of an event. As such, he transforms the letters themselves into expressive, graphic elements. He considers how these letters occupy space, and interact with each other. Pfäffli prints these posters using the small-scale Risograph technique suited to widespread distribution. Though inexpensively produced, Pfäffli’s designs pop off the page with intriguing dimensionality.", 
+        "media_id": "68743319", 
+        "description": "Poster for Efterklang concert at Südpol, February 2013. The band's name broken into two columns, in which angled letters read from bottom to top of the poster. These letters are constructed from rows of hills of varying height, seen from above. The hills are printed in a gradient from black to light gray.  Atop some hills stand smaller black letters which spell out additional information about the concert.", 
+        "creditline": "Gift of Felix Pfäffli", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "2013", 
+        "url": "https://collection.cooperhewitt.org/objects/68731061/", 
+        "type": "poster", 
+        "accession_number": "2015-3-3", 
+        "year_end": 2017, 
+        "signed": null, 
+        "inscribed": null, 
+        "period_id": null, 
+        "year_acquired": "2015", 
+        "woe:country_id": "23424957"
+    }
+}

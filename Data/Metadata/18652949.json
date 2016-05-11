@@ -1,0 +1,109 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": 1970, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": "offset lithography", 
+        "tms:id": "201427", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/267501_832bb8ea0ade40d4_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "267501"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/267501_832bb8ea0ade40d4_b.jpg", 
+                    "width": 737, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "267501"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/267501_832bb8ea0ade40d4_d.gif", 
+                    "width": 230, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "267501"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/267501_832bb8ea0ade40d4_z.jpg", 
+                    "width": 461, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "267501"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/267501_832bb8ea0ade40d4_n.jpg", 
+                    "width": 230, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "267501"
+                }
+            }
+        ], 
+        "id": "18652949", 
+        "has_no_known_copyright": null, 
+        "dimensions": "102.9 x 72.7 cm (40 1/2 x 28 5/8 in. )", 
+        "title": "Poster, International Design Center Nagoya: Tanaka, late 20th century", 
+        "provenance": null, 
+        "participants": [
+            {
+                "person_name": "Unknown donor: unsolicited gift", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35351535/", 
+                "role_id": "35351535", 
+                "role_name": "Donor", 
+                "person_date": "", 
+                "role_display_name": "Donated by", 
+                "person_id": "18050283", 
+                "person_url": "https://collection.cooperhewitt.org/people/18050283/"
+            }, 
+            {
+                "person_name": "Ikko Tanaka", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "Japanese, 1930–2002", 
+                "role_display_name": "Designed by", 
+                "person_id": "18041173", 
+                "person_url": "https://collection.cooperhewitt.org/people/18041173/"
+            }
+        ], 
+        "decade": "1970", 
+        "label_text": null, 
+        "woe:country": null, 
+        "dimensions_raw": {
+            "width": [
+                "72.70", 
+                "centimeters"
+            ], 
+            "height": [
+                "102.90", 
+                "centimeters"
+            ]
+        }, 
+        "department_id": "35347493", 
+        "title_raw": "International Design Center Nagoya: Tanaka", 
+        "justification": null, 
+        "media_id": "35421913", 
+        "description": "Poster for International Design Center in Nagoya.  Using color contrast with irregular division of poster.  Four horizontal sections.  Top, imprinted in black: \"IdcN\".  Inversed pink triangular shape next to \"I\" with two black circles near base, like beak of bird on white background.  Second: green irregular trapezoid-like shape sloping downward on right side.  Second trapezoid superimpose in purple on left side.  Third: on left side, rectangle divided diagonally into two similiar sections with left part in yellow and right part in red. On right side, a square divided diagonally into two similiar sections with left part in white and right part in blue.  Bottom: divided vertically in two similiar section with left part in olive green and right part in pale green.  Name and credits in black across bottom.", 
+        "creditline": "Gift of Unknown Donor", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "late 20th century", 
+        "url": "https://collection.cooperhewitt.org/objects/18652949/", 
+        "type": "poster", 
+        "accession_number": "1996-129-4", 
+        "year_end": 1996, 
+        "signed": "Imprinted in black, lower left corner: \"Designed by Ikko Tanaka in collaboration with Toppan Printing Co. Ltd. & Takeo Co. Ltd.\"", 
+        "inscribed": "Imprinted in black, lower right corner: logo (profile of bird) \"IdcN International Design Center Nagoya Inc.\" followed by Japanese text.", 
+        "period_id": null, 
+        "year_acquired": "1996", 
+        "woe:country_id": null
+    }
+}

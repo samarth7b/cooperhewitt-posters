@@ -1,0 +1,137 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": null, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": "lithograph on wove paper", 
+        "tms:id": "177400", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/82698_f8f0068b4931817f_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "82698"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/82698_f8f0068b4931817f_b.jpg", 
+                    "width": 761, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "82698"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/82698_f8f0068b4931817f_d.gif", 
+                    "width": 238, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "82698"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/82698_f8f0068b4931817f_z.jpg", 
+                    "width": 476, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "82698"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/82698_f8f0068b4931817f_n.jpg", 
+                    "width": 238, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "82698"
+                }
+            }, 
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/205814_c2e331140c287591_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "0", 
+                    "image_id": "205814"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/205814_c2e331140c287591_b.jpg", 
+                    "width": 775, 
+                    "height": 1024, 
+                    "is_primary": "0", 
+                    "image_id": "205814"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/205814_c2e331140c287591_d.gif", 
+                    "width": 242, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "205814"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/205814_c2e331140c287591_z.jpg", 
+                    "width": 484, 
+                    "height": 640, 
+                    "is_primary": "0", 
+                    "image_id": "205814"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/205814_c2e331140c287591_n.jpg", 
+                    "width": 242, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "205814"
+                }
+            }
+        ], 
+        "id": "18617735", 
+        "has_no_known_copyright": null, 
+        "woe:country_name": "United States", 
+        "dimensions": "Overall: 66.2 x 49.3 cm (26 1/16 x 19 7/16 in.)", 
+        "title": "Poster, Cucumber", 
+        "provenance": "1981: acquired by Museum", 
+        "participants": [
+            {
+                "person_name": "Brigham Young University", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236667/", 
+                "role_id": "35236667", 
+                "role_name": "Client", 
+                "person_date": "", 
+                "role_display_name": "Client:", 
+                "person_id": "18042421", 
+                "person_url": "https://collection.cooperhewitt.org/people/18042421/"
+            }
+        ], 
+        "decade": null, 
+        "label_text": null, 
+        "woe:country": "23424977", 
+        "dimensions_raw": {
+            "width": [
+                "49.30", 
+                "centimeters"
+            ], 
+            "height": [
+                "66.20", 
+                "centimeters"
+            ]
+        }, 
+        "department_id": "35347493", 
+        "title_raw": "Cucumber", 
+        "justification": null, 
+        "media_id": "35407799", 
+        "description": "Image of three cucumbers with information about registering for classes.", 
+        "creditline": "Gift of Various Donors", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": null, 
+        "url": "https://collection.cooperhewitt.org/objects/18617735/", 
+        "type": "poster", 
+        "accession_number": "1981-29-313", 
+        "year_end": null, 
+        "signed": null, 
+        "inscribed": null, 
+        "period_id": null, 
+        "year_acquired": "1981", 
+        "woe:country_id": "23424977"
+    }
+}

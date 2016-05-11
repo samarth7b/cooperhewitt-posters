@@ -1,0 +1,90 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": "Delvaray uses emotive, thought provoking imagery in this advocacy poster for an exhibition about air quality in Tehran. Her  hatched illustration depicts toxins permeating the air, rendered in a smoky palette of blues, grays and purples. Bright reds are used to highlight people and objects, who stand in contrast to the cool-hued toxins.", 
+        "year_start": 2014, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": "digital print", 
+        "tms:id": "282857", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/265681_67e8482c7268b072_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "265681"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/265681_67e8482c7268b072_b.jpg", 
+                    "width": 717, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "265681"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/265681_67e8482c7268b072_d.gif", 
+                    "width": 224, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "265681"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/265681_67e8482c7268b072_z.jpg", 
+                    "width": 448, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "265681"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/265681_67e8482c7268b072_n.jpg", 
+                    "width": 224, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "265681"
+                }
+            }
+        ], 
+        "id": "69155009", 
+        "has_no_known_copyright": null, 
+        "dimensions": "H x W: 80 × 55.9 cm (31 1/2 in. × 22 in.)", 
+        "title": "Poster, Tehran Monoxide Project, Photos From Four-to-Eighteen-Years-Olds’ Viewpoint, 2014", 
+        "provenance": null, 
+        "participants": [
+            {
+                "person_name": "Homa Delvaray", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236657/", 
+                "role_id": "35236657", 
+                "role_name": "Manufacturer", 
+                "person_date": "Iranian, b. 1980", 
+                "role_display_name": "Manufactured by", 
+                "person_id": "85011421", 
+                "person_url": "https://collection.cooperhewitt.org/people/85011421/"
+            }
+        ], 
+        "decade": "2010", 
+        "label_text": null, 
+        "woe:country": null, 
+        "dimensions_raw": null, 
+        "department_id": "404529577", 
+        "title_raw": "Tehran Monoxide Project, Photos From Four-to-Eighteen-Years-Olds’ Viewpoint", 
+        "justification": null, 
+        "media_id": "35424525", 
+        "description": null, 
+        "creditline": "Courtesy of the designer", 
+        "on_display": "1", 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "2014", 
+        "url": "https://collection.cooperhewitt.org/objects/69155009/", 
+        "type": "poster", 
+        "accession_number": "s-e-1715", 
+        "year_end": 2014, 
+        "signed": null, 
+        "inscribed": null, 
+        "period_id": null, 
+        "year_acquired": null, 
+        "woe:country_id": null
+    }
+}

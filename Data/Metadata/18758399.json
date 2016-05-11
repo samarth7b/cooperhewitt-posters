@@ -1,0 +1,177 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": "The 1996 independent film \"I Shot Andy Warhol\" illustrates the tormented life of radical Valerie Solanas—who fired non-fatal shots at pop artist Andy Warhol on June 3, 1968, in his Factory. It also points out the contradicting themes of violence, revolution, celebrity, and parties that comprised 1960s New York. The poster’s black-red-blue color scheme and layered composition heighten these contradictions. The four layers include Warhol’s own Triple Elvis painting—representing both popular culture and the number of shots Solanas fired—the head of actress Lili Taylor as Solanas superimposed over Elvis’s face, a five-repeat photograph of Warhol sitting with a woman, and the text listing the movie title, its three lead actors, other credits, and a tagline in German. The German text (English in some versions) alludes to mystery, but its translation—“you only get one shot at fame”—satirizes the lead character’s attempts at fame and the cause of her eventual recognition. The style and content of both the poster and film—for which the designers also created the title sequence—show Bureau’s interest in bridging art, design, and social messages.", 
+        "year_start": 1996, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": "offset lithograph on wove paper", 
+        "tms:id": "255485", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/38547_bacf07959673e55e_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "38547"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/38547_bacf07959673e55e_b.jpg", 
+                    "width": 723, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "38547"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/38547_bacf07959673e55e_d.gif", 
+                    "width": 226, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "38547"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/38547_bacf07959673e55e_z.jpg", 
+                    "width": 452, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "38547"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/38547_bacf07959673e55e_n.jpg", 
+                    "width": 226, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "38547"
+                }
+            }, 
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/253165_e88039cb52cd5d08_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "0", 
+                    "image_id": "253165"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/253165_e88039cb52cd5d08_b.jpg", 
+                    "width": 729, 
+                    "height": 1024, 
+                    "is_primary": "0", 
+                    "image_id": "253165"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/253165_e88039cb52cd5d08_d.gif", 
+                    "width": 228, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "253165"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/253165_e88039cb52cd5d08_z.jpg", 
+                    "width": 455, 
+                    "height": 640, 
+                    "is_primary": "0", 
+                    "image_id": "253165"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/253165_e88039cb52cd5d08_n.jpg", 
+                    "width": 228, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "253165"
+                }
+            }
+        ], 
+        "id": "18758399", 
+        "has_no_known_copyright": null, 
+        "woe:country_name": "United States", 
+        "dimensions": "106.8 x 71.3 cm (42 1/16 x 28 1/16 in.)", 
+        "title": "Poster, I Shot Andy Warhol, 1996–97", 
+        "provenance": "Sara and Marc Benda; 2010: acquired by Museum", 
+        "participants": [
+            {
+                "person_name": "Donald Moffett", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "American, b. 1955", 
+                "role_display_name": "Designed by", 
+                "person_id": "18063551", 
+                "person_url": "https://collection.cooperhewitt.org/people/18063551/"
+            }, 
+            {
+                "person_name": "Marlene McCarty", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "American, b. 1957", 
+                "role_display_name": "Designed by", 
+                "person_id": "18041893", 
+                "person_url": "https://collection.cooperhewitt.org/people/18041893/"
+            }, 
+            {
+                "person_name": "Bureau", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236797/", 
+                "role_id": "35236797", 
+                "role_name": "Firm", 
+                "person_date": "founded 1989", 
+                "role_display_name": "Firm:", 
+                "person_id": "18041895", 
+                "person_url": "https://collection.cooperhewitt.org/people/18041895/"
+            }, 
+            {
+                "person_name": "Marc Benda", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35351535/", 
+                "role_id": "35351535", 
+                "role_name": "Donor", 
+                "person_date": "", 
+                "role_display_name": "Donated by", 
+                "person_id": "18062523", 
+                "person_url": "https://collection.cooperhewitt.org/people/18062523/"
+            }, 
+            {
+                "person_name": "Sara Benda", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35351535/", 
+                "role_id": "35351535", 
+                "role_name": "Donor", 
+                "person_date": "", 
+                "role_display_name": "Donated by", 
+                "person_id": "18063205", 
+                "person_url": "https://collection.cooperhewitt.org/people/18063205/"
+            }
+        ], 
+        "decade": "1990", 
+        "label_text": null, 
+        "woe:country": "23424977", 
+        "dimensions_raw": {
+            "width": [
+                "71.30", 
+                "centimeters"
+            ], 
+            "height": [
+                "106.80", 
+                "centimeters"
+            ]
+        }, 
+        "department_id": "35347493", 
+        "title_raw": "I Shot Andy Warhol", 
+        "justification": null, 
+        "media_id": "35431963", 
+        "description": "Background: photograph of the actress Lili Taylor as Valerie Solanas superimposed over the head of Elvis Presley in the Andy Warhol 1963 painting \"Triple Elvis\". The Elvis prototype appears dressed like a cowboy in jeans, corduroy shirt, bandana necktie, and a holster at the hips, holding a gun and looking angrily and intently to the left of the viewer. Layered over this background is a strip of a repeating black-and-white photograph of Andy Warhol sitting with a woman in a restaurant, tinted bright red and bearing the inscription in white, \"I SHOT ANDY WARHOL\". In upper left is the inscription in red: \"Du / hast / nur / eine / Chance / beruhmt / zu werden.\" Further inscription along bottom margin, horizontally, in red:\"Lili Taylor  Stephen Dorff  Jared Harris\", followed by credits in small blue type.", 
+        "creditline": "Gift of Sara and Marc Benda", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "1996–97", 
+        "url": "https://collection.cooperhewitt.org/objects/18758399/", 
+        "type": "poster", 
+        "accession_number": "2010-21-96", 
+        "year_end": 1997, 
+        "signed": null, 
+        "inscribed": null, 
+        "period_id": null, 
+        "year_acquired": "2010", 
+        "woe:country_id": "23424977"
+    }
+}

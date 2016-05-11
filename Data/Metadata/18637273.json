@@ -1,0 +1,120 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": 1960, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": "offset lithograph on paper", 
+        "tms:id": "193488", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/255247_53bb6d25f6b99d5f_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "255247"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/255247_53bb6d25f6b99d5f_b.jpg", 
+                    "width": 691, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "255247"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/255247_53bb6d25f6b99d5f_d.gif", 
+                    "width": 216, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "255247"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/255247_53bb6d25f6b99d5f_z.jpg", 
+                    "width": 432, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "255247"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/255247_53bb6d25f6b99d5f_n.jpg", 
+                    "width": 216, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "255247"
+                }
+            }
+        ], 
+        "id": "18637273", 
+        "has_no_known_copyright": null, 
+        "woe:country_name": "United States", 
+        "dimensions": "91.4 x 60.8 cm (36 x 23 15/16 in.)", 
+        "title": "Poster, JAZZMOBILE, 1960s", 
+        "provenance": "1991: acquired by Museum", 
+        "participants": [
+            {
+                "person_name": "Peter Max", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35351535/", 
+                "role_id": "35351535", 
+                "role_name": "Donor", 
+                "person_date": "American, b. Germany, 1937", 
+                "role_display_name": "Donated by", 
+                "person_id": "18042345", 
+                "person_url": "https://collection.cooperhewitt.org/people/18042345/"
+            }, 
+            {
+                "person_name": "CGC", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35352245/", 
+                "role_id": "35352245", 
+                "role_name": "Cataloguer", 
+                "person_date": "", 
+                "role_display_name": "Catalogued by", 
+                "person_id": "18048417", 
+                "person_url": "https://collection.cooperhewitt.org/people/18048417/"
+            }, 
+            {
+                "person_name": "Peter Max", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "American, b. Germany, 1937", 
+                "role_display_name": "Designed by", 
+                "person_id": "18042345", 
+                "person_url": "https://collection.cooperhewitt.org/people/18042345/"
+            }
+        ], 
+        "decade": "1960", 
+        "label_text": null, 
+        "woe:country": "23424977", 
+        "dimensions_raw": {
+            "width": [
+                "60.80", 
+                "centimeters"
+            ], 
+            "height": [
+                "91.40", 
+                "centimeters"
+            ]
+        }, 
+        "department_id": "35347493", 
+        "title_raw": "JAZZMOBILE", 
+        "justification": null, 
+        "media_id": "35399021", 
+        "description": null, 
+        "creditline": "Gift of Peter Max", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "1960s", 
+        "url": "https://collection.cooperhewitt.org/objects/18637273/", 
+        "type": "poster", 
+        "accession_number": "1991-69-40", 
+        "year_end": 1969, 
+        "signed": null, 
+        "inscribed": "Imprinted in white ink at UC:JAZZMOBILE; in black ink at LR: peter max; at LR margin: Jazzmobile/Peter Max Poster Corp./...", 
+        "period_id": null, 
+        "year_acquired": "1991", 
+        "woe:country_id": "23424977"
+    }
+}

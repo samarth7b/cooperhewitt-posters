@@ -1,0 +1,137 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": null, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": "lithograph on paper", 
+        "tms:id": "177667", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/82685_eace5077229e193e_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "82685"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/82685_eace5077229e193e_b.jpg", 
+                    "width": 721, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "82685"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/82685_eace5077229e193e_d.gif", 
+                    "width": 225, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "82685"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/82685_eace5077229e193e_z.jpg", 
+                    "width": 450, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "82685"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/82685_eace5077229e193e_n.jpg", 
+                    "width": 225, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "82685"
+                }
+            }, 
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/206090_2e393dfa20ce4e4b_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "0", 
+                    "image_id": "206090"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/206090_2e393dfa20ce4e4b_b.jpg", 
+                    "width": 727, 
+                    "height": 1024, 
+                    "is_primary": "0", 
+                    "image_id": "206090"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/206090_2e393dfa20ce4e4b_d.gif", 
+                    "width": 227, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "206090"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/206090_2e393dfa20ce4e4b_z.jpg", 
+                    "width": 454, 
+                    "height": 640, 
+                    "is_primary": "0", 
+                    "image_id": "206090"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/206090_2e393dfa20ce4e4b_n.jpg", 
+                    "width": 227, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "206090"
+                }
+            }
+        ], 
+        "id": "18618267", 
+        "has_no_known_copyright": null, 
+        "woe:country_name": "United States", 
+        "dimensions": "Overall: 68.5 x 48.4 cm (26 15/16 x 19 1/16 in.)", 
+        "title": "Poster, Loafer", 
+        "provenance": "1981: acquired by Museum", 
+        "participants": [
+            {
+                "person_name": "Brigham Young University", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236667/", 
+                "role_id": "35236667", 
+                "role_name": "Client", 
+                "person_date": "", 
+                "role_display_name": "Client:", 
+                "person_id": "18042421", 
+                "person_url": "https://collection.cooperhewitt.org/people/18042421/"
+            }
+        ], 
+        "decade": null, 
+        "label_text": null, 
+        "woe:country": "23424977", 
+        "dimensions_raw": {
+            "width": [
+                "48.40", 
+                "centimeters"
+            ], 
+            "height": [
+                "68.50", 
+                "centimeters"
+            ]
+        }, 
+        "department_id": "35347493", 
+        "title_raw": "Loafer", 
+        "justification": null, 
+        "media_id": "35419317", 
+        "description": "Poster featuring an image of a loafer with brick-colored horizontal stripes.", 
+        "creditline": "Gift of Various Donors", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": null, 
+        "url": "https://collection.cooperhewitt.org/objects/18618267/", 
+        "type": "poster", 
+        "accession_number": "1981-29-90", 
+        "year_end": null, 
+        "signed": null, 
+        "inscribed": null, 
+        "period_id": null, 
+        "year_acquired": "1981", 
+        "woe:country_id": "23424977"
+    }
+}

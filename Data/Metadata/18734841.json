@@ -1,0 +1,157 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": 1984, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": "off-set lithograph on white wove paper", 
+        "tms:id": "243569", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/34427_c8f7e4f59398ed8a_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "34427"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/34427_c8f7e4f59398ed8a_b.jpg", 
+                    "width": 1024, 
+                    "height": 735, 
+                    "is_primary": "1", 
+                    "image_id": "34427"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/34427_c8f7e4f59398ed8a_d.gif", 
+                    "width": 320, 
+                    "height": 230, 
+                    "is_primary": "1", 
+                    "image_id": "34427"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/34427_c8f7e4f59398ed8a_z.jpg", 
+                    "width": 640, 
+                    "height": 459, 
+                    "is_primary": "1", 
+                    "image_id": "34427"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/34427_c8f7e4f59398ed8a_n.jpg", 
+                    "width": 320, 
+                    "height": 230, 
+                    "is_primary": "1", 
+                    "image_id": "34427"
+                }
+            }, 
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/178044_881283c3a7e36643_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "0", 
+                    "image_id": "178044"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/178044_881283c3a7e36643_b.jpg", 
+                    "width": 1024, 
+                    "height": 740, 
+                    "is_primary": "0", 
+                    "image_id": "178044"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/178044_881283c3a7e36643_d.gif", 
+                    "width": 320, 
+                    "height": 231, 
+                    "is_primary": "0", 
+                    "image_id": "178044"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/178044_881283c3a7e36643_z.jpg", 
+                    "width": 640, 
+                    "height": 463, 
+                    "is_primary": "0", 
+                    "image_id": "178044"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/178044_881283c3a7e36643_n.jpg", 
+                    "width": 320, 
+                    "height": 231, 
+                    "is_primary": "0", 
+                    "image_id": "178044"
+                }
+            }
+        ], 
+        "id": "18734841", 
+        "has_no_known_copyright": null, 
+        "woe:country_name": "United States", 
+        "dimensions": "Sheet: 55.9 x 80.6 cm (22 x 31 3/4 in.)", 
+        "title": "Poster, Creativity in Germany and Italy Today:  The European Iceberg, 1984", 
+        "provenance": "Lella and Massimo Vignelli, New York, NY; 2009: acquired by Museum", 
+        "participants": [
+            {
+                "person_name": "Lella Vignelli", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35351535/", 
+                "role_id": "35351535", 
+                "role_name": "Donor", 
+                "person_date": "Italian, b. 1934", 
+                "role_display_name": "Donated by", 
+                "person_id": "18044029", 
+                "person_url": "https://collection.cooperhewitt.org/people/18044029/"
+            }, 
+            {
+                "person_name": "Massimo Vignelli", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "Italian, active USA, 1931–2014", 
+                "role_display_name": "Designed by", 
+                "person_id": "18042329", 
+                "person_url": "https://collection.cooperhewitt.org/people/18042329/"
+            }, 
+            {
+                "person_name": "Massimo Vignelli", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35351535/", 
+                "role_id": "35351535", 
+                "role_name": "Donor", 
+                "person_date": "Italian, active USA, 1931–2014", 
+                "role_display_name": "Donated by", 
+                "person_id": "18042329", 
+                "person_url": "https://collection.cooperhewitt.org/people/18042329/"
+            }
+        ], 
+        "decade": "1980", 
+        "label_text": null, 
+        "woe:country": "23424977", 
+        "dimensions_raw": {
+            "width": [
+                "80.65", 
+                "centimeters"
+            ], 
+            "height": [
+                "55.88", 
+                "centimeters"
+            ]
+        }, 
+        "department_id": "35347493", 
+        "title_raw": "Creativity in Germany and Italy Today:  The European Iceberg", 
+        "justification": null, 
+        "media_id": "35380345", 
+        "description": "Horizontal registers of various colors and repeated text in different fonts: The European Iceberg. Upper margin: Creativity in Germany and Italy Today; Art Gallery of Ontario, Toronto; February 8-April 7, 1985 Tuesday through Sunday […].", 
+        "creditline": "Gift of Lella and Massimo Vignelli", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "1984", 
+        "url": "https://collection.cooperhewitt.org/objects/18734841/", 
+        "type": "poster", 
+        "accession_number": "2009-42-10", 
+        "year_end": 1984, 
+        "signed": null, 
+        "inscribed": "Printed in white text, lower margin: Design: Massimo Vignelli", 
+        "period_id": null, 
+        "year_acquired": "2009", 
+        "woe:country_id": "23424977"
+    }
+}

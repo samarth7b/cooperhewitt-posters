@@ -1,0 +1,137 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": 1979, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": "silkscreen on paper", 
+        "tms:id": "177377", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/90085_bf7056949cc3e07f_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "90085"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/90085_bf7056949cc3e07f_b.jpg", 
+                    "width": 780, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "90085"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/90085_bf7056949cc3e07f_d.gif", 
+                    "width": 244, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "90085"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/90085_bf7056949cc3e07f_z.jpg", 
+                    "width": 487, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "90085"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/90085_bf7056949cc3e07f_n.jpg", 
+                    "width": 244, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "90085"
+                }
+            }, 
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/200459_46315d8940ef4e1a_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "0", 
+                    "image_id": "200459"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/200459_46315d8940ef4e1a_b.jpg", 
+                    "width": 783, 
+                    "height": 1024, 
+                    "is_primary": "0", 
+                    "image_id": "200459"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/200459_46315d8940ef4e1a_d.gif", 
+                    "width": 245, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "200459"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/200459_46315d8940ef4e1a_z.jpg", 
+                    "width": 489, 
+                    "height": 640, 
+                    "is_primary": "0", 
+                    "image_id": "200459"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/200459_46315d8940ef4e1a_n.jpg", 
+                    "width": 245, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "200459"
+                }
+            }
+        ], 
+        "id": "18617689", 
+        "has_no_known_copyright": null, 
+        "woe:country_name": "United States", 
+        "dimensions": "Overall: 58.5 x 44.5 cm (23 1/16 x 17 1/2 in.)", 
+        "title": "Poster, Colored Reading, 1979", 
+        "provenance": "1981: acquired by Museum", 
+        "participants": [
+            {
+                "person_name": "Frances Butler", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "American, b. 1940", 
+                "role_display_name": "Designed by", 
+                "person_id": "18046019", 
+                "person_url": "https://collection.cooperhewitt.org/people/18046019/"
+            }
+        ], 
+        "decade": "1970", 
+        "label_text": null, 
+        "woe:country": "23424977", 
+        "dimensions_raw": {
+            "width": [
+                "44.50", 
+                "centimeters"
+            ], 
+            "height": [
+                "58.50", 
+                "centimeters"
+            ]
+        }, 
+        "department_id": "35347493", 
+        "title_raw": "Colored Reading", 
+        "justification": null, 
+        "media_id": "35519703", 
+        "description": "Poster shows an overlapping of color in mauves and reds, orange and yellow; overlaid are blue silkscreened areas: a mark, constellations, a frog. Across top of poster, in stenciled text: COLORED / READING; list of words with checkboxes on the right: slight colored / lightly colored / Darkly colored / Richly colored / Multi-colored / Technicolored. Left, in black text: Graphic Design & / Printing: Frances Butler / MAY 7-18 1979 / Gallery Talk, May 8, 8pm / 106 Wurster, UCB.", 
+        "creditline": "Gift of Various Donors", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "1979", 
+        "url": "https://collection.cooperhewitt.org/objects/18617689/", 
+        "type": "poster", 
+        "accession_number": "1981-29-293", 
+        "year_end": 1979, 
+        "signed": null, 
+        "inscribed": null, 
+        "period_id": null, 
+        "year_acquired": "1981", 
+        "woe:country_id": "23424977"
+    }
+}

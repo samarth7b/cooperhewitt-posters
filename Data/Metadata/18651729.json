@@ -1,0 +1,111 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": 1970, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": "printed paperboard", 
+        "tms:id": "200807", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/268362_6ef895f571e8537a_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "268362"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/268362_6ef895f571e8537a_b.jpg", 
+                    "width": 760, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "268362"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/268362_6ef895f571e8537a_d.gif", 
+                    "width": 238, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "268362"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/268362_6ef895f571e8537a_z.jpg", 
+                    "width": 475, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "268362"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/268362_6ef895f571e8537a_n.jpg", 
+                    "width": 238, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "268362"
+                }
+            }
+        ], 
+        "id": "18651729", 
+        "has_no_known_copyright": null, 
+        "woe:country_name": "United States", 
+        "dimensions": null, 
+        "title": "Poster, How Can You Worship a Homelss Man on Sunday and Ignore One on Monday?, ca. 1980–95", 
+        "provenance": null, 
+        "participants": [
+            {
+                "person_name": "Coalition for the Homeless", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35351535/", 
+                "role_id": "35351535", 
+                "role_name": "Donor", 
+                "person_date": "", 
+                "role_display_name": "Donated by", 
+                "person_id": "18041655", 
+                "person_url": "https://collection.cooperhewitt.org/people/18041655/"
+            }, 
+            {
+                "person_name": "Coalition for the Homeless", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236667/", 
+                "role_id": "35236667", 
+                "role_name": "Client", 
+                "person_date": "", 
+                "role_display_name": "Client:", 
+                "person_id": "18041655", 
+                "person_url": "https://collection.cooperhewitt.org/people/18041655/"
+            }, 
+            {
+                "person_name": "Peter Cohen", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "", 
+                "role_display_name": "Designed by", 
+                "person_id": "18043171", 
+                "person_url": "https://collection.cooperhewitt.org/people/18043171/"
+            }
+        ], 
+        "decade": "1970", 
+        "label_text": null, 
+        "woe:country": "23424977", 
+        "dimensions_raw": null, 
+        "department_id": "35347493", 
+        "title_raw": "How Can You Worship a Homelss Man on Sunday and Ignore One on Monday?", 
+        "justification": null, 
+        "media_id": "35407531", 
+        "description": "Head of Jesus (based on an old master print) with text superimposed.  Poster for the Coalistion for the Homeless.", 
+        "creditline": "Gift of the Coalition for the Homeless", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "ca. 1980–95", 
+        "url": "https://collection.cooperhewitt.org/objects/18651729/", 
+        "type": "poster", 
+        "accession_number": "1995-67-1", 
+        "year_end": 1995, 
+        "signed": null, 
+        "inscribed": null, 
+        "period_id": null, 
+        "year_acquired": "1995", 
+        "woe:country_id": "23424977"
+    }
+}

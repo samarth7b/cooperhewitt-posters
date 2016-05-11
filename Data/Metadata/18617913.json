@@ -1,0 +1,137 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": 1972, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": "lithograph on paper", 
+        "tms:id": "177490", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/88982_73b6ef4ab6f53aea_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "88982"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/88982_73b6ef4ab6f53aea_b.jpg", 
+                    "width": 754, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "88982"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/88982_73b6ef4ab6f53aea_d.gif", 
+                    "width": 236, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "88982"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/88982_73b6ef4ab6f53aea_z.jpg", 
+                    "width": 471, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "88982"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/88982_73b6ef4ab6f53aea_n.jpg", 
+                    "width": 236, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "88982"
+                }
+            }, 
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/269767_a96a4a6a1542c364_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "0", 
+                    "image_id": "269767"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/269767_a96a4a6a1542c364_b.jpg", 
+                    "width": 720, 
+                    "height": 1024, 
+                    "is_primary": "0", 
+                    "image_id": "269767"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/269767_a96a4a6a1542c364_d.gif", 
+                    "width": 225, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "269767"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/269767_a96a4a6a1542c364_z.jpg", 
+                    "width": 450, 
+                    "height": 640, 
+                    "is_primary": "0", 
+                    "image_id": "269767"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/269767_a96a4a6a1542c364_n.jpg", 
+                    "width": 225, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "269767"
+                }
+            }
+        ], 
+        "id": "18617913", 
+        "has_no_known_copyright": null, 
+        "woe:country_name": "United States", 
+        "dimensions": "170 x 116.9 cm (5 ft. 6 15/16 in. x 46 in.)", 
+        "title": "Poster, Mobil Showcase Presents, ca. 1977", 
+        "provenance": "1981: acquired by Museum", 
+        "participants": [
+            {
+                "person_name": "George Tscherny", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "born Hungary, 1924", 
+                "role_display_name": "Designed by", 
+                "person_id": "18535781", 
+                "person_url": "https://collection.cooperhewitt.org/people/18535781/"
+            }
+        ], 
+        "decade": "1970", 
+        "label_text": null, 
+        "woe:country": "23424977", 
+        "dimensions_raw": {
+            "width": [
+                "116.90", 
+                "centimeters"
+            ], 
+            "height": [
+                "170.00", 
+                "centimeters"
+            ]
+        }, 
+        "department_id": "35347493", 
+        "title_raw": "Mobil Showcase Presents", 
+        "justification": null, 
+        "media_id": "35419317", 
+        "description": "On white poster, a splotch of different colors. Below in black and light blue ink: WHEN HAVOC STRUCK / Events that shocked the world, and what / we learned from them. Host: Glenn Ford. Lower right Mobil logo.", 
+        "creditline": "Gift of Various Donors", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "ca. 1977", 
+        "url": "https://collection.cooperhewitt.org/objects/18617913/", 
+        "type": "poster", 
+        "accession_number": "1981-29-394", 
+        "year_end": 1982, 
+        "signed": "Signed [imprinted] in black ink, middle right: Tscherny", 
+        "inscribed": null, 
+        "period_id": null, 
+        "year_acquired": "1981", 
+        "woe:country_id": "23424977"
+    }
+}

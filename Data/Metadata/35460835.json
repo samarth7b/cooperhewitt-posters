@@ -1,0 +1,184 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": 2008, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": "offset lithograph on paper", 
+        "tms:id": "274849", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/90531_17a7545b90c5aca4_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "90531"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/90531_17a7545b90c5aca4_b.jpg", 
+                    "width": 697, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "90531"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/90531_17a7545b90c5aca4_d.gif", 
+                    "width": 218, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "90531"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/90531_17a7545b90c5aca4_z.jpg", 
+                    "width": 436, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "90531"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/90531_17a7545b90c5aca4_n.jpg", 
+                    "width": 218, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "90531"
+                }
+            }, 
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/88750_fde776a9b72c6a1b_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "0", 
+                    "image_id": "88750"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/88750_fde776a9b72c6a1b_b.jpg", 
+                    "width": 1024, 
+                    "height": 693, 
+                    "is_primary": "0", 
+                    "image_id": "88750"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/88750_fde776a9b72c6a1b_d.gif", 
+                    "width": 320, 
+                    "height": 217, 
+                    "is_primary": "0", 
+                    "image_id": "88750"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/88750_fde776a9b72c6a1b_z.jpg", 
+                    "width": 640, 
+                    "height": 433, 
+                    "is_primary": "0", 
+                    "image_id": "88750"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/88750_fde776a9b72c6a1b_n.jpg", 
+                    "width": 320, 
+                    "height": 217, 
+                    "is_primary": "0", 
+                    "image_id": "88750"
+                }
+            }, 
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/88751_4e774b19e8252215_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "88751"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/88751_4e774b19e8252215_b.jpg", 
+                    "width": 1024, 
+                    "height": 696, 
+                    "is_primary": "1", 
+                    "image_id": "88751"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/88751_4e774b19e8252215_d.gif", 
+                    "width": 320, 
+                    "height": 218, 
+                    "is_primary": "1", 
+                    "image_id": "88751"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/88751_4e774b19e8252215_z.jpg", 
+                    "width": 640, 
+                    "height": 435, 
+                    "is_primary": "1", 
+                    "image_id": "88751"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/88751_4e774b19e8252215_n.jpg", 
+                    "width": 320, 
+                    "height": 218, 
+                    "is_primary": "1", 
+                    "image_id": "88751"
+                }
+            }
+        ], 
+        "id": "35460835", 
+        "has_no_known_copyright": null, 
+        "woe:country_name": "France", 
+        "dimensions": "175 x 118.6 cm (5 ft. 8 7/8 in. x 46 11/16 in.)", 
+        "title": "Poster, Specimen, 2008", 
+        "provenance": "Fanette Mellier; October 2012: acquired by Museum", 
+        "participants": [
+            {
+                "person_name": "Fanette Mellier", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "French, b. 1977", 
+                "role_display_name": "Designed by", 
+                "person_id": "35459755", 
+                "person_url": "https://collection.cooperhewitt.org/people/35459755/"
+            }, 
+            {
+                "person_name": "Fanette Mellier", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35351535/", 
+                "role_id": "35351535", 
+                "role_name": "Donor", 
+                "person_date": "French, b. 1977", 
+                "role_display_name": "Donated by", 
+                "person_id": "35459755", 
+                "person_url": "https://collection.cooperhewitt.org/people/35459755/"
+            }
+        ], 
+        "decade": "2000", 
+        "label_text": null, 
+        "woe:country": "23424819", 
+        "dimensions_raw": {
+            "width": [
+                "118.60", 
+                "centimeters"
+            ], 
+            "length": [
+                "175.00", 
+                "centimeters"
+            ]
+        }, 
+        "department_id": "35347493", 
+        "title_raw": "Specimen", 
+        "justification": "The Specimen poster, designed by Fanette Mellier, was featured in Cooper-Hewitt’s 2012 exhibition, Graphic Design: Now in Production, and is depicted on the exhibition catalog’s cover. Particularly engaging is the way the lower-right corner is folded back to reveal the poster’s text, which advertises a series of exhibitions on editorial design held in 2008 in the town of Chaumont, France. \nTo the general public, the non-repetitive pattern of colorful geometric signs appears to resemble a diagram of a microchip. To the graphic designer, however, these symbols are immediately recognizable as printers’ control marks. According to Mellier, she placed the text on the poster's reverse to avoid interrupting the tapestry-like design, but did so in a location that allows the viewer to easily access the information without folding the paper. The poster won second prize at the 2011 Chaumont International Poster and Graphic Design Festival.", 
+        "media_id": "35399021", 
+        "description": "Poster depicts tapestry of printer's marks with text on lower left verso to be folded up on right side for exhibition purposes.", 
+        "creditline": "Gift of Fanette Mellier", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "2008", 
+        "url": "https://collection.cooperhewitt.org/objects/35460835/", 
+        "type": "poster", 
+        "accession_number": "2013-18-1", 
+        "year_end": 2008, 
+        "signed": null, 
+        "inscribed": null, 
+        "period_id": null, 
+        "year_acquired": "2013", 
+        "woe:country_id": "23424819"
+    }
+}

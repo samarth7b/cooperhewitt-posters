@@ -1,0 +1,88 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": 1968, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": null, 
+        "tms:id": "163327", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/201113_dc4675f4467c5a58_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "201113"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/201113_dc4675f4467c5a58_b.jpg", 
+                    "width": 757, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "201113"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/201113_dc4675f4467c5a58_d.gif", 
+                    "width": 237, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "201113"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/201113_dc4675f4467c5a58_z.jpg", 
+                    "width": 473, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "201113"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/201113_dc4675f4467c5a58_n.jpg", 
+                    "width": 237, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "201113"
+                }
+            }
+        ], 
+        "id": "18504847", 
+        "has_no_known_copyright": null, 
+        "dimensions": "Overall: 71 x 50.8 cm (27 15/16 x 20 in.)", 
+        "title": "Poster, Suzuki Exhibition, 1968", 
+        "provenance": null, 
+        "participants": [], 
+        "decade": "1960", 
+        "label_text": null, 
+        "woe:country": null, 
+        "dimensions_raw": {
+            "width": [
+                "50.80", 
+                "centimeters"
+            ], 
+            "height": [
+                "71.00", 
+                "centimeters"
+            ]
+        }, 
+        "department_id": "35347493", 
+        "title_raw": "Suzuki Exhibition", 
+        "justification": null, 
+        "media_id": "35371135", 
+        "description": null, 
+        "creditline": "Gift of Unknown Donor", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "1968", 
+        "url": "https://collection.cooperhewitt.org/objects/18504847/", 
+        "type": "poster", 
+        "accession_number": "1980-32-1068", 
+        "year_end": 1968, 
+        "signed": null, 
+        "inscribed": null, 
+        "period_id": null, 
+        "year_acquired": "1980", 
+        "woe:country_id": null
+    }
+}

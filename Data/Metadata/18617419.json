@@ -1,0 +1,137 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": 1980, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": "screenprint, gloss ink on paper", 
+        "tms:id": "177242", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/80026_2799ffb21e8192f6_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "80026"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/80026_2799ffb21e8192f6_b.jpg", 
+                    "width": 647, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "80026"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/80026_2799ffb21e8192f6_d.gif", 
+                    "width": 202, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "80026"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/80026_2799ffb21e8192f6_z.jpg", 
+                    "width": 404, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "80026"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/80026_2799ffb21e8192f6_n.jpg", 
+                    "width": 202, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "80026"
+                }
+            }, 
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/268907_0fa28d0065cf13b5_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "0", 
+                    "image_id": "268907"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/268907_0fa28d0065cf13b5_b.jpg", 
+                    "width": 655, 
+                    "height": 1024, 
+                    "is_primary": "0", 
+                    "image_id": "268907"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/268907_0fa28d0065cf13b5_d.gif", 
+                    "width": 205, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "268907"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/268907_0fa28d0065cf13b5_z.jpg", 
+                    "width": 409, 
+                    "height": 640, 
+                    "is_primary": "0", 
+                    "image_id": "268907"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/268907_0fa28d0065cf13b5_n.jpg", 
+                    "width": 205, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "268907"
+                }
+            }
+        ], 
+        "id": "18617419", 
+        "has_no_known_copyright": null, 
+        "woe:country_name": "United States", 
+        "dimensions": "H x W: 100.5 x 63.6 cm (39 9/16 x 25 1/16 in.)", 
+        "title": "Poster, Herman Miller, Summer Picnic, July 26, 1980, 1980", 
+        "provenance": "1981: acquired by Museum", 
+        "participants": [
+            {
+                "person_name": "Stephen Frykholm", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "American, b. 1942", 
+                "role_display_name": "Designed by", 
+                "person_id": "18042365", 
+                "person_url": "https://collection.cooperhewitt.org/people/18042365/"
+            }
+        ], 
+        "decade": "1980", 
+        "label_text": null, 
+        "woe:country": "23424977", 
+        "dimensions_raw": {
+            "width": [
+                "63.60", 
+                "centimeters"
+            ], 
+            "height": [
+                "100.50", 
+                "centimeters"
+            ]
+        }, 
+        "department_id": "35347493", 
+        "title_raw": "Herman Miller, Summer Picnic, July 26, 1980", 
+        "justification": null, 
+        "media_id": "68249125", 
+        "description": "Poster depicts a close-up cropped view of a glass of lemonade; ice cubes and slices of lemon. Text in yellow: herman miller summer picnic  july 26, 1980.", 
+        "creditline": "Gift of Various Donors", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "1980", 
+        "url": "https://collection.cooperhewitt.org/objects/18617419/", 
+        "type": "poster", 
+        "accession_number": "1981-29-174", 
+        "year_end": 1980, 
+        "signed": null, 
+        "inscribed": null, 
+        "period_id": null, 
+        "year_acquired": "1981", 
+        "woe:country_id": "23424977"
+    }
+}

@@ -1,0 +1,197 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": 1973, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": "silkscreen on wove paper", 
+        "tms:id": "199455", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/89862_03752c585d761194_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "89862"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/89862_03752c585d761194_b.jpg", 
+                    "width": 681, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "89862"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/89862_03752c585d761194_d.gif", 
+                    "width": 213, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "89862"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/89862_03752c585d761194_z.jpg", 
+                    "width": 426, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "89862"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/89862_03752c585d761194_n.jpg", 
+                    "width": 213, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "89862"
+                }
+            }, 
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/141724_0a1372a4dd72d81c_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "0", 
+                    "image_id": "141724"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/141724_0a1372a4dd72d81c_b.jpg", 
+                    "width": 688, 
+                    "height": 1024, 
+                    "is_primary": "0", 
+                    "image_id": "141724"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/141724_0a1372a4dd72d81c_d.gif", 
+                    "width": 215, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "141724"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/141724_0a1372a4dd72d81c_z.jpg", 
+                    "width": 430, 
+                    "height": 640, 
+                    "is_primary": "0", 
+                    "image_id": "141724"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/141724_0a1372a4dd72d81c_n.jpg", 
+                    "width": 215, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "141724"
+                }
+            }
+        ], 
+        "id": "18649091", 
+        "has_no_known_copyright": null, 
+        "woe:country_name": "Cuba", 
+        "dimensions": "76.2 x 51.1 cm (30 in. x 20 1/8 in.)", 
+        "title": "Poster, Russian Film, 1973", 
+        "provenance": "1994: acquired by Museum (from Reinhold Brown Gallery New York, NY)", 
+        "participants": [
+            {
+                "person_name": "Dr. Gail Davidson", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35352245/", 
+                "role_id": "35352245", 
+                "role_name": "Cataloguer", 
+                "person_date": "", 
+                "role_display_name": "Catalogued by", 
+                "person_id": "18048255", 
+                "person_url": "https://collection.cooperhewitt.org/people/18048255/"
+            }, 
+            {
+                "person_name": "Reinhold Brown Gallery", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35352249/", 
+                "role_id": "35352249", 
+                "role_name": "Vendor", 
+                "person_date": "", 
+                "role_display_name": "Purchased from", 
+                "person_id": "18041557", 
+                "person_url": "https://collection.cooperhewitt.org/people/18041557/"
+            }, 
+            {
+                "person_name": "Smithsonian Institution CAP Funds--do not use", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35352247/", 
+                "role_id": "35352247", 
+                "role_name": "Fund", 
+                "person_date": "", 
+                "role_display_name": "Fund:", 
+                "person_id": "18048931", 
+                "person_url": "https://collection.cooperhewitt.org/people/18048931/"
+            }, 
+            {
+                "person_name": "ss", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35352245/", 
+                "role_id": "35352245", 
+                "role_name": "Cataloguer", 
+                "person_date": "", 
+                "role_display_name": "Catalogued by", 
+                "person_id": "18047797", 
+                "person_url": "https://collection.cooperhewitt.org/people/18047797/"
+            }, 
+            {
+                "person_name": "SR", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35352245/", 
+                "role_id": "35352245", 
+                "role_name": "Cataloguer", 
+                "person_date": "", 
+                "role_display_name": "Catalogued by", 
+                "person_id": "18047543", 
+                "person_url": "https://collection.cooperhewitt.org/people/18047543/"
+            }, 
+            {
+                "person_name": "Antonio Fernández Reboiro, Cuban", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236565/", 
+                "role_id": "35236565", 
+                "role_name": "Artist", 
+                "person_date": "b. 1935", 
+                "role_display_name": "", 
+                "person_id": "18043371", 
+                "person_url": "https://collection.cooperhewitt.org/people/18043371/"
+            }, 
+            {
+                "person_name": "Antonio Fernández Reboiro, Cuban", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "b. 1935", 
+                "role_display_name": "Designed by", 
+                "person_id": "18043371", 
+                "person_url": "https://collection.cooperhewitt.org/people/18043371/"
+            }
+        ], 
+        "decade": "1970", 
+        "label_text": null, 
+        "woe:country": "23424793", 
+        "dimensions_raw": {
+            "width": [
+                "51.10", 
+                "centimeters"
+            ], 
+            "height": [
+                "76.20", 
+                "centimeters"
+            ]
+        }, 
+        "department_id": "35347493", 
+        "title_raw": "Russian Film", 
+        "justification": null, 
+        "media_id": "35434615", 
+        "description": "The Cuban flag in red, white and blue is repeated 8 times with the triangular parts meeting in the middle to form the lens of a camera. Title in black ink in Cyrillic.", 
+        "creditline": "Museum purchase from Smithsonian Institution Collections Acquisition Program Fund and through gift of Anonymous Donors", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "1973", 
+        "url": "https://collection.cooperhewitt.org/objects/18649091/", 
+        "type": "poster", 
+        "accession_number": "1994-65-10", 
+        "year_end": 1973, 
+        "signed": "Signed and dated on image upper left running vertically: Reboiro 73", 
+        "inscribed": null, 
+        "period_id": null, 
+        "year_acquired": "1994", 
+        "woe:country_id": "23424793"
+    }
+}

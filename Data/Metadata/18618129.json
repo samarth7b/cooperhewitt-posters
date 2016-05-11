@@ -1,0 +1,137 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": null, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": "lithograph on paper", 
+        "tms:id": "177598", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/90459_fffbbc85300d1530_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "90459"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/90459_fffbbc85300d1530_b.jpg", 
+                    "width": 786, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "90459"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/90459_fffbbc85300d1530_d.gif", 
+                    "width": 246, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "90459"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/90459_fffbbc85300d1530_z.jpg", 
+                    "width": 491, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "90459"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/90459_fffbbc85300d1530_n.jpg", 
+                    "width": 246, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "90459"
+                }
+            }, 
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/206582_227ac265ab1e389e_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "0", 
+                    "image_id": "206582"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/206582_227ac265ab1e389e_b.jpg", 
+                    "width": 796, 
+                    "height": 1024, 
+                    "is_primary": "0", 
+                    "image_id": "206582"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/206582_227ac265ab1e389e_d.gif", 
+                    "width": 249, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "206582"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/206582_227ac265ab1e389e_z.jpg", 
+                    "width": 497, 
+                    "height": 640, 
+                    "is_primary": "0", 
+                    "image_id": "206582"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/206582_227ac265ab1e389e_n.jpg", 
+                    "width": 249, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "206582"
+                }
+            }
+        ], 
+        "id": "18618129", 
+        "has_no_known_copyright": null, 
+        "woe:country_name": "United States", 
+        "dimensions": "60.9 x 46.7 cm (24 x 18 3/8 in.)", 
+        "title": "Poster, Hewlett-Packard Calculators / For Space Sciences", 
+        "provenance": "1981: acquired by Museum", 
+        "participants": [
+            {
+                "person_name": "David Stone", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "", 
+                "role_display_name": "Designed by", 
+                "person_id": "18057023", 
+                "person_url": "https://collection.cooperhewitt.org/people/18057023/"
+            }
+        ], 
+        "decade": null, 
+        "label_text": null, 
+        "woe:country": "23424977", 
+        "dimensions_raw": {
+            "width": [
+                "46.70", 
+                "centimeters"
+            ], 
+            "height": [
+                "60.90", 
+                "centimeters"
+            ]
+        }, 
+        "department_id": "35347493", 
+        "title_raw": "Hewlett-Packard Calculators / For Space Sciences", 
+        "justification": null, 
+        "media_id": "35419317", 
+        "description": "Poster on white ground featuring an image of a crescent moon with a white grid next to it against a dark blue-black sky. In black text in margin: HEWLETT PACKARD CALCULATORS / FOR SPACE SCIENCES; photographs of three calculators at lower right; HP logo lower left.", 
+        "creditline": "Gift of Various Donors", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": null, 
+        "url": "https://collection.cooperhewitt.org/objects/18618129/", 
+        "type": "poster", 
+        "accession_number": "1981-29-491", 
+        "year_end": null, 
+        "signed": null, 
+        "inscribed": null, 
+        "period_id": null, 
+        "year_acquired": "1981", 
+        "woe:country_id": "23424977"
+    }
+}

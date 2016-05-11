@@ -1,0 +1,130 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": 1990, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": "screenprint on wove paper", 
+        "tms:id": "201146", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/81527_d2307e1203e8235d_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "81527"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/81527_d2307e1203e8235d_b.jpg", 
+                    "width": 726, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "81527"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/81527_d2307e1203e8235d_d.gif", 
+                    "width": 227, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "81527"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/81527_d2307e1203e8235d_z.jpg", 
+                    "width": 453, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "81527"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/81527_d2307e1203e8235d_n.jpg", 
+                    "width": 227, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "81527"
+                }
+            }
+        ], 
+        "id": "18652405", 
+        "has_no_known_copyright": null, 
+        "woe:country_name": "France", 
+        "dimensions": "84.2 x 59.4 cm (33 1/8 x 23 3/8 in.)", 
+        "title": "Poster, Yo...Tu...El...Nosotros, ca. 1995", 
+        "provenance": "1995: acquired by Museum", 
+        "participants": [
+            {
+                "person_name": "Imagenes Contra El Sida", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35352249/", 
+                "role_id": "35352249", 
+                "role_name": "Vendor", 
+                "person_date": "", 
+                "role_display_name": "Purchased from", 
+                "person_id": "18041725", 
+                "person_url": "https://collection.cooperhewitt.org/people/18041725/"
+            }, 
+            {
+                "person_name": "Graficaza", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236673/", 
+                "role_id": "35236673", 
+                "role_name": "Printer", 
+                "person_date": "France, founded 1983", 
+                "role_display_name": "Printed by", 
+                "person_id": "51865265", 
+                "person_url": "https://collection.cooperhewitt.org/people/51865265/"
+            }, 
+            {
+                "person_name": "General Exhibitions Funds", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35352247/", 
+                "role_id": "35352247", 
+                "role_name": "Fund", 
+                "person_date": "", 
+                "role_display_name": "Fund:", 
+                "person_id": "18049091", 
+                "person_url": "https://collection.cooperhewitt.org/people/18049091/"
+            }, 
+            {
+                "person_name": "Jaume Plensa", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "Spanish, born 1955", 
+                "role_display_name": "Designed by", 
+                "person_id": "18049093", 
+                "person_url": "https://collection.cooperhewitt.org/people/18049093/"
+            }
+        ], 
+        "decade": "1990", 
+        "label_text": null, 
+        "woe:country": "23424819", 
+        "dimensions_raw": {
+            "width": [
+                "59.40", 
+                "centimeters"
+            ], 
+            "height": [
+                "84.20", 
+                "centimeters"
+            ]
+        }, 
+        "department_id": "35347493", 
+        "title_raw": "Yo...Tu...El...Nosotros", 
+        "justification": null, 
+        "media_id": "35399029", 
+        "description": "On a yellow ground, a man’s head reproduced four times and arranged in a circle with text in white spelling out SIDA with one letter in each corner; and red text around the heads: YO / TU EL / NOSOTROS.", 
+        "creditline": "Museum purchase from General Exhibitions Funds", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "ca. 1995", 
+        "url": "https://collection.cooperhewitt.org/objects/18652405/", 
+        "type": "poster", 
+        "accession_number": "1995-86-2", 
+        "year_end": 1995, 
+        "signed": null, 
+        "inscribed": "Printed in black ink, lower left edge: foto: Lluis Bover; lower margin: imagenes contra el sida artis. paris-france. jaume plensa; lower right edge: imprimé en France par Graficaza", 
+        "period_id": null, 
+        "year_acquired": "1995", 
+        "woe:country_id": "23424819"
+    }
+}

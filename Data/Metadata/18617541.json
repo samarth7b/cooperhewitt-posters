@@ -1,0 +1,137 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": null, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": "offset lithograph on brown paper", 
+        "tms:id": "177303", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/49870_f5de45987a43238e_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "49870"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/49870_f5de45987a43238e_b.jpg", 
+                    "width": 679, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "49870"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/49870_f5de45987a43238e_d.gif", 
+                    "width": 212, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "49870"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/49870_f5de45987a43238e_z.jpg", 
+                    "width": 424, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "49870"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/49870_f5de45987a43238e_n.jpg", 
+                    "width": 212, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "49870"
+                }
+            }, 
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/257172_8f0bdaf7744ef3fe_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "0", 
+                    "image_id": "257172"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/257172_8f0bdaf7744ef3fe_b.jpg", 
+                    "width": 685, 
+                    "height": 1024, 
+                    "is_primary": "0", 
+                    "image_id": "257172"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/257172_8f0bdaf7744ef3fe_d.gif", 
+                    "width": 214, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "257172"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/257172_8f0bdaf7744ef3fe_z.jpg", 
+                    "width": 428, 
+                    "height": 640, 
+                    "is_primary": "0", 
+                    "image_id": "257172"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/257172_8f0bdaf7744ef3fe_n.jpg", 
+                    "width": 214, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "257172"
+                }
+            }
+        ], 
+        "id": "18617541", 
+        "has_no_known_copyright": null, 
+        "woe:country_name": "United States", 
+        "dimensions": "82.9 x 54.2 cm (32 5/8 x 21 5/16 in.)", 
+        "title": "Poster, Quality....", 
+        "provenance": "1981: acquired by Museum", 
+        "participants": [
+            {
+                "person_name": "Paul Rand", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "American, 1914–1996", 
+                "role_display_name": "Designed by", 
+                "person_id": "18042341", 
+                "person_url": "https://collection.cooperhewitt.org/people/18042341/"
+            }
+        ], 
+        "decade": null, 
+        "label_text": null, 
+        "woe:country": "23424977", 
+        "dimensions_raw": {
+            "width": [
+                "54.20", 
+                "centimeters"
+            ], 
+            "height": [
+                "82.90", 
+                "centimeters"
+            ]
+        }, 
+        "department_id": "35347493", 
+        "title_raw": "Quality....", 
+        "justification": null, 
+        "media_id": "35519699", 
+        "description": "Text in black on brown paper: Qua / lity: / The concept of quality is very difficult to define, for it is not / merely seen, but somehow intuited in the presence of the work in / which it is embodied. Quality has little to do with popular / notions of beauty, taste, or style; and nothing to do with status, / respectability, or luxury. It is revealed, rather, in an atmosphere of receptivity, propriety, and restraint. /\nQuality is concerned with the weighing of relationships; the / discovery of analogies and contrasts; with proportion and harmony; / the juxtaposition of formal and functional elements—with / their transformation and enrichment. / \nQuality is concerned with truth, not deception; with ideas, not / techniques; with the enduring, not the ephemeral; with precision, / not fussiness; with simplicity, not vacuity; with subtlety, not / blatancy; with sensitivity, not sentimentality. / \nPaul Rand", 
+        "creditline": "Gift of Various Donors", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": null, 
+        "url": "https://collection.cooperhewitt.org/objects/18617541/", 
+        "type": "poster", 
+        "accession_number": "1981-29-228", 
+        "year_end": null, 
+        "signed": null, 
+        "inscribed": null, 
+        "period_id": null, 
+        "year_acquired": "1981", 
+        "woe:country_id": "23424977"
+    }
+}

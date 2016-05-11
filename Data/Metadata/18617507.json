@@ -1,0 +1,137 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": 1977, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": "offset lithograph on paper", 
+        "tms:id": "177286", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/49882_7eb3202d6eb80adc_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "49882"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/49882_7eb3202d6eb80adc_b.jpg", 
+                    "width": 684, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "49882"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/49882_7eb3202d6eb80adc_d.gif", 
+                    "width": 214, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "49882"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/49882_7eb3202d6eb80adc_z.jpg", 
+                    "width": 428, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "49882"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/49882_7eb3202d6eb80adc_n.jpg", 
+                    "width": 214, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "49882"
+                }
+            }, 
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/268805_9ec27797a2d90f54_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "0", 
+                    "image_id": "268805"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/268805_9ec27797a2d90f54_b.jpg", 
+                    "width": 688, 
+                    "height": 1024, 
+                    "is_primary": "0", 
+                    "image_id": "268805"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/268805_9ec27797a2d90f54_d.gif", 
+                    "width": 215, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "268805"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/268805_9ec27797a2d90f54_z.jpg", 
+                    "width": 430, 
+                    "height": 640, 
+                    "is_primary": "0", 
+                    "image_id": "268805"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/268805_9ec27797a2d90f54_n.jpg", 
+                    "width": 215, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "268805"
+                }
+            }
+        ], 
+        "id": "18617507", 
+        "has_no_known_copyright": null, 
+        "woe:country_name": "United States", 
+        "dimensions": "H x W: 91.5 x 61 cm (36 x 24 in.)", 
+        "title": "Poster, Blue Shadow, 1977", 
+        "provenance": "1981: acquired by Museum", 
+        "participants": [
+            {
+                "person_name": "Milton Glaser", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "American, b. 1929", 
+                "role_display_name": "Designed by", 
+                "person_id": "18042107", 
+                "person_url": "https://collection.cooperhewitt.org/people/18042107/"
+            }
+        ], 
+        "decade": "1970", 
+        "label_text": null, 
+        "woe:country": "23424977", 
+        "dimensions_raw": {
+            "width": [
+                "61.00", 
+                "centimeters"
+            ], 
+            "height": [
+                "91.50", 
+                "centimeters"
+            ]
+        }, 
+        "department_id": "35347493", 
+        "title_raw": "Blue Shadow", 
+        "justification": null, 
+        "media_id": "35399021", 
+        "description": "Poster depicts a partially nude woman wearing a morphing yellow dress and a headdress. She is in the style of late nineteenth-century femme fatale. Text in pink, upper margin: Blue Shadow / [in white] 7. QUAI VOLTAIRE 75007 PARIS.", 
+        "creditline": "Gift of Various Donors", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "1977", 
+        "url": "https://collection.cooperhewitt.org/objects/18617507/", 
+        "type": "poster", 
+        "accession_number": "1981-29-212", 
+        "year_end": 1977, 
+        "signed": "Signed in yellow, lower margin: Milton Glaser", 
+        "inscribed": null, 
+        "period_id": null, 
+        "year_acquired": "1981", 
+        "woe:country_id": "23424977"
+    }
+}

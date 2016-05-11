@@ -1,0 +1,156 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": 1989, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": "offset lithograph on wove paper", 
+        "tms:id": "255396", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/36991_481e4c743a8e8765_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "36991"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/36991_481e4c743a8e8765_b.jpg", 
+                    "width": 709, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "36991"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/36991_481e4c743a8e8765_d.gif", 
+                    "width": 221, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "36991"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/36991_481e4c743a8e8765_z.jpg", 
+                    "width": 443, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "36991"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/36991_481e4c743a8e8765_n.jpg", 
+                    "width": 221, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "36991"
+                }
+            }, 
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/253174_e30355806f98f5cc_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "0", 
+                    "image_id": "253174"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/253174_e30355806f98f5cc_b.jpg", 
+                    "width": 709, 
+                    "height": 1024, 
+                    "is_primary": "0", 
+                    "image_id": "253174"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/253174_e30355806f98f5cc_d.gif", 
+                    "width": 222, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "253174"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/253174_e30355806f98f5cc_z.jpg", 
+                    "width": 443, 
+                    "height": 640, 
+                    "is_primary": "0", 
+                    "image_id": "253174"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/253174_e30355806f98f5cc_n.jpg", 
+                    "width": 222, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "253174"
+                }
+            }
+        ], 
+        "id": "18758225", 
+        "has_no_known_copyright": null, 
+        "dimensions": "98.2 x 67.7 cm (38 11/16 x 26 5/8 in.)", 
+        "title": "Poster, Mystery Train, 1989", 
+        "provenance": "Acquired from dealers, galleries and auction houses by Marc Benda.  Remained with Benda until 2010, when gifted to CHNDM.", 
+        "participants": [
+            {
+                "person_name": "Andrzej Klimowski", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "British, active Poland, b. 1949", 
+                "role_display_name": "Designed by", 
+                "person_id": "18063463", 
+                "person_url": "https://collection.cooperhewitt.org/people/18063463/"
+            }, 
+            {
+                "person_name": "Marc Benda", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35351535/", 
+                "role_id": "35351535", 
+                "role_name": "Donor", 
+                "person_date": "", 
+                "role_display_name": "Donated by", 
+                "person_id": "18062523", 
+                "person_url": "https://collection.cooperhewitt.org/people/18062523/"
+            }, 
+            {
+                "person_name": "Sara Benda", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35351535/", 
+                "role_id": "35351535", 
+                "role_name": "Donor", 
+                "person_date": "", 
+                "role_display_name": "Donated by", 
+                "person_id": "18063205", 
+                "person_url": "https://collection.cooperhewitt.org/people/18063205/"
+            }
+        ], 
+        "decade": "1980", 
+        "label_text": null, 
+        "woe:country": null, 
+        "dimensions_raw": {
+            "width": [
+                "67.70", 
+                "centimeters"
+            ], 
+            "height": [
+                "98.20", 
+                "centimeters"
+            ]
+        }, 
+        "department_id": "35347493", 
+        "title_raw": "Mystery Train", 
+        "justification": null, 
+        "media_id": "35431963", 
+        "description": "The background is a black-and-white photograph of a young man feigning surprise, against a white wall. Overlaid midway is a cut-out of a black-and-orange fan-shaped diagram of piano keys, music notation, the printed words \"SUN\", and two cut-outs in place of the man's eyes, transforming them into slits. At three-quarters, lower left, is an image of a train, from a newspaper or book, appearing to run into the young man's mouth, which is colored lipstick-red. At the top is the inscription \"MYSTERY TRAIN\", followed by a listing of the credits for the making of this film.", 
+        "creditline": "Gift of Sara and Marc Benda", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "1989", 
+        "url": "https://collection.cooperhewitt.org/objects/18758225/", 
+        "type": "poster", 
+        "accession_number": "2010-21-10", 
+        "year_end": 1989, 
+        "signed": null, 
+        "inscribed": null, 
+        "period_id": null, 
+        "year_acquired": "2010", 
+        "woe:country_id": null
+    }
+}

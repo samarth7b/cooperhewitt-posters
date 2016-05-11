@@ -1,0 +1,97 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": null, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": "lithograph on wood pulp paper", 
+        "tms:id": "167012", 
+        "images": [
+            {
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/252751_f364efb04949174b_b.jpg", 
+                    "width": 750, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "252751"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/252751_f364efb04949174b_d.gif", 
+                    "width": 234, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "252751"
+                }, 
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/252751_f364efb04949174b_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "252751"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/252751_f364efb04949174b_n.jpg", 
+                    "width": 234, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "252751"
+                }, 
+                "x": {
+                    "url": "https://images.collection.cooperhewitt.org/252751_52faa4fd93522515_x.jpg", 
+                    "width": 2998, 
+                    "height": 4096, 
+                    "is_primary": "1", 
+                    "image_id": "252751"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/252751_f364efb04949174b_z.jpg", 
+                    "width": 468, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "252751"
+                }
+            }
+        ], 
+        "id": "18512113", 
+        "has_no_known_copyright": "1", 
+        "dimensions": null, 
+        "title": "Poster, Palais de Glace, Champs-Elysees, ca. 1896", 
+        "provenance": "Found in collection during 1980 inventory", 
+        "participants": [
+            {
+                "person_name": "Jules Chéret", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "French, 1836 - 1932", 
+                "role_display_name": "Designed by", 
+                "person_id": "18051221", 
+                "person_url": "https://collection.cooperhewitt.org/people/18051221/"
+            }
+        ], 
+        "decade": null, 
+        "label_text": null, 
+        "woe:country": null, 
+        "dimensions_raw": null, 
+        "department_id": "35347493", 
+        "title_raw": "Palais de Glace, Champs-Elysees", 
+        "justification": null, 
+        "media_id": "35431993", 
+        "description": null, 
+        "creditline": "Gift of Unknown Donor", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "ca. 1896", 
+        "url": "https://collection.cooperhewitt.org/objects/18512113/", 
+        "type": "poster", 
+        "accession_number": "1980-32-980", 
+        "year_end": null, 
+        "signed": null, 
+        "inscribed": null, 
+        "period_id": null, 
+        "year_acquired": "1980", 
+        "woe:country_id": null
+    }
+}

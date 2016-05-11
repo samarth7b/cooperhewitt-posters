@@ -1,0 +1,120 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": null, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": "lithograph on wove paper", 
+        "tms:id": "202484", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/252440_e2ce20e46a5241e2_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "252440"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/252440_e2ce20e46a5241e2_b.jpg", 
+                    "width": 723, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "252440"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/252440_e2ce20e46a5241e2_d.gif", 
+                    "width": 226, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "252440"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/252440_e2ce20e46a5241e2_z.jpg", 
+                    "width": 452, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "252440"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/252440_e2ce20e46a5241e2_n.jpg", 
+                    "width": 226, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "252440"
+                }
+            }
+        ], 
+        "id": "18655029", 
+        "has_no_known_copyright": null, 
+        "woe:country_name": "Spain", 
+        "dimensions": "90.1 x 63.1 cm (35 1/2 x 24 13/16 in.)", 
+        "title": "Poster, F.P.C./ F.E.T.T/ Campesinos/Vuestra Unidad es la/Victoria (F.P.C  F.E.T.T  Peasants your unity is victory)", 
+        "provenance": null, 
+        "participants": [
+            {
+                "person_name": "Federacion Provincial Campesinas", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236661/", 
+                "role_id": "35236661", 
+                "role_name": "Publisher", 
+                "person_date": "", 
+                "role_display_name": "Published by", 
+                "person_id": "18060403", 
+                "person_url": "https://collection.cooperhewitt.org/people/18060403/"
+            }, 
+            {
+                "person_name": "José Calandín Guzmán", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "Spanish", 
+                "role_display_name": "Designed by", 
+                "person_id": "18536399", 
+                "person_url": "https://collection.cooperhewitt.org/people/18536399/"
+            }, 
+            {
+                "person_name": "William P. Mangold", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35351535/", 
+                "role_id": "35351535", 
+                "role_name": "Donor", 
+                "person_date": "", 
+                "role_display_name": "Donated by", 
+                "person_id": "18049663", 
+                "person_url": "https://collection.cooperhewitt.org/people/18049663/"
+            }
+        ], 
+        "decade": null, 
+        "label_text": null, 
+        "woe:country": "23424950", 
+        "dimensions_raw": {
+            "width": [
+                "63.10", 
+                "centimeters"
+            ], 
+            "height": [
+                "90.10", 
+                "centimeters"
+            ]
+        }, 
+        "department_id": "35347493", 
+        "title_raw": "F.P.C./ F.E.T.T/ Campesinos/Vuestra Unidad es la/Victoria (F.P.C  F.E.T.T  Peasants your unity is victory)", 
+        "justification": null, 
+        "media_id": "35407799", 
+        "description": "Spanish Civil War poster. On blue background, two red fists grasp white signage that is looped from one handle to the other. In red, imprinted on bottom: F.P.C. (left); F.E.T.T. (right). Beneath central image, text in red and black: CAMPESINOS/ VUESTRA UNIDAD es la/ VICTORIA (Peasants your unity is victory); logo imprinted in black, lower left: FEDERACIO  PROVINCIAL CAMPSINA VALENCIA, circumscribing an image of a sickle and a bundle of grain.  Imprinted in black, vertically along lower left edge: GRAFICAS VALENCIA INTERVENIDO U.G.T. C.N.T.", 
+        "creditline": "Gift of William P. Mangold", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": null, 
+        "url": "https://collection.cooperhewitt.org/objects/18655029/", 
+        "type": "poster", 
+        "accession_number": "1997-21-22", 
+        "year_end": null, 
+        "signed": null, 
+        "inscribed": null, 
+        "period_id": null, 
+        "year_acquired": "1997", 
+        "woe:country_id": "23424950"
+    }
+}

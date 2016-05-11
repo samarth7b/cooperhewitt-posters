@@ -1,0 +1,147 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": null, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": "screenprint on cream wove paper", 
+        "tms:id": "200892", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/84937_ae03775a070ce7d4_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "84937"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/84937_ae03775a070ce7d4_b.jpg", 
+                    "width": 526, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "84937"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/84937_ae03775a070ce7d4_d.gif", 
+                    "width": 164, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "84937"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/84937_ae03775a070ce7d4_z.jpg", 
+                    "width": 329, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "84937"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/84937_ae03775a070ce7d4_n.jpg", 
+                    "width": 164, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "84937"
+                }
+            }, 
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/268893_eb876e0ecdcd8eb8_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "0", 
+                    "image_id": "268893"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/268893_eb876e0ecdcd8eb8_b.jpg", 
+                    "width": 538, 
+                    "height": 1024, 
+                    "is_primary": "0", 
+                    "image_id": "268893"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/268893_eb876e0ecdcd8eb8_d.gif", 
+                    "width": 168, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "268893"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/268893_eb876e0ecdcd8eb8_z.jpg", 
+                    "width": 336, 
+                    "height": 640, 
+                    "is_primary": "0", 
+                    "image_id": "268893"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/268893_eb876e0ecdcd8eb8_n.jpg", 
+                    "width": 168, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "268893"
+                }
+            }
+        ], 
+        "id": "18651899", 
+        "has_no_known_copyright": null, 
+        "woe:country_name": "United States", 
+        "dimensions": "67.1 x 34.4 cm (26 7/16 x 13 9/16 in.)", 
+        "title": "Poster, Sin", 
+        "provenance": "1995: acquired by Museum", 
+        "participants": [
+            {
+                "person_name": "Art Chantry", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35351535/", 
+                "role_id": "35351535", 
+                "role_name": "Donor", 
+                "person_date": "American, b. 1954", 
+                "role_display_name": "Donated by", 
+                "person_id": "18041683", 
+                "person_url": "https://collection.cooperhewitt.org/people/18041683/"
+            }, 
+            {
+                "person_name": "Art Chantry", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "American, b. 1954", 
+                "role_display_name": "Designed by", 
+                "person_id": "18041683", 
+                "person_url": "https://collection.cooperhewitt.org/people/18041683/"
+            }
+        ], 
+        "decade": null, 
+        "label_text": null, 
+        "woe:country": "23424977", 
+        "dimensions_raw": {
+            "width": [
+                "34.40", 
+                "centimeters"
+            ], 
+            "height": [
+                "67.10", 
+                "centimeters"
+            ]
+        }, 
+        "department_id": "35347493", 
+        "title_raw": "Sin", 
+        "justification": null, 
+        "media_id": "35428821", 
+        "description": "Poster advertising \"Sin\", opening at the Weathered Wall.  Features a side view of a foot in stiletto platform high heels, printed in black against red.", 
+        "creditline": "Gift of Art Chantry", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": null, 
+        "url": "https://collection.cooperhewitt.org/objects/18651899/", 
+        "type": "poster", 
+        "accession_number": "1995-69-53", 
+        "year_end": null, 
+        "signed": null, 
+        "inscribed": "Imprinted in black ink, lower right: DESIGN BY ART CHANTRY", 
+        "period_id": null, 
+        "year_acquired": "1995", 
+        "woe:country_id": "23424977"
+    }
+}

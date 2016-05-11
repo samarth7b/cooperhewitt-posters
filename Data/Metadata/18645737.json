@@ -1,0 +1,150 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": 1972, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": "lithograph on paper", 
+        "tms:id": "197772", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/201689_9b0db3699e666788_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "0", 
+                    "image_id": "201689"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/201689_9b0db3699e666788_b.jpg", 
+                    "width": 795, 
+                    "height": 1024, 
+                    "is_primary": "0", 
+                    "image_id": "201689"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/201689_9b0db3699e666788_d.gif", 
+                    "width": 248, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "201689"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/201689_9b0db3699e666788_z.jpg", 
+                    "width": 497, 
+                    "height": 640, 
+                    "is_primary": "0", 
+                    "image_id": "201689"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/201689_9b0db3699e666788_n.jpg", 
+                    "width": 248, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "201689"
+                }
+            }
+        ], 
+        "id": "18645737", 
+        "has_no_known_copyright": null, 
+        "woe:country_name": "United States", 
+        "dimensions": "63.7 × 48.5 cm (25 1/16 × 19 1/8 in.)", 
+        "title": "Poster (USA), ca. 1982", 
+        "provenance": "Steven Heller and Karrie Jacobs; 1993: acquired by Museum", 
+        "participants": [
+            {
+                "person_name": "Joel Meyerowitz", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236631/", 
+                "role_id": "35236631", 
+                "role_name": "Photographer", 
+                "person_date": "", 
+                "role_display_name": "Photographed by", 
+                "person_id": "68264203", 
+                "person_url": "https://collection.cooperhewitt.org/people/68264203/"
+            }, 
+            {
+                "person_name": "Mary Frank", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236641/", 
+                "role_id": "35236641", 
+                "role_name": "Sculptor", 
+                "person_date": "", 
+                "role_display_name": "Sculpted by", 
+                "person_id": "68264201", 
+                "person_url": "https://collection.cooperhewitt.org/people/68264201/"
+            }, 
+            {
+                "person_name": "Karrie Jacobs", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35351535/", 
+                "role_id": "35351535", 
+                "role_name": "Donor", 
+                "person_date": "", 
+                "role_display_name": "Donated by", 
+                "person_id": "18056647", 
+                "person_url": "https://collection.cooperhewitt.org/people/18056647/"
+            }, 
+            {
+                "person_name": "Steven Heller", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35351535/", 
+                "role_id": "35351535", 
+                "role_name": "Donor", 
+                "person_date": "American, b. 1950", 
+                "role_display_name": "Donated by", 
+                "person_id": "18041397", 
+                "person_url": "https://collection.cooperhewitt.org/people/18041397/"
+            }, 
+            {
+                "person_name": "Megan L. Smith", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35352245/", 
+                "role_id": "35352245", 
+                "role_name": "Cataloguer", 
+                "person_date": "", 
+                "role_display_name": "Catalogued by", 
+                "person_id": "18047443", 
+                "person_url": "https://collection.cooperhewitt.org/people/18047443/"
+            }, 
+            {
+                "person_name": "LSA", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35352245/", 
+                "role_id": "35352245", 
+                "role_name": "Cataloguer", 
+                "person_date": "", 
+                "role_display_name": "Catalogued by", 
+                "person_id": "18048737", 
+                "person_url": "https://collection.cooperhewitt.org/people/18048737/"
+            }
+        ], 
+        "decade": "1970", 
+        "label_text": null, 
+        "woe:country": "23424977", 
+        "dimensions_raw": {
+            "width": [
+                "48.50", 
+                "centimeters"
+            ], 
+            "height": [
+                "63.70", 
+                "centimeters"
+            ]
+        }, 
+        "department_id": "35347493", 
+        "title_raw": null, 
+        "justification": null, 
+        "media_id": "35419317", 
+        "description": "Photograph of sculture by Mary Frank; life symbols/fossils within face Ad for March for Nuclear Disarmament, New York City; produced for War Resisters League", 
+        "creditline": "Gift of Steven Heller and Karrie Jacobs", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "ca. 1982", 
+        "url": "https://collection.cooperhewitt.org/objects/18645737/", 
+        "type": "poster", 
+        "accession_number": "1993-53-59", 
+        "year_end": 1992, 
+        "signed": null, 
+        "inscribed": "Imprinted: \"Saturday June 12. March for Nuclear Disarmament. Monday, June 14. Civil Disobediance.\" Imprinted in black ink on bottom: \"For More Information: War Resisters League 339 Lafayette Street, N.Y.C. 228-0450\"", 
+        "period_id": null, 
+        "year_acquired": "1993", 
+        "woe:country_id": "23424977"
+    }
+}

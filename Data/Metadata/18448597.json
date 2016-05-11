@@ -1,0 +1,147 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": 1928, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": "offset lithograph on paper", 
+        "tms:id": "134814", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/64295_192cce177294ff2d_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "64295"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/64295_192cce177294ff2d_b.jpg", 
+                    "width": 1024, 
+                    "height": 512, 
+                    "is_primary": "1", 
+                    "image_id": "64295"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/64295_192cce177294ff2d_d.gif", 
+                    "width": 320, 
+                    "height": 160, 
+                    "is_primary": "1", 
+                    "image_id": "64295"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/64295_192cce177294ff2d_z.jpg", 
+                    "width": 640, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "64295"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/64295_192cce177294ff2d_n.jpg", 
+                    "width": 320, 
+                    "height": 160, 
+                    "is_primary": "1", 
+                    "image_id": "64295"
+                }
+            }, 
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/254532_394e4cf28449eb03_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "0", 
+                    "image_id": "254532"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/254532_394e4cf28449eb03_b.jpg", 
+                    "width": 1024, 
+                    "height": 526, 
+                    "is_primary": "0", 
+                    "image_id": "254532"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/254532_394e4cf28449eb03_d.gif", 
+                    "width": 320, 
+                    "height": 164, 
+                    "is_primary": "0", 
+                    "image_id": "254532"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/254532_394e4cf28449eb03_z.jpg", 
+                    "width": 640, 
+                    "height": 329, 
+                    "is_primary": "0", 
+                    "image_id": "254532"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/254532_394e4cf28449eb03_n.jpg", 
+                    "width": 320, 
+                    "height": 164, 
+                    "is_primary": "0", 
+                    "image_id": "254532"
+                }
+            }
+        ], 
+        "id": "18448597", 
+        "has_no_known_copyright": null, 
+        "woe:country_name": "United Kingdom", 
+        "dimensions": "25.4 x 50.7 cm (10 in. x 19 15/16 in.)", 
+        "title": "Poster, Gilbey's Wrangoo Austral Red Wine, ca. 1933", 
+        "provenance": "Mrs. E. McKnight Kauffer; 1963: acquired by Museum", 
+        "participants": [
+            {
+                "person_name": "Edward McKnight Kauffer", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "American, active England, 1890–1954", 
+                "role_display_name": "Designed by", 
+                "person_id": "18041923", 
+                "person_url": "https://collection.cooperhewitt.org/people/18041923/"
+            }, 
+            {
+                "person_name": "Mrs. Edward McKnight Kauffer", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35351535/", 
+                "role_id": "35351535", 
+                "role_name": "Donor", 
+                "person_date": "", 
+                "role_display_name": "Donated by", 
+                "person_id": "18061849", 
+                "person_url": "https://collection.cooperhewitt.org/people/18061849/"
+            }
+        ], 
+        "decade": "1920", 
+        "label_text": null, 
+        "woe:country": "23424975", 
+        "dimensions_raw": {
+            "width": [
+                "50.70", 
+                "centimeters"
+            ], 
+            "height": [
+                "25.40", 
+                "centimeters"
+            ]
+        }, 
+        "department_id": "35347493", 
+        "title_raw": "Gilbey's Wrangoo Austral Red Wine", 
+        "justification": null, 
+        "media_id": "35399021", 
+        "description": "Across poster, in blue, black, and red, with a glass of red wine on right. Text reads: WRANGOO / AUSTRAL RED WINE 3/- GILBEY’S", 
+        "creditline": "Gift of Mrs. E. McKnight Kauffer", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "ca. 1933", 
+        "url": "https://collection.cooperhewitt.org/objects/18448597/", 
+        "type": "poster", 
+        "accession_number": "1963-39-68", 
+        "year_end": 1938, 
+        "signed": "Signed in blue ink, lower right: EMcKnight Kauffer--", 
+        "inscribed": "Printed in black ink, lower left: ISSUED BY W & A GILBEY LTD D176", 
+        "period_id": null, 
+        "year_acquired": "1963", 
+        "woe:country_id": "23424975"
+    }
+}

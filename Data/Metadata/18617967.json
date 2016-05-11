@@ -1,0 +1,137 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": 1976, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": "lithograph on paper", 
+        "tms:id": "177517", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/81916_69818a325fc63c48_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "81916"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/81916_69818a325fc63c48_b.jpg", 
+                    "width": 684, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "81916"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/81916_69818a325fc63c48_d.gif", 
+                    "width": 214, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "81916"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/81916_69818a325fc63c48_z.jpg", 
+                    "width": 427, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "81916"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/81916_69818a325fc63c48_n.jpg", 
+                    "width": 214, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "81916"
+                }
+            }, 
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/255581_03b3ef0dca9d1003_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "0", 
+                    "image_id": "255581"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/255581_03b3ef0dca9d1003_b.jpg", 
+                    "width": 692, 
+                    "height": 1024, 
+                    "is_primary": "0", 
+                    "image_id": "255581"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/255581_03b3ef0dca9d1003_d.gif", 
+                    "width": 216, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "255581"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/255581_03b3ef0dca9d1003_z.jpg", 
+                    "width": 433, 
+                    "height": 640, 
+                    "is_primary": "0", 
+                    "image_id": "255581"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/255581_03b3ef0dca9d1003_n.jpg", 
+                    "width": 216, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "255581"
+                }
+            }
+        ], 
+        "id": "18617967", 
+        "has_no_known_copyright": null, 
+        "woe:country_name": "United States", 
+        "dimensions": "91.4 x 61.1 cm (36 in. x 24 1/16 in.)", 
+        "title": "Poster, Flight and the Arts, 1976", 
+        "provenance": "1981: acquired by Museum", 
+        "participants": [
+            {
+                "person_name": "James Miho", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "American, b. 1933", 
+                "role_display_name": "Designed by", 
+                "person_id": "18042305", 
+                "person_url": "https://collection.cooperhewitt.org/people/18042305/"
+            }
+        ], 
+        "decade": "1970", 
+        "label_text": null, 
+        "woe:country": "23424977", 
+        "dimensions_raw": {
+            "width": [
+                "61.10", 
+                "centimeters"
+            ], 
+            "height": [
+                "91.40", 
+                "centimeters"
+            ]
+        }, 
+        "department_id": "35347493", 
+        "title_raw": "Flight and the Arts", 
+        "justification": null, 
+        "media_id": "35419317", 
+        "description": "Poster featuring collaged image of rocket ship for National Air and Space Museum.", 
+        "creditline": "Gift of Various Donors", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "1976", 
+        "url": "https://collection.cooperhewitt.org/objects/18617967/", 
+        "type": "poster", 
+        "accession_number": "1981-29-418", 
+        "year_end": 1976, 
+        "signed": null, 
+        "inscribed": "Imprinted in black ink, lower left: Design: Miho. ©1976 Smithsonian Institution. Printed in USA.; lower right: Sky Garden, Lithograph, Robert Rauschenberg © 1969 Gemini G.E.L. Los Angeles.", 
+        "period_id": null, 
+        "year_acquired": "1981", 
+        "woe:country_id": "23424977"
+    }
+}

@@ -1,0 +1,137 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": null, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": "lithograph on white wove paper", 
+        "tms:id": "167020", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/82677_36ba27bb00abcb7a_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "82677"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/82677_36ba27bb00abcb7a_b.jpg", 
+                    "width": 835, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "82677"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/82677_36ba27bb00abcb7a_d.gif", 
+                    "width": 261, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "82677"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/82677_36ba27bb00abcb7a_z.jpg", 
+                    "width": 522, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "82677"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/82677_36ba27bb00abcb7a_n.jpg", 
+                    "width": 261, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "82677"
+                }
+            }, 
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/205404_290cbbf1bac06b47_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "0", 
+                    "image_id": "205404"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/205404_290cbbf1bac06b47_b.jpg", 
+                    "width": 837, 
+                    "height": 1024, 
+                    "is_primary": "0", 
+                    "image_id": "205404"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/205404_290cbbf1bac06b47_d.gif", 
+                    "width": 262, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "205404"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/205404_290cbbf1bac06b47_z.jpg", 
+                    "width": 523, 
+                    "height": 640, 
+                    "is_primary": "0", 
+                    "image_id": "205404"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/205404_290cbbf1bac06b47_n.jpg", 
+                    "width": 262, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "205404"
+                }
+            }
+        ], 
+        "id": "18512129", 
+        "has_no_known_copyright": null, 
+        "woe:country_name": "United States", 
+        "dimensions": "Overall: 41.8 x 34.1 cm (16 7/16 x 13 7/16 in.)", 
+        "title": "Poster, New York Telephone Yellow Pages", 
+        "provenance": "1980: acquired by Museum", 
+        "participants": [
+            {
+                "person_name": "Milton Glaser", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "American, b. 1929", 
+                "role_display_name": "Designed by", 
+                "person_id": "18042107", 
+                "person_url": "https://collection.cooperhewitt.org/people/18042107/"
+            }
+        ], 
+        "decade": null, 
+        "label_text": null, 
+        "woe:country": "23424977", 
+        "dimensions_raw": {
+            "width": [
+                "34.10", 
+                "centimeters"
+            ], 
+            "height": [
+                "41.80", 
+                "centimeters"
+            ]
+        }, 
+        "department_id": "35347493", 
+        "title_raw": "New York Telephone Yellow Pages", 
+        "justification": null, 
+        "media_id": "35374607", 
+        "description": "On red ground, flying cat; clown on floor flanked by trees with small creatures.", 
+        "creditline": "Gift of Unknown Donor", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": null, 
+        "url": "https://collection.cooperhewitt.org/objects/18512129/", 
+        "type": "poster", 
+        "accession_number": "1980-32-988", 
+        "year_end": null, 
+        "signed": null, 
+        "inscribed": "Imprinted in black ink, lower left: MILTON GLASER", 
+        "period_id": null, 
+        "year_acquired": "1980", 
+        "woe:country_id": "23424977"
+    }
+}

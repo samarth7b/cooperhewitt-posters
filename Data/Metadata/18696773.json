@@ -1,0 +1,147 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": 1909, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": "lithograph on off-white paper", 
+        "tms:id": "223980", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/38472_378ab6066cc579f7_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "38472"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/38472_378ab6066cc579f7_b.jpg", 
+                    "width": 820, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "38472"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/38472_378ab6066cc579f7_d.gif", 
+                    "width": 256, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "38472"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/38472_378ab6066cc579f7_z.jpg", 
+                    "width": 512, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "38472"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/38472_378ab6066cc579f7_n.jpg", 
+                    "width": 256, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "38472"
+                }
+            }, 
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/139110_676320a82fb19dcc_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "0", 
+                    "image_id": "139110"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/139110_676320a82fb19dcc_b.jpg", 
+                    "width": 837, 
+                    "height": 1024, 
+                    "is_primary": "0", 
+                    "image_id": "139110"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/139110_676320a82fb19dcc_d.gif", 
+                    "width": 262, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "139110"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/139110_676320a82fb19dcc_z.jpg", 
+                    "width": 523, 
+                    "height": 640, 
+                    "is_primary": "0", 
+                    "image_id": "139110"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/139110_676320a82fb19dcc_n.jpg", 
+                    "width": 262, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "139110"
+                }
+            }
+        ], 
+        "id": "18696773", 
+        "has_no_known_copyright": null, 
+        "woe:country_name": "Austria", 
+        "dimensions": "57.2 x 45.7 cm (22 1/2 x 18 in.)", 
+        "title": "Poster, Spitzen der Wiener Werkstätte (Wiener Werkstätte Lacework), ca. 1919", 
+        "provenance": "2002: acquired by Museum (from Historical Design Inc.)", 
+        "participants": [
+            {
+                "person_name": "Dagobert Peche", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "Austrian, 1887–1923, active Vienna, 1911–1923", 
+                "role_display_name": "Designed by", 
+                "person_id": "18044265", 
+                "person_url": "https://collection.cooperhewitt.org/people/18044265/"
+            }, 
+            {
+                "person_name": "Historical Design Inc.", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35352249/", 
+                "role_id": "35352249", 
+                "role_name": "Vendor", 
+                "person_date": "", 
+                "role_display_name": "Purchased from", 
+                "person_id": "18041381", 
+                "person_url": "https://collection.cooperhewitt.org/people/18041381/"
+            }
+        ], 
+        "decade": "1900", 
+        "label_text": null, 
+        "woe:country": "23424750", 
+        "dimensions_raw": {
+            "length": [
+                "45.70", 
+                "centimeters"
+            ], 
+            "height": [
+                "57.20", 
+                "centimeters"
+            ]
+        }, 
+        "department_id": "35347493", 
+        "title_raw": "Spitzen der Wiener Werkstätte (Wiener Werkstätte Lacework)", 
+        "justification": "Dagobert Peche was described by Josef Hoffmann as the “greatest decorative genius” that Austria had produced since the baroque period. When Peche joined the Wiener Werkstätte in 1915 and succeeded Hoffmann as director, his highly idiosyncratic, decorative style changed the prevailing aesthetic that had previously dominated Werkstätte production. Instead of the severe grids and simple geometric forms used by Hoffmann and Koloman Moser, Peche introduced stylized plant forms, animals, and garlands of fruit that optimistically celebrated the bounty of life. After his release from military service in World War I, Peche and his family moved to Zurich to establish a branch of the Wiener Werkstätte. Because Switzerland was not subject to wartime restrictions on metals, Peche was able to open a silver and metal workshop. Peche also initiated the production of lace, which was an ideal medium to reproduce his airy and fanciful drawings. Lacemaking also capitalized on the available female workforce during wartime.\nIn Zurich, between 1917 and 1919, Peche produced numerous designs for bobbin lace insets and borders, drawn thread work in tulle, and tulle embroidery that were produced in Bohemia or Vienna by women working at home. This lacework was sold at the Werkstätte’s Swiss branch and, beginning in 1918, at its fabric shop in Vienna at 32 Kärntnerstrasse. When Peche was called back to Vienna in 1919, he created a special salesroom on the third floor of the shop for lace, ribbons, and various articles made from Wiener Werkstätte fabrics. \nPeche’s striking and relatively rare poster, Spitzen der Wiener Werkstätte (Wiener Werkstätte Lacework), which promotes the workshops’ lace production, is dated around the time of Peche’s return to Vienna. His use of small patterns of black and white mimics the openwork of lace, especially the fanciful tree or plant with its slender, sharply pointed leaves. Similar plant forms appear in Peche’s wallpaper design Der Spitz (1990-127-7) in the museum’s collection of wallcoverings in which various tree and plant motifs, created mainly for tulle work, are randomly strewn about to create a graphic pattern. The poster directly relates to other objects by Peche in the museum’s collection, including two examples of  lace (1999-36-1,2) and a silver vase (1962-227-2). \nNovember 26, 2002", 
+        "media_id": "35424743", 
+        "description": "Surface divided roughly into thirds.  Upper and lower third are book end images of each other consisting of plant with three flowers growing from central stem and with long, slim, sharply-pointed leaves on branches. On either side of central images, five rows of black and white diamond pattern. In central third of field, zig-zag pattern in black and white surrounding an empty bow-shaped field inside of which appears \"Spitzen der Wiener Werkstätte.\" Upper and lower edges of image are \"pinked\" as in textile.", 
+        "creditline": "Museum purchase through gift of George A. Hearn", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "ca. 1919", 
+        "url": "https://collection.cooperhewitt.org/objects/18696773/", 
+        "type": "poster", 
+        "accession_number": "2002-19-1", 
+        "year_end": 1929, 
+        "signed": "Imprinted in black in lower margin, center:  D. PECHE", 
+        "inscribed": null, 
+        "period_id": null, 
+        "year_acquired": "2002", 
+        "woe:country_id": "23424750"
+    }
+}

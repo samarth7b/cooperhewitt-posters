@@ -1,0 +1,100 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": 1982, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": null, 
+        "tms:id": "209897", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/198068_dfdec8204e9bf435_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "198068"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/198068_dfdec8204e9bf435_b.jpg", 
+                    "width": 1024, 
+                    "height": 632, 
+                    "is_primary": "1", 
+                    "image_id": "198068"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/198068_dfdec8204e9bf435_d.gif", 
+                    "width": 320, 
+                    "height": 198, 
+                    "is_primary": "1", 
+                    "image_id": "198068"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/198068_dfdec8204e9bf435_z.jpg", 
+                    "width": 640, 
+                    "height": 395, 
+                    "is_primary": "1", 
+                    "image_id": "198068"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/198068_dfdec8204e9bf435_n.jpg", 
+                    "width": 320, 
+                    "height": 198, 
+                    "is_primary": "1", 
+                    "image_id": "198068"
+                }
+            }
+        ], 
+        "id": "18668967", 
+        "has_no_known_copyright": null, 
+        "dimensions": null, 
+        "title": "Poster, Announcement: \"Performance Spectacle in the Post-Industrial Age\" (Perfomance at Cranbrook Academy of Art by Stuart Sherman, 1987), ca. 1987", 
+        "provenance": null, 
+        "participants": [
+            {
+                "person_name": "Allen Hori", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "", 
+                "role_display_name": "Designed by", 
+                "person_id": "18043533", 
+                "person_url": "https://collection.cooperhewitt.org/people/18043533/"
+            }, 
+            {
+                "person_name": "Katherine McCoy", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35351535/", 
+                "role_id": "35351535", 
+                "role_name": "Donor", 
+                "person_date": "American, b. 1945", 
+                "role_display_name": "Donated by", 
+                "person_id": "18042311", 
+                "person_url": "https://collection.cooperhewitt.org/people/18042311/"
+            }
+        ], 
+        "decade": "1980", 
+        "label_text": null, 
+        "woe:country": null, 
+        "dimensions_raw": null, 
+        "department_id": "35347493", 
+        "title_raw": "Announcement: \"Performance Spectacle in the Post-Industrial Age\" (Perfomance at Cranbrook Academy of Art by Stuart Sherman, 1987)", 
+        "justification": null, 
+        "media_id": "35371135", 
+        "description": null, 
+        "creditline": "Gift of Katherine McCoy", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "ca. 1987", 
+        "url": "https://collection.cooperhewitt.org/objects/18668967/", 
+        "type": "poster", 
+        "accession_number": "1997-57-3", 
+        "year_end": 1992, 
+        "signed": null, 
+        "inscribed": null, 
+        "period_id": null, 
+        "year_acquired": "1997", 
+        "woe:country_id": null
+    }
+}

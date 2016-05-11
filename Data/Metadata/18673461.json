@@ -1,0 +1,109 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": 1990, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": "offset lithograph on white wove paper", 
+        "tms:id": "212173", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/269501_44c5fa2d6fd14b83_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "269501"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/269501_44c5fa2d6fd14b83_b.jpg", 
+                    "width": 682, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "269501"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/269501_44c5fa2d6fd14b83_d.gif", 
+                    "width": 213, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "269501"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/269501_44c5fa2d6fd14b83_z.jpg", 
+                    "width": 426, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "269501"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/269501_44c5fa2d6fd14b83_n.jpg", 
+                    "width": 213, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "269501"
+                }
+            }
+        ], 
+        "id": "18673461", 
+        "has_no_known_copyright": null, 
+        "dimensions": "96.4 x 63.5 cm (37 15/16 x 25 in. )", 
+        "title": "Poster, A World Class Sweepstakes, for Formica Corporation, 1990", 
+        "provenance": "From the Collection of Dan Friedman", 
+        "participants": [
+            {
+                "person_name": "Keith Godard", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "American, b. London 1942", 
+                "role_display_name": "Designed by", 
+                "person_id": "18053387", 
+                "person_url": "https://collection.cooperhewitt.org/people/18053387/"
+            }, 
+            {
+                "person_name": "Ken Friedman", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35351535/", 
+                "role_id": "35351535", 
+                "role_name": "Donor", 
+                "person_date": "", 
+                "role_display_name": "Donated by", 
+                "person_id": "18049807", 
+                "person_url": "https://collection.cooperhewitt.org/people/18049807/"
+            }
+        ], 
+        "decade": "1990", 
+        "label_text": null, 
+        "woe:country": null, 
+        "dimensions_raw": {
+            "width": [
+                "63.50", 
+                "centimeters"
+            ], 
+            "height": [
+                "96.40", 
+                "centimeters"
+            ]
+        }, 
+        "department_id": "35347493", 
+        "title_raw": "A World Class Sweepstakes, for Formica Corporation", 
+        "justification": null, 
+        "media_id": "35431673", 
+        "description": "The title, A World Class Sweepstakes  / From the only  / World Class Surfacing Company / Formica Corporation brings you the World, is presented in block letters set on an angle in the upper quadrant from left to right.  At center right a full color pixelated globe showing Europe is set below a pink and gray \"90s\" with the zero a variant on the Formica logo, bearing the brand name. Below th globe, streaching from lower left corner to center right are small rectangular examples of Formica brand surface patterns and laminates in a variety of colors. Text at left center, upper right and lower right give the teerms of the sweepstakes. A Formica surface pattern in gray, lavender and ochre serves as overall background.", 
+        "creditline": "Gift of Ken Friedman", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "1990", 
+        "url": "https://collection.cooperhewitt.org/objects/18673461/", 
+        "type": "poster", 
+        "accession_number": "1997-19-222", 
+        "year_end": 1990, 
+        "signed": "In black marker lower left corner: To Dan: / Best for all the 90s. / Keith Godard 1990.", 
+        "inscribed": "In black lower right on edge: Design: Keith Godard/Studio Works New York  Electronic Imaging and Printing: Tanagraphics  Photography: Geoffrey Lawrence @ 1990 Formica Corporation\n\nThe first block of text at left center:\nOnly Formica Corporation has the worldwide design resources to come / up with new lines like European Editions, a colorful selection of / Lacquers, Crimbles[sic] and Painted Woods culled from our Euro- / pean collections, and Formica Brand Metal Laminates - / International Collection, a totally fresh presentation of / State-of-theart metal designs, also from Europe. And only / Formica Corporation, with manufacturing and distri- / bution facilities around the world, would intro-/duce them with a giveaway so global in scope.\n2nd block of text:\nFirst prize is an all-expense-paid-ten-day trip for / two to Barcelona, the emerging international / design center. You and a companion can / feast your eyes on the work of Gaudi, van / der Rohe, Bofill, et al., and preview the 1992 Olympic Games site.\n3rd block of text:\nAnd if you don't win Barcelona, you'll / still have a chance at a second prize: 100 Map-of-the-World backpacks. / Or a third: 100 snazzy global umbrellas.\nIn gray upper right: P.S. In May, watch for the announcement of / \"Architecture and the Global Culture,\" a lecture series on the internation- / alization of architectural practice / presented by the Architectural / League of New York with support / from Formica Corporation.\nIn red lower left corner: Formica logo (red \"F\")", 
+        "period_id": null, 
+        "year_acquired": "1997", 
+        "woe:country_id": null
+    }
+}

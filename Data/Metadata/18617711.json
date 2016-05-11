@@ -1,0 +1,110 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": 1979, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": null, 
+        "tms:id": "177388", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/201021_6195501cf2e89ce7_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "201021"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/201021_6195501cf2e89ce7_b.jpg", 
+                    "width": 1024, 
+                    "height": 784, 
+                    "is_primary": "1", 
+                    "image_id": "201021"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/201021_6195501cf2e89ce7_d.gif", 
+                    "width": 320, 
+                    "height": 245, 
+                    "is_primary": "1", 
+                    "image_id": "201021"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/201021_6195501cf2e89ce7_z.jpg", 
+                    "width": 640, 
+                    "height": 490, 
+                    "is_primary": "1", 
+                    "image_id": "201021"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/201021_6195501cf2e89ce7_n.jpg", 
+                    "width": 320, 
+                    "height": 245, 
+                    "is_primary": "1", 
+                    "image_id": "201021"
+                }
+            }
+        ], 
+        "id": "18617711", 
+        "has_no_known_copyright": null, 
+        "woe:country_name": "United States", 
+        "dimensions": "Overall: 58.5 x 44.6 cm (23 1/16 x 17 9/16 in.)", 
+        "title": "Poster, The Vise, 1979", 
+        "provenance": "1981: acquired by Museum", 
+        "participants": [
+            {
+                "person_name": "Peter Levine", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "", 
+                "role_display_name": "Designed by", 
+                "person_id": "18042353", 
+                "person_url": "https://collection.cooperhewitt.org/people/18042353/"
+            }, 
+            {
+                "person_name": "Peter Cavina", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "", 
+                "role_display_name": "Designed by", 
+                "person_id": "18057123", 
+                "person_url": "https://collection.cooperhewitt.org/people/18057123/"
+            }
+        ], 
+        "decade": "1970", 
+        "label_text": null, 
+        "woe:country": "23424977", 
+        "dimensions_raw": {
+            "width": [
+                "44.60", 
+                "centimeters"
+            ], 
+            "height": [
+                "58.50", 
+                "centimeters"
+            ]
+        }, 
+        "department_id": "35347493", 
+        "title_raw": "The Vise", 
+        "justification": null, 
+        "media_id": "35371135", 
+        "description": null, 
+        "creditline": "Gift of Various Donors", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "1979", 
+        "url": "https://collection.cooperhewitt.org/objects/18617711/", 
+        "type": "poster", 
+        "accession_number": "1981-29-302", 
+        "year_end": 1979, 
+        "signed": null, 
+        "inscribed": null, 
+        "period_id": null, 
+        "year_acquired": "1981", 
+        "woe:country_id": "23424977"
+    }
+}

@@ -1,0 +1,184 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": "Designer April Greiman was a leader in the 1970s California New Wave design movement. This 1978 poster combines her graphic sensibilities with the photography of Jayme Odgers, also an influential postmodern artist and designer of this era. Perhaps surprisingly, Greiman studied rational Swiss design as a fine arts student, traveling to Switzerland to train with masters of that visually spare style. Soon after moving to bustling LA in 1976, she upended the \"less is more\" convention in favor of a hybrid, layered, multimedia, and decidedly individualized style. She did not completely disregard her training, however; her work maintains order through color, dominant elements, and texture. She describes it as \"the Swiss school on acid.\" Deemed radical at the time, the collages made with Odgers, featuring overlapping images and a play with additional dimensions on the two-dimensional field, anticipated her later work as an early adopter of digital technologies. In 1984, after purchasing a Macintosh computer, Greiman became one of the first designers to experiment with the device, and continued in the following decades to push the boundaries of design, discarding dogma and welcoming possibilities.", 
+        "year_start": 1978, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": "lithograph on paper", 
+        "tms:id": "177327", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/89746_69f0902346ccadc6_sq.jpg", 
+                    "width": 300, 
+                    "height": 270, 
+                    "is_primary": "1", 
+                    "image_id": "89746"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/89746_69f0902346ccadc6_b.jpg", 
+                    "width": 1024, 
+                    "height": 270, 
+                    "is_primary": "1", 
+                    "image_id": "89746"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/89746_69f0902346ccadc6_d.gif", 
+                    "width": 320, 
+                    "height": 84, 
+                    "is_primary": "1", 
+                    "image_id": "89746"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/89746_69f0902346ccadc6_z.jpg", 
+                    "width": 640, 
+                    "height": 169, 
+                    "is_primary": "1", 
+                    "image_id": "89746"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/89746_69f0902346ccadc6_n.jpg", 
+                    "width": 320, 
+                    "height": 84, 
+                    "is_primary": "1", 
+                    "image_id": "89746"
+                }
+            }, 
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/269867_d5edfea8c25c286a_sq.jpg", 
+                    "width": 300, 
+                    "height": 260, 
+                    "is_primary": "0", 
+                    "image_id": "269867"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/269867_d5edfea8c25c286a_b.jpg", 
+                    "width": 1024, 
+                    "height": 260, 
+                    "is_primary": "0", 
+                    "image_id": "269867"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/269867_d5edfea8c25c286a_d.gif", 
+                    "width": 320, 
+                    "height": 81, 
+                    "is_primary": "0", 
+                    "image_id": "269867"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/269867_d5edfea8c25c286a_z.jpg", 
+                    "width": 640, 
+                    "height": 162, 
+                    "is_primary": "0", 
+                    "image_id": "269867"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/269867_d5edfea8c25c286a_n.jpg", 
+                    "width": 320, 
+                    "height": 81, 
+                    "is_primary": "0", 
+                    "image_id": "269867"
+                }
+            }, 
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/9984_3d7fd0aadf4376af_sq.jpg", 
+                    "width": 300, 
+                    "height": 268, 
+                    "is_primary": "0", 
+                    "image_id": "9984"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/9984_3d7fd0aadf4376af_b.jpg", 
+                    "width": 1024, 
+                    "height": 268, 
+                    "is_primary": "0", 
+                    "image_id": "9984"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/9984_3d7fd0aadf4376af_d.gif", 
+                    "width": 320, 
+                    "height": 84, 
+                    "is_primary": "0", 
+                    "image_id": "9984"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/9984_3d7fd0aadf4376af_z.jpg", 
+                    "width": 640, 
+                    "height": 168, 
+                    "is_primary": "0", 
+                    "image_id": "9984"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/9984_3d7fd0aadf4376af_n.jpg", 
+                    "width": 320, 
+                    "height": 84, 
+                    "is_primary": "0", 
+                    "image_id": "9984"
+                }
+            }
+        ], 
+        "id": "18617589", 
+        "has_no_known_copyright": null, 
+        "woe:country_name": "United States", 
+        "dimensions": "29 x 118 cm (11 7/16 x 46 7/16 in.)", 
+        "title": "Poster, Cal Arts, 1978", 
+        "provenance": "1981: acquired by Museum", 
+        "participants": [
+            {
+                "person_name": "Jayme Odgers", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236631/", 
+                "role_id": "35236631", 
+                "role_name": "Photographer", 
+                "person_date": "American, b. 1939", 
+                "role_display_name": "Photographed by", 
+                "person_id": "18042307", 
+                "person_url": "https://collection.cooperhewitt.org/people/18042307/"
+            }, 
+            {
+                "person_name": "April Greiman", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "American, b. 1948", 
+                "role_display_name": "Designed by", 
+                "person_id": "18041839", 
+                "person_url": "https://collection.cooperhewitt.org/people/18041839/"
+            }
+        ], 
+        "decade": "1970", 
+        "label_text": null, 
+        "woe:country": "23424977", 
+        "dimensions_raw": {
+            "width": [
+                "118.00", 
+                "centimeters"
+            ], 
+            "height": [
+                "29.00", 
+                "centimeters"
+            ]
+        }, 
+        "department_id": "35347493", 
+        "title_raw": "Cal Arts", 
+        "justification": null, 
+        "media_id": "35419317", 
+        "description": "Collage image with the background of a large white building floor.  From left to right: A photograph of a woman head tilted back with a pencil underneath it; an open notebook, text on the wall, and below a photograph of a landscape with dark and light blue skies and a person jumping;  above a film wheel and photo film; in the distance a piano, a statue, and a painting of a blue sky with clouds, in front of it a man jumping with one leg kicked out to the side; a small woman whispering into a large female head;  above, a television floating next to a thumbtack and ruler; below text on the wall and a black and white photo of a man with his hands on his hips.  Lower right corner, a person's hand holding up the picture.", 
+        "creditline": "Gift of Various Donors", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "1978", 
+        "url": "https://collection.cooperhewitt.org/objects/18617589/", 
+        "type": "poster", 
+        "accession_number": "1981-29-25", 
+        "year_end": 1978, 
+        "signed": null, 
+        "inscribed": null, 
+        "period_id": null, 
+        "year_acquired": "1981", 
+        "woe:country_id": "23424977"
+    }
+}

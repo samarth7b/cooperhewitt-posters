@@ -1,0 +1,91 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": 1965, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": null, 
+        "tms:id": "177669", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/201203_b871918fbf0ebff7_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "201203"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/201203_b871918fbf0ebff7_b.jpg", 
+                    "width": 1024, 
+                    "height": 789, 
+                    "is_primary": "1", 
+                    "image_id": "201203"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/201203_b871918fbf0ebff7_d.gif", 
+                    "width": 320, 
+                    "height": 247, 
+                    "is_primary": "1", 
+                    "image_id": "201203"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/201203_b871918fbf0ebff7_z.jpg", 
+                    "width": 640, 
+                    "height": 493, 
+                    "is_primary": "1", 
+                    "image_id": "201203"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/201203_b871918fbf0ebff7_n.jpg", 
+                    "width": 320, 
+                    "height": 247, 
+                    "is_primary": "1", 
+                    "image_id": "201203"
+                }
+            }
+        ], 
+        "id": "18618271", 
+        "has_no_known_copyright": null, 
+        "woe:country_name": "United States", 
+        "dimensions": null, 
+        "title": "Poster, The Yale Symphony Orchestra, ca. 1970", 
+        "provenance": "1981: acquired by Museum", 
+        "participants": [
+            {
+                "person_name": "Christopher Pullman", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "American, b. 1941", 
+                "role_display_name": "Designed by", 
+                "person_id": "18042333", 
+                "person_url": "https://collection.cooperhewitt.org/people/18042333/"
+            }
+        ], 
+        "decade": "1960", 
+        "label_text": null, 
+        "woe:country": "23424977", 
+        "dimensions_raw": null, 
+        "department_id": "35347493", 
+        "title_raw": "The Yale Symphony Orchestra", 
+        "justification": null, 
+        "media_id": "35371135", 
+        "description": null, 
+        "creditline": "Gift of Various Donors", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "ca. 1970", 
+        "url": "https://collection.cooperhewitt.org/objects/18618271/", 
+        "type": "poster", 
+        "accession_number": "1981-29-92", 
+        "year_end": 1975, 
+        "signed": null, 
+        "inscribed": null, 
+        "period_id": null, 
+        "year_acquired": "1981", 
+        "woe:country_id": "23424977"
+    }
+}

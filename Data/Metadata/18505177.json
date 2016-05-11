@@ -1,0 +1,110 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": "Yusaku Kamekura blends the classicism of Japanese design with the modern influence of the West to produce a remarkable hybridization in his work.  He uses the tenets of simplicity inherent in each discipline to produce work that is clean yet complex. Working in a monochromatic palette for this poster for the 1973 ICSID conference in Kyoto, Kamekura aligns the concentric rings of a sphere to create depth and three-dimensionality in a two-dimensional plane. The resulting image appears to be activated on the page, with the cube floating in the middle.", 
+        "year_start": 1973, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": "offset lithograph on paper, lined", 
+        "tms:id": "163492", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/65136_03c127c33b249627_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "65136"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/65136_03c127c33b249627_b.jpg", 
+                    "width": 720, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "65136"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/65136_03c127c33b249627_d.gif", 
+                    "width": 225, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "65136"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/65136_03c127c33b249627_z.jpg", 
+                    "width": 450, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "65136"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/65136_03c127c33b249627_n.jpg", 
+                    "width": 225, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "65136"
+                }
+            }
+        ], 
+        "id": "18505177", 
+        "has_no_known_copyright": null, 
+        "woe:country_name": "Japan", 
+        "dimensions": "H x W: 103 × 72.7 cm (40 9/16 × 28 5/8 in.)\nMount (Linen): 107 × 77 cm (42 1/8 × 30 5/16 in.)", 
+        "title": "Poster, Soul and Material Things, ICSID 1973, Kyoto, 1973", 
+        "provenance": "1980: acquired by Museum", 
+        "participants": [
+            {
+                "person_name": "Toppan Printing Co. Ltd.", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236673/", 
+                "role_id": "35236673", 
+                "role_name": "Printer", 
+                "person_date": "Japanese, founded 1900", 
+                "role_display_name": "Printed by", 
+                "person_id": "68739531", 
+                "person_url": "https://collection.cooperhewitt.org/people/68739531/"
+            }, 
+            {
+                "person_name": "Yusaku Kamekura", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "Japanese, 1915 - 1997", 
+                "role_display_name": "Designed by", 
+                "person_id": "18535857", 
+                "person_url": "https://collection.cooperhewitt.org/people/18535857/"
+            }
+        ], 
+        "decade": "1970", 
+        "label_text": null, 
+        "woe:country": "23424856", 
+        "dimensions_raw": {
+            "width": [
+                "72.70", 
+                "centimeters"
+            ], 
+            "height": [
+                "103.20", 
+                "centimeters"
+            ]
+        }, 
+        "department_id": "35347493", 
+        "title_raw": "Soul and Material Things, ICSID 1973, Kyoto", 
+        "justification": null, 
+        "media_id": "51685923", 
+        "description": "Black and white image of a large concentric circle within another lighter and larger concentric circle; inside these is a cube that reads: “ICSID ‘73”. Below: “SOUL AND MATERIAL THINGS.” Japanese characters and below this: “ICSID ’73 KYOTO / 8TH ICSID General Assembly and Congress […]”", 
+        "creditline": "Gift of Unknown Donor", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "1973", 
+        "url": "https://collection.cooperhewitt.org/objects/18505177/", 
+        "type": "poster", 
+        "accession_number": "1980-32-1237", 
+        "year_end": 1973, 
+        "signed": null, 
+        "inscribed": null, 
+        "period_id": null, 
+        "year_acquired": "1980", 
+        "woe:country_id": "23424856"
+    }
+}

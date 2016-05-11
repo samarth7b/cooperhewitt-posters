@@ -1,0 +1,130 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": 1988, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": "lithograph on paper", 
+        "tms:id": "197818", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/201747_c56194d237596979_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "201747"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/201747_c56194d237596979_b.jpg", 
+                    "width": 811, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "201747"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/201747_c56194d237596979_d.gif", 
+                    "width": 253, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "201747"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/201747_c56194d237596979_z.jpg", 
+                    "width": 507, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "201747"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/201747_c56194d237596979_n.jpg", 
+                    "width": 253, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "201747"
+                }
+            }
+        ], 
+        "id": "18645829", 
+        "has_no_known_copyright": null, 
+        "woe:country_name": "United States", 
+        "dimensions": "35.8 x 28 cm (14 1/8 in. x 11 in.)", 
+        "title": "Poster, Tompkins Square Community Demands, 1988", 
+        "provenance": null, 
+        "participants": [
+            {
+                "person_name": "Karrie Jacobs", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35351535/", 
+                "role_id": "35351535", 
+                "role_name": "Donor", 
+                "person_date": "", 
+                "role_display_name": "Donated by", 
+                "person_id": "18056647", 
+                "person_url": "https://collection.cooperhewitt.org/people/18056647/"
+            }, 
+            {
+                "person_name": "Steven Heller", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35351535/", 
+                "role_id": "35351535", 
+                "role_name": "Donor", 
+                "person_date": "American, b. 1950", 
+                "role_display_name": "Donated by", 
+                "person_id": "18041397", 
+                "person_url": "https://collection.cooperhewitt.org/people/18041397/"
+            }, 
+            {
+                "person_name": "LSA", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35352245/", 
+                "role_id": "35352245", 
+                "role_name": "Cataloguer", 
+                "person_date": "", 
+                "role_display_name": "Catalogued by", 
+                "person_id": "18048737", 
+                "person_url": "https://collection.cooperhewitt.org/people/18048737/"
+            }, 
+            {
+                "person_name": "Eric Drooker", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "", 
+                "role_display_name": "Designed by", 
+                "person_id": "18043241", 
+                "person_url": "https://collection.cooperhewitt.org/people/18043241/"
+            }
+        ], 
+        "decade": "1980", 
+        "label_text": null, 
+        "woe:country": "23424977", 
+        "dimensions_raw": {
+            "width": [
+                "28.00", 
+                "centimeters"
+            ], 
+            "height": [
+                "35.80", 
+                "centimeters"
+            ]
+        }, 
+        "department_id": "35347493", 
+        "title_raw": "Tompkins Square Community Demands", 
+        "justification": null, 
+        "media_id": "35419317", 
+        "description": "Print of policeman on horse attacking people; list of demands following Tompkins Square riot. [Extensive text Tompkins Square riot demands]", 
+        "creditline": "Gift of Steven Heller and Karrie Jacobs", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "1988", 
+        "url": "https://collection.cooperhewitt.org/objects/18645829/", 
+        "type": "poster", 
+        "accession_number": "1993-53-92", 
+        "year_end": 1988, 
+        "signed": "Inscribed in graphite, lower right: Eric Drooker '88", 
+        "inscribed": null, 
+        "period_id": null, 
+        "year_acquired": "1993", 
+        "woe:country_id": "23424977"
+    }
+}

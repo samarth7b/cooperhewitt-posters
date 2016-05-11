@@ -1,0 +1,91 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": 1981, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": null, 
+        "tms:id": "196762", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/268683_733f22d28d148d6b_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "268683"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/268683_733f22d28d148d6b_b.jpg", 
+                    "width": 811, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "268683"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/268683_733f22d28d148d6b_d.gif", 
+                    "width": 253, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "268683"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/268683_733f22d28d148d6b_z.jpg", 
+                    "width": 507, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "268683"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/268683_733f22d28d148d6b_n.jpg", 
+                    "width": 253, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "268683"
+                }
+            }
+        ], 
+        "id": "18643791", 
+        "has_no_known_copyright": null, 
+        "woe:country_name": "United States", 
+        "dimensions": null, 
+        "title": "Poster, Cliche-verre.  Contempora, 1981", 
+        "provenance": null, 
+        "participants": [
+            {
+                "person_name": "Marilyn Symmes", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35351535/", 
+                "role_id": "35351535", 
+                "role_name": "Donor", 
+                "person_date": "", 
+                "role_display_name": "Donated by", 
+                "person_id": "18047461", 
+                "person_url": "https://collection.cooperhewitt.org/people/18047461/"
+            }
+        ], 
+        "decade": "1980", 
+        "label_text": null, 
+        "woe:country": "23424977", 
+        "dimensions_raw": null, 
+        "department_id": "35347493", 
+        "title_raw": "Cliche-verre.  Contempora", 
+        "justification": null, 
+        "media_id": "35371135", 
+        "description": null, 
+        "creditline": "Gift of Marilyn F. Symmes", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "1981", 
+        "url": "https://collection.cooperhewitt.org/objects/18643791/", 
+        "type": "poster", 
+        "accession_number": "1993-145-3", 
+        "year_end": 1981, 
+        "signed": null, 
+        "inscribed": null, 
+        "period_id": null, 
+        "year_acquired": "1993", 
+        "woe:country_id": "23424977"
+    }
+}

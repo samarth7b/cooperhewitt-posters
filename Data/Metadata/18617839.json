@@ -1,0 +1,110 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": null, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": "lithograph on paper", 
+        "tms:id": "177453", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/90299_c21d39cb2c4cf62a_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "90299"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/90299_c21d39cb2c4cf62a_b.jpg", 
+                    "width": 773, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "90299"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/90299_c21d39cb2c4cf62a_d.gif", 
+                    "width": 242, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "90299"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/90299_c21d39cb2c4cf62a_z.jpg", 
+                    "width": 483, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "90299"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/90299_c21d39cb2c4cf62a_n.jpg", 
+                    "width": 242, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "90299"
+                }
+            }
+        ], 
+        "id": "18617839", 
+        "has_no_known_copyright": null, 
+        "woe:country_name": "United States", 
+        "dimensions": "61.3 x 46.2 cm (24 1/8 x 18 3/16 in.)", 
+        "title": "Poster, Astounding Pants  from OshkoshB'gosh", 
+        "provenance": "1981: acquired by Museum", 
+        "participants": [
+            {
+                "person_name": "OshkoshB'gosh", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236667/", 
+                "role_id": "35236667", 
+                "role_name": "Client", 
+                "person_date": "", 
+                "role_display_name": "Client:", 
+                "person_id": "68263963", 
+                "person_url": "https://collection.cooperhewitt.org/people/68263963/"
+            }, 
+            {
+                "person_name": "Roger Huyssen", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "", 
+                "role_display_name": "Designed by", 
+                "person_id": "18056979", 
+                "person_url": "https://collection.cooperhewitt.org/people/18056979/"
+            }
+        ], 
+        "decade": null, 
+        "label_text": null, 
+        "woe:country": "23424977", 
+        "dimensions_raw": {
+            "width": [
+                "46.20", 
+                "centimeters"
+            ], 
+            "height": [
+                "61.30", 
+                "centimeters"
+            ]
+        }, 
+        "department_id": "35347493", 
+        "title_raw": "Astounding Pants  from OshkoshB'gosh", 
+        "justification": null, 
+        "media_id": "35419317", 
+        "description": "Poster as a comic book featuring space fantasy image with UFO, a woman, and two men flying through space. Above: ASTOUNDING / PANTS; lower right: OshkoshB’gosh", 
+        "creditline": "Gift of Various Donors", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": null, 
+        "url": "https://collection.cooperhewitt.org/objects/18617839/", 
+        "type": "poster", 
+        "accession_number": "1981-29-360", 
+        "year_end": null, 
+        "signed": "Imprinted [signed], lower left: ROGER / HUYSSEN", 
+        "inscribed": null, 
+        "period_id": null, 
+        "year_acquired": "1981", 
+        "woe:country_id": "23424977"
+    }
+}

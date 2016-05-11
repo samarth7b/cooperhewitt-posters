@@ -1,0 +1,137 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": 1993, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": "lithograph on paper", 
+        "tms:id": "200478", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/81509_020ea4ad0ad14f79_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "81509"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/81509_020ea4ad0ad14f79_b.jpg", 
+                    "width": 789, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "81509"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/81509_020ea4ad0ad14f79_d.gif", 
+                    "width": 247, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "81509"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/81509_020ea4ad0ad14f79_z.jpg", 
+                    "width": 493, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "81509"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/81509_020ea4ad0ad14f79_n.jpg", 
+                    "width": 247, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "81509"
+                }
+            }, 
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/268516_0c2752f117d6c08b_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "0", 
+                    "image_id": "268516"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/268516_0c2752f117d6c08b_b.jpg", 
+                    "width": 808, 
+                    "height": 1024, 
+                    "is_primary": "0", 
+                    "image_id": "268516"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/268516_0c2752f117d6c08b_d.gif", 
+                    "width": 253, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "268516"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/268516_0c2752f117d6c08b_z.jpg", 
+                    "width": 505, 
+                    "height": 640, 
+                    "is_primary": "0", 
+                    "image_id": "268516"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/268516_0c2752f117d6c08b_n.jpg", 
+                    "width": 253, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "268516"
+                }
+            }
+        ], 
+        "id": "18651079", 
+        "has_no_known_copyright": null, 
+        "woe:country_name": "United States", 
+        "dimensions": "55.9 x 43.2 cm (22 x 17 in.)", 
+        "title": "Poster, Haven't You Got Enough to Worry About..., 1993", 
+        "provenance": "1995: acquired by Museum", 
+        "participants": [
+            {
+                "person_name": "AIDS Action Committee", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35351535/", 
+                "role_id": "35351535", 
+                "role_name": "Donor", 
+                "person_date": "", 
+                "role_display_name": "Donated by", 
+                "person_id": "18041635", 
+                "person_url": "https://collection.cooperhewitt.org/people/18041635/"
+            }
+        ], 
+        "decade": "1990", 
+        "label_text": null, 
+        "woe:country": "23424977", 
+        "dimensions_raw": {
+            "width": [
+                "43.20", 
+                "centimeters"
+            ], 
+            "height": [
+                "55.90", 
+                "centimeters"
+            ]
+        }, 
+        "department_id": "35347493", 
+        "title_raw": "Haven't You Got Enough to Worry About...", 
+        "justification": null, 
+        "media_id": "35419317", 
+        "description": "On white ground, a single blue wrapped condom. Text in black: Haven’t you got enough / to worry about in bed? For more information about HIV and AIDS, call the AIDS Action Committee Hotline at 1-800-235-2331.", 
+        "creditline": "Gift of AIDS Action Committee", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "1993", 
+        "url": "https://collection.cooperhewitt.org/objects/18651079/", 
+        "type": "poster", 
+        "accession_number": "1995-30-4", 
+        "year_end": 1993, 
+        "signed": null, 
+        "inscribed": null, 
+        "period_id": null, 
+        "year_acquired": "1995", 
+        "woe:country_id": "23424977"
+    }
+}

@@ -1,0 +1,120 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": 1976, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": "offset lithograph\nsupport: paper", 
+        "tms:id": "193446", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/257015_3063ac6492d15869_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "257015"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/257015_3063ac6492d15869_b.jpg", 
+                    "width": 764, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "257015"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/257015_3063ac6492d15869_d.gif", 
+                    "width": 239, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "257015"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/257015_3063ac6492d15869_z.jpg", 
+                    "width": 478, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "257015"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/257015_3063ac6492d15869_n.jpg", 
+                    "width": 239, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "257015"
+                }
+            }
+        ], 
+        "id": "18637189", 
+        "has_no_known_copyright": null, 
+        "woe:country_name": "United States", 
+        "dimensions": "76.1 x 56 cm (29 15/16 x 22 1/16 in.)", 
+        "title": "Poster, Positions in Architecture, 1976", 
+        "provenance": null, 
+        "participants": [
+            {
+                "person_name": "Tom Ockerse", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35351535/", 
+                "role_id": "35351535", 
+                "role_name": "Donor", 
+                "person_date": "1940", 
+                "role_display_name": "Donated by", 
+                "person_id": "18042319", 
+                "person_url": "https://collection.cooperhewitt.org/people/18042319/"
+            }, 
+            {
+                "person_name": "CGC", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35352245/", 
+                "role_id": "35352245", 
+                "role_name": "Cataloguer", 
+                "person_date": "", 
+                "role_display_name": "Catalogued by", 
+                "person_id": "18048417", 
+                "person_url": "https://collection.cooperhewitt.org/people/18048417/"
+            }, 
+            {
+                "person_name": "Tom Ockerse", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "1940", 
+                "role_display_name": "Designed by", 
+                "person_id": "18042319", 
+                "person_url": "https://collection.cooperhewitt.org/people/18042319/"
+            }
+        ], 
+        "decade": "1970", 
+        "label_text": null, 
+        "woe:country": "23424977", 
+        "dimensions_raw": {
+            "width": [
+                "56.00", 
+                "centimeters"
+            ], 
+            "height": [
+                "76.10", 
+                "centimeters"
+            ]
+        }, 
+        "department_id": "35347493", 
+        "title_raw": "Positions in Architecture", 
+        "justification": null, 
+        "media_id": "136270993", 
+        "description": null, 
+        "creditline": "Gift of Tom Ockerse", 
+        "on_display": null, 
+        "markings": "Stamps: On verso designer stamp in red ink at lower right.", 
+        "is_loan_object": 0, 
+        "date": "1976", 
+        "url": "https://collection.cooperhewitt.org/objects/18637189/", 
+        "type": "poster", 
+        "accession_number": "1991-69-117", 
+        "year_end": 1976, 
+        "signed": null, 
+        "inscribed": "Imprinted at UC in brown and white ink :POSIT/IONS/IN . AR/CHITE/CTURE; at L margin in purple ink: Symposium/Rhode/Island School of/Design/ April /16,17, 1976; [followed by organizational information]; at C in purple and white ink: SCHEDULE OF EVENTS...[43 line list of events- lecturers featured: Hans Hollein, Lee Hall, Judy Wolin, Peter Cook, Peter Eisenman, Arata Isosaki...]; at lower margin in purple ink: poster designed by Tom Ockerse;at LL registration and accomodation information imprinted in black ink.", 
+        "period_id": null, 
+        "year_acquired": "1991", 
+        "woe:country_id": "23424977"
+    }
+}

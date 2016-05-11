@@ -1,0 +1,130 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": 1997, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": "offset lithograph on wove paper", 
+        "tms:id": "255510", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/45570_8f452c207ad57550_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "45570"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/45570_8f452c207ad57550_b.jpg", 
+                    "width": 720, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "45570"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/45570_8f452c207ad57550_d.gif", 
+                    "width": 225, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "45570"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/45570_8f452c207ad57550_z.jpg", 
+                    "width": 450, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "45570"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/45570_8f452c207ad57550_n.jpg", 
+                    "width": 225, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "45570"
+                }
+            }
+        ], 
+        "id": "18758449", 
+        "has_no_known_copyright": null, 
+        "woe:country_name": "Switzerland", 
+        "dimensions": "128.2 x 90.9 cm (50 1/2 x 35 13/16 in.)", 
+        "title": "Poster, Züricher Ballet, Balanchin, Kylian, Spoerli, van Manen, 1997", 
+        "provenance": "Sara and Marc Benda (acquired new and directly from designer, Karl Domenic Geissbühler); 2010: acquired by Museum", 
+        "participants": [
+            {
+                "person_name": "Karl Domenic Geissbühler", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "Swiss, b. 1932", 
+                "role_display_name": "Designed by", 
+                "person_id": "18063591", 
+                "person_url": "https://collection.cooperhewitt.org/people/18063591/"
+            }, 
+            {
+                "person_name": "Marc Benda", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35351535/", 
+                "role_id": "35351535", 
+                "role_name": "Donor", 
+                "person_date": "", 
+                "role_display_name": "Donated by", 
+                "person_id": "18062523", 
+                "person_url": "https://collection.cooperhewitt.org/people/18062523/"
+            }, 
+            {
+                "person_name": "Sara Benda", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35351535/", 
+                "role_id": "35351535", 
+                "role_name": "Donor", 
+                "person_date": "", 
+                "role_display_name": "Donated by", 
+                "person_id": "18063205", 
+                "person_url": "https://collection.cooperhewitt.org/people/18063205/"
+            }, 
+            {
+                "person_name": "Opernhaus, Zürich", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236667/", 
+                "role_id": "35236667", 
+                "role_name": "Client", 
+                "person_date": "Zürich, Switzerland", 
+                "role_display_name": "Client:", 
+                "person_id": "68738781", 
+                "person_url": "https://collection.cooperhewitt.org/people/68738781/"
+            }
+        ], 
+        "decade": "1990", 
+        "label_text": null, 
+        "woe:country": "23424957", 
+        "dimensions_raw": {
+            "width": [
+                "90.90", 
+                "centimeters"
+            ], 
+            "height": [
+                "128.20", 
+                "centimeters"
+            ]
+        }, 
+        "department_id": "35347493", 
+        "title_raw": "Züricher Ballet, Balanchin, Kylian, Spoerli, van Manen", 
+        "justification": null, 
+        "media_id": "35431963", 
+        "description": "On a gray ground, text in black and white with four men’s faces throughout and two dancers at right: ZURCHER BALLETT / AB 20. DEZEMBER ‘97 / BALANCHINE / KYLIAN / SPOERLI / VAN / MANEN / OPERNHAUS; lower margin: SERENADE…DREAMTIME…DEAD END…BLACK CAKE…TSCHAIKOWSKI . TAKEMITSU . STRAWINSKI . MASSENET . MASCAGNI . JANACEK . CLEOBURY . MACFARLANE . KROG . DEKKER.", 
+        "creditline": "Gift of Sara and Marc Benda", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "1997", 
+        "url": "https://collection.cooperhewitt.org/objects/18758449/", 
+        "type": "poster", 
+        "accession_number": "2010-21-120", 
+        "year_end": 1997, 
+        "signed": null, 
+        "inscribed": null, 
+        "period_id": null, 
+        "year_acquired": "2010", 
+        "woe:country_id": "23424957"
+    }
+}

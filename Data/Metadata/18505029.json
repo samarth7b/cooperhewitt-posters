@@ -1,0 +1,91 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": 1979, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": null, 
+        "tms:id": "163418", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/267125_88df262f0c7ffb35_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "267125"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/267125_88df262f0c7ffb35_b.jpg", 
+                    "width": 697, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "267125"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/267125_88df262f0c7ffb35_d.gif", 
+                    "width": 218, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "267125"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/267125_88df262f0c7ffb35_z.jpg", 
+                    "width": 435, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "267125"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/267125_88df262f0c7ffb35_n.jpg", 
+                    "width": 218, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "267125"
+                }
+            }
+        ], 
+        "id": "18505029", 
+        "has_no_known_copyright": null, 
+        "woe:country_name": "United States", 
+        "dimensions": null, 
+        "title": "Poster, The Orange County Music Center, 1979", 
+        "provenance": null, 
+        "participants": [
+            {
+                "person_name": "John van Hamersveld", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "American, late 20th–early 21st century", 
+                "role_display_name": "Designed by", 
+                "person_id": "18052545", 
+                "person_url": "https://collection.cooperhewitt.org/people/18052545/"
+            }
+        ], 
+        "decade": "1970", 
+        "label_text": null, 
+        "woe:country": "23424977", 
+        "dimensions_raw": null, 
+        "department_id": "35347493", 
+        "title_raw": "The Orange County Music Center", 
+        "justification": null, 
+        "media_id": "35371135", 
+        "description": null, 
+        "creditline": "Gift of Unknown Donor", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "1979", 
+        "url": "https://collection.cooperhewitt.org/objects/18505029/", 
+        "type": "poster", 
+        "accession_number": "1980-32-1165", 
+        "year_end": 1979, 
+        "signed": null, 
+        "inscribed": null, 
+        "period_id": null, 
+        "year_acquired": "1980", 
+        "woe:country_id": "23424977"
+    }
+}

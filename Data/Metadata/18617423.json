@@ -1,0 +1,174 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": 1973, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": "lithograph on paper", 
+        "tms:id": "177244", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/80028_66be3347cfa4ff57_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "80028"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/80028_66be3347cfa4ff57_b.jpg", 
+                    "width": 683, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "80028"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/80028_66be3347cfa4ff57_d.gif", 
+                    "width": 213, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "80028"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/80028_66be3347cfa4ff57_z.jpg", 
+                    "width": 427, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "80028"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/80028_66be3347cfa4ff57_n.jpg", 
+                    "width": 213, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "80028"
+                }
+            }, 
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/268740_cee1f245cf866574_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "0", 
+                    "image_id": "268740"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/268740_cee1f245cf866574_b.jpg", 
+                    "width": 694, 
+                    "height": 1024, 
+                    "is_primary": "0", 
+                    "image_id": "268740"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/268740_cee1f245cf866574_d.gif", 
+                    "width": 217, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "268740"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/268740_cee1f245cf866574_z.jpg", 
+                    "width": 434, 
+                    "height": 640, 
+                    "is_primary": "0", 
+                    "image_id": "268740"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/268740_cee1f245cf866574_n.jpg", 
+                    "width": 217, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "268740"
+                }
+            }, 
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/80029_35b265b095c50cf0_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "0", 
+                    "image_id": "80029"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/80029_35b265b095c50cf0_b.jpg", 
+                    "width": 686, 
+                    "height": 1024, 
+                    "is_primary": "0", 
+                    "image_id": "80029"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/80029_35b265b095c50cf0_d.gif", 
+                    "width": 214, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "80029"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/80029_35b265b095c50cf0_z.jpg", 
+                    "width": 428, 
+                    "height": 640, 
+                    "is_primary": "0", 
+                    "image_id": "80029"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/80029_35b265b095c50cf0_n.jpg", 
+                    "width": 214, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "80029"
+                }
+            }
+        ], 
+        "id": "18617423", 
+        "has_no_known_copyright": null, 
+        "woe:country_name": "United States", 
+        "dimensions": "H x W: 114.4 x 76.3 cm (45 1/16 x 30 1/16 in.)", 
+        "title": "Poster, Eames, 1973", 
+        "provenance": "1981: acquired by Museum", 
+        "participants": [
+            {
+                "person_name": "Stephen Frykholm", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "American, b. 1942", 
+                "role_display_name": "Designed by", 
+                "person_id": "18042365", 
+                "person_url": "https://collection.cooperhewitt.org/people/18042365/"
+            }
+        ], 
+        "decade": "1970", 
+        "label_text": null, 
+        "woe:country": "23424977", 
+        "dimensions_raw": {
+            "width": [
+                "76.30", 
+                "centimeters"
+            ], 
+            "height": [
+                "114.40", 
+                "centimeters"
+            ]
+        }, 
+        "department_id": "35347493", 
+        "title_raw": "Eames", 
+        "justification": null, 
+        "media_id": "35419317", 
+        "description": "Poster depicts a variety of Charles Eames chairs, several of which are in the Museum of Modern Art's collection, with their model numbers; descriptions Eames and Herman Miller’s relationship.", 
+        "creditline": "Gift of Various Donors", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "1973", 
+        "url": "https://collection.cooperhewitt.org/objects/18617423/", 
+        "type": "poster", 
+        "accession_number": "1981-29-176", 
+        "year_end": 1973, 
+        "signed": null, 
+        "inscribed": null, 
+        "period_id": null, 
+        "year_acquired": "1981", 
+        "woe:country_id": "23424977"
+    }
+}

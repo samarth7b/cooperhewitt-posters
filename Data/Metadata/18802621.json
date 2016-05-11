@@ -1,0 +1,100 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": null, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": null, 
+        "tms:id": "181496", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/267573_7b540ddc359be09f_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "267573"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/267573_7b540ddc359be09f_b.jpg", 
+                    "width": 1024, 
+                    "height": 758, 
+                    "is_primary": "1", 
+                    "image_id": "267573"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/267573_7b540ddc359be09f_d.gif", 
+                    "width": 320, 
+                    "height": 237, 
+                    "is_primary": "1", 
+                    "image_id": "267573"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/267573_7b540ddc359be09f_z.jpg", 
+                    "width": 640, 
+                    "height": 474, 
+                    "is_primary": "1", 
+                    "image_id": "267573"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/267573_7b540ddc359be09f_n.jpg", 
+                    "width": 320, 
+                    "height": 237, 
+                    "is_primary": "1", 
+                    "image_id": "267573"
+                }
+            }
+        ], 
+        "id": "18802621", 
+        "has_no_known_copyright": null, 
+        "woe:country_name": "United States", 
+        "dimensions": "H x W: 62 x 85 cm (24 7/16 x 33 7/16 in.)", 
+        "title": "Poster (USA)", 
+        "provenance": null, 
+        "participants": [
+            {
+                "person_name": "Royal Copenhagen Porcelain Manufactory", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236667/", 
+                "role_id": "35236667", 
+                "role_name": "Client", 
+                "person_date": "founded 1775", 
+                "role_display_name": "Client:", 
+                "person_id": "18041709", 
+                "person_url": "https://collection.cooperhewitt.org/people/18041709/"
+            }
+        ], 
+        "decade": null, 
+        "label_text": null, 
+        "woe:country": "23424977", 
+        "dimensions_raw": {
+            "width": [
+                "85.00", 
+                "centimeters"
+            ], 
+            "height": [
+                "62.00", 
+                "centimeters"
+            ]
+        }, 
+        "department_id": "35347493", 
+        "title_raw": null, 
+        "justification": null, 
+        "media_id": "35371135", 
+        "description": null, 
+        "creditline": null, 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": null, 
+        "url": "https://collection.cooperhewitt.org/objects/18802621/", 
+        "type": "poster", 
+        "accession_number": "1984-49-1", 
+        "year_end": null, 
+        "signed": null, 
+        "inscribed": null, 
+        "period_id": null, 
+        "year_acquired": "1984", 
+        "woe:country_id": "23424977"
+    }
+}

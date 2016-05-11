@@ -1,0 +1,120 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": null, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": "screenprint\nsupport: paper", 
+        "tms:id": "193429", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/268910_19068c17c18f91a0_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "268910"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/268910_19068c17c18f91a0_b.jpg", 
+                    "width": 715, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "268910"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/268910_19068c17c18f91a0_d.gif", 
+                    "width": 223, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "268910"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/268910_19068c17c18f91a0_z.jpg", 
+                    "width": 447, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "268910"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/268910_19068c17c18f91a0_n.jpg", 
+                    "width": 223, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "268910"
+                }
+            }
+        ], 
+        "id": "18637155", 
+        "has_no_known_copyright": null, 
+        "woe:country_name": "United States", 
+        "dimensions": "81.9 x 55.3 cm (32 1/4 x 21 3/4 in.)", 
+        "title": "Poster, CRIA (Committee to Rescue", 
+        "provenance": null, 
+        "participants": [
+            {
+                "person_name": "Malcolm Grear", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35351535/", 
+                "role_id": "35351535", 
+                "role_name": "Donor", 
+                "person_date": "American, founded 1931", 
+                "role_display_name": "Donated by", 
+                "person_id": "18042303", 
+                "person_url": "https://collection.cooperhewitt.org/people/18042303/"
+            }, 
+            {
+                "person_name": "CGC", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35352245/", 
+                "role_id": "35352245", 
+                "role_name": "Cataloguer", 
+                "person_date": "", 
+                "role_display_name": "Catalogued by", 
+                "person_id": "18048417", 
+                "person_url": "https://collection.cooperhewitt.org/people/18048417/"
+            }, 
+            {
+                "person_name": "Malcolm Grear", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "American, founded 1931", 
+                "role_display_name": "Designed by", 
+                "person_id": "18042303", 
+                "person_url": "https://collection.cooperhewitt.org/people/18042303/"
+            }
+        ], 
+        "decade": null, 
+        "label_text": null, 
+        "woe:country": "23424977", 
+        "dimensions_raw": {
+            "width": [
+                "55.30", 
+                "centimeters"
+            ], 
+            "height": [
+                "81.90", 
+                "centimeters"
+            ]
+        }, 
+        "department_id": "35347493", 
+        "title_raw": "CRIA (Committee to Rescue", 
+        "justification": null, 
+        "media_id": "136270991", 
+        "description": null, 
+        "creditline": "Gift of Malcom Grear", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": null, 
+        "url": "https://collection.cooperhewitt.org/objects/18637155/", 
+        "type": "poster", 
+        "accession_number": "1991-69-101", 
+        "year_end": null, 
+        "signed": null, 
+        "inscribed": "Imprinted in grey ink across UC: On November 4, 1966/ a Disastrous Flood/ Struck at Civilization; imprinted in grey, orange, and white ink across C: HELPRESCUE MUSEUMS/HELPPRESERVE ARCHIVES/HELPRESTORE LIBRARIES; in halftonedots at C: CRIA; in white at LC: Tax deductible contributions may be sent to/CRIA COMMITTEE TO RESCUE ITALIAN ART, in white at L margin: Malcom Grear", 
+        "period_id": null, 
+        "year_acquired": "1991", 
+        "woe:country_id": "23424977"
+    }
+}

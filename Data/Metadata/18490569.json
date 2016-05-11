@@ -1,0 +1,90 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": null, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": null, 
+        "tms:id": "156162", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/201222_9f1b660202f15dad_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "201222"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/201222_9f1b660202f15dad_b.jpg", 
+                    "width": 771, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "201222"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/201222_9f1b660202f15dad_d.gif", 
+                    "width": 241, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "201222"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/201222_9f1b660202f15dad_z.jpg", 
+                    "width": 482, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "201222"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/201222_9f1b660202f15dad_n.jpg", 
+                    "width": 241, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "201222"
+                }
+            }
+        ], 
+        "id": "18490569", 
+        "has_no_known_copyright": null, 
+        "dimensions": null, 
+        "title": "Poster", 
+        "provenance": null, 
+        "participants": [
+            {
+                "person_name": "Jack Lenor Larsen", 
+                "role_url": "https://collection.cooperhewitt.org/roles/68299055/", 
+                "role_id": "68299055", 
+                "role_name": "Subject", 
+                "person_date": "American, b. 1927", 
+                "role_display_name": "Subject:", 
+                "person_id": "18040903", 
+                "person_url": "https://collection.cooperhewitt.org/people/18040903/"
+            }
+        ], 
+        "decade": null, 
+        "label_text": null, 
+        "woe:country": null, 
+        "dimensions_raw": null, 
+        "department_id": "35347493", 
+        "title_raw": null, 
+        "justification": null, 
+        "media_id": "35371135", 
+        "description": null, 
+        "creditline": null, 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": null, 
+        "url": "https://collection.cooperhewitt.org/objects/18490569/", 
+        "type": "poster", 
+        "accession_number": "1976-25-6", 
+        "year_end": null, 
+        "signed": null, 
+        "inscribed": null, 
+        "period_id": null, 
+        "year_acquired": "1976", 
+        "woe:country_id": null
+    }
+}

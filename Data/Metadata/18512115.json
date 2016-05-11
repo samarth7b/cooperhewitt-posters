@@ -1,0 +1,100 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": 1976, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": "lithograph", 
+        "tms:id": "167013", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/103388_ed273e9fd6631272_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "103388"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/103388_ed273e9fd6631272_b.jpg", 
+                    "width": 521, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "103388"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/103388_ed273e9fd6631272_d.gif", 
+                    "width": 163, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "103388"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/103388_ed273e9fd6631272_z.jpg", 
+                    "width": 325, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "103388"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/103388_ed273e9fd6631272_n.jpg", 
+                    "width": 163, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "103388"
+                }
+            }
+        ], 
+        "id": "18512115", 
+        "has_no_known_copyright": null, 
+        "dimensions": "H x W: 116.8 × 58.6 cm (46 in. × 23 1/16 in.)", 
+        "title": "Poster, For Colored Girls..., 1976", 
+        "provenance": null, 
+        "participants": [
+            {
+                "person_name": "Paul Davis", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "American, b. 1938", 
+                "role_display_name": "Designed by", 
+                "person_id": "18052585", 
+                "person_url": "https://collection.cooperhewitt.org/people/18052585/"
+            }, 
+            {
+                "person_name": "Booth Theater", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236667/", 
+                "role_id": "35236667", 
+                "role_name": "Client", 
+                "person_date": "American", 
+                "role_display_name": "Client:", 
+                "person_id": "69136643", 
+                "person_url": "https://collection.cooperhewitt.org/people/69136643/"
+            }
+        ], 
+        "decade": "1970", 
+        "label_text": null, 
+        "woe:country": null, 
+        "dimensions_raw": null, 
+        "department_id": "35347493", 
+        "title_raw": "For Colored Girls...", 
+        "justification": null, 
+        "media_id": "35402727", 
+        "description": null, 
+        "creditline": "Gift of Unknown Donor", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "1976", 
+        "url": "https://collection.cooperhewitt.org/objects/18512115/", 
+        "type": "poster", 
+        "accession_number": "1980-32-981", 
+        "year_end": 1976, 
+        "signed": null, 
+        "inscribed": null, 
+        "period_id": null, 
+        "year_acquired": "1980", 
+        "woe:country_id": null
+    }
+}

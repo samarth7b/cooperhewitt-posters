@@ -1,0 +1,137 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": 1970, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": "offset lithograph on paper", 
+        "tms:id": "177363", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/64037_1c671eaef2bcc998_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "64037"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/64037_1c671eaef2bcc998_b.jpg", 
+                    "width": 795, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "64037"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/64037_1c671eaef2bcc998_d.gif", 
+                    "width": 248, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "64037"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/64037_1c671eaef2bcc998_z.jpg", 
+                    "width": 497, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "64037"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/64037_1c671eaef2bcc998_n.jpg", 
+                    "width": 248, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "64037"
+                }
+            }, 
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/203037_575f0d594256e50e_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "0", 
+                    "image_id": "203037"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/203037_575f0d594256e50e_b.jpg", 
+                    "width": 799, 
+                    "height": 1024, 
+                    "is_primary": "0", 
+                    "image_id": "203037"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/203037_575f0d594256e50e_d.gif", 
+                    "width": 250, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "203037"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/203037_575f0d594256e50e_z.jpg", 
+                    "width": 499, 
+                    "height": 640, 
+                    "is_primary": "0", 
+                    "image_id": "203037"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/203037_575f0d594256e50e_n.jpg", 
+                    "width": 250, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "203037"
+                }
+            }
+        ], 
+        "id": "18617661", 
+        "has_no_known_copyright": null, 
+        "woe:country_name": "United States", 
+        "dimensions": "66.2 x 51 cm (26 1/16 x 20 1/16 in.)", 
+        "title": "Poster, The Yale Symphony, ca. 1975", 
+        "provenance": "1981: acquired by Museum", 
+        "participants": [
+            {
+                "person_name": "Christopher Pullman", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "American, b. 1941", 
+                "role_display_name": "Designed by", 
+                "person_id": "18042333", 
+                "person_url": "https://collection.cooperhewitt.org/people/18042333/"
+            }
+        ], 
+        "decade": "1970", 
+        "label_text": null, 
+        "woe:country": "23424977", 
+        "dimensions_raw": {
+            "width": [
+                "51.00", 
+                "centimeters"
+            ], 
+            "height": [
+                "66.20", 
+                "centimeters"
+            ]
+        }, 
+        "department_id": "35347493", 
+        "title_raw": "The Yale Symphony", 
+        "justification": null, 
+        "media_id": "35399021", 
+        "description": "On a half black and half white poster, an illustration of an Eastern lamp with smoke coming out, which turns into a neckerchief, which is worn by a faceless mask (like Zorro), wearing a cowboy hat, which supports a red apple which can be seen in a picture frame. On left, text in white on black background: The Yale / Symphony / plays / The Lone / Ranger / and other / Oldies / but Goldies; on the lower section, in black on a white background: Saturday December 11 / 8:30 in Woolsey Hall / John Mauceri conducting / Moussorsky-Ravel: Pictures at an Exhibition / Rossini: / William Tell Overture / Rimsky-Korsakov: / Scheherezade / This is a benefit concert / to help sustain the orchestra. / Tickets at the Yale Co-op / or at the door: / $3.00, $2.25 and $1.50", 
+        "creditline": "Gift of Various Donors", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "ca. 1975", 
+        "url": "https://collection.cooperhewitt.org/objects/18617661/", 
+        "type": "poster", 
+        "accession_number": "1981-29-280", 
+        "year_end": 1981, 
+        "signed": null, 
+        "inscribed": null, 
+        "period_id": null, 
+        "year_acquired": "1981", 
+        "woe:country_id": "23424977"
+    }
+}

@@ -1,0 +1,109 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": "Created for the 1977 UK release of the American film “The Stepford Wives,” this poster of the same name draws on ideas of female independence and individuality.  In the film, women from the town of Stepford are replaced by beautiful but threatening cyborgs. The poster imitates the film’s content; a woman appears to crumble, her delicate body depicted in jagged edges that resemble broken porcelain.", 
+        "year_start": 1975, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": "screenprint", 
+        "tms:id": "255410", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/46892_d4592cb445f2a309_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "46892"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/46892_d4592cb445f2a309_b.jpg", 
+                    "width": 1024, 
+                    "height": 683, 
+                    "is_primary": "1", 
+                    "image_id": "46892"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/46892_d4592cb445f2a309_d.gif", 
+                    "width": 320, 
+                    "height": 213, 
+                    "is_primary": "1", 
+                    "image_id": "46892"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/46892_d4592cb445f2a309_z.jpg", 
+                    "width": 640, 
+                    "height": 427, 
+                    "is_primary": "1", 
+                    "image_id": "46892"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/46892_d4592cb445f2a309_n.jpg", 
+                    "width": 320, 
+                    "height": 213, 
+                    "is_primary": "1", 
+                    "image_id": "46892"
+                }
+            }
+        ], 
+        "id": "18758251", 
+        "has_no_known_copyright": null, 
+        "dimensions": "69.9 × 98.1 cm (27 1/2 × 38 5/8 in.)", 
+        "title": "Poster, The Stepford Wives, 1975–76", 
+        "provenance": "Acquired from dealers, galleries and auction houses by Marc Benda.  Remained with Benda until 2010, when gifted to CHNDM.", 
+        "participants": [
+            {
+                "person_name": "Marc Benda", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35351535/", 
+                "role_id": "35351535", 
+                "role_name": "Donor", 
+                "person_date": "", 
+                "role_display_name": "Donated by", 
+                "person_id": "18062523", 
+                "person_url": "https://collection.cooperhewitt.org/people/18062523/"
+            }, 
+            {
+                "person_name": "Sara Benda", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35351535/", 
+                "role_id": "35351535", 
+                "role_name": "Donor", 
+                "person_date": "", 
+                "role_display_name": "Donated by", 
+                "person_id": "18063205", 
+                "person_url": "https://collection.cooperhewitt.org/people/18063205/"
+            }
+        ], 
+        "decade": "1970", 
+        "label_text": "This image of a cracked mannequin or statue with a realistically-rendered face sums up the banal horror of Bryan Forbes’s 1975 film The Stepford Wives (based on the novel by Ira Levin). Rather than depict an actual scene from the film, the designer chose to represent its inner psychology.", 
+        "woe:country": null, 
+        "dimensions_raw": {
+            "width": [
+                "98.00", 
+                "centimeters"
+            ], 
+            "height": [
+                "69.70", 
+                "centimeters"
+            ]
+        }, 
+        "department_id": "35347493", 
+        "title_raw": "The Stepford Wives", 
+        "justification": null, 
+        "media_id": "35422783", 
+        "description": "On deep blue background, fading towards center: a yellow surface with broken-off hand and head of an attractive, stylish woman. \n\nInscriptions: top-center in yellow, the title “The Stepford Wives\", followed below at left, in white, with: \"Something strange is happening  / in the town of Stepford. / When the men spend their nights doing something secret, / And every woman acts like every man's dream of the / \"perfect\" wife. / When a young woman watches the / dream become a nightmare / And sees the nightmare engulf her best friends, / And realizes that any moment, any second-- / her turn is coming. \", and at right in yellow: \"KATHERINE ROSS PAULA PRENTISS / NANETTE NEWMAN / PATRICK O'NEAL\". At mid left, in yellow: \"CONTEMPORARY / FILMS / RELEASE\", and at mid-right: \"DIRECTED BY / BRYAN FORBES.\" Followed by a black band at bottom, with inscription in yellow \"SCREENPLAY BY WILLIAM GOLDMAN  FROM THE NOVEL BY IRA LEVIN  AUTHOR OF  'ROSEMARY'S BABY' & 'BOYS FROM BRAZIL'.", 
+        "creditline": "Gift of Sara and Marc Benda", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "1975–76", 
+        "url": "https://collection.cooperhewitt.org/objects/18758251/", 
+        "type": "poster", 
+        "accession_number": "2010-21-24", 
+        "year_end": 1976, 
+        "signed": null, 
+        "inscribed": null, 
+        "period_id": "35435937", 
+        "year_acquired": "2010", 
+        "woe:country_id": null
+    }
+}

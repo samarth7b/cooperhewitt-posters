@@ -1,0 +1,119 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": "Due to Poland’s complicated political history under Communism, freedom of creative expression and exposure to Western culture could be quite limited. This film poster was a means to communicate ideas and concepts more freely, as they were not as closely monitored by the state. Polish poster artists developed their own individual styles in the absence of any influence. Posters displayed a high degree of innovation and artistry, elevating the medium to a means of artistic expression equal to painting or printmaking.", 
+        "year_start": 1970, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": "offset lithograph on wove paper, mounted on linen", 
+        "tms:id": "255490", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/38551_15ff0c67314e196c_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "38551"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/38551_15ff0c67314e196c_b.jpg", 
+                    "width": 730, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "38551"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/38551_15ff0c67314e196c_d.gif", 
+                    "width": 228, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "38551"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/38551_15ff0c67314e196c_z.jpg", 
+                    "width": 456, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "38551"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/38551_15ff0c67314e196c_n.jpg", 
+                    "width": 228, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "38551"
+                }
+            }
+        ], 
+        "id": "18758409", 
+        "has_no_known_copyright": null, 
+        "dimensions": "83.4 x 59.4 cm (32 13/16 x 23 3/8 in.)\nMount: 92.6 × 68.3 cm (36 7/16 × 26 7/8 in.)", 
+        "title": "Poster, Zbieg z Alcatraz [Point Blank], 1970", 
+        "provenance": "Acquired from dealers, galleries and auction houses by Marc Benda.  Remained with Benda until 2010, when gifted to CHNDM.", 
+        "participants": [
+            {
+                "person_name": "Bronislaw Zelek", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "Polish, b. 1935", 
+                "role_display_name": "Designed by", 
+                "person_id": "18063469", 
+                "person_url": "https://collection.cooperhewitt.org/people/18063469/"
+            }, 
+            {
+                "person_name": "Marc Benda", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35351535/", 
+                "role_id": "35351535", 
+                "role_name": "Donor", 
+                "person_date": "", 
+                "role_display_name": "Donated by", 
+                "person_id": "18062523", 
+                "person_url": "https://collection.cooperhewitt.org/people/18062523/"
+            }, 
+            {
+                "person_name": "Sara Benda", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35351535/", 
+                "role_id": "35351535", 
+                "role_name": "Donor", 
+                "person_date": "", 
+                "role_display_name": "Donated by", 
+                "person_id": "18063205", 
+                "person_url": "https://collection.cooperhewitt.org/people/18063205/"
+            }
+        ], 
+        "decade": "1970", 
+        "label_text": "By changing the scale of the picture and flattening out its interior details, the designer creates an anonymous, universal everyman.", 
+        "woe:country": null, 
+        "dimensions_raw": {
+            "width": [
+                "59.40", 
+                "centimeters"
+            ], 
+            "height": [
+                "83.40", 
+                "centimeters"
+            ]
+        }, 
+        "department_id": "35347493", 
+        "title_raw": "Zbieg z Alcatraz [Point Blank]", 
+        "justification": null, 
+        "media_id": "35434607", 
+        "description": "On crème background, a black-and-white photograph of a man's face, toned blue, with the hair toned in the crème color of the background. In the margins around the face, the inscriptions: at left, top to bottom- \"Sensacyjny pojedynek / gangsterow / w amerykanskim filmie\", \"w rolach glownych Angie Dickinson  Keenan Wynn  Carroll O'Connor / Lee Marvin\"; at right, top to bottom- \"zbieg v Alcatraz / rezyseria John Boorman / Produkcja MGM\".", 
+        "creditline": "Gift of Sara and Marc Benda", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "1970", 
+        "url": "https://collection.cooperhewitt.org/objects/18758409/", 
+        "type": "poster", 
+        "accession_number": "2010-21-101", 
+        "year_end": 1970, 
+        "signed": null, 
+        "inscribed": null, 
+        "period_id": null, 
+        "year_acquired": "2010", 
+        "woe:country_id": null
+    }
+}

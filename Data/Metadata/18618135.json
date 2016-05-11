@@ -1,0 +1,91 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": null, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": null, 
+        "tms:id": "177601", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/268813_9c40c93bfd0d1100_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "268813"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/268813_9c40c93bfd0d1100_b.jpg", 
+                    "width": 646, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "268813"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/268813_9c40c93bfd0d1100_d.gif", 
+                    "width": 202, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "268813"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/268813_9c40c93bfd0d1100_z.jpg", 
+                    "width": 403, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "268813"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/268813_9c40c93bfd0d1100_n.jpg", 
+                    "width": 202, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "268813"
+                }
+            }
+        ], 
+        "id": "18618135", 
+        "has_no_known_copyright": null, 
+        "woe:country_name": "United States", 
+        "dimensions": null, 
+        "title": "Poster (USA)", 
+        "provenance": null, 
+        "participants": [
+            {
+                "person_name": "Buster Bruun", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "", 
+                "role_display_name": "Designed by", 
+                "person_id": "18535515", 
+                "person_url": "https://collection.cooperhewitt.org/people/18535515/"
+            }
+        ], 
+        "decade": null, 
+        "label_text": null, 
+        "woe:country": "23424977", 
+        "dimensions_raw": null, 
+        "department_id": "35347493", 
+        "title_raw": null, 
+        "justification": null, 
+        "media_id": "35371135", 
+        "description": null, 
+        "creditline": "Gift of Various Donors", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": null, 
+        "url": "https://collection.cooperhewitt.org/objects/18618135/", 
+        "type": "poster", 
+        "accession_number": "1981-29-494", 
+        "year_end": null, 
+        "signed": null, 
+        "inscribed": null, 
+        "period_id": null, 
+        "year_acquired": "1981", 
+        "woe:country_id": "23424977"
+    }
+}

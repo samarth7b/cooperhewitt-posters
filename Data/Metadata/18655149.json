@@ -1,0 +1,147 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": "Milton Glaser has shaped a distinctly American style of graphic design  for over six decades since graduating from the Cooper Union for the Advancement of Science and Art in 1951.  For his alma mater, Glaser produced this 1995 poster  announcing a lecture series  (to which he was the first of ten visiting designers) borrowing rational principles reminiscent of the Modernist style dominant in the early 20th century. In contrast, his gridded structure of multi-colored squares warps at the top and bottom edges. The effect is a convex image that brings a three-dimensionality to this two-dimensional work, creating an illusion of depth and an ambiguity between the real and the unreal.  This deep-seated interest — seen in a number  of Glaser posters collected by Cooper-Hewitt  — is emblematic of the idea that contemporary posters can be viewed not only as simple tools of communication, but also as works of art.", 
+        "year_start": 1996, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": "lithograph on heavy white paper", 
+        "tms:id": "202544", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/49883_ac13efd89718abf5_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "49883"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/49883_ac13efd89718abf5_b.jpg", 
+                    "width": 636, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "49883"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/49883_ac13efd89718abf5_d.gif", 
+                    "width": 199, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "49883"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/49883_ac13efd89718abf5_z.jpg", 
+                    "width": 398, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "49883"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/49883_ac13efd89718abf5_n.jpg", 
+                    "width": 199, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "49883"
+                }
+            }, 
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/268696_9ccddd772ce8fa7a_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "0", 
+                    "image_id": "268696"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/268696_9ccddd772ce8fa7a_b.jpg", 
+                    "width": 657, 
+                    "height": 1024, 
+                    "is_primary": "0", 
+                    "image_id": "268696"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/268696_9ccddd772ce8fa7a_d.gif", 
+                    "width": 205, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "268696"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/268696_9ccddd772ce8fa7a_z.jpg", 
+                    "width": 410, 
+                    "height": 640, 
+                    "is_primary": "0", 
+                    "image_id": "268696"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/268696_9ccddd772ce8fa7a_n.jpg", 
+                    "width": 205, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "268696"
+                }
+            }
+        ], 
+        "id": "18655149", 
+        "has_no_known_copyright": null, 
+        "woe:country_name": "United States", 
+        "dimensions": "90.2 x 57.2 cm. (35 3/4 x 22 1/2 inches)", 
+        "title": "Poster, Designtalk: Lecture Series at Cooper Union, 1996", 
+        "provenance": "Milton Glaser; 1997: acquired by Museum", 
+        "participants": [
+            {
+                "person_name": "Milton Glaser", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "American, b. 1929", 
+                "role_display_name": "Designed by", 
+                "person_id": "18042107", 
+                "person_url": "https://collection.cooperhewitt.org/people/18042107/"
+            }, 
+            {
+                "person_name": "Milton Glaser", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35351535/", 
+                "role_id": "35351535", 
+                "role_name": "Donor", 
+                "person_date": "American, b. 1929", 
+                "role_display_name": "Donated by", 
+                "person_id": "18042107", 
+                "person_url": "https://collection.cooperhewitt.org/people/18042107/"
+            }
+        ], 
+        "decade": "1990", 
+        "label_text": null, 
+        "woe:country": "23424977", 
+        "dimensions_raw": {
+            "width": [
+                "57.20", 
+                "centimeters"
+            ], 
+            "height": [
+                "90.20", 
+                "centimeters"
+            ]
+        }, 
+        "department_id": "35347493", 
+        "title_raw": "Designtalk: Lecture Series at Cooper Union", 
+        "justification": null, 
+        "media_id": "35407883", 
+        "description": "Multicolored squares in grid pattern against cream-to-yellow background.  Top and bottom edges convex.", 
+        "creditline": "Gift of Milton Glaser", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "1996", 
+        "url": "https://collection.cooperhewitt.org/objects/18655149/", 
+        "type": "poster", 
+        "accession_number": "1997-28-1", 
+        "year_end": 1996, 
+        "signed": null, 
+        "inscribed": null, 
+        "period_id": null, 
+        "year_acquired": "1997", 
+        "woe:country_id": "23424977"
+    }
+}

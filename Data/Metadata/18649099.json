@@ -1,0 +1,207 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": 1977, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": "silkscreen on wove paper", 
+        "tms:id": "199459", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/89855_f66cebef4e8c2914_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "89855"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/89855_f66cebef4e8c2914_b.jpg", 
+                    "width": 682, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "89855"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/89855_f66cebef4e8c2914_d.gif", 
+                    "width": 213, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "89855"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/89855_f66cebef4e8c2914_z.jpg", 
+                    "width": 426, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "89855"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/89855_f66cebef4e8c2914_n.jpg", 
+                    "width": 213, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "89855"
+                }
+            }, 
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/141562_08f162ab8086096d_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "0", 
+                    "image_id": "141562"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/141562_08f162ab8086096d_b.jpg", 
+                    "width": 698, 
+                    "height": 1024, 
+                    "is_primary": "0", 
+                    "image_id": "141562"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/141562_08f162ab8086096d_d.gif", 
+                    "width": 218, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "141562"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/141562_08f162ab8086096d_z.jpg", 
+                    "width": 436, 
+                    "height": 640, 
+                    "is_primary": "0", 
+                    "image_id": "141562"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/141562_08f162ab8086096d_n.jpg", 
+                    "width": 218, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "141562"
+                }
+            }
+        ], 
+        "id": "18649099", 
+        "has_no_known_copyright": null, 
+        "woe:country_name": "Cuba", 
+        "dimensions": "76.2 x 50.5 cm (30 in. x 19 7/8 in.)", 
+        "title": "Poster, La Ultima Cena (The Last Supper), 1977", 
+        "provenance": "Reinhold Brown Gallery New York, NY", 
+        "participants": [
+            {
+                "person_name": "Dr. Gail Davidson", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35352245/", 
+                "role_id": "35352245", 
+                "role_name": "Cataloguer", 
+                "person_date": "", 
+                "role_display_name": "Catalogued by", 
+                "person_id": "18048255", 
+                "person_url": "https://collection.cooperhewitt.org/people/18048255/"
+            }, 
+            {
+                "person_name": "Reinhold Brown Gallery", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35352249/", 
+                "role_id": "35352249", 
+                "role_name": "Vendor", 
+                "person_date": "", 
+                "role_display_name": "Purchased from", 
+                "person_id": "18041557", 
+                "person_url": "https://collection.cooperhewitt.org/people/18041557/"
+            }, 
+            {
+                "person_name": "Smithsonian Institution CAP Funds--do not use", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35352247/", 
+                "role_id": "35352247", 
+                "role_name": "Fund", 
+                "person_date": "", 
+                "role_display_name": "Fund:", 
+                "person_id": "18048931", 
+                "person_url": "https://collection.cooperhewitt.org/people/18048931/"
+            }, 
+            {
+                "person_name": "ss", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35352245/", 
+                "role_id": "35352245", 
+                "role_name": "Cataloguer", 
+                "person_date": "", 
+                "role_display_name": "Catalogued by", 
+                "person_id": "18047797", 
+                "person_url": "https://collection.cooperhewitt.org/people/18047797/"
+            }, 
+            {
+                "person_name": "SR", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35352245/", 
+                "role_id": "35352245", 
+                "role_name": "Cataloguer", 
+                "person_date": "", 
+                "role_display_name": "Catalogued by", 
+                "person_id": "18047543", 
+                "person_url": "https://collection.cooperhewitt.org/people/18047543/"
+            }, 
+            {
+                "person_name": "Paul René Azcuy Cárdenas, Cuban", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236565/", 
+                "role_id": "35236565", 
+                "role_name": "Artist", 
+                "person_date": "b. 1939", 
+                "role_display_name": "", 
+                "person_id": "18043381", 
+                "person_url": "https://collection.cooperhewitt.org/people/18043381/"
+            }, 
+            {
+                "person_name": "The Cuban Institute of Cinematographic Art and Industry (ICAIC)", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236667/", 
+                "role_id": "35236667", 
+                "role_name": "Client", 
+                "person_date": "Cuba", 
+                "role_display_name": "Client:", 
+                "person_id": "18043359", 
+                "person_url": "https://collection.cooperhewitt.org/people/18043359/"
+            }, 
+            {
+                "person_name": "The Cuban Institute of Cinematographic Art and Industry (ICAIC)", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236661/", 
+                "role_id": "35236661", 
+                "role_name": "Publisher", 
+                "person_date": "Cuba", 
+                "role_display_name": "Published by", 
+                "person_id": "18043359", 
+                "person_url": "https://collection.cooperhewitt.org/people/18043359/"
+            }
+        ], 
+        "decade": "1970", 
+        "label_text": null, 
+        "woe:country": "23424793", 
+        "dimensions_raw": {
+            "width": [
+                "50.50", 
+                "centimeters"
+            ], 
+            "height": [
+                "76.20", 
+                "centimeters"
+            ]
+        }, 
+        "department_id": "35347493", 
+        "title_raw": "La Ultima Cena (The Last Supper)", 
+        "justification": null, 
+        "media_id": "35434615", 
+        "description": "Candelabrum, seemingly cut out of black ground, sitting on a support, holding five candles which are dripping with red blood. Food or flower arrangement at lower right. Background printed in black, leaving candelabrum reserved in support color. Across the top, in white caps: LA ULTIMA CENA (The Last Supper).", 
+        "creditline": "Museum purchase from Smithsonian Institution Collections Acquisition Program Fund and through gift of Anonymous Donors", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "1977", 
+        "url": "https://collection.cooperhewitt.org/objects/18649099/", 
+        "type": "poster", 
+        "accession_number": "1994-65-2", 
+        "year_end": 1977, 
+        "signed": "Signed with initial and dated in image, lower left margin: A/77", 
+        "inscribed": null, 
+        "period_id": null, 
+        "year_acquired": "1994", 
+        "woe:country_id": "23424793"
+    }
+}

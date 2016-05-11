@@ -1,0 +1,156 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": 1983, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": "offset lithograph", 
+        "tms:id": "255405", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/46888_6800ec69a01fd82f_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "46888"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/46888_6800ec69a01fd82f_b.jpg", 
+                    "width": 694, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "46888"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/46888_6800ec69a01fd82f_d.gif", 
+                    "width": 217, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "46888"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/46888_6800ec69a01fd82f_z.jpg", 
+                    "width": 434, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "46888"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/46888_6800ec69a01fd82f_n.jpg", 
+                    "width": 217, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "46888"
+                }
+            }, 
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/253715_d9aa8b7ada0e4fa1_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "0", 
+                    "image_id": "253715"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/253715_d9aa8b7ada0e4fa1_b.jpg", 
+                    "width": 701, 
+                    "height": 1024, 
+                    "is_primary": "0", 
+                    "image_id": "253715"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/253715_d9aa8b7ada0e4fa1_d.gif", 
+                    "width": 219, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "253715"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/253715_d9aa8b7ada0e4fa1_z.jpg", 
+                    "width": 438, 
+                    "height": 640, 
+                    "is_primary": "0", 
+                    "image_id": "253715"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/253715_d9aa8b7ada0e4fa1_n.jpg", 
+                    "width": 219, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "253715"
+                }
+            }
+        ], 
+        "id": "18758241", 
+        "has_no_known_copyright": null, 
+        "dimensions": "97.3 x 66.5 cm (38 5/16 x 26 3/16 in.)", 
+        "title": "Poster, Zagadka niesmiertelnosci [The Hunger], 1983–84", 
+        "provenance": "Acquired from dealers, galleries and auction houses by Marc Benda.  Remained with Benda until 2010, when gifted to CHNDM.", 
+        "participants": [
+            {
+                "person_name": "Wieslaw Walkuski", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "Polish, b. 1956", 
+                "role_display_name": "Designed by", 
+                "person_id": "18063493", 
+                "person_url": "https://collection.cooperhewitt.org/people/18063493/"
+            }, 
+            {
+                "person_name": "Marc Benda", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35351535/", 
+                "role_id": "35351535", 
+                "role_name": "Donor", 
+                "person_date": "", 
+                "role_display_name": "Donated by", 
+                "person_id": "18062523", 
+                "person_url": "https://collection.cooperhewitt.org/people/18062523/"
+            }, 
+            {
+                "person_name": "Sara Benda", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35351535/", 
+                "role_id": "35351535", 
+                "role_name": "Donor", 
+                "person_date": "", 
+                "role_display_name": "Donated by", 
+                "person_id": "18063205", 
+                "person_url": "https://collection.cooperhewitt.org/people/18063205/"
+            }
+        ], 
+        "decade": "1980", 
+        "label_text": null, 
+        "woe:country": null, 
+        "dimensions_raw": {
+            "width": [
+                "66.50", 
+                "centimeters"
+            ], 
+            "height": [
+                "97.30", 
+                "centimeters"
+            ]
+        }, 
+        "department_id": "35347493", 
+        "title_raw": "Zagadka niesmiertelnosci [The Hunger]", 
+        "justification": null, 
+        "media_id": "35399027", 
+        "description": "On mustard brown, the face of a clock with no hands, functioning as the top part of a skull, with the lower part--the jaw--rainbow-colored, appearing to snarl. At lower right is the inscription: \"Catherine DENEUVE / David BOWIE / i Susan / SARANDON / w filmie / ZAGADKA / NIESMIERTELNOSCI / rezyseria: Tony SCOTT / produkcja: Richard Shepherd Company dla MGA/UA, 1983\".", 
+        "creditline": "Gift of Sara and Marc Benda", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "1983–84", 
+        "url": "https://collection.cooperhewitt.org/objects/18758241/", 
+        "type": "poster", 
+        "accession_number": "2010-21-19", 
+        "year_end": 1984, 
+        "signed": null, 
+        "inscribed": null, 
+        "period_id": null, 
+        "year_acquired": "2010", 
+        "woe:country_id": null
+    }
+}

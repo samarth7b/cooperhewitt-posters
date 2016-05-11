@@ -1,0 +1,156 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": 1967, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": "offset lithograph on paper", 
+        "tms:id": "159878", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/82645_356ed32d85601ba5_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "82645"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/82645_356ed32d85601ba5_b.jpg", 
+                    "width": 677, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "82645"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/82645_356ed32d85601ba5_d.gif", 
+                    "width": 212, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "82645"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/82645_356ed32d85601ba5_z.jpg", 
+                    "width": 423, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "82645"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/82645_356ed32d85601ba5_n.jpg", 
+                    "width": 212, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "82645"
+                }
+            }, 
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/205374_8a0655d68982e10c_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "0", 
+                    "image_id": "205374"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/205374_8a0655d68982e10c_b.jpg", 
+                    "width": 674, 
+                    "height": 1024, 
+                    "is_primary": "0", 
+                    "image_id": "205374"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/205374_8a0655d68982e10c_d.gif", 
+                    "width": 211, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "205374"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/205374_8a0655d68982e10c_z.jpg", 
+                    "width": 421, 
+                    "height": 640, 
+                    "is_primary": "0", 
+                    "image_id": "205374"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/205374_8a0655d68982e10c_n.jpg", 
+                    "width": 211, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "205374"
+                }
+            }
+        ], 
+        "id": "18497963", 
+        "has_no_known_copyright": null, 
+        "dimensions": "55.2 x 35.7 cm (21 3/4 x 14 1/16 in.)", 
+        "title": "Poster, From England / The Who..., 1967", 
+        "provenance": "Mr. and Mrs. Leslie J. Schreyer; 1979: acquired by Museum", 
+        "participants": [
+            {
+                "person_name": "Mrs. Alice Schreyer", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35351535/", 
+                "role_id": "35351535", 
+                "role_name": "Donor", 
+                "person_date": "", 
+                "role_display_name": "Donated by", 
+                "person_id": "68736623", 
+                "person_url": "https://collection.cooperhewitt.org/people/68736623/"
+            }, 
+            {
+                "person_name": "Mr. Leslie Schreyer", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35351535/", 
+                "role_id": "35351535", 
+                "role_name": "Donor", 
+                "person_date": "", 
+                "role_display_name": "Donated by", 
+                "person_id": "18058429", 
+                "person_url": "https://collection.cooperhewitt.org/people/18058429/"
+            }, 
+            {
+                "person_name": "Bonnie MacLean", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "American, b. 1949", 
+                "role_display_name": "Designed by", 
+                "person_id": "18056715", 
+                "person_url": "https://collection.cooperhewitt.org/people/18056715/"
+            }
+        ], 
+        "decade": "1960", 
+        "label_text": null, 
+        "woe:country": null, 
+        "dimensions_raw": {
+            "width": [
+                "35.70", 
+                "centimeters"
+            ], 
+            "height": [
+                "55.20", 
+                "centimeters"
+            ]
+        }, 
+        "department_id": "35347493", 
+        "title_raw": "From England / The Who...", 
+        "justification": null, 
+        "media_id": "35399021", 
+        "description": "Poster features psychedelic purple design on mustard yellow ground. Images of The Who band members engulfing spheres with text: FROM / ENGLAND / THE WHO / LOADING ZONE / AT THE FILLMORE / JUNE / 16-17. [additional information]", 
+        "creditline": "Gift of Mr. and Mrs. Leslie J. Schreyer", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "1967", 
+        "url": "https://collection.cooperhewitt.org/objects/18497963/", 
+        "type": "poster", 
+        "accession_number": "1979-34-10", 
+        "year_end": 1967, 
+        "signed": "Imprinted in purple, under image: NEAL, STRATTFORD + KERR ©1967 BILL GRAHAM B. MACLEAN #68", 
+        "inscribed": null, 
+        "period_id": "35435941", 
+        "year_acquired": "1979", 
+        "woe:country_id": null
+    }
+}

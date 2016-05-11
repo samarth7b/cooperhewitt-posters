@@ -1,0 +1,119 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": 1967, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": "offset lithograph", 
+        "tms:id": "211516", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/269266_c329e30201583838_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "269266"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/269266_c329e30201583838_b.jpg", 
+                    "width": 581, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "269266"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/269266_c329e30201583838_d.gif", 
+                    "width": 182, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "269266"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/269266_c329e30201583838_z.jpg", 
+                    "width": 363, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "269266"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/269266_c329e30201583838_n.jpg", 
+                    "width": 182, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "269266"
+                }
+            }
+        ], 
+        "id": "18672147", 
+        "has_no_known_copyright": null, 
+        "dimensions": "83.8 x 46.0 cm (33 x 18 1/8 in. )", 
+        "title": "Poster, Exhibition Poster: Robert Indiana, Kunst Markt , Köln, 1967", 
+        "provenance": null, 
+        "participants": [
+            {
+                "person_name": "General Acquisitions Endowment", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35352247/", 
+                "role_id": "35352247", 
+                "role_name": "Fund", 
+                "person_date": "", 
+                "role_display_name": "Fund:", 
+                "person_id": "18048535", 
+                "person_url": "https://collection.cooperhewitt.org/people/18048535/"
+            }, 
+            {
+                "person_name": "Robert Indiana", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236565/", 
+                "role_id": "35236565", 
+                "role_name": "Artist", 
+                "person_date": "American, b. 1928", 
+                "role_display_name": "", 
+                "person_id": "18051543", 
+                "person_url": "https://collection.cooperhewitt.org/people/18051543/"
+            }, 
+            {
+                "person_name": "Lawrence Markey, Inc.", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35352249/", 
+                "role_id": "35352249", 
+                "role_name": "Vendor", 
+                "person_date": "", 
+                "role_display_name": "Purchased from", 
+                "person_id": "18051405", 
+                "person_url": "https://collection.cooperhewitt.org/people/18051405/"
+            }
+        ], 
+        "decade": "1960", 
+        "label_text": null, 
+        "woe:country": null, 
+        "dimensions_raw": {
+            "width": [
+                "46.00", 
+                "centimeters"
+            ], 
+            "height": [
+                "83.80", 
+                "centimeters"
+            ]
+        }, 
+        "department_id": "35347493", 
+        "title_raw": "Exhibition Poster: Robert Indiana, Kunst Markt , Köln", 
+        "justification": null, 
+        "media_id": "35399027", 
+        "description": "Art exhibition poster with entire image made up of German text in yellow, black and red.  At top is  \"KUNST\" (Art); at center, KÖLN (Cologne) is arranged with KÖ on top of LN (like the shape of Indiana's LOVE sculpture of 1966). \"MARKT\" is below.  More text is at bottom.", 
+        "creditline": "Museum purchase from General Acquisitions Endowment and Smithsonian Institution Collections Acquisition Program Funds", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "1967", 
+        "url": "https://collection.cooperhewitt.org/objects/18672147/", 
+        "type": "poster", 
+        "accession_number": "1999-45-14", 
+        "year_end": 1967, 
+        "signed": "Imprinted at lower right, © ROBERT INDIANA 1967", 
+        "inscribed": "Imprinted in small font, bottom edge:\"DES VEREINS GRESSIVER DEUTSCHER KUNSTHÄNDLER E.V./ IM GÜRZENICH KÖLNISSCHEN KUNSTVEREIN 13 SEPT. - 8. OKT. © ROBERT INDIANA 1967\"", 
+        "period_id": null, 
+        "year_acquired": "1999", 
+        "woe:country_id": null
+    }
+}

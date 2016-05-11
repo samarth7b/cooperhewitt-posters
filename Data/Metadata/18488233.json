@@ -1,0 +1,80 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": null, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": null, 
+        "tms:id": "154984", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/252832_0bf01a57e9b51cbb_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "252832"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/252832_0bf01a57e9b51cbb_b.jpg", 
+                    "width": 739, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "252832"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/252832_0bf01a57e9b51cbb_d.gif", 
+                    "width": 231, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "252832"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/252832_0bf01a57e9b51cbb_z.jpg", 
+                    "width": 462, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "252832"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/252832_0bf01a57e9b51cbb_n.jpg", 
+                    "width": 231, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "252832"
+                }
+            }
+        ], 
+        "id": "18488233", 
+        "has_no_known_copyright": null, 
+        "woe:country_name": "United States", 
+        "dimensions": null, 
+        "title": "Poster, XVI Festival de Granada", 
+        "provenance": null, 
+        "participants": [], 
+        "decade": null, 
+        "label_text": null, 
+        "woe:country": "23424977", 
+        "dimensions_raw": null, 
+        "department_id": "35347493", 
+        "title_raw": "XVI Festival de Granada", 
+        "justification": null, 
+        "media_id": "35371135", 
+        "description": null, 
+        "creditline": null, 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": null, 
+        "url": "https://collection.cooperhewitt.org/objects/18488233/", 
+        "type": "poster", 
+        "accession_number": "1975-41-1", 
+        "year_end": null, 
+        "signed": null, 
+        "inscribed": null, 
+        "period_id": null, 
+        "year_acquired": "1975", 
+        "woe:country_id": "23424977"
+    }
+}

@@ -1,0 +1,91 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": null, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": null, 
+        "tms:id": "177342", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/255476_aef5056ff4f3896c_sq.jpg", 
+                    "width": 164, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "255476"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/255476_aef5056ff4f3896c_b.jpg", 
+                    "width": 164, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "255476"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/255476_aef5056ff4f3896c_d.gif", 
+                    "width": 51, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "255476"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/255476_aef5056ff4f3896c_z.jpg", 
+                    "width": 103, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "255476"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/255476_aef5056ff4f3896c_n.jpg", 
+                    "width": 51, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "255476"
+                }
+            }
+        ], 
+        "id": "18617619", 
+        "has_no_known_copyright": null, 
+        "woe:country_name": "United States", 
+        "dimensions": null, 
+        "title": "Poster, We Put a Litre Heart into Everything We Do", 
+        "provenance": "1981: acquired by Museum", 
+        "participants": [
+            {
+                "person_name": "Jann Church", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "", 
+                "role_display_name": "Designed by", 
+                "person_id": "18049873", 
+                "person_url": "https://collection.cooperhewitt.org/people/18049873/"
+            }
+        ], 
+        "decade": null, 
+        "label_text": null, 
+        "woe:country": "23424977", 
+        "dimensions_raw": null, 
+        "department_id": "35347493", 
+        "title_raw": "We Put a Litre Heart into Everything We Do", 
+        "justification": null, 
+        "media_id": "35371135", 
+        "description": null, 
+        "creditline": "Gift of Various Donors", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": null, 
+        "url": "https://collection.cooperhewitt.org/objects/18617619/", 
+        "type": "poster", 
+        "accession_number": "1981-29-263", 
+        "year_end": null, 
+        "signed": null, 
+        "inscribed": null, 
+        "period_id": null, 
+        "year_acquired": "1981", 
+        "woe:country_id": "23424977"
+    }
+}

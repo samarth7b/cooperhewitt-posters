@@ -1,0 +1,111 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": 1993, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": null, 
+        "tms:id": "199864", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/256532_f9842545faf0b136_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "256532"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/256532_f9842545faf0b136_b.jpg", 
+                    "width": 688, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "256532"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/256532_f9842545faf0b136_d.gif", 
+                    "width": 215, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "256532"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/256532_f9842545faf0b136_z.jpg", 
+                    "width": 430, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "256532"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/256532_f9842545faf0b136_n.jpg", 
+                    "width": 215, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "256532"
+                }
+            }
+        ], 
+        "id": "18649893", 
+        "has_no_known_copyright": null, 
+        "woe:country_name": "United States", 
+        "dimensions": null, 
+        "title": "Poster, Rock and Roll Hall of Fame, 1993", 
+        "provenance": null, 
+        "participants": [
+            {
+                "person_name": "Mr. Gregory Oznowich", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35351535/", 
+                "role_id": "35351535", 
+                "role_name": "Donor", 
+                "person_date": "", 
+                "role_display_name": "Donated by", 
+                "person_id": "18041825", 
+                "person_url": "https://collection.cooperhewitt.org/people/18041825/"
+            }, 
+            {
+                "person_name": "Karen R. Ollis", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236631/", 
+                "role_id": "35236631", 
+                "role_name": "Photographer", 
+                "person_date": "American, b. 1958", 
+                "role_display_name": "Photographed by", 
+                "person_id": "68735117", 
+                "person_url": "https://collection.cooperhewitt.org/people/68735117/"
+            }, 
+            {
+                "person_name": "Mr. Gregory Oznowich", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "", 
+                "role_display_name": "Designed by", 
+                "person_id": "18041825", 
+                "person_url": "https://collection.cooperhewitt.org/people/18041825/"
+            }
+        ], 
+        "decade": "1990", 
+        "label_text": null, 
+        "woe:country": "23424977", 
+        "dimensions_raw": null, 
+        "department_id": "35347493", 
+        "title_raw": "Rock and Roll Hall of Fame", 
+        "justification": null, 
+        "media_id": "35371135", 
+        "description": null, 
+        "creditline": "Gift of Gregory Oznowich", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "1993", 
+        "url": "https://collection.cooperhewitt.org/objects/18649893/", 
+        "type": "poster", 
+        "accession_number": "1995-119-4", 
+        "year_end": null, 
+        "signed": null, 
+        "inscribed": null, 
+        "period_id": null, 
+        "year_acquired": "1995", 
+        "woe:country_id": "23424977"
+    }
+}

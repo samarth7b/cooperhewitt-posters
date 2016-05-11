@@ -1,0 +1,211 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": 1919, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": "lithograph on newsprint", 
+        "tms:id": "194275", 
+        "images": [
+            {
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/51440_335de51b80e5c8a2_b.jpg", 
+                    "width": 1024, 
+                    "height": 809, 
+                    "is_primary": "1", 
+                    "image_id": "51440"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/51440_335de51b80e5c8a2_d.gif", 
+                    "width": 320, 
+                    "height": 253, 
+                    "is_primary": "1", 
+                    "image_id": "51440"
+                }, 
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/51440_335de51b80e5c8a2_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "51440"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/51440_335de51b80e5c8a2_n.jpg", 
+                    "width": 320, 
+                    "height": 253, 
+                    "is_primary": "1", 
+                    "image_id": "51440"
+                }, 
+                "x": {
+                    "url": "https://images.collection.cooperhewitt.org/51440_551ae2b2b54a643b_x.jpg", 
+                    "width": 4096, 
+                    "height": 3236, 
+                    "is_primary": "1", 
+                    "image_id": "51440"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/51440_335de51b80e5c8a2_z.jpg", 
+                    "width": 640, 
+                    "height": 506, 
+                    "is_primary": "1", 
+                    "image_id": "51440"
+                }
+            }, 
+            {
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/266694_0781d94a98a90701_b.jpg", 
+                    "width": 1024, 
+                    "height": 821, 
+                    "is_primary": "0", 
+                    "image_id": "266694"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/266694_0781d94a98a90701_d.gif", 
+                    "width": 320, 
+                    "height": 257, 
+                    "is_primary": "0", 
+                    "image_id": "266694"
+                }, 
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/266694_0781d94a98a90701_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "0", 
+                    "image_id": "266694"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/266694_0781d94a98a90701_n.jpg", 
+                    "width": 320, 
+                    "height": 257, 
+                    "is_primary": "0", 
+                    "image_id": "266694"
+                }, 
+                "x": {
+                    "url": "https://images.collection.cooperhewitt.org/266694_f022a48a8d500cff_x.jpg", 
+                    "width": 4096, 
+                    "height": 3284, 
+                    "is_primary": "0", 
+                    "image_id": "266694"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/266694_0781d94a98a90701_z.jpg", 
+                    "width": 640, 
+                    "height": 513, 
+                    "is_primary": "0", 
+                    "image_id": "266694"
+                }
+            }
+        ], 
+        "id": "18638829", 
+        "has_no_known_copyright": "1", 
+        "woe:country_name": "Russia", 
+        "dimensions": "49.4 x 62.4 cm (19 7/16 x 24 9/16 in.)", 
+        "title": "Poster, Peace, If You Don't Want to Fight Anymore, Win the War Against Pans Poland, 1919–22", 
+        "provenance": "1992: acquired by Museum", 
+        "participants": [
+            {
+                "person_name": "Ms. Svetlana Aronov", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35352249/", 
+                "role_id": "35352249", 
+                "role_name": "Vendor", 
+                "person_date": "", 
+                "role_display_name": "Purchased from", 
+                "person_id": "18041165", 
+                "person_url": "https://collection.cooperhewitt.org/people/18041165/"
+            }, 
+            {
+                "person_name": "Karin Zonis", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35352245/", 
+                "role_id": "35352245", 
+                "role_name": "Cataloguer", 
+                "person_date": "", 
+                "role_display_name": "Catalogued by", 
+                "person_id": "51676457", 
+                "person_url": "https://collection.cooperhewitt.org/people/51676457/"
+            }, 
+            {
+                "person_name": "Megan L. Smith", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35352245/", 
+                "role_id": "35352245", 
+                "role_name": "Cataloguer", 
+                "person_date": "", 
+                "role_display_name": "Catalogued by", 
+                "person_id": "18047443", 
+                "person_url": "https://collection.cooperhewitt.org/people/18047443/"
+            }, 
+            {
+                "person_name": "Marilyn Symmes", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35352245/", 
+                "role_id": "35352245", 
+                "role_name": "Cataloguer", 
+                "person_date": "", 
+                "role_display_name": "Catalogued by", 
+                "person_id": "18047461", 
+                "person_url": "https://collection.cooperhewitt.org/people/18047461/"
+            }, 
+            {
+                "person_name": "MB", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35352245/", 
+                "role_id": "35352245", 
+                "role_name": "Cataloguer", 
+                "person_date": "", 
+                "role_display_name": "Catalogued by", 
+                "person_id": "18048525", 
+                "person_url": "https://collection.cooperhewitt.org/people/18048525/"
+            }, 
+            {
+                "person_name": "Rosta", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236661/", 
+                "role_id": "35236661", 
+                "role_name": "Publisher", 
+                "person_date": "", 
+                "role_display_name": "Published by", 
+                "person_id": "18043069", 
+                "person_url": "https://collection.cooperhewitt.org/people/18043069/"
+            }, 
+            {
+                "person_name": "Ivan Malyutin, Russian", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236565/", 
+                "role_id": "35236565", 
+                "role_name": "Artist", 
+                "person_date": "1889 - 1932", 
+                "role_display_name": "", 
+                "person_id": "18043067", 
+                "person_url": "https://collection.cooperhewitt.org/people/18043067/"
+            }
+        ], 
+        "decade": "1910", 
+        "label_text": null, 
+        "woe:country": "23424936", 
+        "dimensions_raw": {
+            "width": [
+                "62.40", 
+                "centimeters"
+            ], 
+            "height": [
+                "49.40", 
+                "centimeters"
+            ]
+        }, 
+        "department_id": "35347493", 
+        "title_raw": "Peace, If You Don't Want to Fight Anymore, Win the War Against Pans Poland", 
+        "justification": null, 
+        "media_id": "35420685", 
+        "description": "Poster depicting three figures, two in red silhouette (worker), one in black. In left foreground, red figure wearing a tan apron, with left arm raised and right arm holding a shovel before a sun with black text. In right background, worker fighting what looks to be a symbolic figure of capitalism, in black, using saber and holding a heavy coat. In lower margin, title of work in red Russian text.", 
+        "creditline": "Museum purchase through gift of Mrs. John Innes Kane", 
+        "on_display": null, 
+        "markings": "Marked in graphite, lower left: [illegible initials]; stamp in purple ink, upper left [illegible]; stamp in black ink, lower right: POCTA.", 
+        "is_loan_object": 0, 
+        "date": "1919–22", 
+        "url": "https://collection.cooperhewitt.org/objects/18638829/", 
+        "type": "poster", 
+        "accession_number": "1992-123-4", 
+        "year_end": 1922, 
+        "signed": null, 
+        "inscribed": "Inscribed in black ink, upper left: 291/8; upper center: No. 38; blue ink, upper right: 68 / p2 / 3D / 137; red ink, lower right: 2197; blue ink, lower right: 2197; lower right: 3A; imprinted in Russian, lower margin, title and publisher information: published by Rosta.", 
+        "period_id": null, 
+        "year_acquired": "1992", 
+        "woe:country_id": "23424936"
+    }
+}

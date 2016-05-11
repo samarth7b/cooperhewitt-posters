@@ -1,0 +1,130 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": 1978, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": "lithograph on paper", 
+        "tms:id": "197782", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/224059_c3164f35cf3c0420_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "224059"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/224059_c3164f35cf3c0420_b.jpg", 
+                    "width": 774, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "224059"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/224059_c3164f35cf3c0420_d.gif", 
+                    "width": 242, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "224059"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/224059_c3164f35cf3c0420_z.jpg", 
+                    "width": 484, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "224059"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/224059_c3164f35cf3c0420_n.jpg", 
+                    "width": 242, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "224059"
+                }
+            }
+        ], 
+        "id": "18645757", 
+        "has_no_known_copyright": null, 
+        "woe:country_name": "United States", 
+        "dimensions": "61 x 48 cm (24 in. x 18 7/8 in.)", 
+        "title": "Poster, Ethiopia Human Rights Campaign, 1978", 
+        "provenance": "Steven Heller and Karrie Jacobs; 1993: acquired by Museum", 
+        "participants": [
+            {
+                "person_name": "Karrie Jacobs", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35351535/", 
+                "role_id": "35351535", 
+                "role_name": "Donor", 
+                "person_date": "", 
+                "role_display_name": "Donated by", 
+                "person_id": "18056647", 
+                "person_url": "https://collection.cooperhewitt.org/people/18056647/"
+            }, 
+            {
+                "person_name": "Steven Heller", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35351535/", 
+                "role_id": "35351535", 
+                "role_name": "Donor", 
+                "person_date": "American, b. 1950", 
+                "role_display_name": "Donated by", 
+                "person_id": "18041397", 
+                "person_url": "https://collection.cooperhewitt.org/people/18041397/"
+            }, 
+            {
+                "person_name": "LSA", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35352245/", 
+                "role_id": "35352245", 
+                "role_name": "Cataloguer", 
+                "person_date": "", 
+                "role_display_name": "Catalogued by", 
+                "person_id": "18048737", 
+                "person_url": "https://collection.cooperhewitt.org/people/18048737/"
+            }, 
+            {
+                "person_name": "Clare Francis", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "", 
+                "role_display_name": "Designed by", 
+                "person_id": "18043199", 
+                "person_url": "https://collection.cooperhewitt.org/people/18043199/"
+            }
+        ], 
+        "decade": "1970", 
+        "label_text": null, 
+        "woe:country": "23424977", 
+        "dimensions_raw": {
+            "width": [
+                "48.00", 
+                "centimeters"
+            ], 
+            "height": [
+                "61.00", 
+                "centimeters"
+            ]
+        }, 
+        "department_id": "35347493", 
+        "title_raw": "Ethiopia Human Rights Campaign", 
+        "justification": null, 
+        "media_id": "35419317", 
+        "description": "Print of Ethiopian hut with boy For Amnesty International. Text: 'Red Terror' November 1977 - June 1978 Addis Ababa Amnesty International...[6 lines of text]", 
+        "creditline": "Gift of Steven Heller and Karrie Jacobs", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "1978", 
+        "url": "https://collection.cooperhewitt.org/objects/18645757/", 
+        "type": "poster", 
+        "accession_number": "1993-53-64", 
+        "year_end": 1978, 
+        "signed": null, 
+        "inscribed": "Imprinted in black ink on upper right: Designed by Clare Francis", 
+        "period_id": null, 
+        "year_acquired": "1993", 
+        "woe:country_id": "23424977"
+    }
+}

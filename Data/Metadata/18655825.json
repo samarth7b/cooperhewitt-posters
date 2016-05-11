@@ -1,0 +1,100 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": 1983, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": null, 
+        "tms:id": "202894", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/269001_387735547cd7666d_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "269001"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/269001_387735547cd7666d_b.jpg", 
+                    "width": 669, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "269001"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/269001_387735547cd7666d_d.gif", 
+                    "width": 209, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "269001"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/269001_387735547cd7666d_z.jpg", 
+                    "width": 418, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "269001"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/269001_387735547cd7666d_n.jpg", 
+                    "width": 209, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "269001"
+                }
+            }
+        ], 
+        "id": "18655825", 
+        "has_no_known_copyright": null, 
+        "dimensions": null, 
+        "title": "Poster, Mohawk Maze: Asterisk Flower, 1983 (for Mohawk Paper Co.), 1983", 
+        "provenance": null, 
+        "participants": [
+            {
+                "person_name": "Seymour Robins", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "1962 - 2011", 
+                "role_display_name": "Designed by", 
+                "person_id": "18049733", 
+                "person_url": "https://collection.cooperhewitt.org/people/18049733/"
+            }, 
+            {
+                "person_name": "Seymour Robins", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35351535/", 
+                "role_id": "35351535", 
+                "role_name": "Donor", 
+                "person_date": "1962 - 2011", 
+                "role_display_name": "Donated by", 
+                "person_id": "18049733", 
+                "person_url": "https://collection.cooperhewitt.org/people/18049733/"
+            }
+        ], 
+        "decade": "1980", 
+        "label_text": null, 
+        "woe:country": null, 
+        "dimensions_raw": null, 
+        "department_id": "35347493", 
+        "title_raw": "Mohawk Maze: Asterisk Flower, 1983 (for Mohawk Paper Co.)", 
+        "justification": null, 
+        "media_id": "35371135", 
+        "description": null, 
+        "creditline": "Gift of Seymour Robins", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "1983", 
+        "url": "https://collection.cooperhewitt.org/objects/18655825/", 
+        "type": "poster", 
+        "accession_number": "1997-95-22", 
+        "year_end": 1983, 
+        "signed": null, 
+        "inscribed": null, 
+        "period_id": null, 
+        "year_acquired": "1997", 
+        "woe:country_id": null
+    }
+}

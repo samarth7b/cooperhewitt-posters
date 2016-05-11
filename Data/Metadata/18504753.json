@@ -1,0 +1,79 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": 1980, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": null, 
+        "tms:id": "163280", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/201467_f9d5c9348d3d0c3c_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "201467"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/201467_f9d5c9348d3d0c3c_b.jpg", 
+                    "width": 724, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "201467"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/201467_f9d5c9348d3d0c3c_d.gif", 
+                    "width": 226, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "201467"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/201467_f9d5c9348d3d0c3c_z.jpg", 
+                    "width": 452, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "201467"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/201467_f9d5c9348d3d0c3c_n.jpg", 
+                    "width": 226, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "201467"
+                }
+            }
+        ], 
+        "id": "18504753", 
+        "has_no_known_copyright": null, 
+        "dimensions": null, 
+        "title": "Poster, Charles Eldred: Sculpture & Drawing, 1980", 
+        "provenance": null, 
+        "participants": [], 
+        "decade": "1980", 
+        "label_text": null, 
+        "woe:country": null, 
+        "dimensions_raw": null, 
+        "department_id": "35347493", 
+        "title_raw": "Charles Eldred: Sculpture & Drawing", 
+        "justification": null, 
+        "media_id": "35371135", 
+        "description": "Identical to 1980-42-1.", 
+        "creditline": "Gift of Unknown Donor", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "1980", 
+        "url": "https://collection.cooperhewitt.org/objects/18504753/", 
+        "type": "poster", 
+        "accession_number": "1980-32-1017-1", 
+        "year_end": 1980, 
+        "signed": null, 
+        "inscribed": null, 
+        "period_id": null, 
+        "year_acquired": "1980", 
+        "woe:country_id": null
+    }
+}

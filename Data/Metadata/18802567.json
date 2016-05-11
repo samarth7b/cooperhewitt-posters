@@ -1,0 +1,91 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": null, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": null, 
+        "tms:id": "181469", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/200998_79a553ec6a1a3a90_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "200998"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/200998_79a553ec6a1a3a90_b.jpg", 
+                    "width": 713, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "200998"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/200998_79a553ec6a1a3a90_d.gif", 
+                    "width": 223, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "200998"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/200998_79a553ec6a1a3a90_z.jpg", 
+                    "width": 446, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "200998"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/200998_79a553ec6a1a3a90_n.jpg", 
+                    "width": 223, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "200998"
+                }
+            }
+        ], 
+        "id": "18802567", 
+        "has_no_known_copyright": null, 
+        "woe:country_name": "France", 
+        "dimensions": null, 
+        "title": "Poster (France)", 
+        "provenance": null, 
+        "participants": [
+            {
+                "person_name": "Jack Lenor Larsen", 
+                "role_url": "https://collection.cooperhewitt.org/roles/68299055/", 
+                "role_id": "68299055", 
+                "role_name": "Subject", 
+                "person_date": "American, b. 1927", 
+                "role_display_name": "Subject:", 
+                "person_id": "18040903", 
+                "person_url": "https://collection.cooperhewitt.org/people/18040903/"
+            }
+        ], 
+        "decade": null, 
+        "label_text": null, 
+        "woe:country": "23424819", 
+        "dimensions_raw": null, 
+        "department_id": "35347493", 
+        "title_raw": null, 
+        "justification": null, 
+        "media_id": "35371135", 
+        "description": null, 
+        "creditline": null, 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": null, 
+        "url": "https://collection.cooperhewitt.org/objects/18802567/", 
+        "type": "poster", 
+        "accession_number": "1984-26-1", 
+        "year_end": null, 
+        "signed": null, 
+        "inscribed": null, 
+        "period_id": null, 
+        "year_acquired": "1984", 
+        "woe:country_id": "23424819"
+    }
+}

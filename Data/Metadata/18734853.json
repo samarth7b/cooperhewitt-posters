@@ -1,0 +1,194 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": 1991, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": "off-set lithograph on white wove paper", 
+        "tms:id": "243575", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/34440_3e9a0f9241959e3e_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "34440"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/34440_3e9a0f9241959e3e_b.jpg", 
+                    "width": 1024, 
+                    "height": 769, 
+                    "is_primary": "1", 
+                    "image_id": "34440"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/34440_3e9a0f9241959e3e_d.gif", 
+                    "width": 320, 
+                    "height": 240, 
+                    "is_primary": "1", 
+                    "image_id": "34440"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/34440_3e9a0f9241959e3e_z.jpg", 
+                    "width": 640, 
+                    "height": 481, 
+                    "is_primary": "1", 
+                    "image_id": "34440"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/34440_3e9a0f9241959e3e_n.jpg", 
+                    "width": 320, 
+                    "height": 240, 
+                    "is_primary": "1", 
+                    "image_id": "34440"
+                }
+            }, 
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/179872_0ff947beb26e0584_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "0", 
+                    "image_id": "179872"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/179872_0ff947beb26e0584_b.jpg", 
+                    "width": 1024, 
+                    "height": 770, 
+                    "is_primary": "0", 
+                    "image_id": "179872"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/179872_0ff947beb26e0584_d.gif", 
+                    "width": 320, 
+                    "height": 241, 
+                    "is_primary": "0", 
+                    "image_id": "179872"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/179872_0ff947beb26e0584_z.jpg", 
+                    "width": 640, 
+                    "height": 481, 
+                    "is_primary": "0", 
+                    "image_id": "179872"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/179872_0ff947beb26e0584_n.jpg", 
+                    "width": 320, 
+                    "height": 241, 
+                    "is_primary": "0", 
+                    "image_id": "179872"
+                }
+            }, 
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/34444_594a0e06ea699550_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "0", 
+                    "image_id": "34444"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/34444_594a0e06ea699550_b.jpg", 
+                    "width": 1024, 
+                    "height": 770, 
+                    "is_primary": "0", 
+                    "image_id": "34444"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/34444_594a0e06ea699550_d.gif", 
+                    "width": 320, 
+                    "height": 241, 
+                    "is_primary": "0", 
+                    "image_id": "34444"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/34444_594a0e06ea699550_z.jpg", 
+                    "width": 640, 
+                    "height": 481, 
+                    "is_primary": "0", 
+                    "image_id": "34444"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/34444_594a0e06ea699550_n.jpg", 
+                    "width": 320, 
+                    "height": 241, 
+                    "is_primary": "0", 
+                    "image_id": "34444"
+                }
+            }
+        ], 
+        "id": "18734853", 
+        "has_no_known_copyright": null, 
+        "woe:country_name": "United States", 
+        "dimensions": "Sheet: 40.6 x 55.9 cm (16 x 22 in.)", 
+        "title": "Poster, A Few Basic Typefaces, 1991", 
+        "provenance": "Lella and Massimo Vignelli, New York, NY; 2009: acquired by Museum", 
+        "participants": [
+            {
+                "person_name": "Lella Vignelli", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35351535/", 
+                "role_id": "35351535", 
+                "role_name": "Donor", 
+                "person_date": "Italian, b. 1934", 
+                "role_display_name": "Donated by", 
+                "person_id": "18044029", 
+                "person_url": "https://collection.cooperhewitt.org/people/18044029/"
+            }, 
+            {
+                "person_name": "Massimo Vignelli", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "Italian, active USA, 1931–2014", 
+                "role_display_name": "Designed by", 
+                "person_id": "18042329", 
+                "person_url": "https://collection.cooperhewitt.org/people/18042329/"
+            }, 
+            {
+                "person_name": "Massimo Vignelli", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35351535/", 
+                "role_id": "35351535", 
+                "role_name": "Donor", 
+                "person_date": "Italian, active USA, 1931–2014", 
+                "role_display_name": "Donated by", 
+                "person_id": "18042329", 
+                "person_url": "https://collection.cooperhewitt.org/people/18042329/"
+            }
+        ], 
+        "decade": "1990", 
+        "label_text": null, 
+        "woe:country": "23424977", 
+        "dimensions_raw": {
+            "width": [
+                "55.88", 
+                "centimeters"
+            ], 
+            "height": [
+                "40.64", 
+                "centimeters"
+            ]
+        }, 
+        "department_id": "35347493", 
+        "title_raw": "A Few Basic Typefaces", 
+        "justification": null, 
+        "media_id": "35380345", 
+        "description": "White text on black ground: A Few Basic Typefaces; The Masters Series: Massimo Vignelli / February 22 to March 8, 1991; The third in a series of exhibitions honoring the great / visual communicators of our time. Reception: Thursday, February 21, 6 to 8 pm / Lecture: Tuesday, February 26, 7 to 9 pm, / School of Visual Arts Amphitheater. Visual Arts Museum, 209 East 23rd Street, NYC, 10010 / Museum Hours: Monday to Thursday, 9 am to 8 pm, / Friday, 9 am to 5 pm. Closed Weekends.", 
+        "creditline": "Gift of Lella and Massimo Vignelli", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "1991", 
+        "url": "https://collection.cooperhewitt.org/objects/18734853/", 
+        "type": "poster", 
+        "accession_number": "2009-42-16", 
+        "year_end": 1991, 
+        "signed": null, 
+        "inscribed": "Printed in white ink, lower right: The Masters Series is supported in part by a grant from the Architecture, Planning and Design program of the New York State / Council on the Arts. ©1991 by the Visual Arts Press, LTD.", 
+        "period_id": null, 
+        "year_acquired": "2009", 
+        "woe:country_id": "23424977"
+    }
+}

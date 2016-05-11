@@ -1,0 +1,91 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": null, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": null, 
+        "tms:id": "178135", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/254952_04b39bb5d5d62e5b_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "254952"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/254952_04b39bb5d5d62e5b_b.jpg", 
+                    "width": 689, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "254952"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/254952_04b39bb5d5d62e5b_d.gif", 
+                    "width": 215, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "254952"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/254952_04b39bb5d5d62e5b_z.jpg", 
+                    "width": 431, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "254952"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/254952_04b39bb5d5d62e5b_n.jpg", 
+                    "width": 215, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "254952"
+                }
+            }
+        ], 
+        "id": "18798245", 
+        "has_no_known_copyright": null, 
+        "woe:country_name": "United States", 
+        "dimensions": null, 
+        "title": "Poster, Perception", 
+        "provenance": null, 
+        "participants": [
+            {
+                "person_name": "John Massey", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "American, b. 1931", 
+                "role_display_name": "Designed by", 
+                "person_id": "18042349", 
+                "person_url": "https://collection.cooperhewitt.org/people/18042349/"
+            }
+        ], 
+        "decade": null, 
+        "label_text": null, 
+        "woe:country": "23424977", 
+        "dimensions_raw": null, 
+        "department_id": "35347493", 
+        "title_raw": "Perception", 
+        "justification": null, 
+        "media_id": "35371135", 
+        "description": null, 
+        "creditline": null, 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": null, 
+        "url": "https://collection.cooperhewitt.org/objects/18798245/", 
+        "type": "poster", 
+        "accession_number": "1981-61-6", 
+        "year_end": null, 
+        "signed": null, 
+        "inscribed": null, 
+        "period_id": null, 
+        "year_acquired": "1981", 
+        "woe:country_id": "23424977"
+    }
+}

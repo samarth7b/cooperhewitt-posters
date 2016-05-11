@@ -1,0 +1,100 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": 1980, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": null, 
+        "tms:id": "176674", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/200836_c3305c5af21bbde7_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "200836"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/200836_c3305c5af21bbde7_b.jpg", 
+                    "width": 846, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "200836"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/200836_c3305c5af21bbde7_d.gif", 
+                    "width": 264, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "200836"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/200836_c3305c5af21bbde7_z.jpg", 
+                    "width": 529, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "200836"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/200836_c3305c5af21bbde7_n.jpg", 
+                    "width": 264, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "200836"
+                }
+            }
+        ], 
+        "id": "18616289", 
+        "has_no_known_copyright": null, 
+        "woe:country_name": "United States", 
+        "dimensions": "Overall: 55.5 x 45.5 cm (21 7/8 x 17 15/16 in.)", 
+        "title": "Poster, Paint Tubes, 1980", 
+        "provenance": "1981: acquired by Museum", 
+        "participants": [
+            {
+                "person_name": "Alan Magee", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236565/", 
+                "role_id": "35236565", 
+                "role_name": "Artist", 
+                "person_date": "", 
+                "role_display_name": "", 
+                "person_id": "18057163", 
+                "person_url": "https://collection.cooperhewitt.org/people/18057163/"
+            }
+        ], 
+        "decade": "1980", 
+        "label_text": null, 
+        "woe:country": "23424977", 
+        "dimensions_raw": {
+            "width": [
+                "45.50", 
+                "centimeters"
+            ], 
+            "height": [
+                "55.50", 
+                "centimeters"
+            ]
+        }, 
+        "department_id": "35347493", 
+        "title_raw": "Paint Tubes", 
+        "justification": null, 
+        "media_id": "35371135", 
+        "description": null, 
+        "creditline": null, 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "1980", 
+        "url": "https://collection.cooperhewitt.org/objects/18616289/", 
+        "type": "poster", 
+        "accession_number": "1981-27-1", 
+        "year_end": 1980, 
+        "signed": null, 
+        "inscribed": null, 
+        "period_id": null, 
+        "year_acquired": "1981", 
+        "woe:country_id": "23424977"
+    }
+}

@@ -1,0 +1,147 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": null, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": "lithograph on heavy textured cream paper", 
+        "tms:id": "200878", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/84927_73af15398eabd2df_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "84927"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/84927_73af15398eabd2df_b.jpg", 
+                    "width": 745, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "84927"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/84927_73af15398eabd2df_d.gif", 
+                    "width": 233, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "84927"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/84927_73af15398eabd2df_z.jpg", 
+                    "width": 465, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "84927"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/84927_73af15398eabd2df_n.jpg", 
+                    "width": 233, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "84927"
+                }
+            }, 
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/268708_0473eea4440474ab_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "0", 
+                    "image_id": "268708"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/268708_0473eea4440474ab_b.jpg", 
+                    "width": 758, 
+                    "height": 1024, 
+                    "is_primary": "0", 
+                    "image_id": "268708"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/268708_0473eea4440474ab_d.gif", 
+                    "width": 237, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "268708"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/268708_0473eea4440474ab_z.jpg", 
+                    "width": 474, 
+                    "height": 640, 
+                    "is_primary": "0", 
+                    "image_id": "268708"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/268708_0473eea4440474ab_n.jpg", 
+                    "width": 237, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "268708"
+                }
+            }
+        ], 
+        "id": "18651871", 
+        "has_no_known_copyright": null, 
+        "woe:country_name": "United States", 
+        "dimensions": "61.3 x 44.4 cm (24 1/8 x 17 1/2 in.)", 
+        "title": "Poster, Rock'n' Roll Grand Slam", 
+        "provenance": "1995: acquired by Museum", 
+        "participants": [
+            {
+                "person_name": "Art Chantry", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35351535/", 
+                "role_id": "35351535", 
+                "role_name": "Donor", 
+                "person_date": "American, b. 1954", 
+                "role_display_name": "Donated by", 
+                "person_id": "18041683", 
+                "person_url": "https://collection.cooperhewitt.org/people/18041683/"
+            }, 
+            {
+                "person_name": "Art Chantry", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "American, b. 1954", 
+                "role_display_name": "Designed by", 
+                "person_id": "18041683", 
+                "person_url": "https://collection.cooperhewitt.org/people/18041683/"
+            }
+        ], 
+        "decade": null, 
+        "label_text": null, 
+        "woe:country": "23424977", 
+        "dimensions_raw": {
+            "width": [
+                "44.40", 
+                "centimeters"
+            ], 
+            "height": [
+                "61.30", 
+                "centimeters"
+            ]
+        }, 
+        "department_id": "35347493", 
+        "title_raw": "Rock'n' Roll Grand Slam", 
+        "justification": null, 
+        "media_id": "68266677", 
+        "description": "Printed in dark red on beige, features a baseball player, left, holding a guitar, like a bat, aloft. Right, text in caps: SEATTLE'S SUMMER/ ROCK N' ROLL/ GRAND SLAM/ FOREIGNER/ LOVERBOY/ JOAN JETT/ & THE BLACK HEARTS/ AND BLUE OYESTER CULT.", 
+        "creditline": "Gift of Art Chantry", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": null, 
+        "url": "https://collection.cooperhewitt.org/objects/18651871/", 
+        "type": "poster", 
+        "accession_number": "1995-69-41", 
+        "year_end": null, 
+        "signed": null, 
+        "inscribed": "Imprinted in brown ink, lower left: Poster by Art Chantry", 
+        "period_id": null, 
+        "year_acquired": "1995", 
+        "woe:country_id": "23424977"
+    }
+}

@@ -1,0 +1,214 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": null, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": "offset lithograph on paper", 
+        "tms:id": "193548", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/95701_7c0df822217b872a_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "95701"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/95701_7c0df822217b872a_b.jpg", 
+                    "width": 767, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "95701"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/95701_7c0df822217b872a_d.gif", 
+                    "width": 240, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "95701"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/95701_7c0df822217b872a_z.jpg", 
+                    "width": 479, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "95701"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/95701_7c0df822217b872a_n.jpg", 
+                    "width": 240, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "95701"
+                }
+            }, 
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/268878_6d48aa3e93379808_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "0", 
+                    "image_id": "268878"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/268878_6d48aa3e93379808_b.jpg", 
+                    "width": 777, 
+                    "height": 1024, 
+                    "is_primary": "0", 
+                    "image_id": "268878"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/268878_6d48aa3e93379808_d.gif", 
+                    "width": 243, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "268878"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/268878_6d48aa3e93379808_z.jpg", 
+                    "width": 485, 
+                    "height": 640, 
+                    "is_primary": "0", 
+                    "image_id": "268878"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/268878_6d48aa3e93379808_n.jpg", 
+                    "width": 243, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "268878"
+                }
+            }, 
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/94779_1c2219572de5d41d_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "0", 
+                    "image_id": "94779"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/94779_1c2219572de5d41d_b.jpg", 
+                    "width": 767, 
+                    "height": 1024, 
+                    "is_primary": "0", 
+                    "image_id": "94779"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/94779_1c2219572de5d41d_d.gif", 
+                    "width": 240, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "94779"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/94779_1c2219572de5d41d_z.jpg", 
+                    "width": 479, 
+                    "height": 640, 
+                    "is_primary": "0", 
+                    "image_id": "94779"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/94779_1c2219572de5d41d_n.jpg", 
+                    "width": 240, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "94779"
+                }
+            }
+        ], 
+        "id": "18637393", 
+        "has_no_known_copyright": null, 
+        "woe:country_name": "United States", 
+        "dimensions": "99 x 73.8 cm (39 x 29 1/16 in.)", 
+        "title": "Poster, Thomas Edison", 
+        "provenance": "1991: acquired by Museum", 
+        "participants": [
+            {
+                "person_name": "Tom Geismar", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35351535/", 
+                "role_id": "35351535", 
+                "role_name": "Donor", 
+                "person_date": "", 
+                "role_display_name": "Donated by", 
+                "person_id": "18042347", 
+                "person_url": "https://collection.cooperhewitt.org/people/18042347/"
+            }, 
+            {
+                "person_name": "Chermayeff & Geismar Associates", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "New York, New York, USA", 
+                "role_display_name": "Designed by", 
+                "person_id": "18053275", 
+                "person_url": "https://collection.cooperhewitt.org/people/18053275/"
+            }, 
+            {
+                "person_name": "CGC", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35352245/", 
+                "role_id": "35352245", 
+                "role_name": "Cataloguer", 
+                "person_date": "", 
+                "role_display_name": "Catalogued by", 
+                "person_id": "18048417", 
+                "person_url": "https://collection.cooperhewitt.org/people/18048417/"
+            }, 
+            {
+                "person_name": "Michael Melford", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236565/", 
+                "role_id": "35236565", 
+                "role_name": "Artist", 
+                "person_date": "", 
+                "role_display_name": "", 
+                "person_id": "18042395", 
+                "person_url": "https://collection.cooperhewitt.org/people/18042395/"
+            }, 
+            {
+                "person_name": "Tom Geismar", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "", 
+                "role_display_name": "Designed by", 
+                "person_id": "18042347", 
+                "person_url": "https://collection.cooperhewitt.org/people/18042347/"
+            }
+        ], 
+        "decade": null, 
+        "label_text": null, 
+        "woe:country": "23424977", 
+        "dimensions_raw": {
+            "width": [
+                "73.80", 
+                "centimeters"
+            ], 
+            "height": [
+                "99.00", 
+                "centimeters"
+            ]
+        }, 
+        "department_id": "35347493", 
+        "title_raw": "Thomas Edison", 
+        "justification": null, 
+        "media_id": "35399021", 
+        "description": "Imprinted in white ink, upper left: Thomas Edison; center right: Genius enlightening the world; lower left: Commemorating Thomas Edison's/invention of the first practical / incandescent lamp-1879./Edison National Historic Site/ West Orange, New Jersey./National Park Service/ U.S. Department of the Interior.", 
+        "creditline": "Gift of Tom Geismar", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": null, 
+        "url": "https://collection.cooperhewitt.org/objects/18637393/", 
+        "type": "poster", 
+        "accession_number": "1991-69-95", 
+        "year_end": null, 
+        "signed": null, 
+        "inscribed": "In blue ink, right center margin: Design: Tom Geismar Photographs: Michael Melford For Sale by the Superintendent of Documents...", 
+        "period_id": null, 
+        "year_acquired": "1991", 
+        "woe:country_id": "23424977"
+    }
+}

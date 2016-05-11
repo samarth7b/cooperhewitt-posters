@@ -1,0 +1,100 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": 1977, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": null, 
+        "tms:id": "177541", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/269823_ceb3cc908fcc6222_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "269823"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/269823_ceb3cc908fcc6222_b.jpg", 
+                    "width": 683, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "269823"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/269823_ceb3cc908fcc6222_d.gif", 
+                    "width": 213, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "269823"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/269823_ceb3cc908fcc6222_z.jpg", 
+                    "width": 427, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "269823"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/269823_ceb3cc908fcc6222_n.jpg", 
+                    "width": 213, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "269823"
+                }
+            }
+        ], 
+        "id": "18618015", 
+        "has_no_known_copyright": null, 
+        "woe:country_name": "United States", 
+        "dimensions": "H x W: 116 x 75 cm (45 11/16 x 29 1/2 in.)", 
+        "title": "Poster, Museum of Modern Art Rauschenberg Exhibition 1977, 1977", 
+        "provenance": "1981: acquired by Museum", 
+        "participants": [
+            {
+                "person_name": "Robert Rauschenberg", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236685/", 
+                "role_id": "35236685", 
+                "role_name": "Maker", 
+                "person_date": "American, 1925–2008", 
+                "role_display_name": "Made by", 
+                "person_id": "18050813", 
+                "person_url": "https://collection.cooperhewitt.org/people/18050813/"
+            }
+        ], 
+        "decade": "1970", 
+        "label_text": null, 
+        "woe:country": "23424977", 
+        "dimensions_raw": {
+            "width": [
+                "75.00", 
+                "centimeters"
+            ], 
+            "height": [
+                "116.00", 
+                "centimeters"
+            ]
+        }, 
+        "department_id": "35347493", 
+        "title_raw": "Museum of Modern Art Rauschenberg Exhibition 1977", 
+        "justification": null, 
+        "media_id": "35371135", 
+        "description": null, 
+        "creditline": "Gift of Various Donors", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "1977", 
+        "url": "https://collection.cooperhewitt.org/objects/18618015/", 
+        "type": "poster", 
+        "accession_number": "1981-29-44", 
+        "year_end": 1977, 
+        "signed": null, 
+        "inscribed": null, 
+        "period_id": null, 
+        "year_acquired": "1981", 
+        "woe:country_id": "23424977"
+    }
+}

@@ -1,0 +1,137 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": 1981, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": "offset lithograph on paper", 
+        "tms:id": "181457", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/10297_d60fd20f8075cca4_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "10297"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/10297_d60fd20f8075cca4_b.jpg", 
+                    "width": 586, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "10297"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/10297_d60fd20f8075cca4_d.gif", 
+                    "width": 183, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "10297"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/10297_d60fd20f8075cca4_z.jpg", 
+                    "width": 366, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "10297"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/10297_d60fd20f8075cca4_n.jpg", 
+                    "width": 183, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "10297"
+                }
+            }, 
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/257870_86f0e85406031f78_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "0", 
+                    "image_id": "257870"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/257870_86f0e85406031f78_b.jpg", 
+                    "width": 587, 
+                    "height": 1024, 
+                    "is_primary": "0", 
+                    "image_id": "257870"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/257870_86f0e85406031f78_d.gif", 
+                    "width": 183, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "257870"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/257870_86f0e85406031f78_z.jpg", 
+                    "width": 367, 
+                    "height": 640, 
+                    "is_primary": "0", 
+                    "image_id": "257870"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/257870_86f0e85406031f78_n.jpg", 
+                    "width": 183, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "257870"
+                }
+            }
+        ], 
+        "id": "18802543", 
+        "has_no_known_copyright": null, 
+        "woe:country_name": "United States", 
+        "dimensions": "95.2 x 54 cm (37 1/2 x 21 1/4 in.)", 
+        "title": "Poster, Dallas Symphony Orchestra, Moonlight Serenade, 1981", 
+        "provenance": null, 
+        "participants": [
+            {
+                "person_name": "Woody Pirtle", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "b. 1945", 
+                "role_display_name": "Designed by", 
+                "person_id": "18042325", 
+                "person_url": "https://collection.cooperhewitt.org/people/18042325/"
+            }
+        ], 
+        "decade": "1980", 
+        "label_text": null, 
+        "woe:country": "23424977", 
+        "dimensions_raw": {
+            "width": [
+                "54.00", 
+                "centimeters"
+            ], 
+            "height": [
+                "95.20", 
+                "centimeters"
+            ]
+        }, 
+        "department_id": "35347493", 
+        "title_raw": "Dallas Symphony Orchestra, Moonlight Serenade", 
+        "justification": null, 
+        "media_id": "35399021", 
+        "description": "Large man, taking up most of upper section of poster, playing clarinet on blue background. Below, silhouette of man playing piano, wearing a top hat. Colorful text and streamers coming out of clarinet.", 
+        "creditline": null, 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "1981", 
+        "url": "https://collection.cooperhewitt.org/objects/18802543/", 
+        "type": "poster", 
+        "accession_number": "1984-23-1", 
+        "year_end": 1981, 
+        "signed": null, 
+        "inscribed": null, 
+        "period_id": null, 
+        "year_acquired": "1984", 
+        "woe:country_id": "23424977"
+    }
+}

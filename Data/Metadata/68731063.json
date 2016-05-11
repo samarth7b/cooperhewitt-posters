@@ -1,0 +1,120 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": 2014, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": "digital print on paper", 
+        "tms:id": "277460", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/94533_1aff01ffdd26ea3c_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "94533"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/94533_1aff01ffdd26ea3c_b.jpg", 
+                    "width": 1024, 
+                    "height": 728, 
+                    "is_primary": "1", 
+                    "image_id": "94533"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/94533_1aff01ffdd26ea3c_d.gif", 
+                    "width": 320, 
+                    "height": 228, 
+                    "is_primary": "1", 
+                    "image_id": "94533"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/94533_1aff01ffdd26ea3c_z.jpg", 
+                    "width": 640, 
+                    "height": 455, 
+                    "is_primary": "1", 
+                    "image_id": "94533"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/94533_1aff01ffdd26ea3c_n.jpg", 
+                    "width": 320, 
+                    "height": 228, 
+                    "is_primary": "1", 
+                    "image_id": "94533"
+                }
+            }
+        ], 
+        "id": "68731063", 
+        "has_no_known_copyright": null, 
+        "woe:country_name": "Germany", 
+        "dimensions": "H x W: 73 × 102.9 cm (28 3/4 × 40 1/2 in.)", 
+        "title": "Poster, Media Literacy is an Imagination, 2014", 
+        "provenance": "Saori Shiro Shita new to Cooper Hewitt, August 2014", 
+        "participants": [
+            {
+                "person_name": "Ad Council Japan", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236667/", 
+                "role_id": "35236667", 
+                "role_name": "Client", 
+                "person_date": "Nishi-ku, Osaka, Japan", 
+                "role_display_name": "Client:", 
+                "person_id": "68735213", 
+                "person_url": "https://collection.cooperhewitt.org/people/68735213/"
+            }, 
+            {
+                "person_name": "Shiro Shita Saori", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35351535/", 
+                "role_id": "35351535", 
+                "role_name": "Donor", 
+                "person_date": "Japanese, born 1990", 
+                "role_display_name": "Donated by", 
+                "person_id": "68735113", 
+                "person_url": "https://collection.cooperhewitt.org/people/68735113/"
+            }, 
+            {
+                "person_name": "Shiro Shita Saori", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "Japanese, born 1990", 
+                "role_display_name": "Designed by", 
+                "person_id": "68735113", 
+                "person_url": "https://collection.cooperhewitt.org/people/68735113/"
+            }
+        ], 
+        "decade": "2010", 
+        "label_text": null, 
+        "woe:country": "23424829", 
+        "dimensions_raw": {
+            "width": [
+                "103.00", 
+                "centimeters"
+            ], 
+            "height": [
+                "145.60", 
+                "centimeters"
+            ]
+        }, 
+        "department_id": "35347493", 
+        "title_raw": "Media Literacy is an Imagination", 
+        "justification": "For her first poster campaign designed for Ad Council of Japan on the theme “Media Literacy is an Imagination,” Shiro Shita Saori turned to the classic Japanese proverb of the three wise monkeys that embody the maxim “see no evil, hear no evil, speak no evil.”  For the poster playing on the first element of the maxim, “see no evil,” Saori illustrated a collective of identical, stylized white figures with stark black eyes.  Saori then hid the title of the poster beneath two black bars, a clever play on the illusion that in our media saturated age, the flood of information may make it difficult to see clearly.", 
+        "media_id": "35433615", 
+        "description": "Poster produced for the Ad Council of Japan. Many identical, white, toy-like figures with oblong heads and large eyes fill the plane of this horizontal poster, and extend beyond its edges. Two horizontal black bars seem to obscure lines of Japanese text.", 
+        "creditline": "Gift of Shiro Shita Saori", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "2014", 
+        "url": "https://collection.cooperhewitt.org/objects/68731063/", 
+        "type": "poster", 
+        "accession_number": "2014-35-3", 
+        "year_end": 2014, 
+        "signed": null, 
+        "inscribed": null, 
+        "period_id": null, 
+        "year_acquired": "2014", 
+        "woe:country_id": "23424829"
+    }
+}

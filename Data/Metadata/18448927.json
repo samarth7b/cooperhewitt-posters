@@ -1,0 +1,194 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": 1936, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": "lithograph mounted on linen", 
+        "tms:id": "134979", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/95696_d86bb3051fe952b2_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "95696"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/95696_d86bb3051fe952b2_b.jpg", 
+                    "width": 646, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "95696"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/95696_d86bb3051fe952b2_d.gif", 
+                    "width": 202, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "95696"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/95696_d86bb3051fe952b2_z.jpg", 
+                    "width": 404, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "95696"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/95696_d86bb3051fe952b2_n.jpg", 
+                    "width": 202, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "95696"
+                }
+            }, 
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/94776_0b68a12e7147a083_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "0", 
+                    "image_id": "94776"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/94776_0b68a12e7147a083_b.jpg", 
+                    "width": 646, 
+                    "height": 1024, 
+                    "is_primary": "0", 
+                    "image_id": "94776"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/94776_0b68a12e7147a083_d.gif", 
+                    "width": 202, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "94776"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/94776_0b68a12e7147a083_z.jpg", 
+                    "width": 404, 
+                    "height": 640, 
+                    "is_primary": "0", 
+                    "image_id": "94776"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/94776_0b68a12e7147a083_n.jpg", 
+                    "width": 202, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "94776"
+                }
+            }, 
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/17853_6db9d1808843af9e_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "0", 
+                    "image_id": "17853"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/17853_6db9d1808843af9e_b.jpg", 
+                    "width": 651, 
+                    "height": 1024, 
+                    "is_primary": "0", 
+                    "image_id": "17853"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/17853_6db9d1808843af9e_d.gif", 
+                    "width": 204, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "17853"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/17853_6db9d1808843af9e_z.jpg", 
+                    "width": 407, 
+                    "height": 640, 
+                    "is_primary": "0", 
+                    "image_id": "17853"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/17853_6db9d1808843af9e_n.jpg", 
+                    "width": 204, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "17853"
+                }
+            }
+        ], 
+        "id": "18448927", 
+        "has_no_known_copyright": null, 
+        "woe:country_name": "United Kingdom", 
+        "dimensions": "H x W: 100.1 x 62.6 cm (39 7/16 x 24 5/8 in.)\nH x W (linen lining): 109.7 × 72.2 cm (43 3/16 × 28 7/16 in.)", 
+        "title": "Poster, Spring in the Village, 1936", 
+        "provenance": "Mrs. Edward McKnight Kauffer", 
+        "participants": [
+            {
+                "person_name": "Mrs. Edward McKnight Kauffer", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35351535/", 
+                "role_id": "35351535", 
+                "role_name": "Donor", 
+                "person_date": "", 
+                "role_display_name": "Donated by", 
+                "person_id": "18061849", 
+                "person_url": "https://collection.cooperhewitt.org/people/18061849/"
+            }, 
+            {
+                "person_name": "London Transport", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236667/", 
+                "role_id": "35236667", 
+                "role_name": "Client", 
+                "person_date": "London, England", 
+                "role_display_name": "Client:", 
+                "person_id": "18539239", 
+                "person_url": "https://collection.cooperhewitt.org/people/18539239/"
+            }, 
+            {
+                "person_name": "Edward McKnight Kauffer", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "American, active England, 1890–1954", 
+                "role_display_name": "Designed by", 
+                "person_id": "18041923", 
+                "person_url": "https://collection.cooperhewitt.org/people/18041923/"
+            }
+        ], 
+        "decade": "1930", 
+        "label_text": null, 
+        "woe:country": "23424975", 
+        "dimensions_raw": {
+            "width": [
+                "72.20", 
+                "centimeters"
+            ], 
+            "height": [
+                "109.50", 
+                "centimeters"
+            ]
+        }, 
+        "department_id": "35347493", 
+        "title_raw": "Spring in the Village", 
+        "justification": null, 
+        "media_id": "35421203", 
+        "description": "In upper half of sheet, center, a small two-toned green leaf, vertically oriented.  At the left edge of leaf, a suggestion of a shadow in dark brown.  At right edge, the suggestion of light bordered by a horizontal block of gray resembling haze.  These superimposed on a large green and brown leaf placed diagonally to the left and covering almost the full length of sheet.  At lower left, flush with margin, a photo mechanical reproduction of a country lane with distant farm buildings.  A line describing a rectangle is superimposed asymmetrically on the photograph.  Flush with the lower right corner of photo, a gray circle bisected by a dark brown rectangular bar, the symbol for the London Underground. In upper right corner, in very large outlined captal letters, partly superimposed on the larger leaf:  SPRING; at center left, in smaller green and brown capital letters:  IN THE VILLAGE.", 
+        "creditline": "Gift of Mrs. E. McKnight Kauffer", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "1936", 
+        "url": "https://collection.cooperhewitt.org/objects/18448927/", 
+        "type": "poster", 
+        "accession_number": "1963-39-82-2", 
+        "year_end": 1936, 
+        "signed": "Signed in stone, in white, lower right:  E McKnight- /Kauffer [underlined]", 
+        "inscribed": "Printed in brown, lower left corner:  Ref. No. 36/953/1750 [on one line]; at lower center:  PHOTOGRAPH BY KATE JACOB.; lower right:  THE BAYNARD PRESS.  Verso: inscribed in graphite, lower left quadrant:  40. [encircled]/24 5/8 x 39 1/4.", 
+        "period_id": null, 
+        "year_acquired": "1963", 
+        "woe:country_id": "23424975"
+    }
+}

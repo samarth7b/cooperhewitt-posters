@@ -1,0 +1,167 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": 1989, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": "lithograph on paper", 
+        "tms:id": "202127", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/82348_2696a3b59beae430_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "82348"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/82348_2696a3b59beae430_b.jpg", 
+                    "width": 1021, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "82348"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/82348_2696a3b59beae430_d.gif", 
+                    "width": 319, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "82348"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/82348_2696a3b59beae430_z.jpg", 
+                    "width": 638, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "82348"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/82348_2696a3b59beae430_n.jpg", 
+                    "width": 319, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "82348"
+                }
+            }, 
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/267313_f2588153a2fcb202_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "0", 
+                    "image_id": "267313"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/267313_f2588153a2fcb202_b.jpg", 
+                    "width": 1010, 
+                    "height": 1024, 
+                    "is_primary": "0", 
+                    "image_id": "267313"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/267313_f2588153a2fcb202_d.gif", 
+                    "width": 316, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "267313"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/267313_f2588153a2fcb202_z.jpg", 
+                    "width": 631, 
+                    "height": 640, 
+                    "is_primary": "0", 
+                    "image_id": "267313"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/267313_f2588153a2fcb202_n.jpg", 
+                    "width": 316, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "267313"
+                }
+            }
+        ], 
+        "id": "18654333", 
+        "has_no_known_copyright": null, 
+        "woe:country_name": "United States", 
+        "dimensions": "63.5 x 63.4 cm (25 in. x 24 15/16 in.)", 
+        "title": "Poster, Berkeley Typographers, 1989", 
+        "provenance": "1996: acquired by Museum", 
+        "participants": [
+            {
+                "person_name": "Tom Wedell", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "American, b. 1949", 
+                "role_display_name": "Designed by", 
+                "person_id": "68264031", 
+                "person_url": "https://collection.cooperhewitt.org/people/68264031/"
+            }, 
+            {
+                "person_name": "Franklin Graphic", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236673/", 
+                "role_id": "35236673", 
+                "role_name": "Printer", 
+                "person_date": "", 
+                "role_display_name": "Printed by", 
+                "person_id": "68248239", 
+                "person_url": "https://collection.cooperhewitt.org/people/68248239/"
+            }, 
+            {
+                "person_name": "Nancy Skolos", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35351535/", 
+                "role_id": "35351535", 
+                "role_name": "Donor", 
+                "person_date": "American, b. 1955", 
+                "role_display_name": "Donated by", 
+                "person_id": "18041679", 
+                "person_url": "https://collection.cooperhewitt.org/people/18041679/"
+            }, 
+            {
+                "person_name": "Nancy Skolos", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "American, b. 1955", 
+                "role_display_name": "Designed by", 
+                "person_id": "18041679", 
+                "person_url": "https://collection.cooperhewitt.org/people/18041679/"
+            }
+        ], 
+        "decade": "1980", 
+        "label_text": null, 
+        "woe:country": "23424977", 
+        "dimensions_raw": {
+            "width": [
+                "63.40", 
+                "centimeters"
+            ], 
+            "height": [
+                "63.50", 
+                "centimeters"
+            ]
+        }, 
+        "department_id": "35347493", 
+        "title_raw": "Berkeley Typographers", 
+        "justification": null, 
+        "media_id": "35419317", 
+        "description": "An open booklet in white with a large green shadow of a ‘B’ made up of a perforated design at left; right side covered in red text that reads: Now / Berkeley Typographers can [information….]. Brick color and tan perforated background with text in white across the top and right side: BERKELEY / TYPE.", 
+        "creditline": "Gift of Nancy Skolos", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "1989", 
+        "url": "https://collection.cooperhewitt.org/objects/18654333/", 
+        "type": "poster", 
+        "accession_number": "1996-90-27", 
+        "year_end": 1989, 
+        "signed": null, 
+        "inscribed": "Imprinted in red on right edge of booklet: Skolos . Wedell + Raynor 1989; Separations . Laserscan, Inc.; Printing . Franklin Graphic", 
+        "period_id": null, 
+        "year_acquired": "1996", 
+        "woe:country_id": "23424977"
+    }
+}

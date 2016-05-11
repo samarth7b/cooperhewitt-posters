@@ -1,0 +1,120 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": 1972, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": "offset lithograph\nsupport: paper", 
+        "tms:id": "193498", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/268741_af932144b8fa5940_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "268741"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/268741_af932144b8fa5940_b.jpg", 
+                    "width": 719, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "268741"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/268741_af932144b8fa5940_d.gif", 
+                    "width": 225, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "268741"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/268741_af932144b8fa5940_z.jpg", 
+                    "width": 449, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "268741"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/268741_af932144b8fa5940_n.jpg", 
+                    "width": 225, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "268741"
+                }
+            }
+        ], 
+        "id": "18637293", 
+        "has_no_known_copyright": null, 
+        "woe:country_name": "United States", 
+        "dimensions": "88 x 61.1 cm (34 5/8 x 24 1/16 in.)", 
+        "title": "Poster, Underground Block, 1972", 
+        "provenance": null, 
+        "participants": [
+            {
+                "person_name": "Peter Bradford", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35351535/", 
+                "role_id": "35351535", 
+                "role_name": "Donor", 
+                "person_date": "", 
+                "role_display_name": "Donated by", 
+                "person_id": "18042351", 
+                "person_url": "https://collection.cooperhewitt.org/people/18042351/"
+            }, 
+            {
+                "person_name": "CGC", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35352245/", 
+                "role_id": "35352245", 
+                "role_name": "Cataloguer", 
+                "person_date": "", 
+                "role_display_name": "Catalogued by", 
+                "person_id": "18048417", 
+                "person_url": "https://collection.cooperhewitt.org/people/18048417/"
+            }, 
+            {
+                "person_name": "Peter Bradford", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "", 
+                "role_display_name": "Designed by", 
+                "person_id": "18042351", 
+                "person_url": "https://collection.cooperhewitt.org/people/18042351/"
+            }
+        ], 
+        "decade": "1970", 
+        "label_text": null, 
+        "woe:country": "23424977", 
+        "dimensions_raw": {
+            "width": [
+                "61.10", 
+                "centimeters"
+            ], 
+            "height": [
+                "88.00", 
+                "centimeters"
+            ]
+        }, 
+        "department_id": "35347493", 
+        "title_raw": "Underground Block", 
+        "justification": null, 
+        "media_id": "136270993", 
+        "description": null, 
+        "creditline": "Gift of Peter Bradford", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "1972", 
+        "url": "https://collection.cooperhewitt.org/objects/18637293/", 
+        "type": "poster", 
+        "accession_number": "1991-69-5", 
+        "year_end": 1972, 
+        "signed": null, 
+        "inscribed": "Imprinted in black ink across upper recto: Underground Block; at CL: An underground cross section/ of a typical city street is a/ phantasmagoria ofpiping, wiring, and tunneling...[16 line inscription]; diagram of network of systems found in \"The Underground Block\" accompanied by their names, including : Sewer Drain,Telephone Conduit, Subway...; imprinted in black ink at LL margin: Design by Peter Bradford; at L margin right: Copyright 1972 IDCA, International Design Conference in Aspen, The Invisible City. Champion Paper Javelin Coated Offset/ 80lb", 
+        "period_id": null, 
+        "year_acquired": "1991", 
+        "woe:country_id": "23424977"
+    }
+}

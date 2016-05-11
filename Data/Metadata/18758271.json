@@ -1,0 +1,139 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": 1990, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": "offset lithograph on wove paper", 
+        "tms:id": "255421", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/46758_a1c0c5742e4df69e_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "46758"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/46758_a1c0c5742e4df69e_b.jpg", 
+                    "width": 724, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "46758"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/46758_a1c0c5742e4df69e_d.gif", 
+                    "width": 226, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "46758"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/46758_a1c0c5742e4df69e_z.jpg", 
+                    "width": 452, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "46758"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/46758_a1c0c5742e4df69e_n.jpg", 
+                    "width": 226, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "46758"
+                }
+            }
+        ], 
+        "id": "18758271", 
+        "has_no_known_copyright": null, 
+        "dimensions": "128.1 x 90.5 cm (50 7/16 x 35 5/8 in.)", 
+        "title": "Poster, Hannes Meyer, ca. 1990", 
+        "provenance": "Acquired new and directly from designers, museums, and cultural institutions by Marc Benda.  Remained with Benda until 2010, when gifted to CHNDM.", 
+        "participants": [
+            {
+                "person_name": "Museum für Gestaltung, Zürich", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236667/", 
+                "role_id": "35236667", 
+                "role_name": "Client", 
+                "person_date": "Zürich, Switzerland", 
+                "role_display_name": "Client:", 
+                "person_id": "18063557", 
+                "person_url": "https://collection.cooperhewitt.org/people/18063557/"
+            }, 
+            {
+                "person_name": "Bodmer Weber Offset", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236673/", 
+                "role_id": "35236673", 
+                "role_name": "Printer", 
+                "person_date": "Swiss, active 1990s to present", 
+                "role_display_name": "Printed by", 
+                "person_id": "18063525", 
+                "person_url": "https://collection.cooperhewitt.org/people/18063525/"
+            }, 
+            {
+                "person_name": "Hans Rudolf Bosshardt", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "Swiss, b. 1922", 
+                "role_display_name": "Designed by", 
+                "person_id": "18063523", 
+                "person_url": "https://collection.cooperhewitt.org/people/18063523/"
+            }, 
+            {
+                "person_name": "Marc Benda", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35351535/", 
+                "role_id": "35351535", 
+                "role_name": "Donor", 
+                "person_date": "", 
+                "role_display_name": "Donated by", 
+                "person_id": "18062523", 
+                "person_url": "https://collection.cooperhewitt.org/people/18062523/"
+            }, 
+            {
+                "person_name": "Sara Benda", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35351535/", 
+                "role_id": "35351535", 
+                "role_name": "Donor", 
+                "person_date": "", 
+                "role_display_name": "Donated by", 
+                "person_id": "18063205", 
+                "person_url": "https://collection.cooperhewitt.org/people/18063205/"
+            }
+        ], 
+        "decade": "1990", 
+        "label_text": null, 
+        "woe:country": null, 
+        "dimensions_raw": {
+            "width": [
+                "90.50", 
+                "centimeters"
+            ], 
+            "height": [
+                "128.10", 
+                "centimeters"
+            ]
+        }, 
+        "department_id": "35347493", 
+        "title_raw": "Hannes Meyer", 
+        "justification": null, 
+        "media_id": "35431963", 
+        "description": "Layered over a yellow background, the text \"Hannes / Meyer / Urbanist / Architekt / Lehrer\", layered over with a high-contrast black-and-white photograph of a man gesticulating, then layered over with a blue photographic image of men in a crowd, and finally layered over with the Russian inscription in white, \"Hannes / Mayer\". \nWith secondary inscriptions: \"Hannes Meyer Urbanist Architekt Lehrer / Museum fur Gestaltung Zurich / 21.3. - 20.5.1990\". And an inscription in fine print: \"Geoffnet: Dienstag bis Freitag 10-18, Mittwoch 10-21 Samstang, Sonntag 10-17 Uhr, Montag sowie 1. Mai geschlossen. Offnungszeiten uber Ostern siehe Tagespresse / Ausstellungsstrasse 60, 8005 Zurich\".", 
+        "creditline": "Gift of Sara and Marc Benda", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "ca. 1990", 
+        "url": "https://collection.cooperhewitt.org/objects/18758271/", 
+        "type": "poster", 
+        "accession_number": "2010-21-33", 
+        "year_end": 1990, 
+        "signed": null, 
+        "inscribed": null, 
+        "period_id": null, 
+        "year_acquired": "2010", 
+        "woe:country_id": null
+    }
+}

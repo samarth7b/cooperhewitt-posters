@@ -1,0 +1,125 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": 1976, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": "offset lithograph on white paper", 
+        "tms:id": "163495", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/65137_50ab2062d4e2d1d0_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "65137"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/65137_50ab2062d4e2d1d0_b.jpg", 
+                    "width": 653, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "65137"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/65137_50ab2062d4e2d1d0_d.gif", 
+                    "width": 204, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "65137"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/65137_50ab2062d4e2d1d0_z.jpg", 
+                    "width": 408, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "65137"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/65137_50ab2062d4e2d1d0_n.jpg", 
+                    "width": 204, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "65137"
+                }
+            }, 
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/252662_f8a202ff8f92c9f4_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "0", 
+                    "image_id": "252662"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/252662_f8a202ff8f92c9f4_b.jpg", 
+                    "width": 659, 
+                    "height": 1024, 
+                    "is_primary": "0", 
+                    "image_id": "252662"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/252662_f8a202ff8f92c9f4_d.gif", 
+                    "width": 206, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "252662"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/252662_f8a202ff8f92c9f4_z.jpg", 
+                    "width": 412, 
+                    "height": 640, 
+                    "is_primary": "0", 
+                    "image_id": "252662"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/252662_f8a202ff8f92c9f4_n.jpg", 
+                    "width": 206, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "252662"
+                }
+            }
+        ], 
+        "id": "18505183", 
+        "has_no_known_copyright": null, 
+        "dimensions": "H x W: 88.1 x 56.3 cm (34 11/16 x 22 3/16 in.)", 
+        "title": "Poster, Russian Youth Perspective, 1976", 
+        "provenance": "1980: acquired by Museum", 
+        "participants": [], 
+        "decade": "1970", 
+        "label_text": null, 
+        "woe:country": null, 
+        "dimensions_raw": {
+            "width": [
+                "56.30", 
+                "centimeters"
+            ], 
+            "height": [
+                "88.10", 
+                "centimeters"
+            ]
+        }, 
+        "department_id": "35347493", 
+        "title_raw": "Russian Youth Perspective", 
+        "justification": null, 
+        "media_id": "35424093", 
+        "description": "Poster depicts two young figures, male and female, in blue and white uniform; they boy is playing a trumpet while the girl salutes. Behind them are floating ideas in yellow Russian text on orange ground, groups of students in different environments: classroom, at a campfire, etc. At the top is a profile portrait of Lenin in a star with a flame.", 
+        "creditline": "Gift of Unknown Donor", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "1976", 
+        "url": "https://collection.cooperhewitt.org/objects/18505183/", 
+        "type": "poster", 
+        "accession_number": "1980-32-1240", 
+        "year_end": 1976, 
+        "signed": null, 
+        "inscribed": "Printed in blue ink, lower margin: [Cyrillic text] 1976", 
+        "period_id": "35417341", 
+        "year_acquired": "1980", 
+        "woe:country_id": null
+    }
+}

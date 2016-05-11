@@ -1,0 +1,150 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": 1989, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": "lithograph on paper", 
+        "tms:id": "197734", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/223486_5e2012d355b50357_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "0", 
+                    "image_id": "223486"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/223486_5e2012d355b50357_b.jpg", 
+                    "width": 777, 
+                    "height": 1024, 
+                    "is_primary": "0", 
+                    "image_id": "223486"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/223486_5e2012d355b50357_d.gif", 
+                    "width": 243, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "223486"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/223486_5e2012d355b50357_z.jpg", 
+                    "width": 486, 
+                    "height": 640, 
+                    "is_primary": "0", 
+                    "image_id": "223486"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/223486_5e2012d355b50357_n.jpg", 
+                    "width": 243, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "223486"
+                }
+            }
+        ], 
+        "id": "18645661", 
+        "has_no_known_copyright": null, 
+        "woe:country_name": "United States", 
+        "dimensions": "61 × 45.6 cm (24 in. × 17 15/16 in.)", 
+        "title": "Poster, Palestine, 1989", 
+        "provenance": "Steven Heller and Karrie Jacobs; 1993: acquired by Museum", 
+        "participants": [
+            {
+                "person_name": "Karrie Jacobs", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35351535/", 
+                "role_id": "35351535", 
+                "role_name": "Donor", 
+                "person_date": "", 
+                "role_display_name": "Donated by", 
+                "person_id": "18056647", 
+                "person_url": "https://collection.cooperhewitt.org/people/18056647/"
+            }, 
+            {
+                "person_name": "Steven Heller", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35351535/", 
+                "role_id": "35351535", 
+                "role_name": "Donor", 
+                "person_date": "American, b. 1950", 
+                "role_display_name": "Donated by", 
+                "person_id": "18041397", 
+                "person_url": "https://collection.cooperhewitt.org/people/18041397/"
+            }, 
+            {
+                "person_name": "Megan L. Smith", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35352245/", 
+                "role_id": "35352245", 
+                "role_name": "Cataloguer", 
+                "person_date": "", 
+                "role_display_name": "Catalogued by", 
+                "person_id": "18047443", 
+                "person_url": "https://collection.cooperhewitt.org/people/18047443/"
+            }, 
+            {
+                "person_name": "LSA", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35352245/", 
+                "role_id": "35352245", 
+                "role_name": "Cataloguer", 
+                "person_date": "", 
+                "role_display_name": "Catalogued by", 
+                "person_id": "18048737", 
+                "person_url": "https://collection.cooperhewitt.org/people/18048737/"
+            }, 
+            {
+                "person_name": "Salim Yaqub", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236565/", 
+                "role_id": "35236565", 
+                "role_name": "Artist", 
+                "person_date": "", 
+                "role_display_name": "", 
+                "person_id": "18043153", 
+                "person_url": "https://collection.cooperhewitt.org/people/18043153/"
+            }, 
+            {
+                "person_name": "Liberation Graphics", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236659/", 
+                "role_id": "35236659", 
+                "role_name": "Distributor", 
+                "person_date": "", 
+                "role_display_name": "Distributed by", 
+                "person_id": "18043151", 
+                "person_url": "https://collection.cooperhewitt.org/people/18043151/"
+            }
+        ], 
+        "decade": "1980", 
+        "label_text": null, 
+        "woe:country": "23424977", 
+        "dimensions_raw": {
+            "width": [
+                "45.60", 
+                "centimeters"
+            ], 
+            "height": [
+                "61.00", 
+                "centimeters"
+            ]
+        }, 
+        "department_id": "35347493", 
+        "title_raw": "Palestine", 
+        "justification": null, 
+        "media_id": "35419317", 
+        "description": "Description: Image of \"New Day\" by Salim Yaqub For Liberation Graphics", 
+        "creditline": "Gift of Steven Heller and Karrie Jacobs", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "1989", 
+        "url": "https://collection.cooperhewitt.org/objects/18645661/", 
+        "type": "poster", 
+        "accession_number": "1993-53-24", 
+        "year_end": 1989, 
+        "signed": null, 
+        "inscribed": "Imprinted in white ink at bottom: \"New Day by Salim Yaqub (USA), from the traveling exhibit, \"In Celebration of the State of Palestine\"... [9 lines of text]\"", 
+        "period_id": null, 
+        "year_acquired": "1993", 
+        "woe:country_id": "23424977"
+    }
+}

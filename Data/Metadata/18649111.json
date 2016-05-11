@@ -1,0 +1,217 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": "By 1960, graphic design evolved into its own unique profession in post-revolution Cuba. The Cuban Institute of Cinema Art and Industry (ICAIC), formed after the Revolution in 1959 in Havana, directed numerous designers like Antonio Pérez González (Ñiko) to create an assortment of carteles, posters, to advertise domestic and international films shown in Cuba. These posters were revered as works of art for the way they defined Cuban culture through bold artistic expressions, use of innovative materials, and sustainable technology. This poster was created for the 1966 Japanese film Onna no naka ni iru tannin, or The Stranger within a Woman, which was later re-titled La Linea Delgada (The Thin Line) for the Spanish release. Ñiko transcends the idea of the traditional film still and poster by designing a rich composition of shape and color. Known by name for his vision and skill in communicating a message, he masterfully combines these visual elements to express the film’s theme of betrayal and death. By portraying minimal graphic information, Ñiko allows viewers to formulate their own interpretations of the film being advertised. This cartel is one of 1,500-plus original silk- screen posters that promoted films shown at the ICAIC.", 
+        "year_start": 1969, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": "screenprint on wove paper", 
+        "tms:id": "199465", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/89860_2ebc4d0298e4f2c5_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "89860"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/89860_2ebc4d0298e4f2c5_b.jpg", 
+                    "width": 683, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "89860"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/89860_2ebc4d0298e4f2c5_d.gif", 
+                    "width": 213, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "89860"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/89860_2ebc4d0298e4f2c5_z.jpg", 
+                    "width": 427, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "89860"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/89860_2ebc4d0298e4f2c5_n.jpg", 
+                    "width": 213, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "89860"
+                }
+            }, 
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/141776_02ef7758fac9416e_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "0", 
+                    "image_id": "141776"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/141776_02ef7758fac9416e_b.jpg", 
+                    "width": 693, 
+                    "height": 1024, 
+                    "is_primary": "0", 
+                    "image_id": "141776"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/141776_02ef7758fac9416e_d.gif", 
+                    "width": 217, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "141776"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/141776_02ef7758fac9416e_z.jpg", 
+                    "width": 433, 
+                    "height": 640, 
+                    "is_primary": "0", 
+                    "image_id": "141776"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/141776_02ef7758fac9416e_n.jpg", 
+                    "width": 217, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "141776"
+                }
+            }
+        ], 
+        "id": "18649111", 
+        "has_no_known_copyright": null, 
+        "woe:country_name": "Cuba", 
+        "dimensions": "76.2 x 51.1 cm (30 in. x 20 1/8 in.)", 
+        "title": "Poster, La Linea Delgada (The Thin Line), 1969", 
+        "provenance": "1994: acquired by Museum (from Reinhold Brown Gallery New York, NY)", 
+        "participants": [
+            {
+                "person_name": "Dr. Gail Davidson", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35352245/", 
+                "role_id": "35352245", 
+                "role_name": "Cataloguer", 
+                "person_date": "", 
+                "role_display_name": "Catalogued by", 
+                "person_id": "18048255", 
+                "person_url": "https://collection.cooperhewitt.org/people/18048255/"
+            }, 
+            {
+                "person_name": "Reinhold Brown Gallery", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35352249/", 
+                "role_id": "35352249", 
+                "role_name": "Vendor", 
+                "person_date": "", 
+                "role_display_name": "Purchased from", 
+                "person_id": "18041557", 
+                "person_url": "https://collection.cooperhewitt.org/people/18041557/"
+            }, 
+            {
+                "person_name": "Smithsonian Institution CAP Funds--do not use", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35352247/", 
+                "role_id": "35352247", 
+                "role_name": "Fund", 
+                "person_date": "", 
+                "role_display_name": "Fund:", 
+                "person_id": "18048931", 
+                "person_url": "https://collection.cooperhewitt.org/people/18048931/"
+            }, 
+            {
+                "person_name": "ss", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35352245/", 
+                "role_id": "35352245", 
+                "role_name": "Cataloguer", 
+                "person_date": "", 
+                "role_display_name": "Catalogued by", 
+                "person_id": "18047797", 
+                "person_url": "https://collection.cooperhewitt.org/people/18047797/"
+            }, 
+            {
+                "person_name": "SR", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35352245/", 
+                "role_id": "35352245", 
+                "role_name": "Cataloguer", 
+                "person_date": "", 
+                "role_display_name": "Catalogued by", 
+                "person_id": "18047543", 
+                "person_url": "https://collection.cooperhewitt.org/people/18047543/"
+            }, 
+            {
+                "person_name": "Antonio Perez (Ñiko)", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236565/", 
+                "role_id": "35236565", 
+                "role_name": "Artist", 
+                "person_date": "Cuban, founded 1941", 
+                "role_display_name": "", 
+                "person_id": "18043385", 
+                "person_url": "https://collection.cooperhewitt.org/people/18043385/"
+            }, 
+            {
+                "person_name": "The Cuban Institute of Cinematographic Art and Industry (ICAIC)", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236661/", 
+                "role_id": "35236661", 
+                "role_name": "Publisher", 
+                "person_date": "Cuba", 
+                "role_display_name": "Published by", 
+                "person_id": "18043359", 
+                "person_url": "https://collection.cooperhewitt.org/people/18043359/"
+            }, 
+            {
+                "person_name": "The Cuban Institute of Cinematographic Art and Industry (ICAIC)", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236667/", 
+                "role_id": "35236667", 
+                "role_name": "Client", 
+                "person_date": "Cuba", 
+                "role_display_name": "Client:", 
+                "person_id": "18043359", 
+                "person_url": "https://collection.cooperhewitt.org/people/18043359/"
+            }, 
+            {
+                "person_name": "Antonio Perez (Ñiko) González", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "Cuban, born 1941", 
+                "role_display_name": "Designed by", 
+                "person_id": "18048935", 
+                "person_url": "https://collection.cooperhewitt.org/people/18048935/"
+            }
+        ], 
+        "decade": "1960", 
+        "label_text": null, 
+        "woe:country": "23424793", 
+        "dimensions_raw": {
+            "width": [
+                "51.10", 
+                "centimeters"
+            ], 
+            "height": [
+                "76.20", 
+                "centimeters"
+            ]
+        }, 
+        "department_id": "35347493", 
+        "title_raw": "La Linea Delgada (The Thin Line)", 
+        "justification": null, 
+        "media_id": "35399029", 
+        "description": "On a black printed background, a slightly off-centered white line running vertically terminates in an orange \"S\"-shaped curve that is forked at the lower edge. In white: LA LINEA / DELGADA / film japonés dirección: mikio naruse con keiji kobayashi tatsuya mihashi michiyo aratama. (The Thin Line)", 
+        "creditline": "Museum purchase from Smithsonian Institution Collections Acquisition Program Fund and through gift of Anonymous Donors", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "1969", 
+        "url": "https://collection.cooperhewitt.org/objects/18649111/", 
+        "type": "poster", 
+        "accession_number": "1994-65-8", 
+        "year_end": 1969, 
+        "signed": "Signed and dated on image, lower left: iko/69", 
+        "inscribed": null, 
+        "period_id": null, 
+        "year_acquired": "1994", 
+        "woe:country_id": "23424793"
+    }
+}

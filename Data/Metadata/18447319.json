@@ -1,0 +1,215 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": "American-born painter and designer E. McKnight Kauffer worked in England from about 1915 to 1940, where he became well-known as a top modern poster designer. He is particularly noted for his more than 150 designs for the London Underground. Kauffer was one of the first designers to apply fine-art principles to advertisements, seeing fine and commercial arts as harmonious rather than distinct. He advocated simplicity in poster design, noting the poster and message had be to seen and understood quickly by a fast-moving pedestrian or car passenger. This poster for a summer sale at Derry & Toms, the London department store, communicates the feeling of summer in a simple, colorful scene of sailboats created through a mix of Japanese woodcut, expressionist, and Fauvist influences. Derry & Toms was one of the most successful companies to follow in the tradition of modernist posters set by Kauffer in the London Underground Railway.", 
+        "year_start": 1919, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": "lithograph on paper", 
+        "tms:id": "134175", 
+        "images": [
+            {
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/90435_4bd473b040816cb7_b.jpg", 
+                    "width": 654, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "90435"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/90435_4bd473b040816cb7_d.gif", 
+                    "width": 204, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "90435"
+                }, 
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/90435_4bd473b040816cb7_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "90435"
+                }, 
+                "o": {
+                    "url": "https://images.collection.cooperhewitt.org/90435_09b5fd238c4fb47e_o.jpg", 
+                    "width": 2555, 
+                    "height": 4000, 
+                    "is_primary": "1", 
+                    "image_id": "90435"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/90435_4bd473b040816cb7_n.jpg", 
+                    "width": 204, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "90435"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/90435_4bd473b040816cb7_z.jpg", 
+                    "width": 409, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "90435"
+                }
+            }, 
+            {
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/221645_8c5982a6dd650147_b.jpg", 
+                    "width": 671, 
+                    "height": 1024, 
+                    "is_primary": "0", 
+                    "image_id": "221645"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/221645_8c5982a6dd650147_d.gif", 
+                    "width": 210, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "221645"
+                }, 
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/221645_8c5982a6dd650147_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "0", 
+                    "image_id": "221645"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/221645_8c5982a6dd650147_n.jpg", 
+                    "width": 210, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "221645"
+                }, 
+                "x": {
+                    "url": "https://images.collection.cooperhewitt.org/221645_d0d78f80edc6cfc8_x.jpg", 
+                    "width": 2684, 
+                    "height": 4096, 
+                    "is_primary": "0", 
+                    "image_id": "221645"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/221645_8c5982a6dd650147_z.jpg", 
+                    "width": 419, 
+                    "height": 640, 
+                    "is_primary": "0", 
+                    "image_id": "221645"
+                }
+            }, 
+            {
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/6664_510acc239ebeab2c_b.jpg", 
+                    "width": 662, 
+                    "height": 1024, 
+                    "is_primary": "0", 
+                    "image_id": "6664"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/6664_510acc239ebeab2c_d.gif", 
+                    "width": 207, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "6664"
+                }, 
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/6664_510acc239ebeab2c_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "0", 
+                    "image_id": "6664"
+                }, 
+                "o": {
+                    "url": "https://images.collection.cooperhewitt.org/6664_03dca5359e86d0ca_o.jpg", 
+                    "width": 970, 
+                    "height": 1500, 
+                    "is_primary": "0", 
+                    "image_id": "6664"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/6664_510acc239ebeab2c_n.jpg", 
+                    "width": 207, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "6664"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/6664_510acc239ebeab2c_z.jpg", 
+                    "width": 414, 
+                    "height": 640, 
+                    "is_primary": "0", 
+                    "image_id": "6664"
+                }
+            }
+        ], 
+        "id": "18447319", 
+        "has_no_known_copyright": "1", 
+        "woe:country_name": "United Kingdom", 
+        "dimensions": "74.9 x 49.7 cm (29 1/2 x 19 9/16 in.)", 
+        "title": "Poster, Summer Sale at Derry & Tom's, London, 1919", 
+        "provenance": "Mrs. Edward McKnight Kauffer; 1963: acquired by Museum", 
+        "participants": [
+            {
+                "person_name": "Karin Zonis", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35352245/", 
+                "role_id": "35352245", 
+                "role_name": "Cataloguer", 
+                "person_date": "", 
+                "role_display_name": "Catalogued by", 
+                "person_id": "51676457", 
+                "person_url": "https://collection.cooperhewitt.org/people/51676457/"
+            }, 
+            {
+                "person_name": "Mrs. Edward McKnight Kauffer", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35351535/", 
+                "role_id": "35351535", 
+                "role_name": "Donor", 
+                "person_date": "", 
+                "role_display_name": "Donated by", 
+                "person_id": "18061849", 
+                "person_url": "https://collection.cooperhewitt.org/people/18061849/"
+            }, 
+            {
+                "person_name": "Edward McKnight Kauffer", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "American, active England, 1890–1954", 
+                "role_display_name": "Designed by", 
+                "person_id": "18041923", 
+                "person_url": "https://collection.cooperhewitt.org/people/18041923/"
+            }
+        ], 
+        "decade": "1910", 
+        "label_text": null, 
+        "woe:country": "23424975", 
+        "dimensions_raw": {
+            "width": [
+                "49.70", 
+                "centimeters"
+            ], 
+            "height": [
+                "74.90", 
+                "centimeters"
+            ]
+        }, 
+        "department_id": "35347493", 
+        "title_raw": "Summer Sale at Derry & Tom's, London", 
+        "justification": null, 
+        "media_id": "35419317", 
+        "description": "Image shows sailing sailboats, with text at lower left with pink, green, yellow, blue, and white: NOW PROCEEDING / SUMMER / SALE AT / DERRY & TOMS / KENSINGTON W.8.", 
+        "creditline": "Gift of Mrs. E. McKnight Kauffer", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "1919", 
+        "url": "https://collection.cooperhewitt.org/objects/18447319/", 
+        "type": "poster", 
+        "accession_number": "1963-39-16", 
+        "year_end": 1919, 
+        "signed": "Signed in print, lower right: E. McKnight Kauffer. \"19\"", 
+        "inscribed": null, 
+        "period_id": null, 
+        "year_acquired": "1963", 
+        "woe:country_id": "23424975"
+    }
+}

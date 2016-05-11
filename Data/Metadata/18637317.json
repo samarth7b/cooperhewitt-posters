@@ -1,0 +1,157 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": 1965, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": "offset lithograph on light brown paper", 
+        "tms:id": "193510", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/64073_0ac603f0c1944f19_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "64073"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/64073_0ac603f0c1944f19_b.jpg", 
+                    "width": 593, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "64073"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/64073_0ac603f0c1944f19_d.gif", 
+                    "width": 185, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "64073"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/64073_0ac603f0c1944f19_z.jpg", 
+                    "width": 371, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "64073"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/64073_0ac603f0c1944f19_n.jpg", 
+                    "width": 185, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "64073"
+                }
+            }, 
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/203008_574a4119b9578bd4_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "0", 
+                    "image_id": "203008"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/203008_574a4119b9578bd4_b.jpg", 
+                    "width": 613, 
+                    "height": 1024, 
+                    "is_primary": "0", 
+                    "image_id": "203008"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/203008_574a4119b9578bd4_d.gif", 
+                    "width": 192, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "203008"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/203008_574a4119b9578bd4_z.jpg", 
+                    "width": 383, 
+                    "height": 640, 
+                    "is_primary": "0", 
+                    "image_id": "203008"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/203008_574a4119b9578bd4_n.jpg", 
+                    "width": 192, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "203008"
+                }
+            }
+        ], 
+        "id": "18637317", 
+        "has_no_known_copyright": null, 
+        "woe:country_name": "United States", 
+        "dimensions": "57.7 x 33.7 cm (22 11/16 x 13 1/4 in.)", 
+        "title": "Poster, Milk T.G.I.Friday's: The cream always rises to the top..Now we're looking for the creme de la creme... Because we need more good managers..., 20th century", 
+        "provenance": "1991: acquired by Museum", 
+        "participants": [
+            {
+                "person_name": "Woody Pirtle", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35351535/", 
+                "role_id": "35351535", 
+                "role_name": "Donor", 
+                "person_date": "b. 1945", 
+                "role_display_name": "Donated by", 
+                "person_id": "18042325", 
+                "person_url": "https://collection.cooperhewitt.org/people/18042325/"
+            }, 
+            {
+                "person_name": "CGC", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35352245/", 
+                "role_id": "35352245", 
+                "role_name": "Cataloguer", 
+                "person_date": "", 
+                "role_display_name": "Catalogued by", 
+                "person_id": "18048417", 
+                "person_url": "https://collection.cooperhewitt.org/people/18048417/"
+            }, 
+            {
+                "person_name": "Woody Pirtle", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "b. 1945", 
+                "role_display_name": "Designed by", 
+                "person_id": "18042325", 
+                "person_url": "https://collection.cooperhewitt.org/people/18042325/"
+            }
+        ], 
+        "decade": "1960", 
+        "label_text": null, 
+        "woe:country": "23424977", 
+        "dimensions_raw": {
+            "width": [
+                "33.70", 
+                "centimeters"
+            ], 
+            "height": [
+                "57.70", 
+                "centimeters"
+            ]
+        }, 
+        "department_id": "35347493", 
+        "title_raw": "Milk T.G.I.Friday's: The cream always rises to the top..Now we're looking for the creme de la creme... Because we need more good managers...", 
+        "justification": null, 
+        "media_id": "51684107", 
+        "description": "Image of milk bottle with text, using milk metaphor for manager recreuitment message. On a tan background, a beige milk bottle stands on a checker pattern in turquoise and mustard yellow. Bottle cap with the same checker pattern and orange. At center, a circular “label” on milk bottle reads: Milk. An orange cow is in two parts. Below: T. G. I. F R I D A Y’ S. In turquoise at the top of the bottle: The cream always rises to the top, as the old / saying goes. Now we’re looking for the / crème de la crème – the best of the best - / among us. Because we need more good / managers with the ability it takes to / effectively motivate and supervise people. / We know we can skim off that kind of talent / right here in house – and not just among our / department heads. After all each and every / one of you are responsible for our phenomenally / successful operation. And it’s a fact that over 70% / of Friday’s managers were once hourly employees. / So if you’re the kind of person who can really deliver, / think about becoming a Friday’s manager. Because / although we’re filled with the very best, there’s still a little / room at the top. / Talk to your General Manager or call the Personnel Office in Dallas, / (214) 233-2900, for details.", 
+        "creditline": "Gift of Woody Pirtle", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "20th century", 
+        "url": "https://collection.cooperhewitt.org/objects/18637317/", 
+        "type": "poster", 
+        "accession_number": "1991-69-60", 
+        "year_end": 1981, 
+        "signed": null, 
+        "inscribed": null, 
+        "period_id": null, 
+        "year_acquired": "1991", 
+        "woe:country_id": "23424977"
+    }
+}

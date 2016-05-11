@@ -1,0 +1,140 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": 1991, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": "lithograph on recycled paper", 
+        "tms:id": "197771", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/223918_0e2c959356bdda0d_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "0", 
+                    "image_id": "223918"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/223918_0e2c959356bdda0d_b.jpg", 
+                    "width": 675, 
+                    "height": 1024, 
+                    "is_primary": "0", 
+                    "image_id": "223918"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/223918_0e2c959356bdda0d_d.gif", 
+                    "width": 211, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "223918"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/223918_0e2c959356bdda0d_z.jpg", 
+                    "width": 422, 
+                    "height": 640, 
+                    "is_primary": "0", 
+                    "image_id": "223918"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/223918_0e2c959356bdda0d_n.jpg", 
+                    "width": 211, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "223918"
+                }
+            }
+        ], 
+        "id": "18645735", 
+        "has_no_known_copyright": null, 
+        "woe:country_name": "United States", 
+        "dimensions": "85.5 × 55 cm (33 11/16 × 21 5/8 in.)", 
+        "title": "Poster, Earth Day '91 New York City, 1991", 
+        "provenance": "Steven Heller and Karrie Jacobs; 1993: acquired by Museum", 
+        "participants": [
+            {
+                "person_name": "Karrie Jacobs", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35351535/", 
+                "role_id": "35351535", 
+                "role_name": "Donor", 
+                "person_date": "", 
+                "role_display_name": "Donated by", 
+                "person_id": "18056647", 
+                "person_url": "https://collection.cooperhewitt.org/people/18056647/"
+            }, 
+            {
+                "person_name": "Steven Heller", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35351535/", 
+                "role_id": "35351535", 
+                "role_name": "Donor", 
+                "person_date": "American, b. 1950", 
+                "role_display_name": "Donated by", 
+                "person_id": "18041397", 
+                "person_url": "https://collection.cooperhewitt.org/people/18041397/"
+            }, 
+            {
+                "person_name": "Megan L. Smith", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35352245/", 
+                "role_id": "35352245", 
+                "role_name": "Cataloguer", 
+                "person_date": "", 
+                "role_display_name": "Catalogued by", 
+                "person_id": "18047443", 
+                "person_url": "https://collection.cooperhewitt.org/people/18047443/"
+            }, 
+            {
+                "person_name": "LSA", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35352245/", 
+                "role_id": "35352245", 
+                "role_name": "Cataloguer", 
+                "person_date": "", 
+                "role_display_name": "Catalogued by", 
+                "person_id": "18048737", 
+                "person_url": "https://collection.cooperhewitt.org/people/18048737/"
+            }, 
+            {
+                "person_name": "Seymour Chwast", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "American, b. 1931", 
+                "role_display_name": "Designed by", 
+                "person_id": "18042087", 
+                "person_url": "https://collection.cooperhewitt.org/people/18042087/"
+            }
+        ], 
+        "decade": "1990", 
+        "label_text": null, 
+        "woe:country": "23424977", 
+        "dimensions_raw": {
+            "width": [
+                "55.00", 
+                "centimeters"
+            ], 
+            "height": [
+                "85.50", 
+                "centimeters"
+            ]
+        }, 
+        "department_id": "35347493", 
+        "title_raw": "Earth Day '91 New York City", 
+        "justification": null, 
+        "media_id": "68515201", 
+        "description": "Recto: Print of head of Statue of Liberty with symbols and words projecting from head; verso: Statue of Liberty holding a broomstick and tablet inscribed \"reduce/reuse/recycle\" Note: 1993-53-125 is a duplicate of 1993-53-58", 
+        "creditline": "Gift of Steven Heller and Karrie Jacobs", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "1991", 
+        "url": "https://collection.cooperhewitt.org/objects/18645735/", 
+        "type": "poster", 
+        "accession_number": "1993-53-58", 
+        "year_end": 1991, 
+        "signed": null, 
+        "inscribed": "Imprinted on bottom of recto: \"PAPER: FOX RIVER CIRCA SELECT.../HAFF & DAUGHERTY ...\" Imprinted on bottom of verso: \"DESIGN: SEYMOUR CHWAST PAPER: FOX RIVER CIRCA SELECT.../HAFF & DAUGHERTY...\"", 
+        "period_id": null, 
+        "year_acquired": "1993", 
+        "woe:country_id": "23424977"
+    }
+}

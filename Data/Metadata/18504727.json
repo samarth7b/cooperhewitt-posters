@@ -1,0 +1,184 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": 1975, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": "lithograph on paper", 
+        "tms:id": "163267", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/101361_ac71fc05d17d4e62_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "101361"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/101361_ac71fc05d17d4e62_b.jpg", 
+                    "width": 673, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "101361"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/101361_ac71fc05d17d4e62_d.gif", 
+                    "width": 210, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "101361"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/101361_ac71fc05d17d4e62_z.jpg", 
+                    "width": 421, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "101361"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/101361_ac71fc05d17d4e62_n.jpg", 
+                    "width": 210, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "101361"
+                }
+            }, 
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/269827_2980683f7f649640_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "0", 
+                    "image_id": "269827"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/269827_2980683f7f649640_b.jpg", 
+                    "width": 684, 
+                    "height": 1024, 
+                    "is_primary": "0", 
+                    "image_id": "269827"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/269827_2980683f7f649640_d.gif", 
+                    "width": 214, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "269827"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/269827_2980683f7f649640_z.jpg", 
+                    "width": 427, 
+                    "height": 640, 
+                    "is_primary": "0", 
+                    "image_id": "269827"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/269827_2980683f7f649640_n.jpg", 
+                    "width": 214, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "269827"
+                }
+            }, 
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/95234_2302ed3d7ac01f39_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "0", 
+                    "image_id": "95234"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/95234_2302ed3d7ac01f39_b.jpg", 
+                    "width": 661, 
+                    "height": 1024, 
+                    "is_primary": "0", 
+                    "image_id": "95234"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/95234_2302ed3d7ac01f39_d.gif", 
+                    "width": 207, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "95234"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/95234_2302ed3d7ac01f39_z.jpg", 
+                    "width": 413, 
+                    "height": 640, 
+                    "is_primary": "0", 
+                    "image_id": "95234"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/95234_2302ed3d7ac01f39_n.jpg", 
+                    "width": 207, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "95234"
+                }
+            }
+        ], 
+        "id": "18504727", 
+        "has_no_known_copyright": null, 
+        "woe:country_name": "United States", 
+        "dimensions": "117 × 76.2 cm (46 1/16 in. × 30 in.)", 
+        "title": "Poster, A Moon for the Misbegotten, 1975", 
+        "provenance": "1980: acquired by Museum", 
+        "participants": [
+            {
+                "person_name": "Ivan Chermayeff", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "English, b. 1932", 
+                "role_display_name": "Designed by", 
+                "person_id": "18042085", 
+                "person_url": "https://collection.cooperhewitt.org/people/18042085/"
+            }, 
+            {
+                "person_name": "Chermayeff & Geismar Associates", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "New York, New York, USA", 
+                "role_display_name": "Designed by", 
+                "person_id": "18053275", 
+                "person_url": "https://collection.cooperhewitt.org/people/18053275/"
+            }
+        ], 
+        "decade": "1970", 
+        "label_text": null, 
+        "woe:country": "23424977", 
+        "dimensions_raw": {
+            "width": [
+                "76.20", 
+                "centimeters"
+            ], 
+            "height": [
+                "117.00", 
+                "centimeters"
+            ]
+        }, 
+        "department_id": "35347493", 
+        "title_raw": "A Moon for the Misbegotten", 
+        "justification": null, 
+        "media_id": "35419317", 
+        "description": null, 
+        "creditline": "Gift of Unknown Donor", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "1975", 
+        "url": "https://collection.cooperhewitt.org/objects/18504727/", 
+        "type": "poster", 
+        "accession_number": "1980-32-1004", 
+        "year_end": 1975, 
+        "signed": null, 
+        "inscribed": null, 
+        "period_id": null, 
+        "year_acquired": "1980", 
+        "woe:country_id": "23424977"
+    }
+}

@@ -1,0 +1,140 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": 1970, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": "screenprint on brown paper", 
+        "tms:id": "197792", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/202098_d6683098a6a1bdda_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "202098"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/202098_d6683098a6a1bdda_b.jpg", 
+                    "width": 1024, 
+                    "height": 771, 
+                    "is_primary": "1", 
+                    "image_id": "202098"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/202098_d6683098a6a1bdda_d.gif", 
+                    "width": 320, 
+                    "height": 241, 
+                    "is_primary": "1", 
+                    "image_id": "202098"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/202098_d6683098a6a1bdda_z.jpg", 
+                    "width": 640, 
+                    "height": 482, 
+                    "is_primary": "1", 
+                    "image_id": "202098"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/202098_d6683098a6a1bdda_n.jpg", 
+                    "width": 320, 
+                    "height": 241, 
+                    "is_primary": "1", 
+                    "image_id": "202098"
+                }
+            }
+        ], 
+        "id": "18645777", 
+        "has_no_known_copyright": null, 
+        "woe:country_name": "United States", 
+        "dimensions": "45.4 x 60.5 cm (17 7/8 x 23 13/16 in.)", 
+        "title": "Poster, Sheep, ca. 1980", 
+        "provenance": null, 
+        "participants": [
+            {
+                "person_name": "Karrie Jacobs", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35351535/", 
+                "role_id": "35351535", 
+                "role_name": "Donor", 
+                "person_date": "", 
+                "role_display_name": "Donated by", 
+                "person_id": "18056647", 
+                "person_url": "https://collection.cooperhewitt.org/people/18056647/"
+            }, 
+            {
+                "person_name": "Steven Heller", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35351535/", 
+                "role_id": "35351535", 
+                "role_name": "Donor", 
+                "person_date": "American, b. 1950", 
+                "role_display_name": "Donated by", 
+                "person_id": "18041397", 
+                "person_url": "https://collection.cooperhewitt.org/people/18041397/"
+            }, 
+            {
+                "person_name": "Megan L. Smith", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35352245/", 
+                "role_id": "35352245", 
+                "role_name": "Cataloguer", 
+                "person_date": "", 
+                "role_display_name": "Catalogued by", 
+                "person_id": "18047443", 
+                "person_url": "https://collection.cooperhewitt.org/people/18047443/"
+            }, 
+            {
+                "person_name": "LSA", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35352245/", 
+                "role_id": "35352245", 
+                "role_name": "Cataloguer", 
+                "person_date": "", 
+                "role_display_name": "Catalogued by", 
+                "person_id": "18048737", 
+                "person_url": "https://collection.cooperhewitt.org/people/18048737/"
+            }, 
+            {
+                "person_name": "David Virgien", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "", 
+                "role_display_name": "Designed by", 
+                "person_id": "18043141", 
+                "person_url": "https://collection.cooperhewitt.org/people/18043141/"
+            }
+        ], 
+        "decade": "1970", 
+        "label_text": null, 
+        "woe:country": "23424977", 
+        "dimensions_raw": {
+            "width": [
+                "60.50", 
+                "centimeters"
+            ], 
+            "height": [
+                "45.40", 
+                "centimeters"
+            ]
+        }, 
+        "department_id": "35347493", 
+        "title_raw": "Sheep", 
+        "justification": null, 
+        "media_id": "68266459", 
+        "description": "Print of sheep on black background", 
+        "creditline": "Gift of Steven Heller and Karrie Jacobs", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "ca. 1980", 
+        "url": "https://collection.cooperhewitt.org/objects/18645777/", 
+        "type": "poster", 
+        "accession_number": "1993-53-7-4", 
+        "year_end": 1990, 
+        "signed": null, 
+        "inscribed": "Inscribed in graphite on verso: David Virgien", 
+        "period_id": null, 
+        "year_acquired": "1993", 
+        "woe:country_id": "23424977"
+    }
+}

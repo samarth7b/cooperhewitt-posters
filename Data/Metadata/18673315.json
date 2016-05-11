@@ -1,0 +1,120 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": 1960, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": "offset lithograph on white wove paper", 
+        "tms:id": "212100", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/13642_4f93982449368999_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "13642"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/13642_4f93982449368999_b.jpg", 
+                    "width": 732, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "13642"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/13642_4f93982449368999_d.gif", 
+                    "width": 229, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "13642"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/13642_4f93982449368999_z.jpg", 
+                    "width": 457, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "13642"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/13642_4f93982449368999_n.jpg", 
+                    "width": 229, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "13642"
+                }
+            }
+        ], 
+        "id": "18673315", 
+        "has_no_known_copyright": null, 
+        "woe:country_name": "Switzerland", 
+        "dimensions": "H x W: 128.6 × 90.3 cm (50 5/8 × 35 9/16 in.)", 
+        "title": "Poster, Saison 1960 / 61, 1960", 
+        "provenance": "Dan Friedman; Ken Friedman; 1997: acquired by Museum", 
+        "participants": [
+            {
+                "person_name": "Armin Hofmann", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "Swiss, b.1920", 
+                "role_display_name": "Designed by", 
+                "person_id": "18053303", 
+                "person_url": "https://collection.cooperhewitt.org/people/18053303/"
+            }, 
+            {
+                "person_name": "Ken Friedman", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35351535/", 
+                "role_id": "35351535", 
+                "role_name": "Donor", 
+                "person_date": "", 
+                "role_display_name": "Donated by", 
+                "person_id": "18049807", 
+                "person_url": "https://collection.cooperhewitt.org/people/18049807/"
+            }, 
+            {
+                "person_name": "Stadttheater, Basel", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236667/", 
+                "role_id": "35236667", 
+                "role_name": "Client", 
+                "person_date": "Basel, Switzerland", 
+                "role_display_name": "Client:", 
+                "person_id": "68774475", 
+                "person_url": "https://collection.cooperhewitt.org/people/68774475/"
+            }
+        ], 
+        "decade": "1960", 
+        "label_text": "The enormous letter T makes the laughing figure seem small, and it makes us feel small, too. Bleeding beyond the frame, the T is too big to contain. Hofmann uses black and white to avoid the \"trivialization of color\" seen in everyday commercial advertising. By narrowing his language to type, shape, and image, he confronts direct processes of perception.", 
+        "woe:country": "23424957", 
+        "dimensions_raw": {
+            "width": [
+                "90.20", 
+                "centimeters"
+            ], 
+            "height": [
+                "127.80", 
+                "centimeters"
+            ]
+        }, 
+        "department_id": "35347493", 
+        "title_raw": "Saison 1960 / 61", 
+        "justification": null, 
+        "media_id": "35431673", 
+        "description": "At lower left, a black and white photographic image of a man in a white suit wearing a white domino mask is seated on a low stool. He leans backward with an expression of exaggerated laughter.  Above his the words Stadttheater / Basel form a \"T\" shape.  The upper right quarter of the poster design consists of a large \"T\" shaped area with the text in white as follows: Während / der Saison / 1960/61 / finden Sie / an dieser / Stelle / den / Spielplan.", 
+        "creditline": "Gift of Ken Friedman", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "1960", 
+        "url": "https://collection.cooperhewitt.org/objects/18673315/", 
+        "type": "poster", 
+        "accession_number": "1997-19-148", 
+        "year_end": 1960, 
+        "signed": null, 
+        "inscribed": "Along right edge: Entwurf: Armin Hofmann    Photo: erkle    Druck: Wassermann A.G. Basel", 
+        "period_id": null, 
+        "year_acquired": "1997", 
+        "woe:country_id": "23424957"
+    }
+}

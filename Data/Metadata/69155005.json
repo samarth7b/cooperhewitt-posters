@@ -1,0 +1,90 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": "This poster celebrating a graphic design biennial combines Islamic architecture with three-dimensional letterforms. Delvaray has placed three-dimensional letterforms in a bi-level interior. Floral and checked patterns dominate the walls and floors, while the arched windows provide a point of difference to the axonometric angles used elsewhere.", 
+        "year_start": 2013, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": "digital print", 
+        "tms:id": "282853", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/265647_7348882595bac727_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "265647"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/265647_7348882595bac727_b.jpg", 
+                    "width": 717, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "265647"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/265647_7348882595bac727_d.gif", 
+                    "width": 224, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "265647"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/265647_7348882595bac727_z.jpg", 
+                    "width": 448, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "265647"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/265647_7348882595bac727_n.jpg", 
+                    "width": 224, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "265647"
+                }
+            }
+        ], 
+        "id": "69155005", 
+        "has_no_known_copyright": null, 
+        "dimensions": "H x W: 80 × 55.9 cm (31 1/2 in. × 22 in.)", 
+        "title": "Poster, Silver Cypress, The Third Biennial of the Iranian Graphic Designers Society, 2013", 
+        "provenance": null, 
+        "participants": [
+            {
+                "person_name": "Homa Delvaray", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "Iranian, b. 1980", 
+                "role_display_name": "Designed by", 
+                "person_id": "85011421", 
+                "person_url": "https://collection.cooperhewitt.org/people/85011421/"
+            }
+        ], 
+        "decade": "2010", 
+        "label_text": null, 
+        "woe:country": null, 
+        "dimensions_raw": null, 
+        "department_id": "404529577", 
+        "title_raw": "Silver Cypress, The Third Biennial of the Iranian Graphic Designers Society", 
+        "justification": null, 
+        "media_id": "35424525", 
+        "description": null, 
+        "creditline": "Courtesy of the designer", 
+        "on_display": "1", 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "2013", 
+        "url": "https://collection.cooperhewitt.org/objects/69155005/", 
+        "type": "poster", 
+        "accession_number": "s-e-1711", 
+        "year_end": 2013, 
+        "signed": null, 
+        "inscribed": null, 
+        "period_id": null, 
+        "year_acquired": null, 
+        "woe:country_id": null
+    }
+}

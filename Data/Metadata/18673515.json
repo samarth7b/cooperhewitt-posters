@@ -1,0 +1,109 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": 1965, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": "offset lithograph on white wove paper", 
+        "tms:id": "212200", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/268720_14a31bc16549805a_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "268720"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/268720_14a31bc16549805a_b.jpg", 
+                    "width": 725, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "268720"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/268720_14a31bc16549805a_d.gif", 
+                    "width": 227, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "268720"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/268720_14a31bc16549805a_z.jpg", 
+                    "width": 453, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "268720"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/268720_14a31bc16549805a_n.jpg", 
+                    "width": 227, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "268720"
+                }
+            }
+        ], 
+        "id": "18673515", 
+        "has_no_known_copyright": null, 
+        "dimensions": "83.8 x 58.3 cm (33 x 22 15/16 in. )", 
+        "title": "Poster, Volkswagen, ca. 1975", 
+        "provenance": "From the collection of Dan Friedman", 
+        "participants": [
+            {
+                "person_name": "Ken Friedman", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35351535/", 
+                "role_id": "35351535", 
+                "role_name": "Donor", 
+                "person_date": "", 
+                "role_display_name": "Donated by", 
+                "person_id": "18049807", 
+                "person_url": "https://collection.cooperhewitt.org/people/18049807/"
+            }, 
+            {
+                "person_name": "Dan Friedman", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "American, 1945–1995", 
+                "role_display_name": "Designed by", 
+                "person_id": "18041325", 
+                "person_url": "https://collection.cooperhewitt.org/people/18041325/"
+            }
+        ], 
+        "decade": "1960", 
+        "label_text": null, 
+        "woe:country": null, 
+        "dimensions_raw": {
+            "width": [
+                "58.30", 
+                "centimeters"
+            ], 
+            "height": [
+                "83.80", 
+                "centimeters"
+            ]
+        }, 
+        "department_id": "35347493", 
+        "title_raw": "Volkswagen", 
+        "justification": null, 
+        "media_id": "35431673", 
+        "description": "In a large white section of the poster design at left, two complete sectional views of the interior of a Volkswagen bus are shown in extreme detail. Upper image shows complete drive-train from ssteering column to engine housing in rear. Lower view is a close up of engine, motor and muffler. Black numbers link components to legend at right, imprinted in white. At upper left, imprinted in large white block letters, \"Volkswagen\" and logo. Below images are three columns of text.", 
+        "creditline": "Gift of Ken Friedman", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "ca. 1975", 
+        "url": "https://collection.cooperhewitt.org/objects/18673515/", 
+        "type": "poster", 
+        "accession_number": "1997-19-249", 
+        "year_end": 1985, 
+        "signed": null, 
+        "inscribed": "Imprinted in white at right side, two sections of text numbered 1-10 and 11-20 as follows:\n1 Storage batteries for electric drive mode / 2 Power-assisted disc brakes / 3 Dor reinforcement beams / 4 Electric motor / 5 Electronic control unit / 6 Transmission / 7 Independent trailing arm suspension / 8 Air-cooled internal combustion engine / 9 Rear drum brakes / 10 Storage batteries for electric drive mode. / 11 Electric motor / 12 Cooling fan / 13 Input to generator on charge mode / 14 Output from electric motor on drive mode / 15 Electric motor drive shaft / 16 Power to rear wheels /17 Internal combustions engine input / 18 Hydrodynamic torque convertor and clutch / 19 Air-cooled internal combustion engine / 20 Muffler.\nImprinted in white lower left: The Hybrid/Power Plant.\nImprinted in black[first column of text]: The electric-gasoline hybrid power plant enables / the Volkeswagen City Taxi to operate on zero-pollu-/tion electric energy in city core areas, then shift to / low polluting gasoline -electric power for express- / way and suburban driving.\n[second column of text]: During hybrid operation, the near-silent electric / motor takes the entire start-up load. This permits / a slow opening of the gasoline engine throttle, /resulting in  low gas emissions. As it develops higher / torque, the gasoline engine takes on more of the / load and demand on the electric motor decreases.\n[third column of text]: When the gasoline engine puts out more power / than needed to propel the vehicle, electronic con- / trols direct the excess energy through the electric / motor generator, recharcing the 11 storage batteries.", 
+        "period_id": null, 
+        "year_acquired": "1997", 
+        "woe:country_id": null
+    }
+}

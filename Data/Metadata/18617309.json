@@ -1,0 +1,194 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": "This poster design displays the modernity of Herman Miller furniture and graphics. The Soft Pad Group, first produced in 1969, comprises desk and lounge chairs by popular husband-and-wife modern designers Charles and Ray Eames. The designs are akin to the Eameses’ successful 1958 aluminum indoor-outdoor chairs, with the benefit of soft cushions, more strictly relegating the new group to office furniture. This poster suggests the soft pads’ malleability and comfort through amorphous black bars. The top four bars can be understood as denoting the chair back while the lower bar denotes the seat. The design was likely inspired by Swiss graphic designer Armin Hofmann’s 1962 “Furniture of our Times” poster for Herman Miller, which featured black silhouettes of various chair profiles stacked one on top of another against a white ground. The graphic black silhouette against a plain ground became a popular motif for the company. By the 1960s, Herman Miller was known for its high-quality modern design—a realistic depiction of a chair is no longer needed to sell a chair. Instead, the poster, designed under art director John Massey, also a painter, printmaker, and photographer, becomes an abstract, artistic composition.", 
+        "year_start": 1970, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": "screenprint on coated metallic paper", 
+        "tms:id": "177187", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/87882_989d25fdc71be6db_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "87882"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/87882_989d25fdc71be6db_b.jpg", 
+                    "width": 683, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "87882"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/87882_989d25fdc71be6db_d.gif", 
+                    "width": 213, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "87882"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/87882_989d25fdc71be6db_z.jpg", 
+                    "width": 427, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "87882"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/87882_989d25fdc71be6db_n.jpg", 
+                    "width": 213, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "87882"
+                }
+            }, 
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/269865_bdead4e6984e1491_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "0", 
+                    "image_id": "269865"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/269865_bdead4e6984e1491_b.jpg", 
+                    "width": 703, 
+                    "height": 1024, 
+                    "is_primary": "0", 
+                    "image_id": "269865"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/269865_bdead4e6984e1491_d.gif", 
+                    "width": 220, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "269865"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/269865_bdead4e6984e1491_z.jpg", 
+                    "width": 439, 
+                    "height": 640, 
+                    "is_primary": "0", 
+                    "image_id": "269865"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/269865_bdead4e6984e1491_n.jpg", 
+                    "width": 220, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "269865"
+                }
+            }, 
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/87883_ea31b608333974f2_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "0", 
+                    "image_id": "87883"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/87883_ea31b608333974f2_b.jpg", 
+                    "width": 1024, 
+                    "height": 683, 
+                    "is_primary": "0", 
+                    "image_id": "87883"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/87883_ea31b608333974f2_d.gif", 
+                    "width": 320, 
+                    "height": 213, 
+                    "is_primary": "0", 
+                    "image_id": "87883"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/87883_ea31b608333974f2_z.jpg", 
+                    "width": 640, 
+                    "height": 427, 
+                    "is_primary": "0", 
+                    "image_id": "87883"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/87883_ea31b608333974f2_n.jpg", 
+                    "width": 320, 
+                    "height": 213, 
+                    "is_primary": "0", 
+                    "image_id": "87883"
+                }
+            }
+        ], 
+        "id": "18617309", 
+        "has_no_known_copyright": null, 
+        "woe:country_name": "United States", 
+        "dimensions": "122.8 x 81.2 cm (48 3/8 x 31 15/16 in.)", 
+        "title": "Poster, Eames Soft Pad Group, 1970", 
+        "provenance": "1981: acquired by Museum", 
+        "participants": [
+            {
+                "person_name": "Herman Miller Furniture Company", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236667/", 
+                "role_id": "35236667", 
+                "role_name": "Client", 
+                "person_date": "Zeeland, Michigan, USA", 
+                "role_display_name": "Client:", 
+                "person_id": "18049013", 
+                "person_url": "https://collection.cooperhewitt.org/people/18049013/"
+            }, 
+            {
+                "person_name": "Tom Waon", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "", 
+                "role_display_name": "Designed by", 
+                "person_id": "68248261", 
+                "person_url": "https://collection.cooperhewitt.org/people/68248261/"
+            }, 
+            {
+                "person_name": "John Massey", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "American, b. 1931", 
+                "role_display_name": "Designed by", 
+                "person_id": "18042349", 
+                "person_url": "https://collection.cooperhewitt.org/people/18042349/"
+            }
+        ], 
+        "decade": "1970", 
+        "label_text": null, 
+        "woe:country": "23424977", 
+        "dimensions_raw": {
+            "width": [
+                "81.20", 
+                "centimeters"
+            ], 
+            "height": [
+                "122.80", 
+                "centimeters"
+            ]
+        }, 
+        "department_id": "35347493", 
+        "title_raw": "Eames Soft Pad Group", 
+        "justification": null, 
+        "media_id": "68266117", 
+        "description": "Abstract wavy black bands.", 
+        "creditline": "Gift of Various Donors", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "1970", 
+        "url": "https://collection.cooperhewitt.org/objects/18617309/", 
+        "type": "poster", 
+        "accession_number": "1981-29-124", 
+        "year_end": 1970, 
+        "signed": null, 
+        "inscribed": null, 
+        "period_id": null, 
+        "year_acquired": "1981", 
+        "woe:country_id": "23424977"
+    }
+}

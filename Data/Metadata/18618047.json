@@ -1,0 +1,147 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": null, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": "screenprint on paper", 
+        "tms:id": "177557", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/90324_fb8a887ed274a34d_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "90324"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/90324_fb8a887ed274a34d_b.jpg", 
+                    "width": 735, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "90324"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/90324_fb8a887ed274a34d_d.gif", 
+                    "width": 230, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "90324"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/90324_fb8a887ed274a34d_z.jpg", 
+                    "width": 459, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "90324"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/90324_fb8a887ed274a34d_n.jpg", 
+                    "width": 230, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "90324"
+                }
+            }, 
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/207165_ce5a8c4aae55e01c_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "0", 
+                    "image_id": "207165"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/207165_ce5a8c4aae55e01c_b.jpg", 
+                    "width": 744, 
+                    "height": 1024, 
+                    "is_primary": "0", 
+                    "image_id": "207165"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/207165_ce5a8c4aae55e01c_d.gif", 
+                    "width": 233, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "207165"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/207165_ce5a8c4aae55e01c_z.jpg", 
+                    "width": 465, 
+                    "height": 640, 
+                    "is_primary": "0", 
+                    "image_id": "207165"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/207165_ce5a8c4aae55e01c_n.jpg", 
+                    "width": 233, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "207165"
+                }
+            }
+        ], 
+        "id": "18618047", 
+        "has_no_known_copyright": null, 
+        "woe:country_name": "United States", 
+        "dimensions": "53.5 x 38.5 cm (21 1/16 x 15 3/16 in.)", 
+        "title": "Poster, IBM / Equal Opportunity / Pattern for Progress", 
+        "provenance": "1981: acquired by Museum", 
+        "participants": [
+            {
+                "person_name": "IBM", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236667/", 
+                "role_id": "35236667", 
+                "role_name": "Client", 
+                "person_date": "USA", 
+                "role_display_name": "Client:", 
+                "person_id": "18041871", 
+                "person_url": "https://collection.cooperhewitt.org/people/18041871/"
+            }, 
+            {
+                "person_name": "Ken White", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "American, 1935-1985", 
+                "role_display_name": "Designed by", 
+                "person_id": "18042357", 
+                "person_url": "https://collection.cooperhewitt.org/people/18042357/"
+            }
+        ], 
+        "decade": null, 
+        "label_text": null, 
+        "woe:country": "23424977", 
+        "dimensions_raw": {
+            "width": [
+                "38.50", 
+                "centimeters"
+            ], 
+            "height": [
+                "53.50", 
+                "centimeters"
+            ]
+        }, 
+        "department_id": "35347493", 
+        "title_raw": "IBM / Equal Opportunity / Pattern for Progress", 
+        "justification": null, 
+        "media_id": "35431679", 
+        "description": "On white ground, text in black: Equal Opportunity / Pattern for Progress. Lower section composed of horizontal bars in red, brown, black, yellow and pink and below makes up the word: IBM.", 
+        "creditline": "Gift of Various Donors", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": null, 
+        "url": "https://collection.cooperhewitt.org/objects/18618047/", 
+        "type": "poster", 
+        "accession_number": "1981-29-454", 
+        "year_end": null, 
+        "signed": null, 
+        "inscribed": null, 
+        "period_id": null, 
+        "year_acquired": "1981", 
+        "woe:country_id": "23424977"
+    }
+}

@@ -1,0 +1,91 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": null, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": null, 
+        "tms:id": "154947", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/252394_28c13c3c005efcf1_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "252394"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/252394_28c13c3c005efcf1_b.jpg", 
+                    "width": 1024, 
+                    "height": 776, 
+                    "is_primary": "1", 
+                    "image_id": "252394"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/252394_28c13c3c005efcf1_d.gif", 
+                    "width": 320, 
+                    "height": 243, 
+                    "is_primary": "1", 
+                    "image_id": "252394"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/252394_28c13c3c005efcf1_z.jpg", 
+                    "width": 640, 
+                    "height": 485, 
+                    "is_primary": "1", 
+                    "image_id": "252394"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/252394_28c13c3c005efcf1_n.jpg", 
+                    "width": 320, 
+                    "height": 243, 
+                    "is_primary": "1", 
+                    "image_id": "252394"
+                }
+            }
+        ], 
+        "id": "18488159", 
+        "has_no_known_copyright": null, 
+        "woe:country_name": "France", 
+        "dimensions": null, 
+        "title": "Poster (France)", 
+        "provenance": null, 
+        "participants": [
+            {
+                "person_name": "Robert C Kaufmann", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35351535/", 
+                "role_id": "35351535", 
+                "role_name": "Donor", 
+                "person_date": "", 
+                "role_display_name": "Donated by", 
+                "person_id": "18061863", 
+                "person_url": "https://collection.cooperhewitt.org/people/18061863/"
+            }
+        ], 
+        "decade": null, 
+        "label_text": null, 
+        "woe:country": "23424819", 
+        "dimensions_raw": null, 
+        "department_id": "35347493", 
+        "title_raw": null, 
+        "justification": null, 
+        "media_id": "35371135", 
+        "description": null, 
+        "creditline": "Gift of Robert Kaufmann", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": null, 
+        "url": "https://collection.cooperhewitt.org/objects/18488159/", 
+        "type": "poster", 
+        "accession_number": "1975-35-1", 
+        "year_end": null, 
+        "signed": null, 
+        "inscribed": null, 
+        "period_id": null, 
+        "year_acquired": "1975", 
+        "woe:country_id": "23424819"
+    }
+}

@@ -1,0 +1,91 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": 1971, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": null, 
+        "tms:id": "177306", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/268922_9c44877841bfc02a_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "268922"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/268922_9c44877841bfc02a_b.jpg", 
+                    "width": 673, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "268922"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/268922_9c44877841bfc02a_d.gif", 
+                    "width": 210, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "268922"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/268922_9c44877841bfc02a_z.jpg", 
+                    "width": 421, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "268922"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/268922_9c44877841bfc02a_n.jpg", 
+                    "width": 210, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "268922"
+                }
+            }
+        ], 
+        "id": "18617547", 
+        "has_no_known_copyright": null, 
+        "woe:country_name": "United States", 
+        "dimensions": null, 
+        "title": "Poster, Piet Mondrian Centennial Exhibition, 1971", 
+        "provenance": "1981: acquired by Museum", 
+        "participants": [
+            {
+                "person_name": "Malcolm Grear", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "American, founded 1931", 
+                "role_display_name": "Designed by", 
+                "person_id": "18042303", 
+                "person_url": "https://collection.cooperhewitt.org/people/18042303/"
+            }
+        ], 
+        "decade": "1970", 
+        "label_text": null, 
+        "woe:country": "23424977", 
+        "dimensions_raw": null, 
+        "department_id": "35347493", 
+        "title_raw": "Piet Mondrian Centennial Exhibition", 
+        "justification": null, 
+        "media_id": "35371135", 
+        "description": null, 
+        "creditline": "Gift of Various Donors", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "1971", 
+        "url": "https://collection.cooperhewitt.org/objects/18617547/", 
+        "type": "poster", 
+        "accession_number": "1981-29-230", 
+        "year_end": 1971, 
+        "signed": null, 
+        "inscribed": null, 
+        "period_id": null, 
+        "year_acquired": "1981", 
+        "woe:country_id": "23424977"
+    }
+}

@@ -1,0 +1,137 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": null, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": "lithograph on wove paper", 
+        "tms:id": "177440", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/82705_4a7ab29648cf8d04_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "82705"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/82705_4a7ab29648cf8d04_b.jpg", 
+                    "width": 688, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "82705"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/82705_4a7ab29648cf8d04_d.gif", 
+                    "width": 215, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "82705"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/82705_4a7ab29648cf8d04_z.jpg", 
+                    "width": 430, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "82705"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/82705_4a7ab29648cf8d04_n.jpg", 
+                    "width": 215, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "82705"
+                }
+            }, 
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/205127_ccc43fd77a6c26a4_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "0", 
+                    "image_id": "205127"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/205127_ccc43fd77a6c26a4_b.jpg", 
+                    "width": 696, 
+                    "height": 1024, 
+                    "is_primary": "0", 
+                    "image_id": "205127"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/205127_ccc43fd77a6c26a4_d.gif", 
+                    "width": 218, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "205127"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/205127_ccc43fd77a6c26a4_z.jpg", 
+                    "width": 435, 
+                    "height": 640, 
+                    "is_primary": "0", 
+                    "image_id": "205127"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/205127_ccc43fd77a6c26a4_n.jpg", 
+                    "width": 218, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "205127"
+                }
+            }
+        ], 
+        "id": "18617813", 
+        "has_no_known_copyright": null, 
+        "woe:country_name": "United States", 
+        "dimensions": "Overall: 45.4 x 30.2 cm (17 7/8 x 11 7/8 in.)", 
+        "title": "Poster, Richie Havens", 
+        "provenance": "1981: acquired by Museum", 
+        "participants": [
+            {
+                "person_name": "Peter Max", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "American, b. Germany, 1937", 
+                "role_display_name": "Designed by", 
+                "person_id": "18042345", 
+                "person_url": "https://collection.cooperhewitt.org/people/18042345/"
+            }
+        ], 
+        "decade": null, 
+        "label_text": null, 
+        "woe:country": "23424977", 
+        "dimensions_raw": {
+            "width": [
+                "30.20", 
+                "centimeters"
+            ], 
+            "height": [
+                "45.40", 
+                "centimeters"
+            ]
+        }, 
+        "department_id": "35347493", 
+        "title_raw": "Richie Havens", 
+        "justification": null, 
+        "media_id": "35407799", 
+        "description": "Abstract landscape in blue, yellow and green; small figure standing on an arc. Text in red.", 
+        "creditline": "Gift of Various Donors", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": null, 
+        "url": "https://collection.cooperhewitt.org/objects/18617813/", 
+        "type": "poster", 
+        "accession_number": "1981-29-349", 
+        "year_end": null, 
+        "signed": "Imprinted in black ink, in white oval, lower left: peter max©", 
+        "inscribed": null, 
+        "period_id": null, 
+        "year_acquired": "1981", 
+        "woe:country_id": "23424977"
+    }
+}

@@ -1,0 +1,120 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": "This poster comes from a series of posters with the text “A Careless Word…”. The various endings, that followed, were directed specifically to naval and military personnel. The purpose of the campaign was to present the possible consequences if military personnel did not mind with whom, or where, they were discussing military tactics. “A Careless Word…A Needless Sinking” is meant to show the repercussions of “loose lips”, so to speak, because one was never sure when the enemy was nearby, or who the enemy might be.", 
+        "year_start": 1942, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": "lithograph on paper", 
+        "tms:id": "185971", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/93575_ad6928e8aea11e5c_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "93575"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/93575_ad6928e8aea11e5c_b.jpg", 
+                    "width": 789, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "93575"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/93575_ad6928e8aea11e5c_d.gif", 
+                    "width": 247, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "93575"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/93575_ad6928e8aea11e5c_z.jpg", 
+                    "width": 493, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "93575"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/93575_ad6928e8aea11e5c_n.jpg", 
+                    "width": 247, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "93575"
+                }
+            }
+        ], 
+        "id": "18622271", 
+        "has_no_known_copyright": null, 
+        "woe:country_name": "United States", 
+        "dimensions": "H x W: 94.8 × 72.5 cm (37 5/16 × 28 9/16 in.)", 
+        "title": "Poster, A Careless Word, 1942", 
+        "provenance": null, 
+        "participants": [
+            {
+                "person_name": "Unknown donor: unsolicited gift", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35351535/", 
+                "role_id": "35351535", 
+                "role_name": "Donor", 
+                "person_date": "", 
+                "role_display_name": "Donated by", 
+                "person_id": "18050283", 
+                "person_url": "https://collection.cooperhewitt.org/people/18050283/"
+            }, 
+            {
+                "person_name": "Anton Otto Fischer", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "German, active USA, 1882–1962", 
+                "role_display_name": "Designed by", 
+                "person_id": "68735291", 
+                "person_url": "https://collection.cooperhewitt.org/people/68735291/"
+            }, 
+            {
+                "person_name": "Office of War Information", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236667/", 
+                "role_id": "35236667", 
+                "role_name": "Client", 
+                "person_date": "Washington, DC, USA", 
+                "role_display_name": "Client:", 
+                "person_id": "51676657", 
+                "person_url": "https://collection.cooperhewitt.org/people/51676657/"
+            }
+        ], 
+        "decade": "1940", 
+        "label_text": "A Careless Word depicts a lifeboat loaded with distressed and wounded sailors pulling away from a burning ship. As viewers, we put ourselves in the boat with the sailors, seeing the devastation from their perspective.", 
+        "woe:country": "23424977", 
+        "dimensions_raw": {
+            "width": [
+                "72.20", 
+                "centimeters"
+            ], 
+            "height": [
+                "94.50", 
+                "centimeters"
+            ]
+        }, 
+        "department_id": "35347493", 
+        "title_raw": "A Careless Word", 
+        "justification": null, 
+        "media_id": "35419317", 
+        "description": "\"A Careless Word... a Needless Sinking\"", 
+        "creditline": "Gift of Unknown Donor", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "1942", 
+        "url": "https://collection.cooperhewitt.org/objects/18622271/", 
+        "type": "poster", 
+        "accession_number": "1987-24-25", 
+        "year_end": 1942, 
+        "signed": null, 
+        "inscribed": null, 
+        "period_id": "35417341", 
+        "year_acquired": "1987", 
+        "woe:country_id": "23424977"
+    }
+}

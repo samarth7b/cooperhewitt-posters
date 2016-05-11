@@ -1,0 +1,157 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": 1993, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": "offset lithograph on heavy white paper", 
+        "tms:id": "202550", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/49884_8ad19967516f3558_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "49884"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/49884_8ad19967516f3558_b.jpg", 
+                    "width": 741, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "49884"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/49884_8ad19967516f3558_d.gif", 
+                    "width": 232, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "49884"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/49884_8ad19967516f3558_z.jpg", 
+                    "width": 463, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "49884"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/49884_8ad19967516f3558_n.jpg", 
+                    "width": 232, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "49884"
+                }
+            }, 
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/268848_20c8206acf52d858_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "0", 
+                    "image_id": "268848"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/268848_20c8206acf52d858_b.jpg", 
+                    "width": 746, 
+                    "height": 1024, 
+                    "is_primary": "0", 
+                    "image_id": "268848"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/268848_20c8206acf52d858_d.gif", 
+                    "width": 233, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "268848"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/268848_20c8206acf52d858_z.jpg", 
+                    "width": 466, 
+                    "height": 640, 
+                    "is_primary": "0", 
+                    "image_id": "268848"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/268848_20c8206acf52d858_n.jpg", 
+                    "width": 233, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "268848"
+                }
+            }
+        ], 
+        "id": "18655161", 
+        "has_no_known_copyright": null, 
+        "woe:country_name": "United States", 
+        "dimensions": "66.7 x 50.5 cm (26 1/4 x 19 7/8 in.)", 
+        "title": "Poster, Olivetti Quaderno, 1993", 
+        "provenance": "Milton Glaser", 
+        "participants": [
+            {
+                "person_name": "Karin Zonis", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35352245/", 
+                "role_id": "35352245", 
+                "role_name": "Cataloguer", 
+                "person_date": "", 
+                "role_display_name": "Catalogued by", 
+                "person_id": "51676457", 
+                "person_url": "https://collection.cooperhewitt.org/people/51676457/"
+            }, 
+            {
+                "person_name": "Milton Glaser", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "American, b. 1929", 
+                "role_display_name": "Designed by", 
+                "person_id": "18042107", 
+                "person_url": "https://collection.cooperhewitt.org/people/18042107/"
+            }, 
+            {
+                "person_name": "Milton Glaser", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35351535/", 
+                "role_id": "35351535", 
+                "role_name": "Donor", 
+                "person_date": "American, b. 1929", 
+                "role_display_name": "Donated by", 
+                "person_id": "18042107", 
+                "person_url": "https://collection.cooperhewitt.org/people/18042107/"
+            }
+        ], 
+        "decade": "1990", 
+        "label_text": null, 
+        "woe:country": "23424977", 
+        "dimensions_raw": {
+            "width": [
+                "50.50", 
+                "centimeters"
+            ], 
+            "height": [
+                "66.70", 
+                "centimeters"
+            ]
+        }, 
+        "department_id": "35347493", 
+        "title_raw": "Olivetti Quaderno", 
+        "justification": null, 
+        "media_id": "35520281", 
+        "description": "In a yellow tiled shower stall with green molding and beige flooring, a large red and black Q leans as though on its kickstand. Below, on floor, in black: olivetti; above, in black: QUADERNO. Hovering above is the gray vintage computer; in white: Olivetti / QUADERNO.", 
+        "creditline": "Gift of Milton Glaser", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "1993", 
+        "url": "https://collection.cooperhewitt.org/objects/18655161/", 
+        "type": "poster", 
+        "accession_number": "1997-28-2", 
+        "year_end": 1993, 
+        "signed": "Signed [imprinted] in white on black oval, lower right: ©MILTON GLASER 1993", 
+        "inscribed": "Imprinted in black, right margin: A. G. Nidasio Printed in Italy", 
+        "period_id": null, 
+        "year_acquired": "1997", 
+        "woe:country_id": "23424977"
+    }
+}

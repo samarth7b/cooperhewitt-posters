@@ -1,0 +1,119 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": 1974, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": "offset lithograph on white wove paper", 
+        "tms:id": "212195", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/269891_3dbf244064f6a952_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "269891"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/269891_3dbf244064f6a952_b.jpg", 
+                    "width": 699, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "269891"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/269891_3dbf244064f6a952_d.gif", 
+                    "width": 218, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "269891"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/269891_3dbf244064f6a952_z.jpg", 
+                    "width": 437, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "269891"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/269891_3dbf244064f6a952_n.jpg", 
+                    "width": 218, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "269891"
+                }
+            }
+        ], 
+        "id": "18673505", 
+        "has_no_known_copyright": null, 
+        "dimensions": "106.7 x 71.1 cm (42 x 28 in. )", 
+        "title": "Poster, Minute Man National Historic Park, 1974", 
+        "provenance": "From the collection of Dan Friedman", 
+        "participants": [
+            {
+                "person_name": "National Park Service", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236667/", 
+                "role_id": "35236667", 
+                "role_name": "Client", 
+                "person_date": "", 
+                "role_display_name": "Client:", 
+                "person_id": "18535891", 
+                "person_url": "https://collection.cooperhewitt.org/people/18535891/"
+            }, 
+            {
+                "person_name": "Paul Rand", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "American, 1914–1996", 
+                "role_display_name": "Designed by", 
+                "person_id": "18042341", 
+                "person_url": "https://collection.cooperhewitt.org/people/18042341/"
+            }, 
+            {
+                "person_name": "Ken Friedman", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35351535/", 
+                "role_id": "35351535", 
+                "role_name": "Donor", 
+                "person_date": "", 
+                "role_display_name": "Donated by", 
+                "person_id": "18049807", 
+                "person_url": "https://collection.cooperhewitt.org/people/18049807/"
+            }
+        ], 
+        "decade": "1970", 
+        "label_text": null, 
+        "woe:country": null, 
+        "dimensions_raw": {
+            "width": [
+                "71.10", 
+                "centimeters"
+            ], 
+            "height": [
+                "106.70", 
+                "centimeters"
+            ]
+        }, 
+        "department_id": "35347493", 
+        "title_raw": "Minute Man National Historic Park", 
+        "justification": null, 
+        "media_id": "35431673", 
+        "description": "Poster composed of three equal horizontal registers comprised of the letters of the word \"Minuteman.\" Across the top: M I N; at center: U T E; at bottom: M A N. The M at upper left contains a black and white photographic reproduction of the face of the Minuteman commerative public sculpture of the same name.Each letter is is given a color as follows: I - yellow; N - scarlet red; U - red; T - brown; E - green; M - blue; A - red orange; N - forest green.", 
+        "creditline": "Gift of Ken Friedman", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "1974", 
+        "url": "https://collection.cooperhewitt.org/objects/18673505/", 
+        "type": "poster", 
+        "accession_number": "1997-19-244", 
+        "year_end": 1974, 
+        "signed": "In black marker lower left center: Paul Rand '74", 
+        "inscribed": "Imprinted in black on the green E at right center: Minute Man National Historical Park / National Park Service / U.S. Department of the Interior\nImprinted in black lower left across edge: For sale by the Superintendent of Documents, U.S. Government Printing Office, Washington, D.C. 2042-02/ Price $1.80/Stock No. 2405-00566/ [star] GPO: 1974 0-564-174", 
+        "period_id": null, 
+        "year_acquired": "1997", 
+        "woe:country_id": null
+    }
+}

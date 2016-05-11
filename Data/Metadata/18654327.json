@@ -1,0 +1,157 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": 1991, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": "lithograph on paper", 
+        "tms:id": "202124", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/82340_34649ba2f0c1012d_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "82340"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/82340_34649ba2f0c1012d_b.jpg", 
+                    "width": 686, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "82340"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/82340_34649ba2f0c1012d_d.gif", 
+                    "width": 214, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "82340"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/82340_34649ba2f0c1012d_z.jpg", 
+                    "width": 429, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "82340"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/82340_34649ba2f0c1012d_n.jpg", 
+                    "width": 214, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "82340"
+                }
+            }, 
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/267332_bcfeb6c49bb1df16_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "0", 
+                    "image_id": "267332"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/267332_bcfeb6c49bb1df16_b.jpg", 
+                    "width": 700, 
+                    "height": 1024, 
+                    "is_primary": "0", 
+                    "image_id": "267332"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/267332_bcfeb6c49bb1df16_d.gif", 
+                    "width": 219, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "267332"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/267332_bcfeb6c49bb1df16_z.jpg", 
+                    "width": 438, 
+                    "height": 640, 
+                    "is_primary": "0", 
+                    "image_id": "267332"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/267332_bcfeb6c49bb1df16_n.jpg", 
+                    "width": 219, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "267332"
+                }
+            }
+        ], 
+        "id": "18654327", 
+        "has_no_known_copyright": null, 
+        "woe:country_name": "United States", 
+        "dimensions": "90.7 x 61 cm (35 11/16 in. x 24 in.)", 
+        "title": "Poster, Neocon 23, 1991", 
+        "provenance": "1996: acquired by Museum", 
+        "participants": [
+            {
+                "person_name": "Tom Wedell", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "American, b. 1949", 
+                "role_display_name": "Designed by", 
+                "person_id": "68264031", 
+                "person_url": "https://collection.cooperhewitt.org/people/68264031/"
+            }, 
+            {
+                "person_name": "Nancy Skolos", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35351535/", 
+                "role_id": "35351535", 
+                "role_name": "Donor", 
+                "person_date": "American, b. 1955", 
+                "role_display_name": "Donated by", 
+                "person_id": "18041679", 
+                "person_url": "https://collection.cooperhewitt.org/people/18041679/"
+            }, 
+            {
+                "person_name": "Nancy Skolos", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "American, b. 1955", 
+                "role_display_name": "Designed by", 
+                "person_id": "18041679", 
+                "person_url": "https://collection.cooperhewitt.org/people/18041679/"
+            }
+        ], 
+        "decade": "1990", 
+        "label_text": null, 
+        "woe:country": "23424977", 
+        "dimensions_raw": {
+            "width": [
+                "61.00", 
+                "centimeters"
+            ], 
+            "height": [
+                "90.70", 
+                "centimeters"
+            ]
+        }, 
+        "department_id": "35347493", 
+        "title_raw": "Neocon 23", 
+        "justification": null, 
+        "media_id": "35419317", 
+        "description": "Colorful poster depicting a bright red and white building with green and black details, sky blue background and tan abstract shape behind. On building, white yellow text reads: JUNE 11 – 14, 1991 /NEOCON / 23. Below building: THE MERCHANDISE MART . CHICAGO. Lower section covered in gray-blue and white grid pattern.", 
+        "creditline": "Gift of Nancy Skolos", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "1991", 
+        "url": "https://collection.cooperhewitt.org/objects/18654327/", 
+        "type": "poster", 
+        "accession_number": "1996-90-24", 
+        "year_end": 1991, 
+        "signed": null, 
+        "inscribed": null, 
+        "period_id": null, 
+        "year_acquired": "1996", 
+        "woe:country_id": "23424977"
+    }
+}

@@ -1,0 +1,119 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": 1973, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": "offset lithograph on wove paper", 
+        "tms:id": "255489", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/38550_17e072b17e20d34b_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "38550"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/38550_17e072b17e20d34b_b.jpg", 
+                    "width": 714, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "38550"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/38550_17e072b17e20d34b_d.gif", 
+                    "width": 223, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "38550"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/38550_17e072b17e20d34b_z.jpg", 
+                    "width": 446, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "38550"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/38550_17e072b17e20d34b_n.jpg", 
+                    "width": 223, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "38550"
+                }
+            }
+        ], 
+        "id": "18758407", 
+        "has_no_known_copyright": null, 
+        "dimensions": "83.8 × 58.1 cm (33 in. × 22 7/8 in.)", 
+        "title": "Poster, Kabaret, 1973", 
+        "provenance": "Acquired from dealers, galleries and auction houses by Marc Benda.  Remained with Benda until 2010, when gifted to CHNDM.", 
+        "participants": [
+            {
+                "person_name": "Wiktor Górka", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "Polish, 1922 - 2004", 
+                "role_display_name": "Designed by", 
+                "person_id": "18063563", 
+                "person_url": "https://collection.cooperhewitt.org/people/18063563/"
+            }, 
+            {
+                "person_name": "Marc Benda", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35351535/", 
+                "role_id": "35351535", 
+                "role_name": "Donor", 
+                "person_date": "", 
+                "role_display_name": "Donated by", 
+                "person_id": "18062523", 
+                "person_url": "https://collection.cooperhewitt.org/people/18062523/"
+            }, 
+            {
+                "person_name": "Sara Benda", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35351535/", 
+                "role_id": "35351535", 
+                "role_name": "Donor", 
+                "person_date": "", 
+                "role_display_name": "Donated by", 
+                "person_id": "18063205", 
+                "person_url": "https://collection.cooperhewitt.org/people/18063205/"
+            }
+        ], 
+        "decade": "1970", 
+        "label_text": "Górka, a leading participant in the Polish School of Poster Art, was a master of visual metaphor. Bob Fosse’s 1972 film, Cabaret, is set in a German nightclub during Hitler’s rise. In Górka’s visual pun, a strange cast of body parts converges to create a single disturbing image.", 
+        "woe:country": null, 
+        "dimensions_raw": {
+            "width": [
+                "58.00", 
+                "centimeters"
+            ], 
+            "height": [
+                "83.70", 
+                "centimeters"
+            ]
+        }, 
+        "department_id": "35347493", 
+        "title_raw": "Kabaret", 
+        "justification": null, 
+        "media_id": "35431963", 
+        "description": "On a scarlet-red field, is the image of four women's legs in black stockings and high heels, arranged in a Swastika, with a face of a heavily made-up screaming androgynous character in the center. The inscriptions are: on the black strip at the top, in white- \"KABARET\". On the red main field: at left- \"Producja: Feurer and Martin\", at right-\"Amerycanski musical filmowy / nagrodzony 7 Oscarami\", and at center- \"Rezyseria / BOB FOSSE / W glownych rolach / LIZA MINELLI / Michael York / Joel Grey\".", 
+        "creditline": "Gift of Sara and Marc Benda", 
+        "on_display": null, 
+        "markings": "printed in black ink: Rze. / 084 / 73", 
+        "is_loan_object": 0, 
+        "date": "1973", 
+        "url": "https://collection.cooperhewitt.org/objects/18758407/", 
+        "type": "poster", 
+        "accession_number": "2010-21-100", 
+        "year_end": 1973, 
+        "signed": null, 
+        "inscribed": null, 
+        "period_id": null, 
+        "year_acquired": "2010", 
+        "woe:country_id": null
+    }
+}

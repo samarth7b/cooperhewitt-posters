@@ -1,0 +1,119 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": 1968, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": "offset lithograph", 
+        "tms:id": "211517", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/182314_55ca884507934cdd_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "182314"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/182314_55ca884507934cdd_b.jpg", 
+                    "width": 1024, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "182314"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/182314_55ca884507934cdd_d.gif", 
+                    "width": 320, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "182314"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/182314_55ca884507934cdd_z.jpg", 
+                    "width": 640, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "182314"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/182314_55ca884507934cdd_n.jpg", 
+                    "width": 320, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "182314"
+                }
+            }
+        ], 
+        "id": "18672149", 
+        "has_no_known_copyright": null, 
+        "dimensions": "57.8 x 57.5 cm (22 3/4 x 22 5/8 in. )", 
+        "title": "Poster, Exhibition Poster: Sol Lewitt,  Galerie Heiner Friedrich, Munich, 1968", 
+        "provenance": null, 
+        "participants": [
+            {
+                "person_name": "General Acquisitions Endowment", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35352247/", 
+                "role_id": "35352247", 
+                "role_name": "Fund", 
+                "person_date": "", 
+                "role_display_name": "Fund:", 
+                "person_id": "18048535", 
+                "person_url": "https://collection.cooperhewitt.org/people/18048535/"
+            }, 
+            {
+                "person_name": "Sol Lewitt", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236565/", 
+                "role_id": "35236565", 
+                "role_name": "Artist", 
+                "person_date": "American, 1928 – 2007", 
+                "role_display_name": "", 
+                "person_id": "18051545", 
+                "person_url": "https://collection.cooperhewitt.org/people/18051545/"
+            }, 
+            {
+                "person_name": "Lawrence Markey, Inc.", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35352249/", 
+                "role_id": "35352249", 
+                "role_name": "Vendor", 
+                "person_date": "", 
+                "role_display_name": "Purchased from", 
+                "person_id": "18051405", 
+                "person_url": "https://collection.cooperhewitt.org/people/18051405/"
+            }
+        ], 
+        "decade": "1960", 
+        "label_text": null, 
+        "woe:country": null, 
+        "dimensions_raw": {
+            "width": [
+                "57.50", 
+                "centimeters"
+            ], 
+            "height": [
+                "57.80", 
+                "centimeters"
+            ]
+        }, 
+        "department_id": "35347493", 
+        "title_raw": "Exhibition Poster: Sol Lewitt,  Galerie Heiner Friedrich, Munich", 
+        "justification": null, 
+        "media_id": "35399027", 
+        "description": "Art exhibition poster with large grid showing nine geometric drawings in three rows of three.  The nine drawings are 3-D variations of a cube, rectangular shape, and a plane, with an expanding void space.  Text below with 9 sets of measurements for interior area and exterior dimension of each shape.  Drawing 1 is square plane with a square hole cut out of its center; Drawing 9 is transparent cube with columnar square void connecting its top plane with its bottom one.", 
+        "creditline": "Museum purchase from General Acquisitions Endowment and Smithsonian Institution Collections Acquisition Program Funds", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "1968", 
+        "url": "https://collection.cooperhewitt.org/objects/18672149/", 
+        "type": "poster", 
+        "accession_number": "1999-45-15", 
+        "year_end": 1968, 
+        "signed": "Imprinted (as if handwritten) in black, lower right corner: \"Sol LeWitt/ 1967/ for Geertian Visser/ Mia Martin Visser\".", 
+        "inscribed": "Imprinted in black, upper edge: \"SOL LEWITT ERÖFFNUNG 13.2.68 19 UHR - 13.2 - 8.3.68 DI. - SA. 10 - 19 UHR\".  Imprinted in black, left edge: \"GALERIE HEINER FRIEDRICH MÜNCHEN MAXIMILIANSTR. 15 TEL. 29 50 21\".", 
+        "period_id": null, 
+        "year_acquired": "1999", 
+        "woe:country_id": null
+    }
+}

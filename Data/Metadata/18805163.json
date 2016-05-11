@@ -1,0 +1,101 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": null, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": null, 
+        "tms:id": "182869", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/267336_711b0b237f49221e_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "267336"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/267336_711b0b237f49221e_b.jpg", 
+                    "width": 668, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "267336"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/267336_711b0b237f49221e_d.gif", 
+                    "width": 209, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "267336"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/267336_711b0b237f49221e_z.jpg", 
+                    "width": 418, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "267336"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/267336_711b0b237f49221e_n.jpg", 
+                    "width": 209, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "267336"
+                }
+            }
+        ], 
+        "id": "18805163", 
+        "has_no_known_copyright": null, 
+        "woe:country_name": "United States", 
+        "dimensions": null, 
+        "title": "Poster (USA)", 
+        "provenance": null, 
+        "participants": [
+            {
+                "person_name": "Bergdorf Goodman", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35351535/", 
+                "role_id": "35351535", 
+                "role_name": "Donor", 
+                "person_date": "American, founded 1899", 
+                "role_display_name": "Donated by", 
+                "person_id": "18052593", 
+                "person_url": "https://collection.cooperhewitt.org/people/18052593/"
+            }, 
+            {
+                "person_name": "George Stavrinos", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236601/", 
+                "role_id": "35236601", 
+                "role_name": "Illustrator", 
+                "person_date": "American, l948 – 1990", 
+                "role_display_name": "Illustrated by", 
+                "person_id": "18052543", 
+                "person_url": "https://collection.cooperhewitt.org/people/18052543/"
+            }
+        ], 
+        "decade": null, 
+        "label_text": null, 
+        "woe:country": "23424977", 
+        "dimensions_raw": null, 
+        "department_id": "35347493", 
+        "title_raw": null, 
+        "justification": null, 
+        "media_id": "35371135", 
+        "description": null, 
+        "creditline": "Gift of Bergdorf Goodman", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": null, 
+        "url": "https://collection.cooperhewitt.org/objects/18805163/", 
+        "type": "poster", 
+        "accession_number": "1985-34-1", 
+        "year_end": null, 
+        "signed": null, 
+        "inscribed": null, 
+        "period_id": null, 
+        "year_acquired": "1985", 
+        "woe:country_id": "23424977"
+    }
+}

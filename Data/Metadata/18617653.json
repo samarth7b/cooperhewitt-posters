@@ -1,0 +1,137 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": 1972, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": "offset lithograph on paper", 
+        "tms:id": "177359", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/65148_67b9efea9c9f451b_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "65148"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/65148_67b9efea9c9f451b_b.jpg", 
+                    "width": 464, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "65148"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/65148_67b9efea9c9f451b_d.gif", 
+                    "width": 145, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "65148"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/65148_67b9efea9c9f451b_z.jpg", 
+                    "width": 290, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "65148"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/65148_67b9efea9c9f451b_n.jpg", 
+                    "width": 145, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "65148"
+                }
+            }, 
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/267763_f34f734bd21b0dd6_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "0", 
+                    "image_id": "267763"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/267763_f34f734bd21b0dd6_b.jpg", 
+                    "width": 488, 
+                    "height": 1024, 
+                    "is_primary": "0", 
+                    "image_id": "267763"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/267763_f34f734bd21b0dd6_d.gif", 
+                    "width": 153, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "267763"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/267763_f34f734bd21b0dd6_z.jpg", 
+                    "width": 305, 
+                    "height": 640, 
+                    "is_primary": "0", 
+                    "image_id": "267763"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/267763_f34f734bd21b0dd6_n.jpg", 
+                    "width": 153, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "267763"
+                }
+            }
+        ], 
+        "id": "18617653", 
+        "has_no_known_copyright": null, 
+        "woe:country_name": "United States", 
+        "dimensions": "H x W: 78.9 x 35.6 cm (31 1/16 in. x 14 in.)", 
+        "title": "Poster, Understanding Taxes, ca. 1977", 
+        "provenance": "1981: acquired by Museum", 
+        "participants": [
+            {
+                "person_name": "Internal Revenue Service", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236667/", 
+                "role_id": "35236667", 
+                "role_name": "Client", 
+                "person_date": "", 
+                "role_display_name": "Client:", 
+                "person_id": "18535837", 
+                "person_url": "https://collection.cooperhewitt.org/people/18535837/"
+            }
+        ], 
+        "decade": "1970", 
+        "label_text": null, 
+        "woe:country": "23424977", 
+        "dimensions_raw": {
+            "width": [
+                "35.60", 
+                "centimeters"
+            ], 
+            "height": [
+                "78.90", 
+                "centimeters"
+            ]
+        }, 
+        "department_id": "35347493", 
+        "title_raw": "Understanding Taxes", 
+        "justification": null, 
+        "media_id": "35399021", 
+        "description": "Poster depicts several objects repeated three or four times: paint brush, image of a hamburger, a one-dollar coin, Model T, signage, baby carriage, among others. Three male figures sit cross-legged and their yellow sweaters read: TAX; above in red stitched letters: UNDERSTANDING / TAXES. In the background a partial face of a man holding a newspaper that reads: HELP WANTED.", 
+        "creditline": "Gift of Various Donors", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "ca. 1977", 
+        "url": "https://collection.cooperhewitt.org/objects/18617653/", 
+        "type": "poster", 
+        "accession_number": "1981-29-277", 
+        "year_end": 1982, 
+        "signed": null, 
+        "inscribed": "Printed in lower margin: Department of the Treasury Internal Revenue Service Publication 1042 (10-77)", 
+        "period_id": null, 
+        "year_acquired": "1981", 
+        "woe:country_id": "23424977"
+    }
+}

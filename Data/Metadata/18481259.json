@@ -1,0 +1,137 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": 1963, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": "offset lithograph on paper", 
+        "tms:id": "151483", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/50018_69fb2ea210df75a3_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "50018"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/50018_69fb2ea210df75a3_b.jpg", 
+                    "width": 691, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "50018"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/50018_69fb2ea210df75a3_d.gif", 
+                    "width": 216, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "50018"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/50018_69fb2ea210df75a3_z.jpg", 
+                    "width": 432, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "50018"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/50018_69fb2ea210df75a3_n.jpg", 
+                    "width": 216, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "50018"
+                }
+            }, 
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/255556_58713c3601a25ba7_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "0", 
+                    "image_id": "255556"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/255556_58713c3601a25ba7_b.jpg", 
+                    "width": 677, 
+                    "height": 1024, 
+                    "is_primary": "0", 
+                    "image_id": "255556"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/255556_58713c3601a25ba7_d.gif", 
+                    "width": 212, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "255556"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/255556_58713c3601a25ba7_z.jpg", 
+                    "width": 423, 
+                    "height": 640, 
+                    "is_primary": "0", 
+                    "image_id": "255556"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/255556_58713c3601a25ba7_n.jpg", 
+                    "width": 212, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "255556"
+                }
+            }
+        ], 
+        "id": "18481259", 
+        "has_no_known_copyright": null, 
+        "woe:country_name": "United States", 
+        "dimensions": "H x W: 108.6 x 71.3 cm (42 3/4 x 28 1/16 in.)", 
+        "title": "Poster, National Collection of Fine Arts, Smithsonian Institution, Washington, D.C., ca. 1968", 
+        "provenance": "1973: acquired by Museum", 
+        "participants": [
+            {
+                "person_name": "Chryssa", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "Greek-American", 
+                "role_display_name": "Designed by", 
+                "person_id": "18535521", 
+                "person_url": "https://collection.cooperhewitt.org/people/18535521/"
+            }
+        ], 
+        "decade": "1960", 
+        "label_text": null, 
+        "woe:country": "23424977", 
+        "dimensions_raw": {
+            "width": [
+                "71.30", 
+                "centimeters"
+            ], 
+            "height": [
+                "108.60", 
+                "centimeters"
+            ]
+        }, 
+        "department_id": "35347493", 
+        "title_raw": "National Collection of Fine Arts, Smithsonian Institution, Washington, D.C.", 
+        "justification": null, 
+        "media_id": "35399021", 
+        "description": "Poster shows orange and gray rectangular block-like designs. Text in white, lower margin: NATIONAL COLLECTION OF FINE ARTS; text in black, below white text: Smithsonian Institution, Washington, D.C. Opening May, 1968", 
+        "creditline": null, 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "ca. 1968", 
+        "url": "https://collection.cooperhewitt.org/objects/18481259/", 
+        "type": "poster", 
+        "accession_number": "1973-39-433", 
+        "year_end": 1973, 
+        "signed": "Signed in   , lower right: Chryssa", 
+        "inscribed": "Inscribed in black, lower right: NCFA", 
+        "period_id": null, 
+        "year_acquired": "1973", 
+        "woe:country_id": "23424977"
+    }
+}

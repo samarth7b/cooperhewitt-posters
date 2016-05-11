@@ -1,0 +1,120 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": 1989, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": "offset lithograph on paper", 
+        "tms:id": "194507", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/267533_7b780663d2b27eb3_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "267533"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/267533_7b780663d2b27eb3_b.jpg", 
+                    "width": 739, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "267533"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/267533_7b780663d2b27eb3_d.gif", 
+                    "width": 231, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "267533"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/267533_7b780663d2b27eb3_z.jpg", 
+                    "width": 462, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "267533"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/267533_7b780663d2b27eb3_n.jpg", 
+                    "width": 231, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "267533"
+                }
+            }
+        ], 
+        "id": "18639287", 
+        "has_no_known_copyright": null, 
+        "woe:country_name": "Japan", 
+        "dimensions": "103 x 73 cm (40 9/16 x 28 3/4 in.)", 
+        "title": "Poster, Peace '89, 1989", 
+        "provenance": "Shin Matsunaga; 1991: acquired by Museum", 
+        "participants": [
+            {
+                "person_name": "Kyodo Printing Co., Ltd.", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236673/", 
+                "role_id": "35236673", 
+                "role_name": "Printer", 
+                "person_date": "", 
+                "role_display_name": "Printed by", 
+                "person_id": "68264003", 
+                "person_url": "https://collection.cooperhewitt.org/people/68264003/"
+            }, 
+            {
+                "person_name": "Shin Matsunaga", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35351535/", 
+                "role_id": "35351535", 
+                "role_name": "Donor", 
+                "person_date": "b. 1940", 
+                "role_display_name": "Donated by", 
+                "person_id": "18041215", 
+                "person_url": "https://collection.cooperhewitt.org/people/18041215/"
+            }, 
+            {
+                "person_name": "Shin Matsunaga Design Inc.", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "b.  1940", 
+                "role_display_name": "Designed by", 
+                "person_id": "18048545", 
+                "person_url": "https://collection.cooperhewitt.org/people/18048545/"
+            }
+        ], 
+        "decade": "1980", 
+        "label_text": null, 
+        "woe:country": "23424856", 
+        "dimensions_raw": {
+            "width": [
+                "73.00", 
+                "centimeters"
+            ], 
+            "height": [
+                "103.00", 
+                "centimeters"
+            ]
+        }, 
+        "department_id": "35347493", 
+        "title_raw": "Peace '89", 
+        "justification": null, 
+        "media_id": "35399021", 
+        "description": "At upper center: The earth, belonging to nobody; lower center: PEACE / Joining “HIROSHIMA APPEALS 1989.”Blue and white earth encircled by a blue ring and a white ring on a black background.", 
+        "creditline": "Gift of Shin Matsunaga", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "1989", 
+        "url": "https://collection.cooperhewitt.org/objects/18639287/", 
+        "type": "poster", 
+        "accession_number": "1992-144-9", 
+        "year_end": 1989, 
+        "signed": null, 
+        "inscribed": "Imprinted: Design by Shin Matsunaga / Printed in Japan by Kyodo Printing Co., Ltd.", 
+        "period_id": null, 
+        "year_acquired": "1992", 
+        "woe:country_id": "23424856"
+    }
+}

@@ -1,0 +1,147 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": 1972, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": "screenprint on paper", 
+        "tms:id": "212381", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/64115_a25fdd95d6193a9c_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "64115"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/64115_a25fdd95d6193a9c_b.jpg", 
+                    "width": 787, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "64115"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/64115_a25fdd95d6193a9c_d.gif", 
+                    "width": 246, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "64115"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/64115_a25fdd95d6193a9c_z.jpg", 
+                    "width": 492, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "64115"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/64115_a25fdd95d6193a9c_n.jpg", 
+                    "width": 246, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "64115"
+                }
+            }, 
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/203775_7870eb92cdcecc44_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "0", 
+                    "image_id": "203775"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/203775_7870eb92cdcecc44_b.jpg", 
+                    "width": 800, 
+                    "height": 1024, 
+                    "is_primary": "0", 
+                    "image_id": "203775"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/203775_7870eb92cdcecc44_d.gif", 
+                    "width": 250, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "203775"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/203775_7870eb92cdcecc44_z.jpg", 
+                    "width": 500, 
+                    "height": 640, 
+                    "is_primary": "0", 
+                    "image_id": "203775"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/203775_7870eb92cdcecc44_n.jpg", 
+                    "width": 250, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "203775"
+                }
+            }
+        ], 
+        "id": "18673877", 
+        "has_no_known_copyright": null, 
+        "woe:country_name": "United States", 
+        "dimensions": "66.2 x 51 cm (26 1/16 x 20 1/16 in.)", 
+        "title": "Poster, Yale Symphony Orchestra, 1972", 
+        "provenance": "Dan Friedman; Ken Friedman; 1997: acquired by Museum", 
+        "participants": [
+            {
+                "person_name": "Ken Friedman", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35351535/", 
+                "role_id": "35351535", 
+                "role_name": "Donor", 
+                "person_date": "", 
+                "role_display_name": "Donated by", 
+                "person_id": "18049807", 
+                "person_url": "https://collection.cooperhewitt.org/people/18049807/"
+            }, 
+            {
+                "person_name": "Dan Friedman", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "American, 1945–1995", 
+                "role_display_name": "Designed by", 
+                "person_id": "18041325", 
+                "person_url": "https://collection.cooperhewitt.org/people/18041325/"
+            }
+        ], 
+        "decade": "1970", 
+        "label_text": null, 
+        "woe:country": "23424977", 
+        "dimensions_raw": {
+            "width": [
+                "51.00", 
+                "centimeters"
+            ], 
+            "height": [
+                "66.20", 
+                "centimeters"
+            ]
+        }, 
+        "department_id": "35347493", 
+        "title_raw": "Yale Symphony Orchestra", 
+        "justification": null, 
+        "media_id": "35431679", 
+        "description": "Poster in orange, white and black. At center a square in orange containing a black silhouette of a crowned sphinx, drops of “ink” around it. Benday dots in orange in on ground along with orange band above. In white, upper right: Yale Symphony Orchestra / John Mauceri, Director / Friday December 8, 1972 / 8:30 Woolsey Hall / Admission Free. Lower section: TCHAIKOVSKY / PIANO CONCERTO NO. 3 / STRAVINSKY-TCHAIKOVSKY / THE FAIRY’S KISS / STRAVINSKY / OEDIPUS REX. Right: Geoffrey Menin / Pianist. Below: opera-oratorio / by I. Stravinsky / and J. Cocteau. List of musicians lower section on a ground of orange and white dots. Verso is colored orange.", 
+        "creditline": "Gift of Ken Friedman", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "1972", 
+        "url": "https://collection.cooperhewitt.org/objects/18673877/", 
+        "type": "poster", 
+        "accession_number": "1997-19-428", 
+        "year_end": 1972, 
+        "signed": null, 
+        "inscribed": null, 
+        "period_id": null, 
+        "year_acquired": "1997", 
+        "woe:country_id": "23424977"
+    }
+}

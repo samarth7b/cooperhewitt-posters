@@ -1,0 +1,157 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": 1970, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": "offset lithograph on paper", 
+        "tms:id": "193529", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/64092_9ffe9727db19b9df_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "64092"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/64092_9ffe9727db19b9df_b.jpg", 
+                    "width": 728, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "64092"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/64092_9ffe9727db19b9df_d.gif", 
+                    "width": 228, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "64092"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/64092_9ffe9727db19b9df_z.jpg", 
+                    "width": 455, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "64092"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/64092_9ffe9727db19b9df_n.jpg", 
+                    "width": 228, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "64092"
+                }
+            }, 
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/202898_5fbeab8df5dbfb9d_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "0", 
+                    "image_id": "202898"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/202898_5fbeab8df5dbfb9d_b.jpg", 
+                    "width": 752, 
+                    "height": 1024, 
+                    "is_primary": "0", 
+                    "image_id": "202898"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/202898_5fbeab8df5dbfb9d_d.gif", 
+                    "width": 235, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "202898"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/202898_5fbeab8df5dbfb9d_z.jpg", 
+                    "width": 470, 
+                    "height": 640, 
+                    "is_primary": "0", 
+                    "image_id": "202898"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/202898_5fbeab8df5dbfb9d_n.jpg", 
+                    "width": 235, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "202898"
+                }
+            }
+        ], 
+        "id": "18637355", 
+        "has_no_known_copyright": null, 
+        "woe:country_name": "United States", 
+        "dimensions": "63.1 x 45.6 cm (24 13/16 x 17 15/16 in.)", 
+        "title": "Poster, Celebrate 10: Designers Row, 20th century", 
+        "provenance": "1991: acquired by Museum", 
+        "participants": [
+            {
+                "person_name": "Michael Vanderbyl", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35351535/", 
+                "role_id": "35351535", 
+                "role_name": "Donor", 
+                "person_date": "American, b. 1947", 
+                "role_display_name": "Donated by", 
+                "person_id": "18042355", 
+                "person_url": "https://collection.cooperhewitt.org/people/18042355/"
+            }, 
+            {
+                "person_name": "CGC", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35352245/", 
+                "role_id": "35352245", 
+                "role_name": "Cataloguer", 
+                "person_date": "", 
+                "role_display_name": "Catalogued by", 
+                "person_id": "18048417", 
+                "person_url": "https://collection.cooperhewitt.org/people/18048417/"
+            }, 
+            {
+                "person_name": "Michael Vanderbyl", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "American, b. 1947", 
+                "role_display_name": "Designed by", 
+                "person_id": "18042355", 
+                "person_url": "https://collection.cooperhewitt.org/people/18042355/"
+            }
+        ], 
+        "decade": "1970", 
+        "label_text": null, 
+        "woe:country": "23424977", 
+        "dimensions_raw": {
+            "width": [
+                "45.60", 
+                "centimeters"
+            ], 
+            "height": [
+                "63.10", 
+                "centimeters"
+            ]
+        }, 
+        "department_id": "35347493", 
+        "title_raw": "Celebrate 10: Designers Row", 
+        "justification": null, 
+        "media_id": "35399021", 
+        "description": "On red ground, gray text across poster: Celebrate 10; above, in white: Designers Row / invites you to / Celebrate / The Icehouse’s / Tremendous / 10th Anniversary; Sat., Jan 21 / 5-8 p.m. / on all floors / of The Icehouse…Confetti Gala...Fabulous Festivities!...Ice Sculpture Scoop!...Lower two-thirds is cut into vertical strips.", 
+        "creditline": "Gift of Michael Vanderbyl", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "20th century", 
+        "url": "https://collection.cooperhewitt.org/objects/18637355/", 
+        "type": "poster", 
+        "accession_number": "1991-69-78", 
+        "year_end": 1981, 
+        "signed": null, 
+        "inscribed": "Imprinted in white ink, lower right: Design/Michael Vanderbyl; on verso, lower left: Saturday on/ Designers Row/ January 21...Important: Follow/instructions to create/your collectors'item/poster/sculpture.", 
+        "period_id": null, 
+        "year_acquired": "1991", 
+        "woe:country_id": "23424977"
+    }
+}

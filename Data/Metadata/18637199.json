@@ -1,0 +1,120 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": null, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": "screenprint\nsupport: grey paper", 
+        "tms:id": "193451", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/266818_32469683909a5dea_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "266818"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/266818_32469683909a5dea_b.jpg", 
+                    "width": 695, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "266818"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/266818_32469683909a5dea_d.gif", 
+                    "width": 217, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "266818"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/266818_32469683909a5dea_z.jpg", 
+                    "width": 434, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "266818"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/266818_32469683909a5dea_n.jpg", 
+                    "width": 217, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "266818"
+                }
+            }
+        ], 
+        "id": "18637199", 
+        "has_no_known_copyright": null, 
+        "woe:country_name": "United States", 
+        "dimensions": "91.5 x 60.9 cm (36 x 24 in.)", 
+        "title": "Poster, 76 Jefferson", 
+        "provenance": null, 
+        "participants": [
+            {
+                "person_name": "Arnold Saks", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35351535/", 
+                "role_id": "35351535", 
+                "role_name": "Donor", 
+                "person_date": "1931", 
+                "role_display_name": "Donated by", 
+                "person_id": "18042309", 
+                "person_url": "https://collection.cooperhewitt.org/people/18042309/"
+            }, 
+            {
+                "person_name": "CGC", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35352245/", 
+                "role_id": "35352245", 
+                "role_name": "Cataloguer", 
+                "person_date": "", 
+                "role_display_name": "Catalogued by", 
+                "person_id": "18048417", 
+                "person_url": "https://collection.cooperhewitt.org/people/18048417/"
+            }, 
+            {
+                "person_name": "Arnold Saks", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "1931", 
+                "role_display_name": "Designed by", 
+                "person_id": "18042309", 
+                "person_url": "https://collection.cooperhewitt.org/people/18042309/"
+            }
+        ], 
+        "decade": null, 
+        "label_text": null, 
+        "woe:country": "23424977", 
+        "dimensions_raw": {
+            "width": [
+                "60.90", 
+                "centimeters"
+            ], 
+            "height": [
+                "91.50", 
+                "centimeters"
+            ]
+        }, 
+        "department_id": "35347493", 
+        "title_raw": "76 Jefferson", 
+        "justification": null, 
+        "media_id": "136271009", 
+        "description": null, 
+        "creditline": "Gift of Arnold Saks", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": null, 
+        "url": "https://collection.cooperhewitt.org/objects/18637199/", 
+        "type": "poster", 
+        "accession_number": "1991-69-121", 
+        "year_end": null, 
+        "signed": null, 
+        "inscribed": "Imprinted in black ink across UC: 76 Jefferson: Work by artists who lived at 76 Jefferson Street[...] artistic activity of the 60s and 70s evolved./ Fall Penthouse exhibition, September 11 through December 1,/Art Lending Service, 6th Floor, The Museum of Modern Art./Exhibition made possible by agrant from Harvey's Bristol Cream. Imprinted in brown ink at UR: Jefferson;across C in green, blue, brown, and white ink: 76; in black ink at lower margin:Design:Arnold Saks Associates. by a grant from Harveys Bristol Cream; in brown ink at upper right: Jefferson; across center and lower center in green, blue, brown, and white ink:76; in black ink at lower margin: Design:Arnold Saks Associates.", 
+        "period_id": null, 
+        "year_acquired": "1991", 
+        "woe:country_id": "23424977"
+    }
+}

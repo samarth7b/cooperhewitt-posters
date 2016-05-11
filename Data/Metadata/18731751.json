@@ -1,0 +1,129 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": 1972, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": "screenprint on wove paper", 
+        "tms:id": "241973", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/46863_7465bb38879d3017_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "46863"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/46863_7465bb38879d3017_b.jpg", 
+                    "width": 793, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "46863"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/46863_7465bb38879d3017_d.gif", 
+                    "width": 248, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "46863"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/46863_7465bb38879d3017_z.jpg", 
+                    "width": 495, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "46863"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/46863_7465bb38879d3017_n.jpg", 
+                    "width": 248, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "46863"
+                }
+            }
+        ], 
+        "id": "18731751", 
+        "has_no_known_copyright": null, 
+        "dimensions": "64.8 × 50.2 cm (25 1/2 × 19 3/4 in.)", 
+        "title": "Poster, Préparation du Repas (Meal Preparation), 1972", 
+        "provenance": null, 
+        "participants": [
+            {
+                "person_name": "Sara Benda", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35351535/", 
+                "role_id": "35351535", 
+                "role_name": "Donor", 
+                "person_date": "", 
+                "role_display_name": "Donated by", 
+                "person_id": "18063205", 
+                "person_url": "https://collection.cooperhewitt.org/people/18063205/"
+            }, 
+            {
+                "person_name": "Marc Benda", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35351535/", 
+                "role_id": "35351535", 
+                "role_name": "Donor", 
+                "person_date": "", 
+                "role_display_name": "Donated by", 
+                "person_id": "18062523", 
+                "person_url": "https://collection.cooperhewitt.org/people/18062523/"
+            }, 
+            {
+                "person_name": "Centre de création industrielle", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236667/", 
+                "role_id": "35236667", 
+                "role_name": "Client", 
+                "person_date": "Paris, France", 
+                "role_display_name": "Client:", 
+                "person_id": "68775053", 
+                "person_url": "https://collection.cooperhewitt.org/people/68775053/"
+            }, 
+            {
+                "person_name": "Jean Widmer", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "Swiss, active France, b. 1929", 
+                "role_display_name": "Designed by", 
+                "person_id": "68738367", 
+                "person_url": "https://collection.cooperhewitt.org/people/68738367/"
+            }
+        ], 
+        "decade": "1970", 
+        "label_text": "Widmer, a Swiss-born designer, trained at the Kunstgewerbeschule in Zürich and launched his career in France in 1953. He founded Visuel Design in 1970 with his wife, Nicole. His exhibition posters for the Centre de création industrielle pair Helvetica typography with abstracted graphic forms depicting industrial design objects. Gradients and soft edges bring warmth and humor to these modernist masterworks.", 
+        "woe:country": null, 
+        "dimensions_raw": {
+            "width": [
+                "50.00", 
+                "centimeters"
+            ], 
+            "height": [
+                "64.40", 
+                "centimeters"
+            ]
+        }, 
+        "department_id": "35347493", 
+        "title_raw": "Préparation du Repas (Meal Preparation)", 
+        "justification": null, 
+        "media_id": "35399029", 
+        "description": "Text across top in black: \"preparation du repas\" on a pink background that fades out at the bottom of the poster. Minimalist outline of a spoon or ladle in tan, dropping pink liquid onto bottom area of poster.", 
+        "creditline": "Gift of Sara and Marc Benda", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "1972", 
+        "url": "https://collection.cooperhewitt.org/objects/18731751/", 
+        "type": "poster", 
+        "accession_number": "2009-12-22", 
+        "year_end": 1972, 
+        "signed": null, 
+        "inscribed": "21/200", 
+        "period_id": null, 
+        "year_acquired": "2009", 
+        "woe:country_id": null
+    }
+}

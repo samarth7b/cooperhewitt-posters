@@ -1,0 +1,119 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": 1990, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": "offset lithography", 
+        "tms:id": "198685", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/256691_4d79da66105414e2_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "256691"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/256691_4d79da66105414e2_b.jpg", 
+                    "width": 724, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "256691"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/256691_4d79da66105414e2_d.gif", 
+                    "width": 226, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "256691"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/256691_4d79da66105414e2_z.jpg", 
+                    "width": 453, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "256691"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/256691_4d79da66105414e2_n.jpg", 
+                    "width": 226, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "256691"
+                }
+            }
+        ], 
+        "id": "18647559", 
+        "has_no_known_copyright": null, 
+        "dimensions": "83.8 x 59.2 cm (33 x 23 5/16 in. )", 
+        "title": "Poster, Akademie der Künste: Raymond Loewy, 1990", 
+        "provenance": null, 
+        "participants": [
+            {
+                "person_name": "Unknown donor: unsolicited gift", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35351535/", 
+                "role_id": "35351535", 
+                "role_name": "Donor", 
+                "person_date": "", 
+                "role_display_name": "Donated by", 
+                "person_id": "18050283", 
+                "person_url": "https://collection.cooperhewitt.org/people/18050283/"
+            }, 
+            {
+                "person_name": "Bernard Stein", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236733/", 
+                "role_id": "35236733", 
+                "role_name": "Co-Designer", 
+                "person_date": "", 
+                "role_display_name": "Co-Designer:", 
+                "person_id": "18042213", 
+                "person_url": "https://collection.cooperhewitt.org/people/18042213/"
+            }, 
+            {
+                "person_name": "Nicolaus Ott", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236733/", 
+                "role_id": "35236733", 
+                "role_name": "Co-Designer", 
+                "person_date": "b. 1949", 
+                "role_display_name": "Co-Designer:", 
+                "person_id": "18042211", 
+                "person_url": "https://collection.cooperhewitt.org/people/18042211/"
+            }
+        ], 
+        "decade": "1990", 
+        "label_text": null, 
+        "woe:country": null, 
+        "dimensions_raw": {
+            "width": [
+                "59.20", 
+                "centimeters"
+            ], 
+            "height": [
+                "83.80", 
+                "centimeters"
+            ]
+        }, 
+        "department_id": "35347493", 
+        "title_raw": "Akademie der Künste: Raymond Loewy", 
+        "justification": null, 
+        "media_id": "35421913", 
+        "description": "Exhibition poster for work of Raymond Loewy at Akademie der Künste in Berlin.\nImprinted in gray, across top: \"LOWEY\".  Large reproduction of logo for Shell Corporation: image of stylized upside down shell in yellow with red outlines.  Text about exhibition and artist at lower left in two columns.  Imprinted in gray, center bottom: \"IDZ\".", 
+        "creditline": "Gift of Unknown Donor", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "1990", 
+        "url": "https://collection.cooperhewitt.org/objects/18647559/", 
+        "type": "poster", 
+        "accession_number": "1994-114-38", 
+        "year_end": 1990, 
+        "signed": "Imprinted in gray, center bottom edge: \"Nicolaus Ott + Bernard Stein\".", 
+        "inscribed": "Imprinted in gray, lower left: \"INTERNATIONALES/ DESIGFN/ ZENTRUM/ BERLIN E.V./ UNRTERSTÜTZT/ DURCH/ DAIMLER-BENZ AG/ DEUTSCHE/ LUFTHANSA AG/ LUCKY STRIKE/ STIFTUNG/ DEUTSCHE/ KLASSENLOTTERIE/ BERLIN\" (first column). \"RAYMOND LOEWY/ 1893-1986/ PIONIER DES/ AMERIKANISCHEN/ INDUSTRIE-DESIGN/ AKADEMIE/ DER KÜNSTE/ HANSEATENWEG 10/ BERLIN 21/ 17. MÄRZ BIS 22. APRIL 1990/ DI-SO-10-20 UHR/ MI EINTRITT/ FREI/ BUS 16/ U-HANSAPLATZ/ S-BELLEVUE\".", 
+        "period_id": null, 
+        "year_acquired": "1994", 
+        "woe:country_id": null
+    }
+}

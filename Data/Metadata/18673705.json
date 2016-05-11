@@ -1,0 +1,193 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": 1959, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": "offset lithograph on paper", 
+        "tms:id": "212295", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/95563_d5fe886e6c6db19a_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "95563"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/95563_d5fe886e6c6db19a_b.jpg", 
+                    "width": 724, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "95563"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/95563_d5fe886e6c6db19a_d.gif", 
+                    "width": 226, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "95563"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/95563_d5fe886e6c6db19a_z.jpg", 
+                    "width": 453, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "95563"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/95563_d5fe886e6c6db19a_n.jpg", 
+                    "width": 226, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "95563"
+                }
+            }, 
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/99693_c2c429df3eda7de2_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "0", 
+                    "image_id": "99693"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/99693_c2c429df3eda7de2_b.jpg", 
+                    "width": 724, 
+                    "height": 1024, 
+                    "is_primary": "0", 
+                    "image_id": "99693"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/99693_c2c429df3eda7de2_d.gif", 
+                    "width": 226, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "99693"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/99693_c2c429df3eda7de2_z.jpg", 
+                    "width": 453, 
+                    "height": 640, 
+                    "is_primary": "0", 
+                    "image_id": "99693"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/99693_c2c429df3eda7de2_n.jpg", 
+                    "width": 226, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "99693"
+                }
+            }, 
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/14069_4efa17572e13866e_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "0", 
+                    "image_id": "14069"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/14069_4efa17572e13866e_b.jpg", 
+                    "width": 744, 
+                    "height": 1024, 
+                    "is_primary": "0", 
+                    "image_id": "14069"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/14069_4efa17572e13866e_d.gif", 
+                    "width": 233, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "14069"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/14069_4efa17572e13866e_z.jpg", 
+                    "width": 465, 
+                    "height": 640, 
+                    "is_primary": "0", 
+                    "image_id": "14069"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/14069_4efa17572e13866e_n.jpg", 
+                    "width": 233, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "14069"
+                }
+            }
+        ], 
+        "id": "18673705", 
+        "has_no_known_copyright": null, 
+        "dimensions": "H x W: 128 × 90.6 cm (50 3/8 × 35 11/16 in.)", 
+        "title": "Poster, der Film [Film], 1959–60", 
+        "provenance": "Barbara Liebowitz Graphics Ltd., New York, NY", 
+        "participants": [
+            {
+                "person_name": "Museum für Gestaltung, Zürich", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236667/", 
+                "role_id": "35236667", 
+                "role_name": "Client", 
+                "person_date": "Zürich, Switzerland", 
+                "role_display_name": "Client:", 
+                "person_id": "18063557", 
+                "person_url": "https://collection.cooperhewitt.org/people/18063557/"
+            }, 
+            {
+                "person_name": "Josef Müller-Brockmann", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236565/", 
+                "role_id": "35236565", 
+                "role_name": "Artist", 
+                "person_date": "Swiss, 1914–1996", 
+                "role_display_name": "", 
+                "person_id": "18051541", 
+                "person_url": "https://collection.cooperhewitt.org/people/18051541/"
+            }, 
+            {
+                "person_name": "Barbara Leibowits Graphics Ltd.", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35352249/", 
+                "role_id": "35352249", 
+                "role_name": "Vendor", 
+                "person_date": "", 
+                "role_display_name": "Purchased from", 
+                "person_id": "18051539", 
+                "person_url": "https://collection.cooperhewitt.org/people/18051539/"
+            }
+        ], 
+        "decade": "1950", 
+        "label_text": "This poster is considered a masterpiece of modernist design. By overlapping the word “Film” with the article “der” [the], Josef Müller-Brockmann used typography to explore the principle of cinematic montage. The gray letters occupy a space behind (and a time before) the white text.", 
+        "woe:country": null, 
+        "dimensions_raw": {
+            "width": [
+                "93.00", 
+                "centimeters"
+            ], 
+            "height": [
+                "127.50", 
+                "centimeters"
+            ]
+        }, 
+        "department_id": "35347493", 
+        "title_raw": "der Film [Film]", 
+        "justification": null, 
+        "media_id": "35399021", 
+        "description": "Poster for a film exhibition at the Zurich Museum of Arts and Crafts.  On a black ground, in lower third of  poster, the words in gray Akzidenz Grotesk typeface, \"der\" and in white Akzidenz Grotesk, \"Film.\"  The \"F\" overlaps the \"er.\"  The secondary texts in red, indicating the place, at top edge, lining up with the \"F;\" and the dates, hours, days at bottom edge, also lining up with the \"F.\"  This poster, like all of the designer's graphic design is constructed according to a grid system (see \"notes\" for more).", 
+        "creditline": "Museum purchase from General Acquisitions Endowment Fund", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "1959–60", 
+        "url": "https://collection.cooperhewitt.org/objects/18673705/", 
+        "type": "poster", 
+        "accession_number": "1999-46-2", 
+        "year_end": 1960, 
+        "signed": null, 
+        "inscribed": null, 
+        "period_id": "35435429", 
+        "year_acquired": "1999", 
+        "woe:country_id": null
+    }
+}

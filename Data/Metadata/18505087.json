@@ -1,0 +1,107 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": 1918, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": "lithograph on paper", 
+        "tms:id": "163447", 
+        "images": [
+            {
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/88914_b095f8f97411d412_b.jpg", 
+                    "width": 1024, 
+                    "height": 736, 
+                    "is_primary": "1", 
+                    "image_id": "88914"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/88914_b095f8f97411d412_d.gif", 
+                    "width": 320, 
+                    "height": 230, 
+                    "is_primary": "1", 
+                    "image_id": "88914"
+                }, 
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/88914_b095f8f97411d412_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "88914"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/88914_b095f8f97411d412_n.jpg", 
+                    "width": 320, 
+                    "height": 230, 
+                    "is_primary": "1", 
+                    "image_id": "88914"
+                }, 
+                "x": {
+                    "url": "https://images.collection.cooperhewitt.org/88914_05530ed1b5fea59f_x.jpg", 
+                    "width": 4096, 
+                    "height": 2941, 
+                    "is_primary": "1", 
+                    "image_id": "88914"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/88914_b095f8f97411d412_z.jpg", 
+                    "width": 640, 
+                    "height": 460, 
+                    "is_primary": "1", 
+                    "image_id": "88914"
+                }
+            }
+        ], 
+        "id": "18505087", 
+        "has_no_known_copyright": "1", 
+        "woe:country_name": "United States", 
+        "dimensions": "(irreg.): 91.4 x 127 cm (36 x 50 in.)", 
+        "title": "Poster, Teamwork Builds Ships, 1918", 
+        "provenance": "1980: acquired by Museum", 
+        "participants": [
+            {
+                "person_name": "William Dodge Stevens", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "American, 1870 - 1942", 
+                "role_display_name": "Designed by", 
+                "person_id": "68248243", 
+                "person_url": "https://collection.cooperhewitt.org/people/68248243/"
+            }
+        ], 
+        "decade": "1910", 
+        "label_text": null, 
+        "woe:country": "23424977", 
+        "dimensions_raw": {
+            "width": [
+                "127.00", 
+                "centimeters"
+            ], 
+            "height": [
+                "91.44", 
+                "centimeters"
+            ]
+        }, 
+        "department_id": "35347493", 
+        "title_raw": "Teamwork Builds Ships", 
+        "justification": null, 
+        "media_id": "35419317", 
+        "description": "Poster features steelworkers bolting the hull of a ship together.", 
+        "creditline": "Gift of Unknown Donor", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "1918", 
+        "url": "https://collection.cooperhewitt.org/objects/18505087/", 
+        "type": "poster", 
+        "accession_number": "1980-32-1194", 
+        "year_end": 1918, 
+        "signed": null, 
+        "inscribed": "Imprinted in blue ink, lower center: ISSUED BY / PUBLICATIONS / SECTION / EMERGENCY / FLEET / CORPORATION / PHILADELPHIA / PA.", 
+        "period_id": null, 
+        "year_acquired": "1980", 
+        "woe:country_id": "23424977"
+    }
+}

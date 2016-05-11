@@ -1,0 +1,121 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": 1986, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": "lithograph on paper", 
+        "tms:id": "202152", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/266696_f5e70ebb972eda75_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "266696"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/266696_f5e70ebb972eda75_b.jpg", 
+                    "width": 705, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "266696"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/266696_f5e70ebb972eda75_d.gif", 
+                    "width": 220, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "266696"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/266696_f5e70ebb972eda75_z.jpg", 
+                    "width": 440, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "266696"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/266696_f5e70ebb972eda75_n.jpg", 
+                    "width": 220, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "266696"
+                }
+            }
+        ], 
+        "id": "18654383", 
+        "has_no_known_copyright": null, 
+        "woe:country_name": "United States", 
+        "dimensions": "H x W: 120 × 68.5 cm (47 1/4 × 26 15/16 in.)", 
+        "title": "Poster, School Daze, 1986", 
+        "provenance": "Art Sims; 1995: acquired by the Museum", 
+        "participants": [
+            {
+                "person_name": "Rebekah Pollock", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35352245/", 
+                "role_id": "35352245", 
+                "role_name": "Cataloguer", 
+                "person_date": "American, born 1982", 
+                "role_display_name": "Catalogued by", 
+                "person_id": "51686969", 
+                "person_url": "https://collection.cooperhewitt.org/people/51686969/"
+            }, 
+            {
+                "person_name": "Columbia Pictures", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236667/", 
+                "role_id": "35236667", 
+                "role_name": "Client", 
+                "person_date": "American, founded 1924", 
+                "role_display_name": "Client:", 
+                "person_id": "420565027", 
+                "person_url": "https://collection.cooperhewitt.org/people/420565027/"
+            }, 
+            {
+                "person_name": "Art Sims", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35351535/", 
+                "role_id": "35351535", 
+                "role_name": "Donor", 
+                "person_date": "American, b. 1954", 
+                "role_display_name": "Donated by", 
+                "person_id": "18049235", 
+                "person_url": "https://collection.cooperhewitt.org/people/18049235/"
+            }, 
+            {
+                "person_name": "Art Sims", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "American, b. 1954", 
+                "role_display_name": "Designed by", 
+                "person_id": "18049235", 
+                "person_url": "https://collection.cooperhewitt.org/people/18049235/"
+            }
+        ], 
+        "decade": "1980", 
+        "label_text": null, 
+        "woe:country": "23424977", 
+        "dimensions_raw": null, 
+        "department_id": "35347493", 
+        "title_raw": "School Daze", 
+        "justification": "Art Sims, graduated from Michigan State University in 1975. He began his graphic design career in New York City as Associate Designer for CBS Records and subsequently relocated to Los Angeles where he was hired as Director of Art/Design for Capitol Records. At Capitol, he designed record covers, corporate logos and identities, and advertising campaigns for consumer and trade ads. In 1980, Sims created his own design firm, 11:24 Design. His clients include Stevie Wonder Productions, Quincy Jones Productions, Eddie Murphy Productions, and MCA Records. Sims also has worked in the areas of film, television, and video. \n \nThese posters have been reviewed by Marilyn Symmes, Ellen Lupton, and Gail Davidson. Konstanze Bachmann has also reviewed them for conservation problems. She notes small nicks and creases at corners, otherwise the condition is fine. We recommend retaining this material for the collection because it documents the films of a major African-American director and filmmaker an", 
+        "media_id": "35419317", 
+        "description": "Poster for the Spike Lee film School Daze. Four men and one woman around a piece of lined paper. At bottom, a bald man with glasses and a dog collar has the letter G on his forehead and holds a dog dish.", 
+        "creditline": "Gift of Art Sims", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "1986", 
+        "url": "https://collection.cooperhewitt.org/objects/18654383/", 
+        "type": "poster", 
+        "accession_number": "1996-92-4", 
+        "year_end": 1986, 
+        "signed": null, 
+        "inscribed": "Inscribed in print: A new comedy with music from the director of “She’s Gotta Have it” / A Spike Lee Joint / School Daze / Dog or Die", 
+        "period_id": null, 
+        "year_acquired": "1996", 
+        "woe:country_id": "23424977"
+    }
+}

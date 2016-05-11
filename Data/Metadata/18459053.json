@@ -1,0 +1,80 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": null, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": null, 
+        "tms:id": "140100", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/205711_7ed2258904999549_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "205711"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/205711_7ed2258904999549_b.jpg", 
+                    "width": 790, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "205711"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/205711_7ed2258904999549_d.gif", 
+                    "width": 247, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "205711"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/205711_7ed2258904999549_z.jpg", 
+                    "width": 493, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "205711"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/205711_7ed2258904999549_n.jpg", 
+                    "width": 247, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "205711"
+                }
+            }
+        ], 
+        "id": "18459053", 
+        "has_no_known_copyright": null, 
+        "woe:country_name": "United States", 
+        "dimensions": null, 
+        "title": "Poster (USA and others)", 
+        "provenance": null, 
+        "participants": [], 
+        "decade": null, 
+        "label_text": null, 
+        "woe:country": "23424977", 
+        "dimensions_raw": null, 
+        "department_id": "35347493", 
+        "title_raw": null, 
+        "justification": null, 
+        "media_id": "35371135", 
+        "description": null, 
+        "creditline": null, 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": null, 
+        "url": "https://collection.cooperhewitt.org/objects/18459053/", 
+        "type": "poster", 
+        "accession_number": "1967-74-186", 
+        "year_end": null, 
+        "signed": null, 
+        "inscribed": null, 
+        "period_id": null, 
+        "year_acquired": "1967", 
+        "woe:country_id": "23424977"
+    }
+}

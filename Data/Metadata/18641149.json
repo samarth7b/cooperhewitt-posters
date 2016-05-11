@@ -1,0 +1,101 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": 1992, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": null, 
+        "tms:id": "195439", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/254289_22cc6cc36a5471ab_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "254289"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/254289_22cc6cc36a5471ab_b.jpg", 
+                    "width": 741, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "254289"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/254289_22cc6cc36a5471ab_d.gif", 
+                    "width": 232, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "254289"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/254289_22cc6cc36a5471ab_z.jpg", 
+                    "width": 463, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "254289"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/254289_22cc6cc36a5471ab_n.jpg", 
+                    "width": 232, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "254289"
+                }
+            }
+        ], 
+        "id": "18641149", 
+        "has_no_known_copyright": null, 
+        "woe:country_name": "Denmark", 
+        "dimensions": null, 
+        "title": "Poster, Save the Alps, 1992", 
+        "provenance": null, 
+        "participants": [
+            {
+                "person_name": "Per Arnoldi", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35351535/", 
+                "role_id": "35351535", 
+                "role_name": "Donor", 
+                "person_date": "", 
+                "role_display_name": "Donated by", 
+                "person_id": "18041127", 
+                "person_url": "https://collection.cooperhewitt.org/people/18041127/"
+            }, 
+            {
+                "person_name": "Per Arnoldi", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "", 
+                "role_display_name": "Designed by", 
+                "person_id": "18041127", 
+                "person_url": "https://collection.cooperhewitt.org/people/18041127/"
+            }
+        ], 
+        "decade": "1990", 
+        "label_text": null, 
+        "woe:country": "23424796", 
+        "dimensions_raw": null, 
+        "department_id": "35347493", 
+        "title_raw": "Save the Alps", 
+        "justification": null, 
+        "media_id": "35371135", 
+        "description": null, 
+        "creditline": "Gift of Per Arnoldi", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "1992", 
+        "url": "https://collection.cooperhewitt.org/objects/18641149/", 
+        "type": "poster", 
+        "accession_number": "1992-87-1", 
+        "year_end": 1992, 
+        "signed": null, 
+        "inscribed": null, 
+        "period_id": null, 
+        "year_acquired": "1992", 
+        "woe:country_id": "23424796"
+    }
+}

@@ -1,0 +1,167 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": 1983, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": "lithograph on paper", 
+        "tms:id": "202125", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/82344_e1aede2fc4869205_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "82344"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/82344_e1aede2fc4869205_b.jpg", 
+                    "width": 1021, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "82344"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/82344_e1aede2fc4869205_d.gif", 
+                    "width": 319, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "82344"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/82344_e1aede2fc4869205_z.jpg", 
+                    "width": 638, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "82344"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/82344_e1aede2fc4869205_n.jpg", 
+                    "width": 319, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "82344"
+                }
+            }, 
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/267375_41a0e0baa4fef7bd_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "0", 
+                    "image_id": "267375"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/267375_41a0e0baa4fef7bd_b.jpg", 
+                    "width": 1024, 
+                    "height": 1024, 
+                    "is_primary": "0", 
+                    "image_id": "267375"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/267375_41a0e0baa4fef7bd_d.gif", 
+                    "width": 320, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "267375"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/267375_41a0e0baa4fef7bd_z.jpg", 
+                    "width": 640, 
+                    "height": 640, 
+                    "is_primary": "0", 
+                    "image_id": "267375"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/267375_41a0e0baa4fef7bd_n.jpg", 
+                    "width": 320, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "267375"
+                }
+            }
+        ], 
+        "id": "18654329", 
+        "has_no_known_copyright": null, 
+        "woe:country_name": "United States", 
+        "dimensions": "63.5 x 63.5 cm (25 x 25 in.)", 
+        "title": "Poster, Berkeley Typographers (large yellow circle), 1983", 
+        "provenance": "1996: acquired by Museum", 
+        "participants": [
+            {
+                "person_name": "Tom Wedell", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "American, b. 1949", 
+                "role_display_name": "Designed by", 
+                "person_id": "68264031", 
+                "person_url": "https://collection.cooperhewitt.org/people/68264031/"
+            }, 
+            {
+                "person_name": "National Bickford Foremost", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236673/", 
+                "role_id": "35236673", 
+                "role_name": "Printer", 
+                "person_date": "", 
+                "role_display_name": "Printed by", 
+                "person_id": "68248237", 
+                "person_url": "https://collection.cooperhewitt.org/people/68248237/"
+            }, 
+            {
+                "person_name": "Nancy Skolos", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35351535/", 
+                "role_id": "35351535", 
+                "role_name": "Donor", 
+                "person_date": "American, b. 1955", 
+                "role_display_name": "Donated by", 
+                "person_id": "18041679", 
+                "person_url": "https://collection.cooperhewitt.org/people/18041679/"
+            }, 
+            {
+                "person_name": "Nancy Skolos", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "American, b. 1955", 
+                "role_display_name": "Designed by", 
+                "person_id": "18041679", 
+                "person_url": "https://collection.cooperhewitt.org/people/18041679/"
+            }
+        ], 
+        "decade": "1980", 
+        "label_text": null, 
+        "woe:country": "23424977", 
+        "dimensions_raw": {
+            "width": [
+                "63.50", 
+                "centimeters"
+            ], 
+            "height": [
+                "63.50", 
+                "centimeters"
+            ]
+        }, 
+        "department_id": "35347493", 
+        "title_raw": "Berkeley Typographers (large yellow circle)", 
+        "justification": null, 
+        "media_id": "35419317", 
+        "description": "Poster in white with left, upper, and right edges in blue and gray gradient. Poster depicts a large yellow circle with a smaller gray and white gradient circle below. A large ‘P’ covers the circle with red dots. Dotted line crosses right side of yellow circle. Text in white, upper left: Berkeley Typographers. Lower right, in red: 340 “C” Street, South Boston, MA 02127 Tel. 617-269-6160.", 
+        "creditline": "Gift of Nancy Skolos", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "1983", 
+        "url": "https://collection.cooperhewitt.org/objects/18654329/", 
+        "type": "poster", 
+        "accession_number": "1996-90-25", 
+        "year_end": 1983, 
+        "signed": null, 
+        "inscribed": "Imprinted in red, lower margin: Design: Skolos, Wedell + Raynor  Printing: National Bickford Foremost", 
+        "period_id": null, 
+        "year_acquired": "1996", 
+        "woe:country_id": "23424977"
+    }
+}

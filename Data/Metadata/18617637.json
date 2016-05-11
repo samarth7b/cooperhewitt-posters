@@ -1,0 +1,138 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": null, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": null, 
+        "tms:id": "177351", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/266677_0d7cb2efe61ee069_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "266677"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/266677_0d7cb2efe61ee069_b.jpg", 
+                    "width": 512, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "266677"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/266677_0d7cb2efe61ee069_d.gif", 
+                    "width": 160, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "266677"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/266677_0d7cb2efe61ee069_z.jpg", 
+                    "width": 320, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "266677"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/266677_0d7cb2efe61ee069_n.jpg", 
+                    "width": 160, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "266677"
+                }
+            }, 
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/267076_2ac6f829f4fbcbc3_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "0", 
+                    "image_id": "267076"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/267076_2ac6f829f4fbcbc3_b.jpg", 
+                    "width": 722, 
+                    "height": 1024, 
+                    "is_primary": "0", 
+                    "image_id": "267076"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/267076_2ac6f829f4fbcbc3_d.gif", 
+                    "width": 226, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "267076"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/267076_2ac6f829f4fbcbc3_z.jpg", 
+                    "width": 451, 
+                    "height": 640, 
+                    "is_primary": "0", 
+                    "image_id": "267076"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/267076_2ac6f829f4fbcbc3_n.jpg", 
+                    "width": 226, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "267076"
+                }
+            }
+        ], 
+        "id": "18617637", 
+        "has_no_known_copyright": null, 
+        "woe:country_name": "United States", 
+        "dimensions": null, 
+        "title": "Poster, IBM Tucson", 
+        "provenance": "1981: acquired by Museum", 
+        "participants": [
+            {
+                "person_name": "IBM", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236667/", 
+                "role_id": "35236667", 
+                "role_name": "Client", 
+                "person_date": "USA", 
+                "role_display_name": "Client:", 
+                "person_id": "18041871", 
+                "person_url": "https://collection.cooperhewitt.org/people/18041871/"
+            }, 
+            {
+                "person_name": "Ken White", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "American, 1935-1985", 
+                "role_display_name": "Designed by", 
+                "person_id": "18042357", 
+                "person_url": "https://collection.cooperhewitt.org/people/18042357/"
+            }
+        ], 
+        "decade": null, 
+        "label_text": null, 
+        "woe:country": "23424977", 
+        "dimensions_raw": null, 
+        "department_id": "35347493", 
+        "title_raw": "IBM Tucson", 
+        "justification": null, 
+        "media_id": "35371135", 
+        "description": null, 
+        "creditline": "Gift of Various Donors", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": null, 
+        "url": "https://collection.cooperhewitt.org/objects/18617637/", 
+        "type": "poster", 
+        "accession_number": "1981-29-271", 
+        "year_end": null, 
+        "signed": null, 
+        "inscribed": null, 
+        "period_id": null, 
+        "year_acquired": "1981", 
+        "woe:country_id": "23424977"
+    }
+}

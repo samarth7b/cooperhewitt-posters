@@ -1,0 +1,148 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": 2002, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": "laser plotter print on paper", 
+        "tms:id": "277540", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/95707_b7cf872132beacf0_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "95707"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/95707_b7cf872132beacf0_b.jpg", 
+                    "width": 731, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "95707"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/95707_b7cf872132beacf0_d.gif", 
+                    "width": 228, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "95707"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/95707_b7cf872132beacf0_z.jpg", 
+                    "width": 457, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "95707"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/95707_b7cf872132beacf0_n.jpg", 
+                    "width": 228, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "95707"
+                }
+            }, 
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/94795_b2b73184da214940_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "0", 
+                    "image_id": "94795"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/94795_b2b73184da214940_b.jpg", 
+                    "width": 731, 
+                    "height": 1024, 
+                    "is_primary": "0", 
+                    "image_id": "94795"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/94795_b2b73184da214940_d.gif", 
+                    "width": 228, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "94795"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/94795_b2b73184da214940_z.jpg", 
+                    "width": 457, 
+                    "height": 640, 
+                    "is_primary": "0", 
+                    "image_id": "94795"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/94795_b2b73184da214940_n.jpg", 
+                    "width": 228, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "94795"
+                }
+            }
+        ], 
+        "id": "68743469", 
+        "has_no_known_copyright": null, 
+        "woe:country_name": "Australia", 
+        "dimensions": "H x W: 118.7 × 84 cm (46 3/4 × 33 1/16 in.)", 
+        "title": "Poster, Ryan Francesconi, 2011", 
+        "provenance": "Mark Gowing to Cooper Hewitt, August 2014", 
+        "participants": [
+            {
+                "person_name": "Preservation Music", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236667/", 
+                "role_id": "35236667", 
+                "role_name": "Client", 
+                "person_date": "Marrickville, Sydney, Australia", 
+                "role_display_name": "Client:", 
+                "person_id": "68735179", 
+                "person_url": "https://collection.cooperhewitt.org/people/68735179/"
+            }, 
+            {
+                "person_name": "Mark Gowing", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35351535/", 
+                "role_id": "35351535", 
+                "role_name": "Donor", 
+                "person_date": "Australian, b. 1970", 
+                "role_display_name": "Donated by", 
+                "person_id": "68735181", 
+                "person_url": "https://collection.cooperhewitt.org/people/68735181/"
+            }, 
+            {
+                "person_name": "Mark Gowing", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "Australian, b. 1970", 
+                "role_display_name": "Designed by", 
+                "person_id": "68735181", 
+                "person_url": "https://collection.cooperhewitt.org/people/68735181/"
+            }
+        ], 
+        "decade": "2000", 
+        "label_text": null, 
+        "woe:country": "23424748", 
+        "dimensions_raw": null, 
+        "department_id": "35347493", 
+        "title_raw": "Ryan Francesconi", 
+        "justification": "Mark Gowing designed this poster to promote a live concert featuring the avant-garde guitarist and composer Ryan Francesconi.  Gowing created a typeface that functioned as a modular structure that appears pieced together, a nod to Francesconi’s musical style that draws heavily on improvisation.  The unpredictable, uneven rhythm of the compositions and performances are evoked through the type, which splits the musician’s last name into two parts joined by a plus sign.  Gowing chose to execute the poster in stark black and white.  The absence of color was an aesthetic choice, suggesting a “grass-roots” feel, but also made the poster an affordable option of promoting an individual concert.", 
+        "media_id": "68743459", 
+        "description": "The surname \"Francesconi\" is printed in two registers (France / sconi) in narrow, pixelated black letters on a white ground. The letters are staggered and uneven. In the lower right, smaller text blocks give information about the concert.", 
+        "creditline": "Gift of Mark Gowing", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "2011", 
+        "url": "https://collection.cooperhewitt.org/objects/68743469/", 
+        "type": "poster", 
+        "accession_number": "2014-32-1", 
+        "year_end": 2016, 
+        "signed": null, 
+        "inscribed": null, 
+        "period_id": null, 
+        "year_acquired": "2014", 
+        "woe:country_id": "23424748"
+    }
+}

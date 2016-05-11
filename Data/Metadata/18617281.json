@@ -1,0 +1,137 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": null, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": "lithograph on paper", 
+        "tms:id": "177173", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/82688_d749e415385296c0_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "82688"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/82688_d749e415385296c0_b.jpg", 
+                    "width": 782, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "82688"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/82688_d749e415385296c0_d.gif", 
+                    "width": 244, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "82688"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/82688_d749e415385296c0_z.jpg", 
+                    "width": 489, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "82688"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/82688_d749e415385296c0_n.jpg", 
+                    "width": 244, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "82688"
+                }
+            }, 
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/205986_c5a64100a6bc91d9_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "0", 
+                    "image_id": "205986"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/205986_c5a64100a6bc91d9_b.jpg", 
+                    "width": 792, 
+                    "height": 1024, 
+                    "is_primary": "0", 
+                    "image_id": "205986"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/205986_c5a64100a6bc91d9_d.gif", 
+                    "width": 248, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "205986"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/205986_c5a64100a6bc91d9_z.jpg", 
+                    "width": 495, 
+                    "height": 640, 
+                    "is_primary": "0", 
+                    "image_id": "205986"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/205986_c5a64100a6bc91d9_n.jpg", 
+                    "width": 248, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "205986"
+                }
+            }
+        ], 
+        "id": "18617281", 
+        "has_no_known_copyright": null, 
+        "woe:country_name": "United States", 
+        "dimensions": "Overall: 64.3 x 48.8 cm (25 5/16 x 19 3/16 in.)", 
+        "title": "Poster, BYU Rugby", 
+        "provenance": "1981: acquired by Museum", 
+        "participants": [
+            {
+                "person_name": "Brigham Young University", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236667/", 
+                "role_id": "35236667", 
+                "role_name": "Client", 
+                "person_date": "", 
+                "role_display_name": "Client:", 
+                "person_id": "18042421", 
+                "person_url": "https://collection.cooperhewitt.org/people/18042421/"
+            }
+        ], 
+        "decade": null, 
+        "label_text": null, 
+        "woe:country": "23424977", 
+        "dimensions_raw": {
+            "width": [
+                "48.80", 
+                "centimeters"
+            ], 
+            "height": [
+                "64.30", 
+                "centimeters"
+            ]
+        }, 
+        "department_id": "35347493", 
+        "title_raw": "BYU Rugby", 
+        "justification": null, 
+        "media_id": "35419317", 
+        "description": "Poster features abstracted cropped view of players with a rugby ball.", 
+        "creditline": "Gift of Various Donors", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": null, 
+        "url": "https://collection.cooperhewitt.org/objects/18617281/", 
+        "type": "poster", 
+        "accession_number": "1981-29-111", 
+        "year_end": null, 
+        "signed": null, 
+        "inscribed": null, 
+        "period_id": null, 
+        "year_acquired": "1981", 
+        "woe:country_id": "23424977"
+    }
+}

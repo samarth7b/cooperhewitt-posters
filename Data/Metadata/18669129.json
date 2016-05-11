@@ -1,0 +1,137 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": null, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": "lithograph on paper", 
+        "tms:id": "209979", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/81964_b2f1696ba324b110_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "81964"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/81964_b2f1696ba324b110_b.jpg", 
+                    "width": 736, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "81964"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/81964_b2f1696ba324b110_d.gif", 
+                    "width": 230, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "81964"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/81964_b2f1696ba324b110_z.jpg", 
+                    "width": 460, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "81964"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/81964_b2f1696ba324b110_n.jpg", 
+                    "width": 230, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "81964"
+                }
+            }, 
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/267564_c92b21838f590ad2_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "0", 
+                    "image_id": "267564"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/267564_c92b21838f590ad2_b.jpg", 
+                    "width": 739, 
+                    "height": 1024, 
+                    "is_primary": "0", 
+                    "image_id": "267564"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/267564_c92b21838f590ad2_d.gif", 
+                    "width": 231, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "267564"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/267564_c92b21838f590ad2_z.jpg", 
+                    "width": 462, 
+                    "height": 640, 
+                    "is_primary": "0", 
+                    "image_id": "267564"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/267564_c92b21838f590ad2_n.jpg", 
+                    "width": 231, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "267564"
+                }
+            }
+        ], 
+        "id": "18669129", 
+        "has_no_known_copyright": null, 
+        "woe:country_name": "Japan", 
+        "dimensions": "103 x 73 cm (40 9/16 x 28 3/4 in.)", 
+        "title": "Poster, ABC Housing", 
+        "provenance": "James Howard Fraser; 1998: acquired by Museum", 
+        "participants": [
+            {
+                "person_name": "James Howard Fraser", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35351535/", 
+                "role_id": "35351535", 
+                "role_name": "Donor", 
+                "person_date": "", 
+                "role_display_name": "Donated by", 
+                "person_id": "18041833", 
+                "person_url": "https://collection.cooperhewitt.org/people/18041833/"
+            }
+        ], 
+        "decade": null, 
+        "label_text": null, 
+        "woe:country": "23424856", 
+        "dimensions_raw": {
+            "width": [
+                "73.00", 
+                "centimeters"
+            ], 
+            "height": [
+                "103.00", 
+                "centimeters"
+            ]
+        }, 
+        "department_id": "35347493", 
+        "title_raw": "ABC Housing", 
+        "justification": null, 
+        "media_id": "35419317", 
+        "description": "Photograph of a glass with two toothbrushes; Japanese text.", 
+        "creditline": "Gift of James Howard Fraser", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": null, 
+        "url": "https://collection.cooperhewitt.org/objects/18669129/", 
+        "type": "poster", 
+        "accession_number": "1998-44-6", 
+        "year_end": null, 
+        "signed": null, 
+        "inscribed": null, 
+        "period_id": null, 
+        "year_acquired": "1998", 
+        "woe:country_id": "23424856"
+    }
+}

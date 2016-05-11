@@ -1,0 +1,119 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": 1990, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": "screenprint on paper", 
+        "tms:id": "192654", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/65163_9b43f76cd4cf67c9_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "65163"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/65163_9b43f76cd4cf67c9_b.jpg", 
+                    "width": 721, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "65163"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/65163_9b43f76cd4cf67c9_d.gif", 
+                    "width": 225, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "65163"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/65163_9b43f76cd4cf67c9_z.jpg", 
+                    "width": 450, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "65163"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/65163_9b43f76cd4cf67c9_n.jpg", 
+                    "width": 225, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "65163"
+                }
+            }
+        ], 
+        "id": "18635613", 
+        "has_no_known_copyright": null, 
+        "dimensions": "80 x 56.5 cm (31 1/2 x 22 1/4 in.)", 
+        "title": "Poster, Zamet Pred Svou Prahou, 1990", 
+        "provenance": "1991: acquired by Museum", 
+        "participants": [
+            {
+                "person_name": "Molly Seiler", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35352245/", 
+                "role_id": "35352245", 
+                "role_name": "Cataloguer", 
+                "person_date": "", 
+                "role_display_name": "Catalogued by", 
+                "person_id": "18048471", 
+                "person_url": "https://collection.cooperhewitt.org/people/18048471/"
+            }, 
+            {
+                "person_name": "John Van Sickle", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35351535/", 
+                "role_id": "35351535", 
+                "role_name": "Donor", 
+                "person_date": "", 
+                "role_display_name": "Donated by", 
+                "person_id": "68778089", 
+                "person_url": "https://collection.cooperhewitt.org/people/68778089/"
+            }, 
+            {
+                "person_name": "Gail Levin", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35351535/", 
+                "role_id": "35351535", 
+                "role_name": "Donor", 
+                "person_date": "", 
+                "role_display_name": "Donated by", 
+                "person_id": "51679297", 
+                "person_url": "https://collection.cooperhewitt.org/people/51679297/"
+            }
+        ], 
+        "decade": "1990", 
+        "label_text": null, 
+        "woe:country": null, 
+        "dimensions_raw": {
+            "width": [
+                "56.50", 
+                "centimeters"
+            ], 
+            "height": [
+                "80.00", 
+                "centimeters"
+            ]
+        }, 
+        "department_id": "35347493", 
+        "title_raw": "Zamet Pred Svou Prahou", 
+        "justification": null, 
+        "media_id": "35431679", 
+        "description": "Silhouette of the legs of men as they stand around wearing pants and dress shoes, one has an umbrella; near them is a pile of discarded newspapers. Text in Czech above and below: ZAMET PRED SVOU PRAHOU / 6.-8. DUBNA 1990 / JARNI UKLID PRAHY / PRO VSECHNY / KDO NECHTEJI ZIT NA SMETISTI.", 
+        "creditline": "Gift of Gail Levin and John Van Sickle", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "1990", 
+        "url": "https://collection.cooperhewitt.org/objects/18635613/", 
+        "type": "poster", 
+        "accession_number": "1991-137-3", 
+        "year_end": 1990, 
+        "signed": null, 
+        "inscribed": null, 
+        "period_id": null, 
+        "year_acquired": "1991", 
+        "woe:country_id": null
+    }
+}

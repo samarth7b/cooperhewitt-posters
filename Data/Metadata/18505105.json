@@ -1,0 +1,147 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": 1941, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": "offset lithograph on wove paper", 
+        "tms:id": "163456", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/34408_d01768ab83f5b10b_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "34408"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/34408_d01768ab83f5b10b_b.jpg", 
+                    "width": 1024, 
+                    "height": 770, 
+                    "is_primary": "1", 
+                    "image_id": "34408"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/34408_d01768ab83f5b10b_d.gif", 
+                    "width": 320, 
+                    "height": 241, 
+                    "is_primary": "1", 
+                    "image_id": "34408"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/34408_d01768ab83f5b10b_z.jpg", 
+                    "width": 640, 
+                    "height": 481, 
+                    "is_primary": "1", 
+                    "image_id": "34408"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/34408_d01768ab83f5b10b_n.jpg", 
+                    "width": 320, 
+                    "height": 241, 
+                    "is_primary": "1", 
+                    "image_id": "34408"
+                }
+            }, 
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/252345_51888c0bf58f3fe1_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "0", 
+                    "image_id": "252345"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/252345_51888c0bf58f3fe1_b.jpg", 
+                    "width": 1024, 
+                    "height": 771, 
+                    "is_primary": "0", 
+                    "image_id": "252345"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/252345_51888c0bf58f3fe1_d.gif", 
+                    "width": 320, 
+                    "height": 241, 
+                    "is_primary": "0", 
+                    "image_id": "252345"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/252345_51888c0bf58f3fe1_z.jpg", 
+                    "width": 640, 
+                    "height": 482, 
+                    "is_primary": "0", 
+                    "image_id": "252345"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/252345_51888c0bf58f3fe1_n.jpg", 
+                    "width": 320, 
+                    "height": 241, 
+                    "is_primary": "0", 
+                    "image_id": "252345"
+                }
+            }
+        ], 
+        "id": "18505105", 
+        "has_no_known_copyright": null, 
+        "woe:country_name": "United States", 
+        "dimensions": "76.2 x 101.6 cm (30 x 40 in.)", 
+        "title": "Poster, Give 'em Both Barrels, 1941", 
+        "provenance": "1980: acquired by Museum", 
+        "participants": [
+            {
+                "person_name": "U. S. Government Printing Office", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236673/", 
+                "role_id": "35236673", 
+                "role_name": "Printer", 
+                "person_date": "American, founded 1861", 
+                "role_display_name": "Printed by", 
+                "person_id": "18063155", 
+                "person_url": "https://collection.cooperhewitt.org/people/18063155/"
+            }, 
+            {
+                "person_name": "Jean Carlu", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "French, active United States, 1900 - 1997", 
+                "role_display_name": "Designed by", 
+                "person_id": "68738547", 
+                "person_url": "https://collection.cooperhewitt.org/people/68738547/"
+            }
+        ], 
+        "decade": "1940", 
+        "label_text": null, 
+        "woe:country": "23424977", 
+        "dimensions_raw": {
+            "width": [
+                "101.60", 
+                "centimeters"
+            ], 
+            "height": [
+                "76.20", 
+                "centimeters"
+            ]
+        }, 
+        "department_id": "35347493", 
+        "title_raw": "Give 'em Both Barrels", 
+        "justification": null, 
+        "media_id": "35431963", 
+        "description": "A side profile of two men.  The man above is wearing a work hat and glasses using a rivet gun.  The bottom man is a soldier using a machine gun. Starting from the upper left corner: \"Give 'em/ Both Barrels\" in blue text.", 
+        "creditline": "Gift of Unknown Donor", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "1941", 
+        "url": "https://collection.cooperhewitt.org/objects/18505105/", 
+        "type": "poster", 
+        "accession_number": "1980-32-1201", 
+        "year_end": 1941, 
+        "signed": null, 
+        "inscribed": null, 
+        "period_id": null, 
+        "year_acquired": "1980", 
+        "woe:country_id": "23424977"
+    }
+}

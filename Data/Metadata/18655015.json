@@ -1,0 +1,110 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": 1936, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": "lithograph on wove paper", 
+        "tms:id": "202477", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/252195_fb4a3c025249ec7e_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "252195"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/252195_fb4a3c025249ec7e_b.jpg", 
+                    "width": 729, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "252195"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/252195_fb4a3c025249ec7e_d.gif", 
+                    "width": 228, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "252195"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/252195_fb4a3c025249ec7e_z.jpg", 
+                    "width": 455, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "252195"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/252195_fb4a3c025249ec7e_n.jpg", 
+                    "width": 228, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "252195"
+                }
+            }
+        ], 
+        "id": "18655015", 
+        "has_no_known_copyright": null, 
+        "woe:country_name": "Spain", 
+        "dimensions": "54.1 x 37.5 cm (21 5/16 x 14 3/4 in.)\n56.4 x 39.7 cm (22 3/16 x 15 5/8 in.)", 
+        "title": "Poster, El Mono Azul/ Hoja semanal/ Los Traidores/ de la Alianza de Intelectuales antifascistas (The Blue Monkey Weekly Newsletter of the Alliance of Intellectuals against fascism), 1936–37", 
+        "provenance": null, 
+        "participants": [
+            {
+                "person_name": "La Alianza de Intelectuales Antifascistas", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236661/", 
+                "role_id": "35236661", 
+                "role_name": "Publisher", 
+                "person_date": "", 
+                "role_display_name": "Published by", 
+                "person_id": "18049943", 
+                "person_url": "https://collection.cooperhewitt.org/people/18049943/"
+            }, 
+            {
+                "person_name": "William P. Mangold", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35351535/", 
+                "role_id": "35351535", 
+                "role_name": "Donor", 
+                "person_date": "", 
+                "role_display_name": "Donated by", 
+                "person_id": "18049663", 
+                "person_url": "https://collection.cooperhewitt.org/people/18049663/"
+            }
+        ], 
+        "decade": "1930", 
+        "label_text": null, 
+        "woe:country": "23424950", 
+        "dimensions_raw": {
+            "width": [
+                "39.70", 
+                "centimeters"
+            ], 
+            "height": [
+                "56.40", 
+                "centimeters"
+            ]
+        }, 
+        "department_id": "35347493", 
+        "title_raw": "El Mono Azul/ Hoja semanal/ Los Traidores/ de la Alianza de Intelectuales antifascistas (The Blue Monkey Weekly Newsletter of the Alliance of Intellectuals against fascism)", 
+        "justification": null, 
+        "media_id": "35407799", 
+        "description": "Spanish Civil War poster. Brown-skinned man dressed in blue clutches a rifle and raises his left fist in defiance. His figure is superimposed over a photo montage of newsprint, armed soldiers at left and rural workers and a hand putting a coin into a cup initialed with SRI at right. Soldiers with canon and rifles at bottom. Title across top, price (10 cts) of sheet at right.", 
+        "creditline": "Gift of William P. Mangold", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "1936–37", 
+        "url": "https://collection.cooperhewitt.org/objects/18655015/", 
+        "type": "poster", 
+        "accession_number": "1997-21-16", 
+        "year_end": 1937, 
+        "signed": "Signed across bottom on stone: La Alianza de Intelectuales Antifascistas", 
+        "inscribed": null, 
+        "period_id": null, 
+        "year_acquired": "1997", 
+        "woe:country_id": "23424950"
+    }
+}

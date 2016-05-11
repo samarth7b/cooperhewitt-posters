@@ -1,0 +1,157 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": 1936, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": "lithograph on paper", 
+        "tms:id": "202481", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/65037_1c7cf3791b85c7e1_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "65037"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/65037_1c7cf3791b85c7e1_b.jpg", 
+                    "width": 699, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "65037"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/65037_1c7cf3791b85c7e1_d.gif", 
+                    "width": 218, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "65037"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/65037_1c7cf3791b85c7e1_z.jpg", 
+                    "width": 437, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "65037"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/65037_1c7cf3791b85c7e1_n.jpg", 
+                    "width": 218, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "65037"
+                }
+            }, 
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/252248_00fb152973f610e0_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "0", 
+                    "image_id": "252248"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/252248_00fb152973f610e0_b.jpg", 
+                    "width": 696, 
+                    "height": 1024, 
+                    "is_primary": "0", 
+                    "image_id": "252248"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/252248_00fb152973f610e0_d.gif", 
+                    "width": 218, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "252248"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/252248_00fb152973f610e0_z.jpg", 
+                    "width": 435, 
+                    "height": 640, 
+                    "is_primary": "0", 
+                    "image_id": "252248"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/252248_00fb152973f610e0_n.jpg", 
+                    "width": 218, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "252248"
+                }
+            }
+        ], 
+        "id": "18655023", 
+        "has_no_known_copyright": null, 
+        "woe:country_name": "Spain", 
+        "dimensions": "100.1 x 68.1 cm (39 7/16 x 26 13/16 in.)", 
+        "title": "Poster, Las Milicias de la Cultura/Luchan Contra el Fascismo Combatiendo la Ignorancia (The Militias of the Culture Fight Against Fascism Fighting Ignorance), ca. 1936", 
+        "provenance": "1997: acquired by Museum", 
+        "participants": [
+            {
+                "person_name": "Ministry of Public Instruction", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236667/", 
+                "role_id": "35236667", 
+                "role_name": "Client", 
+                "person_date": "", 
+                "role_display_name": "Client:", 
+                "person_id": "68765219", 
+                "person_url": "https://collection.cooperhewitt.org/people/68765219/"
+            }, 
+            {
+                "person_name": "Mauricio Amster Cats, Chilean", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "1907 - 1980", 
+                "role_display_name": "Designed by", 
+                "person_id": "18538043", 
+                "person_url": "https://collection.cooperhewitt.org/people/18538043/"
+            }, 
+            {
+                "person_name": "William P. Mangold", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35351535/", 
+                "role_id": "35351535", 
+                "role_name": "Donor", 
+                "person_date": "", 
+                "role_display_name": "Donated by", 
+                "person_id": "18049663", 
+                "person_url": "https://collection.cooperhewitt.org/people/18049663/"
+            }
+        ], 
+        "decade": "1930", 
+        "label_text": null, 
+        "woe:country": "23424950", 
+        "dimensions_raw": {
+            "width": [
+                "68.10", 
+                "centimeters"
+            ], 
+            "height": [
+                "100.10", 
+                "centimeters"
+            ]
+        }, 
+        "department_id": "35347493", 
+        "title_raw": "Las Milicias de la Cultura/Luchan Contra el Fascismo Combatiendo la Ignorancia (The Militias of the Culture Fight Against Fascism Fighting Ignorance)", 
+        "justification": null, 
+        "media_id": "35419317", 
+        "description": "Spanish Civil War poster. Diagonal rifle on open book. Logo on right page reads: CARTILLA / ESCOLAR / ANTIFASCISTA. Above, red text: MINISTERIO DE INSTRUCCION PUBLICA; Below, on right, white text in caps: LAS MILICIAS / DE LA CULTURA; below, black and white text in caps: LUCHAN CONTRA / EL FASCISMO / COMBATIENDO / LA IGNORANCIA. (Ministry of Public Instruction/ The Militias of Culture fight against fascism fighting ignorance)", 
+        "creditline": "Gift of William P. Mangold", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "ca. 1936", 
+        "url": "https://collection.cooperhewitt.org/objects/18655023/", 
+        "type": "poster", 
+        "accession_number": "1997-21-2", 
+        "year_end": 1936, 
+        "signed": "Signed in black ink, lower right: mauricio amster / UGT [in a square]", 
+        "inscribed": "Printed in black ink, lower left: “GRAFICAS VALENCIA” intervenido U.G.T.-C.N.T.", 
+        "period_id": null, 
+        "year_acquired": "1997", 
+        "woe:country_id": "23424950"
+    }
+}

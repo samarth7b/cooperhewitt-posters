@@ -1,0 +1,177 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": 1974, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": "offset lithograph on paper", 
+        "tms:id": "193523", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/64078_76505eb0030d9fda_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "64078"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/64078_76505eb0030d9fda_b.jpg", 
+                    "width": 783, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "64078"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/64078_76505eb0030d9fda_d.gif", 
+                    "width": 245, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "64078"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/64078_76505eb0030d9fda_z.jpg", 
+                    "width": 489, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "64078"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/64078_76505eb0030d9fda_n.jpg", 
+                    "width": 245, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "64078"
+                }
+            }, 
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/203167_6da954d10f3d8115_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "0", 
+                    "image_id": "203167"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/203167_6da954d10f3d8115_b.jpg", 
+                    "width": 800, 
+                    "height": 1024, 
+                    "is_primary": "0", 
+                    "image_id": "203167"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/203167_6da954d10f3d8115_d.gif", 
+                    "width": 250, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "203167"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/203167_6da954d10f3d8115_z.jpg", 
+                    "width": 500, 
+                    "height": 640, 
+                    "is_primary": "0", 
+                    "image_id": "203167"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/203167_6da954d10f3d8115_n.jpg", 
+                    "width": 250, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "203167"
+                }
+            }
+        ], 
+        "id": "18637343", 
+        "has_no_known_copyright": null, 
+        "woe:country_name": "United States", 
+        "dimensions": "55.9 x 43.3 cm (22 x 17 1/16 in.)", 
+        "title": "Poster, El Pap Test, 1974", 
+        "provenance": "1991: acquired by Museum", 
+        "participants": [
+            {
+                "person_name": "Push Pin Studios", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35351535/", 
+                "role_id": "35351535", 
+                "role_name": "Donor", 
+                "person_date": "founded 1954", 
+                "role_display_name": "Donated by", 
+                "person_id": "18042361", 
+                "person_url": "https://collection.cooperhewitt.org/people/18042361/"
+            }, 
+            {
+                "person_name": "CGC", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35352245/", 
+                "role_id": "35352245", 
+                "role_name": "Cataloguer", 
+                "person_date": "", 
+                "role_display_name": "Catalogued by", 
+                "person_id": "18048417", 
+                "person_url": "https://collection.cooperhewitt.org/people/18048417/"
+            }, 
+            {
+                "person_name": "American Cancer Society", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236667/", 
+                "role_id": "35236667", 
+                "role_name": "Client", 
+                "person_date": "New York, New York, USA", 
+                "role_display_name": "Client:", 
+                "person_id": "18042363", 
+                "person_url": "https://collection.cooperhewitt.org/people/18042363/"
+            }, 
+            {
+                "person_name": "Push Pin Studios", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236705/", 
+                "role_id": "35236705", 
+                "role_name": "Studio of", 
+                "person_date": "founded 1954", 
+                "role_display_name": "Studio of", 
+                "person_id": "18042361", 
+                "person_url": "https://collection.cooperhewitt.org/people/18042361/"
+            }, 
+            {
+                "person_name": "Seymour Chwast", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "American, b. 1931", 
+                "role_display_name": "Designed by", 
+                "person_id": "18042087", 
+                "person_url": "https://collection.cooperhewitt.org/people/18042087/"
+            }
+        ], 
+        "decade": "1970", 
+        "label_text": null, 
+        "woe:country": "23424977", 
+        "dimensions_raw": {
+            "width": [
+                "43.30", 
+                "centimeters"
+            ], 
+            "height": [
+                "55.90", 
+                "centimeters"
+            ]
+        }, 
+        "department_id": "35347493", 
+        "title_raw": "El Pap Test", 
+        "justification": null, 
+        "media_id": "35399021", 
+        "description": "A colorful interior, family in living room setting with floral wallpaper.. Below, in black ink: El Pap Test, la Salvacion de la Mujer.; lower center, right: American/Cancer/Society; in blue ink at lower margin right: 1974, American Cancer Society, Inc.", 
+        "creditline": "Gift of Push Pin Studios", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "1974", 
+        "url": "https://collection.cooperhewitt.org/objects/18637343/", 
+        "type": "poster", 
+        "accession_number": "1991-69-72", 
+        "year_end": 1974, 
+        "signed": null, 
+        "inscribed": "Imprinted in blue ink, lower left: 74-25M-3/74-No. 2102-LE [logo] 384; lower right: ©1974, American Cancer Society, Inc.", 
+        "period_id": null, 
+        "year_acquired": "1991", 
+        "woe:country_id": "23424977"
+    }
+}

@@ -1,0 +1,100 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": null, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": null, 
+        "tms:id": "177387", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/200603_eaa491d90620ffb3_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "200603"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/200603_eaa491d90620ffb3_b.jpg", 
+                    "width": 703, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "200603"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/200603_eaa491d90620ffb3_d.gif", 
+                    "width": 220, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "200603"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/200603_eaa491d90620ffb3_z.jpg", 
+                    "width": 439, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "200603"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/200603_eaa491d90620ffb3_n.jpg", 
+                    "width": 220, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "200603"
+                }
+            }
+        ], 
+        "id": "18617709", 
+        "has_no_known_copyright": null, 
+        "woe:country_name": "United States", 
+        "dimensions": "Overall: 54.5 x 36.6 cm (21 7/16 x 14 7/16 in.)", 
+        "title": "Poster, New York is One Big Rut Race", 
+        "provenance": "1981: acquired by Museum", 
+        "participants": [
+            {
+                "person_name": "Albano", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236601/", 
+                "role_id": "35236601", 
+                "role_name": "Illustrator", 
+                "person_date": "", 
+                "role_display_name": "Illustrated by", 
+                "person_id": "18057025", 
+                "person_url": "https://collection.cooperhewitt.org/people/18057025/"
+            }
+        ], 
+        "decade": null, 
+        "label_text": null, 
+        "woe:country": "23424977", 
+        "dimensions_raw": {
+            "width": [
+                "36.60", 
+                "centimeters"
+            ], 
+            "height": [
+                "54.50", 
+                "centimeters"
+            ]
+        }, 
+        "department_id": "35347493", 
+        "title_raw": "New York is One Big Rut Race", 
+        "justification": null, 
+        "media_id": "35371135", 
+        "description": null, 
+        "creditline": "Gift of Various Donors", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": null, 
+        "url": "https://collection.cooperhewitt.org/objects/18617709/", 
+        "type": "poster", 
+        "accession_number": "1981-29-301", 
+        "year_end": null, 
+        "signed": null, 
+        "inscribed": null, 
+        "period_id": null, 
+        "year_acquired": "1981", 
+        "woe:country_id": "23424977"
+    }
+}

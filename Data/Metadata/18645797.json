@@ -1,0 +1,120 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": 1970, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": "lithograph on paper", 
+        "tms:id": "197802", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/202184_5edc0946af2e7e99_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "202184"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/202184_5edc0946af2e7e99_b.jpg", 
+                    "width": 730, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "202184"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/202184_5edc0946af2e7e99_d.gif", 
+                    "width": 228, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "202184"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/202184_5edc0946af2e7e99_z.jpg", 
+                    "width": 456, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "202184"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/202184_5edc0946af2e7e99_n.jpg", 
+                    "width": 228, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "202184"
+                }
+            }
+        ], 
+        "id": "18645797", 
+        "has_no_known_copyright": null, 
+        "woe:country_name": "United States", 
+        "dimensions": "46 x 31.8 cm (18 1/8 x 12 1/2 in.)", 
+        "title": "Poster, Where are Their Graves in Soweto, ca. 1980", 
+        "provenance": null, 
+        "participants": [
+            {
+                "person_name": "Steven Heller", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35351535/", 
+                "role_id": "35351535", 
+                "role_name": "Donor", 
+                "person_date": "American, b. 1950", 
+                "role_display_name": "Donated by", 
+                "person_id": "18041397", 
+                "person_url": "https://collection.cooperhewitt.org/people/18041397/"
+            }, 
+            {
+                "person_name": "Karrie Jacobs", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35351535/", 
+                "role_id": "35351535", 
+                "role_name": "Donor", 
+                "person_date": "", 
+                "role_display_name": "Donated by", 
+                "person_id": "18056647", 
+                "person_url": "https://collection.cooperhewitt.org/people/18056647/"
+            }, 
+            {
+                "person_name": "LSA", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35352245/", 
+                "role_id": "35352245", 
+                "role_name": "Cataloguer", 
+                "person_date": "", 
+                "role_display_name": "Catalogued by", 
+                "person_id": "18048737", 
+                "person_url": "https://collection.cooperhewitt.org/people/18048737/"
+            }
+        ], 
+        "decade": "1970", 
+        "label_text": null, 
+        "woe:country": "23424977", 
+        "dimensions_raw": {
+            "width": [
+                "31.80", 
+                "centimeters"
+            ], 
+            "height": [
+                "46.00", 
+                "centimeters"
+            ]
+        }, 
+        "department_id": "35347493", 
+        "title_raw": "Where are Their Graves in Soweto", 
+        "justification": null, 
+        "media_id": "35419317", 
+        "description": "Drawing of woman, man and child For International Convention on the Suppression and Punishment of the Crime of Apartheid", 
+        "creditline": "Gift of Steven Heller and Karrie Jacobs", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "ca. 1980", 
+        "url": "https://collection.cooperhewitt.org/objects/18645797/", 
+        "type": "poster", 
+        "accession_number": "1993-53-78", 
+        "year_end": 1990, 
+        "signed": null, 
+        "inscribed": "Imprinted in black ink on bottom: Each uprising is more determined than the last. In Sharpeville we overcame the / consequences of disobeying the law...Soweto has been a lesson in overcoming fear of / the gun. Robert Sobukwe, late President / Pan Africanist Congress of Azania (South Africa)", 
+        "period_id": null, 
+        "year_acquired": "1993", 
+        "woe:country_id": "23424977"
+    }
+}

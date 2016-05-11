@@ -1,0 +1,137 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": 1971, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": "screenprint on paper", 
+        "tms:id": "177218", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/80012_8974bde96bee5180_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "80012"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/80012_8974bde96bee5180_b.jpg", 
+                    "width": 673, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "80012"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/80012_8974bde96bee5180_d.gif", 
+                    "width": 210, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "80012"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/80012_8974bde96bee5180_z.jpg", 
+                    "width": 420, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "80012"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/80012_8974bde96bee5180_n.jpg", 
+                    "width": 210, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "80012"
+                }
+            }, 
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/268737_a54e48fecedab570_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "0", 
+                    "image_id": "268737"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/268737_a54e48fecedab570_b.jpg", 
+                    "width": 672, 
+                    "height": 1024, 
+                    "is_primary": "0", 
+                    "image_id": "268737"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/268737_a54e48fecedab570_d.gif", 
+                    "width": 210, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "268737"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/268737_a54e48fecedab570_z.jpg", 
+                    "width": 420, 
+                    "height": 640, 
+                    "is_primary": "0", 
+                    "image_id": "268737"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/268737_a54e48fecedab570_n.jpg", 
+                    "width": 210, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "268737"
+                }
+            }
+        ], 
+        "id": "18617371", 
+        "has_no_known_copyright": null, 
+        "woe:country_name": "United States", 
+        "dimensions": "H x W: 101 x 65.3 cm (39 3/4 x 25 11/16 in.)", 
+        "title": "Poster, Herman Miller, Open House, ca. 1976", 
+        "provenance": "1981: acquired by Museum", 
+        "participants": [
+            {
+                "person_name": "Stephen Frykholm", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "American, b. 1942", 
+                "role_display_name": "Designed by", 
+                "person_id": "18042365", 
+                "person_url": "https://collection.cooperhewitt.org/people/18042365/"
+            }
+        ], 
+        "decade": "1970", 
+        "label_text": null, 
+        "woe:country": "23424977", 
+        "dimensions_raw": {
+            "width": [
+                "65.30", 
+                "centimeters"
+            ], 
+            "height": [
+                "101.00", 
+                "centimeters"
+            ]
+        }, 
+        "department_id": "35347493", 
+        "title_raw": "Herman Miller, Open House", 
+        "justification": null, 
+        "media_id": "35431679", 
+        "description": "Two silhouetted construction workers on scaffolding fence. Above in black text: [logo] herman miller open house; Come to our Herman Miller Open House / Wednesday/Thursday, September 15/16, 6-9 PM; Our facilities are expanding, and we’d like / to show them to you. See our latest / manufacturing building. Then there’s our / spine, which will eventually link every one / of the buildings on our site. And our just- / completed office building, the first of five / we’re planning.; The Herman Miller plant facilities are on / East Main Street in Zeeland, just off M-21. / Let us show you how our innovative office / and health/science products are made. / Everyone—from the person who greets you / at the door to the tour guides who will / answer your questions—will make sure / your evening is both enjoyable / and rewarding.", 
+        "creditline": "Gift of Various Donors", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "ca. 1976", 
+        "url": "https://collection.cooperhewitt.org/objects/18617371/", 
+        "type": "poster", 
+        "accession_number": "1981-29-152", 
+        "year_end": 1981, 
+        "signed": null, 
+        "inscribed": null, 
+        "period_id": null, 
+        "year_acquired": "1981", 
+        "woe:country_id": "23424977"
+    }
+}

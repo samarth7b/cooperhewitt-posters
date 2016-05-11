@@ -1,0 +1,177 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": 1992, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": "offset lithograph on paper", 
+        "tms:id": "200082", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/13541_a1c7d9bd3af68c36_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "13541"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/13541_a1c7d9bd3af68c36_b.jpg", 
+                    "width": 1024, 
+                    "height": 404, 
+                    "is_primary": "1", 
+                    "image_id": "13541"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/13541_a1c7d9bd3af68c36_d.gif", 
+                    "width": 320, 
+                    "height": 126, 
+                    "is_primary": "1", 
+                    "image_id": "13541"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/13541_a1c7d9bd3af68c36_z.jpg", 
+                    "width": 640, 
+                    "height": 253, 
+                    "is_primary": "1", 
+                    "image_id": "13541"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/13541_a1c7d9bd3af68c36_n.jpg", 
+                    "width": 320, 
+                    "height": 126, 
+                    "is_primary": "1", 
+                    "image_id": "13541"
+                }
+            }, 
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/252776_25446a550aec20ab_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "0", 
+                    "image_id": "252776"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/252776_25446a550aec20ab_b.jpg", 
+                    "width": 1024, 
+                    "height": 401, 
+                    "is_primary": "0", 
+                    "image_id": "252776"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/252776_25446a550aec20ab_d.gif", 
+                    "width": 320, 
+                    "height": 125, 
+                    "is_primary": "0", 
+                    "image_id": "252776"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/252776_25446a550aec20ab_z.jpg", 
+                    "width": 640, 
+                    "height": 251, 
+                    "is_primary": "0", 
+                    "image_id": "252776"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/252776_25446a550aec20ab_n.jpg", 
+                    "width": 320, 
+                    "height": 125, 
+                    "is_primary": "0", 
+                    "image_id": "252776"
+                }
+            }
+        ], 
+        "id": "18650309", 
+        "has_no_known_copyright": null, 
+        "woe:country_name": "United States", 
+        "dimensions": "30.8 x 81.3 cm (12 1/8 x 32 in.)", 
+        "title": "Poster, Reading and the Arts of the Book, Getty Center for the History of Art and the Humanities, 1992", 
+        "provenance": "Lisa Nugent", 
+        "participants": [
+            {
+                "person_name": "Karin Zonis", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35352245/", 
+                "role_id": "35352245", 
+                "role_name": "Cataloguer", 
+                "person_date": "", 
+                "role_display_name": "Catalogued by", 
+                "person_id": "51676457", 
+                "person_url": "https://collection.cooperhewitt.org/people/51676457/"
+            }, 
+            {
+                "person_name": "Lisa Nugent", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35351535/", 
+                "role_id": "35351535", 
+                "role_name": "Donor", 
+                "person_date": "", 
+                "role_display_name": "Donated by", 
+                "person_id": "18043571", 
+                "person_url": "https://collection.cooperhewitt.org/people/18043571/"
+            }, 
+            {
+                "person_name": "Elizabeth Horwitz Marcus", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35352245/", 
+                "role_id": "35352245", 
+                "role_name": "Cataloguer", 
+                "person_date": "", 
+                "role_display_name": "Catalogued by", 
+                "person_id": "18047453", 
+                "person_url": "https://collection.cooperhewitt.org/people/18047453/"
+            }, 
+            {
+                "person_name": "AU", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35352245/", 
+                "role_id": "35352245", 
+                "role_name": "Cataloguer", 
+                "person_date": "", 
+                "role_display_name": "Catalogued by", 
+                "person_id": "18048335", 
+                "person_url": "https://collection.cooperhewitt.org/people/18048335/"
+            }, 
+            {
+                "person_name": "Lisa Nugent", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "", 
+                "role_display_name": "Designed by", 
+                "person_id": "18043571", 
+                "person_url": "https://collection.cooperhewitt.org/people/18043571/"
+            }
+        ], 
+        "decade": "1990", 
+        "label_text": null, 
+        "woe:country": "23424977", 
+        "dimensions_raw": {
+            "width": [
+                "81.28", 
+                "centimeters"
+            ], 
+            "height": [
+                "30.80", 
+                "centimeters"
+            ]
+        }, 
+        "department_id": "35347493", 
+        "title_raw": "Reading and the Arts of the Book, Getty Center for the History of Art and the Humanities", 
+        "justification": null, 
+        "media_id": "35399021", 
+        "description": "Poster for Conference, Getty Center for the History of Art and the Humanities, Santa Monica, CA. Grey color field at center fold with white edges. Large bold text, imprinted in black, floats and echoes over various parts of the page: READING AND THE ARTS OF THE BOOK. Left, in black: June 25 - July 3, 1 9 9 2/ Santa Monica, CA; below, in black: (conference description); center, in black: Lectures/ The Getty Center for the History of Art and the Humanities/ Panel Discussions/ Demonstrations; at right, in black: (list of lecturers and panelists).", 
+        "creditline": "Gift of Lisa Nugent", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "1992", 
+        "url": "https://collection.cooperhewitt.org/objects/18650309/", 
+        "type": "poster", 
+        "accession_number": "1995-160-2", 
+        "year_end": 1992, 
+        "signed": null, 
+        "inscribed": null, 
+        "period_id": null, 
+        "year_acquired": "1995", 
+        "woe:country_id": "23424977"
+    }
+}

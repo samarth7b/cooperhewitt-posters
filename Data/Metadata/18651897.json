@@ -1,0 +1,147 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": null, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": "lithograph on white wove paper", 
+        "tms:id": "200891", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/84936_7c18085a02146e0d_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "84936"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/84936_7c18085a02146e0d_b.jpg", 
+                    "width": 457, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "84936"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/84936_7c18085a02146e0d_d.gif", 
+                    "width": 143, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "84936"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/84936_7c18085a02146e0d_z.jpg", 
+                    "width": 286, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "84936"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/84936_7c18085a02146e0d_n.jpg", 
+                    "width": 143, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "84936"
+                }
+            }, 
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/268826_8138c5c83543bf7b_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "0", 
+                    "image_id": "268826"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/268826_8138c5c83543bf7b_b.jpg", 
+                    "width": 468, 
+                    "height": 1024, 
+                    "is_primary": "0", 
+                    "image_id": "268826"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/268826_8138c5c83543bf7b_d.gif", 
+                    "width": 146, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "268826"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/268826_8138c5c83543bf7b_z.jpg", 
+                    "width": 292, 
+                    "height": 640, 
+                    "is_primary": "0", 
+                    "image_id": "268826"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/268826_8138c5c83543bf7b_n.jpg", 
+                    "width": 146, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "268826"
+                }
+            }
+        ], 
+        "id": "18651897", 
+        "has_no_known_copyright": null, 
+        "woe:country_name": "United States", 
+        "dimensions": "74.2 x 33 cm (29 3/16 in. x 13 in.)", 
+        "title": "Poster, Films/Movies", 
+        "provenance": "1995: acquired by Museum", 
+        "participants": [
+            {
+                "person_name": "Art Chantry", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35351535/", 
+                "role_id": "35351535", 
+                "role_name": "Donor", 
+                "person_date": "American, b. 1954", 
+                "role_display_name": "Donated by", 
+                "person_id": "18041683", 
+                "person_url": "https://collection.cooperhewitt.org/people/18041683/"
+            }, 
+            {
+                "person_name": "Art Chantry", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "American, b. 1954", 
+                "role_display_name": "Designed by", 
+                "person_id": "18041683", 
+                "person_url": "https://collection.cooperhewitt.org/people/18041683/"
+            }
+        ], 
+        "decade": null, 
+        "label_text": null, 
+        "woe:country": "23424977", 
+        "dimensions_raw": {
+            "width": [
+                "33.00", 
+                "centimeters"
+            ], 
+            "height": [
+                "74.20", 
+                "centimeters"
+            ]
+        }, 
+        "department_id": "35347493", 
+        "title_raw": "Films/Movies", 
+        "justification": null, 
+        "media_id": "35374607", 
+        "description": "Poster advertising the ASUW's Major Film Series.  Portion of a film reel printed on top half of poster, in brown, featuring three frames of young man with mouth agape, screaming.  Small circular inserts appear at the bottom right of each frame:  Col. Tim McCoy, a winged figure, and James Dean.  Schedule of events occupies bottom half of the poster.", 
+        "creditline": "Gift of Art Chantry", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": null, 
+        "url": "https://collection.cooperhewitt.org/objects/18651897/", 
+        "type": "poster", 
+        "accession_number": "1995-69-52", 
+        "year_end": null, 
+        "signed": null, 
+        "inscribed": null, 
+        "period_id": null, 
+        "year_acquired": "1995", 
+        "woe:country_id": "23424977"
+    }
+}

@@ -1,0 +1,157 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": 1993, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": "offset lithograph on paper", 
+        "tms:id": "200416", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/12633_fc174592d9869c68_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "12633"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/12633_fc174592d9869c68_b.jpg", 
+                    "width": 848, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "12633"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/12633_fc174592d9869c68_d.gif", 
+                    "width": 265, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "12633"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/12633_fc174592d9869c68_z.jpg", 
+                    "width": 530, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "12633"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/12633_fc174592d9869c68_n.jpg", 
+                    "width": 265, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "12633"
+                }
+            }, 
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/122677_29b09aed8a49692e_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "0", 
+                    "image_id": "122677"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/122677_29b09aed8a49692e_b.jpg", 
+                    "width": 847, 
+                    "height": 1024, 
+                    "is_primary": "0", 
+                    "image_id": "122677"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/122677_29b09aed8a49692e_d.gif", 
+                    "width": 265, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "122677"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/122677_29b09aed8a49692e_z.jpg", 
+                    "width": 529, 
+                    "height": 640, 
+                    "is_primary": "0", 
+                    "image_id": "122677"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/122677_29b09aed8a49692e_n.jpg", 
+                    "width": 265, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "122677"
+                }
+            }
+        ], 
+        "id": "18650961", 
+        "has_no_known_copyright": null, 
+        "woe:country_name": "United States", 
+        "dimensions": "33.3 x 27 cm (13 1/8 x 10 5/8 in.)", 
+        "title": "Poster, Superslims, 1993", 
+        "provenance": "SisterSerpents; 1995: acquired by Museum", 
+        "participants": [
+            {
+                "person_name": "SisterSerpents", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35351535/", 
+                "role_id": "35351535", 
+                "role_name": "Donor", 
+                "person_date": "Chicago, Illinois, USA", 
+                "role_display_name": "Donated by", 
+                "person_id": "18041607", 
+                "person_url": "https://collection.cooperhewitt.org/people/18041607/"
+            }, 
+            {
+                "person_name": "AU", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35352245/", 
+                "role_id": "35352245", 
+                "role_name": "Cataloguer", 
+                "person_date": "", 
+                "role_display_name": "Catalogued by", 
+                "person_id": "18048335", 
+                "person_url": "https://collection.cooperhewitt.org/people/18048335/"
+            }, 
+            {
+                "person_name": "SisterSerpents", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "Chicago, Illinois, USA", 
+                "role_display_name": "Designed by", 
+                "person_id": "18041607", 
+                "person_url": "https://collection.cooperhewitt.org/people/18041607/"
+            }
+        ], 
+        "decade": "1990", 
+        "label_text": null, 
+        "woe:country": "23424977", 
+        "dimensions_raw": {
+            "width": [
+                "27.00", 
+                "centimeters"
+            ], 
+            "height": [
+                "33.30", 
+                "centimeters"
+            ]
+        }, 
+        "department_id": "35347493", 
+        "title_raw": "Superslims", 
+        "justification": null, 
+        "media_id": "35399021", 
+        "description": "Poster depicts a blurry photograph of a blonde woman in a red dress wearing black sunglasses holding a cigarette in her left hand. Across the poster, text in white: Superslims / FROM VIRGINIA SLIMS. In the lower right, an open pack of Virginia Superslims. Superimposed on this pack, is a coiled green snake and a row of five nude, nearly skeletal, woman in profile. In the lower margin, text in black on white: SERPENT GENERAL’S WARNING: Distorted / Ideas of Beauty Are Hazardous To Your Health.", 
+        "creditline": "Gift of SisterSerpents", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "1993", 
+        "url": "https://collection.cooperhewitt.org/objects/18650961/", 
+        "type": "poster", 
+        "accession_number": "1995-18-1", 
+        "year_end": 1993, 
+        "signed": "Signed in black, across left margin: SISTERSERPENTS 1993", 
+        "inscribed": "Imprinted in white, lower left: 8 mg \"tar,\" 0.4 mg nicotine av per cigarette by FTC method.", 
+        "period_id": null, 
+        "year_acquired": "1995", 
+        "woe:country_id": "23424977"
+    }
+}

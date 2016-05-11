@@ -1,0 +1,90 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": null, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": null, 
+        "tms:id": "201416", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/268377_dbcc680fc8ae00a4_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "268377"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/268377_dbcc680fc8ae00a4_b.jpg", 
+                    "width": 724, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "268377"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/268377_dbcc680fc8ae00a4_d.gif", 
+                    "width": 226, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "268377"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/268377_dbcc680fc8ae00a4_z.jpg", 
+                    "width": 452, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "268377"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/268377_dbcc680fc8ae00a4_n.jpg", 
+                    "width": 226, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "268377"
+                }
+            }
+        ], 
+        "id": "18652927", 
+        "has_no_known_copyright": null, 
+        "dimensions": null, 
+        "title": "Poster, Yrjo Kukkapuro/Tuolit Stolar Chairs", 
+        "provenance": null, 
+        "participants": [
+            {
+                "person_name": "Unknown donor: unsolicited gift", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35351535/", 
+                "role_id": "35351535", 
+                "role_name": "Donor", 
+                "person_date": "", 
+                "role_display_name": "Donated by", 
+                "person_id": "18050283", 
+                "person_url": "https://collection.cooperhewitt.org/people/18050283/"
+            }
+        ], 
+        "decade": null, 
+        "label_text": null, 
+        "woe:country": null, 
+        "dimensions_raw": null, 
+        "department_id": "35347493", 
+        "title_raw": "Yrjo Kukkapuro/Tuolit Stolar Chairs", 
+        "justification": null, 
+        "media_id": "35371135", 
+        "description": null, 
+        "creditline": "Gift of Unknown Donor", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": null, 
+        "url": "https://collection.cooperhewitt.org/objects/18652927/", 
+        "type": "poster", 
+        "accession_number": "1996-128-2", 
+        "year_end": null, 
+        "signed": null, 
+        "inscribed": null, 
+        "period_id": null, 
+        "year_acquired": "1996", 
+        "woe:country_id": null
+    }
+}

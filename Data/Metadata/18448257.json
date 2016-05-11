@@ -1,0 +1,147 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": 1934, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": "lithograph on white wove paper, mounted on board", 
+        "tms:id": "134644", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/65786_98ecf50e907ef0df_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "65786"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/65786_98ecf50e907ef0df_b.jpg", 
+                    "width": 674, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "65786"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/65786_98ecf50e907ef0df_d.gif", 
+                    "width": 211, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "65786"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/65786_98ecf50e907ef0df_z.jpg", 
+                    "width": 421, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "65786"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/65786_98ecf50e907ef0df_n.jpg", 
+                    "width": 211, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "65786"
+                }
+            }, 
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/268374_3859c056b06c6d3d_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "0", 
+                    "image_id": "268374"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/268374_3859c056b06c6d3d_b.jpg", 
+                    "width": 659, 
+                    "height": 1024, 
+                    "is_primary": "0", 
+                    "image_id": "268374"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/268374_3859c056b06c6d3d_d.gif", 
+                    "width": 206, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "268374"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/268374_3859c056b06c6d3d_z.jpg", 
+                    "width": 412, 
+                    "height": 640, 
+                    "is_primary": "0", 
+                    "image_id": "268374"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/268374_3859c056b06c6d3d_n.jpg", 
+                    "width": 206, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "268374"
+                }
+            }
+        ], 
+        "id": "18448257", 
+        "has_no_known_copyright": null, 
+        "woe:country_name": "United Kingdom", 
+        "dimensions": "101.4 x 63.3 cm (39 15/16 x 24 15/16 in.)", 
+        "title": "Poster, The Tower of London - London Transport, 1934", 
+        "provenance": "Mrs. Edward McKnight Kauffer; 1963: acquired by Museum", 
+        "participants": [
+            {
+                "person_name": "Mrs. Edward McKnight Kauffer", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35351535/", 
+                "role_id": "35351535", 
+                "role_name": "Donor", 
+                "person_date": "", 
+                "role_display_name": "Donated by", 
+                "person_id": "18061849", 
+                "person_url": "https://collection.cooperhewitt.org/people/18061849/"
+            }, 
+            {
+                "person_name": "Edward McKnight Kauffer", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "American, active England, 1890–1954", 
+                "role_display_name": "Designed by", 
+                "person_id": "18041923", 
+                "person_url": "https://collection.cooperhewitt.org/people/18041923/"
+            }
+        ], 
+        "decade": "1930", 
+        "label_text": null, 
+        "woe:country": "23424975", 
+        "dimensions_raw": {
+            "width": [
+                "63.30", 
+                "centimeters"
+            ], 
+            "height": [
+                "101.40", 
+                "centimeters"
+            ]
+        }, 
+        "department_id": "35347493", 
+        "title_raw": "The Tower of London - London Transport", 
+        "justification": null, 
+        "media_id": "51865797", 
+        "description": "Poster depicts silhouettes of a castle and two twoers in tan and cream, against a dark sky; trees are delineated in tan and water below. In lower margin, text in black and tan: London’s Underground [logo] / THE TOWER / OF LONDON.", 
+        "creditline": "Gift of Mrs. E. McKnight Kauffer", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "1934", 
+        "url": "https://collection.cooperhewitt.org/objects/18448257/", 
+        "type": "poster", 
+        "accession_number": "1963-39-53", 
+        "year_end": 1934, 
+        "signed": "Signed in black ink, center left: E McKnight Kauffer ‘34", 
+        "inscribed": "Printed in tan ink, lower left: 4/9/34/3433 1500; lower right: VINCENT BROOKS, DAY & SON LTD LONDON. W.C.2.", 
+        "period_id": null, 
+        "year_acquired": "1963", 
+        "woe:country_id": "23424975"
+    }
+}

@@ -1,0 +1,167 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": 1986, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": "lithograph on paper", 
+        "tms:id": "202126", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/82347_0e6fa8e40a9be5cc_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "82347"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/82347_0e6fa8e40a9be5cc_b.jpg", 
+                    "width": 1002, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "82347"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/82347_0e6fa8e40a9be5cc_d.gif", 
+                    "width": 313, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "82347"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/82347_0e6fa8e40a9be5cc_z.jpg", 
+                    "width": 626, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "82347"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/82347_0e6fa8e40a9be5cc_n.jpg", 
+                    "width": 313, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "82347"
+                }
+            }, 
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/267292_a452d52a4eced977_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "0", 
+                    "image_id": "267292"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/267292_a452d52a4eced977_b.jpg", 
+                    "width": 1009, 
+                    "height": 1024, 
+                    "is_primary": "0", 
+                    "image_id": "267292"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/267292_a452d52a4eced977_d.gif", 
+                    "width": 315, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "267292"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/267292_a452d52a4eced977_z.jpg", 
+                    "width": 630, 
+                    "height": 640, 
+                    "is_primary": "0", 
+                    "image_id": "267292"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/267292_a452d52a4eced977_n.jpg", 
+                    "width": 315, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "267292"
+                }
+            }
+        ], 
+        "id": "18654331", 
+        "has_no_known_copyright": null, 
+        "woe:country_name": "United States", 
+        "dimensions": "62.9 x 64.4 cm (24 3/4 x 25 3/8 in.)", 
+        "title": "Poster, Berkeley Typographers (polka dots), 1986", 
+        "provenance": "1996: acquired by Museum", 
+        "participants": [
+            {
+                "person_name": "Tom Wedell", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "American, b. 1949", 
+                "role_display_name": "Designed by", 
+                "person_id": "68264031", 
+                "person_url": "https://collection.cooperhewitt.org/people/68264031/"
+            }, 
+            {
+                "person_name": "National Bickford Foremost", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236673/", 
+                "role_id": "35236673", 
+                "role_name": "Printer", 
+                "person_date": "", 
+                "role_display_name": "Printed by", 
+                "person_id": "68248237", 
+                "person_url": "https://collection.cooperhewitt.org/people/68248237/"
+            }, 
+            {
+                "person_name": "Nancy Skolos", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35351535/", 
+                "role_id": "35351535", 
+                "role_name": "Donor", 
+                "person_date": "American, b. 1955", 
+                "role_display_name": "Donated by", 
+                "person_id": "18041679", 
+                "person_url": "https://collection.cooperhewitt.org/people/18041679/"
+            }, 
+            {
+                "person_name": "Nancy Skolos", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "American, b. 1955", 
+                "role_display_name": "Designed by", 
+                "person_id": "18041679", 
+                "person_url": "https://collection.cooperhewitt.org/people/18041679/"
+            }
+        ], 
+        "decade": "1980", 
+        "label_text": null, 
+        "woe:country": "23424977", 
+        "dimensions_raw": {
+            "width": [
+                "64.40", 
+                "centimeters"
+            ], 
+            "height": [
+                "62.90", 
+                "centimeters"
+            ]
+        }, 
+        "department_id": "35347493", 
+        "title_raw": "Berkeley Typographers (polka dots)", 
+        "justification": null, 
+        "media_id": "35419317", 
+        "description": "Poster depicts several different polka-dotted patterns in various configurations. At left edge white vertical rolls with black polka dots. A large ‘B’ made up of ‘cut out’ circles with polka dots, peach colored polka dotted cones, orange spheres, blue dots with black polka dots over another larger sphere with polka dots. Below, text in black and orange: Berkeley Typographers.", 
+        "creditline": "Gift of Nancy Skolos", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "1986", 
+        "url": "https://collection.cooperhewitt.org/objects/18654331/", 
+        "type": "poster", 
+        "accession_number": "1996-90-26", 
+        "year_end": 1986, 
+        "signed": null, 
+        "inscribed": "Imprinted in white, right edge: Design: Skolos, Wedell + Raynor   Printing: National Bickford Foremost", 
+        "period_id": null, 
+        "year_acquired": "1996", 
+        "woe:country_id": "23424977"
+    }
+}

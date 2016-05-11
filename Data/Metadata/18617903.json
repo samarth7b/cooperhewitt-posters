@@ -1,0 +1,100 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": 1980, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": null, 
+        "tms:id": "177485", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/200823_e9b6c11e8317cebc_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "200823"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/200823_e9b6c11e8317cebc_b.jpg", 
+                    "width": 662, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "200823"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/200823_e9b6c11e8317cebc_d.gif", 
+                    "width": 207, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "200823"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/200823_e9b6c11e8317cebc_z.jpg", 
+                    "width": 413, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "200823"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/200823_e9b6c11e8317cebc_n.jpg", 
+                    "width": 207, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "200823"
+                }
+            }
+        ], 
+        "id": "18617903", 
+        "has_no_known_copyright": null, 
+        "woe:country_name": "United States", 
+        "dimensions": "Overall: 58.3 x 35.5 cm (22 15/16 x 14 in.)", 
+        "title": "Poster, And now a message, 1980", 
+        "provenance": null, 
+        "participants": [
+            {
+                "person_name": "Leo Mullen", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "", 
+                "role_display_name": "Designed by", 
+                "person_id": "68263949", 
+                "person_url": "https://collection.cooperhewitt.org/people/68263949/"
+            }
+        ], 
+        "decade": "1980", 
+        "label_text": null, 
+        "woe:country": "23424977", 
+        "dimensions_raw": {
+            "width": [
+                "35.50", 
+                "centimeters"
+            ], 
+            "height": [
+                "58.30", 
+                "centimeters"
+            ]
+        }, 
+        "department_id": "35347493", 
+        "title_raw": "And now a message", 
+        "justification": null, 
+        "media_id": "35371135", 
+        "description": null, 
+        "creditline": "Gift of Various Donors", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "1980", 
+        "url": "https://collection.cooperhewitt.org/objects/18617903/", 
+        "type": "poster", 
+        "accession_number": "1981-29-39", 
+        "year_end": 1980, 
+        "signed": null, 
+        "inscribed": null, 
+        "period_id": null, 
+        "year_acquired": "1981", 
+        "woe:country_id": "23424977"
+    }
+}

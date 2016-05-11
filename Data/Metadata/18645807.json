@@ -1,0 +1,140 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": 1986, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": "screenprint on brown paper", 
+        "tms:id": "197807", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/223476_87d7363bbf0bf3b5_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "0", 
+                    "image_id": "223476"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/223476_87d7363bbf0bf3b5_b.jpg", 
+                    "width": 1024, 
+                    "height": 852, 
+                    "is_primary": "0", 
+                    "image_id": "223476"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/223476_87d7363bbf0bf3b5_d.gif", 
+                    "width": 320, 
+                    "height": 266, 
+                    "is_primary": "0", 
+                    "image_id": "223476"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/223476_87d7363bbf0bf3b5_z.jpg", 
+                    "width": 640, 
+                    "height": 532, 
+                    "is_primary": "0", 
+                    "image_id": "223476"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/223476_87d7363bbf0bf3b5_n.jpg", 
+                    "width": 320, 
+                    "height": 266, 
+                    "is_primary": "0", 
+                    "image_id": "223476"
+                }
+            }
+        ], 
+        "id": "18645807", 
+        "has_no_known_copyright": null, 
+        "woe:country_name": "United States", 
+        "dimensions": "50.7 × 61.3 cm (19 15/16 × 24 1/8 in.)", 
+        "title": "Poster, Why Are Apartments Expensive?, 1986", 
+        "provenance": "Steven Heller and Karrie Jacobs; 1993: acquired by Museum", 
+        "participants": [
+            {
+                "person_name": "Karrie Jacobs", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35351535/", 
+                "role_id": "35351535", 
+                "role_name": "Donor", 
+                "person_date": "", 
+                "role_display_name": "Donated by", 
+                "person_id": "18056647", 
+                "person_url": "https://collection.cooperhewitt.org/people/18056647/"
+            }, 
+            {
+                "person_name": "Steven Heller", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35351535/", 
+                "role_id": "35351535", 
+                "role_name": "Donor", 
+                "person_date": "American, b. 1950", 
+                "role_display_name": "Donated by", 
+                "person_id": "18041397", 
+                "person_url": "https://collection.cooperhewitt.org/people/18041397/"
+            }, 
+            {
+                "person_name": "LSA", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35352245/", 
+                "role_id": "35352245", 
+                "role_name": "Cataloguer", 
+                "person_date": "", 
+                "role_display_name": "Catalogued by", 
+                "person_id": "18048737", 
+                "person_url": "https://collection.cooperhewitt.org/people/18048737/"
+            }, 
+            {
+                "person_name": "Frank Morales", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236689/", 
+                "role_id": "35236689", 
+                "role_name": "Author", 
+                "person_date": "", 
+                "role_display_name": "Written by", 
+                "person_id": "18043231", 
+                "person_url": "https://collection.cooperhewitt.org/people/18043231/"
+            }, 
+            {
+                "person_name": "Seth Tobocman", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236565/", 
+                "role_id": "35236565", 
+                "role_name": "Artist", 
+                "person_date": "American, b. 1958", 
+                "role_display_name": "", 
+                "person_id": "18043229", 
+                "person_url": "https://collection.cooperhewitt.org/people/18043229/"
+            }
+        ], 
+        "decade": "1980", 
+        "label_text": null, 
+        "woe:country": "23424977", 
+        "dimensions_raw": {
+            "width": [
+                "61.30", 
+                "centimeters"
+            ], 
+            "height": [
+                "50.70", 
+                "centimeters"
+            ]
+        }, 
+        "department_id": "35347493", 
+        "title_raw": "Why Are Apartments Expensive?", 
+        "justification": null, 
+        "media_id": "68266459", 
+        "description": "Black block print detailing inner-city politics", 
+        "creditline": "Gift of Steven Heller and Karrie Jacobs", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "1986", 
+        "url": "https://collection.cooperhewitt.org/objects/18645807/", 
+        "type": "poster", 
+        "accession_number": "1993-53-82", 
+        "year_end": 1986, 
+        "signed": null, 
+        "inscribed": null, 
+        "period_id": null, 
+        "year_acquired": "1993", 
+        "woe:country_id": "23424977"
+    }
+}

@@ -1,0 +1,197 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": 1988, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": "offset lithograph on white wove paper", 
+        "tms:id": "197768", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/50024_09313097ffd5de00_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "50024"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/50024_09313097ffd5de00_b.jpg", 
+                    "width": 665, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "50024"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/50024_09313097ffd5de00_d.gif", 
+                    "width": 208, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "50024"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/50024_09313097ffd5de00_z.jpg", 
+                    "width": 415, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "50024"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/50024_09313097ffd5de00_n.jpg", 
+                    "width": 208, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "50024"
+                }
+            }, 
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/254271_8df0dfa29cc3c20d_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "0", 
+                    "image_id": "254271"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/254271_8df0dfa29cc3c20d_b.jpg", 
+                    "width": 674, 
+                    "height": 1024, 
+                    "is_primary": "0", 
+                    "image_id": "254271"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/254271_8df0dfa29cc3c20d_d.gif", 
+                    "width": 211, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "254271"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/254271_8df0dfa29cc3c20d_z.jpg", 
+                    "width": 421, 
+                    "height": 640, 
+                    "is_primary": "0", 
+                    "image_id": "254271"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/254271_8df0dfa29cc3c20d_n.jpg", 
+                    "width": 211, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "254271"
+                }
+            }
+        ], 
+        "id": "18645729", 
+        "has_no_known_copyright": null, 
+        "woe:country_name": "United States", 
+        "dimensions": "94 x 61.2 cm (37 in. x 24 1/8 in.)", 
+        "title": "Poster, Human Rights Now, Amnesty International, 1988", 
+        "provenance": "Steve Heller and Karrie Jacobs", 
+        "participants": [
+            {
+                "person_name": "Amnesty International", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236667/", 
+                "role_id": "35236667", 
+                "role_name": "Client", 
+                "person_date": "", 
+                "role_display_name": "Client:", 
+                "person_id": "18062333", 
+                "person_url": "https://collection.cooperhewitt.org/people/18062333/"
+            }, 
+            {
+                "person_name": "Karin Zonis", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35352245/", 
+                "role_id": "35352245", 
+                "role_name": "Cataloguer", 
+                "person_date": "", 
+                "role_display_name": "Catalogued by", 
+                "person_id": "51676457", 
+                "person_url": "https://collection.cooperhewitt.org/people/51676457/"
+            }, 
+            {
+                "person_name": "Karrie Jacobs", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35351535/", 
+                "role_id": "35351535", 
+                "role_name": "Donor", 
+                "person_date": "", 
+                "role_display_name": "Donated by", 
+                "person_id": "18056647", 
+                "person_url": "https://collection.cooperhewitt.org/people/18056647/"
+            }, 
+            {
+                "person_name": "Steven Heller", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35351535/", 
+                "role_id": "35351535", 
+                "role_name": "Donor", 
+                "person_date": "American, b. 1950", 
+                "role_display_name": "Donated by", 
+                "person_id": "18041397", 
+                "person_url": "https://collection.cooperhewitt.org/people/18041397/"
+            }, 
+            {
+                "person_name": "Megan L. Smith", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35352245/", 
+                "role_id": "35352245", 
+                "role_name": "Cataloguer", 
+                "person_date": "", 
+                "role_display_name": "Catalogued by", 
+                "person_id": "18047443", 
+                "person_url": "https://collection.cooperhewitt.org/people/18047443/"
+            }, 
+            {
+                "person_name": "LSA", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35352245/", 
+                "role_id": "35352245", 
+                "role_name": "Cataloguer", 
+                "person_date": "", 
+                "role_display_name": "Catalogued by", 
+                "person_id": "18048737", 
+                "person_url": "https://collection.cooperhewitt.org/people/18048737/"
+            }, 
+            {
+                "person_name": "Seymour Chwast", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "American, b. 1931", 
+                "role_display_name": "Designed by", 
+                "person_id": "18042087", 
+                "person_url": "https://collection.cooperhewitt.org/people/18042087/"
+            }
+        ], 
+        "decade": "1980", 
+        "label_text": null, 
+        "woe:country": "23424977", 
+        "dimensions_raw": {
+            "width": [
+                "61.20", 
+                "centimeters"
+            ], 
+            "height": [
+                "94.00", 
+                "centimeters"
+            ]
+        }, 
+        "department_id": "35347493", 
+        "title_raw": "Human Rights Now, Amnesty International", 
+        "justification": null, 
+        "media_id": "35431673", 
+        "description": "Poster depicts four blue hands holding different light sources—a match, a lighter, a candle, and a flashlight—on a black background. Text above in green: HUMAN RIGHTS NOW; / left: ONE MOVEMENT / ONE MESSAGE / MANY VOICES; right: AMNESTY / INTERNATIONAL / 1988.", 
+        "creditline": "Gift of Steven Heller and Karrie Jacobs", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "1988", 
+        "url": "https://collection.cooperhewitt.org/objects/18645729/", 
+        "type": "poster", 
+        "accession_number": "1993-53-55", 
+        "year_end": 1988, 
+        "signed": null, 
+        "inscribed": "Imprinted in green, lower margin: Printing: Kenner Printing Co. Inc. Paper: Mohawk 80 lb. Poseidon Text, Vellum Finish Color Separation: International Productions", 
+        "period_id": null, 
+        "year_acquired": "1993", 
+        "woe:country_id": "23424977"
+    }
+}

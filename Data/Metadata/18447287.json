@@ -1,0 +1,110 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": 1943, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": "lithograph on paper, lined", 
+        "tms:id": "134159", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/65125_e3986e6dfdca3b53_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "65125"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/65125_e3986e6dfdca3b53_b.jpg", 
+                    "width": 777, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "65125"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/65125_e3986e6dfdca3b53_d.gif", 
+                    "width": 243, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "65125"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/65125_e3986e6dfdca3b53_z.jpg", 
+                    "width": 485, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "65125"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/65125_e3986e6dfdca3b53_n.jpg", 
+                    "width": 243, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "65125"
+                }
+            }
+        ], 
+        "id": "18447287", 
+        "has_no_known_copyright": null, 
+        "woe:country_name": "United States", 
+        "dimensions": "107.1 x 79.4 cm (42 3/16 x 31 1/4 in.)", 
+        "title": "Poster, American Airlines to England, ca. 1948", 
+        "provenance": "Mrs. Edward McKnight Kauffer; 1963: acquired by Museum", 
+        "participants": [
+            {
+                "person_name": "Mrs. Edward McKnight Kauffer", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35351535/", 
+                "role_id": "35351535", 
+                "role_name": "Donor", 
+                "person_date": "", 
+                "role_display_name": "Donated by", 
+                "person_id": "18061849", 
+                "person_url": "https://collection.cooperhewitt.org/people/18061849/"
+            }, 
+            {
+                "person_name": "Edward McKnight Kauffer", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "American, active England, 1890–1954", 
+                "role_display_name": "Designed by", 
+                "person_id": "18041923", 
+                "person_url": "https://collection.cooperhewitt.org/people/18041923/"
+            }
+        ], 
+        "decade": "1940", 
+        "label_text": null, 
+        "woe:country": "23424977", 
+        "dimensions_raw": {
+            "width": [
+                "79.40", 
+                "centimeters"
+            ], 
+            "height": [
+                "107.10", 
+                "centimeters"
+            ]
+        }, 
+        "department_id": "35347493", 
+        "title_raw": "American Airlines to England", 
+        "justification": null, 
+        "media_id": "35425977", 
+        "description": "On a red background, several crenellated castles/fortresses. Above, in black: AMERICAN AIRLINES; below, in white: TO / ENGLAND [logo].", 
+        "creditline": "Gift of Mrs. E. McKnight Kauffer", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "ca. 1948", 
+        "url": "https://collection.cooperhewitt.org/objects/18447287/", 
+        "type": "poster", 
+        "accession_number": "1963-39-145", 
+        "year_end": 1953, 
+        "signed": "Signed, lower right, under castles: E McKnight Kauffer", 
+        "inscribed": null, 
+        "period_id": null, 
+        "year_acquired": "1963", 
+        "woe:country_id": "23424977"
+    }
+}

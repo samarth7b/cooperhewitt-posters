@@ -1,0 +1,129 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": 1988, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": "lithograph on paper", 
+        "tms:id": "197815", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/202705_f9b1222426d1e362_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "0", 
+                    "image_id": "202705"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/202705_f9b1222426d1e362_b.jpg", 
+                    "width": 774, 
+                    "height": 1024, 
+                    "is_primary": "0", 
+                    "image_id": "202705"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/202705_f9b1222426d1e362_d.gif", 
+                    "width": 242, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "202705"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/202705_f9b1222426d1e362_z.jpg", 
+                    "width": 483, 
+                    "height": 640, 
+                    "is_primary": "0", 
+                    "image_id": "202705"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/202705_f9b1222426d1e362_n.jpg", 
+                    "width": 242, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "202705"
+                }
+            }
+        ], 
+        "id": "18645823", 
+        "has_no_known_copyright": null, 
+        "dimensions": "65 × 48.1 cm (25 9/16 × 18 15/16 in.)", 
+        "title": "Poster, Hapkomahu, 1988", 
+        "provenance": "Steven Heller and Karrie Jacobs; 1993: acquired by Museum", 
+        "participants": [
+            {
+                "person_name": "Karrie Jacobs", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35351535/", 
+                "role_id": "35351535", 
+                "role_name": "Donor", 
+                "person_date": "", 
+                "role_display_name": "Donated by", 
+                "person_id": "18056647", 
+                "person_url": "https://collection.cooperhewitt.org/people/18056647/"
+            }, 
+            {
+                "person_name": "Steven Heller", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35351535/", 
+                "role_id": "35351535", 
+                "role_name": "Donor", 
+                "person_date": "American, b. 1950", 
+                "role_display_name": "Donated by", 
+                "person_id": "18041397", 
+                "person_url": "https://collection.cooperhewitt.org/people/18041397/"
+            }, 
+            {
+                "person_name": "Megan L. Smith", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35352245/", 
+                "role_id": "35352245", 
+                "role_name": "Cataloguer", 
+                "person_date": "", 
+                "role_display_name": "Catalogued by", 
+                "person_id": "18047443", 
+                "person_url": "https://collection.cooperhewitt.org/people/18047443/"
+            }, 
+            {
+                "person_name": "LSA", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35352245/", 
+                "role_id": "35352245", 
+                "role_name": "Cataloguer", 
+                "person_date": "", 
+                "role_display_name": "Catalogued by", 
+                "person_id": "18048737", 
+                "person_url": "https://collection.cooperhewitt.org/people/18048737/"
+            }
+        ], 
+        "decade": "1980", 
+        "label_text": null, 
+        "woe:country": null, 
+        "dimensions_raw": {
+            "width": [
+                "48.10", 
+                "centimeters"
+            ], 
+            "height": [
+                "65.00", 
+                "centimeters"
+            ]
+        }, 
+        "department_id": "35347493", 
+        "title_raw": "Hapkomahu", 
+        "justification": null, 
+        "media_id": "35419317", 
+        "description": "Grim reaper", 
+        "creditline": "Gift of Steven Heller and Karrie Jacobs", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "1988", 
+        "url": "https://collection.cooperhewitt.org/objects/18645823/", 
+        "type": "poster", 
+        "accession_number": "1993-53-9", 
+        "year_end": 1988, 
+        "signed": null, 
+        "inscribed": "Imprinted at lower left: 7 lines in Russian(?)", 
+        "period_id": null, 
+        "year_acquired": "1993", 
+        "woe:country_id": null
+    }
+}

@@ -1,0 +1,91 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": null, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": null, 
+        "tms:id": "185983", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/200481_e84585c2c720eed8_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "200481"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/200481_e84585c2c720eed8_b.jpg", 
+                    "width": 1024, 
+                    "height": 553, 
+                    "is_primary": "1", 
+                    "image_id": "200481"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/200481_e84585c2c720eed8_d.gif", 
+                    "width": 320, 
+                    "height": 173, 
+                    "is_primary": "1", 
+                    "image_id": "200481"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/200481_e84585c2c720eed8_z.jpg", 
+                    "width": 640, 
+                    "height": 346, 
+                    "is_primary": "1", 
+                    "image_id": "200481"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/200481_e84585c2c720eed8_n.jpg", 
+                    "width": 320, 
+                    "height": 173, 
+                    "is_primary": "1", 
+                    "image_id": "200481"
+                }
+            }
+        ], 
+        "id": "18622295", 
+        "has_no_known_copyright": null, 
+        "woe:country_name": "United States", 
+        "dimensions": null, 
+        "title": "Poster (USA)", 
+        "provenance": null, 
+        "participants": [
+            {
+                "person_name": "Unknown donor: unsolicited gift", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35351535/", 
+                "role_id": "35351535", 
+                "role_name": "Donor", 
+                "person_date": "", 
+                "role_display_name": "Donated by", 
+                "person_id": "18050283", 
+                "person_url": "https://collection.cooperhewitt.org/people/18050283/"
+            }
+        ], 
+        "decade": null, 
+        "label_text": null, 
+        "woe:country": "23424977", 
+        "dimensions_raw": null, 
+        "department_id": "35347493", 
+        "title_raw": null, 
+        "justification": null, 
+        "media_id": "35371135", 
+        "description": null, 
+        "creditline": "Gift of Unknown Donor", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": null, 
+        "url": "https://collection.cooperhewitt.org/objects/18622295/", 
+        "type": "poster", 
+        "accession_number": "1987-24-7", 
+        "year_end": null, 
+        "signed": null, 
+        "inscribed": null, 
+        "period_id": null, 
+        "year_acquired": "1987", 
+        "woe:country_id": "23424977"
+    }
+}

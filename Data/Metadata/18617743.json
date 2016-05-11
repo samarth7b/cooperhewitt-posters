@@ -1,0 +1,137 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": null, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": "lithograph on wove paper", 
+        "tms:id": "177404", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/82702_e57f43bd12594d02_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "82702"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/82702_e57f43bd12594d02_b.jpg", 
+                    "width": 756, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "82702"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/82702_e57f43bd12594d02_d.gif", 
+                    "width": 236, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "82702"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/82702_e57f43bd12594d02_z.jpg", 
+                    "width": 473, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "82702"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/82702_e57f43bd12594d02_n.jpg", 
+                    "width": 236, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "82702"
+                }
+            }, 
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/205826_69b73e676ccf14af_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "0", 
+                    "image_id": "205826"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/205826_69b73e676ccf14af_b.jpg", 
+                    "width": 771, 
+                    "height": 1024, 
+                    "is_primary": "0", 
+                    "image_id": "205826"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/205826_69b73e676ccf14af_d.gif", 
+                    "width": 241, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "205826"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/205826_69b73e676ccf14af_z.jpg", 
+                    "width": 482, 
+                    "height": 640, 
+                    "is_primary": "0", 
+                    "image_id": "205826"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/205826_69b73e676ccf14af_n.jpg", 
+                    "width": 241, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "205826"
+                }
+            }
+        ], 
+        "id": "18617743", 
+        "has_no_known_copyright": null, 
+        "woe:country_name": "United States", 
+        "dimensions": "Overall: 65.6 x 48.5 cm (25 13/16 x 19 1/8 in.)", 
+        "title": "Poster, The Calamityville Horror", 
+        "provenance": "1981: acquired by Museum", 
+        "participants": [
+            {
+                "person_name": "Brigham Young University", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236667/", 
+                "role_id": "35236667", 
+                "role_name": "Client", 
+                "person_date": "", 
+                "role_display_name": "Client:", 
+                "person_id": "18042421", 
+                "person_url": "https://collection.cooperhewitt.org/people/18042421/"
+            }
+        ], 
+        "decade": null, 
+        "label_text": null, 
+        "woe:country": "23424977", 
+        "dimensions_raw": {
+            "width": [
+                "48.50", 
+                "centimeters"
+            ], 
+            "height": [
+                "65.60", 
+                "centimeters"
+            ]
+        }, 
+        "department_id": "35347493", 
+        "title_raw": "The Calamityville Horror", 
+        "justification": null, 
+        "media_id": "35407799", 
+        "description": "Poster silhouetted in shape of a book. Information about registration deadlines.", 
+        "creditline": "Gift of Various Donors", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": null, 
+        "url": "https://collection.cooperhewitt.org/objects/18617743/", 
+        "type": "poster", 
+        "accession_number": "1981-29-317", 
+        "year_end": null, 
+        "signed": null, 
+        "inscribed": null, 
+        "period_id": null, 
+        "year_acquired": "1981", 
+        "woe:country_id": "23424977"
+    }
+}

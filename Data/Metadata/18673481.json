@@ -1,0 +1,157 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": null, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": "lithograph on paper", 
+        "tms:id": "212183", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/81544_579b4a5dcb4bab24_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "81544"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/81544_579b4a5dcb4bab24_b.jpg", 
+                    "width": 766, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "81544"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/81544_579b4a5dcb4bab24_d.gif", 
+                    "width": 239, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "81544"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/81544_579b4a5dcb4bab24_z.jpg", 
+                    "width": 479, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "81544"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/81544_579b4a5dcb4bab24_n.jpg", 
+                    "width": 239, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "81544"
+                }
+            }, 
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/268435_43d1c222a6d042ae_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "0", 
+                    "image_id": "268435"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/268435_43d1c222a6d042ae_b.jpg", 
+                    "width": 773, 
+                    "height": 1024, 
+                    "is_primary": "0", 
+                    "image_id": "268435"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/268435_43d1c222a6d042ae_d.gif", 
+                    "width": 242, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "268435"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/268435_43d1c222a6d042ae_z.jpg", 
+                    "width": 483, 
+                    "height": 640, 
+                    "is_primary": "0", 
+                    "image_id": "268435"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/268435_43d1c222a6d042ae_n.jpg", 
+                    "width": 242, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "268435"
+                }
+            }
+        ], 
+        "id": "18673481", 
+        "has_no_known_copyright": null, 
+        "woe:country_name": "United States", 
+        "dimensions": "60.9 x 45.7 cm (24 x 18 in.)", 
+        "title": "Poster, Art Against Aids", 
+        "provenance": "Dan Friedman; Ken Friedman; 1997: acquired by Museum", 
+        "participants": [
+            {
+                "person_name": "Water Street Press", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236673/", 
+                "role_id": "35236673", 
+                "role_name": "Printer", 
+                "person_date": "", 
+                "role_display_name": "Printed by", 
+                "person_id": "51865273", 
+                "person_url": "https://collection.cooperhewitt.org/people/51865273/"
+            }, 
+            {
+                "person_name": "Ken Friedman", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35351535/", 
+                "role_id": "35351535", 
+                "role_name": "Donor", 
+                "person_date": "", 
+                "role_display_name": "Donated by", 
+                "person_id": "18049807", 
+                "person_url": "https://collection.cooperhewitt.org/people/18049807/"
+            }, 
+            {
+                "person_name": "Dan Friedman", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "American, 1945–1995", 
+                "role_display_name": "Designed by", 
+                "person_id": "18041325", 
+                "person_url": "https://collection.cooperhewitt.org/people/18041325/"
+            }
+        ], 
+        "decade": null, 
+        "label_text": null, 
+        "woe:country": "23424977", 
+        "dimensions_raw": {
+            "width": [
+                "45.70", 
+                "centimeters"
+            ], 
+            "height": [
+                "60.90", 
+                "centimeters"
+            ]
+        }, 
+        "department_id": "35347493", 
+        "title_raw": "Art Against Aids", 
+        "justification": null, 
+        "media_id": "35419317", 
+        "description": "On a half peach, half black ground, text in black, peach, and white: boxes of text above and below. At center, in bold text: ART / AGAINST / AIDS.", 
+        "creditline": "Gift of Ken Friedman", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": null, 
+        "url": "https://collection.cooperhewitt.org/objects/18673481/", 
+        "type": "poster", 
+        "accession_number": "1997-19-232", 
+        "year_end": null, 
+        "signed": null, 
+        "inscribed": "Printed in peach ink, lower right edge: PRINTING: DONATED BY WATER STREET PRESS, BROOKLYN; DAN FRIEDMAN", 
+        "period_id": null, 
+        "year_acquired": "1997", 
+        "woe:country_id": "23424977"
+    }
+}

@@ -1,0 +1,110 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": 1929, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": "block print, letterpress on cream wove paper", 
+        "tms:id": "221050", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/15181_2e19beaf2c4454ff_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "15181"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/15181_2e19beaf2c4454ff_b.jpg", 
+                    "width": 786, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "15181"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/15181_2e19beaf2c4454ff_d.gif", 
+                    "width": 246, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "15181"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/15181_2e19beaf2c4454ff_z.jpg", 
+                    "width": 491, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "15181"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/15181_2e19beaf2c4454ff_n.jpg", 
+                    "width": 246, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "15181"
+                }
+            }
+        ], 
+        "id": "18691053", 
+        "has_no_known_copyright": null, 
+        "woe:country_name": "Netherlands", 
+        "dimensions": "64.6 x 50.4 cm (25 3/8 x 19 3/4 in. )", 
+        "title": "Poster, Internationale Economisch-Historische Tentoonstelling  (Exhibition of International Economic History), 1929", 
+        "provenance": "Barbara Leibowits Graphics; 2001: acquired by Museum", 
+        "participants": [
+            {
+                "person_name": "Barbara Leibowits Graphics Ltd.", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35352249/", 
+                "role_id": "35352249", 
+                "role_name": "Vendor", 
+                "person_date": "", 
+                "role_display_name": "Purchased from", 
+                "person_id": "18051539", 
+                "person_url": "https://collection.cooperhewitt.org/people/18051539/"
+            }, 
+            {
+                "person_name": "Hendrikus Theodorus Wijdeveld", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "Dutch, 1885–1987", 
+                "role_display_name": "Designed by", 
+                "person_id": "18052005", 
+                "person_url": "https://collection.cooperhewitt.org/people/18052005/"
+            }
+        ], 
+        "decade": "1920", 
+        "label_text": null, 
+        "woe:country": "23424909", 
+        "dimensions_raw": {
+            "width": [
+                "71.10", 
+                "centimeters"
+            ], 
+            "height": [
+                "91.40", 
+                "centimeters"
+            ]
+        }, 
+        "department_id": "35347493", 
+        "title_raw": "Internationale Economisch-Historische Tentoonstelling  (Exhibition of International Economic History)", 
+        "justification": "Dutch architect and graphic designer Hendrikus Wijdeveld was an important force in the creation of Dutch modernist design. As an architect, he was a member of the expressionist movement that opposed the De Stijl group. As a graphic designer, he founded and edited the innovative Dutch periodical Wendingen (published between 1918 and 1931), for which he designed most of the covers and layouts. Cooper-Hewitt’s library holds many issues of Wendingen. Wijdeveld’s characteristic bold, decorative, block-like typeforms and ornamental borders, which became known as the “Wendingen style,” influenced Dutch graphic design well into the 1940s. \nWijdeveld also designed posters, some of which have become icons in graphic design history. This 1929 poster, Internationale Economisch Historische Tentoonstelling, is one of his most striking designs. Richly colored in orange, gold and black on cream paper, its ornamental character recalls the decorative style of the Vienna Secession and strongly contrasts with the spare compositions and primary colors associated with the De Stijl movement.\nThis poster is a strong addition to the museum’s Dutch modernist graphic design holdings and would also complement the museum’s collection of Dutch modernist decorative arts objects. At the time of proposed acquisition, the museum’s Dutch graphic design holdings include: a 1930 calendar by Wijdeveld; R.N. Roland Holst’s 1920 poster, Labor Boards, the stepped architectural frame and block-like decorative ornament of which are typical of the Amsterdam School and preface the designs of Wijdeveld; several examples by Wijdeveld’s contemporary, the De Stijl artist Bart van der Leck; and later 20th-century works by the firm Hard Werken. In light of the influential contribution of Dutch designers to 20th-century graphic design history, the curators feel the museum should strengthen the collection with key examples from the 1920s and 1930s. This acquisition addresses this need.\nJune 14, 2001", 
+        "media_id": "51689045", 
+        "description": "Decorative letter forms in black and red organized in horizontal and square blocks on gold, red or white fields.  To the right is a large red square field which looks like it is composed of bricks on top of which are scattered small gold squares.  At lower left, a red, black, and gold geometric ornament in form of a swasticka.", 
+        "creditline": "Museum purchase through gift of  Eleanor and Sarah Hewitt and Jacob H. Schiff and through bequest of Mrs. John Innes Kane", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "1929", 
+        "url": "https://collection.cooperhewitt.org/objects/18691053/", 
+        "type": "poster", 
+        "accession_number": "2001-7-1", 
+        "year_end": 1929, 
+        "signed": null, 
+        "inscribed": "Printed throughout page, INTERNATIONALE/ECONOMICSCH-HISTORISCHE/TENTOONSTELLING/4 JULI/15 SEPT./1929/SCHILDERNIJEN/MINIATUREN/GOBELINS/DOCUMENTEN/MODELLEN/GRAFIEK ENZ/STEDELIJK MUSEUM/AMSTERDAM [INTERNATIONAL/ ECONOMIC-HISTORICAL/EXHIBITION/JULY 4 TO SEPT. 15, 1929/PICTURES/MINIATURES/TAPESTRIES/DOCUMENTS/MODELS/GRAPHICS/STEDELIJK MUSEUM/AMSTERDAM.", 
+        "period_id": null, 
+        "year_acquired": "2001", 
+        "woe:country_id": "23424909"
+    }
+}

@@ -1,0 +1,177 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": 1979, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": "offset lithograph on paper", 
+        "tms:id": "193480", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/64064_52a1377b899622ef_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "64064"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/64064_52a1377b899622ef_b.jpg", 
+                    "width": 767, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "64064"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/64064_52a1377b899622ef_d.gif", 
+                    "width": 240, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "64064"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/64064_52a1377b899622ef_z.jpg", 
+                    "width": 479, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "64064"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/64064_52a1377b899622ef_n.jpg", 
+                    "width": 240, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "64064"
+                }
+            }, 
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/203211_c5e18138d07f4556_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "0", 
+                    "image_id": "203211"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/203211_c5e18138d07f4556_b.jpg", 
+                    "width": 775, 
+                    "height": 1024, 
+                    "is_primary": "0", 
+                    "image_id": "203211"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/203211_c5e18138d07f4556_d.gif", 
+                    "width": 242, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "203211"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/203211_c5e18138d07f4556_z.jpg", 
+                    "width": 484, 
+                    "height": 640, 
+                    "is_primary": "0", 
+                    "image_id": "203211"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/203211_c5e18138d07f4556_n.jpg", 
+                    "width": 242, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "203211"
+                }
+            }
+        ], 
+        "id": "18637257", 
+        "has_no_known_copyright": null, 
+        "woe:country_name": "United States", 
+        "dimensions": "61.1 x 45.7 cm (24 1/16 x 18 in.)", 
+        "title": "Poster, Change is Growth, 1979", 
+        "provenance": "1991: acquired by Museum", 
+        "participants": [
+            {
+                "person_name": "Lois Ehlert", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "American, b. November 9, 1934, in Beaver Dam, WI", 
+                "role_display_name": "Designed by", 
+                "person_id": "34624709", 
+                "person_url": "https://collection.cooperhewitt.org/people/34624709/"
+            }, 
+            {
+                "person_name": "Eklert", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35351535/", 
+                "role_id": "35351535", 
+                "role_name": "Donor", 
+                "person_date": "", 
+                "role_display_name": "Donated by", 
+                "person_id": "18042397", 
+                "person_url": "https://collection.cooperhewitt.org/people/18042397/"
+            }, 
+            {
+                "person_name": "CGC", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35352245/", 
+                "role_id": "35352245", 
+                "role_name": "Cataloguer", 
+                "person_date": "", 
+                "role_display_name": "Catalogued by", 
+                "person_id": "18048417", 
+                "person_url": "https://collection.cooperhewitt.org/people/18048417/"
+            }, 
+            {
+                "person_name": "Manpower International", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236667/", 
+                "role_id": "35236667", 
+                "role_name": "Client", 
+                "person_date": "", 
+                "role_display_name": "Client:", 
+                "person_id": "18042399", 
+                "person_url": "https://collection.cooperhewitt.org/people/18042399/"
+            }, 
+            {
+                "person_name": "Eklert", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "", 
+                "role_display_name": "Designed by", 
+                "person_id": "18042397", 
+                "person_url": "https://collection.cooperhewitt.org/people/18042397/"
+            }
+        ], 
+        "decade": "1970", 
+        "label_text": null, 
+        "woe:country": "23424977", 
+        "dimensions_raw": {
+            "width": [
+                "45.70", 
+                "centimeters"
+            ], 
+            "height": [
+                "61.10", 
+                "centimeters"
+            ]
+        }, 
+        "department_id": "35347493", 
+        "title_raw": "Change is Growth", 
+        "justification": null, 
+        "media_id": "35399021", 
+        "description": "A large flower in Rorschach test-like manner, which bright green stem and leaves and bright red and orange blossom; below, imprinted in black ink at center: change is growth", 
+        "creditline": "Gift of Lois Ehlert", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "1979", 
+        "url": "https://collection.cooperhewitt.org/objects/18637257/", 
+        "type": "poster", 
+        "accession_number": "1991-69-33", 
+        "year_end": 1979, 
+        "signed": "Signature imprinted in green ink, center right: Eklert", 
+        "inscribed": "Imprinted in green ink, lower left: Manpower ® Temporary Services", 
+        "period_id": null, 
+        "year_acquired": "1991", 
+        "woe:country_id": "23424977"
+    }
+}

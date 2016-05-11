@@ -1,0 +1,130 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": 1968, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": "photo-offset lithograph on uncoated standard paper and varnished", 
+        "tms:id": "242028", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/36983_79f8ac69c5b0f7a4_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "36983"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/36983_79f8ac69c5b0f7a4_b.jpg", 
+                    "width": 674, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "36983"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/36983_79f8ac69c5b0f7a4_d.gif", 
+                    "width": 211, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "36983"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/36983_79f8ac69c5b0f7a4_z.jpg", 
+                    "width": 421, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "36983"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/36983_79f8ac69c5b0f7a4_n.jpg", 
+                    "width": 211, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "36983"
+                }
+            }
+        ], 
+        "id": "18731857", 
+        "has_no_known_copyright": null, 
+        "woe:country_name": "United States", 
+        "dimensions": "114.3 x 74.9 cm (45 x 29 1/2 in.)", 
+        "title": "Poster, Wall Street, 1968", 
+        "provenance": "Sara and Marc Benda; 2009: acquired by Museum", 
+        "participants": [
+            {
+                "person_name": "Sara Benda", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35351535/", 
+                "role_id": "35351535", 
+                "role_name": "Donor", 
+                "person_date": "", 
+                "role_display_name": "Donated by", 
+                "person_id": "18063205", 
+                "person_url": "https://collection.cooperhewitt.org/people/18063205/"
+            }, 
+            {
+                "person_name": "Tomoko Miho", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "American, 1931–2012", 
+                "role_display_name": "Designed by", 
+                "person_id": "18062847", 
+                "person_url": "https://collection.cooperhewitt.org/people/18062847/"
+            }, 
+            {
+                "person_name": "Marc Benda", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35351535/", 
+                "role_id": "35351535", 
+                "role_name": "Donor", 
+                "person_date": "", 
+                "role_display_name": "Donated by", 
+                "person_id": "18062523", 
+                "person_url": "https://collection.cooperhewitt.org/people/18062523/"
+            }, 
+            {
+                "person_name": "Container Corporation of America", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236667/", 
+                "role_id": "35236667", 
+                "role_name": "Client", 
+                "person_date": "USA, founded 1926", 
+                "role_display_name": "Client:", 
+                "person_id": "18060813", 
+                "person_url": "https://collection.cooperhewitt.org/people/18060813/"
+            }
+        ], 
+        "decade": "1960", 
+        "label_text": null, 
+        "woe:country": "23424977", 
+        "dimensions_raw": {
+            "width": [
+                "74.90", 
+                "centimeters"
+            ], 
+            "height": [
+                "114.30", 
+                "centimeters"
+            ]
+        }, 
+        "department_id": "35347493", 
+        "title_raw": "Wall Street", 
+        "justification": null, 
+        "media_id": "68775069", 
+        "description": "Photograph of buildings made out of transparent blocks of glass or plastic with stock figures printed all over them. Text in top right reads \"wall st\" in white.", 
+        "creditline": "Gift of Sara and Marc Benda", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "1968", 
+        "url": "https://collection.cooperhewitt.org/objects/18731857/", 
+        "type": "poster", 
+        "accession_number": "2009-20-45", 
+        "year_end": 1968, 
+        "signed": null, 
+        "inscribed": "Imprinted in black, right margin: Design: Container Corporation of America, Tomoko Miho/Printing: Seaward-Edison Corporation/Distribution: Darlen House, Inc. NYC / c 1968 CCA Printed in USA", 
+        "period_id": null, 
+        "year_acquired": "2009", 
+        "woe:country_id": "23424977"
+    }
+}

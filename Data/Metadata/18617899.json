@@ -1,0 +1,100 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": 1972, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": "lithograph on paper", 
+        "tms:id": "177483", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/269725_534f957aa4db7025_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "269725"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/269725_534f957aa4db7025_b.jpg", 
+                    "width": 1024, 
+                    "height": 800, 
+                    "is_primary": "1", 
+                    "image_id": "269725"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/269725_534f957aa4db7025_d.gif", 
+                    "width": 320, 
+                    "height": 250, 
+                    "is_primary": "1", 
+                    "image_id": "269725"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/269725_534f957aa4db7025_z.jpg", 
+                    "width": 640, 
+                    "height": 500, 
+                    "is_primary": "1", 
+                    "image_id": "269725"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/269725_534f957aa4db7025_n.jpg", 
+                    "width": 320, 
+                    "height": 250, 
+                    "is_primary": "1", 
+                    "image_id": "269725"
+                }
+            }
+        ], 
+        "id": "18617899", 
+        "has_no_known_copyright": null, 
+        "woe:country_name": "United States", 
+        "dimensions": "117 x 52.4 cm (46 1/16 x 20 5/8 in.)", 
+        "title": "Poster, Be One Up on Topic One with...The New York Times, 1972", 
+        "provenance": "1981: acquired by Museum", 
+        "participants": [
+            {
+                "person_name": "Andrew Kner", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "Hungarian, born 1935", 
+                "role_display_name": "Designed by", 
+                "person_id": "18056973", 
+                "person_url": "https://collection.cooperhewitt.org/people/18056973/"
+            }
+        ], 
+        "decade": "1970", 
+        "label_text": null, 
+        "woe:country": "23424977", 
+        "dimensions_raw": {
+            "width": [
+                "52.40", 
+                "centimeters"
+            ], 
+            "height": [
+                "117.00", 
+                "centimeters"
+            ]
+        }, 
+        "department_id": "35347493", 
+        "title_raw": "Be One Up on Topic One with...The New York Times", 
+        "justification": null, 
+        "media_id": "35419317", 
+        "description": null, 
+        "creditline": "Gift of Various Donors", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "1972", 
+        "url": "https://collection.cooperhewitt.org/objects/18617899/", 
+        "type": "poster", 
+        "accession_number": "1981-29-388", 
+        "year_end": 1972, 
+        "signed": null, 
+        "inscribed": null, 
+        "period_id": null, 
+        "year_acquired": "1981", 
+        "woe:country_id": "23424977"
+    }
+}

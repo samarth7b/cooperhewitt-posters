@@ -1,0 +1,157 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": null, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": "screenprint on white wove paper", 
+        "tms:id": "200873", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/84926_e24682097ffc958c_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "84926"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/84926_e24682097ffc958c_b.jpg", 
+                    "width": 540, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "84926"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/84926_e24682097ffc958c_d.gif", 
+                    "width": 169, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "84926"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/84926_e24682097ffc958c_z.jpg", 
+                    "width": 338, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "84926"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/84926_e24682097ffc958c_n.jpg", 
+                    "width": 169, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "84926"
+                }
+            }, 
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/268859_91632b262ffce025_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "0", 
+                    "image_id": "268859"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/268859_91632b262ffce025_b.jpg", 
+                    "width": 554, 
+                    "height": 1024, 
+                    "is_primary": "0", 
+                    "image_id": "268859"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/268859_91632b262ffce025_d.gif", 
+                    "width": 173, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "268859"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/268859_91632b262ffce025_z.jpg", 
+                    "width": 346, 
+                    "height": 640, 
+                    "is_primary": "0", 
+                    "image_id": "268859"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/268859_91632b262ffce025_n.jpg", 
+                    "width": 173, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "268859"
+                }
+            }
+        ], 
+        "id": "18651861", 
+        "has_no_known_copyright": null, 
+        "woe:country_name": "United States", 
+        "dimensions": "86.5 x 45.7 cm (34 1/16 in. x 18 in.)", 
+        "title": "Poster, The Coca Cabana", 
+        "provenance": "1995: acquired by Museum", 
+        "participants": [
+            {
+                "person_name": "Art Chantry", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35351535/", 
+                "role_id": "35351535", 
+                "role_name": "Donor", 
+                "person_date": "American, b. 1954", 
+                "role_display_name": "Donated by", 
+                "person_id": "18041683", 
+                "person_url": "https://collection.cooperhewitt.org/people/18041683/"
+            }, 
+            {
+                "person_name": "Art Garcia", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236673/", 
+                "role_id": "35236673", 
+                "role_name": "Printer", 
+                "person_date": "", 
+                "role_display_name": "Printed by", 
+                "person_id": "68263689", 
+                "person_url": "https://collection.cooperhewitt.org/people/68263689/"
+            }, 
+            {
+                "person_name": "Art Chantry", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "American, b. 1954", 
+                "role_display_name": "Designed by", 
+                "person_id": "18041683", 
+                "person_url": "https://collection.cooperhewitt.org/people/18041683/"
+            }
+        ], 
+        "decade": null, 
+        "label_text": null, 
+        "woe:country": "23424977", 
+        "dimensions_raw": {
+            "width": [
+                "45.70", 
+                "centimeters"
+            ], 
+            "height": [
+                "86.50", 
+                "centimeters"
+            ]
+        }, 
+        "department_id": "35347493", 
+        "title_raw": "The Coca Cabana", 
+        "justification": null, 
+        "media_id": "35432313", 
+        "description": "Poster advertising \"The Coca Cabana:  A Performance Art Cabaret\" at the Center on Contemporary Art.  Features a dog smoking a cigarette standing on hind legs facing a man smoking a cigarette, regarding one another.  The man's face and dog's entirety are situated in magenta planes of color, background in turquoise.  Text advertising venue and details occupies bottom third of poster.", 
+        "creditline": "Gift of Art Chantry", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": null, 
+        "url": "https://collection.cooperhewitt.org/objects/18651861/", 
+        "type": "poster", 
+        "accession_number": "1995-69-38", 
+        "year_end": null, 
+        "signed": null, 
+        "inscribed": "Imprinted in brown ink, in script, lower left: POSTER BY ART CHANTRY/PRINTED BY ART GARCIA", 
+        "period_id": null, 
+        "year_acquired": "1995", 
+        "woe:country_id": "23424977"
+    }
+}

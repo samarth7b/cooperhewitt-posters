@@ -1,0 +1,157 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": 1990, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": "screenprint on wove paper", 
+        "tms:id": "201147", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/81528_1bc02e51932a16f2_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "81528"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/81528_1bc02e51932a16f2_b.jpg", 
+                    "width": 727, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "81528"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/81528_1bc02e51932a16f2_d.gif", 
+                    "width": 227, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "81528"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/81528_1bc02e51932a16f2_z.jpg", 
+                    "width": 454, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "81528"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/81528_1bc02e51932a16f2_n.jpg", 
+                    "width": 227, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "81528"
+                }
+            }, 
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/268444_c2712ff184bceb5e_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "0", 
+                    "image_id": "268444"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/268444_c2712ff184bceb5e_b.jpg", 
+                    "width": 745, 
+                    "height": 1024, 
+                    "is_primary": "0", 
+                    "image_id": "268444"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/268444_c2712ff184bceb5e_d.gif", 
+                    "width": 233, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "268444"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/268444_c2712ff184bceb5e_z.jpg", 
+                    "width": 466, 
+                    "height": 640, 
+                    "is_primary": "0", 
+                    "image_id": "268444"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/268444_c2712ff184bceb5e_n.jpg", 
+                    "width": 233, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "268444"
+                }
+            }
+        ], 
+        "id": "18652407", 
+        "has_no_known_copyright": null, 
+        "woe:country_name": "Chile", 
+        "dimensions": "84 x 59.5 cm (33 1/16 x 23 7/16 in.)", 
+        "title": "Poster, Peste, ca. 1995", 
+        "provenance": "1995: acquired by Museum", 
+        "participants": [
+            {
+                "person_name": "Imagenes Contra El Sida", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35352249/", 
+                "role_id": "35352249", 
+                "role_name": "Vendor", 
+                "person_date": "", 
+                "role_display_name": "Purchased from", 
+                "person_id": "18041725", 
+                "person_url": "https://collection.cooperhewitt.org/people/18041725/"
+            }, 
+            {
+                "person_name": "General Exhibitions Funds", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35352247/", 
+                "role_id": "35352247", 
+                "role_name": "Fund", 
+                "person_date": "", 
+                "role_display_name": "Fund:", 
+                "person_id": "18049091", 
+                "person_url": "https://collection.cooperhewitt.org/people/18049091/"
+            }, 
+            {
+                "person_name": "Eugenio Dittborn", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "Chilean, born 1943", 
+                "role_display_name": "Designed by", 
+                "person_id": "18049095", 
+                "person_url": "https://collection.cooperhewitt.org/people/18049095/"
+            }
+        ], 
+        "decade": "1990", 
+        "label_text": null, 
+        "woe:country": "23424782", 
+        "dimensions_raw": {
+            "width": [
+                "59.50", 
+                "centimeters"
+            ], 
+            "height": [
+                "84.00", 
+                "centimeters"
+            ]
+        }, 
+        "department_id": "35347493", 
+        "title_raw": "Peste", 
+        "justification": null, 
+        "media_id": "35399029", 
+        "description": "On a pixilated ground of yellow and black and framed with blue and black, an image of a partially dressed woman pushing away a fully dressed man who pulls at her robes; they seem to be in a bedroom. Below, text in white script in Spanish: Peste: / Enfermedad contagiosa y grave que / causa gran mortandad en los / hombres y en los brutos. / Diccionario de la R. A. E; around the border, in blue, repeated text: NO OTRO NO OTRA OTRA Y OTRA.", 
+        "creditline": "Museum purchase from General Exhibitions Funds", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "ca. 1995", 
+        "url": "https://collection.cooperhewitt.org/objects/18652407/", 
+        "type": "poster", 
+        "accession_number": "1995-86-3", 
+        "year_end": 1995, 
+        "signed": null, 
+        "inscribed": "Printed in blue white ink, upper left edge: Imagenes contra el sida artis paris france eugenio dittborn", 
+        "period_id": null, 
+        "year_acquired": "1995", 
+        "woe:country_id": "23424782"
+    }
+}

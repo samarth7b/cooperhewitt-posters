@@ -1,0 +1,120 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": 2006, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": "screenprint", 
+        "tms:id": "274851", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/90514_e2c96c2249380c46_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "90514"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/90514_e2c96c2249380c46_b.jpg", 
+                    "width": 704, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "90514"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/90514_e2c96c2249380c46_d.gif", 
+                    "width": 220, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "90514"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/90514_e2c96c2249380c46_z.jpg", 
+                    "width": 440, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "90514"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/90514_e2c96c2249380c46_n.jpg", 
+                    "width": 220, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "90514"
+                }
+            }
+        ], 
+        "id": "35460841", 
+        "has_no_known_copyright": null, 
+        "woe:country_name": "France", 
+        "dimensions": "118.5 x 175 cm (46 7/16 in. x 5 ft. 8 7/8 in.)", 
+        "title": "Poster, Le Havre, Patrimoine mondial de l’humanité [Le Havre, World Heritage of Humanity], 2006", 
+        "provenance": "Philippe Apeloig until November 2012", 
+        "participants": [
+            {
+                "person_name": "Serica", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236673/", 
+                "role_id": "35236673", 
+                "role_name": "Printer", 
+                "person_date": "Nancy, France", 
+                "role_display_name": "Printed by", 
+                "person_id": "51676681", 
+                "person_url": "https://collection.cooperhewitt.org/people/51676681/"
+            }, 
+            {
+                "person_name": "Philippe Apeloig", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236661/", 
+                "role_id": "35236661", 
+                "role_name": "Publisher", 
+                "person_date": "French, b. 1962", 
+                "role_display_name": "Published by", 
+                "person_id": "35459765", 
+                "person_url": "https://collection.cooperhewitt.org/people/35459765/"
+            }, 
+            {
+                "person_name": "Philippe Apeloig", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "French, b. 1962", 
+                "role_display_name": "Designed by", 
+                "person_id": "35459765", 
+                "person_url": "https://collection.cooperhewitt.org/people/35459765/"
+            }
+        ], 
+        "decade": "2000", 
+        "label_text": "Apeloig designed this poster to commemorate the designation of the French city of Le Havre as a World Heritage Site. During World War II, Le Havre was severely bombed, and modernist architect Auguste Perret was tasked with rebuilding the city. Apeloig’s poster features graphic renditions of Perret’s standardized facades, while the text forms echo the windows in which they appear to sit.", 
+        "woe:country": "23424819", 
+        "dimensions_raw": {
+            "width": [
+                "175.00", 
+                "centimeters"
+            ], 
+            "length": [
+                "118.00", 
+                "centimeters"
+            ]
+        }, 
+        "department_id": "35347493", 
+        "title_raw": "Le Havre, Patrimoine mondial de l’humanité [Le Havre, World Heritage of Humanity]", 
+        "justification": "During World War II, the French city of Le Havre was severely bombed. Auguste Perret, a pioneering French modernist architect, was tasked with rebuilding the city. Perret’s reconstruction is considered exceptional for its seamless integration of the city’s extant historic structures with modern concrete construction and design innovations. Perret’s new buildings for Le Havre were conceived of within a 6.24-meter-square modular system. \n \nPhilippe Apeloig designed this poster in 2006 to commemorate the UNESCO designation of the French city of Le Havre as a World Heritage Site. His design takes Le Havre’s innovative architecture as its subject and Perret’s conception of the city as a Gesamtkunstwerk as its framework. Graphic renditions of the standardized facades of three of Perret’s buildings are laid atop one another, each in a different primary color. The areas where the different buildings overlap generate secondary colors, while the text forms echo the windows in which they appear to sit. Apeloig’s poster evokes the harmony of the modular system employed by Perret.", 
+        "media_id": "35422783", 
+        "description": "Poster depicting the buildings of the Le Havre in blue, yellow and red.  Each letter in the words \"Le Havre\" and \"Patrimoine mondial de l’humanité is arranged to correspond to windows in the buildings.", 
+        "creditline": "Gift of Philippe Apeloig", 
+        "on_display": "1", 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "2006", 
+        "url": "https://collection.cooperhewitt.org/objects/35460841/", 
+        "type": "poster", 
+        "accession_number": "2013-16-1", 
+        "year_end": 2006, 
+        "signed": null, 
+        "inscribed": null, 
+        "period_id": null, 
+        "year_acquired": "2013", 
+        "woe:country_id": "23424819"
+    }
+}

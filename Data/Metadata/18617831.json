@@ -1,0 +1,91 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": 1980, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": null, 
+        "tms:id": "177449", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/201294_5fc822475dc695ae_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "201294"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/201294_5fc822475dc695ae_b.jpg", 
+                    "width": 510, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "201294"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/201294_5fc822475dc695ae_d.gif", 
+                    "width": 159, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "201294"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/201294_5fc822475dc695ae_z.jpg", 
+                    "width": 318, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "201294"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/201294_5fc822475dc695ae_n.jpg", 
+                    "width": 159, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "201294"
+                }
+            }
+        ], 
+        "id": "18617831", 
+        "has_no_known_copyright": null, 
+        "woe:country_name": "United States", 
+        "dimensions": null, 
+        "title": "Poster, The Dallas Society of Visual Communications, 1980", 
+        "provenance": "1981: acquired by Museum", 
+        "participants": [
+            {
+                "person_name": "Connaster and Crum", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "", 
+                "role_display_name": "Designed by", 
+                "person_id": "68263995", 
+                "person_url": "https://collection.cooperhewitt.org/people/68263995/"
+            }
+        ], 
+        "decade": "1980", 
+        "label_text": null, 
+        "woe:country": "23424977", 
+        "dimensions_raw": null, 
+        "department_id": "35347493", 
+        "title_raw": "The Dallas Society of Visual Communications", 
+        "justification": null, 
+        "media_id": "35371135", 
+        "description": null, 
+        "creditline": "Gift of Various Donors", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "1980", 
+        "url": "https://collection.cooperhewitt.org/objects/18617831/", 
+        "type": "poster", 
+        "accession_number": "1981-29-357", 
+        "year_end": 1980, 
+        "signed": null, 
+        "inscribed": null, 
+        "period_id": null, 
+        "year_acquired": "1981", 
+        "woe:country_id": "23424977"
+    }
+}

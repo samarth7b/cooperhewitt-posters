@@ -1,0 +1,147 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": 1928, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": "offset lithograph on paper", 
+        "tms:id": "134825", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/64296_34e55df0909f46b0_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "64296"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/64296_34e55df0909f46b0_b.jpg", 
+                    "width": 1024, 
+                    "height": 546, 
+                    "is_primary": "1", 
+                    "image_id": "64296"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/64296_34e55df0909f46b0_d.gif", 
+                    "width": 320, 
+                    "height": 171, 
+                    "is_primary": "1", 
+                    "image_id": "64296"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/64296_34e55df0909f46b0_z.jpg", 
+                    "width": 640, 
+                    "height": 341, 
+                    "is_primary": "1", 
+                    "image_id": "64296"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/64296_34e55df0909f46b0_n.jpg", 
+                    "width": 320, 
+                    "height": 171, 
+                    "is_primary": "1", 
+                    "image_id": "64296"
+                }
+            }, 
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/254622_e90db933326e6894_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "0", 
+                    "image_id": "254622"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/254622_e90db933326e6894_b.jpg", 
+                    "width": 1024, 
+                    "height": 567, 
+                    "is_primary": "0", 
+                    "image_id": "254622"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/254622_e90db933326e6894_d.gif", 
+                    "width": 320, 
+                    "height": 177, 
+                    "is_primary": "0", 
+                    "image_id": "254622"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/254622_e90db933326e6894_z.jpg", 
+                    "width": 640, 
+                    "height": 354, 
+                    "is_primary": "0", 
+                    "image_id": "254622"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/254622_e90db933326e6894_n.jpg", 
+                    "width": 320, 
+                    "height": 177, 
+                    "is_primary": "0", 
+                    "image_id": "254622"
+                }
+            }
+        ], 
+        "id": "18448619", 
+        "has_no_known_copyright": null, 
+        "woe:country_name": "United Kingdom", 
+        "dimensions": "29.2 x 54.6 cm (11 1/2 x 21 1/2 in.)", 
+        "title": "Poster, Gilbey's Spey Royal Scotch Whiskey, ca. 1933", 
+        "provenance": "Mrs. E. McKnight Kauffer; 1963: acquired by Museum", 
+        "participants": [
+            {
+                "person_name": "Edward McKnight Kauffer", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "American, active England, 1890–1954", 
+                "role_display_name": "Designed by", 
+                "person_id": "18041923", 
+                "person_url": "https://collection.cooperhewitt.org/people/18041923/"
+            }, 
+            {
+                "person_name": "Mrs. Edward McKnight Kauffer", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35351535/", 
+                "role_id": "35351535", 
+                "role_name": "Donor", 
+                "person_date": "", 
+                "role_display_name": "Donated by", 
+                "person_id": "18061849", 
+                "person_url": "https://collection.cooperhewitt.org/people/18061849/"
+            }
+        ], 
+        "decade": "1920", 
+        "label_text": null, 
+        "woe:country": "23424975", 
+        "dimensions_raw": {
+            "width": [
+                "54.60", 
+                "centimeters"
+            ], 
+            "height": [
+                "29.20", 
+                "centimeters"
+            ]
+        }, 
+        "department_id": "35347493", 
+        "title_raw": "Gilbey's Spey Royal Scotch Whiskey", 
+        "justification": null, 
+        "media_id": "35399021", 
+        "description": "Large bottle with yellow liquid at center of image on a brown background. Text in dark and light brown, upper left: GILBEY’S; lower left: GUARANTEED / TEN YEARS OLD; right side: SPEY / ROYAL / SCOTCH WHISKY / 12/6.", 
+        "creditline": "Gift of Mrs. E. McKnight Kauffer", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "ca. 1933", 
+        "url": "https://collection.cooperhewitt.org/objects/18448619/", 
+        "type": "poster", 
+        "accession_number": "1963-39-69", 
+        "year_end": 1938, 
+        "signed": "Signed in yellow ink, lower right, on brown ground: EMcK.K.", 
+        "inscribed": "Printed in black ink, lower left: ISSUED BY W & A GILBEY LTD D179", 
+        "period_id": null, 
+        "year_acquired": "1963", 
+        "woe:country_id": "23424975"
+    }
+}

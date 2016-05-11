@@ -1,0 +1,110 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": 1953, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": "offset lithograph on paper, lined", 
+        "tms:id": "134122", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/65109_cd610f5c7630d3e3_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "65109"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/65109_cd610f5c7630d3e3_b.jpg", 
+                    "width": 731, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "65109"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/65109_cd610f5c7630d3e3_d.gif", 
+                    "width": 228, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "65109"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/65109_cd610f5c7630d3e3_z.jpg", 
+                    "width": 457, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "65109"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/65109_cd610f5c7630d3e3_n.jpg", 
+                    "width": 228, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "65109"
+                }
+            }
+        ], 
+        "id": "18447213", 
+        "has_no_known_copyright": null, 
+        "woe:country_name": "United States", 
+        "dimensions": "107.3 x 76.4 cm (42 1/4 x 30 1/16 in.)", 
+        "title": "Poster, Ireland-Fly Pan Am, 1953", 
+        "provenance": "Mrs. Edward McKnight Kauffer; 1963: acquired by Museum", 
+        "participants": [
+            {
+                "person_name": "Mrs. Edward McKnight Kauffer", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35351535/", 
+                "role_id": "35351535", 
+                "role_name": "Donor", 
+                "person_date": "", 
+                "role_display_name": "Donated by", 
+                "person_id": "18061849", 
+                "person_url": "https://collection.cooperhewitt.org/people/18061849/"
+            }, 
+            {
+                "person_name": "Edward McKnight Kauffer", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "American, active England, 1890–1954", 
+                "role_display_name": "Designed by", 
+                "person_id": "18041923", 
+                "person_url": "https://collection.cooperhewitt.org/people/18041923/"
+            }
+        ], 
+        "decade": "1950", 
+        "label_text": null, 
+        "woe:country": "23424977", 
+        "dimensions_raw": {
+            "width": [
+                "76.40", 
+                "centimeters"
+            ], 
+            "height": [
+                "107.30", 
+                "centimeters"
+            ]
+        }, 
+        "department_id": "35347493", 
+        "title_raw": "Ireland-Fly Pan Am", 
+        "justification": null, 
+        "media_id": "51685923", 
+        "description": "Image of a green landscape with a fortress/castle. Text in green, above: IRELAND. Below, in white and green: FLY / PAN AMERICAN / WORLD’S MOST EXPERIENCED AIRLINE.", 
+        "creditline": "Gift of Mrs. E. McKnight Kauffer", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "1953", 
+        "url": "https://collection.cooperhewitt.org/objects/18447213/", 
+        "type": "poster", 
+        "accession_number": "1963-39-122", 
+        "year_end": 1953, 
+        "signed": "Signed in green ink, lower right: E. McKnight Kauffer", 
+        "inscribed": "Printed in black ink, lower left: Copyright 1953, PAN AMERICAN WORLD AIRWAYS, INC.; lower right: LITHO IN U.S.A.", 
+        "period_id": null, 
+        "year_acquired": "1963", 
+        "woe:country_id": "23424977"
+    }
+}

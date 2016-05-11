@@ -1,0 +1,157 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": null, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": null, 
+        "tms:id": "201831", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/93871_1d72d410bd838b14_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "93871"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/93871_1d72d410bd838b14_b.jpg", 
+                    "width": 670, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "93871"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/93871_1d72d410bd838b14_d.gif", 
+                    "width": 209, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "93871"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/93871_1d72d410bd838b14_z.jpg", 
+                    "width": 418, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "93871"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/93871_1d72d410bd838b14_n.jpg", 
+                    "width": 209, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "93871"
+                }
+            }, 
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/266870_aea062438ccb4aa4_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "0", 
+                    "image_id": "266870"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/266870_aea062438ccb4aa4_b.jpg", 
+                    "width": 686, 
+                    "height": 1024, 
+                    "is_primary": "0", 
+                    "image_id": "266870"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/266870_aea062438ccb4aa4_d.gif", 
+                    "width": 214, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "266870"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/266870_aea062438ccb4aa4_z.jpg", 
+                    "width": 428, 
+                    "height": 640, 
+                    "is_primary": "0", 
+                    "image_id": "266870"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/266870_aea062438ccb4aa4_n.jpg", 
+                    "width": 214, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "266870"
+                }
+            }
+        ], 
+        "id": "18653741", 
+        "has_no_known_copyright": null, 
+        "woe:country_name": "United States", 
+        "dimensions": "58.4 × 38.4 cm (23 in. × 15 1/8 in.)", 
+        "title": "Poster, Inflatable Soule", 
+        "provenance": null, 
+        "participants": [
+            {
+                "person_name": "Robynne Raye", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35351535/", 
+                "role_id": "35351535", 
+                "role_name": "Donor", 
+                "person_date": "1964", 
+                "role_display_name": "Donated by", 
+                "person_id": "18043573", 
+                "person_url": "https://collection.cooperhewitt.org/people/18043573/"
+            }, 
+            {
+                "person_name": "Modern Dog", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236681/", 
+                "role_id": "35236681", 
+                "role_name": "Company", 
+                "person_date": "", 
+                "role_display_name": "Company:", 
+                "person_id": "18041831", 
+                "person_url": "https://collection.cooperhewitt.org/people/18041831/"
+            }, 
+            {
+                "person_name": "Robynne Raye", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "1964", 
+                "role_display_name": "Designed by", 
+                "person_id": "18043573", 
+                "person_url": "https://collection.cooperhewitt.org/people/18043573/"
+            }
+        ], 
+        "decade": null, 
+        "label_text": null, 
+        "woe:country": "23424977", 
+        "dimensions_raw": {
+            "width": [
+                "38.40", 
+                "centimeters"
+            ], 
+            "height": [
+                "58.40", 
+                "centimeters"
+            ]
+        }, 
+        "department_id": "35347493", 
+        "title_raw": "Inflatable Soule", 
+        "justification": null, 
+        "media_id": "35371135", 
+        "description": null, 
+        "creditline": "Gift of Robynne Raye", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": null, 
+        "url": "https://collection.cooperhewitt.org/objects/18653741/", 
+        "type": "poster", 
+        "accession_number": "1996-5-7", 
+        "year_end": null, 
+        "signed": null, 
+        "inscribed": null, 
+        "period_id": null, 
+        "year_acquired": "1996", 
+        "woe:country_id": "23424977"
+    }
+}

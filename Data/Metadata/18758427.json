@@ -1,0 +1,130 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": 1998, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": "offset lithograph, stencil and black spray paint on wove paper", 
+        "tms:id": "255499", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/45562_4bc4b184fed028d1_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "45562"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/45562_4bc4b184fed028d1_b.jpg", 
+                    "width": 713, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "45562"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/45562_4bc4b184fed028d1_d.gif", 
+                    "width": 223, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "45562"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/45562_4bc4b184fed028d1_z.jpg", 
+                    "width": 446, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "45562"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/45562_4bc4b184fed028d1_n.jpg", 
+                    "width": 223, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "45562"
+                }
+            }
+        ], 
+        "id": "18758427", 
+        "has_no_known_copyright": null, 
+        "woe:country_name": "Switzerland", 
+        "dimensions": "127.9 x 89.6 cm (50 3/8 x 35 1/4 in.)", 
+        "title": "Poster, Hoffnung und Widerstand, ca. 1998", 
+        "provenance": "Sara and Marc Benda (acquired new and directly from designer, Cornel Windlin); 2010: acquired by Museum", 
+        "participants": [
+            {
+                "person_name": "Museum für Gestaltung, Zürich", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236667/", 
+                "role_id": "35236667", 
+                "role_name": "Client", 
+                "person_date": "Zürich, Switzerland", 
+                "role_display_name": "Client:", 
+                "person_id": "18063557", 
+                "person_url": "https://collection.cooperhewitt.org/people/18063557/"
+            }, 
+            {
+                "person_name": "Cornel Windlin", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "Swiss, b. 1964", 
+                "role_display_name": "Designed by", 
+                "person_id": "18063543", 
+                "person_url": "https://collection.cooperhewitt.org/people/18063543/"
+            }, 
+            {
+                "person_name": "Marc Benda", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35351535/", 
+                "role_id": "35351535", 
+                "role_name": "Donor", 
+                "person_date": "", 
+                "role_display_name": "Donated by", 
+                "person_id": "18062523", 
+                "person_url": "https://collection.cooperhewitt.org/people/18062523/"
+            }, 
+            {
+                "person_name": "Sara Benda", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35351535/", 
+                "role_id": "35351535", 
+                "role_name": "Donor", 
+                "person_date": "", 
+                "role_display_name": "Donated by", 
+                "person_id": "18063205", 
+                "person_url": "https://collection.cooperhewitt.org/people/18063205/"
+            }
+        ], 
+        "decade": "1990", 
+        "label_text": null, 
+        "woe:country": "23424957", 
+        "dimensions_raw": {
+            "width": [
+                "89.60", 
+                "centimeters"
+            ], 
+            "height": [
+                "127.90", 
+                "centimeters"
+            ]
+        }, 
+        "department_id": "35347493", 
+        "title_raw": "Hoffnung und Widerstand", 
+        "justification": null, 
+        "media_id": "35434623", 
+        "description": "In yellow and red, a photo of Che Guevara. In lower margin: HOFFNUNG UND WIDERSTAND / Plakate der internationalen Arbeiter- und Friedensbewegung / 2. September bis 18. Oktober MUSEUM FUR GESTALTUNG ZURICH / D-Fr. 10-18 Mi 10-21 Sa/So 11-18.", 
+        "creditline": "Gift of Sara and Marc Benda", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "ca. 1998", 
+        "url": "https://collection.cooperhewitt.org/objects/18758427/", 
+        "type": "poster", 
+        "accession_number": "2010-21-109", 
+        "year_end": 1998, 
+        "signed": null, 
+        "inscribed": null, 
+        "period_id": null, 
+        "year_acquired": "2010", 
+        "woe:country_id": "23424957"
+    }
+}

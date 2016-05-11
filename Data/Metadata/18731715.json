@@ -1,0 +1,156 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": 1970, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": "offset lithograph on white wove paper", 
+        "tms:id": "241955", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/38534_fa6d411cee8edf09_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "38534"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/38534_fa6d411cee8edf09_b.jpg", 
+                    "width": 733, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "38534"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/38534_fa6d411cee8edf09_d.gif", 
+                    "width": 229, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "38534"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/38534_fa6d411cee8edf09_z.jpg", 
+                    "width": 458, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "38534"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/38534_fa6d411cee8edf09_n.jpg", 
+                    "width": 229, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "38534"
+                }
+            }, 
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/267835_ed71fb0e9c3d691d_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "0", 
+                    "image_id": "267835"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/267835_ed71fb0e9c3d691d_b.jpg", 
+                    "width": 472, 
+                    "height": 1024, 
+                    "is_primary": "0", 
+                    "image_id": "267835"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/267835_ed71fb0e9c3d691d_d.gif", 
+                    "width": 148, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "267835"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/267835_ed71fb0e9c3d691d_z.jpg", 
+                    "width": 295, 
+                    "height": 640, 
+                    "is_primary": "0", 
+                    "image_id": "267835"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/267835_ed71fb0e9c3d691d_n.jpg", 
+                    "width": 148, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "267835"
+                }
+            }
+        ], 
+        "id": "18731715", 
+        "has_no_known_copyright": null, 
+        "dimensions": "72.8 x 103 cm (28 11/16 x 40 9/16 in.)", 
+        "title": "Poster, Torture for the Matsuya Department Store, 1970", 
+        "provenance": null, 
+        "participants": [
+            {
+                "person_name": "Sara Benda", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35351535/", 
+                "role_id": "35351535", 
+                "role_name": "Donor", 
+                "person_date": "", 
+                "role_display_name": "Donated by", 
+                "person_id": "18063205", 
+                "person_url": "https://collection.cooperhewitt.org/people/18063205/"
+            }, 
+            {
+                "person_name": "Tadanori Yokoo, Japanese", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "b. 1936", 
+                "role_display_name": "Designed by", 
+                "person_id": "18054231", 
+                "person_url": "https://collection.cooperhewitt.org/people/18054231/"
+            }, 
+            {
+                "person_name": "Marc Benda", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35351535/", 
+                "role_id": "35351535", 
+                "role_name": "Donor", 
+                "person_date": "", 
+                "role_display_name": "Donated by", 
+                "person_id": "18062523", 
+                "person_url": "https://collection.cooperhewitt.org/people/18062523/"
+            }
+        ], 
+        "decade": "1970", 
+        "label_text": null, 
+        "woe:country": null, 
+        "dimensions_raw": {
+            "width": [
+                "103.00", 
+                "centimeters"
+            ], 
+            "height": [
+                "72.80", 
+                "centimeters"
+            ]
+        }, 
+        "department_id": "35347493", 
+        "title_raw": "Torture for the Matsuya Department Store", 
+        "justification": null, 
+        "media_id": "35431673", 
+        "description": "Three predominantly red sections on single poster. First section mostly red with white and orange highlight; second image mostly red with some blue and white, outline of a girl, bound, lying on the floor; third section predominantly red with white, blue, orange and green, two images of girl, bound, on the floor - one at the top of the section in red, blue and grey, the other at the bottom of the section in white highlights.", 
+        "creditline": "Gift of Sara and Marc Benda", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "1970", 
+        "url": "https://collection.cooperhewitt.org/objects/18731715/", 
+        "type": "poster", 
+        "accession_number": "2009-12-4", 
+        "year_end": 1970, 
+        "signed": null, 
+        "inscribed": null, 
+        "period_id": null, 
+        "year_acquired": "2009", 
+        "woe:country_id": null
+    }
+}

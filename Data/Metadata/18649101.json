@@ -1,0 +1,207 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": "Designer and illustrator Eduardo Muñoz Bachs was one of the first members of The Cuban Institute of Cinema Art and Industry (ICAIC), and the most important member of la Escuela Cubana del Cartel Cinematográfico in Cuba. At the age of 16, Bachs began his graphic work without any formal training, and later produced an extensive portfolio of silkscreened film posters. Although his work was not formally catalogued, he quickly rose to fame when his first poster design was publically displayed. Bachs’ approach to graphic work is simple in the way he utilizes a palette of five to six colors, and displays a single subject in the center of the composition. His drawing style mostly resembles children’s book illustrations with elements of humor, satire, and playful ingenuity. This poster was designed for the 1971 Bulgarian film Необходимият грешник, or The Indispensible Sinner, and later re-titled El reo necesario for the Spanish release.", 
+        "year_start": 1973, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": "screenprint on wove paper", 
+        "tms:id": "199460", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/89856_e21c1db66ae82230_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "89856"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/89856_e21c1db66ae82230_b.jpg", 
+                    "width": 677, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "89856"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/89856_e21c1db66ae82230_d.gif", 
+                    "width": 212, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "89856"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/89856_e21c1db66ae82230_z.jpg", 
+                    "width": 423, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "89856"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/89856_e21c1db66ae82230_n.jpg", 
+                    "width": 212, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "89856"
+                }
+            }, 
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/141670_dbd5cde8d3f49e10_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "0", 
+                    "image_id": "141670"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/141670_dbd5cde8d3f49e10_b.jpg", 
+                    "width": 685, 
+                    "height": 1024, 
+                    "is_primary": "0", 
+                    "image_id": "141670"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/141670_dbd5cde8d3f49e10_d.gif", 
+                    "width": 214, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "141670"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/141670_dbd5cde8d3f49e10_z.jpg", 
+                    "width": 428, 
+                    "height": 640, 
+                    "is_primary": "0", 
+                    "image_id": "141670"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/141670_dbd5cde8d3f49e10_n.jpg", 
+                    "width": 214, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "141670"
+                }
+            }
+        ], 
+        "id": "18649101", 
+        "has_no_known_copyright": null, 
+        "woe:country_name": "Cuba", 
+        "dimensions": "76.5 x 50.8 cm (30 1/8 in. x 20 in.)", 
+        "title": "Poster, El Reo Necessario, 1973", 
+        "provenance": "1994: acquired by Museum (from Reinhold Brown Gallery New York, NY)", 
+        "participants": [
+            {
+                "person_name": "Dr. Gail Davidson", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35352245/", 
+                "role_id": "35352245", 
+                "role_name": "Cataloguer", 
+                "person_date": "", 
+                "role_display_name": "Catalogued by", 
+                "person_id": "18048255", 
+                "person_url": "https://collection.cooperhewitt.org/people/18048255/"
+            }, 
+            {
+                "person_name": "Reinhold Brown Gallery", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35352249/", 
+                "role_id": "35352249", 
+                "role_name": "Vendor", 
+                "person_date": "", 
+                "role_display_name": "Purchased from", 
+                "person_id": "18041557", 
+                "person_url": "https://collection.cooperhewitt.org/people/18041557/"
+            }, 
+            {
+                "person_name": "Smithsonian Institution CAP Funds--do not use", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35352247/", 
+                "role_id": "35352247", 
+                "role_name": "Fund", 
+                "person_date": "", 
+                "role_display_name": "Fund:", 
+                "person_id": "18048931", 
+                "person_url": "https://collection.cooperhewitt.org/people/18048931/"
+            }, 
+            {
+                "person_name": "ss", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35352245/", 
+                "role_id": "35352245", 
+                "role_name": "Cataloguer", 
+                "person_date": "", 
+                "role_display_name": "Catalogued by", 
+                "person_id": "18047797", 
+                "person_url": "https://collection.cooperhewitt.org/people/18047797/"
+            }, 
+            {
+                "person_name": "SR", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35352245/", 
+                "role_id": "35352245", 
+                "role_name": "Cataloguer", 
+                "person_date": "", 
+                "role_display_name": "Catalogued by", 
+                "person_id": "18047543", 
+                "person_url": "https://collection.cooperhewitt.org/people/18047543/"
+            }, 
+            {
+                "person_name": "The Cuban Institute of Cinematographic Art and Industry (ICAIC)", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236661/", 
+                "role_id": "35236661", 
+                "role_name": "Publisher", 
+                "person_date": "Cuba", 
+                "role_display_name": "Published by", 
+                "person_id": "18043359", 
+                "person_url": "https://collection.cooperhewitt.org/people/18043359/"
+            }, 
+            {
+                "person_name": "The Cuban Institute of Cinematographic Art and Industry (ICAIC)", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236667/", 
+                "role_id": "35236667", 
+                "role_name": "Client", 
+                "person_date": "Cuba", 
+                "role_display_name": "Client:", 
+                "person_id": "18043359", 
+                "person_url": "https://collection.cooperhewitt.org/people/18043359/"
+            }, 
+            {
+                "person_name": "Eduardo Muñoz Bachs, Spanish", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236565/", 
+                "role_id": "35236565", 
+                "role_name": "Artist", 
+                "person_date": "1937 - 2001", 
+                "role_display_name": "", 
+                "person_id": "18043361", 
+                "person_url": "https://collection.cooperhewitt.org/people/18043361/"
+            }
+        ], 
+        "decade": "1970", 
+        "label_text": null, 
+        "woe:country": "23424793", 
+        "dimensions_raw": {
+            "width": [
+                "50.80", 
+                "centimeters"
+            ], 
+            "height": [
+                "76.50", 
+                "centimeters"
+            ]
+        }, 
+        "department_id": "35347493", 
+        "title_raw": "El Reo Necessario", 
+        "justification": null, 
+        "media_id": "35399029", 
+        "description": "In black text, upper margin: film bulgaro en colores y cinemascope dirección: borislav sharaliev con: kosta tsonev maya / dragomanska yavo milushev. Title: el reo / necesario. Drawing of a blue wooden chair atop a transparent cube against a yellow background.", 
+        "creditline": "Museum purchase from Smithsonian Institution Collections Acquisition Program Fund and through gift of Anonymous Donors", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "1973", 
+        "url": "https://collection.cooperhewitt.org/objects/18649101/", 
+        "type": "poster", 
+        "accession_number": "1994-65-3", 
+        "year_end": 1973, 
+        "signed": "Signed and dated along lower right edge of image running vertically: Bachs 73", 
+        "inscribed": null, 
+        "period_id": null, 
+        "year_acquired": "1994", 
+        "woe:country_id": "23424793"
+    }
+}

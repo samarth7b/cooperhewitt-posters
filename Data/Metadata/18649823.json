@@ -1,0 +1,241 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": 1941, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": "screenprint on paper", 
+        "tms:id": "199829", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/95685_0f58b049b761e298_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "95685"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/95685_0f58b049b761e298_b.jpg", 
+                    "width": 772, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "95685"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/95685_0f58b049b761e298_d.gif", 
+                    "width": 241, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "95685"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/95685_0f58b049b761e298_z.jpg", 
+                    "width": 483, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "95685"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/95685_0f58b049b761e298_n.jpg", 
+                    "width": 241, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "95685"
+                }
+            }, 
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/254633_95421878f7d5825e_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "0", 
+                    "image_id": "254633"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/254633_95421878f7d5825e_b.jpg", 
+                    "width": 772, 
+                    "height": 1024, 
+                    "is_primary": "0", 
+                    "image_id": "254633"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/254633_95421878f7d5825e_d.gif", 
+                    "width": 241, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "254633"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/254633_95421878f7d5825e_z.jpg", 
+                    "width": 482, 
+                    "height": 640, 
+                    "is_primary": "0", 
+                    "image_id": "254633"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/254633_95421878f7d5825e_n.jpg", 
+                    "width": 241, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "254633"
+                }
+            }, 
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/94780_27651a537c2a33ab_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "0", 
+                    "image_id": "94780"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/94780_27651a537c2a33ab_b.jpg", 
+                    "width": 772, 
+                    "height": 1024, 
+                    "is_primary": "0", 
+                    "image_id": "94780"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/94780_27651a537c2a33ab_d.gif", 
+                    "width": 241, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "94780"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/94780_27651a537c2a33ab_z.jpg", 
+                    "width": 483, 
+                    "height": 640, 
+                    "is_primary": "0", 
+                    "image_id": "94780"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/94780_27651a537c2a33ab_n.jpg", 
+                    "width": 241, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "94780"
+                }
+            }, 
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/12173_ffb419d96f0ce2d6_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "0", 
+                    "image_id": "12173"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/12173_ffb419d96f0ce2d6_b.jpg", 
+                    "width": 776, 
+                    "height": 1024, 
+                    "is_primary": "0", 
+                    "image_id": "12173"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/12173_ffb419d96f0ce2d6_d.gif", 
+                    "width": 242, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "12173"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/12173_ffb419d96f0ce2d6_z.jpg", 
+                    "width": 485, 
+                    "height": 640, 
+                    "is_primary": "0", 
+                    "image_id": "12173"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/12173_ffb419d96f0ce2d6_n.jpg", 
+                    "width": 242, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "12173"
+                }
+            }
+        ], 
+        "id": "18649823", 
+        "has_no_known_copyright": null, 
+        "woe:country_name": "United States", 
+        "dimensions": "101.6 x 76.2 cm (40 x 30 in. )", 
+        "title": "Poster, Rural Industries, 1941", 
+        "provenance": "1995: acquired by Museum (from Reinhold Brown Gallery New York, NY)", 
+        "participants": [
+            {
+                "person_name": "General Acquisitions Endowment", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35352247/", 
+                "role_id": "35352247", 
+                "role_name": "Fund", 
+                "person_date": "", 
+                "role_display_name": "Fund:", 
+                "person_id": "18048535", 
+                "person_url": "https://collection.cooperhewitt.org/people/18048535/"
+            }, 
+            {
+                "person_name": "Reinhold Brown Gallery", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35352249/", 
+                "role_id": "35352249", 
+                "role_name": "Vendor", 
+                "person_date": "", 
+                "role_display_name": "Purchased from", 
+                "person_id": "18041557", 
+                "person_url": "https://collection.cooperhewitt.org/people/18041557/"
+            }, 
+            {
+                "person_name": "Rural Electrification Administration", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236675/", 
+                "role_id": "35236675", 
+                "role_name": "For", 
+                "person_date": "USA", 
+                "role_display_name": "Made for", 
+                "person_id": "18049661", 
+                "person_url": "https://collection.cooperhewitt.org/people/18049661/"
+            }, 
+            {
+                "person_name": "Lester Beall", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "American, 1903–1969", 
+                "role_display_name": "Designed by", 
+                "person_id": "18048993", 
+                "person_url": "https://collection.cooperhewitt.org/people/18048993/"
+            }
+        ], 
+        "decade": "1940", 
+        "label_text": null, 
+        "woe:country": "23424977", 
+        "dimensions_raw": {
+            "width": [
+                "76.20", 
+                "centimeters"
+            ], 
+            "height": [
+                "101.60", 
+                "centimeters"
+            ]
+        }, 
+        "department_id": "35347493", 
+        "title_raw": "Rural Industries", 
+        "justification": null, 
+        "media_id": "35431679", 
+        "description": "Black and white photo of man in cap and ragged jacket using radial arm saw.  Background composed of blue section and red and white striped section with blue ovoid shape. Text in white ink, upper center: RURAL INDUSTRIES.", 
+        "creditline": "Museum purchase through gift of Mrs. Edward C. Post and from Friends of Drawings and Prints, General Acquisition Endowment, Sarah Cooper Hewitt, and Smithsonian Institution Collections Acquisition Program Funds", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "1941", 
+        "url": "https://collection.cooperhewitt.org/objects/18649823/", 
+        "type": "poster", 
+        "accession_number": "1995-106-1", 
+        "year_end": 1941, 
+        "signed": null, 
+        "inscribed": "Printed in black ink, lower margin, RURAL ELECTRIFICATION ADMINISTRATION/U.S. Department of Agriculture.", 
+        "period_id": null, 
+        "year_acquired": "1995", 
+        "woe:country_id": "23424977"
+    }
+}

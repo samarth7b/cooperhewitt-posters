@@ -1,0 +1,147 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": 1979, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": "offset lithograph on paper", 
+        "tms:id": "177326", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/64991_25ba9a5619aea702_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "64991"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/64991_25ba9a5619aea702_b.jpg", 
+                    "width": 1024, 
+                    "height": 790, 
+                    "is_primary": "1", 
+                    "image_id": "64991"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/64991_25ba9a5619aea702_d.gif", 
+                    "width": 320, 
+                    "height": 247, 
+                    "is_primary": "1", 
+                    "image_id": "64991"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/64991_25ba9a5619aea702_z.jpg", 
+                    "width": 640, 
+                    "height": 494, 
+                    "is_primary": "1", 
+                    "image_id": "64991"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/64991_25ba9a5619aea702_n.jpg", 
+                    "width": 320, 
+                    "height": 247, 
+                    "is_primary": "1", 
+                    "image_id": "64991"
+                }
+            }, 
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/267895_abb702c9e7cf0d52_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "0", 
+                    "image_id": "267895"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/267895_abb702c9e7cf0d52_b.jpg", 
+                    "width": 1024, 
+                    "height": 805, 
+                    "is_primary": "0", 
+                    "image_id": "267895"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/267895_abb702c9e7cf0d52_d.gif", 
+                    "width": 320, 
+                    "height": 252, 
+                    "is_primary": "0", 
+                    "image_id": "267895"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/267895_abb702c9e7cf0d52_z.jpg", 
+                    "width": 640, 
+                    "height": 503, 
+                    "is_primary": "0", 
+                    "image_id": "267895"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/267895_abb702c9e7cf0d52_n.jpg", 
+                    "width": 320, 
+                    "height": 252, 
+                    "is_primary": "0", 
+                    "image_id": "267895"
+                }
+            }
+        ], 
+        "id": "18617587", 
+        "has_no_known_copyright": null, 
+        "woe:country_name": "United States", 
+        "dimensions": "H x W: 57.5 x 74.5 cm (22 5/8 x 29 5/16 in.)", 
+        "title": "Poster, \"Levi's\" for Levi Strauss, 1979", 
+        "provenance": "1981: acquired by Museum", 
+        "participants": [
+            {
+                "person_name": "L. W. Duke", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "American", 
+                "role_display_name": "Designed by", 
+                "person_id": "51688173", 
+                "person_url": "https://collection.cooperhewitt.org/people/51688173/"
+            }, 
+            {
+                "person_name": "Levi Strauss", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236667/", 
+                "role_id": "35236667", 
+                "role_name": "Client", 
+                "person_date": "San Francisco, California, USA", 
+                "role_display_name": "Client:", 
+                "person_id": "18535845", 
+                "person_url": "https://collection.cooperhewitt.org/people/18535845/"
+            }
+        ], 
+        "decade": "1970", 
+        "label_text": null, 
+        "woe:country": "23424977", 
+        "dimensions_raw": {
+            "width": [
+                "74.50", 
+                "centimeters"
+            ], 
+            "height": [
+                "57.50", 
+                "centimeters"
+            ]
+        }, 
+        "department_id": "35347493", 
+        "title_raw": "\"Levi's\" for Levi Strauss", 
+        "justification": null, 
+        "media_id": "35399021", 
+        "description": "Image of a wooden wagon being pulled by several pairs of jeans with brown belts, in a desert landscape. Wagon is filled with folded shirts and a woman; riders on horseback galloping in the back. In lower margin: WE PUT A LITTLE BLUE JEAN IN EVERYTHING WE MAKE. Across upper left, in script: Levi's.", 
+        "creditline": "Gift of Various Donors", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "1979", 
+        "url": "https://collection.cooperhewitt.org/objects/18617587/", 
+        "type": "poster", 
+        "accession_number": "1981-29-249", 
+        "year_end": 1979, 
+        "signed": "Signed in brown ink, lower right: LwDuke / 1979", 
+        "inscribed": "Printed in black ink, lower left: The TAB, arcuate stitching design, and the word “Levi’s” are registered / trademarks of Levi Strauss & Co., San Francisco, CA ©1979 Levi Strauss & Co.", 
+        "period_id": null, 
+        "year_acquired": "1981", 
+        "woe:country_id": "23424977"
+    }
+}

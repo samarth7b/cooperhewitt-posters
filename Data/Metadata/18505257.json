@@ -1,0 +1,147 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": 1976, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": "lithograph on paper", 
+        "tms:id": "163532", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/82294_eafaec6550870b63_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "82294"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/82294_eafaec6550870b63_b.jpg", 
+                    "width": 680, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "82294"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/82294_eafaec6550870b63_d.gif", 
+                    "width": 213, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "82294"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/82294_eafaec6550870b63_z.jpg", 
+                    "width": 425, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "82294"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/82294_eafaec6550870b63_n.jpg", 
+                    "width": 213, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "82294"
+                }
+            }, 
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/266857_c4c51e18095384d6_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "0", 
+                    "image_id": "266857"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/266857_c4c51e18095384d6_b.jpg", 
+                    "width": 691, 
+                    "height": 1024, 
+                    "is_primary": "0", 
+                    "image_id": "266857"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/266857_c4c51e18095384d6_d.gif", 
+                    "width": 216, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "266857"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/266857_c4c51e18095384d6_z.jpg", 
+                    "width": 432, 
+                    "height": 640, 
+                    "is_primary": "0", 
+                    "image_id": "266857"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/266857_c4c51e18095384d6_n.jpg", 
+                    "width": 216, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "266857"
+                }
+            }
+        ], 
+        "id": "18505257", 
+        "has_no_known_copyright": null, 
+        "woe:country_name": "United States", 
+        "dimensions": "76.1 x 50.7 cm (29 15/16 x 19 15/16 in.)", 
+        "title": "Poster, Images of an Era the American Poster, 1945-75, 1976", 
+        "provenance": "1980: acquired by Museum", 
+        "participants": [
+            {
+                "person_name": "Andy Warhol", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236565/", 
+                "role_id": "35236565", 
+                "role_name": "Artist", 
+                "person_date": "American, 1928 - 1987", 
+                "role_display_name": "", 
+                "person_id": "18046705", 
+                "person_url": "https://collection.cooperhewitt.org/people/18046705/"
+            }, 
+            {
+                "person_name": "Omnific Publishing", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236661/", 
+                "role_id": "35236661", 
+                "role_name": "Publisher", 
+                "person_date": "", 
+                "role_display_name": "Published by", 
+                "person_id": "68248435", 
+                "person_url": "https://collection.cooperhewitt.org/people/68248435/"
+            }
+        ], 
+        "decade": "1970", 
+        "label_text": null, 
+        "woe:country": "23424977", 
+        "dimensions_raw": {
+            "width": [
+                "50.70", 
+                "centimeters"
+            ], 
+            "height": [
+                "76.10", 
+                "centimeters"
+            ]
+        }, 
+        "department_id": "35347493", 
+        "title_raw": "Images of an Era the American Poster, 1945-75", 
+        "justification": null, 
+        "media_id": "35419317", 
+        "description": "Poster featuring duplicated poster by Andy Warhol showing sections of ticket stubs above and text below.  Poster designed by Andy Warhol is featured in the collection of Cooper-Hewitt (1972-58-7).", 
+        "creditline": "Gift of Unknown Donor", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "1976", 
+        "url": "https://collection.cooperhewitt.org/objects/18505257/", 
+        "type": "poster", 
+        "accession_number": "1980-32-1278", 
+        "year_end": 1976, 
+        "signed": null, 
+        "inscribed": "Imprinted in black ink, lower left: American Revolution Bicentennial [logo]; left margin: Omnific/Andy Warhol © 1967 List Art Foundation, Inc. Courtesy of Pace Editions, Inc./Westerham Press", 
+        "period_id": null, 
+        "year_acquired": "1980", 
+        "woe:country_id": "23424977"
+    }
+}

@@ -1,0 +1,137 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": 1976, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": "offset lithograph on paper", 
+        "tms:id": "177514", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/80032_5d49e43cf24883f6_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "80032"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/80032_5d49e43cf24883f6_b.jpg", 
+                    "width": 1024, 
+                    "height": 647, 
+                    "is_primary": "1", 
+                    "image_id": "80032"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/80032_5d49e43cf24883f6_d.gif", 
+                    "width": 320, 
+                    "height": 202, 
+                    "is_primary": "1", 
+                    "image_id": "80032"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/80032_5d49e43cf24883f6_z.jpg", 
+                    "width": 640, 
+                    "height": 404, 
+                    "is_primary": "1", 
+                    "image_id": "80032"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/80032_5d49e43cf24883f6_n.jpg", 
+                    "width": 320, 
+                    "height": 202, 
+                    "is_primary": "1", 
+                    "image_id": "80032"
+                }
+            }, 
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/268791_4f951736bd77b87f_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "0", 
+                    "image_id": "268791"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/268791_4f951736bd77b87f_b.jpg", 
+                    "width": 1024, 
+                    "height": 673, 
+                    "is_primary": "0", 
+                    "image_id": "268791"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/268791_4f951736bd77b87f_d.gif", 
+                    "width": 320, 
+                    "height": 210, 
+                    "is_primary": "0", 
+                    "image_id": "268791"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/268791_4f951736bd77b87f_z.jpg", 
+                    "width": 640, 
+                    "height": 421, 
+                    "is_primary": "0", 
+                    "image_id": "268791"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/268791_4f951736bd77b87f_n.jpg", 
+                    "width": 320, 
+                    "height": 210, 
+                    "is_primary": "0", 
+                    "image_id": "268791"
+                }
+            }
+        ], 
+        "id": "18617961", 
+        "has_no_known_copyright": null, 
+        "woe:country_name": "United States", 
+        "dimensions": "H x W: 57.7 x 89.7 cm (22 11/16 x 35 5/16 in.)", 
+        "title": "Poster, Modular Sofa Group, 1976", 
+        "provenance": "1981: acquired by Museum", 
+        "participants": [
+            {
+                "person_name": "Stephen Frykholm", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "American, b. 1942", 
+                "role_display_name": "Designed by", 
+                "person_id": "18042365", 
+                "person_url": "https://collection.cooperhewitt.org/people/18042365/"
+            }
+        ], 
+        "decade": "1970", 
+        "label_text": null, 
+        "woe:country": "23424977", 
+        "dimensions_raw": {
+            "width": [
+                "89.70", 
+                "centimeters"
+            ], 
+            "height": [
+                "57.70", 
+                "centimeters"
+            ]
+        }, 
+        "department_id": "35347493", 
+        "title_raw": "Modular Sofa Group", 
+        "justification": null, 
+        "media_id": "35399021", 
+        "description": "Poster depicts rows of rainbow-colored chair and sofas. Above, in black ink: [logo] herman miller modular sofa group designed by ray wilkes.", 
+        "creditline": "Gift of Various Donors", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "1976", 
+        "url": "https://collection.cooperhewitt.org/objects/18617961/", 
+        "type": "poster", 
+        "accession_number": "1981-29-415", 
+        "year_end": 1976, 
+        "signed": null, 
+        "inscribed": null, 
+        "period_id": null, 
+        "year_acquired": "1981", 
+        "woe:country_id": "23424977"
+    }
+}

@@ -1,0 +1,147 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": 1970, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": "lithograph on wove paper", 
+        "tms:id": "177436", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/82704_3b97407a3b1ffeb1_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "82704"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/82704_3b97407a3b1ffeb1_b.jpg", 
+                    "width": 1024, 
+                    "height": 700, 
+                    "is_primary": "1", 
+                    "image_id": "82704"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/82704_3b97407a3b1ffeb1_d.gif", 
+                    "width": 320, 
+                    "height": 219, 
+                    "is_primary": "1", 
+                    "image_id": "82704"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/82704_3b97407a3b1ffeb1_z.jpg", 
+                    "width": 640, 
+                    "height": 438, 
+                    "is_primary": "1", 
+                    "image_id": "82704"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/82704_3b97407a3b1ffeb1_n.jpg", 
+                    "width": 320, 
+                    "height": 219, 
+                    "is_primary": "1", 
+                    "image_id": "82704"
+                }
+            }, 
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/205025_0ca566e135c7f5ac_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "0", 
+                    "image_id": "205025"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/205025_0ca566e135c7f5ac_b.jpg", 
+                    "width": 1024, 
+                    "height": 706, 
+                    "is_primary": "0", 
+                    "image_id": "205025"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/205025_0ca566e135c7f5ac_d.gif", 
+                    "width": 320, 
+                    "height": 221, 
+                    "is_primary": "0", 
+                    "image_id": "205025"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/205025_0ca566e135c7f5ac_z.jpg", 
+                    "width": 640, 
+                    "height": 441, 
+                    "is_primary": "0", 
+                    "image_id": "205025"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/205025_0ca566e135c7f5ac_n.jpg", 
+                    "width": 320, 
+                    "height": 221, 
+                    "is_primary": "0", 
+                    "image_id": "205025"
+                }
+            }
+        ], 
+        "id": "18617805", 
+        "has_no_known_copyright": null, 
+        "woe:country_name": "United States", 
+        "dimensions": "Overall: 55.9 x 38 cm (22 x 14 15/16 in.)", 
+        "title": "Poster, Peace Corps, 1970", 
+        "provenance": "1981: acquired by Museum", 
+        "participants": [
+            {
+                "person_name": "Barnes Press", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236673/", 
+                "role_id": "35236673", 
+                "role_name": "Printer", 
+                "person_date": "", 
+                "role_display_name": "Printed by", 
+                "person_id": "68248437", 
+                "person_url": "https://collection.cooperhewitt.org/people/68248437/"
+            }, 
+            {
+                "person_name": "Peter Max", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "American, b. Germany, 1937", 
+                "role_display_name": "Designed by", 
+                "person_id": "18042345", 
+                "person_url": "https://collection.cooperhewitt.org/people/18042345/"
+            }
+        ], 
+        "decade": "1970", 
+        "label_text": null, 
+        "woe:country": "23424977", 
+        "dimensions_raw": {
+            "width": [
+                "38.00", 
+                "centimeters"
+            ], 
+            "height": [
+                "55.90", 
+                "centimeters"
+            ]
+        }, 
+        "department_id": "35347493", 
+        "title_raw": "Peace Corps", 
+        "justification": null, 
+        "media_id": "35407799", 
+        "description": "Poster features a colorful—some filled in with Ben-day dots—chaotic mélange of faces, clouds, landscapes, etc.", 
+        "creditline": "Gift of Various Donors", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "1970", 
+        "url": "https://collection.cooperhewitt.org/objects/18617805/", 
+        "type": "poster", 
+        "accession_number": "1981-29-345", 
+        "year_end": 1970, 
+        "signed": "Imprinted in black ink, in white oval, lower center: peter max©", 
+        "inscribed": "Imprinted in black ink, lower right: PRINTED BY BARNES PRESS, NEW YORK, N.Y., U.S.A.", 
+        "period_id": null, 
+        "year_acquired": "1981", 
+        "woe:country_id": "23424977"
+    }
+}

@@ -1,0 +1,101 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": 1992, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": "screen print on blue wove paper", 
+        "tms:id": "210763", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/255659_00fed457f1624e90_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "255659"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/255659_00fed457f1624e90_b.jpg", 
+                    "width": 1024, 
+                    "height": 730, 
+                    "is_primary": "1", 
+                    "image_id": "255659"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/255659_00fed457f1624e90_d.gif", 
+                    "width": 320, 
+                    "height": 228, 
+                    "is_primary": "1", 
+                    "image_id": "255659"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/255659_00fed457f1624e90_z.jpg", 
+                    "width": 640, 
+                    "height": 456, 
+                    "is_primary": "1", 
+                    "image_id": "255659"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/255659_00fed457f1624e90_n.jpg", 
+                    "width": 320, 
+                    "height": 228, 
+                    "is_primary": "1", 
+                    "image_id": "255659"
+                }
+            }
+        ], 
+        "id": "18670681", 
+        "has_no_known_copyright": null, 
+        "woe:country_name": "Sweden", 
+        "dimensions": null, 
+        "title": "Poster, \"Lika Med\", 1992", 
+        "provenance": null, 
+        "participants": [
+            {
+                "person_name": "Karl Gustav Olsson", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35351535/", 
+                "role_id": "35351535", 
+                "role_name": "Donor", 
+                "person_date": "Swedish, b. 1947", 
+                "role_display_name": "Donated by", 
+                "person_id": "18050269", 
+                "person_url": "https://collection.cooperhewitt.org/people/18050269/"
+            }, 
+            {
+                "person_name": "Karl Gustav Olsson", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "Swedish, b. 1947", 
+                "role_display_name": "Designed by", 
+                "person_id": "18050269", 
+                "person_url": "https://collection.cooperhewitt.org/people/18050269/"
+            }
+        ], 
+        "decade": "1990", 
+        "label_text": null, 
+        "woe:country": "23424954", 
+        "dimensions_raw": null, 
+        "department_id": "35347493", 
+        "title_raw": "\"Lika Med\"", 
+        "justification": null, 
+        "media_id": "35384395", 
+        "description": "This is a poster for the Swedish Photographers Society exhibition at the Lund Art Gallery, Lund, 1992.  Svenska Fotografernas Frobund", 
+        "creditline": "Gift of K.G. Olsson", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "1992", 
+        "url": "https://collection.cooperhewitt.org/objects/18670681/", 
+        "type": "poster", 
+        "accession_number": "1998-43-2", 
+        "year_end": 1992, 
+        "signed": "Verso:Top right along right edge in ink: K.G.Olsson Virvelvindsvagen 46 222 27 Lund Sweden", 
+        "inscribed": null, 
+        "period_id": null, 
+        "year_acquired": "1998", 
+        "woe:country_id": "23424954"
+    }
+}

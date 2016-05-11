@@ -1,0 +1,100 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": 1993, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": "offset lithography", 
+        "tms:id": "200482", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/81513_5e0f0dbf86230c95_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "81513"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/81513_5e0f0dbf86230c95_b.jpg", 
+                    "width": 1024, 
+                    "height": 400, 
+                    "is_primary": "1", 
+                    "image_id": "81513"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/81513_5e0f0dbf86230c95_d.gif", 
+                    "width": 320, 
+                    "height": 125, 
+                    "is_primary": "1", 
+                    "image_id": "81513"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/81513_5e0f0dbf86230c95_z.jpg", 
+                    "width": 640, 
+                    "height": 250, 
+                    "is_primary": "1", 
+                    "image_id": "81513"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/81513_5e0f0dbf86230c95_n.jpg", 
+                    "width": 320, 
+                    "height": 125, 
+                    "is_primary": "1", 
+                    "image_id": "81513"
+                }
+            }
+        ], 
+        "id": "18651087", 
+        "has_no_known_copyright": null, 
+        "woe:country_name": "United States", 
+        "dimensions": "27.9 x 71.1 cm (11 x 28 in. )", 
+        "title": "Poster, El Sida No Discrimina, 1993", 
+        "provenance": "1995: acquired by Museum", 
+        "participants": [
+            {
+                "person_name": "Women and AIDS Resource Network", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35351535/", 
+                "role_id": "35351535", 
+                "role_name": "Donor", 
+                "person_date": "", 
+                "role_display_name": "Donated by", 
+                "person_id": "18041641", 
+                "person_url": "https://collection.cooperhewitt.org/people/18041641/"
+            }
+        ], 
+        "decade": "1990", 
+        "label_text": null, 
+        "woe:country": "23424977", 
+        "dimensions_raw": {
+            "width": [
+                "71.10", 
+                "centimeters"
+            ], 
+            "height": [
+                "27.90", 
+                "centimeters"
+            ]
+        }, 
+        "department_id": "35347493", 
+        "title_raw": "El Sida No Discrimina", 
+        "justification": null, 
+        "media_id": "35421913", 
+        "description": "Poster for AIDS prevention campaign.  \nPhoto of diverse group of people standing side-by-side to illustrate how can one can get AIDS.  Starting from left to right--couple, businessman,electrician, mother and child, asian professional, young professional male, female doctor.  Imprinted in yellow, across top: \"EL SIAD no discrimina\"", 
+        "creditline": "Gift of Women and AIDS Resource Network", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "1993", 
+        "url": "https://collection.cooperhewitt.org/objects/18651087/", 
+        "type": "poster", 
+        "accession_number": "1995-31-2", 
+        "year_end": 1993, 
+        "signed": null, 
+        "inscribed": "Imprinted in black, lower left: \"Cualiquier persona peude contraer SIDA por contacto sexual o companrtiendo agujas hipodimilas/ con un individo infectado.  Pero el SIA puede evitarse./ Sepa cómoprotegerse!\"\nImprinted in black, lower right: \"Llame al 1-800-462-1884\"/ departamento de Salud del Estado de Nueva York.\"", 
+        "period_id": null, 
+        "year_acquired": "1995", 
+        "woe:country_id": "23424977"
+    }
+}

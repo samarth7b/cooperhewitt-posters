@@ -1,0 +1,120 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": 1925, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": "lithograph on newsprint", 
+        "tms:id": "129140", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/88910_1bc7af2dc261f28d_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "88910"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/88910_1bc7af2dc261f28d_b.jpg", 
+                    "width": 727, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "88910"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/88910_1bc7af2dc261f28d_d.gif", 
+                    "width": 227, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "88910"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/88910_1bc7af2dc261f28d_z.jpg", 
+                    "width": 454, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "88910"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/88910_1bc7af2dc261f28d_n.jpg", 
+                    "width": 227, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "88910"
+                }
+            }
+        ], 
+        "id": "18437427", 
+        "has_no_known_copyright": null, 
+        "woe:country_name": "Spain", 
+        "dimensions": "163.2 x 115.6 cm (5 ft. 4 1/4 in. x 45 1/2 in.)", 
+        "title": "Poster, Torero and Bull, ca. 1930", 
+        "provenance": null, 
+        "participants": [
+            {
+                "person_name": "Hamill & Barker", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35351535/", 
+                "role_id": "35351535", 
+                "role_name": "Donor", 
+                "person_date": "", 
+                "role_display_name": "Donated by", 
+                "person_id": "18056543", 
+                "person_url": "https://collection.cooperhewitt.org/people/18056543/"
+            }, 
+            {
+                "person_name": "Ortega Valencia", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236617/", 
+                "role_id": "35236617", 
+                "role_name": "Lithographer", 
+                "person_date": "Spanish, active 1890 – 1930", 
+                "role_display_name": "Lithographer:", 
+                "person_id": "18057039", 
+                "person_url": "https://collection.cooperhewitt.org/people/18057039/"
+            }, 
+            {
+                "person_name": "Carlos Ruano Llopis", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236565/", 
+                "role_id": "35236565", 
+                "role_name": "Artist", 
+                "person_date": "Spanish, 1878/1879? - 1950", 
+                "role_display_name": "", 
+                "person_id": "69121627", 
+                "person_url": "https://collection.cooperhewitt.org/people/69121627/"
+            }
+        ], 
+        "decade": "1920", 
+        "label_text": null, 
+        "woe:country": "23424950", 
+        "dimensions_raw": {
+            "width": [
+                "115.60", 
+                "centimeters"
+            ], 
+            "height": [
+                "163.20", 
+                "centimeters"
+            ]
+        }, 
+        "department_id": "35347493", 
+        "title_raw": "Torero and Bull", 
+        "justification": null, 
+        "media_id": "35420685", 
+        "description": "A bullfighter dressed in a traditional yellow 'torero' outfit, swaying a red cape in a fighting scene with a black bull.", 
+        "creditline": "Gift of Hamill and Barker", 
+        "on_display": null, 
+        "markings": "Monogram in black paint: Ortega/ Valencia/ 537", 
+        "is_loan_object": 0, 
+        "date": "ca. 1930", 
+        "url": "https://collection.cooperhewitt.org/objects/18437427/", 
+        "type": "poster", 
+        "accession_number": "1961-105-94", 
+        "year_end": 1935, 
+        "signed": "Signed in black paint: C. Ruano Llopis", 
+        "inscribed": null, 
+        "period_id": null, 
+        "year_acquired": "1961", 
+        "woe:country_id": "23424950"
+    }
+}

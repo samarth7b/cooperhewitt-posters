@@ -1,0 +1,137 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": 1974, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": "lithograph on wove paper", 
+        "tms:id": "177382", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/82691_d2a75bb3469c5ed3_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "82691"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/82691_d2a75bb3469c5ed3_b.jpg", 
+                    "width": 550, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "82691"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/82691_d2a75bb3469c5ed3_d.gif", 
+                    "width": 172, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "82691"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/82691_d2a75bb3469c5ed3_z.jpg", 
+                    "width": 343, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "82691"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/82691_d2a75bb3469c5ed3_n.jpg", 
+                    "width": 172, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "82691"
+                }
+            }, 
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/204914_a210f19349bf413d_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "0", 
+                    "image_id": "204914"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/204914_a210f19349bf413d_b.jpg", 
+                    "width": 558, 
+                    "height": 1024, 
+                    "is_primary": "0", 
+                    "image_id": "204914"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/204914_a210f19349bf413d_d.gif", 
+                    "width": 174, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "204914"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/204914_a210f19349bf413d_z.jpg", 
+                    "width": 348, 
+                    "height": 640, 
+                    "is_primary": "0", 
+                    "image_id": "204914"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/204914_a210f19349bf413d_n.jpg", 
+                    "width": 174, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "204914"
+                }
+            }
+        ], 
+        "id": "18617699", 
+        "has_no_known_copyright": null, 
+        "woe:country_name": "United States", 
+        "dimensions": "71 x 38 cm (27 15/16 x 14 15/16 in.)", 
+        "title": "Poster, Brigham Young University Basketball, 1974", 
+        "provenance": "1981: acquired by Museum", 
+        "participants": [
+            {
+                "person_name": "Brigham Young University", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236667/", 
+                "role_id": "35236667", 
+                "role_name": "Client", 
+                "person_date": "", 
+                "role_display_name": "Client:", 
+                "person_id": "18042421", 
+                "person_url": "https://collection.cooperhewitt.org/people/18042421/"
+            }
+        ], 
+        "decade": "1970", 
+        "label_text": null, 
+        "woe:country": "23424977", 
+        "dimensions_raw": {
+            "width": [
+                "38.00", 
+                "centimeters"
+            ], 
+            "height": [
+                "71.00", 
+                "centimeters"
+            ]
+        }, 
+        "department_id": "35347493", 
+        "title_raw": "Brigham Young University Basketball", 
+        "justification": null, 
+        "media_id": "35407799", 
+        "description": "Poster features the David (by Michelangelo) dressed as a basketball player with game information.", 
+        "creditline": "Gift of Various Donors", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "1974", 
+        "url": "https://collection.cooperhewitt.org/objects/18617699/", 
+        "type": "poster", 
+        "accession_number": "1981-29-298", 
+        "year_end": 1974, 
+        "signed": null, 
+        "inscribed": null, 
+        "period_id": null, 
+        "year_acquired": "1981", 
+        "woe:country_id": "23424977"
+    }
+}

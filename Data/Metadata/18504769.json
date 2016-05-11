@@ -1,0 +1,79 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": 1971, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": null, 
+        "tms:id": "163288", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/268512_b4d4013e983601ad_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "268512"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/268512_b4d4013e983601ad_b.jpg", 
+                    "width": 1024, 
+                    "height": 750, 
+                    "is_primary": "1", 
+                    "image_id": "268512"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/268512_b4d4013e983601ad_d.gif", 
+                    "width": 320, 
+                    "height": 234, 
+                    "is_primary": "1", 
+                    "image_id": "268512"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/268512_b4d4013e983601ad_z.jpg", 
+                    "width": 640, 
+                    "height": 469, 
+                    "is_primary": "1", 
+                    "image_id": "268512"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/268512_b4d4013e983601ad_n.jpg", 
+                    "width": 320, 
+                    "height": 234, 
+                    "is_primary": "1", 
+                    "image_id": "268512"
+                }
+            }
+        ], 
+        "id": "18504769", 
+        "has_no_known_copyright": null, 
+        "dimensions": null, 
+        "title": "Poster, Drawn From Nature/Life, 1971", 
+        "provenance": null, 
+        "participants": [], 
+        "decade": "1970", 
+        "label_text": null, 
+        "woe:country": null, 
+        "dimensions_raw": null, 
+        "department_id": "35347493", 
+        "title_raw": "Drawn From Nature/Life", 
+        "justification": null, 
+        "media_id": "35371135", 
+        "description": null, 
+        "creditline": "Gift of Unknown Donor", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "1971", 
+        "url": "https://collection.cooperhewitt.org/objects/18504769/", 
+        "type": "poster", 
+        "accession_number": "1980-32-1024", 
+        "year_end": 1971, 
+        "signed": null, 
+        "inscribed": null, 
+        "period_id": null, 
+        "year_acquired": "1980", 
+        "woe:country_id": null
+    }
+}

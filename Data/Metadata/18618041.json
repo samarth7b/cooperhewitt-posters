@@ -1,0 +1,137 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": null, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": "lithograph on paper", 
+        "tms:id": "177554", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/90321_54f5b6441178bbdc_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "90321"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/90321_54f5b6441178bbdc_b.jpg", 
+                    "width": 734, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "90321"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/90321_54f5b6441178bbdc_d.gif", 
+                    "width": 229, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "90321"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/90321_54f5b6441178bbdc_z.jpg", 
+                    "width": 459, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "90321"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/90321_54f5b6441178bbdc_n.jpg", 
+                    "width": 229, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "90321"
+                }
+            }, 
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/207179_52bcbbc5de550ccb_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "0", 
+                    "image_id": "207179"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/207179_52bcbbc5de550ccb_b.jpg", 
+                    "width": 742, 
+                    "height": 1024, 
+                    "is_primary": "0", 
+                    "image_id": "207179"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/207179_52bcbbc5de550ccb_d.gif", 
+                    "width": 232, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "207179"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/207179_52bcbbc5de550ccb_z.jpg", 
+                    "width": 463, 
+                    "height": 640, 
+                    "is_primary": "0", 
+                    "image_id": "207179"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/207179_52bcbbc5de550ccb_n.jpg", 
+                    "width": 232, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "207179"
+                }
+            }
+        ], 
+        "id": "18618041", 
+        "has_no_known_copyright": null, 
+        "woe:country_name": "United States", 
+        "dimensions": "53.5 x 38.2 cm (21 1/16 x 15 1/16 in.)", 
+        "title": "Poster, Waste not. Wait not.", 
+        "provenance": "1981: acquired by Museum", 
+        "participants": [
+            {
+                "person_name": "Ken White", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "American, 1935-1985", 
+                "role_display_name": "Designed by", 
+                "person_id": "18042357", 
+                "person_url": "https://collection.cooperhewitt.org/people/18042357/"
+            }
+        ], 
+        "decade": null, 
+        "label_text": null, 
+        "woe:country": "23424977", 
+        "dimensions_raw": {
+            "width": [
+                "38.20", 
+                "centimeters"
+            ], 
+            "height": [
+                "53.50", 
+                "centimeters"
+            ]
+        }, 
+        "department_id": "35347493", 
+        "title_raw": "Waste not. Wait not.", 
+        "justification": null, 
+        "media_id": "35419317", 
+        "description": "On black ground, two images of hand gasoline spouts with text bubbles coming from each: Waste Not. / Wait Not. Upper edge, in white text: Governor’s Committee on Gasoline Conservation.", 
+        "creditline": "Gift of Various Donors", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": null, 
+        "url": "https://collection.cooperhewitt.org/objects/18618041/", 
+        "type": "poster", 
+        "accession_number": "1981-29-451", 
+        "year_end": null, 
+        "signed": null, 
+        "inscribed": null, 
+        "period_id": null, 
+        "year_acquired": "1981", 
+        "woe:country_id": "23424977"
+    }
+}

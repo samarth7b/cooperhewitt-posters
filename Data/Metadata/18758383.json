@@ -1,0 +1,156 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": 1962, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": "screenprint on wove paper", 
+        "tms:id": "255477", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/37003_1bc5db987844abb1_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "37003"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/37003_1bc5db987844abb1_b.jpg", 
+                    "width": 730, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "37003"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/37003_1bc5db987844abb1_d.gif", 
+                    "width": 228, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "37003"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/37003_1bc5db987844abb1_z.jpg", 
+                    "width": 457, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "37003"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/37003_1bc5db987844abb1_n.jpg", 
+                    "width": 228, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "37003"
+                }
+            }, 
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/253191_b26a28190f583f29_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "0", 
+                    "image_id": "253191"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/253191_b26a28190f583f29_b.jpg", 
+                    "width": 731, 
+                    "height": 1024, 
+                    "is_primary": "0", 
+                    "image_id": "253191"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/253191_b26a28190f583f29_d.gif", 
+                    "width": 228, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "253191"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/253191_b26a28190f583f29_z.jpg", 
+                    "width": 457, 
+                    "height": 640, 
+                    "is_primary": "0", 
+                    "image_id": "253191"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/253191_b26a28190f583f29_n.jpg", 
+                    "width": 228, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "253191"
+                }
+            }
+        ], 
+        "id": "18758383", 
+        "has_no_known_copyright": null, 
+        "dimensions": "83.5 x 59.4 cm (32 7/8 x 23 3/8 in.)", 
+        "title": "Poster, Der Pakt mit dem Teufel, 1962", 
+        "provenance": "Acquired from dealers, galleries and auction houses by Marc Benda.  Remained with Benda until 2010, when gifted to CHNDM.", 
+        "participants": [
+            {
+                "person_name": "Hans Hillmann", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "German, 1925 - 2014", 
+                "role_display_name": "Designed by", 
+                "person_id": "18063509", 
+                "person_url": "https://collection.cooperhewitt.org/people/18063509/"
+            }, 
+            {
+                "person_name": "Marc Benda", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35351535/", 
+                "role_id": "35351535", 
+                "role_name": "Donor", 
+                "person_date": "", 
+                "role_display_name": "Donated by", 
+                "person_id": "18062523", 
+                "person_url": "https://collection.cooperhewitt.org/people/18062523/"
+            }, 
+            {
+                "person_name": "Sara Benda", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35351535/", 
+                "role_id": "35351535", 
+                "role_name": "Donor", 
+                "person_date": "", 
+                "role_display_name": "Donated by", 
+                "person_id": "18063205", 
+                "person_url": "https://collection.cooperhewitt.org/people/18063205/"
+            }
+        ], 
+        "decade": "1960", 
+        "label_text": null, 
+        "woe:country": null, 
+        "dimensions_raw": {
+            "width": [
+                "59.40", 
+                "centimeters"
+            ], 
+            "height": [
+                "83.50", 
+                "centimeters"
+            ]
+        }, 
+        "department_id": "35347493", 
+        "title_raw": "Der Pakt mit dem Teufel", 
+        "justification": null, 
+        "media_id": "35399029", 
+        "description": "The background is newspaper-style black-and-white photograph of a man in top hat, laughing maniacally, red flames emerging from his face. The inscription to the left of him is: \"Rene Clairs / version der / faust - sage / Mit Gerard Philiper / als Faust / michel / simon als / mefisto\", and to the right: \"Der Pakt / mit / dem / Teufel / La/ beaute / du un diable. \"", 
+        "creditline": "Gift of Sara and Marc Benda", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "1962", 
+        "url": "https://collection.cooperhewitt.org/objects/18758383/", 
+        "type": "poster", 
+        "accession_number": "2010-21-88", 
+        "year_end": 1962, 
+        "signed": null, 
+        "inscribed": null, 
+        "period_id": "35435937", 
+        "year_acquired": "2010", 
+        "woe:country_id": null
+    }
+}

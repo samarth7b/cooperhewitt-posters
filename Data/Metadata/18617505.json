@@ -1,0 +1,137 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": 1980, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": "offset lithograph on paper", 
+        "tms:id": "177285", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/49881_90988a37267d701f_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "49881"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/49881_90988a37267d701f_b.jpg", 
+                    "width": 683, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "49881"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/49881_90988a37267d701f_d.gif", 
+                    "width": 213, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "49881"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/49881_90988a37267d701f_z.jpg", 
+                    "width": 427, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "49881"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/49881_90988a37267d701f_n.jpg", 
+                    "width": 213, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "49881"
+                }
+            }, 
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/268880_67e58497618db3c0_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "0", 
+                    "image_id": "268880"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/268880_67e58497618db3c0_b.jpg", 
+                    "width": 697, 
+                    "height": 1024, 
+                    "is_primary": "0", 
+                    "image_id": "268880"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/268880_67e58497618db3c0_d.gif", 
+                    "width": 218, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "268880"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/268880_67e58497618db3c0_z.jpg", 
+                    "width": 436, 
+                    "height": 640, 
+                    "is_primary": "0", 
+                    "image_id": "268880"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/268880_67e58497618db3c0_n.jpg", 
+                    "width": 218, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "268880"
+                }
+            }
+        ], 
+        "id": "18617505", 
+        "has_no_known_copyright": null, 
+        "woe:country_name": "United States", 
+        "dimensions": "H x W: 91.6 x 61.2 cm (36 1/16 x 24 1/8 in.)", 
+        "title": "Poster, Self-Help: Strategies for the 1980's, 1980s", 
+        "provenance": "1981: acquired by Museum", 
+        "participants": [
+            {
+                "person_name": "Milton Glaser", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "American, b. 1929", 
+                "role_display_name": "Designed by", 
+                "person_id": "18042107", 
+                "person_url": "https://collection.cooperhewitt.org/people/18042107/"
+            }
+        ], 
+        "decade": "1980", 
+        "label_text": null, 
+        "woe:country": "23424977", 
+        "dimensions_raw": {
+            "width": [
+                "61.20", 
+                "centimeters"
+            ], 
+            "height": [
+                "91.60", 
+                "centimeters"
+            ]
+        }, 
+        "department_id": "35347493", 
+        "title_raw": "Self-Help: Strategies for the 1980's", 
+        "justification": null, 
+        "media_id": "35399021", 
+        "description": "Poster depicts a V-shaped rainbow breaking through the ground, leaving bricks on the ground; V reaching the sky against dark blue sky. Text in upper margin: [in white] SELF-HELP: STRATEGIES FOR THE 1980’S / VOLUNTEERS IN SERVICE TO AMERICA / [in pastel colors] VISTA.", 
+        "creditline": "Gift of Various Donors", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "1980s", 
+        "url": "https://collection.cooperhewitt.org/objects/18617505/", 
+        "type": "poster", 
+        "accession_number": "1981-29-211", 
+        "year_end": 1989, 
+        "signed": "Signed in white, lower right: [in bubble] MILTON GLASER", 
+        "inscribed": null, 
+        "period_id": null, 
+        "year_acquired": "1981", 
+        "woe:country_id": "23424977"
+    }
+}

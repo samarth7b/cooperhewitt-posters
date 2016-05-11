@@ -1,0 +1,109 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": 1976, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": "offset lithograph on white wove paper", 
+        "tms:id": "212167", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/268866_6ee144f428d59da2_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "268866"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/268866_6ee144f428d59da2_b.jpg", 
+                    "width": 769, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "268866"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/268866_6ee144f428d59da2_d.gif", 
+                    "width": 240, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "268866"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/268866_6ee144f428d59da2_z.jpg", 
+                    "width": 480, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "268866"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/268866_6ee144f428d59da2_n.jpg", 
+                    "width": 240, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "268866"
+                }
+            }
+        ], 
+        "id": "18673449", 
+        "has_no_known_copyright": null, 
+        "dimensions": "56.0 x 76.2 cm (22 1/16 x 30 in. )", 
+        "title": "Poster, Rites of Passage, Department of Urban Outreach, Philadelphia Museum of Art, 1976", 
+        "provenance": "From the collection of Dan Friedman", 
+        "participants": [
+            {
+                "person_name": "Ken Friedman", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35351535/", 
+                "role_id": "35351535", 
+                "role_name": "Donor", 
+                "person_date": "", 
+                "role_display_name": "Donated by", 
+                "person_id": "18049807", 
+                "person_url": "https://collection.cooperhewitt.org/people/18049807/"
+            }, 
+            {
+                "person_name": "Dan Friedman", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "American, 1945–1995", 
+                "role_display_name": "Designed by", 
+                "person_id": "18041325", 
+                "person_url": "https://collection.cooperhewitt.org/people/18041325/"
+            }
+        ], 
+        "decade": "1970", 
+        "label_text": null, 
+        "woe:country": null, 
+        "dimensions_raw": {
+            "width": [
+                "76.20", 
+                "centimeters"
+            ], 
+            "height": [
+                "56.00", 
+                "centimeters"
+            ]
+        }, 
+        "department_id": "35347493", 
+        "title_raw": "Rites of Passage, Department of Urban Outreach, Philadelphia Museum of Art", 
+        "justification": null, 
+        "media_id": "35431673", 
+        "description": "Exhibition poster with schedule of events for the Department of Urban Outreach of he Philadelphia Museum of Art. Poster design is divided into five horizontal sections, each dominated by a pairing of a reproduction of an old photograph and a contemporary one. The images are placed to the left of center of the design while at the extreme left appears an accompanying star.  At the right are the specific locations throughout the city where the exhibitions and programs are held. The focus groups are Jewish, Italian, Black, Puerto Rican, Chinese.", 
+        "creditline": "Gift of Ken Friedman", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "1976", 
+        "url": "https://collection.cooperhewitt.org/objects/18673449/", 
+        "type": "poster", 
+        "accession_number": "1997-19-216", 
+        "year_end": 1976, 
+        "signed": null, 
+        "inscribed": "Inscribed in black at upper left: RITES OF PASSAGE / 11 January 1976 - 25 June 1976. At center right a block of text reads:\nThe Department of Urban Outreach / of the Philadelphia Museum of Art / announces a sequence of collaborative / exhibitions created by members of five / diverse cultural groups. The exhibitions / examine the ceremonies and circumstances / which highlight the passage from one state / of life to another. Community resource / persons, students, artists and families have / engaged in a unique and extended / workshop process which has facilitated the / development of each presentation. Through / the exhibition of works of art, artifacts, documents, photographs, slides and video / tape, the groups focus on their cultural / heritages and their impact of the life of / Philadelphia today. / This exhibition series is supported by grants / from the National Endowment for the Arts, a / Federal agency and the Dolfinger-McMahon Foundation.", 
+        "period_id": null, 
+        "year_acquired": "1997", 
+        "woe:country_id": null
+    }
+}

@@ -1,0 +1,177 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": 1993, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": "screenprint on wove paper", 
+        "tms:id": "255448", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/65818_a60dac6ed07f2337_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "65818"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/65818_a60dac6ed07f2337_b.jpg", 
+                    "width": 719, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "65818"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/65818_a60dac6ed07f2337_d.gif", 
+                    "width": 225, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "65818"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/65818_a60dac6ed07f2337_z.jpg", 
+                    "width": 449, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "65818"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/65818_a60dac6ed07f2337_n.jpg", 
+                    "width": 225, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "65818"
+                }
+            }, 
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/35176_3b75fb5941c879d2_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "0", 
+                    "image_id": "35176"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/35176_3b75fb5941c879d2_b.jpg", 
+                    "width": 739, 
+                    "height": 1024, 
+                    "is_primary": "0", 
+                    "image_id": "35176"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/35176_3b75fb5941c879d2_d.gif", 
+                    "width": 231, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "35176"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/35176_3b75fb5941c879d2_z.jpg", 
+                    "width": 462, 
+                    "height": 640, 
+                    "is_primary": "0", 
+                    "image_id": "35176"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/35176_3b75fb5941c879d2_n.jpg", 
+                    "width": 231, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "35176"
+                }
+            }
+        ], 
+        "id": "18758325", 
+        "has_no_known_copyright": null, 
+        "woe:country_name": "Switzerland", 
+        "dimensions": "128 x 90.8 cm (50 3/8 x 35 3/4 in.)", 
+        "title": "Poster, Nussknacker [The Nutcracker], 1993", 
+        "provenance": "Marc Benda (acquired new and directly from designers, museums, and cultural institutions); 2010: acquired by Museum", 
+        "participants": [
+            {
+                "person_name": "Mario Botta", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "Swiss, b.1943", 
+                "role_display_name": "Designed by", 
+                "person_id": "18049451", 
+                "person_url": "https://collection.cooperhewitt.org/people/18049451/"
+            }, 
+            {
+                "person_name": "Marc Benda", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35351535/", 
+                "role_id": "35351535", 
+                "role_name": "Donor", 
+                "person_date": "", 
+                "role_display_name": "Donated by", 
+                "person_id": "18062523", 
+                "person_url": "https://collection.cooperhewitt.org/people/18062523/"
+            }, 
+            {
+                "person_name": "Sara Benda", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35351535/", 
+                "role_id": "35351535", 
+                "role_name": "Donor", 
+                "person_date": "", 
+                "role_display_name": "Donated by", 
+                "person_id": "18063205", 
+                "person_url": "https://collection.cooperhewitt.org/people/18063205/"
+            }, 
+            {
+                "person_name": "Zürcher Ballet", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236667/", 
+                "role_id": "35236667", 
+                "role_name": "Client", 
+                "person_date": "", 
+                "role_display_name": "Client:", 
+                "person_id": "68738801", 
+                "person_url": "https://collection.cooperhewitt.org/people/68738801/"
+            }, 
+            {
+                "person_name": "Opernhaus, Zürich", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236667/", 
+                "role_id": "35236667", 
+                "role_name": "Client", 
+                "person_date": "Zürich, Switzerland", 
+                "role_display_name": "Client:", 
+                "person_id": "68738781", 
+                "person_url": "https://collection.cooperhewitt.org/people/68738781/"
+            }
+        ], 
+        "decade": "1990", 
+        "label_text": null, 
+        "woe:country": "23424957", 
+        "dimensions_raw": {
+            "width": [
+                "90.80", 
+                "centimeters"
+            ], 
+            "height": [
+                "128.00", 
+                "centimeters"
+            ]
+        }, 
+        "department_id": "35347493", 
+        "title_raw": "Nussknacker [The Nutcracker]", 
+        "justification": null, 
+        "media_id": "35399029", 
+        "description": "On white background, two jagged, jaw-like black shapes converge at center, forming a triangular shape between them. Directly below the apex of this triangular lacuna is a black circle. Inscriptions: at top- \"NUSSKNACKER / opernhaus\", directly below the black circle- \"ab 24. oktober 92 bis marz 93  Peter I. Tschaikowski  Oleg Caetani  Bernd Roger Bienert  Mario Botta  Keso Dekker  Jurg Hammerli  Orchester der Oper Zurich\", and at bottom- \"ZURCHER BALLETT\".", 
+        "creditline": "Gift of Sara and Marc Benda", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "1993", 
+        "url": "https://collection.cooperhewitt.org/objects/18758325/", 
+        "type": "poster", 
+        "accession_number": "2010-21-59", 
+        "year_end": 1993, 
+        "signed": null, 
+        "inscribed": null, 
+        "period_id": null, 
+        "year_acquired": "2010", 
+        "woe:country_id": "23424957"
+    }
+}

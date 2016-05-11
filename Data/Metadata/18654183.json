@@ -1,0 +1,147 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": "Michael Bierut has a knack for translating three-dimensional concepts into two-dimensional pieces of graphic design. Inner City Infill displays the graphic designer’s skill at manipulating text for conceptual gain. Bierut’s solution was to stack type and add drop shadows, which suggest a sense of height, and are reminiscent of a crowded New York City block. His client, The New York State Council for the Arts, was seeking to promote its competition for new housing options in Harlem.  This commission came early in his career; Bierut produced this work in 1985 while employed at Vignelli Associates in New York. Originally from Ohio, Bierut was hired by Massimo Vignelli’s firm one week after graduating from the University of Cincinnati’s College of Design, Architecture, Art and Planning.  Vignelli had strict ideas about the use of typography, and it was at his studio that Bierut learned to communicate larger ideas through his principal’s parameters.", 
+        "year_start": 1985, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": "lithograph on white", 
+        "tms:id": "202052", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/65473_b974fe74cea394c1_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "65473"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/65473_b974fe74cea394c1_b.jpg", 
+                    "width": 1024, 
+                    "height": 765, 
+                    "is_primary": "1", 
+                    "image_id": "65473"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/65473_b974fe74cea394c1_d.gif", 
+                    "width": 320, 
+                    "height": 239, 
+                    "is_primary": "1", 
+                    "image_id": "65473"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/65473_b974fe74cea394c1_z.jpg", 
+                    "width": 640, 
+                    "height": 478, 
+                    "is_primary": "1", 
+                    "image_id": "65473"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/65473_b974fe74cea394c1_n.jpg", 
+                    "width": 320, 
+                    "height": 239, 
+                    "is_primary": "1", 
+                    "image_id": "65473"
+                }
+            }, 
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/268456_e6658c0f4ebf819f_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "0", 
+                    "image_id": "268456"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/268456_e6658c0f4ebf819f_b.jpg", 
+                    "width": 1024, 
+                    "height": 774, 
+                    "is_primary": "0", 
+                    "image_id": "268456"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/268456_e6658c0f4ebf819f_d.gif", 
+                    "width": 320, 
+                    "height": 242, 
+                    "is_primary": "0", 
+                    "image_id": "268456"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/268456_e6658c0f4ebf819f_z.jpg", 
+                    "width": 640, 
+                    "height": 483, 
+                    "is_primary": "0", 
+                    "image_id": "268456"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/268456_e6658c0f4ebf819f_n.jpg", 
+                    "width": 320, 
+                    "height": 242, 
+                    "is_primary": "0", 
+                    "image_id": "268456"
+                }
+            }
+        ], 
+        "id": "18654183", 
+        "has_no_known_copyright": null, 
+        "woe:country_name": "United States", 
+        "dimensions": "H x W: 61.1 x 81.7 cm (24 1/16 x 32 3/16 in.)", 
+        "title": "Poster, Inner City Infill, 1985", 
+        "provenance": "1996: acquired by Museum", 
+        "participants": [
+            {
+                "person_name": "Michael Bierut", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35351535/", 
+                "role_id": "35351535", 
+                "role_name": "Donor", 
+                "person_date": "American, b. 1957", 
+                "role_display_name": "Donated by", 
+                "person_id": "18049223", 
+                "person_url": "https://collection.cooperhewitt.org/people/18049223/"
+            }, 
+            {
+                "person_name": "Michael Bierut", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "American, b. 1957", 
+                "role_display_name": "Designed by", 
+                "person_id": "18049223", 
+                "person_url": "https://collection.cooperhewitt.org/people/18049223/"
+            }
+        ], 
+        "decade": "1980", 
+        "label_text": null, 
+        "woe:country": "23424977", 
+        "dimensions_raw": {
+            "width": [
+                "81.70", 
+                "centimeters"
+            ], 
+            "height": [
+                "61.10", 
+                "centimeters"
+            ]
+        }, 
+        "department_id": "35347493", 
+        "title_raw": "Inner City Infill", 
+        "justification": null, 
+        "media_id": "51688999", 
+        "description": "Poster with text in large black letters on white ground: “INNER” with the word “CITY” overlapping inside, and the word “INFILL” inside; has 3-D aspect. Below, margin is black with orange and white columns of text. On the right an orange and black photograph. On the left: Inner City Infill / A Housing Design Competition / for Harlem.", 
+        "creditline": "Gift of Michael Bierut", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "1985", 
+        "url": "https://collection.cooperhewitt.org/objects/18654183/", 
+        "type": "poster", 
+        "accession_number": "1996-86-4", 
+        "year_end": 1985, 
+        "signed": null, 
+        "inscribed": "Printed in orange ink, lower center margin: Design: Michael Bierut / Printing: Kenner Printing", 
+        "period_id": null, 
+        "year_acquired": "1996", 
+        "woe:country_id": "23424977"
+    }
+}

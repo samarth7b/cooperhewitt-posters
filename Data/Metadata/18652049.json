@@ -1,0 +1,90 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": null, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": null, 
+        "tms:id": "200967", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/182791_95097a8f1e008d64_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "182791"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/182791_95097a8f1e008d64_b.jpg", 
+                    "width": 709, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "182791"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/182791_95097a8f1e008d64_d.gif", 
+                    "width": 222, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "182791"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/182791_95097a8f1e008d64_z.jpg", 
+                    "width": 443, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "182791"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/182791_95097a8f1e008d64_n.jpg", 
+                    "width": 222, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "182791"
+                }
+            }
+        ], 
+        "id": "18652049", 
+        "has_no_known_copyright": null, 
+        "dimensions": null, 
+        "title": "Poster, maps of the world", 
+        "provenance": null, 
+        "participants": [
+            {
+                "person_name": "Cooper Hewitt, Smithsonian Design Museum: Exhibitions", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35352257/", 
+                "role_id": "35352257", 
+                "role_name": "Transferor", 
+                "person_date": "", 
+                "role_display_name": "Transferred from", 
+                "person_id": "69119319", 
+                "person_url": "https://collection.cooperhewitt.org/people/69119319/"
+            }
+        ], 
+        "decade": null, 
+        "label_text": null, 
+        "woe:country": null, 
+        "dimensions_raw": null, 
+        "department_id": "35347493", 
+        "title_raw": "maps of the world", 
+        "justification": null, 
+        "media_id": "35371135", 
+        "description": null, 
+        "creditline": "Transfer from Exhibitions Department", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": null, 
+        "url": "https://collection.cooperhewitt.org/objects/18652049/", 
+        "type": "poster", 
+        "accession_number": "1995-71-18", 
+        "year_end": null, 
+        "signed": null, 
+        "inscribed": null, 
+        "period_id": null, 
+        "year_acquired": "1995", 
+        "woe:country_id": null
+    }
+}

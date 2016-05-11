@@ -1,0 +1,101 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": null, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": null, 
+        "tms:id": "159941", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/199866_9efe7a78aa2684c3_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "199866"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/199866_9efe7a78aa2684c3_b.jpg", 
+                    "width": 699, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "199866"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/199866_9efe7a78aa2684c3_d.gif", 
+                    "width": 218, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "199866"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/199866_9efe7a78aa2684c3_z.jpg", 
+                    "width": 437, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "199866"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/199866_9efe7a78aa2684c3_n.jpg", 
+                    "width": 218, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "199866"
+                }
+            }
+        ], 
+        "id": "18498089", 
+        "has_no_known_copyright": null, 
+        "woe:country_name": "United States", 
+        "dimensions": null, 
+        "title": "Poster, Messiah", 
+        "provenance": null, 
+        "participants": [
+            {
+                "person_name": "David Lance Goines", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35351535/", 
+                "role_id": "35351535", 
+                "role_name": "Donor", 
+                "person_date": "American, b. 1945", 
+                "role_display_name": "Donated by", 
+                "person_id": "18043255", 
+                "person_url": "https://collection.cooperhewitt.org/people/18043255/"
+            }, 
+            {
+                "person_name": "David Lance Goines", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236685/", 
+                "role_id": "35236685", 
+                "role_name": "Maker", 
+                "person_date": "American, b. 1945", 
+                "role_display_name": "Made by", 
+                "person_id": "18043255", 
+                "person_url": "https://collection.cooperhewitt.org/people/18043255/"
+            }
+        ], 
+        "decade": null, 
+        "label_text": null, 
+        "woe:country": "23424977", 
+        "dimensions_raw": null, 
+        "department_id": "35347493", 
+        "title_raw": "Messiah", 
+        "justification": null, 
+        "media_id": "35371135", 
+        "description": null, 
+        "creditline": null, 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": null, 
+        "url": "https://collection.cooperhewitt.org/objects/18498089/", 
+        "type": "poster", 
+        "accession_number": "1979-40-7", 
+        "year_end": null, 
+        "signed": null, 
+        "inscribed": null, 
+        "period_id": null, 
+        "year_acquired": "1979", 
+        "woe:country_id": "23424977"
+    }
+}

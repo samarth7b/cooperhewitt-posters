@@ -1,0 +1,137 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": 1973, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": "screenprint, gloss ink (possibly transfer type) on paper", 
+        "tms:id": "177530", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/80009_732193d8c1ce3763_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "80009"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/80009_732193d8c1ce3763_b.jpg", 
+                    "width": 685, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "80009"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/80009_732193d8c1ce3763_d.gif", 
+                    "width": 214, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "80009"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/80009_732193d8c1ce3763_z.jpg", 
+                    "width": 428, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "80009"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/80009_732193d8c1ce3763_n.jpg", 
+                    "width": 214, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "80009"
+                }
+            }, 
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/268755_88f0d6f8f30c39de_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "0", 
+                    "image_id": "268755"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/268755_88f0d6f8f30c39de_b.jpg", 
+                    "width": 696, 
+                    "height": 1024, 
+                    "is_primary": "0", 
+                    "image_id": "268755"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/268755_88f0d6f8f30c39de_d.gif", 
+                    "width": 218, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "268755"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/268755_88f0d6f8f30c39de_z.jpg", 
+                    "width": 435, 
+                    "height": 640, 
+                    "is_primary": "0", 
+                    "image_id": "268755"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/268755_88f0d6f8f30c39de_n.jpg", 
+                    "width": 218, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "268755"
+                }
+            }
+        ], 
+        "id": "18617993", 
+        "has_no_known_copyright": null, 
+        "woe:country_name": "United States", 
+        "dimensions": "H x W: 95.3 x 63.7 cm (37 1/2 x 25 1/16 in.)", 
+        "title": "Poster, Dick Vanderveen for United States Senate, ca. 1978", 
+        "provenance": "1981: acquired by Museum", 
+        "participants": [
+            {
+                "person_name": "Stephen Frykholm", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "American, b. 1942", 
+                "role_display_name": "Designed by", 
+                "person_id": "18042365", 
+                "person_url": "https://collection.cooperhewitt.org/people/18042365/"
+            }
+        ], 
+        "decade": "1970", 
+        "label_text": null, 
+        "woe:country": "23424977", 
+        "dimensions_raw": {
+            "width": [
+                "63.70", 
+                "centimeters"
+            ], 
+            "height": [
+                "95.30", 
+                "centimeters"
+            ]
+        }, 
+        "department_id": "35347493", 
+        "title_raw": "Dick Vanderveen for United States Senate", 
+        "justification": null, 
+        "media_id": "68249155", 
+        "description": "Colorful map of the United States’ Great Lakes region. Text in black: DICK VANDERVEEN FOR United States Senate. Visible are towns in Michigan, which is colored red.", 
+        "creditline": "Gift of Various Donors", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "ca. 1978", 
+        "url": "https://collection.cooperhewitt.org/objects/18617993/", 
+        "type": "poster", 
+        "accession_number": "1981-29-43", 
+        "year_end": 1983, 
+        "signed": null, 
+        "inscribed": null, 
+        "period_id": null, 
+        "year_acquired": "1981", 
+        "woe:country_id": "23424977"
+    }
+}

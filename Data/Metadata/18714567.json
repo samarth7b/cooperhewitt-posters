@@ -1,0 +1,150 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": 2007, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": "off-set lithograph on white paper", 
+        "tms:id": "233185", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/28889_1c5f4e7a2cbe5a57_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "28889"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/28889_1c5f4e7a2cbe5a57_b.jpg", 
+                    "width": 1024, 
+                    "height": 378, 
+                    "is_primary": "1", 
+                    "image_id": "28889"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/28889_1c5f4e7a2cbe5a57_d.gif", 
+                    "width": 320, 
+                    "height": 118, 
+                    "is_primary": "1", 
+                    "image_id": "28889"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/28889_1c5f4e7a2cbe5a57_z.jpg", 
+                    "width": 640, 
+                    "height": 236, 
+                    "is_primary": "1", 
+                    "image_id": "28889"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/28889_1c5f4e7a2cbe5a57_n.jpg", 
+                    "width": 320, 
+                    "height": 118, 
+                    "is_primary": "1", 
+                    "image_id": "28889"
+                }
+            }
+        ], 
+        "id": "18714567", 
+        "has_no_known_copyright": null, 
+        "woe:country_name": "United States", 
+        "dimensions": "28.4 × 86.7 cm (11 3/16 × 34 1/8 in.)", 
+        "title": "Poster, Sustainability, 2007", 
+        "provenance": "William Drenttel", 
+        "participants": [
+            {
+                "person_name": "Jessica Helfand", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236657/", 
+                "role_id": "35236657", 
+                "role_name": "Manufacturer", 
+                "person_date": "American", 
+                "role_display_name": "Manufactured by", 
+                "person_id": "18061559", 
+                "person_url": "https://collection.cooperhewitt.org/people/18061559/"
+            }, 
+            {
+                "person_name": "William Drenttel", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236787/", 
+                "role_id": "35236787", 
+                "role_name": "Art Director", 
+                "person_date": "American,", 
+                "role_display_name": "Art Director:", 
+                "person_id": "18538099", 
+                "person_url": "https://collection.cooperhewitt.org/people/18538099/"
+            }, 
+            {
+                "person_name": "Stora Enso", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236657/", 
+                "role_id": "35236657", 
+                "role_name": "Manufacturer", 
+                "person_date": "Helsinki, Finland, founded 1998", 
+                "role_display_name": "Manufactured by", 
+                "person_id": "18061569", 
+                "person_url": "https://collection.cooperhewitt.org/people/18061569/"
+            }, 
+            {
+                "person_name": "Christoph Niemann", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "German, active in America,  b. 1970", 
+                "role_display_name": "Designed by", 
+                "person_id": "18061567", 
+                "person_url": "https://collection.cooperhewitt.org/people/18061567/"
+            }, 
+            {
+                "person_name": "Jessica Helfand", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35351535/", 
+                "role_id": "35351535", 
+                "role_name": "Donor", 
+                "person_date": "American", 
+                "role_display_name": "Donated by", 
+                "person_id": "18061559", 
+                "person_url": "https://collection.cooperhewitt.org/people/18061559/"
+            }, 
+            {
+                "person_name": "William Drenttel", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35351535/", 
+                "role_id": "35351535", 
+                "role_name": "Donor", 
+                "person_date": "American,", 
+                "role_display_name": "Donated by", 
+                "person_id": "18538099", 
+                "person_url": "https://collection.cooperhewitt.org/people/18538099/"
+            }
+        ], 
+        "decade": "2000", 
+        "label_text": null, 
+        "woe:country": "23424977", 
+        "dimensions_raw": {
+            "width": [
+                "86.40", 
+                "centimeters"
+            ], 
+            "height": [
+                "27.90", 
+                "centimeters"
+            ]
+        }, 
+        "department_id": "35347493", 
+        "title_raw": "Sustainability", 
+        "justification": null, 
+        "media_id": "35388599", 
+        "description": "Op-art pattern formed by splitting the word \"sustainability\" into two parts and stacking the letters to form cubes. Printed in red, black and white, the letter forms echo the optical background that shifts perspective.", 
+        "creditline": "Gift of William Drenttel and Jessica Helfand", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "2007", 
+        "url": "https://collection.cooperhewitt.org/objects/18714567/", 
+        "type": "poster", 
+        "accession_number": "2008-7-3", 
+        "year_end": 2007, 
+        "signed": null, 
+        "inscribed": null, 
+        "period_id": null, 
+        "year_acquired": "2008", 
+        "woe:country_id": "23424977"
+    }
+}

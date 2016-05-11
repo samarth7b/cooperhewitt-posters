@@ -1,0 +1,91 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": null, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": null, 
+        "tms:id": "181474", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/182553_7e101da829de7eef_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "182553"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/182553_7e101da829de7eef_b.jpg", 
+                    "width": 673, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "182553"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/182553_7e101da829de7eef_d.gif", 
+                    "width": 210, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "182553"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/182553_7e101da829de7eef_z.jpg", 
+                    "width": 420, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "182553"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/182553_7e101da829de7eef_n.jpg", 
+                    "width": 210, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "182553"
+                }
+            }
+        ], 
+        "id": "18802577", 
+        "has_no_known_copyright": null, 
+        "woe:country_name": "United States", 
+        "dimensions": null, 
+        "title": "Poster (USA)", 
+        "provenance": null, 
+        "participants": [
+            {
+                "person_name": "Louise Nevelson", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236677/", 
+                "role_id": "35236677", 
+                "role_name": "After", 
+                "person_date": "", 
+                "role_display_name": "After", 
+                "person_id": "18535695", 
+                "person_url": "https://collection.cooperhewitt.org/people/18535695/"
+            }
+        ], 
+        "decade": null, 
+        "label_text": null, 
+        "woe:country": "23424977", 
+        "dimensions_raw": null, 
+        "department_id": "35347493", 
+        "title_raw": null, 
+        "justification": null, 
+        "media_id": "35371135", 
+        "description": null, 
+        "creditline": null, 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": null, 
+        "url": "https://collection.cooperhewitt.org/objects/18802577/", 
+        "type": "poster", 
+        "accession_number": "1984-30-1", 
+        "year_end": null, 
+        "signed": null, 
+        "inscribed": null, 
+        "period_id": null, 
+        "year_acquired": "1984", 
+        "woe:country_id": "23424977"
+    }
+}

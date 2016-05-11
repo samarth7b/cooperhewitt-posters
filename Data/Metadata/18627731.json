@@ -1,0 +1,140 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": 1963, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": "screenprint on white wove paper on illustration board", 
+        "tms:id": "188702", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/49016_c93bc26f12ec4c17_sq.jpg", 
+                    "width": 300, 
+                    "height": 274, 
+                    "is_primary": "1", 
+                    "image_id": "49016"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/49016_c93bc26f12ec4c17_b.jpg", 
+                    "width": 1024, 
+                    "height": 274, 
+                    "is_primary": "1", 
+                    "image_id": "49016"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/49016_c93bc26f12ec4c17_d.gif", 
+                    "width": 320, 
+                    "height": 86, 
+                    "is_primary": "1", 
+                    "image_id": "49016"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/49016_c93bc26f12ec4c17_z.jpg", 
+                    "width": 640, 
+                    "height": 171, 
+                    "is_primary": "1", 
+                    "image_id": "49016"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/49016_c93bc26f12ec4c17_n.jpg", 
+                    "width": 320, 
+                    "height": 86, 
+                    "is_primary": "1", 
+                    "image_id": "49016"
+                }
+            }
+        ], 
+        "id": "18627731", 
+        "has_no_known_copyright": null, 
+        "woe:country_name": "United States", 
+        "dimensions": "27.9 x 106.7 cm (11 x 42 in.)", 
+        "title": "Poster, New York Skyscrapers Around Central Park, 1963", 
+        "provenance": "John Rombola", 
+        "participants": [
+            {
+                "person_name": "Karin Zonis", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35352245/", 
+                "role_id": "35352245", 
+                "role_name": "Cataloguer", 
+                "person_date": "", 
+                "role_display_name": "Catalogued by", 
+                "person_id": "51676457", 
+                "person_url": "https://collection.cooperhewitt.org/people/51676457/"
+            }, 
+            {
+                "person_name": "John Rombola", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35351535/", 
+                "role_id": "35351535", 
+                "role_name": "Donor", 
+                "person_date": "American, b. 1933", 
+                "role_display_name": "Donated by", 
+                "person_id": "18046981", 
+                "person_url": "https://collection.cooperhewitt.org/people/18046981/"
+            }, 
+            {
+                "person_name": "Radio Station WPAT", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236667/", 
+                "role_id": "35236667", 
+                "role_name": "Client", 
+                "person_date": "", 
+                "role_display_name": "Client:", 
+                "person_id": "18057787", 
+                "person_url": "https://collection.cooperhewitt.org/people/18057787/"
+            }, 
+            {
+                "person_name": "New York Transit Advertising", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236667/", 
+                "role_id": "35236667", 
+                "role_name": "Client", 
+                "person_date": "", 
+                "role_display_name": "Client:", 
+                "person_id": "18057785", 
+                "person_url": "https://collection.cooperhewitt.org/people/18057785/"
+            }, 
+            {
+                "person_name": "John Rombola", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236565/", 
+                "role_id": "35236565", 
+                "role_name": "Artist", 
+                "person_date": "American, b. 1933", 
+                "role_display_name": "", 
+                "person_id": "18046981", 
+                "person_url": "https://collection.cooperhewitt.org/people/18046981/"
+            }
+        ], 
+        "decade": "1960", 
+        "label_text": null, 
+        "woe:country": "23424977", 
+        "dimensions_raw": {
+            "width": [
+                "106.68", 
+                "centimeters"
+            ], 
+            "height": [
+                "27.94", 
+                "centimeters"
+            ]
+        }, 
+        "department_id": "35347493", 
+        "title_raw": "New York Skyscrapers Around Central Park", 
+        "justification": null, 
+        "media_id": "35519799", 
+        "description": "Cityscape, in yellow, red, blue, and green, from Central Park perspective, surrounded by buildings. Text in red ink: MUSIC in the air everywhere—AM 93 FM—WPAT.", 
+        "creditline": null, 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "1963", 
+        "url": "https://collection.cooperhewitt.org/objects/18627731/", 
+        "type": "poster", 
+        "accession_number": "1988-11-1", 
+        "year_end": 1963, 
+        "signed": "Signed in red ink, lower right: Rombola", 
+        "inscribed": null, 
+        "period_id": null, 
+        "year_acquired": "1988", 
+        "woe:country_id": "23424977"
+    }
+}

@@ -1,0 +1,170 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": "Between 1966 and 1968 Wes Wilson designed no less than 56 posters for the Fillmore Auditorium in San Francisco, commissioned by Bill Graham. He completed them in only 14 months. This poster belongs to that series, designed for an Otis Rush, Grateful Dead and Canned Heat concert. Deformed bubble text, sinuous lines and pale colors produce an optical surge, suggesting the effects of hallucinatory drugs on the mind. This is reinforced by the contrasting presence of a face seen from profile, calm and composed, with one eye seemingly focused on something the spectator cannot fully grasp. The term “psychedelic” was first coined by psychiatrist Humphrey Osmond and aptly describes the visual effect of this design, representative of the emerging 1960’s subculture in San Francisco, to which Wilson made a significant contribution through his work. The impact of such posters influenced generations of graphic designers after him.", 
+        "year_start": 1967, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": "offset lithograph on white wove paper", 
+        "tms:id": "159897", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/82662_8216c440c20b788b_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "82662"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/82662_8216c440c20b788b_b.jpg", 
+                    "width": 642, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "82662"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/82662_8216c440c20b788b_d.gif", 
+                    "width": 201, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "82662"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/82662_8216c440c20b788b_z.jpg", 
+                    "width": 401, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "82662"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/82662_8216c440c20b788b_n.jpg", 
+                    "width": 201, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "82662"
+                }
+            }, 
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/24744_4cbefd9c4aabd99c_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "0", 
+                    "image_id": "24744"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/24744_4cbefd9c4aabd99c_b.jpg", 
+                    "width": 655, 
+                    "height": 1024, 
+                    "is_primary": "0", 
+                    "image_id": "24744"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/24744_4cbefd9c4aabd99c_d.gif", 
+                    "width": 205, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "24744"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/24744_4cbefd9c4aabd99c_z.jpg", 
+                    "width": 409, 
+                    "height": 640, 
+                    "is_primary": "0", 
+                    "image_id": "24744"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/24744_4cbefd9c4aabd99c_n.jpg", 
+                    "width": 205, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "24744"
+                }
+            }
+        ], 
+        "id": "18498001", 
+        "has_no_known_copyright": null, 
+        "dimensions": "H x W x D: 57 × 34.9 cm (22 7/16 × 13 3/4 in.)", 
+        "title": "Poster, Otis Rush, 1967", 
+        "provenance": "Mr. and Mrs. Leslie J. Schreyer; 1979: acquired by Museum", 
+        "participants": [
+            {
+                "person_name": "Mr. Leslie Schreyer", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35351535/", 
+                "role_id": "35351535", 
+                "role_name": "Donor", 
+                "person_date": "", 
+                "role_display_name": "Donated by", 
+                "person_id": "18058429", 
+                "person_url": "https://collection.cooperhewitt.org/people/18058429/"
+            }, 
+            {
+                "person_name": "West Coast Lithograph Co.", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236673/", 
+                "role_id": "35236673", 
+                "role_name": "Printer", 
+                "person_date": "", 
+                "role_display_name": "Printed by", 
+                "person_id": "18056691", 
+                "person_url": "https://collection.cooperhewitt.org/people/18056691/"
+            }, 
+            {
+                "person_name": "Wes Wilson", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "American, b. 1937", 
+                "role_display_name": "Designed by", 
+                "person_id": "18536387", 
+                "person_url": "https://collection.cooperhewitt.org/people/18536387/"
+            }, 
+            {
+                "person_name": "Mrs. Alice Schreyer", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35351535/", 
+                "role_id": "35351535", 
+                "role_name": "Donor", 
+                "person_date": "", 
+                "role_display_name": "Donated by", 
+                "person_id": "68736623", 
+                "person_url": "https://collection.cooperhewitt.org/people/68736623/"
+            }
+        ], 
+        "decade": "1960", 
+        "label_text": "Designed for an Otis Rush, Grateful Dead, and Canned Heat concert at San Francisco’s Fillmore, Wes Wilson’s poster is a pioneering example of psychedelic poster design. Characterized by their swirling letterforms and bright colors, Wilson’s designs are today synonymous with the 1960s peace movement.", 
+        "woe:country": null, 
+        "dimensions_raw": {
+            "width": [
+                "34.80", 
+                "centimeters"
+            ], 
+            "depth": [
+                "2.54", 
+                "centimeters"
+            ], 
+            "height": [
+                "56.00", 
+                "centimeters"
+            ]
+        }, 
+        "department_id": "35347493", 
+        "title_raw": "Otis Rush", 
+        "justification": null, 
+        "media_id": "35431673", 
+        "description": "Poster of a face in profile surrounded by flowing hair made up of S-curves.  Within the hair, one can read thick, bubble lettering.  The colors used in this poster are pale pink and teal, black, and gray.", 
+        "creditline": "Gift of Mr. and Mrs. Leslie J. Schreyer", 
+        "on_display": "1", 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "1967", 
+        "url": "https://collection.cooperhewitt.org/objects/18498001/", 
+        "type": "poster", 
+        "accession_number": "1979-34-28", 
+        "year_end": 1967, 
+        "signed": null, 
+        "inscribed": "Otis Rush & His Chicago Blue Band, Grateful Dead, The Canned Heat Blues Band; Fr. Sat. Sun. Feb. 24.25.26, Fillmore", 
+        "period_id": "35435941", 
+        "year_acquired": "1979", 
+        "woe:country_id": null
+    }
+}

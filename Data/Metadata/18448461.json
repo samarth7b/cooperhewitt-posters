@@ -1,0 +1,120 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": 1934, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": "lithograph on paper, lined", 
+        "tms:id": "134746", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/65790_3dbe22c8897f162e_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "65790"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/65790_3dbe22c8897f162e_b.jpg", 
+                    "width": 718, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "65790"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/65790_3dbe22c8897f162e_d.gif", 
+                    "width": 224, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "65790"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/65790_3dbe22c8897f162e_z.jpg", 
+                    "width": 448, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "65790"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/65790_3dbe22c8897f162e_n.jpg", 
+                    "width": 224, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "65790"
+                }
+            }
+        ], 
+        "id": "18448461", 
+        "has_no_known_copyright": null, 
+        "woe:country_name": "United Kingdom", 
+        "dimensions": "H x W: 74.9 × 49.2 cm (29 1/2 × 19 3/8 in.)", 
+        "title": "Poster, Contact With the World/Use the Telephone, 1934", 
+        "provenance": "Mrs. Edward McKnight Kauffer; 1963: acquired by Museum", 
+        "participants": [
+            {
+                "person_name": "Mrs. Edward McKnight Kauffer", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35351535/", 
+                "role_id": "35351535", 
+                "role_name": "Donor", 
+                "person_date": "", 
+                "role_display_name": "Donated by", 
+                "person_id": "18061849", 
+                "person_url": "https://collection.cooperhewitt.org/people/18061849/"
+            }, 
+            {
+                "person_name": "Edward McKnight Kauffer", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "American, active England, 1890–1954", 
+                "role_display_name": "Designed by", 
+                "person_id": "18041923", 
+                "person_url": "https://collection.cooperhewitt.org/people/18041923/"
+            }, 
+            {
+                "person_name": "British General Post Office", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236667/", 
+                "role_id": "35236667", 
+                "role_name": "Client", 
+                "person_date": "London, England", 
+                "role_display_name": "Client:", 
+                "person_id": "18049689", 
+                "person_url": "https://collection.cooperhewitt.org/people/18049689/"
+            }
+        ], 
+        "decade": "1930", 
+        "label_text": null, 
+        "woe:country": "23424975", 
+        "dimensions_raw": {
+            "width": [
+                "49.30", 
+                "centimeters"
+            ], 
+            "height": [
+                "74.90", 
+                "centimeters"
+            ]
+        }, 
+        "department_id": "35347493", 
+        "title_raw": "Contact With the World/Use the Telephone", 
+        "justification": null, 
+        "media_id": "35425977", 
+        "description": "Poster depicts Earth with a large black handset against it. In blue ink: CONTACT / WITH THE WORLD / USE THE / TELEPHONE landscape of hills along the coast with a setting sun, mountains in the background, all in black and yellow. Below in yellow outline: GO GREAT / WESTERN / TO CORNWALL.", 
+        "creditline": "Gift of Mrs. E. McKnight Kauffer", 
+        "on_display": null, 
+        "markings": "Stamped in purple ink, upper left: MADE IN ENGLAND", 
+        "is_loan_object": 0, 
+        "date": "1934", 
+        "url": "https://collection.cooperhewitt.org/objects/18448461/", 
+        "type": "poster", 
+        "accession_number": "1963-39-62", 
+        "year_end": 1934, 
+        "signed": "Signed in blue ink, center: E. McKnight Kauffer ‘34", 
+        "inscribed": "Printed in black ink, lower right: PRD 66; lower left: crowned circle containing: GPO", 
+        "period_id": null, 
+        "year_acquired": "1963", 
+        "woe:country_id": "23424975"
+    }
+}

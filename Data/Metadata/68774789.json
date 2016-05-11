@@ -1,0 +1,120 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": 2010, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": "screenprint on paper", 
+        "tms:id": "278550", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/95459_91f4d2a53eb07ccb_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "95459"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/95459_91f4d2a53eb07ccb_b.jpg", 
+                    "width": 698, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "95459"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/95459_91f4d2a53eb07ccb_d.gif", 
+                    "width": 218, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "95459"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/95459_91f4d2a53eb07ccb_z.jpg", 
+                    "width": 437, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "95459"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/95459_91f4d2a53eb07ccb_n.jpg", 
+                    "width": 218, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "95459"
+                }
+            }
+        ], 
+        "id": "68774789", 
+        "has_no_known_copyright": null, 
+        "dimensions": "176 × 120 cm (5 ft. 9 5/16 in. × 47 1/4 in.)", 
+        "title": "Poster, Points of a Line, a Film by Sarah Morris, 2010", 
+        "provenance": "M/M (Paris) to Cooper Hewitt, November 2014.", 
+        "participants": [
+            {
+                "person_name": "Parallax Film Productions", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236667/", 
+                "role_id": "35236667", 
+                "role_name": "Client", 
+                "person_date": "White Rock, British Columbia, Canada", 
+                "role_display_name": "Client:", 
+                "person_id": "68777729", 
+                "person_url": "https://collection.cooperhewitt.org/people/68777729/"
+            }, 
+            {
+                "person_name": "Mathias Augustyniak", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "French, b.1967", 
+                "role_display_name": "Designed by", 
+                "person_id": "68774519", 
+                "person_url": "https://collection.cooperhewitt.org/people/68774519/"
+            }, 
+            {
+                "person_name": "Michael Amzalag", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "French, b. 1967", 
+                "role_display_name": "Designed by", 
+                "person_id": "68774515", 
+                "person_url": "https://collection.cooperhewitt.org/people/68774515/"
+            }, 
+            {
+                "person_name": "M/M (Paris)", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "Paris, France, founded 1992", 
+                "role_display_name": "Designed by", 
+                "person_id": "68774511", 
+                "person_url": "https://collection.cooperhewitt.org/people/68774511/"
+            }
+        ], 
+        "decade": "2010", 
+        "label_text": "This is one in a series of posters designed by M/M (Paris) to promote the experimental films of Sarah Morris. Each film and its corresponding poster explores a city or architectural landscape. Points of a Line documents the daily maintenance of two architectural masterworks: Mies van der Rohe’s Farnsworth House and Philip Johnson’s Glass House. Drawings of objects and architectural elements merge with lettering to frame the photograph behind them.", 
+        "woe:country": null, 
+        "dimensions_raw": null, 
+        "department_id": "35347493", 
+        "title_raw": "Points of a Line, a Film by Sarah Morris", 
+        "justification": "Points on a Line (2011) is an experimental film by Sarah Morris that documents the daily maintenance of two architectural masterworks: Ludwig Mies van der Rohe’s Farnsworth House and Philip Johnson’s Glass House. In the poster, drawings of objects and architectural elements merge with lettering to frame the photograph behind them.", 
+        "media_id": "35431679", 
+        "description": "There is a woman dressed in red peering out from behind text that reads \"POINTS ON A LINE\" in black and white. Mixed in with the text are images of furniture including tables and chairs. Against the red of the woman's dress is a hand holding a squeegee. At the bootom left of the poster is small text that reads \"POINTS ON A LINE A FILM BY SARAH MORRIS PARALAX 2010\"", 
+        "creditline": "Gift of M/M (Paris)", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "2010", 
+        "url": "https://collection.cooperhewitt.org/objects/68774789/", 
+        "type": "poster", 
+        "accession_number": "2015-4-5", 
+        "year_end": 2010, 
+        "signed": null, 
+        "inscribed": null, 
+        "period_id": null, 
+        "year_acquired": "2015", 
+        "woe:country_id": null
+    }
+}

@@ -1,0 +1,157 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": null, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": "lithograph on paper", 
+        "tms:id": "177192", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/90289_3d332fc9d2b210fd_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "90289"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/90289_3d332fc9d2b210fd_b.jpg", 
+                    "width": 719, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "90289"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/90289_3d332fc9d2b210fd_d.gif", 
+                    "width": 225, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "90289"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/90289_3d332fc9d2b210fd_z.jpg", 
+                    "width": 449, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "90289"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/90289_3d332fc9d2b210fd_n.jpg", 
+                    "width": 225, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "90289"
+                }
+            }, 
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/206671_7a65987ba8a1088f_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "0", 
+                    "image_id": "206671"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/206671_7a65987ba8a1088f_b.jpg", 
+                    "width": 730, 
+                    "height": 1024, 
+                    "is_primary": "0", 
+                    "image_id": "206671"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/206671_7a65987ba8a1088f_d.gif", 
+                    "width": 228, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "206671"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/206671_7a65987ba8a1088f_z.jpg", 
+                    "width": 456, 
+                    "height": 640, 
+                    "is_primary": "0", 
+                    "image_id": "206671"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/206671_7a65987ba8a1088f_n.jpg", 
+                    "width": 228, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "206671"
+                }
+            }
+        ], 
+        "id": "18617319", 
+        "has_no_known_copyright": null, 
+        "woe:country_name": "United States", 
+        "dimensions": "48.8 x 34.2 cm (19 3/16 x 13 7/16 in.)", 
+        "title": "Poster, Books Are Absorbing Companions", 
+        "provenance": "1981: acquired by Museum", 
+        "participants": [
+            {
+                "person_name": "Carol Anthony", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236601/", 
+                "role_id": "35236601", 
+                "role_name": "Illustrator", 
+                "person_date": "", 
+                "role_display_name": "Illustrated by", 
+                "person_id": "18056975", 
+                "person_url": "https://collection.cooperhewitt.org/people/18056975/"
+            }, 
+            {
+                "person_name": "Andrew Kner", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "Hungarian, born 1935", 
+                "role_display_name": "Designed by", 
+                "person_id": "18056973", 
+                "person_url": "https://collection.cooperhewitt.org/people/18056973/"
+            }, 
+            {
+                "person_name": "Andrew Kner", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236787/", 
+                "role_id": "35236787", 
+                "role_name": "Art Director", 
+                "person_date": "Hungarian, born 1935", 
+                "role_display_name": "Art Director:", 
+                "person_id": "18056973", 
+                "person_url": "https://collection.cooperhewitt.org/people/18056973/"
+            }
+        ], 
+        "decade": null, 
+        "label_text": null, 
+        "woe:country": "23424977", 
+        "dimensions_raw": {
+            "width": [
+                "34.20", 
+                "centimeters"
+            ], 
+            "height": [
+                "48.80", 
+                "centimeters"
+            ]
+        }, 
+        "department_id": "35347493", 
+        "title_raw": "Books Are Absorbing Companions", 
+        "justification": null, 
+        "media_id": "35419317", 
+        "description": "A photograph of a plaster sculpture dressed as an old man with top hat and reading a book, sitting at a table; a waiter bringing the sculpture a glass of juice.", 
+        "creditline": "Gift of Various Donors", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": null, 
+        "url": "https://collection.cooperhewitt.org/objects/18617319/", 
+        "type": "poster", 
+        "accession_number": "1981-29-129", 
+        "year_end": null, 
+        "signed": null, 
+        "inscribed": "Imprinted in black ink, lower left: Prepared by The New York Times", 
+        "period_id": null, 
+        "year_acquired": "1981", 
+        "woe:country_id": "23424977"
+    }
+}

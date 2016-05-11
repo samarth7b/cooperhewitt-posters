@@ -1,0 +1,137 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": 1972, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": "offset lithograph on paper", 
+        "tms:id": "163515", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/82291_594f1bc641c6f172_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "82291"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/82291_594f1bc641c6f172_b.jpg", 
+                    "width": 710, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "82291"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/82291_594f1bc641c6f172_d.gif", 
+                    "width": 222, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "82291"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/82291_594f1bc641c6f172_z.jpg", 
+                    "width": 444, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "82291"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/82291_594f1bc641c6f172_n.jpg", 
+                    "width": 222, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "82291"
+                }
+            }, 
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/267207_de1ffe5742bbbbe2_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "0", 
+                    "image_id": "267207"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/267207_de1ffe5742bbbbe2_b.jpg", 
+                    "width": 722, 
+                    "height": 1024, 
+                    "is_primary": "0", 
+                    "image_id": "267207"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/267207_de1ffe5742bbbbe2_d.gif", 
+                    "width": 226, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "267207"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/267207_de1ffe5742bbbbe2_z.jpg", 
+                    "width": 451, 
+                    "height": 640, 
+                    "is_primary": "0", 
+                    "image_id": "267207"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/267207_de1ffe5742bbbbe2_n.jpg", 
+                    "width": 226, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "267207"
+                }
+            }
+        ], 
+        "id": "18505223", 
+        "has_no_known_copyright": null, 
+        "woe:country_name": "United States", 
+        "dimensions": "67.6 x 60.9 cm (26 5/8 in. x 24 in.)", 
+        "title": "Poster, Stadium, 1972", 
+        "provenance": "1980: acquired by Museum", 
+        "participants": [
+            {
+                "person_name": "Wyman & Cannan Co.", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "", 
+                "role_display_name": "Designed by", 
+                "person_id": "68248433", 
+                "person_url": "https://collection.cooperhewitt.org/people/68248433/"
+            }
+        ], 
+        "decade": "1970", 
+        "label_text": null, 
+        "woe:country": "23424977", 
+        "dimensions_raw": {
+            "width": [
+                "60.90", 
+                "centimeters"
+            ], 
+            "height": [
+                "67.60", 
+                "centimeters"
+            ]
+        }, 
+        "department_id": "35347493", 
+        "title_raw": "Stadium", 
+        "justification": null, 
+        "media_id": "35399021", 
+        "description": "Poster featuring STADIUM across top made up of dots; below: STA’DI-UM, n.; THE COURSE FOR FOOTRACES IN ANCIENT GREECE, FLANKED BY TERRACED ELEVATIONS WITH TIERS OF SEATS FOR SPECTATORS; an image of a stadium in white, in plan view, composed of white objects, such as pretzels, cups of steaming coffee, baseball gloves, horns, hearts, French fries, etc. Text throughout with phrases that intend to be coming from the stadium itself; such as: I CANCEL ONLY 5 EVENTS DUE TO WEATHER.", 
+        "creditline": "Gift of Unknown Donor", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "1972", 
+        "url": "https://collection.cooperhewitt.org/objects/18505223/", 
+        "type": "poster", 
+        "accession_number": "1980-32-1260", 
+        "year_end": 1972, 
+        "signed": null, 
+        "inscribed": "Imprinted in white ink, left margin: DESIGN BY WYMAN & CANNAN CO., LANCE WYMAN AND BILL CANNAN; QUANTITATIVE DATA PROVIDED BY YANKEE STADIUM; lower right: Copyright © 1972 IDCA, International Design Conference in Aspen, The Invisible City. Champion Papers Carnival Offset, Smooth Finish, White/100 lb.", 
+        "period_id": null, 
+        "year_acquired": "1980", 
+        "woe:country_id": "23424977"
+    }
+}

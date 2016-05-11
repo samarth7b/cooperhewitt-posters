@@ -1,0 +1,147 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": 1937, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": "lithograph on white wove paper, mounted on board", 
+        "tms:id": "135101", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/65796_506c18af7ed97b9e_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "65796"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/65796_506c18af7ed97b9e_b.jpg", 
+                    "width": 650, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "65796"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/65796_506c18af7ed97b9e_d.gif", 
+                    "width": 203, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "65796"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/65796_506c18af7ed97b9e_z.jpg", 
+                    "width": 406, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "65796"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/65796_506c18af7ed97b9e_n.jpg", 
+                    "width": 203, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "65796"
+                }
+            }, 
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/268515_6cbba9880e113947_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "0", 
+                    "image_id": "268515"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/268515_6cbba9880e113947_b.jpg", 
+                    "width": 653, 
+                    "height": 1024, 
+                    "is_primary": "0", 
+                    "image_id": "268515"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/268515_6cbba9880e113947_d.gif", 
+                    "width": 204, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "268515"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/268515_6cbba9880e113947_z.jpg", 
+                    "width": 408, 
+                    "height": 640, 
+                    "is_primary": "0", 
+                    "image_id": "268515"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/268515_6cbba9880e113947_n.jpg", 
+                    "width": 204, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "268515"
+                }
+            }
+        ], 
+        "id": "18449171", 
+        "has_no_known_copyright": null, 
+        "woe:country_name": "United Kingdom", 
+        "dimensions": "100.6 x 63.7 cm (39 5/8 x 25 1/16 in.)", 
+        "title": "Poster, Spring, 1937", 
+        "provenance": "Mrs. Edward McKnight Kauffer; 1963: acquired by Museum", 
+        "participants": [
+            {
+                "person_name": "Mrs. Edward McKnight Kauffer", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35351535/", 
+                "role_id": "35351535", 
+                "role_name": "Donor", 
+                "person_date": "", 
+                "role_display_name": "Donated by", 
+                "person_id": "18061849", 
+                "person_url": "https://collection.cooperhewitt.org/people/18061849/"
+            }, 
+            {
+                "person_name": "Edward McKnight Kauffer", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "American, active England, 1890–1954", 
+                "role_display_name": "Designed by", 
+                "person_id": "18041923", 
+                "person_url": "https://collection.cooperhewitt.org/people/18041923/"
+            }
+        ], 
+        "decade": "1930", 
+        "label_text": null, 
+        "woe:country": "23424975", 
+        "dimensions_raw": {
+            "width": [
+                "63.70", 
+                "centimeters"
+            ], 
+            "height": [
+                "100.60", 
+                "centimeters"
+            ]
+        }, 
+        "department_id": "35347493", 
+        "title_raw": "Spring", 
+        "justification": null, 
+        "media_id": "51865797", 
+        "description": "Poster depicts an upright green leaf with a brown shadow beneath it; text in green and dark brown: SPRING / Still the fresh Spring finds / New Plants to quicken, and new groves to green / Thomson. Blank London Underground logo in green.", 
+        "creditline": "Gift of Mrs. E. McKnight Kauffer", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "1937", 
+        "url": "https://collection.cooperhewitt.org/objects/18449171/", 
+        "type": "poster", 
+        "accession_number": "1963-39-93", 
+        "year_end": 1937, 
+        "signed": "Signed in brown ink, lower left: E McKnight Kauffer 37.", 
+        "inscribed": "Printed in black ink, lower left: 37 652 4000; lower right: THE BAYNARD PRESS", 
+        "period_id": null, 
+        "year_acquired": "1963", 
+        "woe:country_id": "23424975"
+    }
+}

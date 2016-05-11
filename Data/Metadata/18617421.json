@@ -1,0 +1,137 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": 1972, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": "screenprint on paper", 
+        "tms:id": "177243", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/80027_48b6d7f6fb665d77_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "80027"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/80027_48b6d7f6fb665d77_b.jpg", 
+                    "width": 1024, 
+                    "height": 668, 
+                    "is_primary": "1", 
+                    "image_id": "80027"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/80027_48b6d7f6fb665d77_d.gif", 
+                    "width": 320, 
+                    "height": 209, 
+                    "is_primary": "1", 
+                    "image_id": "80027"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/80027_48b6d7f6fb665d77_z.jpg", 
+                    "width": 640, 
+                    "height": 418, 
+                    "is_primary": "1", 
+                    "image_id": "80027"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/80027_48b6d7f6fb665d77_n.jpg", 
+                    "width": 320, 
+                    "height": 209, 
+                    "is_primary": "1", 
+                    "image_id": "80027"
+                }
+            }, 
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/268687_1d9499b8c0906b25_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "0", 
+                    "image_id": "268687"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/268687_1d9499b8c0906b25_b.jpg", 
+                    "width": 1024, 
+                    "height": 680, 
+                    "is_primary": "0", 
+                    "image_id": "268687"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/268687_1d9499b8c0906b25_d.gif", 
+                    "width": 320, 
+                    "height": 213, 
+                    "is_primary": "0", 
+                    "image_id": "268687"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/268687_1d9499b8c0906b25_z.jpg", 
+                    "width": 640, 
+                    "height": 425, 
+                    "is_primary": "0", 
+                    "image_id": "268687"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/268687_1d9499b8c0906b25_n.jpg", 
+                    "width": 320, 
+                    "height": 213, 
+                    "is_primary": "0", 
+                    "image_id": "268687"
+                }
+            }
+        ], 
+        "id": "18617421", 
+        "has_no_known_copyright": null, 
+        "woe:country_name": "United States", 
+        "dimensions": "H x W: 66.4 x 101.7 cm (26 1/8 x 40 1/16 in.)", 
+        "title": "Poster, Magic Carpet '72, 1972", 
+        "provenance": "1981: acquired by Museum", 
+        "participants": [
+            {
+                "person_name": "Stephen Frykholm", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "American, b. 1942", 
+                "role_display_name": "Designed by", 
+                "person_id": "18042365", 
+                "person_url": "https://collection.cooperhewitt.org/people/18042365/"
+            }
+        ], 
+        "decade": "1970", 
+        "label_text": null, 
+        "woe:country": "23424977", 
+        "dimensions_raw": {
+            "width": [
+                "101.70", 
+                "centimeters"
+            ], 
+            "height": [
+                "66.40", 
+                "centimeters"
+            ]
+        }, 
+        "department_id": "35347493", 
+        "title_raw": "Magic Carpet '72", 
+        "justification": null, 
+        "media_id": "35431679", 
+        "description": "Poster depicts a winding path composed of red, blue, yellow, and orange segments with colored dots. Above in red ink: magic carpet ’72.", 
+        "creditline": "Gift of Various Donors", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "1972", 
+        "url": "https://collection.cooperhewitt.org/objects/18617421/", 
+        "type": "poster", 
+        "accession_number": "1981-29-175", 
+        "year_end": 1972, 
+        "signed": null, 
+        "inscribed": null, 
+        "period_id": null, 
+        "year_acquired": "1981", 
+        "woe:country_id": "23424977"
+    }
+}

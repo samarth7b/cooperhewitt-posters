@@ -1,0 +1,147 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": 1978, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": "offset lithograph on white wove paper", 
+        "tms:id": "177671", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/90284_27300402ac008f72_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "90284"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/90284_27300402ac008f72_b.jpg", 
+                    "width": 1024, 
+                    "height": 801, 
+                    "is_primary": "1", 
+                    "image_id": "90284"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/90284_27300402ac008f72_d.gif", 
+                    "width": 320, 
+                    "height": 250, 
+                    "is_primary": "1", 
+                    "image_id": "90284"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/90284_27300402ac008f72_z.jpg", 
+                    "width": 640, 
+                    "height": 501, 
+                    "is_primary": "1", 
+                    "image_id": "90284"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/90284_27300402ac008f72_n.jpg", 
+                    "width": 320, 
+                    "height": 250, 
+                    "is_primary": "1", 
+                    "image_id": "90284"
+                }
+            }, 
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/207195_b1818b7757b2d533_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "0", 
+                    "image_id": "207195"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/207195_b1818b7757b2d533_b.jpg", 
+                    "width": 1024, 
+                    "height": 807, 
+                    "is_primary": "0", 
+                    "image_id": "207195"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/207195_b1818b7757b2d533_d.gif", 
+                    "width": 320, 
+                    "height": 252, 
+                    "is_primary": "0", 
+                    "image_id": "207195"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/207195_b1818b7757b2d533_z.jpg", 
+                    "width": 640, 
+                    "height": 504, 
+                    "is_primary": "0", 
+                    "image_id": "207195"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/207195_b1818b7757b2d533_n.jpg", 
+                    "width": 320, 
+                    "height": 252, 
+                    "is_primary": "0", 
+                    "image_id": "207195"
+                }
+            }
+        ], 
+        "id": "18618275", 
+        "has_no_known_copyright": null, 
+        "woe:country_name": "United States", 
+        "dimensions": "Overall: 45.7 x 58.2 cm (18 x 22 15/16 in.)", 
+        "title": "Poster, If the shoe fits, run it. / Fartleks1, 1978", 
+        "provenance": "1981: acquired by Museum", 
+        "participants": [
+            {
+                "person_name": "Al Navarre", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "", 
+                "role_display_name": "Designed by", 
+                "person_id": "18056971", 
+                "person_url": "https://collection.cooperhewitt.org/people/18056971/"
+            }, 
+            {
+                "person_name": "Terry Lesniewicz", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "American, b. 1958", 
+                "role_display_name": "Designed by", 
+                "person_id": "18535661", 
+                "person_url": "https://collection.cooperhewitt.org/people/18535661/"
+            }
+        ], 
+        "decade": "1970", 
+        "label_text": null, 
+        "woe:country": "23424977", 
+        "dimensions_raw": {
+            "width": [
+                "58.20", 
+                "centimeters"
+            ], 
+            "height": [
+                "45.70", 
+                "centimeters"
+            ]
+        }, 
+        "department_id": "35347493", 
+        "title_raw": "If the shoe fits, run it. / Fartleks1", 
+        "justification": null, 
+        "media_id": "35431673", 
+        "description": "Profile of a sport shoe decorated with a cartoonish landscape. In white upper left: If the shoe fits, / run it. Blocks of white text describing an event that will take place. Upper right Fartlek logo (Fartlek is a type of solo running; in Swedish = \"speed play\").", 
+        "creditline": "Gift of Various Donors", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "1978", 
+        "url": "https://collection.cooperhewitt.org/objects/18618275/", 
+        "type": "poster", 
+        "accession_number": "1981-29-94", 
+        "year_end": 1978, 
+        "signed": null, 
+        "inscribed": null, 
+        "period_id": null, 
+        "year_acquired": "1981", 
+        "woe:country_id": "23424977"
+    }
+}

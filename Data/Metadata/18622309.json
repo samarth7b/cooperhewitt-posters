@@ -1,0 +1,80 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": null, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": null, 
+        "tms:id": "185990", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/269832_a9a8ca70ccd13aae_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "269832"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/269832_a9a8ca70ccd13aae_b.jpg", 
+                    "width": 771, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "269832"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/269832_a9a8ca70ccd13aae_d.gif", 
+                    "width": 241, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "269832"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/269832_a9a8ca70ccd13aae_z.jpg", 
+                    "width": 482, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "269832"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/269832_a9a8ca70ccd13aae_n.jpg", 
+                    "width": 241, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "269832"
+                }
+            }
+        ], 
+        "id": "18622309", 
+        "has_no_known_copyright": null, 
+        "woe:country_name": "Switzerland", 
+        "dimensions": null, 
+        "title": "Poster (Switzerland)", 
+        "provenance": null, 
+        "participants": [], 
+        "decade": null, 
+        "label_text": null, 
+        "woe:country": "23424957", 
+        "dimensions_raw": null, 
+        "department_id": "35347493", 
+        "title_raw": null, 
+        "justification": null, 
+        "media_id": "35371135", 
+        "description": null, 
+        "creditline": null, 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": null, 
+        "url": "https://collection.cooperhewitt.org/objects/18622309/", 
+        "type": "poster", 
+        "accession_number": "1987-25-13", 
+        "year_end": null, 
+        "signed": null, 
+        "inscribed": null, 
+        "period_id": null, 
+        "year_acquired": "1987", 
+        "woe:country_id": "23424957"
+    }
+}

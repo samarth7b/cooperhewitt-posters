@@ -1,0 +1,167 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": 1980, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": "offset lithograph on paper", 
+        "tms:id": "193524", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/64079_bba034d660bc5fb5_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "64079"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/64079_bba034d660bc5fb5_b.jpg", 
+                    "width": 708, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "64079"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/64079_bba034d660bc5fb5_d.gif", 
+                    "width": 221, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "64079"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/64079_bba034d660bc5fb5_z.jpg", 
+                    "width": 443, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "64079"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/64079_bba034d660bc5fb5_n.jpg", 
+                    "width": 221, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "64079"
+                }
+            }, 
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/203516_950197a5c9d1e49f_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "0", 
+                    "image_id": "203516"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/203516_950197a5c9d1e49f_b.jpg", 
+                    "width": 709, 
+                    "height": 1024, 
+                    "is_primary": "0", 
+                    "image_id": "203516"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/203516_950197a5c9d1e49f_d.gif", 
+                    "width": 222, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "203516"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/203516_950197a5c9d1e49f_z.jpg", 
+                    "width": 443, 
+                    "height": 640, 
+                    "is_primary": "0", 
+                    "image_id": "203516"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/203516_950197a5c9d1e49f_n.jpg", 
+                    "width": 222, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "203516"
+                }
+            }
+        ], 
+        "id": "18637345", 
+        "has_no_known_copyright": null, 
+        "woe:country_name": "United States", 
+        "dimensions": "57.2 x 39.4 cm (22 1/2 x 15 1/2 in.)", 
+        "title": "Poster, PLUCK 'EM, 1980", 
+        "provenance": "1991: acquired by Museum", 
+        "participants": [
+            {
+                "person_name": "Rachael Romero", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "Australian, active USA, b. 1953", 
+                "role_display_name": "Designed by", 
+                "person_id": "69099631", 
+                "person_url": "https://collection.cooperhewitt.org/people/69099631/"
+            }, 
+            {
+                "person_name": "San Francisco Poster Brigade", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35351535/", 
+                "role_id": "35351535", 
+                "role_name": "Donor", 
+                "person_date": "San Francisco, California, USA, 1975–1982", 
+                "role_display_name": "Donated by", 
+                "person_id": "18042463", 
+                "person_url": "https://collection.cooperhewitt.org/people/18042463/"
+            }, 
+            {
+                "person_name": "CGC", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35352245/", 
+                "role_id": "35352245", 
+                "role_name": "Cataloguer", 
+                "person_date": "", 
+                "role_display_name": "Catalogued by", 
+                "person_id": "18048417", 
+                "person_url": "https://collection.cooperhewitt.org/people/18048417/"
+            }, 
+            {
+                "person_name": "San Francisco Poster Brigade", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "San Francisco, California, USA, 1975–1982", 
+                "role_display_name": "Designed by", 
+                "person_id": "18042463", 
+                "person_url": "https://collection.cooperhewitt.org/people/18042463/"
+            }
+        ], 
+        "decade": "1980", 
+        "label_text": null, 
+        "woe:country": "23424977", 
+        "dimensions_raw": {
+            "width": [
+                "39.40", 
+                "centimeters"
+            ], 
+            "height": [
+                "57.20", 
+                "centimeters"
+            ]
+        }, 
+        "department_id": "35347493", 
+        "title_raw": "PLUCK 'EM", 
+        "justification": null, 
+        "media_id": "35399021", 
+        "description": "Eagle's head with missiles as feathers; lower right a photograph of a baked chicken. Below in large letters: PLUCK 'EM.", 
+        "creditline": "Gift of San Francisco Poster Brigade", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "1980", 
+        "url": "https://collection.cooperhewitt.org/objects/18637345/", 
+        "type": "poster", 
+        "accession_number": "1991-69-73", 
+        "year_end": 1980, 
+        "signed": null, 
+        "inscribed": "Imprinted In white in, lower right margin: S.F. Poster Brigade 1980; in black ink across lower margin: ANTI-WW3 INTERNATIONALIST ART  PO Box 31428 San Francisco Ca. 94131 U$A. [logo] inkworks", 
+        "period_id": null, 
+        "year_acquired": "1991", 
+        "woe:country_id": "23424977"
+    }
+}

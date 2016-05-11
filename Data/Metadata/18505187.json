@@ -1,0 +1,99 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": 1972, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": null, 
+        "tms:id": "163497", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/200519_8ac227b05fb0d944_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "200519"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/200519_8ac227b05fb0d944_b.jpg", 
+                    "width": 803, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "200519"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/200519_8ac227b05fb0d944_d.gif", 
+                    "width": 251, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "200519"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/200519_8ac227b05fb0d944_z.jpg", 
+                    "width": 502, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "200519"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/200519_8ac227b05fb0d944_n.jpg", 
+                    "width": 251, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "200519"
+                }
+            }
+        ], 
+        "id": "18505187", 
+        "has_no_known_copyright": null, 
+        "dimensions": "Overall: 55.6 x 43.1 cm (21 7/8 x 16 15/16 in.)", 
+        "title": "Poster, R. Nixon, \"Those who have had a chance for four years and could not produce peace should not be given another chance\"., 1972", 
+        "provenance": null, 
+        "participants": [
+            {
+                "person_name": "A. Lunsford", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236601/", 
+                "role_id": "35236601", 
+                "role_name": "Illustrator", 
+                "person_date": "", 
+                "role_display_name": "Illustrated by", 
+                "person_id": "34624711", 
+                "person_url": "https://collection.cooperhewitt.org/people/34624711/"
+            }
+        ], 
+        "decade": "1970", 
+        "label_text": null, 
+        "woe:country": null, 
+        "dimensions_raw": {
+            "width": [
+                "43.10", 
+                "centimeters"
+            ], 
+            "height": [
+                "55.60", 
+                "centimeters"
+            ]
+        }, 
+        "department_id": "35347493", 
+        "title_raw": "R. Nixon, \"Those who have had a chance for four years and could not produce peace should not be given another chance\".", 
+        "justification": null, 
+        "media_id": "35371135", 
+        "description": null, 
+        "creditline": "Gift of Unknown Donor", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "1972", 
+        "url": "https://collection.cooperhewitt.org/objects/18505187/", 
+        "type": "poster", 
+        "accession_number": "1980-32-1242", 
+        "year_end": 1972, 
+        "signed": null, 
+        "inscribed": null, 
+        "period_id": null, 
+        "year_acquired": "1980", 
+        "woe:country_id": null
+    }
+}

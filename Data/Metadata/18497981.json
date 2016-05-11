@@ -1,0 +1,166 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": 1971, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": "offset lithograph on white wove paper", 
+        "tms:id": "159887", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/82654_2244af1276239ff9_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "82654"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/82654_2244af1276239ff9_b.jpg", 
+                    "width": 705, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "82654"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/82654_2244af1276239ff9_d.gif", 
+                    "width": 220, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "82654"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/82654_2244af1276239ff9_z.jpg", 
+                    "width": 440, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "82654"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/82654_2244af1276239ff9_n.jpg", 
+                    "width": 220, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "82654"
+                }
+            }, 
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/206026_dc37263ca5ee91a5_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "0", 
+                    "image_id": "206026"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/206026_dc37263ca5ee91a5_b.jpg", 
+                    "width": 690, 
+                    "height": 1024, 
+                    "is_primary": "0", 
+                    "image_id": "206026"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/206026_dc37263ca5ee91a5_d.gif", 
+                    "width": 216, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "206026"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/206026_dc37263ca5ee91a5_z.jpg", 
+                    "width": 431, 
+                    "height": 640, 
+                    "is_primary": "0", 
+                    "image_id": "206026"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/206026_dc37263ca5ee91a5_n.jpg", 
+                    "width": 216, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "206026"
+                }
+            }
+        ], 
+        "id": "18497981", 
+        "has_no_known_copyright": null, 
+        "dimensions": "54 x 35.6 cm (21 1/4 in. x 14 in.)", 
+        "title": "Poster, Albert King / Mott the Hoople / Freddie King, 1971", 
+        "provenance": "Mr. and Mrs. Leslie J. Schreyer; 1979: acquired by Museum", 
+        "participants": [
+            {
+                "person_name": "Willyum Rowe", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "American, born 1946", 
+                "role_display_name": "Designed by", 
+                "person_id": "68739481", 
+                "person_url": "https://collection.cooperhewitt.org/people/68739481/"
+            }, 
+            {
+                "person_name": "Mrs. Alice Schreyer", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35351535/", 
+                "role_id": "35351535", 
+                "role_name": "Donor", 
+                "person_date": "", 
+                "role_display_name": "Donated by", 
+                "person_id": "68736623", 
+                "person_url": "https://collection.cooperhewitt.org/people/68736623/"
+            }, 
+            {
+                "person_name": "Mr. Leslie Schreyer", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35351535/", 
+                "role_id": "35351535", 
+                "role_name": "Donor", 
+                "person_date": "", 
+                "role_display_name": "Donated by", 
+                "person_id": "18058429", 
+                "person_url": "https://collection.cooperhewitt.org/people/18058429/"
+            }, 
+            {
+                "person_name": "Tea Lautrec Litho, San Francisco", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236673/", 
+                "role_id": "35236673", 
+                "role_name": "Printer", 
+                "person_date": "", 
+                "role_display_name": "Printed by", 
+                "person_id": "18056701", 
+                "person_url": "https://collection.cooperhewitt.org/people/18056701/"
+            }
+        ], 
+        "decade": "1970", 
+        "label_text": null, 
+        "woe:country": null, 
+        "dimensions_raw": {
+            "width": [
+                "35.60", 
+                "centimeters"
+            ], 
+            "height": [
+                "54.00", 
+                "centimeters"
+            ]
+        }, 
+        "department_id": "35347493", 
+        "title_raw": "Albert King / Mott the Hoople / Freddie King", 
+        "justification": null, 
+        "media_id": "35431673", 
+        "description": "Poster features floral border with photograph of a captain surrounded by image of flowers and dragonflies. Below on yellow semicircle: BILL GRAHAM / PRESENTS IN SAN FRANCISCO / ALBERT KING / MOTT THE HOOPLE / FREDDIE KING / JUNE 3-6 THURSDAY-SUNDAY / FILLMORE WEST", 
+        "creditline": "Gift of Mr. and Mrs. Leslie J. Schreyer", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "1971", 
+        "url": "https://collection.cooperhewitt.org/objects/18497981/", 
+        "type": "poster", 
+        "accession_number": "1979-34-19", 
+        "year_end": 1971, 
+        "signed": null, 
+        "inscribed": "Imprinted in black, lower left: © 1971 bill graham; lower right: rowe did no 283", 
+        "period_id": "35435941", 
+        "year_acquired": "1979", 
+        "woe:country_id": null
+    }
+}

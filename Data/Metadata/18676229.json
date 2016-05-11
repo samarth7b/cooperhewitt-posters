@@ -1,0 +1,174 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": 1992, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": "screenprint on paper", 
+        "tms:id": "213561", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/97191_8b4071ce6ec22482_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "97191"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/97191_8b4071ce6ec22482_b.jpg", 
+                    "width": 746, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "97191"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/97191_8b4071ce6ec22482_d.gif", 
+                    "width": 233, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "97191"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/97191_8b4071ce6ec22482_z.jpg", 
+                    "width": 466, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "97191"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/97191_8b4071ce6ec22482_n.jpg", 
+                    "width": 233, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "97191"
+                }
+            }, 
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/255999_67958846c3c79fbd_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "0", 
+                    "image_id": "255999"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/255999_67958846c3c79fbd_b.jpg", 
+                    "width": 753, 
+                    "height": 1024, 
+                    "is_primary": "0", 
+                    "image_id": "255999"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/255999_67958846c3c79fbd_d.gif", 
+                    "width": 235, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "255999"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/255999_67958846c3c79fbd_z.jpg", 
+                    "width": 470, 
+                    "height": 640, 
+                    "is_primary": "0", 
+                    "image_id": "255999"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/255999_67958846c3c79fbd_n.jpg", 
+                    "width": 235, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "255999"
+                }
+            }, 
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/95565_2b962c40bc368aad_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "0", 
+                    "image_id": "95565"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/95565_2b962c40bc368aad_b.jpg", 
+                    "width": 746, 
+                    "height": 1024, 
+                    "is_primary": "0", 
+                    "image_id": "95565"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/95565_2b962c40bc368aad_d.gif", 
+                    "width": 233, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "95565"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/95565_2b962c40bc368aad_z.jpg", 
+                    "width": 466, 
+                    "height": 640, 
+                    "is_primary": "0", 
+                    "image_id": "95565"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/95565_2b962c40bc368aad_n.jpg", 
+                    "width": 233, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "95565"
+                }
+            }
+        ], 
+        "id": "18676229", 
+        "has_no_known_copyright": null, 
+        "dimensions": "55.2 × 38.1 cm (21 3/4 in. × 15 in.)", 
+        "title": "Poster, Mr. Camel's Lumps, Cartoon Baited Cigarettes, 1992", 
+        "provenance": null, 
+        "participants": [
+            {
+                "person_name": "Doug Minkler", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35351535/", 
+                "role_id": "35351535", 
+                "role_name": "Donor", 
+                "person_date": "American, b. 1949", 
+                "role_display_name": "Donated by", 
+                "person_id": "18043597", 
+                "person_url": "https://collection.cooperhewitt.org/people/18043597/"
+            }, 
+            {
+                "person_name": "Doug Minkler", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "American, b. 1949", 
+                "role_display_name": "Designed by", 
+                "person_id": "18043597", 
+                "person_url": "https://collection.cooperhewitt.org/people/18043597/"
+            }
+        ], 
+        "decade": "1990", 
+        "label_text": null, 
+        "woe:country": null, 
+        "dimensions_raw": null, 
+        "department_id": "35347493", 
+        "title_raw": "Mr. Camel's Lumps, Cartoon Baited Cigarettes", 
+        "justification": null, 
+        "media_id": "35431679", 
+        "description": "Parody of a cigarette advertisement poster.  In fact, an anti-smoking poster promoting cancer awareness.", 
+        "creditline": "Gift of Doug Minkler", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "1992", 
+        "url": "https://collection.cooperhewitt.org/objects/18676229/", 
+        "type": "poster", 
+        "accession_number": "2000-15-3", 
+        "year_end": 1992, 
+        "signed": null, 
+        "inscribed": null, 
+        "period_id": null, 
+        "year_acquired": "2000", 
+        "woe:country_id": null
+    }
+}

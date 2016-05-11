@@ -1,0 +1,119 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": "Hans Hillmann cleverly communicates the plot of the film To Be or Not to Be through his use of a conceptual illustration. The Modernist graphic designer strives to create movement on the page, thus more accurately reflecting the feeling of a film’s motion. Translating the active experience of film into the static participation of viewing a poster is a major goal of Hillmann’s; his layouts incorporate multiple points of view and play with perspective to produce graphic montages.", 
+        "year_start": 1964, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": "offset lithograph on wove paper", 
+        "tms:id": "255467", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/37002_ed4012560e129b9f_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "37002"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/37002_ed4012560e129b9f_b.jpg", 
+                    "width": 717, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "37002"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/37002_ed4012560e129b9f_d.gif", 
+                    "width": 224, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "37002"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/37002_ed4012560e129b9f_z.jpg", 
+                    "width": 448, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "37002"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/37002_ed4012560e129b9f_n.jpg", 
+                    "width": 224, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "37002"
+                }
+            }
+        ], 
+        "id": "18758363", 
+        "has_no_known_copyright": null, 
+        "dimensions": "85.1 × 59.2 cm (33 1/2 × 23 5/16 in.)", 
+        "title": "Poster, Sein oder Nichtsein (To Be or Not to Be), 1964", 
+        "provenance": "Acquired from dealers, galleries and auction houses by Marc Benda.  Remained with Benda until 2010, when gifted to CHNDM.", 
+        "participants": [
+            {
+                "person_name": "Hans Hillmann", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "German, 1925 - 2014", 
+                "role_display_name": "Designed by", 
+                "person_id": "18063509", 
+                "person_url": "https://collection.cooperhewitt.org/people/18063509/"
+            }, 
+            {
+                "person_name": "Marc Benda", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35351535/", 
+                "role_id": "35351535", 
+                "role_name": "Donor", 
+                "person_date": "", 
+                "role_display_name": "Donated by", 
+                "person_id": "18062523", 
+                "person_url": "https://collection.cooperhewitt.org/people/18062523/"
+            }, 
+            {
+                "person_name": "Sara Benda", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35351535/", 
+                "role_id": "35351535", 
+                "role_name": "Donor", 
+                "person_date": "", 
+                "role_display_name": "Donated by", 
+                "person_id": "18063205", 
+                "person_url": "https://collection.cooperhewitt.org/people/18063205/"
+            }
+        ], 
+        "decade": "1960", 
+        "label_text": "Influenced by modern art and design, Hillmann designed 130 richly interpretive film posters between 1953 and 1974. His striking, metaphoric posters were commissioned by Neue Filmkunst, a leading distributor of independent films in Germany. This poster equating Hitler with Humpty Dumpty makes fun of the monstrous leader and his ultimate downfall.", 
+        "woe:country": null, 
+        "dimensions_raw": {
+            "width": [
+                "59.00", 
+                "centimeters"
+            ], 
+            "height": [
+                "84.70", 
+                "centimeters"
+            ]
+        }, 
+        "department_id": "35347493", 
+        "title_raw": "Sein oder Nichtsein (To Be or Not to Be)", 
+        "justification": null, 
+        "media_id": "35431963", 
+        "description": "On white background, a white egg painted with black strokes to indicate hair, eyes, and mustache of Adolf Hitler. The lower jaw is \"cracked\" off and replaced with dangling human legs in red and blue. Followed by inscription at bottom center: \"Sein Oder Nicht Sein / Lustspiel einer Tragodie Regie Ernst Lubitsch / (To Be or Not to Be / (Comedy a tragedy Directed by Ernst Lubitsch)) Pradikat besonders wertvoll  Mit / Jack Benny  Carole Lombard  Felix Bressart  Robert Stack / Sig Ruman  u.v.a.  Eine Ernst Lubitsch Produktion der / Romaine Film   Verleih: Neue Filmkunst Walter Kirchner\".", 
+        "creditline": "Gift of Sara and Marc Benda", 
+        "on_display": null, 
+        "markings": "Lower right: FSK /\nFreigegeben", 
+        "is_loan_object": 0, 
+        "date": "1964", 
+        "url": "https://collection.cooperhewitt.org/objects/18758363/", 
+        "type": "poster", 
+        "accession_number": "2010-21-78", 
+        "year_end": 1964, 
+        "signed": "Center left: Hans Hillman", 
+        "inscribed": "Lower right: P.R. Wilk, Ffm.", 
+        "period_id": null, 
+        "year_acquired": "2010", 
+        "woe:country_id": null
+    }
+}

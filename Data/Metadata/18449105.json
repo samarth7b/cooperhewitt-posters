@@ -1,0 +1,147 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": 1937, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": "lithograph on white wove paper, lined", 
+        "tms:id": "135068", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/65794_19cc409d0ed6b4a9_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "65794"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/65794_19cc409d0ed6b4a9_b.jpg", 
+                    "width": 1024, 
+                    "height": 825, 
+                    "is_primary": "1", 
+                    "image_id": "65794"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/65794_19cc409d0ed6b4a9_d.gif", 
+                    "width": 320, 
+                    "height": 258, 
+                    "is_primary": "1", 
+                    "image_id": "65794"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/65794_19cc409d0ed6b4a9_z.jpg", 
+                    "width": 640, 
+                    "height": 516, 
+                    "is_primary": "1", 
+                    "image_id": "65794"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/65794_19cc409d0ed6b4a9_n.jpg", 
+                    "width": 320, 
+                    "height": 258, 
+                    "is_primary": "1", 
+                    "image_id": "65794"
+                }
+            }, 
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/254770_940662c6251c8c18_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "0", 
+                    "image_id": "254770"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/254770_940662c6251c8c18_b.jpg", 
+                    "width": 1024, 
+                    "height": 828, 
+                    "is_primary": "0", 
+                    "image_id": "254770"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/254770_940662c6251c8c18_d.gif", 
+                    "width": 320, 
+                    "height": 259, 
+                    "is_primary": "0", 
+                    "image_id": "254770"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/254770_940662c6251c8c18_z.jpg", 
+                    "width": 640, 
+                    "height": 518, 
+                    "is_primary": "0", 
+                    "image_id": "254770"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/254770_940662c6251c8c18_n.jpg", 
+                    "width": 320, 
+                    "height": 259, 
+                    "is_primary": "0", 
+                    "image_id": "254770"
+                }
+            }
+        ], 
+        "id": "18449105", 
+        "has_no_known_copyright": null, 
+        "woe:country_name": "United Kingdom", 
+        "dimensions": "51.8 x 63.6 cm (20 3/8 x 25 1/16 in.)", 
+        "title": "Poster, A Postman in Northern Ireland, Outposts of Britain (Poster for the General Post Office), 1937", 
+        "provenance": "Mrs. Edward McKnight Kauffer; 1963: acquired by Museum", 
+        "participants": [
+            {
+                "person_name": "Mrs. Edward McKnight Kauffer", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35351535/", 
+                "role_id": "35351535", 
+                "role_name": "Donor", 
+                "person_date": "", 
+                "role_display_name": "Donated by", 
+                "person_id": "18061849", 
+                "person_url": "https://collection.cooperhewitt.org/people/18061849/"
+            }, 
+            {
+                "person_name": "Edward McKnight Kauffer", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236685/", 
+                "role_id": "35236685", 
+                "role_name": "Maker", 
+                "person_date": "American, active England, 1890–1954", 
+                "role_display_name": "Made by", 
+                "person_id": "18041923", 
+                "person_url": "https://collection.cooperhewitt.org/people/18041923/"
+            }
+        ], 
+        "decade": "1930", 
+        "label_text": null, 
+        "woe:country": "23424975", 
+        "dimensions_raw": {
+            "width": [
+                "63.60", 
+                "centimeters"
+            ], 
+            "height": [
+                "51.80", 
+                "centimeters"
+            ]
+        }, 
+        "department_id": "35347493", 
+        "title_raw": "A Postman in Northern Ireland, Outposts of Britain (Poster for the General Post Office)", 
+        "justification": null, 
+        "media_id": "51865815", 
+        "description": "Poster features a photograph of a postman walking towards a white house at the bottom of a desolate mountain, on a black and blue ground. Text in white, blue and red: A POSTMAN IN NORTHERN IRELAND / OUTPOSTS OF BRITAIN.", 
+        "creditline": "Gift of Mrs. E. McKnight Kauffer", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "1937", 
+        "url": "https://collection.cooperhewitt.org/objects/18449105/", 
+        "type": "poster", 
+        "accession_number": "1963-39-90", 
+        "year_end": 1937, 
+        "signed": "Signed in blue ink, lower right: E McKnight Kauffer. / ’37.", 
+        "inscribed": "Printed in white ink, lower left: crowned circle containing: GPO; lower right: in a rectangle: PRD 166", 
+        "period_id": null, 
+        "year_acquired": "1963", 
+        "woe:country_id": "23424975"
+    }
+}

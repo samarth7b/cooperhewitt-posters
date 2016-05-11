@@ -1,0 +1,110 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": 1943, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": "lithograph on paper", 
+        "tms:id": "185969", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/10917_d5a392c83c15eaa9_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "10917"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/10917_d5a392c83c15eaa9_b.jpg", 
+                    "width": 741, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "10917"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/10917_d5a392c83c15eaa9_d.gif", 
+                    "width": 232, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "10917"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/10917_d5a392c83c15eaa9_z.jpg", 
+                    "width": 463, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "10917"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/10917_d5a392c83c15eaa9_n.jpg", 
+                    "width": 232, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "10917"
+                }
+            }
+        ], 
+        "id": "18622267", 
+        "has_no_known_copyright": null, 
+        "woe:country_name": "United States", 
+        "dimensions": "H x W: 57.8 × 41.6 cm (22 3/4 × 16 3/8 in.)", 
+        "title": "Poster, Food Is a Weapon, 1943", 
+        "provenance": null, 
+        "participants": [
+            {
+                "person_name": "Office of War Information", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236661/", 
+                "role_id": "35236661", 
+                "role_name": "Publisher", 
+                "person_date": "Washington, DC, USA", 
+                "role_display_name": "Published by", 
+                "person_id": "51676657", 
+                "person_url": "https://collection.cooperhewitt.org/people/51676657/"
+            }, 
+            {
+                "person_name": "Unknown donor: unsolicited gift", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35351535/", 
+                "role_id": "35351535", 
+                "role_name": "Donor", 
+                "person_date": "", 
+                "role_display_name": "Donated by", 
+                "person_id": "18050283", 
+                "person_url": "https://collection.cooperhewitt.org/people/18050283/"
+            }
+        ], 
+        "decade": "1940", 
+        "label_text": "This poster shines a spotlight on a plate of chicken bones, pulling drama from mundane circumstances. The arresting headline heightens the emotional intensity.", 
+        "woe:country": "23424977", 
+        "dimensions_raw": {
+            "width": [
+                "41.00", 
+                "centimeters"
+            ], 
+            "height": [
+                "57.50", 
+                "centimeters"
+            ]
+        }, 
+        "department_id": "35347493", 
+        "title_raw": "Food Is a Weapon", 
+        "justification": null, 
+        "media_id": "35419317", 
+        "description": "Poster depicts a plate with chicken bones and fork and knife, an empty glass, and a used napkin, all on a green table. Inscribed in white, upper margin: FOOD IS A WEAPON; lower margin: DON'T WASTE IT! / BUY WISELY - COOK CAREFULLY - EAT IT ALL / [in green] FOLLOW THE NATIONAL WARTIME NUTRITION PROGRAM.", 
+        "creditline": "Gift of Unknown Donor", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "1943", 
+        "url": "https://collection.cooperhewitt.org/objects/18622267/", 
+        "type": "poster", 
+        "accession_number": "1987-24-23", 
+        "year_end": 1943, 
+        "signed": null, 
+        "inscribed": null, 
+        "period_id": "35417341", 
+        "year_acquired": "1987", 
+        "woe:country_id": "23424977"
+    }
+}

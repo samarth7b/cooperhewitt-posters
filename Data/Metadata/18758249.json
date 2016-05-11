@@ -1,0 +1,156 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": 1976, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": "offset lithograph on wove paper", 
+        "tms:id": "255409", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/46891_db8a9eecb8d2bfa4_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "46891"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/46891_db8a9eecb8d2bfa4_b.jpg", 
+                    "width": 727, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "46891"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/46891_db8a9eecb8d2bfa4_d.gif", 
+                    "width": 227, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "46891"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/46891_db8a9eecb8d2bfa4_z.jpg", 
+                    "width": 454, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "46891"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/46891_db8a9eecb8d2bfa4_n.jpg", 
+                    "width": 227, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "46891"
+                }
+            }, 
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/253419_fe240321152ef89e_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "0", 
+                    "image_id": "253419"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/253419_fe240321152ef89e_b.jpg", 
+                    "width": 731, 
+                    "height": 1024, 
+                    "is_primary": "0", 
+                    "image_id": "253419"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/253419_fe240321152ef89e_d.gif", 
+                    "width": 228, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "253419"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/253419_fe240321152ef89e_z.jpg", 
+                    "width": 457, 
+                    "height": 640, 
+                    "is_primary": "0", 
+                    "image_id": "253419"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/253419_fe240321152ef89e_n.jpg", 
+                    "width": 228, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "253419"
+                }
+            }
+        ], 
+        "id": "18758249", 
+        "has_no_known_copyright": null, 
+        "dimensions": "84.6 x 57.9 cm (33 5/16 x 22 13/16 in.)", 
+        "title": "Poster, Pociag w Sniegu [Train in the Snow], 1976–77", 
+        "provenance": "Acquired from dealers, galleries and auction houses by Marc Benda.  Remained with Benda until 2010, when gifted to CHNDM.", 
+        "participants": [
+            {
+                "person_name": "Jerzy Flisak", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "Polish, 1930 - 2008", 
+                "role_display_name": "Designed by", 
+                "person_id": "18063499", 
+                "person_url": "https://collection.cooperhewitt.org/people/18063499/"
+            }, 
+            {
+                "person_name": "Marc Benda", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35351535/", 
+                "role_id": "35351535", 
+                "role_name": "Donor", 
+                "person_date": "", 
+                "role_display_name": "Donated by", 
+                "person_id": "18062523", 
+                "person_url": "https://collection.cooperhewitt.org/people/18062523/"
+            }, 
+            {
+                "person_name": "Sara Benda", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35351535/", 
+                "role_id": "35351535", 
+                "role_name": "Donor", 
+                "person_date": "", 
+                "role_display_name": "Donated by", 
+                "person_id": "18063205", 
+                "person_url": "https://collection.cooperhewitt.org/people/18063205/"
+            }
+        ], 
+        "decade": "1970", 
+        "label_text": null, 
+        "woe:country": null, 
+        "dimensions_raw": {
+            "width": [
+                "57.90", 
+                "centimeters"
+            ], 
+            "height": [
+                "84.60", 
+                "centimeters"
+            ]
+        }, 
+        "department_id": "35347493", 
+        "title_raw": "Pociag w Sniegu [Train in the Snow]", 
+        "justification": null, 
+        "media_id": "35431963", 
+        "description": "On off-white ground, the image in black: silhouetted figures of men and women in black,  in voluminous clothes, carrying large bundles and bags. At lower left, inscription: \" Pociag w sniegu / Jugoslawianski przygodowy dla dzieci mlodziezy / Rezyseria: Mate Relia W rolach glownych: / Slavko Stimac, Zeliko Malcic, Eduard Perocevic Produkcja: Croatia Film \".", 
+        "creditline": "Gift of Sara and Marc Benda", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "1976–77", 
+        "url": "https://collection.cooperhewitt.org/objects/18758249/", 
+        "type": "poster", 
+        "accession_number": "2010-21-23", 
+        "year_end": 1977, 
+        "signed": null, 
+        "inscribed": null, 
+        "period_id": null, 
+        "year_acquired": "2010", 
+        "woe:country_id": null
+    }
+}

@@ -1,0 +1,119 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": 1950, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": "offset lithograph", 
+        "tms:id": "211528", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/266963_2fe8d2543d621151_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "266963"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/266963_2fe8d2543d621151_b.jpg", 
+                    "width": 598, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "266963"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/266963_2fe8d2543d621151_d.gif", 
+                    "width": 187, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "266963"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/266963_2fe8d2543d621151_z.jpg", 
+                    "width": 374, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "266963"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/266963_2fe8d2543d621151_n.jpg", 
+                    "width": 187, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "266963"
+                }
+            }
+        ], 
+        "id": "18672171", 
+        "has_no_known_copyright": null, 
+        "dimensions": "96.5 x 55.6 cm (38 x 21 7/8 in. )", 
+        "title": "Poster, Exhibition Poster: Robert Smithson, Movie Treatment for Spiral Jetty, Great Salt Lake, Utah, shown at Dwan Gallery, New York, 1970", 
+        "provenance": null, 
+        "participants": [
+            {
+                "person_name": "General Acquisitions Endowment", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35352247/", 
+                "role_id": "35352247", 
+                "role_name": "Fund", 
+                "person_date": "", 
+                "role_display_name": "Fund:", 
+                "person_id": "18048535", 
+                "person_url": "https://collection.cooperhewitt.org/people/18048535/"
+            }, 
+            {
+                "person_name": "Robert Smithson", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236565/", 
+                "role_id": "35236565", 
+                "role_name": "Artist", 
+                "person_date": "American, 1938 – 1973", 
+                "role_display_name": "", 
+                "person_id": "18051561", 
+                "person_url": "https://collection.cooperhewitt.org/people/18051561/"
+            }, 
+            {
+                "person_name": "Lawrence Markey, Inc.", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35352249/", 
+                "role_id": "35352249", 
+                "role_name": "Vendor", 
+                "person_date": "", 
+                "role_display_name": "Purchased from", 
+                "person_id": "18051405", 
+                "person_url": "https://collection.cooperhewitt.org/people/18051405/"
+            }
+        ], 
+        "decade": "1950", 
+        "label_text": null, 
+        "woe:country": null, 
+        "dimensions_raw": {
+            "width": [
+                "55.60", 
+                "centimeters"
+            ], 
+            "height": [
+                "96.50", 
+                "centimeters"
+            ]
+        }, 
+        "department_id": "35347493", 
+        "title_raw": "Exhibition Poster: Robert Smithson, Movie Treatment for Spiral Jetty, Great Salt Lake, Utah, shown at Dwan Gallery, New York", 
+        "justification": null, 
+        "media_id": "35399027", 
+        "description": "Sheet is completely covered with  film storyboard sketches for sequencing of documentary about the formation of Smithson's Spiral Jetty earthwork located in Salt Lake, Utah.  The top (Part 1) shows shots or road, mountains, dust; center and below (Part II) shows sound of water, placing stakes, water shots; bottom of sheet shows sketches of aerial views of jetty.  Reproductions of handwritten notes accompany the drawings.", 
+        "creditline": "Museum purchase from General Acquisitions Endowment and Smithsonian Institution Collections Acquisition Program Funds", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "1970", 
+        "url": "https://collection.cooperhewitt.org/objects/18672171/", 
+        "type": "poster", 
+        "accession_number": "1999-45-25", 
+        "year_end": 1975, 
+        "signed": "Center, at right, reproduction of handwritten signature: R Smithson 1970", 
+        "inscribed": "Imprinted in black, top: \"ROBERT SMITHSON GREAT SALT LAKE UTAH\"; Imprinted at bottom: \"DWAN 29 WEST 57 STREET NEW YORK OPENING OCTOBER 31 TO NOVEMBER 25/ A 16 MM, 35 MINUTE, COLOR AND SOUND FILM ON THE SPIRAL JETTY WILL/BE SHOWN DAILY AT 2:00 IN THE GALLERY FOR DURATION OF EXHIBITION\"", 
+        "period_id": null, 
+        "year_acquired": "1999", 
+        "woe:country_id": null
+    }
+}

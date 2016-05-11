@@ -1,0 +1,130 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": 1985, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": "screenprint on paper", 
+        "tms:id": "197696", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/201902_4622bc909cf39f90_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "0", 
+                    "image_id": "201902"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/201902_4622bc909cf39f90_b.jpg", 
+                    "width": 910, 
+                    "height": 1024, 
+                    "is_primary": "0", 
+                    "image_id": "201902"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/201902_4622bc909cf39f90_d.gif", 
+                    "width": 284, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "201902"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/201902_4622bc909cf39f90_z.jpg", 
+                    "width": 569, 
+                    "height": 640, 
+                    "is_primary": "0", 
+                    "image_id": "201902"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/201902_4622bc909cf39f90_n.jpg", 
+                    "width": 284, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "201902"
+                }
+            }
+        ], 
+        "id": "18645585", 
+        "has_no_known_copyright": null, 
+        "woe:country_name": "United States", 
+        "dimensions": "53.3 × 46.8 cm (21 in. × 18 7/16 in.)", 
+        "title": "Poster, Benjamin Moloise Lives!, 1985", 
+        "provenance": "Steven Heller and Karrie Jacobs; 1993: acquired by Museum", 
+        "participants": [
+            {
+                "person_name": "Steven Heller", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35351535/", 
+                "role_id": "35351535", 
+                "role_name": "Donor", 
+                "person_date": "American, b. 1950", 
+                "role_display_name": "Donated by", 
+                "person_id": "18041397", 
+                "person_url": "https://collection.cooperhewitt.org/people/18041397/"
+            }, 
+            {
+                "person_name": "Karrie Jacobs", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35351535/", 
+                "role_id": "35351535", 
+                "role_name": "Donor", 
+                "person_date": "", 
+                "role_display_name": "Donated by", 
+                "person_id": "18056647", 
+                "person_url": "https://collection.cooperhewitt.org/people/18056647/"
+            }, 
+            {
+                "person_name": "LSA", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35352245/", 
+                "role_id": "35352245", 
+                "role_name": "Cataloguer", 
+                "person_date": "", 
+                "role_display_name": "Catalogued by", 
+                "person_id": "18048737", 
+                "person_url": "https://collection.cooperhewitt.org/people/18048737/"
+            }, 
+            {
+                "person_name": "Fireworks Graphics", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "San Francisco, California, USA", 
+                "role_display_name": "Designed by", 
+                "person_id": "18043143", 
+                "person_url": "https://collection.cooperhewitt.org/people/18043143/"
+            }
+        ], 
+        "decade": "1980", 
+        "label_text": null, 
+        "woe:country": "23424977", 
+        "dimensions_raw": {
+            "width": [
+                "46.80", 
+                "centimeters"
+            ], 
+            "height": [
+                "53.30", 
+                "centimeters"
+            ]
+        }, 
+        "department_id": "35347493", 
+        "title_raw": "Benjamin Moloise Lives!", 
+        "justification": null, 
+        "media_id": "35431679", 
+        "description": "Photograph of Mamike Moloise Condition: Torn at UL corner Poster commemorates the execution of Benjamin Moloise, an African National Congress militant, by the South African government", 
+        "creditline": "Gift of Steven Heller and Karrie Jacobs", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "1985", 
+        "url": "https://collection.cooperhewitt.org/objects/18645585/", 
+        "type": "poster", 
+        "accession_number": "1993-53-108", 
+        "year_end": 1985, 
+        "signed": null, 
+        "inscribed": "Other text: \"I will spill my blood for those who remain behind. / The struggle must go on, nobody must fear it.\" / -Benjamin Moloise / 1955-1985\"Other text: \"Mamike Moloise sings freedom hymn and gives black power / salute at Pretoria prison where son Benjamin had been hanged.\"", 
+        "period_id": null, 
+        "year_acquired": "1993", 
+        "woe:country_id": "23424977"
+    }
+}

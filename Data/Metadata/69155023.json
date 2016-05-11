@@ -1,0 +1,100 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": "In Niessen’s poster, a red and white checkerboard pattern dominates the composition of The Plan. Graphic devices such as rulers and maps are used to express Sign, Symbol, and Ornament. The Plan is from a series of posters, Palace of Typographic Masonry.", 
+        "year_start": 2015, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": "screenprint", 
+        "tms:id": "282862", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/269748_6a74b842b90b5e50_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "269748"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/269748_6a74b842b90b5e50_b.jpg", 
+                    "width": 724, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "269748"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/269748_6a74b842b90b5e50_d.gif", 
+                    "width": 226, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "269748"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/269748_6a74b842b90b5e50_z.jpg", 
+                    "width": 453, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "269748"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/269748_6a74b842b90b5e50_n.jpg", 
+                    "width": 226, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "269748"
+                }
+            }
+        ], 
+        "id": "69155023", 
+        "has_no_known_copyright": null, 
+        "dimensions": "H x W: 118 × 84 cm (46 7/16 × 33 1/16 in.) (unframed)", 
+        "title": "Poster, The Plan, Palace of Typographic Masonry, 2015", 
+        "provenance": null, 
+        "participants": [
+            {
+                "person_name": "Richard Niessen", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35351535/", 
+                "role_id": "35351535", 
+                "role_name": "Donor", 
+                "person_date": "Dutch, b. 1972", 
+                "role_display_name": "Donated by", 
+                "person_id": "85011423", 
+                "person_url": "https://collection.cooperhewitt.org/people/85011423/"
+            }, 
+            {
+                "person_name": "Richard Niessen", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "Dutch, b. 1972", 
+                "role_display_name": "Designed by", 
+                "person_id": "85011423", 
+                "person_url": "https://collection.cooperhewitt.org/people/85011423/"
+            }
+        ], 
+        "decade": "2010", 
+        "label_text": null, 
+        "woe:country": null, 
+        "dimensions_raw": null, 
+        "department_id": "404529577", 
+        "title_raw": "The Plan, Palace of Typographic Masonry", 
+        "justification": null, 
+        "media_id": "35422783", 
+        "description": null, 
+        "creditline": "Courtesy of Richard Niessen", 
+        "on_display": "1", 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "2015", 
+        "url": "https://collection.cooperhewitt.org/objects/69155023/", 
+        "type": "poster", 
+        "accession_number": "s-e-1720", 
+        "year_end": 2015, 
+        "signed": null, 
+        "inscribed": null, 
+        "period_id": null, 
+        "year_acquired": null, 
+        "woe:country_id": null
+    }
+}

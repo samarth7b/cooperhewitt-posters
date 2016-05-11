@@ -1,0 +1,157 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": 1979, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": "off-set lithograph on white wove paper", 
+        "tms:id": "241966", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/35399_907e910ea05e054d_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "35399"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/35399_907e910ea05e054d_b.jpg", 
+                    "width": 745, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "35399"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/35399_907e910ea05e054d_d.gif", 
+                    "width": 233, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "35399"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/35399_907e910ea05e054d_z.jpg", 
+                    "width": 466, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "35399"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/35399_907e910ea05e054d_n.jpg", 
+                    "width": 233, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "35399"
+                }
+            }, 
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/267608_73038218d2096820_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "0", 
+                    "image_id": "267608"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/267608_73038218d2096820_b.jpg", 
+                    "width": 723, 
+                    "height": 1024, 
+                    "is_primary": "0", 
+                    "image_id": "267608"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/267608_73038218d2096820_d.gif", 
+                    "width": 226, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "267608"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/267608_73038218d2096820_z.jpg", 
+                    "width": 452, 
+                    "height": 640, 
+                    "is_primary": "0", 
+                    "image_id": "267608"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/267608_73038218d2096820_n.jpg", 
+                    "width": 226, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "267608"
+                }
+            }
+        ], 
+        "id": "18731737", 
+        "has_no_known_copyright": null, 
+        "woe:country_name": "Japan", 
+        "dimensions": "102.8 x 72.9 cm (40 1/2 x 28 11/16 in.)", 
+        "title": "Poster, Kanox, 1979", 
+        "provenance": "Sara and Marc Benda; 2009: acquired by Museum", 
+        "participants": [
+            {
+                "person_name": "Sara Benda", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35351535/", 
+                "role_id": "35351535", 
+                "role_name": "Donor", 
+                "person_date": "", 
+                "role_display_name": "Donated by", 
+                "person_id": "18063205", 
+                "person_url": "https://collection.cooperhewitt.org/people/18063205/"
+            }, 
+            {
+                "person_name": "Tadanori Yokoo, Japanese", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "b. 1936", 
+                "role_display_name": "Designed by", 
+                "person_id": "18054231", 
+                "person_url": "https://collection.cooperhewitt.org/people/18054231/"
+            }, 
+            {
+                "person_name": "Marc Benda", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35351535/", 
+                "role_id": "35351535", 
+                "role_name": "Donor", 
+                "person_date": "", 
+                "role_display_name": "Donated by", 
+                "person_id": "18062523", 
+                "person_url": "https://collection.cooperhewitt.org/people/18062523/"
+            }
+        ], 
+        "decade": "1970", 
+        "label_text": null, 
+        "woe:country": "23424856", 
+        "dimensions_raw": {
+            "width": [
+                "72.90", 
+                "centimeters"
+            ], 
+            "height": [
+                "102.80", 
+                "centimeters"
+            ]
+        }, 
+        "department_id": "35347493", 
+        "title_raw": "Kanox", 
+        "justification": null, 
+        "media_id": "35380345", 
+        "description": "Blue poster with mages of columns and statues in gray running horizontally across middle and down right side. Behind columns and statues, many multicolored planets and galaxies and a bolt of yellow lightning extend from right-center top to left-center bottom. Text in black at top left reads: \"Kanox\"", 
+        "creditline": "Gift of Sara and Marc Benda", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "1979", 
+        "url": "https://collection.cooperhewitt.org/objects/18731737/", 
+        "type": "poster", 
+        "accession_number": "2009-12-15", 
+        "year_end": 1979, 
+        "signed": null, 
+        "inscribed": null, 
+        "period_id": null, 
+        "year_acquired": "2009", 
+        "woe:country_id": "23424856"
+    }
+}

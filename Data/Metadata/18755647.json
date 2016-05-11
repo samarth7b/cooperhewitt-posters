@@ -1,0 +1,147 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": 2005, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": "offset lithograph on aluminized plastic foil", 
+        "tms:id": "254093", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/34455_e2f8fa3817a40bb8_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "34455"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/34455_e2f8fa3817a40bb8_b.jpg", 
+                    "width": 721, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "34455"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/34455_e2f8fa3817a40bb8_d.gif", 
+                    "width": 225, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "34455"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/34455_e2f8fa3817a40bb8_z.jpg", 
+                    "width": 450, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "34455"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/34455_e2f8fa3817a40bb8_n.jpg", 
+                    "width": 225, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "34455"
+                }
+            }, 
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/268428_f2f9768305e49eff_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "0", 
+                    "image_id": "268428"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/268428_f2f9768305e49eff_b.jpg", 
+                    "width": 726, 
+                    "height": 1024, 
+                    "is_primary": "0", 
+                    "image_id": "268428"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/268428_f2f9768305e49eff_d.gif", 
+                    "width": 227, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "268428"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/268428_f2f9768305e49eff_z.jpg", 
+                    "width": 454, 
+                    "height": 640, 
+                    "is_primary": "0", 
+                    "image_id": "268428"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/268428_f2f9768305e49eff_n.jpg", 
+                    "width": 227, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "268428"
+                }
+            }
+        ], 
+        "id": "18755647", 
+        "has_no_known_copyright": null, 
+        "woe:country_name": "China", 
+        "dimensions": "100.6 x 78.9 cm (39 5/8 x 31 1/16 in.)", 
+        "title": "Poster, Graphic Design China 2005 (GDC 05), 2005", 
+        "provenance": "Bi Xue Feng, Shenzhen, China, 2005-2010", 
+        "participants": [
+            {
+                "person_name": "Bi Xue Feng, Chinese", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "b. 1963", 
+                "role_display_name": "Designed by", 
+                "person_id": "18063379", 
+                "person_url": "https://collection.cooperhewitt.org/people/18063379/"
+            }, 
+            {
+                "person_name": "Bi Xue Feng, Chinese", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35351535/", 
+                "role_id": "35351535", 
+                "role_name": "Donor", 
+                "person_date": "b. 1963", 
+                "role_display_name": "Donated by", 
+                "person_id": "18063379", 
+                "person_url": "https://collection.cooperhewitt.org/people/18063379/"
+            }
+        ], 
+        "decade": "2000", 
+        "label_text": null, 
+        "woe:country": "23424781", 
+        "dimensions_raw": {
+            "width": [
+                "78.90", 
+                "centimeters"
+            ], 
+            "height": [
+                "100.60", 
+                "centimeters"
+            ]
+        }, 
+        "department_id": "35347493", 
+        "title_raw": "Graphic Design China 2005 (GDC 05)", 
+        "justification": "In the early 21st century there is an active and vibrant graphic design movement in China exploring complex issues of national identity and global acculturation. Graphic Design China, by Bi Xue Feng, was designed for a national graphic design competition and exhibition and explores the theme of national identity through its imagery and typography. \nXue Feng graduated from the China Academy of Art in 1989. In 1997, he founded his firm, Imagram Graphic Design Inc., in Shenzhen, China. In addition to running a full-service graphic design company, he is interested in design theory and lectures around the world at many graphic design symposia. His work has been shown at national and international exhibitions, including those in Paris, Zurich, Brno, the Czech Republic, and Germany; he is also the recipient of many graphic design awards. \nIn 2005, Xue Feng was awarded a four-month residency in Paris by the Cité internationale des Arts, Paris, an arts foundation that provides residencies for professional artists who want to develop their work in France. The Cité also sponsors exhibitions where visual artists can display their work. Graphic Design China was created during the designer’s Paris sojourn.\nThis is one of two posters by Xue Feng proposed for acquisition as part of the museum’s effort to add examples of contemporary Chinese graphic design to the museum’s collection.", 
+        "media_id": "68515287", 
+        "description": "At center a faceless man standing with arms folded wearing a dark shirt and light pants.   At far top right a smaller scale of a faceless man standing with hands in his pant pockets.  Throughout poster there are smears.  At top center right vertically printed \"In China\".", 
+        "creditline": "Gift of Bi Xue Feng", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "2005", 
+        "url": "https://collection.cooperhewitt.org/objects/18755647/", 
+        "type": "poster", 
+        "accession_number": "2010-30-1", 
+        "year_end": 2005, 
+        "signed": null, 
+        "inscribed": null, 
+        "period_id": null, 
+        "year_acquired": "2010", 
+        "woe:country_id": "23424781"
+    }
+}

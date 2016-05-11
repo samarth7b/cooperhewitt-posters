@@ -1,0 +1,100 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": 1980, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": null, 
+        "tms:id": "177391", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/200504_1ed2665621f4301f_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "200504"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/200504_1ed2665621f4301f_b.jpg", 
+                    "width": 790, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "200504"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/200504_1ed2665621f4301f_d.gif", 
+                    "width": 247, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "200504"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/200504_1ed2665621f4301f_z.jpg", 
+                    "width": 494, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "200504"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/200504_1ed2665621f4301f_n.jpg", 
+                    "width": 247, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "200504"
+                }
+            }
+        ], 
+        "id": "18617717", 
+        "has_no_known_copyright": null, 
+        "woe:country_name": "United States", 
+        "dimensions": "Overall: 56.5 x 43.2 cm (22 1/4 x 17 in.)", 
+        "title": "Poster, Static Entropies, 1980", 
+        "provenance": "1981: acquired by Museum", 
+        "participants": [
+            {
+                "person_name": "Carlos Mario Sanchez", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "", 
+                "role_display_name": "Designed by", 
+                "person_id": "18057111", 
+                "person_url": "https://collection.cooperhewitt.org/people/18057111/"
+            }
+        ], 
+        "decade": "1980", 
+        "label_text": null, 
+        "woe:country": "23424977", 
+        "dimensions_raw": {
+            "width": [
+                "43.20", 
+                "centimeters"
+            ], 
+            "height": [
+                "56.50", 
+                "centimeters"
+            ]
+        }, 
+        "department_id": "35347493", 
+        "title_raw": "Static Entropies", 
+        "justification": null, 
+        "media_id": "35371135", 
+        "description": "Card: Dance Performances Robert Banta", 
+        "creditline": "Gift of Various Donors", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "1980", 
+        "url": "https://collection.cooperhewitt.org/objects/18617717/", 
+        "type": "poster", 
+        "accession_number": "1981-29-305", 
+        "year_end": 1980, 
+        "signed": null, 
+        "inscribed": null, 
+        "period_id": null, 
+        "year_acquired": "1981", 
+        "woe:country_id": "23424977"
+    }
+}

@@ -1,0 +1,110 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": 1943, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": "lithograph on paper, lined", 
+        "tms:id": "134155", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/65121_f28a9031e96400b9_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "65121"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/65121_f28a9031e96400b9_b.jpg", 
+                    "width": 774, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "65121"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/65121_f28a9031e96400b9_d.gif", 
+                    "width": 242, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "65121"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/65121_f28a9031e96400b9_z.jpg", 
+                    "width": 483, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "65121"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/65121_f28a9031e96400b9_n.jpg", 
+                    "width": 242, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "65121"
+                }
+            }
+        ], 
+        "id": "18447279", 
+        "has_no_known_copyright": null, 
+        "woe:country_name": "United States", 
+        "dimensions": "107.1 x 79 cm (42 3/16 x 31 1/8 in.)", 
+        "title": "Poster, American Airlines Paris, ca. 1948", 
+        "provenance": "Mrs. Edward McKnight Kauffer; 1963: acquired by Museum", 
+        "participants": [
+            {
+                "person_name": "Mrs. Edward McKnight Kauffer", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35351535/", 
+                "role_id": "35351535", 
+                "role_name": "Donor", 
+                "person_date": "", 
+                "role_display_name": "Donated by", 
+                "person_id": "18061849", 
+                "person_url": "https://collection.cooperhewitt.org/people/18061849/"
+            }, 
+            {
+                "person_name": "Edward McKnight Kauffer", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "American, active England, 1890–1954", 
+                "role_display_name": "Designed by", 
+                "person_id": "18041923", 
+                "person_url": "https://collection.cooperhewitt.org/people/18041923/"
+            }
+        ], 
+        "decade": "1940", 
+        "label_text": null, 
+        "woe:country": "23424977", 
+        "dimensions_raw": {
+            "width": [
+                "79.00", 
+                "centimeters"
+            ], 
+            "height": [
+                "107.10", 
+                "centimeters"
+            ]
+        }, 
+        "department_id": "35347493", 
+        "title_raw": "American Airlines Paris", 
+        "justification": null, 
+        "media_id": "35425977", 
+        "description": "Photograph in yellow and turquoise of the Winged Victory of Samothrace. Text in black and turquoise: AMERICAN AIRLINES; multicolored text: PARIS. Lower right: logo.", 
+        "creditline": "Gift of Mrs. E. McKnight Kauffer", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "ca. 1948", 
+        "url": "https://collection.cooperhewitt.org/objects/18447279/", 
+        "type": "poster", 
+        "accession_number": "1963-39-141", 
+        "year_end": 1953, 
+        "signed": "Signed in light blue, lower right: E. McKnight Kauffer", 
+        "inscribed": null, 
+        "period_id": null, 
+        "year_acquired": "1963", 
+        "woe:country_id": "23424977"
+    }
+}

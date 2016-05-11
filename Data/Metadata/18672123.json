@@ -1,0 +1,119 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": 1968, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": "offset lithograph", 
+        "tms:id": "211503", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/254612_61dab23268d4b494_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "254612"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/254612_61dab23268d4b494_b.jpg", 
+                    "width": 1015, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "254612"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/254612_61dab23268d4b494_d.gif", 
+                    "width": 317, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "254612"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/254612_61dab23268d4b494_z.jpg", 
+                    "width": 634, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "254612"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/254612_61dab23268d4b494_n.jpg", 
+                    "width": 317, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "254612"
+                }
+            }
+        ], 
+        "id": "18672123", 
+        "has_no_known_copyright": null, 
+        "dimensions": "57.8 x 57.5 cm (22 3/4 x 22 5/8 in. )", 
+        "title": "Poster, Exhibition Poster: Carl Andre,  Galerie Heiner Friedrich, Munich, 1968", 
+        "provenance": null, 
+        "participants": [
+            {
+                "person_name": "General Acquisitions Endowment", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35352247/", 
+                "role_id": "35352247", 
+                "role_name": "Fund", 
+                "person_date": "", 
+                "role_display_name": "Fund:", 
+                "person_id": "18048535", 
+                "person_url": "https://collection.cooperhewitt.org/people/18048535/"
+            }, 
+            {
+                "person_name": "Carl Andre", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236565/", 
+                "role_id": "35236565", 
+                "role_name": "Artist", 
+                "person_date": "American, b. 1935", 
+                "role_display_name": "", 
+                "person_id": "18051583", 
+                "person_url": "https://collection.cooperhewitt.org/people/18051583/"
+            }, 
+            {
+                "person_name": "Lawrence Markey, Inc.", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35352249/", 
+                "role_id": "35352249", 
+                "role_name": "Vendor", 
+                "person_date": "", 
+                "role_display_name": "Purchased from", 
+                "person_id": "18051405", 
+                "person_url": "https://collection.cooperhewitt.org/people/18051405/"
+            }
+        ], 
+        "decade": "1960", 
+        "label_text": null, 
+        "woe:country": null, 
+        "dimensions_raw": {
+            "width": [
+                "57.50", 
+                "centimeters"
+            ], 
+            "height": [
+                "57.80", 
+                "centimeters"
+            ]
+        }, 
+        "department_id": "35347493", 
+        "title_raw": "Exhibition Poster: Carl Andre,  Galerie Heiner Friedrich, Munich", 
+        "justification": null, 
+        "media_id": "35399027", 
+        "description": "Art exhibition poster with German text along top and bottom; accross center, horizontal,  row of small black rectangles going straight across from left edge to right edge.  The central image recalls the artist's minimalist sculpture installation Lever (1966), a single straight line of 139 unjoined fire bricks arranged across the middle of the floor of a room.", 
+        "creditline": "Museum purchase from General Acquisitions Endowment and Smithsonian Institution Collections Acquisition Program Funds", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "1968", 
+        "url": "https://collection.cooperhewitt.org/objects/18672123/", 
+        "type": "poster", 
+        "accession_number": "1999-45-5", 
+        "year_end": 1968, 
+        "signed": null, 
+        "inscribed": "Imprinted in black, top edge: \"CARL ANDRE ERÖFFNUNG 26.3.68  19 UHR 26.3.-18.4. DI.-SA. 10-19 UHR\". Imprinted in black, lower edge: \"GALERIE HEINERFRIEDRICH MÜNCHENMAXILIAN STR. 15 TEL. 295021\".", 
+        "period_id": null, 
+        "year_acquired": "1999", 
+        "woe:country_id": null
+    }
+}

@@ -1,0 +1,137 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": 1979, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": "lithograph on paper", 
+        "tms:id": "177365", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/80934_30fa80ca6179b1fe_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "80934"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/80934_30fa80ca6179b1fe_b.jpg", 
+                    "width": 671, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "80934"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/80934_30fa80ca6179b1fe_d.gif", 
+                    "width": 210, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "80934"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/80934_30fa80ca6179b1fe_z.jpg", 
+                    "width": 419, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "80934"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/80934_30fa80ca6179b1fe_n.jpg", 
+                    "width": 210, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "80934"
+                }
+            }, 
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/256650_ea94943a65e20022_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "0", 
+                    "image_id": "256650"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/256650_ea94943a65e20022_b.jpg", 
+                    "width": 677, 
+                    "height": 1024, 
+                    "is_primary": "0", 
+                    "image_id": "256650"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/256650_ea94943a65e20022_d.gif", 
+                    "width": 212, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "256650"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/256650_ea94943a65e20022_z.jpg", 
+                    "width": 423, 
+                    "height": 640, 
+                    "is_primary": "0", 
+                    "image_id": "256650"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/256650_ea94943a65e20022_n.jpg", 
+                    "width": 212, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "256650"
+                }
+            }
+        ], 
+        "id": "18617665", 
+        "has_no_known_copyright": null, 
+        "woe:country_name": "United States", 
+        "dimensions": "73.8 x 48.4 cm (29 1/16 x 19 1/16 in.)", 
+        "title": "Poster, April-May, An Annual Spring Arts Festival, 1979", 
+        "provenance": "1981: acquired by Museum", 
+        "participants": [
+            {
+                "person_name": "Woody Pirtle", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "b. 1945", 
+                "role_display_name": "Designed by", 
+                "person_id": "18042325", 
+                "person_url": "https://collection.cooperhewitt.org/people/18042325/"
+            }
+        ], 
+        "decade": "1970", 
+        "label_text": null, 
+        "woe:country": "23424977", 
+        "dimensions_raw": {
+            "width": [
+                "48.40", 
+                "centimeters"
+            ], 
+            "height": [
+                "73.80", 
+                "centimeters"
+            ]
+        }, 
+        "department_id": "35347493", 
+        "title_raw": "April-May, An Annual Spring Arts Festival", 
+        "justification": null, 
+        "media_id": "35419317", 
+        "description": "Poster depicts a surreal image of floating theatrical figures, musicians, a colorful tiled work featuring flowers, a paintbrush. Below, in brown text: APRL-MAY / An Annual Spring Arts Festival / Sponsored by The Dallas County Community Colleges. / Brookhaven/Cedar Valley/Eastfield/El Centro / Mountain View/North Lake/Richland; CELEBRATION/79.", 
+        "creditline": "Gift of Various Donors", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "1979", 
+        "url": "https://collection.cooperhewitt.org/objects/18617665/", 
+        "type": "poster", 
+        "accession_number": "1981-29-282", 
+        "year_end": 1979, 
+        "signed": null, 
+        "inscribed": "Printed in brown, above: Celebration ’79 is co-sponsored and funded in part through private gifts to the Dallas County Community College Foundation, Inc.", 
+        "period_id": null, 
+        "year_acquired": "1981", 
+        "woe:country_id": "23424977"
+    }
+}

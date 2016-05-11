@@ -1,0 +1,130 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": 1976, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": "color lithograph\nsupport: paper", 
+        "tms:id": "193432", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/268716_657bb87d8b1f32d6_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "268716"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/268716_657bb87d8b1f32d6_b.jpg", 
+                    "width": 717, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "268716"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/268716_657bb87d8b1f32d6_d.gif", 
+                    "width": 224, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "268716"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/268716_657bb87d8b1f32d6_z.jpg", 
+                    "width": 448, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "268716"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/268716_657bb87d8b1f32d6_n.jpg", 
+                    "width": 224, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "268716"
+                }
+            }
+        ], 
+        "id": "18637161", 
+        "has_no_known_copyright": null, 
+        "woe:country_name": "United States", 
+        "dimensions": "86.3 x 60.3 cm (34 x 23 3/4 in.)", 
+        "title": "Poster, Tall Ships Are Coming! Ne, 1976", 
+        "provenance": null, 
+        "participants": [
+            {
+                "person_name": "Malcom Grear Designers", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35351535/", 
+                "role_id": "35351535", 
+                "role_name": "Donor", 
+                "person_date": "", 
+                "role_display_name": "Donated by", 
+                "person_id": "18042437", 
+                "person_url": "https://collection.cooperhewitt.org/people/18042437/"
+            }, 
+            {
+                "person_name": "CGC", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35352245/", 
+                "role_id": "35352245", 
+                "role_name": "Cataloguer", 
+                "person_date": "", 
+                "role_display_name": "Catalogued by", 
+                "person_id": "18048417", 
+                "person_url": "https://collection.cooperhewitt.org/people/18048417/"
+            }, 
+            {
+                "person_name": "John Benson", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236565/", 
+                "role_id": "35236565", 
+                "role_name": "Artist", 
+                "person_date": "", 
+                "role_display_name": "", 
+                "person_id": "18042439", 
+                "person_url": "https://collection.cooperhewitt.org/people/18042439/"
+            }, 
+            {
+                "person_name": "Malcom Grear Designers", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236703/", 
+                "role_id": "35236703", 
+                "role_name": "Office of", 
+                "person_date": "", 
+                "role_display_name": "Office of", 
+                "person_id": "18042437", 
+                "person_url": "https://collection.cooperhewitt.org/people/18042437/"
+            }
+        ], 
+        "decade": "1970", 
+        "label_text": null, 
+        "woe:country": "23424977", 
+        "dimensions_raw": {
+            "width": [
+                "60.30", 
+                "centimeters"
+            ], 
+            "height": [
+                "86.30", 
+                "centimeters"
+            ]
+        }, 
+        "department_id": "35347493", 
+        "title_raw": "Tall Ships Are Coming! Ne", 
+        "justification": null, 
+        "media_id": "136271001", 
+        "description": "\"Title imprinted across top; at LC: Tall Ships Newport '76 is presented by The American Sail Training Association and The Sail Training Association; at R margin lower: Symbol design by John Benson, Poster by Malcom Grear\"", 
+        "creditline": "Gift of Malcom Grear Designers", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "1976", 
+        "url": "https://collection.cooperhewitt.org/objects/18637161/", 
+        "type": "poster", 
+        "accession_number": "1991-69-104", 
+        "year_end": 1976, 
+        "signed": null, 
+        "inscribed": "Title imprinted across top; at LC: Tall Ships Newport '76 is presented by The American Sail Training Association and The Sail Training Association; at R margin lower: Symbol design by John Benson Poster by Malcom Grear Designers", 
+        "period_id": null, 
+        "year_acquired": "1991", 
+        "woe:country_id": "23424977"
+    }
+}

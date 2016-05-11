@@ -1,0 +1,147 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": 1979, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": "screenprint on paper", 
+        "tms:id": "199824", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/93340_11d241f1b5723a21_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "93340"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/93340_11d241f1b5723a21_b.jpg", 
+                    "width": 723, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "93340"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/93340_11d241f1b5723a21_d.gif", 
+                    "width": 226, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "93340"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/93340_11d241f1b5723a21_z.jpg", 
+                    "width": 452, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "93340"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/93340_11d241f1b5723a21_n.jpg", 
+                    "width": 226, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "93340"
+                }
+            }, 
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/267854_bb0106b7bb3138ba_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "0", 
+                    "image_id": "267854"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/267854_bb0106b7bb3138ba_b.jpg", 
+                    "width": 728, 
+                    "height": 1024, 
+                    "is_primary": "0", 
+                    "image_id": "267854"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/267854_bb0106b7bb3138ba_d.gif", 
+                    "width": 228, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "267854"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/267854_bb0106b7bb3138ba_z.jpg", 
+                    "width": 455, 
+                    "height": 640, 
+                    "is_primary": "0", 
+                    "image_id": "267854"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/267854_bb0106b7bb3138ba_n.jpg", 
+                    "width": 228, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "267854"
+                }
+            }
+        ], 
+        "id": "18649813", 
+        "has_no_known_copyright": null, 
+        "woe:country_name": "Japan", 
+        "dimensions": "102.5 x 73 cm (40 3/8 x 28 3/4 in. )", 
+        "title": "Poster, The Killing of Blanqui; Spring in Shanghai, 1979", 
+        "provenance": "James Fraser (contact for Koga)", 
+        "participants": [
+            {
+                "person_name": "Kôga Hirano", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35351535/", 
+                "role_id": "35351535", 
+                "role_name": "Donor", 
+                "person_date": "Japanese, b. Seoul, South Korea, 1938", 
+                "role_display_name": "Donated by", 
+                "person_id": "18041843", 
+                "person_url": "https://collection.cooperhewitt.org/people/18041843/"
+            }, 
+            {
+                "person_name": "Kôga Hirano", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "Japanese, b. Seoul, South Korea, 1938", 
+                "role_display_name": "Designed by", 
+                "person_id": "18041843", 
+                "person_url": "https://collection.cooperhewitt.org/people/18041843/"
+            }
+        ], 
+        "decade": "1970", 
+        "label_text": null, 
+        "woe:country": "23424856", 
+        "dimensions_raw": {
+            "width": [
+                "73.00", 
+                "centimeters"
+            ], 
+            "height": [
+                "102.50", 
+                "centimeters"
+            ]
+        }, 
+        "department_id": "35347493", 
+        "title_raw": "The Killing of Blanqui; Spring in Shanghai", 
+        "justification": null, 
+        "media_id": "35431679", 
+        "description": "Top half of the poster: text in black Japanese characters.  Bottom half of the poster: collage of images of people printed in red, orange and yellow color combination.", 
+        "creditline": "Gift of Koga Hirano", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "1979", 
+        "url": "https://collection.cooperhewitt.org/objects/18649813/", 
+        "type": "poster", 
+        "accession_number": "1995-104-4", 
+        "year_end": 1979, 
+        "signed": null, 
+        "inscribed": null, 
+        "period_id": null, 
+        "year_acquired": "1995", 
+        "woe:country_id": "23424856"
+    }
+}

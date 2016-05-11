@@ -1,0 +1,184 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": null, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": "lithograph on paper", 
+        "tms:id": "163271", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/101286_6af8f3fc665d5bb4_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "101286"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/101286_6af8f3fc665d5bb4_b.jpg", 
+                    "width": 670, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "101286"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/101286_6af8f3fc665d5bb4_d.gif", 
+                    "width": 209, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "101286"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/101286_6af8f3fc665d5bb4_z.jpg", 
+                    "width": 419, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "101286"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/101286_6af8f3fc665d5bb4_n.jpg", 
+                    "width": 209, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "101286"
+                }
+            }, 
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/269836_f3740a34f9d28784_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "0", 
+                    "image_id": "269836"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/269836_f3740a34f9d28784_b.jpg", 
+                    "width": 687, 
+                    "height": 1024, 
+                    "is_primary": "0", 
+                    "image_id": "269836"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/269836_f3740a34f9d28784_d.gif", 
+                    "width": 215, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "269836"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/269836_f3740a34f9d28784_z.jpg", 
+                    "width": 429, 
+                    "height": 640, 
+                    "is_primary": "0", 
+                    "image_id": "269836"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/269836_f3740a34f9d28784_n.jpg", 
+                    "width": 215, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "269836"
+                }
+            }, 
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/95231_3d48da2e4eca6357_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "0", 
+                    "image_id": "95231"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/95231_3d48da2e4eca6357_b.jpg", 
+                    "width": 668, 
+                    "height": 1024, 
+                    "is_primary": "0", 
+                    "image_id": "95231"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/95231_3d48da2e4eca6357_d.gif", 
+                    "width": 209, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "95231"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/95231_3d48da2e4eca6357_z.jpg", 
+                    "width": 417, 
+                    "height": 640, 
+                    "is_primary": "0", 
+                    "image_id": "95231"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/95231_3d48da2e4eca6357_n.jpg", 
+                    "width": 209, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "95231"
+                }
+            }
+        ], 
+        "id": "18504735", 
+        "has_no_known_copyright": null, 
+        "woe:country_name": "United States", 
+        "dimensions": "117 × 76.2 cm (46 1/16 in. × 30 in.)", 
+        "title": "Poster, Upstairs, Downstairs", 
+        "provenance": "1980: acquired by Museum", 
+        "participants": [
+            {
+                "person_name": "Ivan Chermayeff", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "English, b. 1932", 
+                "role_display_name": "Designed by", 
+                "person_id": "18042085", 
+                "person_url": "https://collection.cooperhewitt.org/people/18042085/"
+            }, 
+            {
+                "person_name": "Chermayeff & Geismar Associates", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "New York, New York, USA", 
+                "role_display_name": "Designed by", 
+                "person_id": "18053275", 
+                "person_url": "https://collection.cooperhewitt.org/people/18053275/"
+            }
+        ], 
+        "decade": null, 
+        "label_text": null, 
+        "woe:country": "23424977", 
+        "dimensions_raw": {
+            "width": [
+                "76.20", 
+                "centimeters"
+            ], 
+            "height": [
+                "117.00", 
+                "centimeters"
+            ]
+        }, 
+        "department_id": "35347493", 
+        "title_raw": "Upstairs, Downstairs", 
+        "justification": null, 
+        "media_id": "35419317", 
+        "description": null, 
+        "creditline": "Gift of Unknown Donor", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": null, 
+        "url": "https://collection.cooperhewitt.org/objects/18504735/", 
+        "type": "poster", 
+        "accession_number": "1980-32-1009", 
+        "year_end": null, 
+        "signed": null, 
+        "inscribed": null, 
+        "period_id": null, 
+        "year_acquired": "1980", 
+        "woe:country_id": "23424977"
+    }
+}

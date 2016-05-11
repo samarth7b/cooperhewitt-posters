@@ -1,0 +1,130 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": 1970, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": "screenprint on off-white paper", 
+        "tms:id": "197755", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/224086_97dff54e8328c8e1_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "0", 
+                    "image_id": "224086"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/224086_97dff54e8328c8e1_b.jpg", 
+                    "width": 751, 
+                    "height": 1024, 
+                    "is_primary": "0", 
+                    "image_id": "224086"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/224086_97dff54e8328c8e1_d.gif", 
+                    "width": 235, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "224086"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/224086_97dff54e8328c8e1_z.jpg", 
+                    "width": 469, 
+                    "height": 640, 
+                    "is_primary": "0", 
+                    "image_id": "224086"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/224086_97dff54e8328c8e1_n.jpg", 
+                    "width": 235, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "224086"
+                }
+            }
+        ], 
+        "id": "18645703", 
+        "has_no_known_copyright": null, 
+        "woe:country_name": "United States", 
+        "dimensions": "71.6 × 51.8 cm (28 3/16 × 20 3/8 in.)", 
+        "title": "Poster, Dia Internacional de la Mujer (International Women's Day), ca. 1980", 
+        "provenance": "Steven Heller and Karrie Jacobs; 1993: acquired by Museum", 
+        "participants": [
+            {
+                "person_name": "Karrie Jacobs", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35351535/", 
+                "role_id": "35351535", 
+                "role_name": "Donor", 
+                "person_date": "", 
+                "role_display_name": "Donated by", 
+                "person_id": "18056647", 
+                "person_url": "https://collection.cooperhewitt.org/people/18056647/"
+            }, 
+            {
+                "person_name": "Steven Heller", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35351535/", 
+                "role_id": "35351535", 
+                "role_name": "Donor", 
+                "person_date": "American, b. 1950", 
+                "role_display_name": "Donated by", 
+                "person_id": "18041397", 
+                "person_url": "https://collection.cooperhewitt.org/people/18041397/"
+            }, 
+            {
+                "person_name": "Megan L. Smith", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35352245/", 
+                "role_id": "35352245", 
+                "role_name": "Cataloguer", 
+                "person_date": "", 
+                "role_display_name": "Catalogued by", 
+                "person_id": "18047443", 
+                "person_url": "https://collection.cooperhewitt.org/people/18047443/"
+            }, 
+            {
+                "person_name": "LSA", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35352245/", 
+                "role_id": "35352245", 
+                "role_name": "Cataloguer", 
+                "person_date": "", 
+                "role_display_name": "Catalogued by", 
+                "person_id": "18048737", 
+                "person_url": "https://collection.cooperhewitt.org/people/18048737/"
+            }
+        ], 
+        "decade": "1970", 
+        "label_text": null, 
+        "woe:country": "23424977", 
+        "dimensions_raw": {
+            "width": [
+                "51.80", 
+                "centimeters"
+            ], 
+            "height": [
+                "71.60", 
+                "centimeters"
+            ]
+        }, 
+        "department_id": "35347493", 
+        "title_raw": "Dia Internacional de la Mujer (International Women's Day)", 
+        "justification": null, 
+        "media_id": "68266451", 
+        "description": "Three half-faces of women", 
+        "creditline": "Gift of Steven Heller and Karrie Jacobs", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "ca. 1980", 
+        "url": "https://collection.cooperhewitt.org/objects/18645703/", 
+        "type": "poster", 
+        "accession_number": "1993-53-43", 
+        "year_end": 1990, 
+        "signed": null, 
+        "inscribed": "Imprinted in white ink on bottom: \"Reprint from a Cuban poster by the Women's Graphics Collective...\"", 
+        "period_id": null, 
+        "year_acquired": "1993", 
+        "woe:country_id": "23424977"
+    }
+}

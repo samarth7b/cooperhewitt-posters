@@ -1,0 +1,90 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": null, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": null, 
+        "tms:id": "209471", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/199609_e01c2a58fbbf38d9_sq.jpg", 
+                    "width": 204, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "199609"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/199609_e01c2a58fbbf38d9_b.jpg", 
+                    "width": 204, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "199609"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/199609_e01c2a58fbbf38d9_d.gif", 
+                    "width": 64, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "199609"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/199609_e01c2a58fbbf38d9_z.jpg", 
+                    "width": 128, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "199609"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/199609_e01c2a58fbbf38d9_n.jpg", 
+                    "width": 64, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "199609"
+                }
+            }
+        ], 
+        "id": "18668133", 
+        "has_no_known_copyright": null, 
+        "dimensions": null, 
+        "title": "Poster, An Evening with Cahan and Associates", 
+        "provenance": null, 
+        "participants": [
+            {
+                "person_name": "Cahan & Associates", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35351535/", 
+                "role_id": "35351535", 
+                "role_name": "Donor", 
+                "person_date": "", 
+                "role_display_name": "Donated by", 
+                "person_id": "18049509", 
+                "person_url": "https://collection.cooperhewitt.org/people/18049509/"
+            }
+        ], 
+        "decade": null, 
+        "label_text": null, 
+        "woe:country": null, 
+        "dimensions_raw": null, 
+        "department_id": "35347493", 
+        "title_raw": "An Evening with Cahan and Associates", 
+        "justification": null, 
+        "media_id": "35371135", 
+        "description": null, 
+        "creditline": "Gift of Cahan & Associates", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": null, 
+        "url": "https://collection.cooperhewitt.org/objects/18668133/", 
+        "type": "poster", 
+        "accession_number": "1997-135-1", 
+        "year_end": null, 
+        "signed": null, 
+        "inscribed": null, 
+        "period_id": null, 
+        "year_acquired": "1997", 
+        "woe:country_id": null
+    }
+}

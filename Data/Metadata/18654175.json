@@ -1,0 +1,101 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": 1975, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": null, 
+        "tms:id": "202048", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/257543_190cbc18debab8bf_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "257543"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/257543_190cbc18debab8bf_b.jpg", 
+                    "width": 688, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "257543"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/257543_190cbc18debab8bf_d.gif", 
+                    "width": 215, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "257543"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/257543_190cbc18debab8bf_z.jpg", 
+                    "width": 430, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "257543"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/257543_190cbc18debab8bf_n.jpg", 
+                    "width": 215, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "257543"
+                }
+            }
+        ], 
+        "id": "18654175", 
+        "has_no_known_copyright": null, 
+        "woe:country_name": "United States", 
+        "dimensions": null, 
+        "title": "Poster, Dead End Kids, ca. 1985", 
+        "provenance": null, 
+        "participants": [
+            {
+                "person_name": "Stephen Doyle", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35351535/", 
+                "role_id": "35351535", 
+                "role_name": "Donor", 
+                "person_date": "1956", 
+                "role_display_name": "Donated by", 
+                "person_id": "18043651", 
+                "person_url": "https://collection.cooperhewitt.org/people/18043651/"
+            }, 
+            {
+                "person_name": "Drenttel Doyle Partners", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236685/", 
+                "role_id": "35236685", 
+                "role_name": "Maker", 
+                "person_date": "", 
+                "role_display_name": "Made by", 
+                "person_id": "18049081", 
+                "person_url": "https://collection.cooperhewitt.org/people/18049081/"
+            }
+        ], 
+        "decade": "1970", 
+        "label_text": null, 
+        "woe:country": "23424977", 
+        "dimensions_raw": null, 
+        "department_id": "35347493", 
+        "title_raw": "Dead End Kids", 
+        "justification": null, 
+        "media_id": "35371135", 
+        "description": null, 
+        "creditline": "Gift of Stephen Doyle", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "ca. 1985", 
+        "url": "https://collection.cooperhewitt.org/objects/18654175/", 
+        "type": "poster", 
+        "accession_number": "1996-85-2", 
+        "year_end": 1995, 
+        "signed": null, 
+        "inscribed": null, 
+        "period_id": null, 
+        "year_acquired": "1996", 
+        "woe:country_id": "23424977"
+    }
+}

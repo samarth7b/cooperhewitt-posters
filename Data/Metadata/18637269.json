@@ -1,0 +1,120 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": 1960, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": "offset lithograph on paper", 
+        "tms:id": "193486", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/254885_bcfde4465858b08a_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "254885"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/254885_bcfde4465858b08a_b.jpg", 
+                    "width": 661, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "254885"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/254885_bcfde4465858b08a_d.gif", 
+                    "width": 207, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "254885"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/254885_bcfde4465858b08a_z.jpg", 
+                    "width": 413, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "254885"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/254885_bcfde4465858b08a_n.jpg", 
+                    "width": 207, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "254885"
+                }
+            }
+        ], 
+        "id": "18637269", 
+        "has_no_known_copyright": null, 
+        "woe:country_name": "United States", 
+        "dimensions": "91.5 x 58.3 cm (36 x 22 15/16 in.)", 
+        "title": "Poster, Planet/ Outer Space, 1960s", 
+        "provenance": "1991: acquired by Museum", 
+        "participants": [
+            {
+                "person_name": "Peter Max", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35351535/", 
+                "role_id": "35351535", 
+                "role_name": "Donor", 
+                "person_date": "American, b. Germany, 1937", 
+                "role_display_name": "Donated by", 
+                "person_id": "18042345", 
+                "person_url": "https://collection.cooperhewitt.org/people/18042345/"
+            }, 
+            {
+                "person_name": "CGC", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35352245/", 
+                "role_id": "35352245", 
+                "role_name": "Cataloguer", 
+                "person_date": "", 
+                "role_display_name": "Catalogued by", 
+                "person_id": "18048417", 
+                "person_url": "https://collection.cooperhewitt.org/people/18048417/"
+            }, 
+            {
+                "person_name": "Peter Max", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "American, b. Germany, 1937", 
+                "role_display_name": "Designed by", 
+                "person_id": "18042345", 
+                "person_url": "https://collection.cooperhewitt.org/people/18042345/"
+            }
+        ], 
+        "decade": "1960", 
+        "label_text": null, 
+        "woe:country": "23424977", 
+        "dimensions_raw": {
+            "width": [
+                "58.30", 
+                "centimeters"
+            ], 
+            "height": [
+                "91.50", 
+                "centimeters"
+            ]
+        }, 
+        "department_id": "35347493", 
+        "title_raw": "Planet/ Outer Space", 
+        "justification": null, 
+        "media_id": "35399021", 
+        "description": null, 
+        "creditline": "Gift of Peter Max", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "1960s", 
+        "url": "https://collection.cooperhewitt.org/objects/18637269/", 
+        "type": "poster", 
+        "accession_number": "1991-69-39", 
+        "year_end": 1969, 
+        "signed": null, 
+        "inscribed": "Imprinted in black ink at lower C : peter max; at LR in blue ink: 9 Outer Space/ PETER MAX POSTER CORP./ All Rights Reserved Litho in U.S.A.", 
+        "period_id": null, 
+        "year_acquired": "1991", 
+        "woe:country_id": "23424977"
+    }
+}

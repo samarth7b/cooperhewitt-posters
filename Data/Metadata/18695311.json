@@ -1,0 +1,157 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": 1989, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": "offset lithograph on white paper", 
+        "tms:id": "223222", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/65607_ed853cfe96ebcaba_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "65607"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/65607_ed853cfe96ebcaba_b.jpg", 
+                    "width": 683, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "65607"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/65607_ed853cfe96ebcaba_d.gif", 
+                    "width": 213, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "65607"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/65607_ed853cfe96ebcaba_z.jpg", 
+                    "width": 427, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "65607"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/65607_ed853cfe96ebcaba_n.jpg", 
+                    "width": 213, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "65607"
+                }
+            }, 
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/257734_4e72e5273ef8728f_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "0", 
+                    "image_id": "257734"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/257734_4e72e5273ef8728f_b.jpg", 
+                    "width": 687, 
+                    "height": 1024, 
+                    "is_primary": "0", 
+                    "image_id": "257734"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/257734_4e72e5273ef8728f_d.gif", 
+                    "width": 215, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "257734"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/257734_4e72e5273ef8728f_z.jpg", 
+                    "width": 429, 
+                    "height": 640, 
+                    "is_primary": "0", 
+                    "image_id": "257734"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/257734_4e72e5273ef8728f_n.jpg", 
+                    "width": 215, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "257734"
+                }
+            }
+        ], 
+        "id": "18695311", 
+        "has_no_known_copyright": null, 
+        "woe:country_name": "United States", 
+        "dimensions": "91.4 x 61.0 cm (36 x 24 in. )", 
+        "title": "Poster, University Center Dedication, University of Hartford, 1989", 
+        "provenance": "Marion S. Rand; 2002: acquired by Museum", 
+        "participants": [
+            {
+                "person_name": "University of Hartford", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236667/", 
+                "role_id": "35236667", 
+                "role_name": "Client", 
+                "person_date": "", 
+                "role_display_name": "Client:", 
+                "person_id": "18055043", 
+                "person_url": "https://collection.cooperhewitt.org/people/18055043/"
+            }, 
+            {
+                "person_name": "Marion S. Rand", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35351535/", 
+                "role_id": "35351535", 
+                "role_name": "Donor", 
+                "person_date": "", 
+                "role_display_name": "Donated by", 
+                "person_id": "18538789", 
+                "person_url": "https://collection.cooperhewitt.org/people/18538789/"
+            }, 
+            {
+                "person_name": "Paul Rand", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236763/", 
+                "role_id": "35236763", 
+                "role_name": "Graphic Designer", 
+                "person_date": "American, 1914–1996", 
+                "role_display_name": "Graphic design by", 
+                "person_id": "18042341", 
+                "person_url": "https://collection.cooperhewitt.org/people/18042341/"
+            }
+        ], 
+        "decade": "1980", 
+        "label_text": null, 
+        "woe:country": "23424977", 
+        "dimensions_raw": {
+            "width": [
+                "61.00", 
+                "centimeters"
+            ], 
+            "height": [
+                "91.40", 
+                "centimeters"
+            ]
+        }, 
+        "department_id": "35347493", 
+        "title_raw": "University Center Dedication, University of Hartford", 
+        "justification": null, 
+        "media_id": "35424093", 
+        "description": "On white ground, overlapping colored rectangles and squares, clockwise from lower left corner: yellow, green, blue, and red, across entire page (except upper edge, and upper left corner).  Imprinted in different colors (blue, black, red, and green),upper left corner, title and date of dedication,  Imprinted in black ink, lower right quadrant, donors' names.", 
+        "creditline": "Gift of Marion S. Rand", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "1989", 
+        "url": "https://collection.cooperhewitt.org/objects/18695311/", 
+        "type": "poster", 
+        "accession_number": "2002-11-3", 
+        "year_end": 1989, 
+        "signed": "Imprinted in black ink, lower left corner: Paul Rand", 
+        "inscribed": "Imprinted in blue, black, red, and green ink, upper left corner: University Center/ Dedication/ April 25, 1989/ University/ of Hartford; in black ink, lower right quadrant: William H. Mortensen Library/ Harry J. Gray Conference Center/ Helen Buckley Gray Communication Center/ Museum of American Political Life/ Joseloff Gallery/ University Bookstore/ The 1877 Club.", 
+        "period_id": null, 
+        "year_acquired": "2002", 
+        "woe:country_id": "23424977"
+    }
+}

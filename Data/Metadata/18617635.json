@@ -1,0 +1,101 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": null, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": null, 
+        "tms:id": "177350", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/267163_b898ed4aa89163a8_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "267163"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/267163_b898ed4aa89163a8_b.jpg", 
+                    "width": 520, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "267163"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/267163_b898ed4aa89163a8_d.gif", 
+                    "width": 163, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "267163"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/267163_b898ed4aa89163a8_z.jpg", 
+                    "width": 325, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "267163"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/267163_b898ed4aa89163a8_n.jpg", 
+                    "width": 163, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "267163"
+                }
+            }
+        ], 
+        "id": "18617635", 
+        "has_no_known_copyright": null, 
+        "woe:country_name": "United States", 
+        "dimensions": null, 
+        "title": "Poster, IBM Tucson", 
+        "provenance": "1981: acquired by Museum", 
+        "participants": [
+            {
+                "person_name": "IBM", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236667/", 
+                "role_id": "35236667", 
+                "role_name": "Client", 
+                "person_date": "USA", 
+                "role_display_name": "Client:", 
+                "person_id": "18041871", 
+                "person_url": "https://collection.cooperhewitt.org/people/18041871/"
+            }, 
+            {
+                "person_name": "Ken White", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "American, 1935-1985", 
+                "role_display_name": "Designed by", 
+                "person_id": "18042357", 
+                "person_url": "https://collection.cooperhewitt.org/people/18042357/"
+            }
+        ], 
+        "decade": null, 
+        "label_text": null, 
+        "woe:country": "23424977", 
+        "dimensions_raw": null, 
+        "department_id": "35347493", 
+        "title_raw": "IBM Tucson", 
+        "justification": null, 
+        "media_id": "35371135", 
+        "description": null, 
+        "creditline": "Gift of Various Donors", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": null, 
+        "url": "https://collection.cooperhewitt.org/objects/18617635/", 
+        "type": "poster", 
+        "accession_number": "1981-29-270", 
+        "year_end": null, 
+        "signed": null, 
+        "inscribed": null, 
+        "period_id": null, 
+        "year_acquired": "1981", 
+        "woe:country_id": "23424977"
+    }
+}

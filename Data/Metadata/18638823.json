@@ -1,0 +1,201 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": 1920, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": "lithograph on newsprint", 
+        "tms:id": "194272", 
+        "images": [
+            {
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/51419_d7b1e40898b14305_b.jpg", 
+                    "width": 776, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "51419"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/51419_d7b1e40898b14305_d.gif", 
+                    "width": 243, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "51419"
+                }, 
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/51419_d7b1e40898b14305_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "51419"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/51419_d7b1e40898b14305_n.jpg", 
+                    "width": 243, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "51419"
+                }, 
+                "x": {
+                    "url": "https://images.collection.cooperhewitt.org/51419_0535c2bef23a45e9_x.jpg", 
+                    "width": 3102, 
+                    "height": 4096, 
+                    "is_primary": "1", 
+                    "image_id": "51419"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/51419_d7b1e40898b14305_z.jpg", 
+                    "width": 485, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "51419"
+                }
+            }, 
+            {
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/266916_ecd51ca713fb2929_b.jpg", 
+                    "width": 786, 
+                    "height": 1024, 
+                    "is_primary": "0", 
+                    "image_id": "266916"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/266916_ecd51ca713fb2929_d.gif", 
+                    "width": 246, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "266916"
+                }, 
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/266916_ecd51ca713fb2929_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "0", 
+                    "image_id": "266916"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/266916_ecd51ca713fb2929_n.jpg", 
+                    "width": 246, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "266916"
+                }, 
+                "x": {
+                    "url": "https://images.collection.cooperhewitt.org/266916_3c5752abecc21fa7_x.jpg", 
+                    "width": 3142, 
+                    "height": 4096, 
+                    "is_primary": "0", 
+                    "image_id": "266916"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/266916_ecd51ca713fb2929_z.jpg", 
+                    "width": 491, 
+                    "height": 640, 
+                    "is_primary": "0", 
+                    "image_id": "266916"
+                }
+            }
+        ], 
+        "id": "18638823", 
+        "has_no_known_copyright": "1", 
+        "woe:country_name": "Russia", 
+        "dimensions": "70.1 x 53 cm (27 5/8 x 20 7/8 in.)", 
+        "title": "Poster, A Red Present to the White Pan, 1920", 
+        "provenance": null, 
+        "participants": [
+            {
+                "person_name": "Ms. Svetlana Aronov", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35352249/", 
+                "role_id": "35352249", 
+                "role_name": "Vendor", 
+                "person_date": "", 
+                "role_display_name": "Purchased from", 
+                "person_id": "18041165", 
+                "person_url": "https://collection.cooperhewitt.org/people/18041165/"
+            }, 
+            {
+                "person_name": "Karin Zonis", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35352245/", 
+                "role_id": "35352245", 
+                "role_name": "Cataloguer", 
+                "person_date": "", 
+                "role_display_name": "Catalogued by", 
+                "person_id": "51676457", 
+                "person_url": "https://collection.cooperhewitt.org/people/51676457/"
+            }, 
+            {
+                "person_name": "Megan L. Smith", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35352245/", 
+                "role_id": "35352245", 
+                "role_name": "Cataloguer", 
+                "person_date": "", 
+                "role_display_name": "Catalogued by", 
+                "person_id": "18047443", 
+                "person_url": "https://collection.cooperhewitt.org/people/18047443/"
+            }, 
+            {
+                "person_name": "Marilyn Symmes", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35352245/", 
+                "role_id": "35352245", 
+                "role_name": "Cataloguer", 
+                "person_date": "", 
+                "role_display_name": "Catalogued by", 
+                "person_id": "18047461", 
+                "person_url": "https://collection.cooperhewitt.org/people/18047461/"
+            }, 
+            {
+                "person_name": "MB", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35352245/", 
+                "role_id": "35352245", 
+                "role_name": "Cataloguer", 
+                "person_date": "", 
+                "role_display_name": "Catalogued by", 
+                "person_id": "18048525", 
+                "person_url": "https://collection.cooperhewitt.org/people/18048525/"
+            }, 
+            {
+                "person_name": "Dmitri Moor", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "Russian, 1883-1946", 
+                "role_display_name": "Designed by", 
+                "person_id": "18043061", 
+                "person_url": "https://collection.cooperhewitt.org/people/18043061/"
+            }
+        ], 
+        "decade": "1920", 
+        "label_text": null, 
+        "woe:country": "23424936", 
+        "dimensions_raw": {
+            "width": [
+                "53.00", 
+                "centimeters"
+            ], 
+            "height": [
+                "70.10", 
+                "centimeters"
+            ]
+        }, 
+        "department_id": "35347493", 
+        "title_raw": "A Red Present to the White Pan", 
+        "justification": null, 
+        "media_id": "35420685", 
+        "description": "Poster depicting two men dressed in red, carrying a large red missile; they wink and smile at each other. A rotund comical figure to the right, in newsprint, wearing a saber and spurs, with long curly mustache. Text in Russian language in black, red, and newsprint in upper margin, upper left, and lower right.\nBottom text reads: \"advance this package at Pan's forehead\"", 
+        "creditline": "Museum purchase through gift of Mrs. John Innes Kane", 
+        "on_display": null, 
+        "markings": "Stamp in black ink, lower left, with Russian text underneath", 
+        "is_loan_object": 0, 
+        "date": "1920", 
+        "url": "https://collection.cooperhewitt.org/objects/18638823/", 
+        "type": "poster", 
+        "accession_number": "1992-123-1", 
+        "year_end": 1920, 
+        "signed": "Signed [imprinted] in black ink, lower left: D MOOP", 
+        "inscribed": "Imprinted in black ink, lower right: No. 105.; upper and lower margins, title and publisher information", 
+        "period_id": null, 
+        "year_acquired": "1992", 
+        "woe:country_id": "23424936"
+    }
+}

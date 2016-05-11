@@ -1,0 +1,110 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": 1953, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": "offset lithograph on wove paper, lined", 
+        "tms:id": "212265", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/14691_a70ef8b5074deaf4_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "14691"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/14691_a70ef8b5074deaf4_b.jpg", 
+                    "width": 742, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "14691"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/14691_a70ef8b5074deaf4_d.gif", 
+                    "width": 232, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "14691"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/14691_a70ef8b5074deaf4_z.jpg", 
+                    "width": 464, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "14691"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/14691_a70ef8b5074deaf4_n.jpg", 
+                    "width": 232, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "14691"
+                }
+            }
+        ], 
+        "id": "18673645", 
+        "has_no_known_copyright": null, 
+        "woe:country_name": "Germany", 
+        "dimensions": "127.5 x 90.5 cm (50 3/16 x 35  5/8 in. )", 
+        "title": "Poster, Schützt das Kind! [Protect the Child!], 1953", 
+        "provenance": "Barbara Liebowitz Graphics Ltd., New York, NY; 1999: acquired by Museum", 
+        "participants": [
+            {
+                "person_name": "Josef Müller-Brockmann", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236565/", 
+                "role_id": "35236565", 
+                "role_name": "Artist", 
+                "person_date": "Swiss, 1914–1996", 
+                "role_display_name": "", 
+                "person_id": "18051541", 
+                "person_url": "https://collection.cooperhewitt.org/people/18051541/"
+            }, 
+            {
+                "person_name": "Barbara Leibowits Graphics Ltd.", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35352249/", 
+                "role_id": "35352249", 
+                "role_name": "Vendor", 
+                "person_date": "", 
+                "role_display_name": "Purchased from", 
+                "person_id": "18051539", 
+                "person_url": "https://collection.cooperhewitt.org/people/18051539/"
+            }
+        ], 
+        "decade": "1950", 
+        "label_text": "The careening car in Müller-Brockmann’s 1953 poster, Schützt das Kind! (Protect the Child!), is too big to fit within the frame of the poster. It rushes toward the fleeing pedestrian, its enormous size creating a palpable sense of speed and danger.", 
+        "woe:country": "23424829", 
+        "dimensions_raw": {
+            "width": [
+                "90.50", 
+                "centimeters"
+            ], 
+            "height": [
+                "127.50", 
+                "centimeters"
+            ]
+        }, 
+        "department_id": "35347493", 
+        "title_raw": "Schützt das Kind! [Protect the Child!]", 
+        "justification": null, 
+        "media_id": "35428765", 
+        "description": "Black and white photographic image showing a huge motorcycle wheel in left foreground, and a smaller image of a young boy running (seen from behind), in the lower right corner. In order to promote traffic safety, the poster is designed so the vehicle tire threateningly appears to be about to run over the child.  Text in red Akzidenz Grotesk type face at upper left:  Automobil-Club der Schweiz (Automobile Club of Switzerland); below in white Akizidence Grotesk: \" Schüzt das Kind!\"  Yellow ground across bottom edge.  This poster is the designer's earliest use of the graphic design technique of photo-montage.  It also is constructed on the basis of a grid system (see Notes).", 
+        "creditline": "Museum purchase from General Acquisitions Endowment Fund", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "1953", 
+        "url": "https://collection.cooperhewitt.org/objects/18673645/", 
+        "type": "poster", 
+        "accession_number": "1999-46-1", 
+        "year_end": 1953, 
+        "signed": null, 
+        "inscribed": null, 
+        "period_id": null, 
+        "year_acquired": "1999", 
+        "woe:country_id": "23424829"
+    }
+}

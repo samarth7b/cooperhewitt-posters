@@ -1,0 +1,120 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": 2005, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": "screenprint on paper", 
+        "tms:id": "278548", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/95457_9b6b77a5b2eb46b4_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "95457"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/95457_9b6b77a5b2eb46b4_b.jpg", 
+                    "width": 696, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "95457"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/95457_9b6b77a5b2eb46b4_d.gif", 
+                    "width": 218, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "95457"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/95457_9b6b77a5b2eb46b4_z.jpg", 
+                    "width": 435, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "95457"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/95457_9b6b77a5b2eb46b4_n.jpg", 
+                    "width": 218, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "95457"
+                }
+            }
+        ], 
+        "id": "68774785", 
+        "has_no_known_copyright": null, 
+        "dimensions": "176 × 120 cm (5 ft. 9 5/16 in. × 47 1/4 in.)", 
+        "title": "Poster, Los Angeles, a Film by Sarah Morris, 2005", 
+        "provenance": "M/M (Paris) to Cooper Hewitt, November 2014.", 
+        "participants": [
+            {
+                "person_name": "Parallax Film Productions", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236667/", 
+                "role_id": "35236667", 
+                "role_name": "Client", 
+                "person_date": "White Rock, British Columbia, Canada", 
+                "role_display_name": "Client:", 
+                "person_id": "68777729", 
+                "person_url": "https://collection.cooperhewitt.org/people/68777729/"
+            }, 
+            {
+                "person_name": "Mathias Augustyniak", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "French, b.1967", 
+                "role_display_name": "Designed by", 
+                "person_id": "68774519", 
+                "person_url": "https://collection.cooperhewitt.org/people/68774519/"
+            }, 
+            {
+                "person_name": "Michael Amzalag", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "French, b. 1967", 
+                "role_display_name": "Designed by", 
+                "person_id": "68774515", 
+                "person_url": "https://collection.cooperhewitt.org/people/68774515/"
+            }, 
+            {
+                "person_name": "M/M (Paris)", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "Paris, France, founded 1992", 
+                "role_display_name": "Designed by", 
+                "person_id": "68774511", 
+                "person_url": "https://collection.cooperhewitt.org/people/68774511/"
+            }
+        ], 
+        "decade": "2000", 
+        "label_text": "Morris creates experimental films that are displayed in museums and art spaces. Each film explores a city or architectural landscape, and is announced and promoted with a poster by M/M (Paris). The poster uses the title of the film as a typographical prism through which the city’s layered, multifaceted character can be viewed.", 
+        "woe:country": null, 
+        "dimensions_raw": null, 
+        "department_id": "35347493", 
+        "title_raw": "Los Angeles, a Film by Sarah Morris", 
+        "justification": "Sarah Morris creates experimental films within the context of the art world. Her films are displayed in museums and art spaces surrounded by her own related paintings; they are announced and promoted with posters designed by M/M (Paris). Each film and its accompanying poster explores a city or architectural landscape. Los Angeles (2005) is a study of image production within the decentered plan and complex architecture of Los Angeles; the poster uses the title of the film as a prism.", 
+        "media_id": "35431679", 
+        "description": "Strips of overlapping images create a repitition of \"los angeles\". Underneath the repeating los angeles reads \"LOS ANGELES A FILM BY SARAH MORRIS PARALAX 2004\". Behind the text is a view of a bend in the road overlooking a city, presumably Los Angeles. To the left of the text are plants.", 
+        "creditline": "Gift of M/M (Paris)", 
+        "on_display": "1", 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "2005", 
+        "url": "https://collection.cooperhewitt.org/objects/68774785/", 
+        "type": "poster", 
+        "accession_number": "2015-4-3", 
+        "year_end": 2005, 
+        "signed": null, 
+        "inscribed": null, 
+        "period_id": null, 
+        "year_acquired": "2015", 
+        "woe:country_id": null
+    }
+}

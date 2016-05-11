@@ -1,0 +1,138 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": 2007, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": "offset lithograph on paper", 
+        "tms:id": "277508", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/95679_87e0ce05c38768ad_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "95679"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/95679_87e0ce05c38768ad_b.jpg", 
+                    "width": 728, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "95679"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/95679_87e0ce05c38768ad_d.gif", 
+                    "width": 228, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "95679"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/95679_87e0ce05c38768ad_z.jpg", 
+                    "width": 455, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "95679"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/95679_87e0ce05c38768ad_n.jpg", 
+                    "width": 228, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "95679"
+                }
+            }, 
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/94786_0b296718f98d0a10_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "0", 
+                    "image_id": "94786"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/94786_0b296718f98d0a10_b.jpg", 
+                    "width": 727, 
+                    "height": 1024, 
+                    "is_primary": "0", 
+                    "image_id": "94786"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/94786_0b296718f98d0a10_d.gif", 
+                    "width": 227, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "94786"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/94786_0b296718f98d0a10_z.jpg", 
+                    "width": 454, 
+                    "height": 640, 
+                    "is_primary": "0", 
+                    "image_id": "94786"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/94786_0b296718f98d0a10_n.jpg", 
+                    "width": 227, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "94786"
+                }
+            }
+        ], 
+        "id": "68743383", 
+        "has_no_known_copyright": null, 
+        "woe:country_name": "Germany", 
+        "dimensions": "118.9 × 84.1 cm (46 13/16 × 33 1/8 in.)", 
+        "title": "Poster, AGI- To Kyo To, 2007", 
+        "provenance": "Jianping He new to Cooper Hewitt, August 2014", 
+        "participants": [
+            {
+                "person_name": "Jianping He", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35351535/", 
+                "role_id": "35351535", 
+                "role_name": "Donor", 
+                "person_date": "Chinese, born 1973", 
+                "role_display_name": "Donated by", 
+                "person_id": "68735173", 
+                "person_url": "https://collection.cooperhewitt.org/people/68735173/"
+            }, 
+            {
+                "person_name": "Jianping He", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "Chinese, born 1973", 
+                "role_display_name": "Designed by", 
+                "person_id": "68735173", 
+                "person_url": "https://collection.cooperhewitt.org/people/68735173/"
+            }
+        ], 
+        "decade": "2000", 
+        "label_text": null, 
+        "woe:country": "23424829", 
+        "dimensions_raw": null, 
+        "department_id": "35347493", 
+        "title_raw": "AGI- To Kyo To", 
+        "justification": "On the occasion of their annual conference held in Kyoto in 2006, the Alliance Graphique Internationale (AGI) published a book entitled “To Kyo To”, featuring posters designed by 80 international AGI members.  Jianping He designed the book, and created this delicately rendered poster to advertise the publication.  He used a thin, free-flowing line that scribbles across the page and doubles back on itself to densely fill the space.  The central textforms that make up the publication title, “To Kyo To”, are comprised of layers of concentric circles, as if the designer repeated his motions over and over with a ballpoint pen.  The forms echo the punctured holes that make up the title on the cover of the publication itself.", 
+        "media_id": "35399021", 
+        "description": "\"TokyoTo.\" printed vertically in black, in front of a background of frenzied black lines. AGi, TokyoTo. written in upper left corner in unfilled block capital letters.", 
+        "creditline": "Gift of Jianping He", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "2007", 
+        "url": "https://collection.cooperhewitt.org/objects/68743383/", 
+        "type": "poster", 
+        "accession_number": "2014-23-2", 
+        "year_end": 2007, 
+        "signed": null, 
+        "inscribed": null, 
+        "period_id": null, 
+        "year_acquired": "2014", 
+        "woe:country_id": "23424829"
+    }
+}

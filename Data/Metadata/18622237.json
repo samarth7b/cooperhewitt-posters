@@ -1,0 +1,101 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": 1978, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": "off-set lithograph on white wove paper", 
+        "tms:id": "185954", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/267167_b05681744128f982_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "267167"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/267167_b05681744128f982_b.jpg", 
+                    "width": 843, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "267167"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/267167_b05681744128f982_d.gif", 
+                    "width": 263, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "267167"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/267167_b05681744128f982_z.jpg", 
+                    "width": 527, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "267167"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/267167_b05681744128f982_n.jpg", 
+                    "width": 263, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "267167"
+                }
+            }
+        ], 
+        "id": "18622237", 
+        "has_no_known_copyright": null, 
+        "woe:country_name": "United States", 
+        "dimensions": null, 
+        "title": "Poster, Subway Map for the New York Transit Authority, 1978", 
+        "provenance": null, 
+        "participants": [
+            {
+                "person_name": "Unknown donor: unsolicited gift", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35351535/", 
+                "role_id": "35351535", 
+                "role_name": "Donor", 
+                "person_date": "", 
+                "role_display_name": "Donated by", 
+                "person_id": "18050283", 
+                "person_url": "https://collection.cooperhewitt.org/people/18050283/"
+            }, 
+            {
+                "person_name": "New York Transit Authority", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236675/", 
+                "role_id": "35236675", 
+                "role_name": "For", 
+                "person_date": "American", 
+                "role_display_name": "Made for", 
+                "person_id": "18061753", 
+                "person_url": "https://collection.cooperhewitt.org/people/18061753/"
+            }
+        ], 
+        "decade": "1970", 
+        "label_text": null, 
+        "woe:country": "23424977", 
+        "dimensions_raw": null, 
+        "department_id": "35347493", 
+        "title_raw": "Subway Map for the New York Transit Authority", 
+        "justification": null, 
+        "media_id": "35380345", 
+        "description": null, 
+        "creditline": "Gift of Unknown Donor", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "1978", 
+        "url": "https://collection.cooperhewitt.org/objects/18622237/", 
+        "type": "poster", 
+        "accession_number": "1987-24-1", 
+        "year_end": 1978, 
+        "signed": null, 
+        "inscribed": null, 
+        "period_id": null, 
+        "year_acquired": "1987", 
+        "woe:country_id": "23424977"
+    }
+}

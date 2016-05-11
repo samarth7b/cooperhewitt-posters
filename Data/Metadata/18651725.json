@@ -1,0 +1,207 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": 1991, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": "offset lithography on cream paper", 
+        "tms:id": "200805", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/12159_4c6c90fec0492a4b_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "12159"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/12159_4c6c90fec0492a4b_b.jpg", 
+                    "width": 711, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "12159"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/12159_4c6c90fec0492a4b_d.gif", 
+                    "width": 222, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "12159"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/12159_4c6c90fec0492a4b_z.jpg", 
+                    "width": 445, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "12159"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/12159_4c6c90fec0492a4b_n.jpg", 
+                    "width": 222, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "12159"
+                }
+            }, 
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/269026_ce679ebc4132b265_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "0", 
+                    "image_id": "269026"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/269026_ce679ebc4132b265_b.jpg", 
+                    "width": 717, 
+                    "height": 1024, 
+                    "is_primary": "0", 
+                    "image_id": "269026"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/269026_ce679ebc4132b265_d.gif", 
+                    "width": 224, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "269026"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/269026_ce679ebc4132b265_z.jpg", 
+                    "width": 448, 
+                    "height": 640, 
+                    "is_primary": "0", 
+                    "image_id": "269026"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/269026_ce679ebc4132b265_n.jpg", 
+                    "width": 224, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "269026"
+                }
+            }
+        ], 
+        "id": "18651725", 
+        "has_no_known_copyright": null, 
+        "woe:country_name": "United States", 
+        "dimensions": "83.2 x 57.2 cm (32 3/4 x 22 1/2 in. )", 
+        "title": "Poster, Fact Twenty Two, 1991", 
+        "provenance": "Rudy Vanderlans and Zuzanna Licko", 
+        "participants": [
+            {
+                "person_name": "Zuzana Licko", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35351535/", 
+                "role_id": "35351535", 
+                "role_name": "Donor", 
+                "person_date": "Czech, b. 1961", 
+                "role_display_name": "Donated by", 
+                "person_id": "18049453", 
+                "person_url": "https://collection.cooperhewitt.org/people/18049453/"
+            }, 
+            {
+                "person_name": "Rudy VanderLans", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35351535/", 
+                "role_id": "35351535", 
+                "role_name": "Donor", 
+                "person_date": "Dutch, b. 1955", 
+                "role_display_name": "Donated by", 
+                "person_id": "18043575", 
+                "person_url": "https://collection.cooperhewitt.org/people/18043575/"
+            }, 
+            {
+                "person_name": "Elizabeth Horwitz Marcus", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35352245/", 
+                "role_id": "35352245", 
+                "role_name": "Cataloguer", 
+                "person_date": "", 
+                "role_display_name": "Catalogued by", 
+                "person_id": "18047453", 
+                "person_url": "https://collection.cooperhewitt.org/people/18047453/"
+            }, 
+            {
+                "person_name": "P. Scott Makela", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "American, 1960–1999", 
+                "role_display_name": "Designed by", 
+                "person_id": "18043531", 
+                "person_url": "https://collection.cooperhewitt.org/people/18043531/"
+            }, 
+            {
+                "person_name": "James Towning", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236631/", 
+                "role_id": "35236631", 
+                "role_name": "Photographer", 
+                "person_date": "", 
+                "role_display_name": "Photographed by", 
+                "person_id": "18043577", 
+                "person_url": "https://collection.cooperhewitt.org/people/18043577/"
+            }, 
+            {
+                "person_name": "AU", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35352245/", 
+                "role_id": "35352245", 
+                "role_name": "Cataloguer", 
+                "person_date": "", 
+                "role_display_name": "Catalogued by", 
+                "person_id": "18048335", 
+                "person_url": "https://collection.cooperhewitt.org/people/18048335/"
+            }, 
+            {
+                "person_name": "Rudy VanderLans", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "Dutch, b. 1955", 
+                "role_display_name": "Designed by", 
+                "person_id": "18043575", 
+                "person_url": "https://collection.cooperhewitt.org/people/18043575/"
+            }, 
+            {
+                "person_name": "Emigre Graphics", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236661/", 
+                "role_id": "35236661", 
+                "role_name": "Publisher", 
+                "person_date": "founded 1984", 
+                "role_display_name": "Published by", 
+                "person_id": "18049075", 
+                "person_url": "https://collection.cooperhewitt.org/people/18049075/"
+            }
+        ], 
+        "decade": "1990", 
+        "label_text": null, 
+        "woe:country": "23424977", 
+        "dimensions_raw": {
+            "width": [
+                "57.20", 
+                "centimeters"
+            ], 
+            "height": [
+                "83.20", 
+                "centimeters"
+            ]
+        }, 
+        "department_id": "35347493", 
+        "title_raw": "Fact Twenty Two", 
+        "justification": null, 
+        "media_id": "35520181", 
+        "description": "Promotional poster for \"Fact TwentyTwo\", album from Emigre Music. Intersecting circles in pink, black and yellow in various diameters throughout poster with either simple text or photo of daisy superimposed.  At top, large partial pink circle with superimposed photo of daisy at upper left overlap with small blank black circle and large yellow circle with image of daisy. Small black circle overlaps smaller black circle with \"Energy\" imprinted in white.  At center \"Fact/Twenty/Two\" imprinted in black. Around title, title repeated in pink and all other text repeated in yellow, in circle formation. Yellow circle outlined in pink with \"cd\" imprinted in pink at lower right.  \"Energy\" in upper right, \"Work\" in upper middle at left; \"Power\" in lower left. Design plays on circle motif as well as layering.  Black is top layer while yellow and pink are equal.  Emigre logo, pink slanted ellipse with \"EMIGRE\" in white, at lower left corner.", 
+        "creditline": "Gift of Rudy VanderLans and Zuzana Licko", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "1991", 
+        "url": "https://collection.cooperhewitt.org/objects/18651725/", 
+        "type": "poster", 
+        "accession_number": "1995-65-2", 
+        "year_end": 1991, 
+        "signed": null, 
+        "inscribed": "Imprinted, lower left, red Emigre logo", 
+        "period_id": null, 
+        "year_acquired": "1995", 
+        "woe:country_id": "23424977"
+    }
+}

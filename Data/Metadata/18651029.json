@@ -1,0 +1,110 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": 1985, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": "lithograph on paper", 
+        "tms:id": "200453", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/81498_b158eae32c1475bc_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "81498"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/81498_b158eae32c1475bc_b.jpg", 
+                    "width": 782, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "81498"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/81498_b158eae32c1475bc_d.gif", 
+                    "width": 244, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "81498"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/81498_b158eae32c1475bc_z.jpg", 
+                    "width": 489, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "81498"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/81498_b158eae32c1475bc_n.jpg", 
+                    "width": 244, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "81498"
+                }
+            }
+        ], 
+        "id": "18651029", 
+        "has_no_known_copyright": null, 
+        "woe:country_name": "United States", 
+        "dimensions": "59.6 x 45.6 cm (23 7/16 x 17 15/16 in.)", 
+        "title": "Poster, No Glove, No Love!, 1985", 
+        "provenance": "1995: acquired by Museum", 
+        "participants": [
+            {
+                "person_name": "Brother's Network", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35351535/", 
+                "role_id": "35351535", 
+                "role_name": "Donor", 
+                "person_date": "", 
+                "role_display_name": "Donated by", 
+                "person_id": "18041637", 
+                "person_url": "https://collection.cooperhewitt.org/people/18041637/"
+            }, 
+            {
+                "person_name": "Black, Gay and Lesbian Leadership Forum", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236671/", 
+                "role_id": "35236671", 
+                "role_name": "Producer", 
+                "person_date": "", 
+                "role_display_name": "Produced by", 
+                "person_id": "18535851", 
+                "person_url": "https://collection.cooperhewitt.org/people/18535851/"
+            }
+        ], 
+        "decade": "1980", 
+        "label_text": null, 
+        "woe:country": "23424977", 
+        "dimensions_raw": {
+            "width": [
+                "45.60", 
+                "centimeters"
+            ], 
+            "height": [
+                "59.60", 
+                "centimeters"
+            ]
+        }, 
+        "department_id": "35347493", 
+        "title_raw": "No Glove, No Love!", 
+        "justification": null, 
+        "media_id": "35419317", 
+        "description": "Poster depicts nude man wearing baseball glove; below, in black text: No Glove, No Love! / Rubbers – Every Time!", 
+        "creditline": "Gift of The Brother's Network", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "1985", 
+        "url": "https://collection.cooperhewitt.org/objects/18651029/", 
+        "type": "poster", 
+        "accession_number": "1995-27-1", 
+        "year_end": 1985, 
+        "signed": null, 
+        "inscribed": null, 
+        "period_id": null, 
+        "year_acquired": "1995", 
+        "woe:country_id": "23424977"
+    }
+}

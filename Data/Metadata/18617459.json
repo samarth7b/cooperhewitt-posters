@@ -1,0 +1,91 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": 1970, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": null, 
+        "tms:id": "177262", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/255841_a78af49c522e3067_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "255841"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/255841_a78af49c522e3067_b.jpg", 
+                    "width": 701, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "255841"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/255841_a78af49c522e3067_d.gif", 
+                    "width": 219, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "255841"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/255841_a78af49c522e3067_z.jpg", 
+                    "width": 438, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "255841"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/255841_a78af49c522e3067_n.jpg", 
+                    "width": 219, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "255841"
+                }
+            }
+        ], 
+        "id": "18617459", 
+        "has_no_known_copyright": null, 
+        "woe:country_name": "United States", 
+        "dimensions": null, 
+        "title": "Poster, Paint Your Wagon, 1970", 
+        "provenance": "1981: acquired by Museum", 
+        "participants": [
+            {
+                "person_name": "Peter Max", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "American, b. Germany, 1937", 
+                "role_display_name": "Designed by", 
+                "person_id": "18042345", 
+                "person_url": "https://collection.cooperhewitt.org/people/18042345/"
+            }
+        ], 
+        "decade": "1970", 
+        "label_text": null, 
+        "woe:country": "23424977", 
+        "dimensions_raw": null, 
+        "department_id": "35347493", 
+        "title_raw": "Paint Your Wagon", 
+        "justification": null, 
+        "media_id": "35371135", 
+        "description": null, 
+        "creditline": "Gift of Various Donors", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "1970", 
+        "url": "https://collection.cooperhewitt.org/objects/18617459/", 
+        "type": "poster", 
+        "accession_number": "1981-29-191", 
+        "year_end": 1970, 
+        "signed": "Signed in graphite: MAX 70", 
+        "inscribed": null, 
+        "period_id": null, 
+        "year_acquired": "1981", 
+        "woe:country_id": "23424977"
+    }
+}

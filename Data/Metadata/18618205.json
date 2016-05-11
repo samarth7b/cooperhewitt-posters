@@ -1,0 +1,91 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": null, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": null, 
+        "tms:id": "177636", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/254360_97da8fffab9a7a10_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "254360"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/254360_97da8fffab9a7a10_b.jpg", 
+                    "width": 1024, 
+                    "height": 331, 
+                    "is_primary": "1", 
+                    "image_id": "254360"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/254360_97da8fffab9a7a10_d.gif", 
+                    "width": 320, 
+                    "height": 103, 
+                    "is_primary": "1", 
+                    "image_id": "254360"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/254360_97da8fffab9a7a10_z.jpg", 
+                    "width": 640, 
+                    "height": 207, 
+                    "is_primary": "1", 
+                    "image_id": "254360"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/254360_97da8fffab9a7a10_n.jpg", 
+                    "width": 320, 
+                    "height": 103, 
+                    "is_primary": "1", 
+                    "image_id": "254360"
+                }
+            }
+        ], 
+        "id": "18618205", 
+        "has_no_known_copyright": null, 
+        "woe:country_name": "United States", 
+        "dimensions": null, 
+        "title": "Poster, Register to Vote Now", 
+        "provenance": null, 
+        "participants": [
+            {
+                "person_name": "Jeff Barnes", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "American", 
+                "role_display_name": "Designed by", 
+                "person_id": "18535487", 
+                "person_url": "https://collection.cooperhewitt.org/people/18535487/"
+            }
+        ], 
+        "decade": null, 
+        "label_text": null, 
+        "woe:country": "23424977", 
+        "dimensions_raw": null, 
+        "department_id": "35347493", 
+        "title_raw": "Register to Vote Now", 
+        "justification": null, 
+        "media_id": "35371135", 
+        "description": null, 
+        "creditline": "Gift of Various Donors", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": null, 
+        "url": "https://collection.cooperhewitt.org/objects/18618205/", 
+        "type": "poster", 
+        "accession_number": "1981-29-62", 
+        "year_end": null, 
+        "signed": null, 
+        "inscribed": null, 
+        "period_id": null, 
+        "year_acquired": "1981", 
+        "woe:country_id": "23424977"
+    }
+}

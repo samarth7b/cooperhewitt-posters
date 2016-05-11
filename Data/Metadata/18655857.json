@@ -1,0 +1,120 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": 1996, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": "offset lithograph on paper", 
+        "tms:id": "202910", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/87895_cb732db216f39c9b_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "87895"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/87895_cb732db216f39c9b_b.jpg", 
+                    "width": 670, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "87895"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/87895_cb732db216f39c9b_d.gif", 
+                    "width": 209, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "87895"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/87895_cb732db216f39c9b_z.jpg", 
+                    "width": 419, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "87895"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/87895_cb732db216f39c9b_n.jpg", 
+                    "width": 209, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "87895"
+                }
+            }
+        ], 
+        "id": "18655857", 
+        "has_no_known_copyright": null, 
+        "woe:country_name": "United States", 
+        "dimensions": "H x W: 119.2 × 75.9 cm (46 15/16 × 29 7/8 in.)", 
+        "title": "Poster, Nude Nude Totally Nude, 1996", 
+        "provenance": "Pentagram; 1997: acquired by Museum", 
+        "participants": [
+            {
+                "person_name": "Paula Scher", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "American, b. 1948", 
+                "role_display_name": "Designed by", 
+                "person_id": "18043689", 
+                "person_url": "https://collection.cooperhewitt.org/people/18043689/"
+            }, 
+            {
+                "person_name": "Pentagram", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35351535/", 
+                "role_id": "35351535", 
+                "role_name": "Donor", 
+                "person_date": "1960s to the present", 
+                "role_display_name": "Donated by", 
+                "person_id": "18042323", 
+                "person_url": "https://collection.cooperhewitt.org/people/18042323/"
+            }, 
+            {
+                "person_name": "New York Public Theater", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236667/", 
+                "role_id": "35236667", 
+                "role_name": "Client", 
+                "person_date": "New York, New York, USA", 
+                "role_display_name": "Client:", 
+                "person_id": "68774501", 
+                "person_url": "https://collection.cooperhewitt.org/people/68774501/"
+            }
+        ], 
+        "decade": "1990", 
+        "label_text": "In this theater poster, two startling eyes fill the width of the page. Printed in red, the eyes force the rest of the face to recede into the background. Scher uses scale and color to amplify the poster’s arresting gaze.", 
+        "woe:country": "23424977", 
+        "dimensions_raw": {
+            "width": [
+                "76.00", 
+                "centimeters"
+            ], 
+            "height": [
+                "116.80", 
+                "centimeters"
+            ]
+        }, 
+        "department_id": "35347493", 
+        "title_raw": "Nude Nude Totally Nude", 
+        "justification": null, 
+        "media_id": "35399021", 
+        "description": "Cropped photo of the wide-eyed face of a woman; her eyes brim red and her lips, hair and sunglasses are yellow. Text on her cheek: NUDE / NUDE / TOTALLY / NUDE. Upper right, in blue: PUBLIC THEATER [logo]. Lower margin, in blue: WRITTEN AND PERFORMED BY ANDREA MARTIN . DIRECTED BY WALTER BOBBIE.", 
+        "creditline": "Gift of Pentagram", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "1996", 
+        "url": "https://collection.cooperhewitt.org/objects/18655857/", 
+        "type": "poster", 
+        "accession_number": "1997-99-3", 
+        "year_end": 1996, 
+        "signed": null, 
+        "inscribed": null, 
+        "period_id": null, 
+        "year_acquired": "1997", 
+        "woe:country_id": "23424977"
+    }
+}

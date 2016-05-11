@@ -1,0 +1,91 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": 1981, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": null, 
+        "tms:id": "177494", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/269300_f1c23ce346eb9b62_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "269300"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/269300_f1c23ce346eb9b62_b.jpg", 
+                    "width": 786, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "269300"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/269300_f1c23ce346eb9b62_d.gif", 
+                    "width": 246, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "269300"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/269300_f1c23ce346eb9b62_z.jpg", 
+                    "width": 491, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "269300"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/269300_f1c23ce346eb9b62_n.jpg", 
+                    "width": 246, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "269300"
+                }
+            }
+        ], 
+        "id": "18617921", 
+        "has_no_known_copyright": null, 
+        "woe:country_name": "United States", 
+        "dimensions": null, 
+        "title": "Poster, Progressive Architecture, 1981", 
+        "provenance": "1981: acquired by Museum", 
+        "participants": [
+            {
+                "person_name": "Elizabeth and R. Rush", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "", 
+                "role_display_name": "Designed by", 
+                "person_id": "18535807", 
+                "person_url": "https://collection.cooperhewitt.org/people/18535807/"
+            }
+        ], 
+        "decade": "1980", 
+        "label_text": null, 
+        "woe:country": "23424977", 
+        "dimensions_raw": null, 
+        "department_id": "35347493", 
+        "title_raw": "Progressive Architecture", 
+        "justification": null, 
+        "media_id": "35371135", 
+        "description": null, 
+        "creditline": "Gift of Various Donors", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "1981", 
+        "url": "https://collection.cooperhewitt.org/objects/18617921/", 
+        "type": "poster", 
+        "accession_number": "1981-29-398", 
+        "year_end": 1981, 
+        "signed": null, 
+        "inscribed": null, 
+        "period_id": null, 
+        "year_acquired": "1981", 
+        "woe:country_id": "23424977"
+    }
+}

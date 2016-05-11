@@ -1,0 +1,194 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": 1975, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": "offset lithograph on paper", 
+        "tms:id": "223250", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/51508_f854a8c197270d71_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "51508"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/51508_f854a8c197270d71_b.jpg", 
+                    "width": 785, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "51508"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/51508_f854a8c197270d71_d.gif", 
+                    "width": 245, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "51508"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/51508_f854a8c197270d71_z.jpg", 
+                    "width": 490, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "51508"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/51508_f854a8c197270d71_n.jpg", 
+                    "width": 245, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "51508"
+                }
+            }, 
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/208775_a79f0869d5997e05_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "0", 
+                    "image_id": "208775"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/208775_a79f0869d5997e05_b.jpg", 
+                    "width": 797, 
+                    "height": 1024, 
+                    "is_primary": "0", 
+                    "image_id": "208775"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/208775_a79f0869d5997e05_d.gif", 
+                    "width": 249, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "208775"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/208775_a79f0869d5997e05_z.jpg", 
+                    "width": 498, 
+                    "height": 640, 
+                    "is_primary": "0", 
+                    "image_id": "208775"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/208775_a79f0869d5997e05_n.jpg", 
+                    "width": 249, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "208775"
+                }
+            }, 
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/15249_d7402ae04329d43c_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "0", 
+                    "image_id": "15249"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/15249_d7402ae04329d43c_b.jpg", 
+                    "width": 780, 
+                    "height": 1024, 
+                    "is_primary": "0", 
+                    "image_id": "15249"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/15249_d7402ae04329d43c_d.gif", 
+                    "width": 244, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "15249"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/15249_d7402ae04329d43c_z.jpg", 
+                    "width": 487, 
+                    "height": 640, 
+                    "is_primary": "0", 
+                    "image_id": "15249"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/15249_d7402ae04329d43c_n.jpg", 
+                    "width": 244, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "15249"
+                }
+            }
+        ], 
+        "id": "18695367", 
+        "has_no_known_copyright": null, 
+        "woe:country_name": "United States", 
+        "dimensions": "32.9 x 25.2 cm (12 15/16 x 9 15/16 in. )", 
+        "title": "Poster, He Who Stops Being Better Stops Being Good, IBM Excellence Plus, ca. 1985", 
+        "provenance": "Marion S. Rand; 2002: acquired by Museum", 
+        "participants": [
+            {
+                "person_name": "Karin Zonis", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35352245/", 
+                "role_id": "35352245", 
+                "role_name": "Cataloguer", 
+                "person_date": "", 
+                "role_display_name": "Catalogued by", 
+                "person_id": "51676457", 
+                "person_url": "https://collection.cooperhewitt.org/people/51676457/"
+            }, 
+            {
+                "person_name": "Paul Rand", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236763/", 
+                "role_id": "35236763", 
+                "role_name": "Graphic Designer", 
+                "person_date": "American, 1914–1996", 
+                "role_display_name": "Graphic design by", 
+                "person_id": "18042341", 
+                "person_url": "https://collection.cooperhewitt.org/people/18042341/"
+            }, 
+            {
+                "person_name": "Marion S. Rand", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35351535/", 
+                "role_id": "35351535", 
+                "role_name": "Donor", 
+                "person_date": "", 
+                "role_display_name": "Donated by", 
+                "person_id": "18538789", 
+                "person_url": "https://collection.cooperhewitt.org/people/18538789/"
+            }
+        ], 
+        "decade": "1970", 
+        "label_text": null, 
+        "woe:country": "23424977", 
+        "dimensions_raw": {
+            "width": [
+                "25.20", 
+                "centimeters"
+            ], 
+            "height": [
+                "32.90", 
+                "centimeters"
+            ]
+        }, 
+        "department_id": "35347493", 
+        "title_raw": "He Who Stops Being Better Stops Being Good, IBM Excellence Plus", 
+        "justification": null, 
+        "media_id": "35399021", 
+        "description": "Two circles--red above and black below--on gray ground. Imprinted in staggered letters, to the left of the circles: He / who / stops / being / better / stops / being / good / Oliver Cromwell (in a smaller font).", 
+        "creditline": "Gift of Marion S. Rand", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "ca. 1985", 
+        "url": "https://collection.cooperhewitt.org/objects/18695367/", 
+        "type": "poster", 
+        "accession_number": "2002-11-32", 
+        "year_end": 1995, 
+        "signed": "Signed [imprinted] in black, upper right corner: Design: Paul Rand", 
+        "inscribed": "Imprinted in black, along lower right edge, verticle (facing in): IBM Excellence Plus", 
+        "period_id": null, 
+        "year_acquired": "2002", 
+        "woe:country_id": "23424977"
+    }
+}

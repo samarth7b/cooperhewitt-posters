@@ -1,0 +1,157 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": 2002, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": "photo-offset lithography on paper", 
+        "tms:id": "242019", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/65650_2575738777e831a6_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "65650"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/65650_2575738777e831a6_b.jpg", 
+                    "width": 723, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "65650"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/65650_2575738777e831a6_d.gif", 
+                    "width": 226, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "65650"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/65650_2575738777e831a6_z.jpg", 
+                    "width": 452, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "65650"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/65650_2575738777e831a6_n.jpg", 
+                    "width": 226, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "65650"
+                }
+            }, 
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/254994_70e4c19748983dd8_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "0", 
+                    "image_id": "254994"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/254994_70e4c19748983dd8_b.jpg", 
+                    "width": 728, 
+                    "height": 1024, 
+                    "is_primary": "0", 
+                    "image_id": "254994"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/254994_70e4c19748983dd8_d.gif", 
+                    "width": 228, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "254994"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/254994_70e4c19748983dd8_z.jpg", 
+                    "width": 455, 
+                    "height": 640, 
+                    "is_primary": "0", 
+                    "image_id": "254994"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/254994_70e4c19748983dd8_n.jpg", 
+                    "width": 228, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "254994"
+                }
+            }
+        ], 
+        "id": "18731839", 
+        "has_no_known_copyright": null, 
+        "woe:country_name": "Germany", 
+        "dimensions": "119 x 83.5 cm (46 7/8 x 32 7/8 in.)", 
+        "title": "Poster, Bayerische Staatsoper: il Ritorno d'Ulisse in patria, 2002", 
+        "provenance": "Sara and Marc Benda; 2009: acquired by Museum", 
+        "participants": [
+            {
+                "person_name": "Sara Benda", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35351535/", 
+                "role_id": "35351535", 
+                "role_name": "Donor", 
+                "person_date": "", 
+                "role_display_name": "Donated by", 
+                "person_id": "18063205", 
+                "person_url": "https://collection.cooperhewitt.org/people/18063205/"
+            }, 
+            {
+                "person_name": "Pierre Mendel Design Studio", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "", 
+                "role_display_name": "Designed by", 
+                "person_id": "18062795", 
+                "person_url": "https://collection.cooperhewitt.org/people/18062795/"
+            }, 
+            {
+                "person_name": "Marc Benda", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35351535/", 
+                "role_id": "35351535", 
+                "role_name": "Donor", 
+                "person_date": "", 
+                "role_display_name": "Donated by", 
+                "person_id": "18062523", 
+                "person_url": "https://collection.cooperhewitt.org/people/18062523/"
+            }
+        ], 
+        "decade": "2000", 
+        "label_text": null, 
+        "woe:country": "23424829", 
+        "dimensions_raw": {
+            "width": [
+                "83.50", 
+                "centimeters"
+            ], 
+            "height": [
+                "119.00", 
+                "centimeters"
+            ]
+        }, 
+        "department_id": "35347493", 
+        "title_raw": "Bayerische Staatsoper: il Ritorno d'Ulisse in patria", 
+        "justification": null, 
+        "media_id": "35433389", 
+        "description": "Poster with blue to white to blue gradient (from top to bottom). In center, small black silhouetted hill (?). Text down right side in black reads \"Bayerische Staatsoper/Il ritorno d'Ulisse in Patria\" with additional date and time information below.", 
+        "creditline": "Gift of Sara and Marc Benda", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "2002", 
+        "url": "https://collection.cooperhewitt.org/objects/18731839/", 
+        "type": "poster", 
+        "accession_number": "2009-20-36", 
+        "year_end": 2002, 
+        "signed": null, 
+        "inscribed": null, 
+        "period_id": null, 
+        "year_acquired": "2009", 
+        "woe:country_id": "23424829"
+    }
+}

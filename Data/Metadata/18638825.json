@@ -1,0 +1,201 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": "You don’t need to read Russian to understand this Soviet poster. In unmistakable visual language, designer Sergei Ivanov conveys the importance of literacy—a crucial issue in the early years of the Soviet Union, when nearly seventy-five percent of the population couldn’t read. In the previous centuries of Tsarist rule, education was a privilege of the elite. Like contemporary viewers unversed in Cyrillic, the peasants and workers who first viewed this poster relied on visual clues to understand its meaning. In the poster, two huge hands hold an oversized book, from which an orator reads aloud. In the crowd below, those who can’t read are dependent upon this orator for information and understanding. Soviet leaders recognized that only literate citizens could engage in political life. But even after instituting educational reforms, the government retained its proverbial orator. State publishers distributed books glorifying Soviet history and doctrine, which discouraged critical analysis. Their ideal reader was a passive recipient of propaganda, and as the Soviet readership grew, so too did censorship initiatives.", 
+        "year_start": 1920, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": "two color lithograph on newsprint", 
+        "tms:id": "194273", 
+        "images": [
+            {
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/51424_5f2979c4f7d99c70_b.jpg", 
+                    "width": 755, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "51424"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/51424_5f2979c4f7d99c70_d.gif", 
+                    "width": 236, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "51424"
+                }, 
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/51424_5f2979c4f7d99c70_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "51424"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/51424_5f2979c4f7d99c70_n.jpg", 
+                    "width": 236, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "51424"
+                }, 
+                "x": {
+                    "url": "https://images.collection.cooperhewitt.org/51424_8fe51d3e0d9ecd0f_x.jpg", 
+                    "width": 3020, 
+                    "height": 4096, 
+                    "is_primary": "1", 
+                    "image_id": "51424"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/51424_5f2979c4f7d99c70_z.jpg", 
+                    "width": 472, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "51424"
+                }
+            }, 
+            {
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/267190_dc87c41799acdac7_b.jpg", 
+                    "width": 770, 
+                    "height": 1024, 
+                    "is_primary": "0", 
+                    "image_id": "267190"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/267190_dc87c41799acdac7_d.gif", 
+                    "width": 241, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "267190"
+                }, 
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/267190_dc87c41799acdac7_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "0", 
+                    "image_id": "267190"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/267190_dc87c41799acdac7_n.jpg", 
+                    "width": 241, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "267190"
+                }, 
+                "x": {
+                    "url": "https://images.collection.cooperhewitt.org/267190_79468ceedb84ce3c_x.jpg", 
+                    "width": 3078, 
+                    "height": 4096, 
+                    "is_primary": "0", 
+                    "image_id": "267190"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/267190_dc87c41799acdac7_z.jpg", 
+                    "width": 481, 
+                    "height": 640, 
+                    "is_primary": "0", 
+                    "image_id": "267190"
+                }
+            }
+        ], 
+        "id": "18638825", 
+        "has_no_known_copyright": "1", 
+        "woe:country_name": "Russia", 
+        "dimensions": "63.3 x 46.9 cm (24 15/16 x 18 7/16 in.)", 
+        "title": "Poster, A Book Is Nothing But a Person Talking Publicly, 1920", 
+        "provenance": null, 
+        "participants": [
+            {
+                "person_name": "Ms. Svetlana Aronov", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35352249/", 
+                "role_id": "35352249", 
+                "role_name": "Vendor", 
+                "person_date": "", 
+                "role_display_name": "Purchased from", 
+                "person_id": "18041165", 
+                "person_url": "https://collection.cooperhewitt.org/people/18041165/"
+            }, 
+            {
+                "person_name": "Sergei I. Ivanov", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "1885–1942", 
+                "role_display_name": "Designed by", 
+                "person_id": "18043063", 
+                "person_url": "https://collection.cooperhewitt.org/people/18043063/"
+            }, 
+            {
+                "person_name": "Karin Zonis", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35352245/", 
+                "role_id": "35352245", 
+                "role_name": "Cataloguer", 
+                "person_date": "", 
+                "role_display_name": "Catalogued by", 
+                "person_id": "51676457", 
+                "person_url": "https://collection.cooperhewitt.org/people/51676457/"
+            }, 
+            {
+                "person_name": "Megan L. Smith", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35352245/", 
+                "role_id": "35352245", 
+                "role_name": "Cataloguer", 
+                "person_date": "", 
+                "role_display_name": "Catalogued by", 
+                "person_id": "18047443", 
+                "person_url": "https://collection.cooperhewitt.org/people/18047443/"
+            }, 
+            {
+                "person_name": "Marilyn Symmes", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35352245/", 
+                "role_id": "35352245", 
+                "role_name": "Cataloguer", 
+                "person_date": "", 
+                "role_display_name": "Catalogued by", 
+                "person_id": "18047461", 
+                "person_url": "https://collection.cooperhewitt.org/people/18047461/"
+            }, 
+            {
+                "person_name": "MB", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35352245/", 
+                "role_id": "35352245", 
+                "role_name": "Cataloguer", 
+                "person_date": "", 
+                "role_display_name": "Catalogued by", 
+                "person_id": "18048525", 
+                "person_url": "https://collection.cooperhewitt.org/people/18048525/"
+            }
+        ], 
+        "decade": "1920", 
+        "label_text": null, 
+        "woe:country": "23424936", 
+        "dimensions_raw": {
+            "width": [
+                "46.90", 
+                "centimeters"
+            ], 
+            "height": [
+                "63.30", 
+                "centimeters"
+            ]
+        }, 
+        "department_id": "35347493", 
+        "title_raw": "A Book Is Nothing But a Person Talking Publicly", 
+        "justification": null, 
+        "media_id": "35519935", 
+        "description": "Poster depicting a town view with buildings and scaffolding in the background under large clouds. Large arms coming from above hold a book open to an audience of men (workers) holding signs. All look to a man, standing on a tall platform, pointing to the book.", 
+        "creditline": "Museum purchase through gift of Mrs. John Innes Kane", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "1920", 
+        "url": "https://collection.cooperhewitt.org/objects/18638825/", 
+        "type": "poster", 
+        "accession_number": "1992-123-2", 
+        "year_end": 1920, 
+        "signed": "Signed [imprinted] in white, lower right: S.I. [Cyrillic] 20.", 
+        "inscribed": "Imprinted in black ink, in Russian, publisher information, caption within image", 
+        "period_id": null, 
+        "year_acquired": "1992", 
+        "woe:country_id": "23424936"
+    }
+}

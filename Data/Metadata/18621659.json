@@ -1,0 +1,91 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": null, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": null, 
+        "tms:id": "185655", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/266799_1afeb4cdabc35aca_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "266799"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/266799_1afeb4cdabc35aca_b.jpg", 
+                    "width": 576, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "266799"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/266799_1afeb4cdabc35aca_d.gif", 
+                    "width": 180, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "266799"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/266799_1afeb4cdabc35aca_z.jpg", 
+                    "width": 360, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "266799"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/266799_1afeb4cdabc35aca_n.jpg", 
+                    "width": 180, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "266799"
+                }
+            }
+        ], 
+        "id": "18621659", 
+        "has_no_known_copyright": null, 
+        "woe:country_name": "United States", 
+        "dimensions": null, 
+        "title": "Poster (USA)", 
+        "provenance": null, 
+        "participants": [
+            {
+                "person_name": "Tyler, Myron and Smith", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "", 
+                "role_display_name": "Designed by", 
+                "person_id": "18535747", 
+                "person_url": "https://collection.cooperhewitt.org/people/18535747/"
+            }
+        ], 
+        "decade": null, 
+        "label_text": null, 
+        "woe:country": "23424977", 
+        "dimensions_raw": null, 
+        "department_id": "35347493", 
+        "title_raw": null, 
+        "justification": null, 
+        "media_id": "35371135", 
+        "description": null, 
+        "creditline": null, 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": null, 
+        "url": "https://collection.cooperhewitt.org/objects/18621659/", 
+        "type": "poster", 
+        "accession_number": "1986-71-4", 
+        "year_end": null, 
+        "signed": null, 
+        "inscribed": null, 
+        "period_id": null, 
+        "year_acquired": "1986", 
+        "woe:country_id": "23424977"
+    }
+}

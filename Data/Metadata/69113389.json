@@ -1,0 +1,79 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": 1931, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": "photo collage with vintage gelatin silver prints, ink, gouache, intaglio and letterpress cuttings", 
+        "tms:id": "280204", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/107563_a1e6775ee1621b05_sq.jpg", 
+                    "width": 193, 
+                    "height": 275, 
+                    "is_primary": "1", 
+                    "image_id": "107563"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/107563_a1e6775ee1621b05_b.jpg", 
+                    "width": 193, 
+                    "height": 275, 
+                    "is_primary": "1", 
+                    "image_id": "107563"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/107563_a1e6775ee1621b05_d.gif", 
+                    "width": 193, 
+                    "height": 275, 
+                    "is_primary": "1", 
+                    "image_id": "107563"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/107563_a1e6775ee1621b05_z.jpg", 
+                    "width": 193, 
+                    "height": 275, 
+                    "is_primary": "1", 
+                    "image_id": "107563"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/107563_a1e6775ee1621b05_n.jpg", 
+                    "width": 193, 
+                    "height": 275, 
+                    "is_primary": "1", 
+                    "image_id": "107563"
+                }
+            }
+        ], 
+        "id": "69113389", 
+        "has_no_known_copyright": null, 
+        "dimensions": "24.1 × 16.5 cm (9 1/2 × 6 1/2 in.)", 
+        "title": "Poster, Real’nost’ nashei programmy. Eto zhivye liudu, eto my s vami [The Reality of Our Program Is Living People, It Is You and I] [Reality group], 1931", 
+        "provenance": null, 
+        "participants": [], 
+        "decade": "1930", 
+        "label_text": null, 
+        "woe:country": null, 
+        "dimensions_raw": null, 
+        "department_id": "404529577", 
+        "title_raw": "Real’nost’ nashei programmy. Eto zhivye liudu, eto my s vami [The Reality of Our Program Is Living People, It Is You and I] [Reality group]", 
+        "justification": null, 
+        "media_id": "69123507", 
+        "description": null, 
+        "creditline": "Collection of Merrill C. Berman", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 1, 
+        "date": "1931", 
+        "url": "https://collection.cooperhewitt.org/objects/69113389/", 
+        "type": "poster", 
+        "accession_number": "1.2015.5", 
+        "year_end": 1931, 
+        "signed": null, 
+        "inscribed": null, 
+        "period_id": null, 
+        "year_acquired": null, 
+        "woe:country_id": null
+    }
+}

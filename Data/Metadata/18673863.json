@@ -1,0 +1,109 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": 1960, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": "screenprint on cream wove paper", 
+        "tms:id": "212374", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/268514_c7585a7582bfe95b_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "268514"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/268514_c7585a7582bfe95b_b.jpg", 
+                    "width": 1024, 
+                    "height": 787, 
+                    "is_primary": "1", 
+                    "image_id": "268514"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/268514_c7585a7582bfe95b_d.gif", 
+                    "width": 320, 
+                    "height": 246, 
+                    "is_primary": "1", 
+                    "image_id": "268514"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/268514_c7585a7582bfe95b_z.jpg", 
+                    "width": 640, 
+                    "height": 492, 
+                    "is_primary": "1", 
+                    "image_id": "268514"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/268514_c7585a7582bfe95b_n.jpg", 
+                    "width": 320, 
+                    "height": 246, 
+                    "is_primary": "1", 
+                    "image_id": "268514"
+                }
+            }
+        ], 
+        "id": "18673863", 
+        "has_no_known_copyright": null, 
+        "dimensions": "50.8 x 66.0 cm (20 x 26 in. )", 
+        "title": "Poster, The Yale Symphony Orchestra, Mauceri Janacek, Dvorak, n.d.", 
+        "provenance": "From the collection of Dan Friedman", 
+        "participants": [
+            {
+                "person_name": "Unknown", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "American", 
+                "role_display_name": "Designed by", 
+                "person_id": "18052047", 
+                "person_url": "https://collection.cooperhewitt.org/people/18052047/"
+            }, 
+            {
+                "person_name": "Ken Friedman", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35351535/", 
+                "role_id": "35351535", 
+                "role_name": "Donor", 
+                "person_date": "", 
+                "role_display_name": "Donated by", 
+                "person_id": "18049807", 
+                "person_url": "https://collection.cooperhewitt.org/people/18049807/"
+            }
+        ], 
+        "decade": "1960", 
+        "label_text": null, 
+        "woe:country": null, 
+        "dimensions_raw": {
+            "width": [
+                "66.00", 
+                "centimeters"
+            ], 
+            "height": [
+                "50.80", 
+                "centimeters"
+            ]
+        }, 
+        "department_id": "35347493", 
+        "title_raw": "The Yale Symphony Orchestra, Mauceri Janacek, Dvorak", 
+        "justification": null, 
+        "media_id": "35428821", 
+        "description": "Poster design consisting of juxtaposition of green and red typography. Across top \"Mauceri\" in thin green text. Below in heavier text Janácek and in large heavy text at bottom, Dvorak. Thin red letters at left above the J \"The Yale Symphony/ Orchestra\" and at right in red \"Saturday April 14 / Woolsey Hall at 8:30 / Admission is free\". The words \"Sinfoniette\" and \"Symphony No.*\" as well as all diacritical marks are also in red.", 
+        "creditline": "Gift of Ken Friedman", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "n.d.", 
+        "url": "https://collection.cooperhewitt.org/objects/18673863/", 
+        "type": "poster", 
+        "accession_number": "1997-19-421", 
+        "year_end": 1997, 
+        "signed": null, 
+        "inscribed": "none", 
+        "period_id": null, 
+        "year_acquired": "1997", 
+        "woe:country_id": null
+    }
+}

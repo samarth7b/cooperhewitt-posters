@@ -1,0 +1,204 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": 1982, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": "lithograph on paper", 
+        "tms:id": "197809", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/101337_bfc5e9c38c2a348e_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "101337"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/101337_bfc5e9c38c2a348e_b.jpg", 
+                    "width": 746, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "101337"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/101337_bfc5e9c38c2a348e_d.gif", 
+                    "width": 233, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "101337"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/101337_bfc5e9c38c2a348e_z.jpg", 
+                    "width": 466, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "101337"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/101337_bfc5e9c38c2a348e_n.jpg", 
+                    "width": 233, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "101337"
+                }
+            }, 
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/202452_5bbd1d4ad2e3fa89_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "0", 
+                    "image_id": "202452"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/202452_5bbd1d4ad2e3fa89_b.jpg", 
+                    "width": 750, 
+                    "height": 1024, 
+                    "is_primary": "0", 
+                    "image_id": "202452"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/202452_5bbd1d4ad2e3fa89_d.gif", 
+                    "width": 234, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "202452"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/202452_5bbd1d4ad2e3fa89_z.jpg", 
+                    "width": 468, 
+                    "height": 640, 
+                    "is_primary": "0", 
+                    "image_id": "202452"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/202452_5bbd1d4ad2e3fa89_n.jpg", 
+                    "width": 234, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "202452"
+                }
+            }, 
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/95215_4523f4c516c55231_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "0", 
+                    "image_id": "95215"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/95215_4523f4c516c55231_b.jpg", 
+                    "width": 752, 
+                    "height": 1024, 
+                    "is_primary": "0", 
+                    "image_id": "95215"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/95215_4523f4c516c55231_d.gif", 
+                    "width": 235, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "95215"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/95215_4523f4c516c55231_z.jpg", 
+                    "width": 470, 
+                    "height": 640, 
+                    "is_primary": "0", 
+                    "image_id": "95215"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/95215_4523f4c516c55231_n.jpg", 
+                    "width": 235, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "95215"
+                }
+            }
+        ], 
+        "id": "18645811", 
+        "has_no_known_copyright": null, 
+        "woe:country_name": "United States", 
+        "dimensions": "61.3 x 44.5 cm (24 1/8 x 17 1/2 in.)", 
+        "title": "Poster, March for Peace and Justice, 1982", 
+        "provenance": "Steven Heller and Karrie Jacobs; 1993: acquired by Museum", 
+        "participants": [
+            {
+                "person_name": "Steven Heller", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35351535/", 
+                "role_id": "35351535", 
+                "role_name": "Donor", 
+                "person_date": "American, b. 1950", 
+                "role_display_name": "Donated by", 
+                "person_id": "18041397", 
+                "person_url": "https://collection.cooperhewitt.org/people/18041397/"
+            }, 
+            {
+                "person_name": "Karrie Jacobs", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35351535/", 
+                "role_id": "35351535", 
+                "role_name": "Donor", 
+                "person_date": "", 
+                "role_display_name": "Donated by", 
+                "person_id": "18056647", 
+                "person_url": "https://collection.cooperhewitt.org/people/18056647/"
+            }, 
+            {
+                "person_name": "LSA", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35352245/", 
+                "role_id": "35352245", 
+                "role_name": "Cataloguer", 
+                "person_date": "", 
+                "role_display_name": "Catalogued by", 
+                "person_id": "18048737", 
+                "person_url": "https://collection.cooperhewitt.org/people/18048737/"
+            }, 
+            {
+                "person_name": "Seymour Chwast", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "American, b. 1931", 
+                "role_display_name": "Designed by", 
+                "person_id": "18042087", 
+                "person_url": "https://collection.cooperhewitt.org/people/18042087/"
+            }
+        ], 
+        "decade": "1980", 
+        "label_text": null, 
+        "woe:country": "23424977", 
+        "dimensions_raw": {
+            "width": [
+                "44.50", 
+                "centimeters"
+            ], 
+            "height": [
+                "61.30", 
+                "centimeters"
+            ]
+        }, 
+        "department_id": "35347493", 
+        "title_raw": "March for Peace and Justice", 
+        "justification": null, 
+        "media_id": "35419317", 
+        "description": "Print of dove with people's legs; for rally on nuclear disarmament. Title in different colored letters: MARCH/ JUNE 12 New York/ FOR PEACE & JUSTICE. Text: TO SUPPORT / THE UNITED NATIONS / SPECIAL SESSION ON / DISARMAMENT AND / TO CALL / FOR A FREEZE AND / REDUCTION OF ALL / NUCLEAR WEAPONS / AND A TRANSFER OF / MILITARY BUDGETS / TO HUMAN NEEDS./ JUNE 12 / RALLY COMMITTEE / 853 BROADWAY / ROOM 2109 / NEW YORK, N.Y. 10003 / (212) 460- 8980", 
+        "creditline": "Gift of Steven Heller and Karrie Jacobs", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "1982", 
+        "url": "https://collection.cooperhewitt.org/objects/18645811/", 
+        "type": "poster", 
+        "accession_number": "1993-53-84", 
+        "year_end": 1982, 
+        "signed": null, 
+        "inscribed": "Imprinted in black ink, lower right: ©1982 Seymour Chwast", 
+        "period_id": null, 
+        "year_acquired": "1993", 
+        "woe:country_id": "23424977"
+    }
+}

@@ -1,0 +1,138 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": 1980, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": "lithograph on paper", 
+        "tms:id": "177362", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/80930_e03eaccd87087f9d_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "80930"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/80930_e03eaccd87087f9d_b.jpg", 
+                    "width": 535, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "80930"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/80930_e03eaccd87087f9d_d.gif", 
+                    "width": 167, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "80930"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/80930_e03eaccd87087f9d_z.jpg", 
+                    "width": 334, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "80930"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/80930_e03eaccd87087f9d_n.jpg", 
+                    "width": 167, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "80930"
+                }
+            }, 
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/267705_e620953eedddedf3_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "0", 
+                    "image_id": "267705"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/267705_e620953eedddedf3_b.jpg", 
+                    "width": 748, 
+                    "height": 1024, 
+                    "is_primary": "0", 
+                    "image_id": "267705"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/267705_e620953eedddedf3_d.gif", 
+                    "width": 234, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "267705"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/267705_e620953eedddedf3_z.jpg", 
+                    "width": 467, 
+                    "height": 640, 
+                    "is_primary": "0", 
+                    "image_id": "267705"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/267705_e620953eedddedf3_n.jpg", 
+                    "width": 234, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "267705"
+                }
+            }
+        ], 
+        "id": "18617659", 
+        "has_no_known_copyright": null, 
+        "woe:country_name": "United States", 
+        "dimensions": null, 
+        "title": "Poster (USA), 1980", 
+        "provenance": "1981: acquired by Museum", 
+        "participants": [
+            {
+                "person_name": "Riverside Press", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236673/", 
+                "role_id": "35236673", 
+                "role_name": "Printer", 
+                "person_date": "", 
+                "role_display_name": "Printed by", 
+                "person_id": "51865247", 
+                "person_url": "https://collection.cooperhewitt.org/people/51865247/"
+            }, 
+            {
+                "person_name": "Woody Pirtle", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "b. 1945", 
+                "role_display_name": "Designed by", 
+                "person_id": "18042325", 
+                "person_url": "https://collection.cooperhewitt.org/people/18042325/"
+            }
+        ], 
+        "decade": "1980", 
+        "label_text": null, 
+        "woe:country": "23424977", 
+        "dimensions_raw": null, 
+        "department_id": "35347493", 
+        "title_raw": null, 
+        "justification": null, 
+        "media_id": "35419317", 
+        "description": "Poster depicts night seen, dark blue sky with moon and stars positioned to look like portrait of William Shakespeare, below greenery and flower. Lower area, yellow and purple text: SHAKESPEARE / FESTIVAL OF DALLAS/80 / IN REPERTORY JULY 11-27 / THE TAMING OF THE SHREW / THE MERCHANT OF VENICE; BAND SHELL FAIR PARK / ADMISSION FREE / CATES OPEN 7:15 P.M. / CURTAIN 8:15 P.M. / NO PERFORMANCE MONDAYS. Lower margin, in script: Shakespearean Nights.", 
+        "creditline": "Gift of Various Donors", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "1980", 
+        "url": "https://collection.cooperhewitt.org/objects/18617659/", 
+        "type": "poster", 
+        "accession_number": "1981-29-28", 
+        "year_end": 1980, 
+        "signed": null, 
+        "inscribed": "Printed in purple ink, lower margin: POSTER CONCEPT AND DESIGN: WOODY PIRTLE, INC./PRINTING: RIVERSIDE PRESS/PAPER: OLMSTED-KIRK PAPER CO./TYPOGRAPHY: SOUTHWESTER TYPOGRAPHICS INC.", 
+        "period_id": null, 
+        "year_acquired": "1981", 
+        "woe:country_id": "23424977"
+    }
+}

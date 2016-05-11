@@ -1,0 +1,88 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": null, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": null, 
+        "tms:id": "163482", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/201347_c2e61af95d90ed25_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "201347"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/201347_c2e61af95d90ed25_b.jpg", 
+                    "width": 778, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "201347"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/201347_c2e61af95d90ed25_d.gif", 
+                    "width": 243, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "201347"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/201347_c2e61af95d90ed25_z.jpg", 
+                    "width": 486, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "201347"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/201347_c2e61af95d90ed25_n.jpg", 
+                    "width": 243, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "201347"
+                }
+            }
+        ], 
+        "id": "18505157", 
+        "has_no_known_copyright": null, 
+        "dimensions": "Overall: 61 x 45.8 cm (24 x 18 1/16 in.)", 
+        "title": "Poster, Sun Day in New York", 
+        "provenance": "1980: acquired by Museum", 
+        "participants": [], 
+        "decade": null, 
+        "label_text": null, 
+        "woe:country": null, 
+        "dimensions_raw": {
+            "width": [
+                "45.80", 
+                "centimeters"
+            ], 
+            "height": [
+                "61.00", 
+                "centimeters"
+            ]
+        }, 
+        "department_id": "35347493", 
+        "title_raw": "Sun Day in New York", 
+        "justification": null, 
+        "media_id": "35371135", 
+        "description": null, 
+        "creditline": "Gift of Unknown Donor", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": null, 
+        "url": "https://collection.cooperhewitt.org/objects/18505157/", 
+        "type": "poster", 
+        "accession_number": "1980-32-1227", 
+        "year_end": null, 
+        "signed": null, 
+        "inscribed": null, 
+        "period_id": null, 
+        "year_acquired": "1980", 
+        "woe:country_id": null
+    }
+}

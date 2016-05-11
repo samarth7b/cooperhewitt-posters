@@ -1,0 +1,110 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": 1992, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": "offset lithograph on paper", 
+        "tms:id": "194484", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/267923_9ea79dfeeca98584_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "267923"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/267923_9ea79dfeeca98584_b.jpg", 
+                    "width": 724, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "267923"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/267923_9ea79dfeeca98584_d.gif", 
+                    "width": 226, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "267923"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/267923_9ea79dfeeca98584_z.jpg", 
+                    "width": 452, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "267923"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/267923_9ea79dfeeca98584_n.jpg", 
+                    "width": 226, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "267923"
+                }
+            }
+        ], 
+        "id": "18639241", 
+        "has_no_known_copyright": null, 
+        "woe:country_name": "Japan", 
+        "dimensions": "103 x 73 cm (40 9/16 x 28 3/4 in.)", 
+        "title": "Poster, Orchestra Festival, 1992", 
+        "provenance": "Shin Matsunaga; 1991: acquired by Museum", 
+        "participants": [
+            {
+                "person_name": "Shin Matsunaga", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35351535/", 
+                "role_id": "35351535", 
+                "role_name": "Donor", 
+                "person_date": "b. 1940", 
+                "role_display_name": "Donated by", 
+                "person_id": "18041215", 
+                "person_url": "https://collection.cooperhewitt.org/people/18041215/"
+            }, 
+            {
+                "person_name": "Shin Matsunaga Design Inc.", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236565/", 
+                "role_id": "35236565", 
+                "role_name": "Artist", 
+                "person_date": "b.  1940", 
+                "role_display_name": "", 
+                "person_id": "18048545", 
+                "person_url": "https://collection.cooperhewitt.org/people/18048545/"
+            }
+        ], 
+        "decade": "1990", 
+        "label_text": null, 
+        "woe:country": "23424856", 
+        "dimensions_raw": {
+            "width": [
+                "73.00", 
+                "centimeters"
+            ], 
+            "height": [
+                "103.00", 
+                "centimeters"
+            ]
+        }, 
+        "department_id": "35347493", 
+        "title_raw": "Orchestra Festival", 
+        "justification": null, 
+        "media_id": "35399021", 
+        "description": "At the top: ORCHESTRA FESTIVAL; at bottom: 8 lines of Japanese writing. Tubes of green, blue and purple on black background.", 
+        "creditline": "Gift of Shin Matsunaga", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "1992", 
+        "url": "https://collection.cooperhewitt.org/objects/18639241/", 
+        "type": "poster", 
+        "accession_number": "1992-144-2", 
+        "year_end": 1992, 
+        "signed": null, 
+        "inscribed": null, 
+        "period_id": null, 
+        "year_acquired": "1992", 
+        "woe:country_id": "23424856"
+    }
+}

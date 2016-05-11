@@ -1,0 +1,193 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": 1983, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": "photo-offset lithograph on paper", 
+        "tms:id": "241994", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/80941_91149fec96c25c33_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "80941"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/80941_91149fec96c25c33_b.jpg", 
+                    "width": 727, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "80941"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/80941_91149fec96c25c33_d.gif", 
+                    "width": 227, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "80941"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/80941_91149fec96c25c33_z.jpg", 
+                    "width": 454, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "80941"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/80941_91149fec96c25c33_n.jpg", 
+                    "width": 227, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "80941"
+                }
+            }, 
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/267789_0504e517d8b98538_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "0", 
+                    "image_id": "267789"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/267789_0504e517d8b98538_b.jpg", 
+                    "width": 738, 
+                    "height": 1024, 
+                    "is_primary": "0", 
+                    "image_id": "267789"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/267789_0504e517d8b98538_d.gif", 
+                    "width": 231, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "267789"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/267789_0504e517d8b98538_z.jpg", 
+                    "width": 461, 
+                    "height": 640, 
+                    "is_primary": "0", 
+                    "image_id": "267789"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/267789_0504e517d8b98538_n.jpg", 
+                    "width": 231, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "267789"
+                }
+            }, 
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/31355_72e521491fad4b5a_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "0", 
+                    "image_id": "31355"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/31355_72e521491fad4b5a_b.jpg", 
+                    "width": 751, 
+                    "height": 1024, 
+                    "is_primary": "0", 
+                    "image_id": "31355"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/31355_72e521491fad4b5a_d.gif", 
+                    "width": 235, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "31355"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/31355_72e521491fad4b5a_z.jpg", 
+                    "width": 469, 
+                    "height": 640, 
+                    "is_primary": "0", 
+                    "image_id": "31355"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/31355_72e521491fad4b5a_n.jpg", 
+                    "width": 235, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "31355"
+                }
+            }
+        ], 
+        "id": "18731793", 
+        "has_no_known_copyright": null, 
+        "dimensions": "102.7 x 72.8 cm (40 7/16 x 28 11/16 in.)", 
+        "title": "Poster, International Design Festival, Osaka, 1983, 1983", 
+        "provenance": "Marc Benda", 
+        "participants": [
+            {
+                "person_name": "Sara Benda", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35351535/", 
+                "role_id": "35351535", 
+                "role_name": "Donor", 
+                "person_date": "", 
+                "role_display_name": "Donated by", 
+                "person_id": "18063205", 
+                "person_url": "https://collection.cooperhewitt.org/people/18063205/"
+            }, 
+            {
+                "person_name": "Yusaku Kamekura", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "Japanese, 1915 - 1997", 
+                "role_display_name": "Designed by", 
+                "person_id": "18535857", 
+                "person_url": "https://collection.cooperhewitt.org/people/18535857/"
+            }, 
+            {
+                "person_name": "Marc Benda", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35351535/", 
+                "role_id": "35351535", 
+                "role_name": "Donor", 
+                "person_date": "", 
+                "role_display_name": "Donated by", 
+                "person_id": "18062523", 
+                "person_url": "https://collection.cooperhewitt.org/people/18062523/"
+            }
+        ], 
+        "decade": "1980", 
+        "label_text": null, 
+        "woe:country": null, 
+        "dimensions_raw": {
+            "width": [
+                "72.80", 
+                "centimeters"
+            ], 
+            "height": [
+                "102.70", 
+                "centimeters"
+            ]
+        }, 
+        "department_id": "35347493", 
+        "title_raw": "International Design Festival, Osaka, 1983", 
+        "justification": null, 
+        "media_id": "35433377", 
+        "description": "Black background. In top, large gold circle with smaller circles at its center. Smaller circles arranged to form a square with four layers in blue, green, purple and red. Japanese text below large gold circle in white, with interspersed English in gold: \"1st INTERNATIONAL/ DESIGN FESTIVAL, OSAKA/ 1983/ INTERNATIONAL DESIGN EXHIBITION 10.22.-11.9. OSAKA-JO-HALL/ OPENING CEREMONY 10.7. EXPO-HALL DESIGN FORUM '83 11.1. MORINOMIYA PIROTI-HALL\"", 
+        "creditline": "Gift of Sara and Marc Benda", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "1983", 
+        "url": "https://collection.cooperhewitt.org/objects/18731793/", 
+        "type": "poster", 
+        "accession_number": "2009-20-16", 
+        "year_end": 1983, 
+        "signed": null, 
+        "inscribed": null, 
+        "period_id": null, 
+        "year_acquired": "2009", 
+        "woe:country_id": null
+    }
+}

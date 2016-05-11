@@ -1,0 +1,147 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": 1968, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": "offset color lithograph on paper", 
+        "tms:id": "177162", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/90082_bdbc69be2e131bf6_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "90082"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/90082_bdbc69be2e131bf6_b.jpg", 
+                    "width": 763, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "90082"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/90082_bdbc69be2e131bf6_d.gif", 
+                    "width": 238, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "90082"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/90082_bdbc69be2e131bf6_z.jpg", 
+                    "width": 477, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "90082"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/90082_bdbc69be2e131bf6_n.jpg", 
+                    "width": 238, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "90082"
+                }
+            }, 
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/221478_e098f881c3249a61_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "0", 
+                    "image_id": "221478"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/221478_e098f881c3249a61_b.jpg", 
+                    "width": 772, 
+                    "height": 1024, 
+                    "is_primary": "0", 
+                    "image_id": "221478"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/221478_e098f881c3249a61_d.gif", 
+                    "width": 241, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "221478"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/221478_e098f881c3249a61_z.jpg", 
+                    "width": 483, 
+                    "height": 640, 
+                    "is_primary": "0", 
+                    "image_id": "221478"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/221478_e098f881c3249a61_n.jpg", 
+                    "width": 241, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "221478"
+                }
+            }
+        ], 
+        "id": "18617259", 
+        "has_no_known_copyright": null, 
+        "woe:country_name": "United States", 
+        "dimensions": "80.2 x 60cm (31 9/16 x 23 5/8in.)", 
+        "title": "Poster, La Virée Superbe, Peugeot, 1968", 
+        "provenance": "1981: acquired by Museum", 
+        "participants": [
+            {
+                "person_name": "AU", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35352245/", 
+                "role_id": "35352245", 
+                "role_name": "Cataloguer", 
+                "person_date": "", 
+                "role_display_name": "Catalogued by", 
+                "person_id": "18048335", 
+                "person_url": "https://collection.cooperhewitt.org/people/18048335/"
+            }, 
+            {
+                "person_name": "Seymour Chwast", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "American, b. 1931", 
+                "role_display_name": "Designed by", 
+                "person_id": "18042087", 
+                "person_url": "https://collection.cooperhewitt.org/people/18042087/"
+            }
+        ], 
+        "decade": "1960", 
+        "label_text": null, 
+        "woe:country": "23424977", 
+        "dimensions_raw": {
+            "width": [
+                "60.00", 
+                "centimeters"
+            ], 
+            "height": [
+                "80.20", 
+                "centimeters"
+            ]
+        }, 
+        "department_id": "35347493", 
+        "title_raw": "La Virée Superbe, Peugeot", 
+        "justification": null, 
+        "media_id": "35519927", 
+        "description": "Man riding a bicycle in yellow shorts and white t-shirt over a river-side park.", 
+        "creditline": "Gift of Various Donors", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "1968", 
+        "url": "https://collection.cooperhewitt.org/objects/18617259/", 
+        "type": "poster", 
+        "accession_number": "1981-29-101", 
+        "year_end": 1968, 
+        "signed": null, 
+        "inscribed": "Imprinted, lower right: DELPIRE ADVICO; lower left: CHWAST", 
+        "period_id": null, 
+        "year_acquired": "1981", 
+        "woe:country_id": "23424977"
+    }
+}

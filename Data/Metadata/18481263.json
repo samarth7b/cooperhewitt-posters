@@ -1,0 +1,137 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": 1969, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": "lithograph on wove paper", 
+        "tms:id": "151485", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/82287_accabcc2cb169485_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "82287"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/82287_accabcc2cb169485_b.jpg", 
+                    "width": 668, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "82287"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/82287_accabcc2cb169485_d.gif", 
+                    "width": 209, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "82287"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/82287_accabcc2cb169485_z.jpg", 
+                    "width": 417, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "82287"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/82287_accabcc2cb169485_n.jpg", 
+                    "width": 209, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "82287"
+                }
+            }, 
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/266957_9161e377e1a763f2_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "0", 
+                    "image_id": "266957"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/266957_9161e377e1a763f2_b.jpg", 
+                    "width": 650, 
+                    "height": 1024, 
+                    "is_primary": "0", 
+                    "image_id": "266957"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/266957_9161e377e1a763f2_d.gif", 
+                    "width": 203, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "266957"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/266957_9161e377e1a763f2_z.jpg", 
+                    "width": 406, 
+                    "height": 640, 
+                    "is_primary": "0", 
+                    "image_id": "266957"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/266957_9161e377e1a763f2_n.jpg", 
+                    "width": 203, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "266957"
+                }
+            }
+        ], 
+        "id": "18481263", 
+        "has_no_known_copyright": null, 
+        "woe:country_name": "United States", 
+        "dimensions": "80.5 x 50 cm (31 11/16 x 19 11/16 in.)", 
+        "title": "Poster, June Wayne, Cincinnati Art Museum, 1969", 
+        "provenance": "1973: acquired by Museum", 
+        "participants": [
+            {
+                "person_name": "June Claire Wayne", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "American, 1918–2011", 
+                "role_display_name": "Designed by", 
+                "person_id": "51865229", 
+                "person_url": "https://collection.cooperhewitt.org/people/51865229/"
+            }
+        ], 
+        "decade": "1960", 
+        "label_text": null, 
+        "woe:country": "23424977", 
+        "dimensions_raw": {
+            "width": [
+                "50.00", 
+                "centimeters"
+            ], 
+            "height": [
+                "80.50", 
+                "centimeters"
+            ]
+        }, 
+        "department_id": "35347493", 
+        "title_raw": "June Wayne, Cincinnati Art Museum", 
+        "justification": null, 
+        "media_id": "35407799", 
+        "description": "Poster depicts an abstract drawing of black and white design of rounded forms with patterns. Above, in red: Cincinnati Art museum; below: June Wayne. Lower left: the target ’51 [monogram]", 
+        "creditline": null, 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "1969", 
+        "url": "https://collection.cooperhewitt.org/objects/18481263/", 
+        "type": "poster", 
+        "accession_number": "1973-39-435", 
+        "year_end": 1969, 
+        "signed": null, 
+        "inscribed": null, 
+        "period_id": null, 
+        "year_acquired": "1973", 
+        "woe:country_id": "23424977"
+    }
+}

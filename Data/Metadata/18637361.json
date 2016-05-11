@@ -1,0 +1,110 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": null, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": "offset lithograph and cut pape", 
+        "tms:id": "193532", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/266869_15a036047134d9ea_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "266869"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/266869_15a036047134d9ea_b.jpg", 
+                    "width": 1024, 
+                    "height": 719, 
+                    "is_primary": "1", 
+                    "image_id": "266869"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/266869_15a036047134d9ea_d.gif", 
+                    "width": 320, 
+                    "height": 225, 
+                    "is_primary": "1", 
+                    "image_id": "266869"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/266869_15a036047134d9ea_z.jpg", 
+                    "width": 640, 
+                    "height": 449, 
+                    "is_primary": "1", 
+                    "image_id": "266869"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/266869_15a036047134d9ea_n.jpg", 
+                    "width": 320, 
+                    "height": 225, 
+                    "is_primary": "1", 
+                    "image_id": "266869"
+                }
+            }
+        ], 
+        "id": "18637361", 
+        "has_no_known_copyright": null, 
+        "woe:country_name": "United States", 
+        "dimensions": "58.4 x 83.8 cm (23 x 33 in.)", 
+        "title": "Poster, Zapf Plus, Knoll Systems", 
+        "provenance": null, 
+        "participants": [
+            {
+                "person_name": "CGC", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35352245/", 
+                "role_id": "35352245", 
+                "role_name": "Cataloguer", 
+                "person_date": "", 
+                "role_display_name": "Catalogued by", 
+                "person_id": "18048417", 
+                "person_url": "https://collection.cooperhewitt.org/people/18048417/"
+            }, 
+            {
+                "person_name": "Massimo Vignelli", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "Italian, active USA, 1931–2014", 
+                "role_display_name": "Designed by", 
+                "person_id": "18042329", 
+                "person_url": "https://collection.cooperhewitt.org/people/18042329/"
+            }
+        ], 
+        "decade": null, 
+        "label_text": null, 
+        "woe:country": "23424977", 
+        "dimensions_raw": {
+            "width": [
+                "83.80", 
+                "centimeters"
+            ], 
+            "height": [
+                "58.40", 
+                "centimeters"
+            ]
+        }, 
+        "department_id": "35347493", 
+        "title_raw": "Zapf Plus, Knoll Systems", 
+        "justification": null, 
+        "media_id": "420566251", 
+        "description": null, 
+        "creditline": "Gift of Vignelli Associates", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": null, 
+        "url": "https://collection.cooperhewitt.org/objects/18637361/", 
+        "type": "poster", 
+        "accession_number": "1991-69-80", 
+        "year_end": null, 
+        "signed": null, 
+        "inscribed": "Across center hole-punched: ZAPFPLUS; imprinted in white ink across upper recto addresses of Knoll Systems in Atlanta, Boston...Washington; at lower recto: Knoll Systems Seminar Zapf Plus & Stephens Plus Systems Task/AmbientLighting. Months, days, times imprinted along bottom, LC to LR.", 
+        "period_id": null, 
+        "year_acquired": "1991", 
+        "woe:country_id": "23424977"
+    }
+}

@@ -1,0 +1,137 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": 2010, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": "offset lithograph on paper", 
+        "tms:id": "277451", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/94792_bee4645cf557d886_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "94792"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/94792_bee4645cf557d886_b.jpg", 
+                    "width": 723, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "94792"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/94792_bee4645cf557d886_d.gif", 
+                    "width": 226, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "94792"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/94792_bee4645cf557d886_z.jpg", 
+                    "width": 452, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "94792"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/94792_bee4645cf557d886_n.jpg", 
+                    "width": 226, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "94792"
+                }
+            }, 
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/95706_f3ca307c647da04d_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "0", 
+                    "image_id": "95706"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/95706_f3ca307c647da04d_b.jpg", 
+                    "width": 723, 
+                    "height": 1024, 
+                    "is_primary": "0", 
+                    "image_id": "95706"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/95706_f3ca307c647da04d_d.gif", 
+                    "width": 226, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "95706"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/95706_f3ca307c647da04d_z.jpg", 
+                    "width": 452, 
+                    "height": 640, 
+                    "is_primary": "0", 
+                    "image_id": "95706"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/95706_f3ca307c647da04d_n.jpg", 
+                    "width": 226, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "95706"
+                }
+            }
+        ], 
+        "id": "68731031", 
+        "has_no_known_copyright": null, 
+        "woe:country_name": "Switzerland", 
+        "dimensions": "H x W: 128.1 × 89.9 cm (50 7/16 × 35 3/8 in.)", 
+        "title": "Poster, Salzhaus, 2014", 
+        "provenance": "Felix Pfäffli; August 2014: acquired new by museum", 
+        "participants": [
+            {
+                "person_name": "Felix Pfäffli", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "Swiss, born 1986", 
+                "role_display_name": "Designed by", 
+                "person_id": "68735119", 
+                "person_url": "https://collection.cooperhewitt.org/people/68735119/"
+            }
+        ], 
+        "decade": "2010", 
+        "label_text": "To design this poster for the music house Salzhaus in Winterthur, Switzerland, the designer focused on the venue’s name. The narrow, geometric letterforms allowed him to “distort, warp, and disassemble” the text. Layered over each other, the letterforms read as a vibrant, abstract composition as much as a linear rendering of a word.", 
+        "woe:country": "23424957", 
+        "dimensions_raw": {
+            "width": [
+                "128.00", 
+                "centimeters"
+            ], 
+            "height": [
+                "89.50", 
+                "centimeters"
+            ]
+        }, 
+        "department_id": "35347493", 
+        "title_raw": "Salzhaus", 
+        "justification": "Felix Pfäffli designed this poster to promote the music house Salzhaus in Winterthur, Switzerland. Salzhaus invites a different designer each month to design their program. They give no design brief, and the posters that they produce are remarkably varied. Pfäffli decided to focus on a typographic design using the venue’s name. He used a font that he had initially designed to be used for single-day workshops that he runs for his students. The fonts simplicity belies its more complex potential, for it is intended to \"distort, warp and disassemble\". Layered over each other, the letterforms read as a vibrant abstract composition as much as a linear rendering of a name.", 
+        "media_id": "35399021", 
+        "description": "February poster for the Salzhaus. Tall, multicolored letters span the height of the vertical poster. They overlap and intersect with one another, to spell \"SALZ / HAUS.\" The letters are printed on a black ground.", 
+        "creditline": "Gift of Felix Pfäffli", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "2014", 
+        "url": "https://collection.cooperhewitt.org/objects/68731031/", 
+        "type": "poster", 
+        "accession_number": "2014-30-1", 
+        "year_end": 2017, 
+        "signed": null, 
+        "inscribed": null, 
+        "period_id": null, 
+        "year_acquired": "2014", 
+        "woe:country_id": "23424957"
+    }
+}

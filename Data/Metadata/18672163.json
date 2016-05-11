@@ -1,0 +1,119 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": 1967, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": "offset lithograph", 
+        "tms:id": "211524", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/256839_d444f5410afb148a_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "256839"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/256839_d444f5410afb148a_b.jpg", 
+                    "width": 735, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "256839"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/256839_d444f5410afb148a_d.gif", 
+                    "width": 230, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "256839"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/256839_d444f5410afb148a_z.jpg", 
+                    "width": 459, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "256839"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/256839_d444f5410afb148a_n.jpg", 
+                    "width": 230, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "256839"
+                }
+            }
+        ], 
+        "id": "18672163", 
+        "has_no_known_copyright": null, 
+        "dimensions": "83.5 x 59.1 cm (32 7/8 x 23 1/4 in. )", 
+        "title": "Poster, Exhibition Poster: Sigmar Polke, Neue Bilder (New Paintings), Galerie Heiner Friedrich, Munich, 1967", 
+        "provenance": null, 
+        "participants": [
+            {
+                "person_name": "General Acquisitions Endowment", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35352247/", 
+                "role_id": "35352247", 
+                "role_name": "Fund", 
+                "person_date": "", 
+                "role_display_name": "Fund:", 
+                "person_id": "18048535", 
+                "person_url": "https://collection.cooperhewitt.org/people/18048535/"
+            }, 
+            {
+                "person_name": "Sigmar Polke", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236565/", 
+                "role_id": "35236565", 
+                "role_name": "Artist", 
+                "person_date": "German, b. 1941", 
+                "role_display_name": "", 
+                "person_id": "18051555", 
+                "person_url": "https://collection.cooperhewitt.org/people/18051555/"
+            }, 
+            {
+                "person_name": "Lawrence Markey, Inc.", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35352249/", 
+                "role_id": "35352249", 
+                "role_name": "Vendor", 
+                "person_date": "", 
+                "role_display_name": "Purchased from", 
+                "person_id": "18051405", 
+                "person_url": "https://collection.cooperhewitt.org/people/18051405/"
+            }
+        ], 
+        "decade": "1960", 
+        "label_text": null, 
+        "woe:country": null, 
+        "dimensions_raw": {
+            "width": [
+                "59.10", 
+                "centimeters"
+            ], 
+            "height": [
+                "83.50", 
+                "centimeters"
+            ]
+        }, 
+        "department_id": "35347493", 
+        "title_raw": "Exhibition Poster: Sigmar Polke, Neue Bilder (New Paintings), Galerie Heiner Friedrich, Munich", 
+        "justification": null, 
+        "media_id": "35399027", 
+        "description": "Art exhibition poster with dotted pattern in black and white: top half, mainly black dots on white; bottom half, mainly white dots on black.  At center, letters emerge out of the dotted pattern to read: Polke/Neue/Bilder (with \" Neue\" being hard to read as dot pattern \"camouflages\" into white and black areas). On verso, typed  German text about Polke's biography and exhibition record 1963-1967.", 
+        "creditline": "Museum purchase from General Acquisitions Endowment and Smithsonian Institution Collections Acquisition Program Funds", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "1967", 
+        "url": "https://collection.cooperhewitt.org/objects/18672163/", 
+        "type": "poster", 
+        "accession_number": "1999-45-21", 
+        "year_end": 1967, 
+        "signed": null, 
+        "inscribed": "Imprinted in black, top edge: \"Sigmar Polke: Neue Bilder. Galerie Heiner Friedrich, München, Maxmilianstr. 15. Dienstag bis Samstag 10 bis 19 Uhr. 4 - 23. April 1967\".\nImprinted lower center (white against black background): Druck Klien & Volbert München", 
+        "period_id": null, 
+        "year_acquired": "1999", 
+        "woe:country_id": null
+    }
+}

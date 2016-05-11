@@ -1,0 +1,157 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": 2001, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": "photo-offset lithograph on paper", 
+        "tms:id": "242016", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/65630_5aaf7995a497b549_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "65630"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/65630_5aaf7995a497b549_b.jpg", 
+                    "width": 723, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "65630"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/65630_5aaf7995a497b549_d.gif", 
+                    "width": 226, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "65630"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/65630_5aaf7995a497b549_z.jpg", 
+                    "width": 452, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "65630"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/65630_5aaf7995a497b549_n.jpg", 
+                    "width": 226, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "65630"
+                }
+            }, 
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/255099_139ef4b1737a379e_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "0", 
+                    "image_id": "255099"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/255099_139ef4b1737a379e_b.jpg", 
+                    "width": 732, 
+                    "height": 1024, 
+                    "is_primary": "0", 
+                    "image_id": "255099"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/255099_139ef4b1737a379e_d.gif", 
+                    "width": 229, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "255099"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/255099_139ef4b1737a379e_z.jpg", 
+                    "width": 457, 
+                    "height": 640, 
+                    "is_primary": "0", 
+                    "image_id": "255099"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/255099_139ef4b1737a379e_n.jpg", 
+                    "width": 229, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "255099"
+                }
+            }
+        ], 
+        "id": "18731833", 
+        "has_no_known_copyright": null, 
+        "woe:country_name": "Germany", 
+        "dimensions": "119 x 83.9 cm (46 7/8 x 33 1/16 in.)", 
+        "title": "Poster, Bayerisch Staatsoper, Siegfried, Richard Wagner, 2001", 
+        "provenance": "Sara and Marc Benda; 2009: acquired by Museum", 
+        "participants": [
+            {
+                "person_name": "Sara Benda", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35351535/", 
+                "role_id": "35351535", 
+                "role_name": "Donor", 
+                "person_date": "", 
+                "role_display_name": "Donated by", 
+                "person_id": "18063205", 
+                "person_url": "https://collection.cooperhewitt.org/people/18063205/"
+            }, 
+            {
+                "person_name": "Pierre Mendel Design Studio", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "", 
+                "role_display_name": "Designed by", 
+                "person_id": "18062795", 
+                "person_url": "https://collection.cooperhewitt.org/people/18062795/"
+            }, 
+            {
+                "person_name": "Marc Benda", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35351535/", 
+                "role_id": "35351535", 
+                "role_name": "Donor", 
+                "person_date": "", 
+                "role_display_name": "Donated by", 
+                "person_id": "18062523", 
+                "person_url": "https://collection.cooperhewitt.org/people/18062523/"
+            }
+        ], 
+        "decade": "2000", 
+        "label_text": null, 
+        "woe:country": "23424829", 
+        "dimensions_raw": {
+            "width": [
+                "83.90", 
+                "centimeters"
+            ], 
+            "height": [
+                "119.00", 
+                "centimeters"
+            ]
+        }, 
+        "department_id": "35347493", 
+        "title_raw": "Bayerisch Staatsoper, Siegfried, Richard Wagner", 
+        "justification": null, 
+        "media_id": "35433377", 
+        "description": "Top half of poster is gradient from left to right, yellow to red. Bottom half of poster is black. In center, a yellow ring. Text at right in white down side reads: \"Bayerische Staatsoper/ Siegfried/ Richard Wagner \" with additional date and time information below.", 
+        "creditline": "Gift of Sara and Marc Benda", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "2001", 
+        "url": "https://collection.cooperhewitt.org/objects/18731833/", 
+        "type": "poster", 
+        "accession_number": "2009-20-33", 
+        "year_end": 2001, 
+        "signed": null, 
+        "inscribed": null, 
+        "period_id": null, 
+        "year_acquired": "2009", 
+        "woe:country_id": "23424829"
+    }
+}

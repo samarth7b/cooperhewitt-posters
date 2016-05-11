@@ -1,0 +1,91 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": 1995, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": "offset lithograph on white wove paper", 
+        "tms:id": "199835", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/267811_f0285e1d208ecd77_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "267811"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/267811_f0285e1d208ecd77_b.jpg", 
+                    "width": 733, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "267811"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/267811_f0285e1d208ecd77_d.gif", 
+                    "width": 229, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "267811"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/267811_f0285e1d208ecd77_z.jpg", 
+                    "width": 458, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "267811"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/267811_f0285e1d208ecd77_n.jpg", 
+                    "width": 229, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "267811"
+                }
+            }
+        ], 
+        "id": "18649835", 
+        "has_no_known_copyright": null, 
+        "woe:country_name": "Japan", 
+        "dimensions": null, 
+        "title": "Poster, IFI '95 Nagoya General Assembly and Congress / 1995 / Interiors / Next Wave, 1995", 
+        "provenance": null, 
+        "participants": [
+            {
+                "person_name": "International Design Network Foundation", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35351535/", 
+                "role_id": "35351535", 
+                "role_name": "Donor", 
+                "person_date": "", 
+                "role_display_name": "Donated by", 
+                "person_id": "18053851", 
+                "person_url": "https://collection.cooperhewitt.org/people/18053851/"
+            }
+        ], 
+        "decade": "1990", 
+        "label_text": null, 
+        "woe:country": "23424856", 
+        "dimensions_raw": null, 
+        "department_id": "35347493", 
+        "title_raw": "IFI '95 Nagoya General Assembly and Congress / 1995 / Interiors / Next Wave", 
+        "justification": null, 
+        "media_id": "35431673", 
+        "description": null, 
+        "creditline": "Gift of the International Design Network Foundation", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "1995", 
+        "url": "https://collection.cooperhewitt.org/objects/18649835/", 
+        "type": "poster", 
+        "accession_number": "1995-107-5", 
+        "year_end": 1995, 
+        "signed": null, 
+        "inscribed": null, 
+        "period_id": null, 
+        "year_acquired": "1995", 
+        "woe:country_id": "23424856"
+    }
+}

@@ -1,0 +1,120 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": 1974, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": null, 
+        "tms:id": "163237", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/201375_a622018ada74a561_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "201375"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/201375_a622018ada74a561_b.jpg", 
+                    "width": 759, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "201375"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/201375_a622018ada74a561_d.gif", 
+                    "width": 237, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "201375"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/201375_a622018ada74a561_z.jpg", 
+                    "width": 474, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "201375"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/201375_a622018ada74a561_n.jpg", 
+                    "width": 237, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "201375"
+                }
+            }
+        ], 
+        "id": "18504667", 
+        "has_no_known_copyright": null, 
+        "dimensions": null, 
+        "title": "Poster, The Light Is Different in California, ca. 1979", 
+        "provenance": null, 
+        "participants": [
+            {
+                "person_name": "Pratt Institute Graphics Center", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236661/", 
+                "role_id": "35236661", 
+                "role_name": "Publisher", 
+                "person_date": "New York, New York, USA", 
+                "role_display_name": "Published by", 
+                "person_id": "18048085", 
+                "person_url": "https://collection.cooperhewitt.org/people/18048085/"
+            }, 
+            {
+                "person_name": "Scott Hyde", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236565/", 
+                "role_id": "35236565", 
+                "role_name": "Artist", 
+                "person_date": "American, born 1926", 
+                "role_display_name": "", 
+                "person_id": "18054929", 
+                "person_url": "https://collection.cooperhewitt.org/people/18054929/"
+            }, 
+            {
+                "person_name": "Scott Hyde", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35351535/", 
+                "role_id": "35351535", 
+                "role_name": "Donor", 
+                "person_date": "American, born 1926", 
+                "role_display_name": "Donated by", 
+                "person_id": "18054929", 
+                "person_url": "https://collection.cooperhewitt.org/people/18054929/"
+            }, 
+            {
+                "person_name": "Scott Hyde", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "American, born 1926", 
+                "role_display_name": "Designed by", 
+                "person_id": "18054929", 
+                "person_url": "https://collection.cooperhewitt.org/people/18054929/"
+            }
+        ], 
+        "decade": "1970", 
+        "label_text": null, 
+        "woe:country": null, 
+        "dimensions_raw": null, 
+        "department_id": "35347493", 
+        "title_raw": "The Light Is Different in California", 
+        "justification": null, 
+        "media_id": "35371135", 
+        "description": null, 
+        "creditline": "Gift of Scott Hyde", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "ca. 1979", 
+        "url": "https://collection.cooperhewitt.org/objects/18504667/", 
+        "type": "poster", 
+        "accession_number": "1980-25-1", 
+        "year_end": 1980, 
+        "signed": null, 
+        "inscribed": null, 
+        "period_id": null, 
+        "year_acquired": "1980", 
+        "woe:country_id": null
+    }
+}

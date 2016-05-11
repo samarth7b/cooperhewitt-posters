@@ -1,0 +1,100 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": 1994, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": "silkscreen", 
+        "tms:id": "208031", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/269079_836f0e957d43b215_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "269079"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/269079_836f0e957d43b215_b.jpg", 
+                    "width": 758, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "269079"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/269079_836f0e957d43b215_d.gif", 
+                    "width": 237, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "269079"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/269079_836f0e957d43b215_z.jpg", 
+                    "width": 473, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "269079"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/269079_836f0e957d43b215_n.jpg", 
+                    "width": 237, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "269079"
+                }
+            }
+        ], 
+        "id": "18665327", 
+        "has_no_known_copyright": null, 
+        "dimensions": null, 
+        "title": "Poster, \"Fuck Apath\" for Digital Mafia, 1994", 
+        "provenance": null, 
+        "participants": [
+            {
+                "person_name": "Ebon Heath", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236763/", 
+                "role_id": "35236763", 
+                "role_name": "Graphic Designer", 
+                "person_date": "", 
+                "role_display_name": "Graphic design by", 
+                "person_id": "68739149", 
+                "person_url": "https://collection.cooperhewitt.org/people/68739149/"
+            }, 
+            {
+                "person_name": "Stereotype", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35351535/", 
+                "role_id": "35351535", 
+                "role_name": "Donor", 
+                "person_date": "", 
+                "role_display_name": "Donated by", 
+                "person_id": "18051333", 
+                "person_url": "https://collection.cooperhewitt.org/people/18051333/"
+            }
+        ], 
+        "decade": "1990", 
+        "label_text": null, 
+        "woe:country": null, 
+        "dimensions_raw": null, 
+        "department_id": "35347493", 
+        "title_raw": "\"Fuck Apath\" for Digital Mafia", 
+        "justification": null, 
+        "media_id": "35423175", 
+        "description": null, 
+        "creditline": "Gift of Stereotype", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "1994", 
+        "url": "https://collection.cooperhewitt.org/objects/18665327/", 
+        "type": "poster", 
+        "accession_number": "1997-177-2", 
+        "year_end": 1994, 
+        "signed": null, 
+        "inscribed": null, 
+        "period_id": null, 
+        "year_acquired": "1997", 
+        "woe:country_id": null
+    }
+}

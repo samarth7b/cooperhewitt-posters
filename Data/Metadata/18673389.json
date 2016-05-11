@@ -1,0 +1,109 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": 1970, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": "offset lithograph on white wove paper", 
+        "tms:id": "212137", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/269605_880f3052b16757eb_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "269605"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/269605_880f3052b16757eb_b.jpg", 
+                    "width": 729, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "269605"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/269605_880f3052b16757eb_d.gif", 
+                    "width": 228, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "269605"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/269605_880f3052b16757eb_z.jpg", 
+                    "width": 455, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "269605"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/269605_880f3052b16757eb_n.jpg", 
+                    "width": 228, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "269605"
+                }
+            }
+        ], 
+        "id": "18673389", 
+        "has_no_known_copyright": null, 
+        "dimensions": "119.1 x 84.1 cm (46 7/8 x 33 1/8 in. )", 
+        "title": "Poster, Ganter Bier [Ganter Beer], 1970–80", 
+        "provenance": "From the collection of Dan Friedman", 
+        "participants": [
+            {
+                "person_name": "I.H. Druckrey & Manfried Maier", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "", 
+                "role_display_name": "Designed by", 
+                "person_id": "18053297", 
+                "person_url": "https://collection.cooperhewitt.org/people/18053297/"
+            }, 
+            {
+                "person_name": "Ken Friedman", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35351535/", 
+                "role_id": "35351535", 
+                "role_name": "Donor", 
+                "person_date": "", 
+                "role_display_name": "Donated by", 
+                "person_id": "18049807", 
+                "person_url": "https://collection.cooperhewitt.org/people/18049807/"
+            }
+        ], 
+        "decade": "1970", 
+        "label_text": null, 
+        "woe:country": null, 
+        "dimensions_raw": {
+            "width": [
+                "84.10", 
+                "centimeters"
+            ], 
+            "height": [
+                "119.10", 
+                "centimeters"
+            ]
+        }, 
+        "department_id": "35347493", 
+        "title_raw": "Ganter Bier [Ganter Beer]", 
+        "justification": null, 
+        "media_id": "35431673", 
+        "description": "Extremely large closeup of a color photographic reproduction of a glass of beer. The glass bears the Ganter logo (yellow triangle with stylized eagle's head) and fills the right side of the sheet. At left an unopened brown beer bottle with a red label. The moisture on the surfaces of the glass and bottle is prominent.", 
+        "creditline": "Gift of Ken Friedman", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "1970–80", 
+        "url": "https://collection.cooperhewitt.org/objects/18673389/", 
+        "type": "poster", 
+        "accession_number": "1997-19-186", 
+        "year_end": 1980, 
+        "signed": null, 
+        "inscribed": "Imprinted in blue lower right corner on edge: Konzeption : I.H.Druckrey/M. Maier  Photo: Max Mathys / Entwurf: Inge Druckrey  Photolitho: Wassermann AG Basel", 
+        "period_id": null, 
+        "year_acquired": "1997", 
+        "woe:country_id": null
+    }
+}

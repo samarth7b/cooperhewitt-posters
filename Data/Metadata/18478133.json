@@ -1,0 +1,147 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": null, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": "color lithograph on heavy wove paper\nsupport: white wove paper", 
+        "tms:id": "149876", 
+        "images": [
+            {
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/240561_3fc1a901e3fd9039_b.jpg", 
+                    "width": 444, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "240561"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/240561_3fc1a901e3fd9039_d.gif", 
+                    "width": 139, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "240561"
+                }, 
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/240561_3fc1a901e3fd9039_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "240561"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/240561_3fc1a901e3fd9039_n.jpg", 
+                    "width": 139, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "240561"
+                }, 
+                "x": {
+                    "url": "https://images.collection.cooperhewitt.org/240561_359acfa9154e498a_x.jpg", 
+                    "width": 1773, 
+                    "height": 4096, 
+                    "is_primary": "1", 
+                    "image_id": "240561"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/240561_3fc1a901e3fd9039_z.jpg", 
+                    "width": 277, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "240561"
+                }
+            }
+        ], 
+        "id": "18478133", 
+        "has_no_known_copyright": "1", 
+        "woe:country_name": "France", 
+        "dimensions": "Overall: 36.4 x 15.1cm (14 5/16 x 5 15/16in.)", 
+        "title": "Poster, La Dame aux Camelias, 1896", 
+        "provenance": null, 
+        "participants": [
+            {
+                "person_name": "Megan L. Smith", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35352245/", 
+                "role_id": "35352245", 
+                "role_name": "Cataloguer", 
+                "person_date": "", 
+                "role_display_name": "Catalogued by", 
+                "person_id": "18047443", 
+                "person_url": "https://collection.cooperhewitt.org/people/18047443/"
+            }, 
+            {
+                "person_name": "Julian Clarence Levi (American, 1874-1971)", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35351537/", 
+                "role_id": "35351537", 
+                "role_name": "Bequestor", 
+                "person_date": "", 
+                "role_display_name": "Bequest of", 
+                "person_id": "18056787", 
+                "person_url": "https://collection.cooperhewitt.org/people/18056787/"
+            }, 
+            {
+                "person_name": "Sarah Bernhardt", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236693/", 
+                "role_id": "35236693", 
+                "role_name": "Dedicatee", 
+                "person_date": "1844 – 1923", 
+                "role_display_name": "Dedicatee:", 
+                "person_id": "18042973", 
+                "person_url": "https://collection.cooperhewitt.org/people/18042973/"
+            }, 
+            {
+                "person_name": "F. Champenois", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236661/", 
+                "role_id": "35236661", 
+                "role_name": "Publisher", 
+                "person_date": "", 
+                "role_display_name": "Published by", 
+                "person_id": "18043029", 
+                "person_url": "https://collection.cooperhewitt.org/people/18043029/"
+            }, 
+            {
+                "person_name": "Alphonse Maria Mucha", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "Czech, 1860-1939", 
+                "role_display_name": "Designed by", 
+                "person_id": "18043027", 
+                "person_url": "https://collection.cooperhewitt.org/people/18043027/"
+            }
+        ], 
+        "decade": null, 
+        "label_text": null, 
+        "woe:country": "23424819", 
+        "dimensions_raw": {
+            "width": [
+                "15.10", 
+                "centimeters"
+            ], 
+            "height": [
+                "36.40", 
+                "centimeters"
+            ]
+        }, 
+        "department_id": "35347493", 
+        "title_raw": "La Dame aux Camelias", 
+        "justification": null, 
+        "media_id": "136266727", 
+        "description": "Reduced version of poster", 
+        "creditline": null, 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "1896", 
+        "url": "https://collection.cooperhewitt.org/objects/18478133/", 
+        "type": "poster", 
+        "accession_number": "1972-7-2", 
+        "year_end": null, 
+        "signed": null, 
+        "inscribed": null, 
+        "period_id": "35417231", 
+        "year_acquired": "1972", 
+        "woe:country_id": "23424819"
+    }
+}

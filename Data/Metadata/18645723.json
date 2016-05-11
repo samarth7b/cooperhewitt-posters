@@ -1,0 +1,140 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": 1991, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": "screenprint on white heavy paper", 
+        "tms:id": "197765", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/223890_20586e47848a5c20_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "0", 
+                    "image_id": "223890"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/223890_20586e47848a5c20_b.jpg", 
+                    "width": 1024, 
+                    "height": 788, 
+                    "is_primary": "0", 
+                    "image_id": "223890"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/223890_20586e47848a5c20_d.gif", 
+                    "width": 320, 
+                    "height": 246, 
+                    "is_primary": "0", 
+                    "image_id": "223890"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/223890_20586e47848a5c20_z.jpg", 
+                    "width": 640, 
+                    "height": 493, 
+                    "is_primary": "0", 
+                    "image_id": "223890"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/223890_20586e47848a5c20_n.jpg", 
+                    "width": 320, 
+                    "height": 246, 
+                    "is_primary": "0", 
+                    "image_id": "223890"
+                }
+            }
+        ], 
+        "id": "18645723", 
+        "has_no_known_copyright": null, 
+        "woe:country_name": "United States", 
+        "dimensions": "50.9 × 66.7 cm (20 1/16 × 26 1/4 in.)", 
+        "title": "Poster (USA), 1991", 
+        "provenance": "Steven Heller and Karrie Jacobs; 1993: acquired by Museum", 
+        "participants": [
+            {
+                "person_name": "Karrie Jacobs", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35351535/", 
+                "role_id": "35351535", 
+                "role_name": "Donor", 
+                "person_date": "", 
+                "role_display_name": "Donated by", 
+                "person_id": "18056647", 
+                "person_url": "https://collection.cooperhewitt.org/people/18056647/"
+            }, 
+            {
+                "person_name": "Steven Heller", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35351535/", 
+                "role_id": "35351535", 
+                "role_name": "Donor", 
+                "person_date": "American, b. 1950", 
+                "role_display_name": "Donated by", 
+                "person_id": "18041397", 
+                "person_url": "https://collection.cooperhewitt.org/people/18041397/"
+            }, 
+            {
+                "person_name": "Megan L. Smith", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35352245/", 
+                "role_id": "35352245", 
+                "role_name": "Cataloguer", 
+                "person_date": "", 
+                "role_display_name": "Catalogued by", 
+                "person_id": "18047443", 
+                "person_url": "https://collection.cooperhewitt.org/people/18047443/"
+            }, 
+            {
+                "person_name": "LSA", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35352245/", 
+                "role_id": "35352245", 
+                "role_name": "Cataloguer", 
+                "person_date": "", 
+                "role_display_name": "Catalogued by", 
+                "person_id": "18048737", 
+                "person_url": "https://collection.cooperhewitt.org/people/18048737/"
+            }, 
+            {
+                "person_name": "Kastonie", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236655/", 
+                "role_id": "35236655", 
+                "role_name": "Designer", 
+                "person_date": "", 
+                "role_display_name": "Designed by", 
+                "person_id": "18043177", 
+                "person_url": "https://collection.cooperhewitt.org/people/18043177/"
+            }
+        ], 
+        "decade": "1990", 
+        "label_text": null, 
+        "woe:country": "23424977", 
+        "dimensions_raw": {
+            "width": [
+                "66.70", 
+                "centimeters"
+            ], 
+            "height": [
+                "50.90", 
+                "centimeters"
+            ]
+        }, 
+        "department_id": "35347493", 
+        "title_raw": null, 
+        "justification": null, 
+        "media_id": "68266457", 
+        "description": "Print of American flag; stars behind window, Coke cans for stripes Note: Artist's Proof 32/47", 
+        "creditline": "Gift of Steven Heller and Karrie Jacobs", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "1991", 
+        "url": "https://collection.cooperhewitt.org/objects/18645723/", 
+        "type": "poster", 
+        "accession_number": "1993-53-52", 
+        "year_end": 1991, 
+        "signed": null, 
+        "inscribed": "Inscribed and signed in graphite at LC: \"A.P. 32/47/silkscreen print/ -stars and cans-/Kastonie @91\"", 
+        "period_id": null, 
+        "year_acquired": "1993", 
+        "woe:country_id": "23424977"
+    }
+}

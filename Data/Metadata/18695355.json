@@ -1,0 +1,204 @@
+{
+    "stat": "ok", 
+    "object": {
+        "gallery_text": null, 
+        "year_start": 1987, 
+        "videos": null, 
+        "type_id": "35238163", 
+        "medium": "offset lithograph on paper", 
+        "tms:id": "223244", 
+        "images": [
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/38530_729947d3ca85a789_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "1", 
+                    "image_id": "38530"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/38530_729947d3ca85a789_b.jpg", 
+                    "width": 406, 
+                    "height": 1024, 
+                    "is_primary": "1", 
+                    "image_id": "38530"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/38530_729947d3ca85a789_d.gif", 
+                    "width": 127, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "38530"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/38530_729947d3ca85a789_z.jpg", 
+                    "width": 254, 
+                    "height": 640, 
+                    "is_primary": "1", 
+                    "image_id": "38530"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/38530_729947d3ca85a789_n.jpg", 
+                    "width": 127, 
+                    "height": 320, 
+                    "is_primary": "1", 
+                    "image_id": "38530"
+                }
+            }, 
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/256896_3a9e84f2a4895217_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "0", 
+                    "image_id": "256896"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/256896_3a9e84f2a4895217_b.jpg", 
+                    "width": 348, 
+                    "height": 1024, 
+                    "is_primary": "0", 
+                    "image_id": "256896"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/256896_3a9e84f2a4895217_d.gif", 
+                    "width": 109, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "256896"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/256896_3a9e84f2a4895217_z.jpg", 
+                    "width": 217, 
+                    "height": 640, 
+                    "is_primary": "0", 
+                    "image_id": "256896"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/256896_3a9e84f2a4895217_n.jpg", 
+                    "width": 109, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "256896"
+                }
+            }, 
+            {
+                "sq": {
+                    "url": "https://images.collection.cooperhewitt.org/15248_275f07e8f16e1c28_sq.jpg", 
+                    "width": 300, 
+                    "height": 300, 
+                    "is_primary": "0", 
+                    "image_id": "15248"
+                }, 
+                "b": {
+                    "url": "https://images.collection.cooperhewitt.org/15248_275f07e8f16e1c28_b.jpg", 
+                    "width": 340, 
+                    "height": 1024, 
+                    "is_primary": "0", 
+                    "image_id": "15248"
+                }, 
+                "d": {
+                    "url": "https://images.collection.cooperhewitt.org/15248_275f07e8f16e1c28_d.gif", 
+                    "width": 106, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "15248"
+                }, 
+                "z": {
+                    "url": "https://images.collection.cooperhewitt.org/15248_275f07e8f16e1c28_z.jpg", 
+                    "width": 212, 
+                    "height": 640, 
+                    "is_primary": "0", 
+                    "image_id": "15248"
+                }, 
+                "n": {
+                    "url": "https://images.collection.cooperhewitt.org/15248_275f07e8f16e1c28_n.jpg", 
+                    "width": 106, 
+                    "height": 320, 
+                    "is_primary": "0", 
+                    "image_id": "15248"
+                }
+            }
+        ], 
+        "id": "18695355", 
+        "has_no_known_copyright": null, 
+        "woe:country_name": "United States", 
+        "dimensions": "99.1 x 34.9 cm (39 x 13 3/4 in. )", 
+        "title": "Poster, IBM Rebus, ca. 1992", 
+        "provenance": "Marion S. Rand; 2002: acquired by Museum", 
+        "participants": [
+            {
+                "person_name": "Karin Zonis", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35352245/", 
+                "role_id": "35352245", 
+                "role_name": "Cataloguer", 
+                "person_date": "", 
+                "role_display_name": "Catalogued by", 
+                "person_id": "51676457", 
+                "person_url": "https://collection.cooperhewitt.org/people/51676457/"
+            }, 
+            {
+                "person_name": "Dr. Gail Davidson", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35352245/", 
+                "role_id": "35352245", 
+                "role_name": "Cataloguer", 
+                "person_date": "", 
+                "role_display_name": "Catalogued by", 
+                "person_id": "18048255", 
+                "person_url": "https://collection.cooperhewitt.org/people/18048255/"
+            }, 
+            {
+                "person_name": "Marion S. Rand", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35351535/", 
+                "role_id": "35351535", 
+                "role_name": "Donor", 
+                "person_date": "", 
+                "role_display_name": "Donated by", 
+                "person_id": "18538789", 
+                "person_url": "https://collection.cooperhewitt.org/people/18538789/"
+            }, 
+            {
+                "person_name": "Paul Rand", 
+                "role_url": "https://collection.cooperhewitt.org/roles/35236763/", 
+                "role_id": "35236763", 
+                "role_name": "Graphic Designer", 
+                "person_date": "American, 1914–1996", 
+                "role_display_name": "Graphic design by", 
+                "person_id": "18042341", 
+                "person_url": "https://collection.cooperhewitt.org/people/18042341/"
+            }
+        ], 
+        "decade": "1980", 
+        "label_text": null, 
+        "woe:country": "23424977", 
+        "dimensions_raw": {
+            "width": [
+                "34.90", 
+                "centimeters"
+            ], 
+            "height": [
+                "99.10", 
+                "centimeters"
+            ]
+        }, 
+        "department_id": "35347493", 
+        "title_raw": "IBM Rebus", 
+        "justification": null, 
+        "media_id": "35399021", 
+        "description": "Sheet divided horizontally into three equal sections.  In upper section, on green ground, an eye with blue iris and white eyebrow; below, on a yellow ground, a white bee with black stripes; below this, on blue ground, an \"M\" in horizontal white stripes.", 
+        "creditline": "Gift of Marion S. Rand", 
+        "on_display": null, 
+        "markings": null, 
+        "is_loan_object": 0, 
+        "date": "ca. 1992", 
+        "url": "https://collection.cooperhewitt.org/objects/18695355/", 
+        "type": "poster", 
+        "accession_number": "2002-11-26", 
+        "year_end": 1997, 
+        "signed": "Signed [imprinted] in black, upper right of blue segment:  Paul Rand", 
+        "inscribed": "Imprinted in black in Japanese characters, lower left", 
+        "period_id": null, 
+        "year_acquired": "2002", 
+        "woe:country_id": "23424977"
+    }
+}
