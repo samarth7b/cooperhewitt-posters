@@ -63,7 +63,7 @@ body { font-family: sans-serif; }
 <script src="/Scripts/masonry.pkgd.min.js"></script>
 <script src="/Scripts/isotope.pkgd.min.js"></script>
 <script src="/Scripts/list.min.js"></script>
-<script src="https://npmcdn.com/imagesloaded@4.1/imagesloaded.pkgd.min.js"></script>
+<script src="https://unpkg.com/imagesloaded@4.1/imagesloaded.pkgd.min.js"></script>
 
 <link rel="stylesheet" href="/fancybox/source/jquery.fancybox.css?v=2.1.5" type="text/css" media="screen" />
 <script type="text/javascript" src="/fancybox/source/jquery.fancybox.pack.js?v=2.1.5"></script>
